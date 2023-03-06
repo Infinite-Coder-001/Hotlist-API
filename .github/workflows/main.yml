@@ -13,16 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-python@v4
         with:
-          node-version: '16'
-      - name: Run script
-        run: node "$(pwd)/update.js"
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Automated Change
-          push_options: '--force'
-      - uses: gacts/purge-jsdelivr-cache@v1
-        with:
-          url: |
-            https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
+          python-version: '3.10' 
+      - run: python my_script.py
