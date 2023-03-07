@@ -14,7 +14,7 @@ programs = "["
 options = webdriver.ChromeOptions() 
 options.add_argument("start-maximized")
 options.add_argument('disable-infobars')
-browser = webdriver.Chrome(ChromeDriverManager().install(), chrome_options = options)
+browser = webdriver.Chrome("chromedriver", chrome_options = options)
 
 # Connecting to Khan Academy hotlist
 browser.get('https://www.khanacademy.org/computing/computer-programming/browse')
