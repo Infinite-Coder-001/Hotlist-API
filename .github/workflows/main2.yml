@@ -26,6 +26,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content
@@ -43,3 +45,8 @@ jobs:
 
       - name: execute py script # run main.py
         run: python update.py
+        
+      - uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
