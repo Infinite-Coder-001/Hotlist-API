@@ -14,6 +14,7 @@ programs = "["
 options = webdriver.ChromeOptions() 
 options.add_argument("start-maximized")
 options.add_argument('disable-infobars')
+options.add_argument("--headless")
 browser = webdriver.Chrome("chromedriver", chrome_options = options)
 
 # Connecting to Khan Academy hotlist
