@@ -1,4 +1,4 @@
-function HotlistAPI() {
+var HotlistAPI = function() {
   return [
     {
       title: 'cloud interesting effects', 
@@ -59,8 +59,8 @@ function HotlistAPI() {
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
-      votes: 30, 
-      forks: 16, 
+      votes: 31, 
+      forks: 17, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5709628317155328.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
@@ -205,7 +205,7 @@ function HotlistAPI() {
       author: 'Blake Meloche [Online]', 
       votes: 20, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5358437661982720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5976150231007232.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
