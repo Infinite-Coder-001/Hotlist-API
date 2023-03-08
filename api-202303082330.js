@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 34, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 47, 
+      votes: 48, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -35,7 +35,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 71, 
+      votes: 72, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
@@ -137,6 +137,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
+      title: 'DVD screensaver', 
+      author: 'Ducky Momo', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
+    }, 
+    {
       title: 'Flashlight guy', 
       author: 'Viper', 
       votes: 12, 
@@ -167,14 +175,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
       link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
-    }, 
-    {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
     }, 
     {
       title: 'Deja-vu: part 10, Bad Company', 
