@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,34 +19,42 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 44, 
-      forks: 4, 
+      votes: 46, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
     }, 
     {
-      title: 'cloud interesting effects', 
-      author: 'Prisha B.', 
-      votes: 70, 
-      forks: 13, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
-    }, 
-    {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5331650353610752.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
     }, 
     {
+      title: 'cloud interesting effects', 
+      author: 'Prisha B.', 
+      votes: 71, 
+      forks: 13, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
+    }, 
+    {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 49, 
+      votes: 50, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
+    }, 
+    {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -55,14 +63,6 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'African Painted (Wild) Dog PIXEL', 
@@ -217,20 +217,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
     }, 
     {
+      title: 'Let Him Cool Down...', 
+      author: 'The Tech Guy ', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
+    }, 
+    {
       title: 'Expansion Studios', 
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6012115494420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
-    }, 
-    {
-      title: 'Let Him Cool Down...', 
-      author: 'The Tech Guy ', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
     }, 
     {
       title: 'Cat- Pixel Art', 
