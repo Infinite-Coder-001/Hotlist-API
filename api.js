@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 35, 
+      votes: 38, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
@@ -19,9 +19,9 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 36, 
+      votes: 37, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/4749441901051904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5761532606857216.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
     }, 
     {
@@ -35,7 +35,7 @@ var HotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 37, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
@@ -213,7 +213,7 @@ var HotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 22, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6701248617431040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6426589288251392.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
