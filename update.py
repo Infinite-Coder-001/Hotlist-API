@@ -32,8 +32,8 @@ while i < 31:
 programs += "\n  ];"
 programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii", errors="ignore").decode() + "\n};"
 
-# Removing the old file, if exists
-fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 30)).strftime('%Y%m%d%H%M')
+# Removing the oldest file, if exists
+fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 60)).strftime('%Y%m%d%H%M')
 fullOldDateSplited = list(fullOldDate)
 oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + str(int(fullOldDateSplited[10]) // 3) + "0.js"
 try:
