@@ -29,37 +29,31 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: checkout repo content
+      - name: Checkout repository content
         uses: actions/checkout@v2 # checkout the repository content
-        
-      - run: |
-          date > api.js
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "api"
-          git push
 
-      - name: setup python
+      - name: Setup python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10' # install the python version needed
 
-      - name: install python packages
+      - name: Install python packages
         run: |
           python -m pip install --upgrade pip
           pip install selenium
           pip install webdriver_manager
 
-      - name: execute py script # run main.py
+      - name: Execute python script # run main.py
         run: python update.py
         
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Using auto-commit library
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated Change
           push_options: '--force'
         
-      - uses: gacts/purge-jsdelivr-cache@v1
+      - name: Purging jsdelivr's cache
+        uses: gacts/purge-jsdelivr-cache@v1
         with:
           url: |
             https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
