@@ -11,7 +11,7 @@ function HotlistAPI() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 21, 
+      votes: 22, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5435767877058560.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -19,7 +19,7 @@ function HotlistAPI() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 14, 
+      votes: 16, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
@@ -37,7 +37,7 @@ function HotlistAPI() {
       author: 'LightningCoder', 
       votes: 98, 
       forks: 11, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/6088134284853248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/6347662867873792.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
     }, 
     {
@@ -69,7 +69,7 @@ function HotlistAPI() {
       author: 'Undertale Studios', 
       votes: 22, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6056704221691904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/4854764536119296.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
@@ -77,7 +77,7 @@ function HotlistAPI() {
       author: 'Fire Wolf', 
       votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/6538234022903808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
@@ -87,6 +87,14 @@ function HotlistAPI() {
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
+    }, 
+    {
+      title: 'my fastest sanest metaballs. [kinda legal?]', 
+      author: 'YokieBob', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/5741960575107072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
       title: 'Hemi', 
@@ -129,14 +137,6 @@ function HotlistAPI() {
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
-      title: 'my fastest sanest metaballs. [kinda legal?]', 
-      author: 'YokieBob', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/5741960575107072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
-    }, 
-    {
       title: 'Derivao de "Projeto: estrela cadente"', 
       author: 'ana-lauramunhoz', 
       votes: 17, 
@@ -149,7 +149,7 @@ function HotlistAPI() {
       author: 'Viper', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4516085439447040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/5416651564826624.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
@@ -203,9 +203,9 @@ function HotlistAPI() {
     {
       title: 'Expansion Studios', 
       author: 'Blake Meloche [Online]', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/4643877124620288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5358437661982720.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
@@ -213,7 +213,7 @@ function HotlistAPI() {
       author: 'CodingChamp01', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192/5860248420401152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192/6508667702919168.png', 
       link: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192'
     }, 
     {
