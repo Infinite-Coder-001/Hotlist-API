@@ -17,6 +17,14 @@ function HotlistAPI() {
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
     }, 
     {
+      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
+      author: 'CylenceScythe', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 49, 
@@ -31,14 +39,6 @@ function HotlistAPI() {
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/6088134284853248.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
-    }, 
-    {
-      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
-      author: 'CylenceScythe', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -213,7 +213,7 @@ function HotlistAPI() {
       author: 'CodingChamp01', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192/6315071364186112.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192/5860248420401152.png', 
       link: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192'
     }, 
     {
