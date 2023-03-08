@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 43, 
+      votes: 44, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5880111872393216.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -27,26 +27,26 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 69, 
+      votes: 70, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
     }, 
     {
-      title: 'Duolingo! [No PJS]', 
-      author: 'Fire Wolf', 
-      votes: 47, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
-    }, 
-    {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 14, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5331650353610752.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
+    }, 
+    {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 49, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -65,6 +65,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
     }, 
     {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 53, 
@@ -79,14 +87,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
@@ -116,7 +116,7 @@ var HotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 36, 
-      forks: 27, 
+      forks: 28, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
@@ -153,6 +153,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
     }, 
     {
+      title: 'Derivao de "Projeto: estrela cadente"', 
+      author: 'ana-lauramunhoz', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
+    }, 
+    {
       title: 'Hemi', 
       author: 'KarLlr', 
       votes: 54, 
@@ -167,14 +175,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
-    }, 
-    {
-      title: 'Derivao de "Projeto: estrela cadente"', 
-      author: 'ana-lauramunhoz', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
     }, 
     {
       title: 'Deja-vu: part 10, Bad Company', 
@@ -211,7 +211,7 @@ var HotlistAPI = function() {
     {
       title: 'my 1st platformer :D', 
       author: '187817', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
