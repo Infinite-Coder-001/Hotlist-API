@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 23, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -197,7 +197,7 @@ var HotlistAPI = function() {
       author: 'Jed2009', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5433107866238976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5783483165491200.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
