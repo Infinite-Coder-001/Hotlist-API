@@ -3,31 +3,31 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 62, 
+      votes: 63, 
       forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
     }, 
     {
-      title: 'Into the Clouds [3D Game]', 
-      author: 'Dipper98', 
-      votes: 22, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5435767877058560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
-    }, 
-    {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 16, 
+      votes: 18, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
     }, 
     {
+      title: 'Into the Clouds [3D Game]', 
+      author: 'Dipper98', 
+      votes: 23, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5435767877058560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
-      votes: 49, 
+      votes: 51, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408'
@@ -49,6 +49,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608'
     }, 
     {
+      title: 'Skinamarink', 
+      author: 'soap.', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
+    }, 
+    {
       title: 'Can you guess the number?', 
       author: 'Animation Guy', 
       votes: 14, 
@@ -65,6 +73,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
     {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 24, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
+    }, 
+    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
       votes: 22, 
@@ -73,28 +89,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
-      title: 'Duolingo! [No PJS]', 
-      author: 'Fire Wolf', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
-    }, 
-    {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/5741960575107072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/6128675957555200.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
-    }, 
-    {
-      title: 'Skinamarink', 
-      author: 'soap.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
     }, 
     {
       title: 'Natureopolis', 
@@ -132,7 +132,7 @@ var HotlistAPI = function() {
       title: 'Flashlight guy', 
       author: 'Viper', 
       votes: 9, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/5416651564826624.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
@@ -169,6 +169,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
     }, 
     {
+      title: 'Expansion Studios', 
+      author: 'Blake Meloche (T1)[Online]', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5976150231007232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
+    }, 
+    {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
       votes: 8, 
@@ -201,19 +209,11 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
     }, 
     {
-      title: 'Expansion Studios', 
-      author: 'Blake Meloche (T1)[Online]', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5976150231007232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
-    }, 
-    {
       title: 'looks like water :p', 
       author: 'LightningCoder', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/4685959969161216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/4619866411941888.png', 
       link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
     }, 
     {
