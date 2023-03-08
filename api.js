@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 18, 
+      votes: 20, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
@@ -69,7 +69,7 @@ var HotlistAPI = function() {
       author: 'MaXX', 
       votes: 31, 
       forks: 17, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5709628317155328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5739710498783232.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
     {
@@ -115,7 +115,7 @@ var HotlistAPI = function() {
     {
       title: 'KA Notifications Chrome Extension', 
       author: 'Polar', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472/6428995342352384.png', 
       link: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472'
@@ -147,7 +147,7 @@ var HotlistAPI = function() {
     {
       title: 'Derivao de "Projeto: estrela cadente"', 
       author: 'ana-lauramunhoz', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
@@ -169,11 +169,19 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
     }, 
     {
+      title: 'looks like water :p', 
+      author: 'LightningCoder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/4619866411941888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
+    }, 
+    {
       title: 'Expansion Studios', 
       author: 'Blake Meloche (T1)[Online]', 
       votes: 21, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5976150231007232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6708609402847232.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
@@ -207,14 +215,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
       link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
-    }, 
-    {
-      title: 'looks like water :p', 
-      author: 'LightningCoder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/4619866411941888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
     }, 
     {
       title: 'Flowey WIP', 
