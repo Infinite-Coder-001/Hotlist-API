@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 26, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -73,6 +73,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
     }, 
     {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
+    }, 
+    {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
       votes: 100, 
@@ -95,14 +103,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'Secret Blocks', 
@@ -137,12 +137,28 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
     }, 
     {
+      title: 'DVD screensaver', 
+      author: 'Ducky Momo', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
+    }, 
+    {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
       votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/6193062651150336.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
+    }, 
+    {
+      title: 'Hemi', 
+      author: 'KarLlr', 
+      votes: 52, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
     }, 
     {
       title: 'Isometric Tilemap template', 
@@ -153,20 +169,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
     }, 
     {
-      title: 'Hemi', 
-      author: 'KarLlr', 
-      votes: 51, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
-    }, 
-    {
       title: 'Derivao de "Projeto: estrela cadente"', 
       author: 'ana-lauramunhoz', 
       votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
+    }, 
+    {
+      title: 'Deja-vu: part 10, Bad Company', 
+      author: 'Cookies \'n Scream', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
       title: 'KA Notifications Chrome Extension', 
@@ -177,14 +193,6 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472'
     }, 
     {
-      title: 'Deja-vu: part 10, Bad Company', 
-      author: 'Cookies \'n Scream', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
-    }, 
-    {
       title: 'Polygon Collider', 
       author: 'Polar', 
       votes: 31, 
@@ -193,17 +201,9 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
     }, 
     {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
-    }, 
-    {
       title: 'my 1st platformer :D', 
       author: '187817', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
@@ -217,6 +217,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
+      title: 'Let Him Cool Down...', 
+      author: 'The Tech Guy ', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
+    }, 
+    {
       title: 'Cat- Pixel Art', 
       author: 'Blue Snow ', 
       votes: 26, 
@@ -227,18 +235,10 @@ var HotlistAPI = function() {
     {
       title: 'Adventures of Cubio 3D', 
       author: 'Cataclysmic Code ', 
-      votes: 83, 
+      votes: 84, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600/5226776311939072.png', 
       link: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600'
-    }, 
-    {
-      title: 'Let Him Cool Down...', 
-      author: 'The Tech Guy ', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
     }, 
   ];
 };
