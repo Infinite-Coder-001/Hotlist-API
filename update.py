@@ -36,6 +36,6 @@ openedFile.write(programs);
 openedFile.close();
 
 # Refreshing jsdelivr cache
-browser.get('https://purge.jsdelivr.net/npm/Hotlist-API@main/foo/bar)
+browser.get('https://purge.jsdelivr.net/npm/Hotlist-API@main/foo/bar')
 
 # That's all! Sucessfully updated. 
