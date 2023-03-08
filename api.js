@@ -241,4 +241,4 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/night-platformer-wcc/6293731332636672'
     }, 
   ];
-}
+};
