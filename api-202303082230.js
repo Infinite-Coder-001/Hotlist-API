@@ -20,7 +20,7 @@ var HotlistAPI = function() {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
       votes: 46, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
     }, 
@@ -51,7 +51,7 @@ var HotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
@@ -59,7 +59,7 @@ var HotlistAPI = function() {
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
@@ -91,7 +91,7 @@ var HotlistAPI = function() {
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
-      votes: 101, 
+      votes: 102, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
@@ -147,7 +147,7 @@ var HotlistAPI = function() {
     {
       title: 'Natureopolis', 
       author: 'CoraL', 
-      votes: 50, 
+      votes: 51, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
