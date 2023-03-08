@@ -2,6 +2,8 @@
 # It updates the 'api.js' file
 
 # Importing the libraries
+import os
+import datetime
 from time import sleep
 from random import randint
 from selenium import webdriver
@@ -30,12 +32,22 @@ while i < 31:
 programs += "\n  ];"
 programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii", errors="ignore").decode() + "\n};"
 
-# Writing the file
-openedFile = open("api.js", "w");
+# Removing the old file, if exists
+fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 30)).strftime('%Y%m%d%H%M')
+fullOldDateSplited = list(fullOldDate)
+oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + str(int(fullOldDateSplited[10]) // 3) + "0.js"
+try:
+    os.remove(oldFileName)
+except:
+    pass
+
+# Creating the new file
+fullNewDate = datetime.datetime.utcnow().strftime('%Y%m%d%H%M')
+fullNewDateSplited = list(fullNewDate)
+newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 2) + "0.js"
+
+openedFile = open(newFileName, "w");
 openedFile.write(programs);
 openedFile.close();
-
-# Refreshing jsdelivr cache
-browser.get('https://purge.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js')
 
 # That's all! Sucessfully updated. 
