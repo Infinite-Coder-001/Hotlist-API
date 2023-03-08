@@ -1,4 +1,4 @@
-# This script is evaluated each 5 minutes. 
+# This script is evaluated every 5 minutes. 
 # It updates the 'api.js' file
 
 # Importing the libraries
