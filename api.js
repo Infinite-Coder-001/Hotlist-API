@@ -28,7 +28,7 @@ var HotlistAPI = function() {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 67, 
-      forks: 13, 
+      forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
     }, 
@@ -41,20 +41,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
+      title: 'speedyWater', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5745947244281856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 52, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408'
-    }, 
-    {
-      title: 'speedyWater', 
-      author: 'LightningCoder', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5324617545990144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -65,20 +65,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
+      title: 'Can you guess the number?', 
+      author: 'Animation Guy', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
+    }, 
+    {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
       votes: 100, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
-    }, 
-    {
-      title: 'Can you guess the number?', 
-      author: 'Animation Guy', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -99,7 +99,7 @@ var HotlistAPI = function() {
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
-      votes: 34, 
+      votes: 35, 
       forks: 25, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
@@ -109,7 +109,7 @@ var HotlistAPI = function() {
       author: 'Viper', 
       votes: 12, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/6072460607012864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/5185715216629760.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
@@ -137,20 +137,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
     }, 
     {
+      title: 'Hemi', 
+      author: 'KarLlr', 
+      votes: 51, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
+    }, 
+    {
       title: 'Derivao de "Projeto: estrela cadente"', 
       author: 'ana-lauramunhoz', 
       votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
-    }, 
-    {
-      title: 'Hemi', 
-      author: 'KarLlr', 
-      votes: 50, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
     }, 
     {
       title: 'KA Notifications Chrome Extension', 
@@ -213,7 +213,7 @@ var HotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 22, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6426589288251392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6012115494420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
