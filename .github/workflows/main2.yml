@@ -50,10 +50,10 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated Change
-          push_options: '--force'
-        
-      - name: Purging jsdelivr's cache
-        uses: gacts/purge-jsdelivr-cache@v1
-        with:
-          url: |
-            https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
+#          push_options: '--force'
+#        
+#      - name: Purging jsdelivr's cache
+#        uses: gacts/purge-jsdelivr-cache@v1
+#        with:
+#          url: |
+#            https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
