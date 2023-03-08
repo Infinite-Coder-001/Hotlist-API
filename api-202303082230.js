@@ -53,7 +53,7 @@ var HotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 23, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
@@ -193,6 +193,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
     }, 
     {
+      title: 'my 1st platformer :D', 
+      author: '187817', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
+    }, 
+    {
       title: 'KA Notifications Chrome Extension', 
       author: 'Polar', 
       votes: 23, 
@@ -207,14 +215,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696/4936959271419904.png', 
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
-    }, 
-    {
-      title: 'my 1st platformer :D', 
-      author: '187817', 
-      votes: 25, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
     }, 
     {
       title: 'Let Him Cool Down...', 
