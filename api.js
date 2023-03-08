@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 25, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -27,7 +27,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 65, 
+      votes: 67, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
@@ -53,7 +53,7 @@ var HotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5456558941323264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5324617545990144.png', 
       link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
     }, 
     {
@@ -91,7 +91,7 @@ var HotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 15, 
+      votes: 16, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
@@ -169,6 +169,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5930638857519104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
+    }, 
+    {
       title: 'Polygon Collider', 
       author: 'Polar', 
       votes: 31, 
@@ -191,14 +199,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024/4529368380784640.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
-    }, 
-    {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5783483165491200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'my 1st platformer :D', 
