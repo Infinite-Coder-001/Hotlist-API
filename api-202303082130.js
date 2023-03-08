@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 30, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 40, 
+      votes: 43, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5880111872393216.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -27,7 +27,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 68, 
+      votes: 69, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
@@ -35,18 +35,18 @@ var HotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 43, 
+      votes: 47, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
-      title: 'speedyWater', 
+      title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/4894910581096448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5331650353610752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -57,6 +57,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
+      title: 'African Painted (Wild) Dog PIXEL', 
+      author: 'PenGwen', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 53, 
@@ -65,20 +73,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408'
     }, 
     {
-      title: 'African Painted (Wild) Dog PIXEL', 
-      author: 'PenGwen', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
-    }, 
-    {
       title: 'Can you guess the number?', 
       author: 'Animation Guy', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
+    }, 
+    {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
@@ -87,14 +95,6 @@ var HotlistAPI = function() {
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6015092766588928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -116,14 +116,14 @@ var HotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 36, 
-      forks: 26, 
+      forks: 27, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
     {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
-      votes: 24, 
+      votes: 25, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6667387435008000.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
@@ -135,6 +135,14 @@ var HotlistAPI = function() {
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4522220783452160.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/6094255502442496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'Natureopolis', 
@@ -169,12 +177,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
     }, 
     {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 10, 
+      title: 'Deja-vu: part 10, Bad Company', 
+      author: 'Cookies \'n Scream', 
+      votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/6193062651150336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
       title: 'Isometric Tilemap template', 
@@ -183,14 +191,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024/4529368380784640.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
-    }, 
-    {
-      title: 'Deja-vu: part 10, Bad Company', 
-      author: 'Cookies \'n Scream', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
       title: 'KA Notifications Chrome Extension', 
@@ -219,7 +219,7 @@ var HotlistAPI = function() {
     {
       title: 'Expansion Studios', 
       author: 'Blake Meloche (T1)[Offline]', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6012115494420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
@@ -227,7 +227,7 @@ var HotlistAPI = function() {
     {
       title: 'Let Him Cool Down...', 
       author: 'The Tech Guy ', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568/5597504349716480.png', 
       link: 'https://www.khanacademy.org/computer-programming/let-him-cool-down/6175168525549568'
