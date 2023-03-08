@@ -3,6 +3,7 @@
 
 # Importing the libraries
 from time import sleep
+from random import randint
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
@@ -33,5 +34,8 @@ programs = "function HotlistAPI() {\n  return " + programs.encode("ascii", error
 openedFile = open("api.js", "w");
 openedFile.write(programs);
 openedFile.close();
+
+# Refreshing jsdelivr cache
+browser.get('https://purge.jsdelivr.net/npm/Hotlist-API@main/foo/bar' + str(randint(0, 99999999999999999999)))
 
 # That's all! Sucessfully updated. 
