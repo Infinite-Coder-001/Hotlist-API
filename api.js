@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 35, 
+      votes: 36, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/4749441901051904.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -60,7 +60,7 @@ var HotlistAPI = function() {
       title: 'Can you guess the number?', 
       author: 'Animation Guy', 
       votes: 16, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
     }, 
@@ -85,8 +85,16 @@ var HotlistAPI = function() {
       author: 'MaXX', 
       votes: 32, 
       forks: 24, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5898819843964928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
+    }, 
+    {
+      title: 'looks like water :p', 
+      author: 'LightningCoder', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/5956887063609344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -105,17 +113,9 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
-      title: 'looks like water :p', 
-      author: 'LightningCoder', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/5956887063609344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
-    }, 
-    {
       title: 'Natureopolis', 
       author: 'CoraL', 
-      votes: 48, 
+      votes: 49, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
@@ -197,7 +197,7 @@ var HotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 22, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5236127982469120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5450549795536896.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
     }, 
     {
