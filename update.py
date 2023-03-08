@@ -44,7 +44,7 @@ except:
 # Creating the new file
 fullNewDate = datetime.datetime.utcnow().strftime('%Y%m%d%H%M')
 fullNewDateSplited = list(fullNewDate)
-newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 2) + "0.js"
+newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 3) + "0.js"
 
 openedFile = open(newFileName, "w");
 openedFile.write(programs);
