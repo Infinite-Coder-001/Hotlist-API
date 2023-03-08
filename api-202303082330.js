@@ -27,7 +27,7 @@ var HotlistAPI = function() {
     {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5215050753425408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
