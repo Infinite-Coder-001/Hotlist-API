@@ -3,10 +3,18 @@ var HotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 33, 
+      votes: 35, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
+    }, 
+    {
+      title: 'Skinamarink', 
+      author: 'soap.', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
     }, 
     {
       title: 'Into the Clouds [3D Game]', 
@@ -15,14 +23,6 @@ var HotlistAPI = function() {
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/4749441901051904.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
-    }, 
-    {
-      title: 'Skinamarink', 
-      author: 'soap.', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
     }, 
     {
       title: 'cloud interesting effects', 
@@ -43,7 +43,7 @@ var HotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
@@ -60,7 +60,7 @@ var HotlistAPI = function() {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
@@ -69,7 +69,7 @@ var HotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5126359926226944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5456558941323264.png', 
       link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
     }, 
     {
@@ -99,7 +99,7 @@ var HotlistAPI = function() {
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
-      votes: 33, 
+      votes: 34, 
       forks: 25, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
