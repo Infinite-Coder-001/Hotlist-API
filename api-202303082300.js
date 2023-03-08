@@ -19,17 +19,17 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 46, 
-      forks: 5, 
+      votes: 47, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
     }, 
     {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5331650353610752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/5215050753425408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
     }, 
     {
@@ -43,7 +43,7 @@ var HotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 50, 
+      votes: 51, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
@@ -51,15 +51,15 @@ var HotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6415586148270080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
@@ -91,7 +91,7 @@ var HotlistAPI = function() {
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
-      votes: 101, 
+      votes: 102, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
@@ -123,10 +123,18 @@ var HotlistAPI = function() {
     {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
-      votes: 25, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6667387435008000.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/6094255502442496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'Flashlight guy', 
@@ -137,17 +145,9 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/6094255502442496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
-    }, 
-    {
       title: 'Natureopolis', 
       author: 'CoraL', 
-      votes: 50, 
+      votes: 51, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
@@ -193,6 +193,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
     }, 
     {
+      title: 'my 1st platformer :D', 
+      author: '187817', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
+    }, 
+    {
       title: 'KA Notifications Chrome Extension', 
       author: 'Polar', 
       votes: 23, 
@@ -209,12 +217,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
     }, 
     {
-      title: 'my 1st platformer :D', 
-      author: '187817', 
-      votes: 25, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
+      title: 'Edmonton Oilers', 
+      author: 'Mark scheifele', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edmonton-oilers/4994822459146240/4850574891991040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edmonton-oilers/4994822459146240'
     }, 
     {
       title: 'Let Him Cool Down...', 
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/6012115494420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
-    }, 
-    {
-      title: 'Cat- Pixel Art', 
-      author: 'Blue Snow ', 
-      votes: 26, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-pixel-art/5100986131857408/6755093565456384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-pixel-art/5100986131857408'
     }, 
   ];
 };
