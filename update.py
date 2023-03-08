@@ -35,7 +35,9 @@ openedFile = open("api.js", "w");
 openedFile.write(programs);
 openedFile.close();
 
+"""
 # Refreshing jsdelivr cache
 browser.get('https://purge.jsdelivr.net/npm/Hotlist-API@main/foo/bar' + str(randint(0, 99999999999999999999)))
+"""
 
 # That's all! Sucessfully updated. 
