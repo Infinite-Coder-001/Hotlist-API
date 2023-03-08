@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 60, 
+      votes: 62, 
       forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
@@ -69,7 +69,7 @@ var HotlistAPI = function() {
       author: 'Undertale Studios', 
       votes: 22, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/4854764536119296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6667387435008000.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
@@ -81,20 +81,28 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
+      title: 'my fastest sanest metaballs. [kinda legal?]', 
+      author: 'YokieBob', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/5741960575107072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
+    }, 
+    {
+      title: 'Skinamarink', 
+      author: 'soap.', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
+    }, 
+    {
       title: 'Natureopolis', 
       author: 'CoraL', 
       votes: 46, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
-    }, 
-    {
-      title: 'my fastest sanest metaballs. [kinda legal?]', 
-      author: 'YokieBob', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/5741960575107072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
       title: 'Hemi', 
@@ -121,12 +129,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
     }, 
     {
-      title: 'Skinamarink', 
-      author: 'soap.', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
+      title: 'Flashlight guy', 
+      author: 'Viper', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/5416651564826624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
       title: 'Deja-vu: part 10, Bad Company', 
@@ -143,14 +151,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
-    }, 
-    {
-      title: 'Flashlight guy', 
-      author: 'Viper', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/5416651564826624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
       title: 'Isometric Tilemap template', 
@@ -202,11 +202,19 @@ var HotlistAPI = function() {
     }, 
     {
       title: 'Expansion Studios', 
-      author: 'Blake Meloche [Online]', 
+      author: 'Blake Meloche (T1)[Online]', 
       votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120/5976150231007232.png', 
       link: 'https://www.khanacademy.org/computer-programming/expansion-studios/4657712489349120'
+    }, 
+    {
+      title: 'looks like water :p', 
+      author: 'LightningCoder', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432/4685959969161216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/looks-like-water-p/6328407489298432'
     }, 
     {
       title: 'Flowey WIP', 
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/purple-guy/5432851028033536/4840993730117632.png', 
       link: 'https://www.khanacademy.org/computer-programming/purple-guy/5432851028033536'
-    }, 
-    {
-      title: 'Night Platformer - WCC', 
-      author: 'Phase ', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-platformer-wcc/6293731332636672/6429865488465920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-platformer-wcc/6293731332636672'
     }, 
   ];
 };
