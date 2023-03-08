@@ -4,14 +4,14 @@ var HotlistAPI = function() {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
       votes: 35, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6130317859799040.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
     }, 
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -28,9 +28,17 @@ var HotlistAPI = function() {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 65, 
-      forks: 12, 
+      forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
+    }, 
+    {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 37, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
     {
       title: 'Math.ka (V1.2)', 
@@ -41,12 +49,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408'
     }, 
     {
-      title: 'Duolingo! [No PJS]', 
-      author: 'Fire Wolf', 
-      votes: 35, 
+      title: 'speedyWater', 
+      author: 'LightningCoder', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5456558941323264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
+    }, 
+    {
+      title: 'my fastest sanest metaballs. [kinda legal?]', 
+      author: 'YokieBob', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
@@ -55,22 +71,6 @@ var HotlistAPI = function() {
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
-    }, 
-    {
-      title: 'my fastest sanest metaballs. [kinda legal?]', 
-      author: 'YokieBob', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
-    }, 
-    {
-      title: 'speedyWater', 
-      author: 'LightningCoder', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/5456558941323264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
     }, 
     {
       title: 'Can you guess the number?', 
@@ -121,6 +121,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
+      title: 'African Painted (Wild) Dog PIXEL', 
+      author: 'PenGwen', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
+    }, 
+    {
       title: 'Natureopolis', 
       author: 'CoraL', 
       votes: 49, 
@@ -129,12 +137,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
     }, 
     {
-      title: 'African Painted (Wild) Dog PIXEL', 
-      author: 'PenGwen', 
-      votes: 6, 
+      title: 'Derivao de "Projeto: estrela cadente"', 
+      author: 'ana-lauramunhoz', 
+      votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/5683362809561088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
     }, 
     {
       title: 'Hemi', 
@@ -153,14 +161,6 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472'
     }, 
     {
-      title: 'Derivao de "Projeto: estrela cadente"', 
-      author: 'ana-lauramunhoz', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
-    }, 
-    {
       title: 'Deja-vu: part 10, Bad Company', 
       author: 'Cookies \'n Scream', 
       votes: 21, 
@@ -177,12 +177,28 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
     }, 
     {
+      title: 'DVD screensaver', 
+      author: 'Ducky Momo', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
+    }, 
+    {
       title: 'Isometric Tilemap template', 
       author: 'apex [bio]', 
       votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024/4529368380784640.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5433107866238976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'my 1st platformer :D', 
@@ -223,22 +239,6 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600/5226776311939072.png', 
       link: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600'
-    }, 
-    {
-      title: 'Flowey WIP', 
-      author: 'CodingChamp01', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192/6508667702919168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flowey-wip/5849767945224192'
-    }, 
-    {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5433107866238976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
   ];
 };
