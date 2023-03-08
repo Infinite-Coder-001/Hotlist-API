@@ -35,7 +35,7 @@ programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii",
 # Removing the oldest file, if exists
 fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 60)).strftime('%Y%m%d%H%M')
 fullOldDateSplited = list(fullOldDate)
-oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + str(int(fullOldDateSplited[10]) // 3) + "0.js"
+oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + str(int(fullOldDateSplited[10]) // 3 * 3) + "0.js"
 try:
     os.remove(oldFileName)
 except:
@@ -44,7 +44,7 @@ except:
 # Creating the new file
 fullNewDate = datetime.datetime.utcnow().strftime('%Y%m%d%H%M')
 fullNewDateSplited = list(fullNewDate)
-newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 3) + "0.js"
+newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 3 * 3) + "0.js"
 
 openedFile = open(newFileName, "w");
 openedFile.write(programs);
