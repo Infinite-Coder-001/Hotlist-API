@@ -3,15 +3,15 @@ var HotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 42, 
+      votes: 43, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/5285847178199040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
     }, 
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 29, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 39, 
+      votes: 41, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/5880111872393216.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -27,7 +27,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 67, 
+      votes: 68, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
@@ -35,7 +35,7 @@ var HotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 42, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4742590673240064.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
@@ -43,7 +43,7 @@ var HotlistAPI = function() {
     {
       title: 'speedyWater', 
       author: 'LightningCoder', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432/4894910581096448.png', 
       link: 'https://www.khanacademy.org/computer-programming/speedywater/6328407489298432'
@@ -51,7 +51,7 @@ var HotlistAPI = function() {
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
-      votes: 16, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
@@ -63,6 +63,14 @@ var HotlistAPI = function() {
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408'
+    }, 
+    {
+      title: 'African Painted (Wild) Dog PIXEL', 
+      author: 'PenGwen', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
     }, 
     {
       title: 'Can you guess the number?', 
@@ -89,6 +97,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
+      title: 'Two Truths & One Lie Pt. 2 of 4', 
+      author: 'J-J B (Offline) ', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-truths-one-lie-pt-2-of-4/5613613312425984/5476443633270784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-truths-one-lie-pt-2-of-4/5613613312425984'
+    }, 
+    {
       title: 'Anti-aliasing for P3D', 
       author: 'Dat', 
       votes: 45, 
@@ -97,20 +113,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608'
     }, 
     {
-      title: 'African Painted (Wild) Dog PIXEL', 
-      author: 'PenGwen', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
-    }, 
-    {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 36, 
-      forks: 25, 
+      forks: 26, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
+    }, 
+    {
+      title: 'Undertale (Khan Edition) Improved!', 
+      author: 'Undertale Studios', 
+      votes: 24, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6667387435008000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
       title: 'Flashlight guy', 
@@ -119,14 +135,6 @@ var HotlistAPI = function() {
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4522220783452160.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
-    }, 
-    {
-      title: 'Undertale (Khan Edition) Improved!', 
-      author: 'Undertale Studios', 
-      votes: 23, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6667387435008000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
       title: 'Natureopolis', 
@@ -169,20 +177,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
+      title: 'Deja-vu: part 10, Bad Company', 
+      author: 'Cookies \'n Scream', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
+    }, 
+    {
       title: 'Isometric Tilemap template', 
       author: 'apex [bio]', 
       votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024/4529368380784640.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024'
-    }, 
-    {
-      title: 'Deja-vu: part 10, Bad Company', 
-      author: 'Cookies \'n Scream', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
     }, 
     {
       title: 'KA Notifications Chrome Extension', 
@@ -195,7 +203,7 @@ var HotlistAPI = function() {
     {
       title: 'Polygon Collider', 
       author: 'Polar', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696/4936959271419904.png', 
       link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cat-pixel-art/5100986131857408/6755093565456384.png', 
       link: 'https://www.khanacademy.org/computer-programming/cat-pixel-art/5100986131857408'
-    }, 
-    {
-      title: 'Adventures of Cubio 3D', 
-      author: 'Cataclysmic Code ', 
-      votes: 84, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600/5226776311939072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adventures-of-cubio-3d/4903826362777600'
     }, 
   ];
 };
