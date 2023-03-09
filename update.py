@@ -30,7 +30,7 @@ while i < 31:
     programs += "\n    {\n      title: '" + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/div[1]/a[2]/span').text.replace("'", "\\'") + "', \n      author: '" + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/a/span').text.replace("'", "\\'") + "', \n      votes: " + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/div[2]').text.split(" ")[0] + ", \n      forks: " + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/div[2]').text.split("· ")[1].split(" ")[0] + ", \n      thumbnail: '" + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/div[1]/a[1]/img').get_attribute("src") + "', \n      link: '" + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/div[1]/a[2]').get_attribute("href") + "', \n      authorLink: '" + browser.find_element("xpath", '/html/body/div/div[3]/div/div[2]/div/div/main/div[2]/div[2]/div/div[1]/div/div[2]/div[' + str(i) + ']/a').get_attribute("href") + "'\n    }, "
     i += 1
 programs += "\n  ];"
-programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii", errors="ignore").decode() + "\n};"
+programs = "var LoadHotlistAPI = function() {\n  return " + programs.encode("ascii", errors="ignore").decode() + "\n};"
 
 # Removing files older, than 3 hours
 for i in range(0, 600, 10):
