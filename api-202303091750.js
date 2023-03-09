@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Offline for now]', 
+      author: 'Blake Meloche (T1)[Online for now]', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5282082857467904.png', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
