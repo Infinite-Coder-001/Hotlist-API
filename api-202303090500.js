@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 39, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 50, 
+      votes: 51, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -105,20 +105,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
     }, 
     {
+      title: 'Secret Blocks', 
+      author: 'MaXX', 
+      votes: 40, 
+      forks: 28, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
+    }, 
+    {
       title: 'DVD screensaver', 
       author: 'Ducky Momo', 
       votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
-    }, 
-    {
-      title: 'Secret Blocks', 
-      author: 'MaXX', 
-      votes: 39, 
-      forks: 28, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -137,20 +137,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
     }, 
     {
+      title: 'LJE\'s Subbie page', 
+      author: 'LJE', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
+    }, 
+    {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
       votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
-    }, 
-    {
-      title: 'LJE\'s Subbie page', 
-      author: 'LJE', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
     }, 
     {
       title: 'Isometric Tilemap template', 
