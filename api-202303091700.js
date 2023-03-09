@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 59, 
+      votes: 60, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Crystal Coding', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/6565223798718464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
+      title: 'Undertale (Khan Edition) Improved!', 
+      author: 'Undertale Studios', 
+      votes: 30, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
+    }, 
+    {
       title: 'Anti-aliasing for P3D', 
       author: 'Dat', 
       votes: 46, 
@@ -235,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
     {
-      title: 'Undertale (Khan Edition) Improved!', 
-      author: 'Undertale Studios', 
-      votes: 29, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
-    }, 
-    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 7, 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Flashlight guy', 
       author: 'Viper', 
       votes: 13, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4522220783452160.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
-    }, 
-    {
-      title: 'Derivao de "Projeto: estrela cadente"', 
-      author: 'ana-lauramunhoz', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9934286638260267572307600'
     }, 
   ];
 };
