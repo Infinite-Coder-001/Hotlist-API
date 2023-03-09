@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 39, 
-      forks: 9, 
+      forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: '3D Raycasting Maze!', 
+      author: 'JustZoul', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4872147237650432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
+    }, 
+    {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 80, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
-      title: '3D Raycasting Maze!', 
-      author: 'JustZoul', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4872147237650432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
       title: 'Eye of the Hurricane', 
