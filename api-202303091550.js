@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 47, 
+      votes: 48, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 14, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
     {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+    }, 
+    {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
       votes: 53, 
@@ -91,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
     {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
       votes: 18, 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'Biscuit Baker', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/two-truths-one-lie-pt-2-of-4/5613613312425984/5476443633270784.png', 
       link: 'https://www.khanacademy.org/computer-programming/two-truths-one-lie-pt-2-of-4/5613613312425984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'Can you guess the number?', 
