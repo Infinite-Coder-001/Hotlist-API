@@ -32,22 +32,24 @@ while i < 31:
 programs += "\n  ];"
 programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii", errors="ignore").decode() + "\n};"
 
-# Removing the oldest file, if exists
-fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 60)).strftime('%Y%m%d%H%M')
-fullOldDateSplited = list(fullOldDate)
-oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + str(int(fullOldDateSplited[10]) // 3 * 3) + "0.js"
-try:
-    os.remove(oldFileName)
-except:
-    pass
+# Removing files older, than 3 hours
+for i in range(0, 600, 10):
+    fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 180 + i)).strftime('%Y%m%d%H%M')
+    fullOldDateSplited = list(fullOldDate)
+    oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + fullOldDateSplited[10] + "0.js"
+    try:
+        os.remove(oldFileName)
+    except:
+        pass
 
-# Creating the new file
-fullNewDate = datetime.datetime.utcnow().strftime('%Y%m%d%H%M')
-fullNewDateSplited = list(fullNewDate)
-newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + str(int(fullNewDateSplited[10]) // 3 * 3) + "0.js"
+# Creating new files
+for i in range(0, 180, 10):
+    fullNewDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = i)).strftime('%Y%m%d%H%M')
+    fullNewDateSplited = list(fullNewDate)
+    newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + fullNewDateSplited[10] + "0.js"
 
-openedFile = open(newFileName, "w");
-openedFile.write(programs);
-openedFile.close();
+    openedFile = open(newFileName, "w");
+    openedFile.write(programs);
+    openedFile.close();
 
 # That's all! Sucessfully updated. 
