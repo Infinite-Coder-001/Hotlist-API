@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 31, 
-      forks: 4, 
+      votes: 33, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 64, 
+      votes: 65, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -158,9 +158,18 @@ var LoadHotlistAPI = function() {
       author: 'Dipper98', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/5998110226825216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/5133152668663808.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Biscuit Baker', 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
     {
+      title: 'Can you guess the number?', 
+      author: 'Animation Guy', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 55, 
@@ -235,18 +244,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Can you guess the number?', 
-      author: 'Animation Guy', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
-      votes: 32, 
+      votes: 33, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX', 
       votes: 41, 
       forks: 33, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4916911035170816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6099613247651840.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
