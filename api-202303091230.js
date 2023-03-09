@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 40, 
+      votes: 42, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -73,6 +73,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
     }, 
     {
+      title: 'LJE\'s Subbie page', 
+      author: 'LJE', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
       votes: 54, 
@@ -105,14 +113,6 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
     }, 
     {
-      title: 'LJE\'s Subbie page', 
-      author: 'LJE', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
-    }, 
-    {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
@@ -137,6 +137,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608'
     }, 
     {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128'
+    }, 
+    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
       votes: 28, 
@@ -147,18 +155,10 @@ var HotlistAPI = function() {
     {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
-    }, 
-    {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128'
     }, 
     {
       title: 'Isometric Tilemap template', 
@@ -183,6 +183,14 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
+    }, 
+    {
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/5598633708011520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376'
     }, 
     {
       title: 'Derivao de "Projeto: estrela cadente"', 
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
-    }, 
-    {
-      title: 'KA Notifications Chrome Extension', 
-      author: 'Polar', 
-      votes: 24, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472/6428995342352384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472'
     }, 
   ];
 };
