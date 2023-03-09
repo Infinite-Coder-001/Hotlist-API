@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
+      author: 'CylenceScythe', 
+      votes: 51, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 21, 
@@ -19,18 +28,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
-      author: 'CylenceScythe', 
-      votes: 50, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 61, 
+      votes: 62, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'African Painted (Wild) Dog PIXEL', 
       author: 'PenGwen', 
       votes: 15, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
-    }, 
-    {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'contest 1!', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase ', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/4914864764272640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5625035459182592.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX', 
       votes: 40, 
       forks: 30, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5454927776497664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4916911035170816.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
@@ -248,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'madalyn.dower', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6442822721126400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6080036363091968.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
