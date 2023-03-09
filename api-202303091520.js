@@ -1,9 +1,9 @@
-var HotlistAPI = function() {
+var LoadHotlistAPI = function() {
   return [
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 45, 
+      votes: 46, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
@@ -22,16 +22,25 @@ var HotlistAPI = function() {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
       votes: 55, 
-      forks: 5, 
+      forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 23, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -48,7 +57,7 @@ var HotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 76, 
+      votes: 77, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
@@ -73,18 +82,9 @@ var HotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 ', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'LJE\'s Subbie page', 
       author: 'LJE', 
-      votes: 10, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
       link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
@@ -100,13 +100,49 @@ var HotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+    }, 
+    {
+      title: 'A WIP', 
+      author: 'Dipper98', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/6002960922624000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Math.ka (V1.2)', 
       author: '21262', 
-      votes: 54, 
+      votes: 55, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'DVD screensaver', 
+      author: 'Ducky Momo', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -118,13 +154,13 @@ var HotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ', 
-      votes: 8, 
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'Can you guess the number?', 
@@ -145,15 +181,6 @@ var HotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
-    }, 
-    {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
@@ -167,18 +194,9 @@ var HotlistAPI = function() {
       author: 'Crystal Coding', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/5598633708011520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/5049426358091776.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -199,20 +217,11 @@ var HotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
-    }, 
-    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
       votes: 28, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6663010825584640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6570602179903488.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
     }, 
@@ -256,19 +265,10 @@ var HotlistAPI = function() {
       title: 'Natureopolis', 
       author: 'CoraL', 
       votes: 51, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264/4723081925148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_363667774724785949031034'
-    }, 
-    {
-      title: 'A WIP', 
-      author: 'Dipper98', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/6002960922624000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
   ];
 };
