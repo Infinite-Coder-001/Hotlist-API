@@ -9,6 +9,7 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 
 ## Importing
 **1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/main.js"></script>` to `<head>` of your HTML page. 
+
 **2**. Call `HotlistAPI(callback);` in `<script>` tag. The `callback` is the function, that is called after the data is loaded. The function will be called with an argument, that contains raw JSON - the API output. **Example**: 
 
 ```
