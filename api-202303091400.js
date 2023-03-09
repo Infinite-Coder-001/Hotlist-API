@@ -27,7 +27,7 @@ var HotlistAPI = function() {
     {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
@@ -124,7 +124,7 @@ var HotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
-      forks: 28, 
+      forks: 29, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
@@ -135,6 +135,14 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -151,14 +159,6 @@ var HotlistAPI = function() {
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/5751392105185280.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
-    }, 
-    {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
       title: 'Mini Khan Academy', 
