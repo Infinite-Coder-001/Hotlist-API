@@ -11,7 +11,7 @@ var HotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 43, 
+      votes: 44, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512'
@@ -43,7 +43,7 @@ var HotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 29, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
