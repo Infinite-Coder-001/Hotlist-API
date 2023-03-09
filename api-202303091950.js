@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 26, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
       link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -256,19 +256,19 @@ var LoadHotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 41, 
-      forks: 33, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6099613247651840.png', 
+      forks: 34, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6474796202508288.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Anti-aliasing for P3D', 
-      author: 'Dat', 
-      votes: 47, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608/4799600525623296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+      title: 'Adorable Puppy!', 
+      author: 'PaNcAkEs', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6580614746914816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
   ];
 };
