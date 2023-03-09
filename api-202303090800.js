@@ -193,20 +193,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/natureopolis/5733649343627264'
     }, 
     {
+      title: 'Hemi', 
+      author: 'KarLlr', 
+      votes: 55, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
+    }, 
+    {
       title: 'Generate a Color Scheme from an Image', 
       author: 'Paperwad ', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
       link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128'
-    }, 
-    {
-      title: 'Hemi', 
-      author: 'KarLlr', 
-      votes: 54, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
     }, 
     {
       title: 'Deja-vu: part 10, Bad Company', 
