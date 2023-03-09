@@ -43,7 +43,7 @@ var HotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
@@ -193,6 +193,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
     }, 
     {
+      title: 'Edmonton Oilers', 
+      author: 'Mark scheifele', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edmonton-oilers/4994822459146240/4850574891991040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edmonton-oilers/4994822459146240'
+    }, 
+    {
       title: 'Natureopolis', 
       author: 'CoraL', 
       votes: 51, 
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472/6428995342352384.png', 
       link: 'https://www.khanacademy.org/computer-programming/ka-notifications-chrome-extension/6695638769385472'
-    }, 
-    {
-      title: 'Polygon Collider', 
-      author: 'Polar', 
-      votes: 33, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696/4936959271419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/polygon-collider/6029125511069696'
     }, 
   ];
 };
