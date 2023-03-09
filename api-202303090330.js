@@ -149,7 +149,7 @@ var HotlistAPI = function() {
       author: 'LJE', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/4771895688085504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
       link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
     }, 
     {
