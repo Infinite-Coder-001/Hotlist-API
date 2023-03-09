@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 44, 
+      votes: 45, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -59,7 +59,7 @@ var HotlistAPI = function() {
     {
       title: 'African Painted (Wild) Dog PIXEL', 
       author: 'PenGwen', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
@@ -145,12 +145,28 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776'
     }, 
     {
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/5598633708011520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376'
+    }, 
+    {
       title: 'DVD screensaver', 
       author: 'Ducky Momo', 
       votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -175,22 +191,6 @@ var HotlistAPI = function() {
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6663010825584640.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752'
-    }, 
-    {
-      title: 'Avatar Wars 1', 
-      author: 'Crystal Coding', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/5598633708011520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
     }, 
     {
       title: 'Isometric Tilemap template', 
