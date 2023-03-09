@@ -52,7 +52,7 @@ var HotlistAPI = function() {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
       votes: 53, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640'
     }, 
