@@ -4,10 +4,19 @@ var LoadHotlistAPI = function() {
       title: 'Skinamarink', 
       author: 'soap.', 
       votes: 51, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
+    }, 
+    {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
@@ -19,18 +28,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 ', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 60, 
+      votes: 61, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
@@ -49,10 +49,19 @@ var LoadHotlistAPI = function() {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
       votes: 34, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/4858125629046784.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'cloud interesting effects', 
+      author: 'Prisha B.', 
+      votes: 79, 
+      forks: 14, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
     {
       title: 'Generate a Color Scheme from an Image', 
@@ -64,18 +73,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'cloud interesting effects', 
-      author: 'Prisha B.', 
-      votes: 78, 
-      forks: 14, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 53, 
+      votes: 54, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'contest 1!', 
@@ -176,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase ', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5610140781035520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/4914864764272640.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -211,8 +220,8 @@ var LoadHotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
-      forks: 29, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4517660367044608.png', 
+      forks: 30, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5454927776497664.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
@@ -239,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'madalyn.dower', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/4831857072193536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6442822721126400.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
@@ -253,22 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 4, 
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Flashlight guy', 
-      author: 'Viper', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4522220783452160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
   ];
 };
