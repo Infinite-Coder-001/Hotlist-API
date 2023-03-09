@@ -34,7 +34,7 @@ programs = "var HotlistAPI = function() {\n  return " + programs.encode("ascii",
 
 # Removing files older, than 3 hours
 for i in range(0, 600, 10):
-    fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 180 + i)).strftime('%Y%m%d%H%M')
+    fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = 10 + i)).strftime('%Y%m%d%H%M')
     fullOldDateSplited = list(fullOldDate)
     oldFileName = "api-" + fullOldDateSplited[0] + fullOldDateSplited[1] + fullOldDateSplited[2] + fullOldDateSplited[3] + fullOldDateSplited[4] + fullOldDateSplited[5] + fullOldDateSplited[6] + fullOldDateSplited[7] + fullOldDateSplited[8] + fullOldDateSplited[9] + fullOldDateSplited[10] + "0.js"
     try:
@@ -42,14 +42,13 @@ for i in range(0, 600, 10):
     except:
         pass
 
-# Creating new files
-for i in range(0, 180, 10):
-    fullNewDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = i)).strftime('%Y%m%d%H%M')
-    fullNewDateSplited = list(fullNewDate)
-    newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + fullNewDateSplited[10] + "0.js"
+# Creating new file
+fullNewDate = datetime.datetime.utcnow().strftime('%Y%m%d%H%M')
+fullNewDateSplited = list(fullNewDate)
+newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + fullNewDateSplited[10] + "0.js"
 
-    openedFile = open(newFileName, "w");
-    openedFile.write(programs);
-    openedFile.close();
+openedFile = open(newFileName, "w");
+openedFile.write(programs);
+openedFile.close();
 
 # That's all! Sucessfully updated. 
