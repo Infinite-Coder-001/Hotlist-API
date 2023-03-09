@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 39, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Into the Clouds [3D Game]', 
+      author: 'Dipper98', 
+      votes: 71, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Online)', 
       votes: 54, 
@@ -37,13 +46,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Into the Clouds [3D Game]', 
-      author: 'Dipper98', 
-      votes: 70, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 43, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5910226979307520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'fishnado', 
@@ -64,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 42, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5910226979307520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Generate a Color Scheme from an Image', 
       author: 'Paperwad ', 
       votes: 18, 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Change my name', 
       author: 'Phase ', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5764884879163392.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
