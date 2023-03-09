@@ -8,9 +8,9 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 |1.1.0        |✔️         |
 
 ## Importing
-**1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/main.js"></script>` to `<head>` of your HTML page. 
+**1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.1.0/main.js"></script>` to `<head>` of your HTML page. 
 
-**2**. Call `HotlistAPI(callback);` in `<script>` tag. The `callback` is the function, that is called after the data is loaded. The function will be called with an argument, that contains raw JSON - the API output. **Example**: 
+**2**. Call `HotlistAPI(callback);` in `<script>`. The `callback` is a function, that is called after all data is loaded. The function will be called with an argument, that contains raw JSON - the API output. **Example**: 
 
 ```
 <!DOCTYPE html>
@@ -38,7 +38,7 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 ```
 
 ## Callback
-The callback function is called after all data is loaded. The function is called with an argument. The argument is an array with 30 arguments - the top 30 programs on Hotlist. Each argument in the array is an object and each object contains: 
+The callback function is called after all data is loaded. The function is called with an argument - an array with 30 arguments - the top 30 programs on Hotlist. Each argument in the array is an object that contains: 
  - `title`: The title of the program
  - `author`: Author of the program
  - `votes`: Amount of votes, that the program has
@@ -47,7 +47,7 @@ The callback function is called after all data is loaded. The function is called
  - `link`: A link to the program
  - `authorLink`: A link to the author of the program
 
-**Example program scratchpad**: 
+**Example object** (there are 30 in total): 
 ```
 {
     title: 'My program', 
