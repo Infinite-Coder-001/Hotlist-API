@@ -36,7 +36,7 @@ var HotlistAPI = function() {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 75, 
-      forks: 13, 
+      forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
     }, 
@@ -59,7 +59,7 @@ var HotlistAPI = function() {
     {
       title: 'African Painted (Wild) Dog PIXEL', 
       author: 'PenGwen', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088/4928273115299840.png', 
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
@@ -153,6 +153,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128'
+    }, 
+    {
       title: 'Isometric Tilemap template', 
       author: 'apex [bio]', 
       votes: 17, 
@@ -199,14 +207,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
       link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
-    }, 
-    {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128'
     }, 
     {
       title: 'Deja-vu: part 10, Bad Company', 
