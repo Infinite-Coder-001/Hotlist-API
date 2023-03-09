@@ -4,7 +4,7 @@ var HotlistAPI = function() {
       title: 'Skinamarink', 
       author: 'soap.', 
       votes: 43, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
     }, 
@@ -169,6 +169,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
     }, 
     {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5105418454220800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928'
+    }, 
+    {
       title: 'Isometric Tilemap template', 
       author: 'apex [bio]', 
       votes: 17, 
@@ -231,14 +239,6 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792/5979630777712640.png', 
       link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704'
     }, 
   ];
 };
