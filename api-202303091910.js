@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 28, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Skinamarink', 
       author: 'soap.', 
       votes: 52, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 ', 
-      votes: 26, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
@@ -40,10 +40,19 @@ var LoadHotlistAPI = function() {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 26, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -64,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
     {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
       votes: 8, 
@@ -84,11 +84,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 56, 
+      votes: 57, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'African Painted (Wild) Dog PIXEL', 
@@ -118,31 +136,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Change my name', 
+      author: 'Phase ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/4654737033314304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'A WIP', 
       author: 'Dipper98', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/6002960922624000.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/5998110226825216.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Avatar Wars 1', 
-      author: 'Crystal Coding', 
-      votes: 10, 
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 9, 
+      title: 'Biscuit Baker', 
+      author: 'Jed2009', 
+      votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
     }, 
     {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
@@ -154,13 +181,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'Biscuit Baker', 
-      author: 'Jed2009', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6513625538019328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
     {
       title: 'Math.ka (V1.2)', 
@@ -179,24 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Change my name', 
-      author: 'Phase ', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/6364652953190400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -226,31 +244,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6513625538019328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
+      title: 'Undertale (Khan Edition) Improved!', 
+      author: 'Undertale Studios', 
+      votes: 32, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
     }, 
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
-      forks: 31, 
+      forks: 32, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4916911035170816.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'Undertale (Khan Edition) Improved!', 
-      author: 'Undertale Studios', 
-      votes: 31, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
     }, 
     {
       title: 'Anti-aliasing for P3D', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608/4799600525623296.png', 
       link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
   ];
 };
