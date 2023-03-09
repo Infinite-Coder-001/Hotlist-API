@@ -1,5 +1,5 @@
 // This is the main file, that is loading in the <head> of your HTML page
-// Link to this file is 'https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/main.js'
+// Link to this file is 'https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.1.0/main.js'
 
 function HotlistAPI(callback) {
     function loadHotlistData2(delay) {
