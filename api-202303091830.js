@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 22, 
+      votes: 23, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -73,22 +73,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Duolingo! [No PJS]', 
-      author: 'Fire Wolf', 
-      votes: 54, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 56, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
       title: 'African Painted (Wild) Dog PIXEL', 
@@ -112,7 +112,7 @@ var LoadHotlistAPI = function() {
       title: 'contest 1!', 
       author: 'Blake Meloche (T1)[Offline for now]', 
       votes: 7, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/4677155235872768.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
@@ -185,9 +185,18 @@ var LoadHotlistAPI = function() {
       author: 'Phase ', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5625035459182592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/6364652953190400.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -229,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 40, 
-      forks: 30, 
+      forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/4916911035170816.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
   ];
 };
