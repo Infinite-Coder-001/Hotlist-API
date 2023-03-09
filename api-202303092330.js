@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: '3D Raycasting Maze!', 
+      author: 'JustZoul', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4872147237650432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 16, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6371191948623872.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: '3D Raycasting Maze!', 
-      author: 'JustZoul', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4872147237650432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
       title: 'Eye of the Hurricane', 
