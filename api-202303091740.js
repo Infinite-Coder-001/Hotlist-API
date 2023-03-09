@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
       votes: 51, 
@@ -19,19 +28,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 ', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 62, 
-      forks: 7, 
+      votes: 63, 
+      forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 34, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/4858125629046784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6279014039994368.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
     {
+      title: 'contest 1!', 
+      author: 'Blake Meloche (T1)[Offline for now]', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5282082857467904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'A WIP', 
       author: 'Dipper98', 
       votes: 13, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6441295604400128.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
-    }, 
-    {
-      title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Offline for now]', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5282082857467904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -248,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'madalyn.dower', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6080036363091968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6513625538019328.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
