@@ -97,20 +97,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896'
     }, 
     {
+      title: 'EMPIRE WARS [FULL RELEASE]', 
+      author: 'LightningCoder', 
+      votes: 105, 
+      forks: 12, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
+    }, 
+    {
       title: 'LJE\'s Subbie page', 
       author: 'LJE', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
       link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
-    }, 
-    {
-      title: 'EMPIRE WARS [FULL RELEASE]', 
-      author: 'LightningCoder', 
-      votes: 104, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096'
     }, 
     {
       title: 'Secret Blocks', 
