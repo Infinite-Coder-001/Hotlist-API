@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you know, you know.', 
       author: 'Synapse', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'close one.', 
+      author: 'YokieBob', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
       votes: 35, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896/5842552253366272.png', 
       link: 'https://www.khanacademy.org/computer-programming/can-you-guess-the-number/5750316702416896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'Math.ka (V1.2)', 
-      author: '21262', 
-      votes: 55, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
   ];
 };
