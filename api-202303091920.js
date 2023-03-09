@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 28, 
+      votes: 30, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -57,11 +57,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6279014039994368.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'cloud interesting effects', 
@@ -73,22 +82,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
     {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 57, 
+      votes: 58, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
+      title: 'Change my name', 
+      author: 'Phase ', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5822758456180736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'If you know, you know.', 
@@ -136,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Change my name', 
-      author: 'Phase ', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/4654737033314304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'A WIP', 
       author: 'Dipper98', 
       votes: 13, 
@@ -161,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Biscuit Baker', 
@@ -181,13 +190,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+      title: 'DVD screensaver', 
+      author: 'Ducky Momo', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408/5913609547071488.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathka-v12/5679116412305408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -264,7 +264,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Anti-aliasing for P3D', 
       author: 'Dat', 
-      votes: 46, 
+      votes: 47, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608/4799600525623296.png', 
       link: 'https://www.khanacademy.org/computer-programming/anti-aliasing-for-p3d/5688356149444608', 
