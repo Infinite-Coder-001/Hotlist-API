@@ -3,7 +3,7 @@ var HotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 42, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416'
@@ -19,7 +19,7 @@ var HotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 54, 
+      votes: 55, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864'
@@ -27,10 +27,18 @@ var HotlistAPI = function() {
     {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432'
+    }, 
+    {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 32, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'cloud interesting effects', 
@@ -39,14 +47,6 @@ var HotlistAPI = function() {
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6133370709131264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304'
     }, 
     {
       title: 'Duolingo! [No PJS]', 
@@ -65,20 +65,20 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088'
     }, 
     {
+      title: 'LJE\'s Subbie page', 
+      author: 'LJE', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
+    }, 
+    {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
       votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456'
-    }, 
-    {
-      title: 'LJE\'s Subbie page', 
-      author: 'LJE', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560'
     }, 
     {
       title: 'Math.ka (V1.2)', 
@@ -161,6 +161,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
+    }, 
+    {
       title: 'Isometric Tilemap template', 
       author: 'apex [bio]', 
       votes: 17, 
@@ -177,14 +185,6 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
-    }, 
-    {
       title: 'Avatar Wars 1', 
       author: 'Crystal Coding', 
       votes: 5, 
@@ -199,6 +199,14 @@ var HotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680'
+    }, 
+    {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800'
     }, 
     {
       title: 'Edmonton Oilers', 
@@ -225,20 +233,12 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/hemi/5637714001313792'
     }, 
     {
-      title: 'Deja-vu: part 10, Bad Company', 
-      author: 'Cookies \'n Scream', 
-      votes: 23, 
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288/4958409525084160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-10-bad-company/6593453062668288'
-    }, 
-    {
-      title: 'my 1st platformer :D', 
-      author: '187817', 
-      votes: 27, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704'
     }, 
   ];
 };
