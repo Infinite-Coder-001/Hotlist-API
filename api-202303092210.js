@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 55, 
-      forks: 5, 
+      votes: 56, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
@@ -55,18 +55,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 41, 
+      votes: 42, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6014152852422656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5910226979307520.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Generate a Color Scheme from an Image', 
       author: 'Paperwad ', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5420675261317120.png', 
       link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
@@ -77,18 +86,9 @@ var LoadHotlistAPI = function() {
       author: 'Phase ', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5822758456180736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5764884879163392.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'piglin dance', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
-      votes: 113, 
+      votes: 114, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096', 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX', 
       votes: 44, 
       forks: 35, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6474796202508288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/5765670757515264.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
