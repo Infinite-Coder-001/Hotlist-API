@@ -169,6 +169,14 @@ var HotlistAPI = function() {
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
+    }, 
+    {
       title: 'Derivao de "Projeto: estrela cadente"', 
       author: 'ana-lauramunhoz', 
       votes: 24, 
@@ -215,14 +223,6 @@ var HotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768/5124447222939648.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-1st-platformer-d/5120056961056768'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464'
     }, 
     {
       title: 'KA Notifications Chrome Extension', 
