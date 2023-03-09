@@ -62,9 +62,10 @@ The callback function is called after all data is loaded. The function is called
 **Example program**: 
 ```
 <!DOCTYPE html>
+<!-- This program loads data from Khan Academy and puts it in a table -->
 <html>
     <head>
-        <title>HotlistAPI example 2 </title>
+        <title>HotlistAPI example 2</title>
         <script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/main.js"></script> <!-- Including the script -->
         <style>
             table {
@@ -118,6 +119,9 @@ The callback function is called after all data is loaded. The function is called
     </body>
 </html>
 ```
+## Credits
+Please give link to this repository, when you're using it. The link can be in included code or on the webpage, that you make. 
+
 ## Questions
 If you have any questions about this project, fell free to ask in Discussion section. 
 
