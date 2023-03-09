@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 34, 
+      votes: 35, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6747321805357056.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
+      title: 'EMPIRE WARS [FULL RELEASE]', 
+      author: 'LightningCoder', 
+      votes: 112, 
+      forks: 12, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Undertale (Khan Edition) Improved!', 
       author: 'Undertale Studios', 
       votes: 34, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752/6695187042844672.png', 
       link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
-    }, 
-    {
-      title: 'EMPIRE WARS [FULL RELEASE]', 
-      author: 'LightningCoder', 
-      votes: 111, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -255,20 +255,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
-      votes: 41, 
+      votes: 42, 
       forks: 34, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6474796202508288.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Adorable Puppy!', 
-      author: 'PaNcAkEs', 
-      votes: 6, 
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6580614746914816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6529904726556672/6047374575452160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6529904726556672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
   ];
 };
