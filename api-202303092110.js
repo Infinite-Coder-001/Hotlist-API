@@ -12,11 +12,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 53, 
+      votes: 54, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
+    }, 
+    {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'fishnado', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 38, 
+      votes: 39, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6725124726505472.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
     {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
       votes: 10, 
@@ -109,13 +118,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/6207531120902144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4971073659781120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -163,18 +172,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6153674646929408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376/5577069549633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'EMPIRE WARS [FULL RELEASE]', 
       author: 'LightningCoder', 
-      votes: 112, 
+      votes: 113, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096/5694592173522944.png', 
       link: 'https://www.khanacademy.org/computer-programming/empire-wars-full-release/5609492106756096', 
@@ -265,7 +265,7 @@ var LoadHotlistAPI = function() {
       title: 'Secret Blocks', 
       author: 'MaXX', 
       votes: 43, 
-      forks: 34, 
+      forks: 35, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6474796202508288.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
