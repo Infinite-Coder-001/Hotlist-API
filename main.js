@@ -38,7 +38,7 @@ function HotlistAPI(callback) {
         document.head.appendChild(script); 
         timeoutVariable = setTimeout(function() {
             timeout(delay);
-        }, 100);
+        }, 1000);
     }
     loadHotlistData2(0);
 }
