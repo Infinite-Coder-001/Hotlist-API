@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 35, 
+      votes: 37, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
       votes: 65, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 14, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -66,16 +66,16 @@ var LoadHotlistAPI = function() {
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 36, 
+      votes: 38, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6279014039994368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6725124726505472.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Change my name', 
       author: 'Phase ', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5822758456180736.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
@@ -146,7 +146,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Offline for now]', 
+      author: 'Blake Meloche (T1)[Online]', 
       votes: 7, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/4677155235872768.png', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
     {
+      title: '3D Raycasting Maze!', 
+      author: 'JustZoul', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4872147237650432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
+    }, 
+    {
       title: 'Can you guess the number?', 
       author: 'Animation Guy', 
       votes: 19, 
@@ -255,20 +264,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Secret Blocks', 
       author: 'MaXX', 
-      votes: 42, 
+      votes: 43, 
       forks: 34, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776/6474796202508288.png', 
       link: 'https://www.khanacademy.org/computer-programming/secret-blocks/4513331392331776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6529904726556672/6047374575452160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6529904726556672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
   ];
 };
