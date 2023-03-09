@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 49, 
+      votes: 51, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
@@ -12,34 +12,34 @@ var LoadHotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe', 
-      votes: 49, 
+      votes: 50, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Into the Clouds [3D Game]', 
-      author: 'Dipper98', 
-      votes: 57, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 17, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/4638691471704064.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Into the Clouds [3D Game]', 
+      author: 'Dipper98', 
+      votes: 59, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
     {
+      title: 'A WIP', 
+      author: 'Dipper98', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/6002960922624000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'If you know, you know.', 
       author: 'Synapse', 
       votes: 9, 
@@ -109,13 +118,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
-      title: 'A WIP', 
-      author: 'Dipper98', 
-      votes: 12, 
+      title: 'contest 1!', 
+      author: 'Blake Meloche (T1)[Offline for now]', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272/6002960922624000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-wip/4651957119926272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5282082857467904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
-      title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Online]', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5282082857467904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'DVD screensaver', 
       author: 'Ducky Momo', 
       votes: 10, 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
+      title: 'Change my name', 
+      author: 'Phase ', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5610140781035520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Two Truths & One Lie Pt. 2 of 4', 
@@ -221,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'madalyn.dower', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5990284209209344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/4831857072193536.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
@@ -235,40 +244,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
     }, 
     {
-      title: 'Change my name', 
-      author: 'Phase ', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5610140781035520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
-      votes: 6, 
+      votes: 7, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6017790974935040.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Isometric Tilemap template', 
-      author: 'apex [bio]', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024/4529368380784640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-tilemap-template/5601723551105024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'Flashlight guy', 
       author: 'Viper', 
-      votes: 12, 
+      votes: 13, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856/4522220783452160.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashlight-guy/6134977853177856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
+    }, 
+    {
+      title: 'Derivao de "Projeto: estrela cadente"', 
+      author: 'ana-lauramunhoz', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680/6576501967601664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/6074522229063680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9934286638260267572307600'
     }, 
   ];
 };
