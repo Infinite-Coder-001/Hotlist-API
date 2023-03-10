@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'cool guy coding', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/4759886640758784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
       link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
