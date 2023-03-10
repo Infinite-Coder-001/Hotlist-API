@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 44, 
+      votes: 45, 
       forks: 16, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 77, 
+      votes: 78, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you know, you know.', 
       author: 'Synapse', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5110656401719296.png', 
       link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Hangman', 
-      author: 'Timothy Lightson', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'close one.', 
