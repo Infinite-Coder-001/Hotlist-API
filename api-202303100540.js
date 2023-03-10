@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Eye of the Hurricane', 
+      author: 'LightningCoder', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5906352159637504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Change my name', 
       author: 'Phase ', 
       votes: 12, 
@@ -100,18 +109,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Eye of the Hurricane', 
-      author: 'LightningCoder', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5906352159637504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
-      votes: 17, 
+      votes: 18, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6371191948623872.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
+      title: 'Spin-off of "Isometric Blocks"', 
+      author: 'Bob Lyon', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
       votes: 60, 
@@ -158,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6108524021334016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6102788906205184.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
@@ -199,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'Adorable Puppy!', 
+      author: 'PaNcAkEs', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6580614746914816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
       title: 'close one.', 
       author: 'YokieBob', 
       votes: 11, 
@@ -206,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
       link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Adorable Puppy!', 
-      author: 'PaNcAkEs', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6580614746914816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'A WIP', 
@@ -244,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6174860093210624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'DVD screensaver', 
       author: 'Ducky Momo', 
       votes: 12, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464/6513625538019328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
-    }, 
-    {
-      title: 'Spin-off of "Isometric Blocks"', 
-      author: 'Bob Lyon', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
   ];
 };
