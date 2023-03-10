@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 41, 
+      votes: 42, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -66,11 +66,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you know, you know.', 
       author: 'Synapse', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 19, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Eye of the Hurricane', 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 16, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6058674768625664.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Hangman', 
-      author: 'Timothy Lightson', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'kill dude among us', 
@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 10, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5566098156339200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/6373427873366016.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
