@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 75, 
+      votes: 76, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
