@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'JustZoul', 
       votes: 31, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/6543775940001792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4865523559219200.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/5096252692021248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -211,10 +211,19 @@ var LoadHotlistAPI = function() {
       title: 'contest 1!', 
       author: 'Blake Meloche (T1)[Online]', 
       votes: 11, 
-      forks: 5, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Platformer v0.1', 
+      author: 'VanadiumDev', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sal-khan/4736216056774656/4720739209232384.png', 
       link: 'https://www.khanacademy.org/computer-programming/sal-khan/4736216056774656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_63011455110687916526766'
-    }, 
-    {
-      title: 'LJE\'s Subbie page', 
-      author: 'LJE', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
   ];
 };
