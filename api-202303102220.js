@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Platformer v0.1', 
+      author: 'VanadiumDev', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
+    }, 
+    {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
       votes: 33, 
@@ -37,18 +46,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
-      title: 'Platformer v0.1', 
-      author: 'VanadiumDev', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
-    }, 
-    {
       title: 'Kaleidoscope Maker v1.0', 
       author: 'Phase ', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
       link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 79, 
+      votes: 80, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
-      author: 'CylenceScythe (Online)', 
+      author: 'CylenceScythe (Online-ish)', 
       votes: 58, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'kill dude among us', 
       author: 'cool guy coding', 
-      votes: 13, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
       link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 ', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/5761357704380416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4851611673608192.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
