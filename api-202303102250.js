@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 29, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions', 
-      votes: 14, 
+      votes: 15, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
-      author: 'CylenceScythe (Online-ish)', 
+      author: 'CylenceScythe (Offline)', 
       votes: 58, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
@@ -158,14 +158,14 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 ', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4917121777975296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/5957259333255168.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 51, 
+      votes: 52, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 84, 
+      votes: 85, 
       forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'PaNcAkEs', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/4525323461115904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6018589218095104.png', 
       link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
