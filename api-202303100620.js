@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 74, 
+      votes: 75, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 48, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6181282713485312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/4703321267159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'piglin dance', 
       author: 'LightningCoder', 
-      votes: 18, 
+      votes: 19, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6371191948623872.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
       votes: 6, 
@@ -167,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6102788906205184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4674882761965568.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/4759886640758784.png', 
       link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
-    }, 
-    {
-      title: 'Avatar Wars 1', 
-      author: 'Crystal Coding', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'Adorable Puppy!', 
