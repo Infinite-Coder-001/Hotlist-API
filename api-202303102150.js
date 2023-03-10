@@ -75,8 +75,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'NINTENDO Contest', 
       author: 'PenGwen', 
-      votes: 10, 
-      forks: 1, 
+      votes: 11, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
       link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
@@ -121,7 +121,7 @@ var LoadHotlistAPI = function() {
       title: 'Terrain Generation', 
       author: 'Hurtin', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
