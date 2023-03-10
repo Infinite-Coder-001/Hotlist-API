@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 10, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4674882761965568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6218632160133120.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
@@ -212,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'PaNcAkEs', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6580614746914816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/4525323461115904.png', 
       link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
