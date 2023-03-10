@@ -21,11 +21,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 60, 
+      votes: 61, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
+    }, 
+    {
+      title: 'Spin-off of "Isometric Blocks"', 
+      author: 'Bob Lyon', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: '3D Raycasting Maze!', 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
-      title: 'Spin-off of "Isometric Blocks"', 
-      author: 'Bob Lyon', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'If you know, you know.', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'Terrain Generation', 
+      author: 'Hurtin', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
+    }, 
+    {
       title: 'Change my name', 
       author: 'Phase ', 
       votes: 12, 
@@ -134,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5788686312849408.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'close one.', 
+      author: 'YokieBob', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'contest 1!', 
@@ -167,27 +185,9 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Lightson', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6732309623783424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'close one.', 
-      author: 'YokieBob', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Terrain Generation', 
-      author: 'Hurtin', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
       title: 'Avatar Wars 1', 
