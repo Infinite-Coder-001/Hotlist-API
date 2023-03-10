@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
+      title: 'Platformer v0.1', 
+      author: 'VanadiumDev', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
+    }, 
+    {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 50, 
@@ -26,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Platformer v0.1', 
-      author: 'VanadiumDev', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
       title: '3D Raycasting Maze!', 
@@ -84,11 +84,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
-      votes: 26, 
+      votes: 27, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Into the Clouds [3D Game]', 
+      author: 'Dipper98', 
+      votes: 81, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'If you know, you know.', 
@@ -100,13 +109,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
-      title: 'Into the Clouds [3D Game]', 
-      author: 'Dipper98', 
-      votes: 80, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+      title: 'Hotlist API', 
+      author: 'Infinite coder', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
@@ -118,21 +127,30 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 30, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Eye of the Hurricane', 
       author: 'LightningCoder', 
       votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/6462327841144832.png', 
       link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 29, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
@@ -143,24 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
-    }, 
-    {
-      title: 'Hotlist API', 
-      author: 'Infinite coder', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
       title: '(Hard 2) CC01 (WorkInProgress)', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'No Nintendo >:(', 
+      author: 'Phase ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-nintendo/5215849462153216/4527678235656192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-nintendo/5215849462153216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 85, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
-      title: 'Adorable Puppy!', 
-      author: 'PaNcAkEs', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680/6018589218095104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
   ];
 };
