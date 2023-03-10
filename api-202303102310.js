@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
+      title: 'Eye of the Hurricane', 
+      author: 'LightningCoder', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/6462327841144832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -136,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
-      title: 'Eye of the Hurricane', 
-      author: 'LightningCoder', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/6462327841144832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'kill dude among us', 
       author: 'cool guy coding', 
       votes: 14, 
@@ -154,12 +154,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
-      title: '(Hard 2) CC01', 
+      title: 'Hotlist API', 
+      author: 'Infinite coder', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
+      title: '(Hard 2) CC01 (WorkInProgress)', 
       author: 'CodingChamp01 ', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/5957259333255168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/6225551889317888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
@@ -199,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'Hotlist API', 
-      author: 'Infinite coder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
-    }, 
-    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
+      author: 'Repeat', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
+    }, 
+    {
       title: 'close one.', 
       author: 'YokieBob', 
       votes: 18, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
       link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
-      author: 'Repeat', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
     {
       title: 'contest 1!', 
