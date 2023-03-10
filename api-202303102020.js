@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 48, 
-      forks: 16, 
+      votes: 49, 
+      forks: 17, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions', 
       votes: 12, 
@@ -55,13 +64,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 24, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Into the Clouds [3D Game]', 
@@ -91,13 +100,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 22, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Eye of the Hurricane', 
@@ -122,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Hurtin', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
@@ -131,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 50, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/4703321267159040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -172,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
+      title: 'Platformer v0.1', 
+      author: 'VanadiumDev', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
+    }, 
+    {
       title: '(Hard 2) CC01', 
       author: 'CodingChamp01 ', 
       votes: 11, 
@@ -190,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'NINTENDO Contest', 
-      author: 'PenGwen', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
       title: 'close one.', 
       author: 'YokieBob', 
       votes: 18, 
@@ -209,21 +218,12 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Online]', 
+      author: 'Blake Meloche (T1)[Offline for a bit]', 
       votes: 11, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Platformer v0.1', 
-      author: 'VanadiumDev', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
-      title: 'Sal Khan', 
-      author: 'LTC_NightNinja', 
-      votes: 4, 
+      title: 'LJE\'s Subbie page', 
+      author: 'LJE', 
+      votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sal-khan/4736216056774656/4720739209232384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sal-khan/4736216056774656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_63011455110687916526766'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
   ];
 };
