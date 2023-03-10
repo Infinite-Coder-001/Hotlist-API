@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 49, 
+      votes: 50, 
       forks: 17, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
-      votes: 33, 
+      votes: 34, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4812087123820544.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
@@ -158,14 +158,14 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 ', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4851611673608192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4917121777975296.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
-      votes: 50, 
+      votes: 51, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'Hotlist API', 
+      author: 'Infinite coder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -211,7 +220,7 @@ var LoadHotlistAPI = function() {
       title: 'close one.', 
       author: 'YokieBob', 
       votes: 18, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
       link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Hotlist API', 
-      author: 'Infinite coder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
       title: 'Avatar Wars 1', 
