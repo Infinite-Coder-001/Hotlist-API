@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
-      votes: 32, 
+      votes: 33, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4865523559219200.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Online)', 
-      votes: 57, 
+      votes: 58, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
@@ -175,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'Hangman', 
       author: 'Timothy Lightson', 
       votes: 10, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Helix Jump', 
-      author: 'Caloabebaboba Carter', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/helix-jump/5479653542510592/6613919886262272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/helix-jump/5479653542510592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9918982192518077194125094'
-    }, 
-    {
       title: 'Avatar Wars 1', 
       author: 'Crystal Coding', 
       votes: 15, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
+    }, 
+    {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 63, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
   ];
 };
