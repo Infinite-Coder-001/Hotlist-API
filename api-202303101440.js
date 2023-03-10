@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/6516986492534784.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Eye of the Hurricane', 
       author: 'LightningCoder', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5076632962646016.png', 
       link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -136,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5788686312849408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'close one.', 
@@ -158,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5660150985965568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5566098156339200.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
-      title: 'Avatar Wars 1', 
-      author: 'Crystal Coding', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'Adorable Puppy!', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+      title: 'Hard 2 | CC01', 
+      author: 'CodingChamp01 ', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4815008997621760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
   ];
 };
