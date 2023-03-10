@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -50,9 +50,18 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/4687377736187904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/5929755994275840.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/6211756798296064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Into the Clouds [3D Game]', 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5076632962646016.png', 
       link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/6211756798296064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'piglin dance', 
@@ -253,12 +253,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
     {
-      title: '(work in progress) v0.0.4: The World\'s Hardest Game, Remade', 
+      title: '(work in progress) v0.0.5: The World\'s Hardest Game, Remade', 
       author: 'Repeat', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v004-the-worlds-hardest-game-remade/5742745581043712/6379008730382336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v004-the-worlds-hardest-game-remade/5742745581043712', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v005-the-worlds-hardest-game-remade/5742745581043712/6701232091873280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v005-the-worlds-hardest-game-remade/5742745581043712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
     {
