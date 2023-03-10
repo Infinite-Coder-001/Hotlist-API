@@ -4,10 +4,19 @@ var LoadHotlistAPI = function() {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
       votes: 47, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/6734045079977984.png', 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 ', 
+      votes: 44, 
+      forks: 16, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Spin-off of "Isometric Blocks"', 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 ', 
-      votes: 43, 
-      forks: 16, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Skinamarink', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 55, 
+      votes: 56, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Terrain Generation', 
+      author: 'Hurtin', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 24, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6058674768625664.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Terrain Generation', 
-      author: 'Hurtin', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'I made explosive cows', 
+      author: 'Wort-Head Productions', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6697473760608256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -125,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'Generate a Color Scheme from an Image', 
@@ -154,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
-    }, 
-    {
       title: 'contest 1!', 
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 11, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'I made explosive cows', 
-      author: 'Wort-Head Productions', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/5086501463703552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Hard 2 | CC01', 
