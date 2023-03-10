@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions', 
-      votes: 11, 
+      votes: 12, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/4687377736187904.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 56, 
+      votes: 57, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/6211756798296064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 25, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5815444655357952.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/6211756798296064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'why you can\'t go outside', 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 ', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4552249785499648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4778261727199232.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
