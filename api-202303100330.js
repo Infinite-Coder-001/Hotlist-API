@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 36, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/4902461309763584.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: 'Dipper98', 
-      votes: 73, 
+      votes: 74, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
@@ -64,22 +64,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 48, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6181282713485312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
-      votes: 28, 
+      votes: 29, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 45, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/6181282713485312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      title: 'Change my name', 
+      author: 'Phase ', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5269363831914496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Generate a Color Scheme from an Image', 
@@ -100,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Change my name', 
-      author: 'Phase ', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5269363831914496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 17, 
@@ -118,9 +118,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'contest 1!', 
+      author: 'Blake Meloche (T1)[Offline]', 
+      votes: 9, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5660150985965568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
-      votes: 81, 
+      votes: 82, 
       forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
-      title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Offline]', 
-      votes: 8, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5660150985965568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'kill dude among us', 
