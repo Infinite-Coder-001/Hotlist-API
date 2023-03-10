@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 44, 
+      votes: 45, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/6734045079977984.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Spin-off of "Isometric Blocks"', 
+      author: 'Bob Lyon', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -118,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Spin-off of "Isometric Blocks"', 
-      author: 'Bob Lyon', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
       votes: 11, 
@@ -143,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5660150985965568.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/4759886640758784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'cloud interesting effects', 
@@ -199,13 +208,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 7, 
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/4759886640758784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6174860093210624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'Adorable Puppy!', 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Hangman', 
-      author: 'Timothy Lightson', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6174860093210624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'DVD screensaver', 
