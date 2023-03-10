@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 27, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'JustZoul', 
       votes: 33, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4865523559219200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4812087123820544.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
       votes: 26, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'NINTENDO Contest', 
-      author: 'PenGwen', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'If you know, you know.', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Lightson', 
       votes: 10, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6535089754521600.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
