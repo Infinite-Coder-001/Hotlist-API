@@ -12,11 +12,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
-      votes: 40, 
+      votes: 41, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Spin-off of "Isometric Blocks"', 
+      author: 'Bob Lyon', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Skinamarink', 
@@ -28,18 +37,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
-      title: 'Spin-off of "Isometric Blocks"', 
-      author: 'Bob Lyon', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5821163345592320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
-      votes: 20, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/6516986492534784.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 15, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'Generate a Color Scheme from an Image', 
       author: 'Paperwad ', 
       votes: 20, 
@@ -127,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Winston vs Hopper', 
-      author: 'Speedyspeedcuber', 
-      votes: 14, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4875877265752064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -143,6 +143,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/6058674768625664.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
+      title: 'contest 1!', 
+      author: 'Blake Meloche (T1)[Online]', 
+      votes: 10, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5566098156339200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'close one.', 
+      author: 'YokieBob', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Avatar Wars 1', 
@@ -154,33 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'close one.', 
-      author: 'YokieBob', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'contest 1!', 
-      author: 'Blake Meloche (T1)[Online]', 
-      votes: 9, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352/5566098156339200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
-    }, 
-    {
       title: 'cloud interesting effects', 
       author: 'Prisha B.', 
       votes: 82, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
-      title: 'Hangman', 
-      author: 'Timothy Lightson', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5405430006464512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'Duolingo! [No PJS]', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
+      title: 'Hard 2 | CC01', 
+      author: 'CodingChamp01 ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4815008997621760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Biscuit Baker', 
       author: 'Jed2009', 
       votes: 25, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Hard 2 | CC01', 
-      author: 'CodingChamp01 ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688/4815008997621760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01/6299390304370688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
   ];
 };
