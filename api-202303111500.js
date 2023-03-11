@@ -1,1 +1,274 @@
-var%20LoadHotlistAPI%20%3D%20function%28%29%20%7B%0A%20%20return%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Platformer%20v0.1%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27VanadiumDev%27%2C%20%0A%20%20%20%20%20%20votes%3A%2035%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/platformer-v01/6052606936137728%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_335279540512177885166674%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Isometric%20Blocks%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Green%20Ghost%27%2C%20%0A%20%20%20%20%20%20votes%3A%2055%2C%20%0A%20%20%20%20%20%20forks%3A%202%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_145655330786057731504264%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Hotlist%20API%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Infinite%20coder%27%2C%20%0A%20%20%20%20%20%20votes%3A%2022%2C%20%0A%20%20%20%20%20%20forks%3A%202%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/hotlist-api/5234045946740736%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_643015938786727315236008%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Spin-off%20of%20%22Isometric%20Blocks%22%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Bob%20Lyon%27%2C%20%0A%20%20%20%20%20%20votes%3A%2040%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_1116520053705160540512971%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Mini%20Khan%20Academy%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27CodingChamp01%20%F0%9F%94%B4%27%2C%20%0A%20%20%20%20%20%20votes%3A%2054%2C%20%0A%20%20%20%20%20%20forks%3A%2018%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_987747824768899590269539%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27NINTENDO%20Contest%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27PenGwen%27%2C%20%0A%20%20%20%20%20%20votes%3A%2018%2C%20%0A%20%20%20%20%20%20forks%3A%203%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_7555256339261326807371220%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Kaleidoscope%20Maker%20v1.0%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Phase%20%E2%9C%9D%27%2C%20%0A%20%20%20%20%20%20votes%3A%2018%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_681089987425266577892907%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%273D%20Raycasting%20Maze%21%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27%E2%9D%83JustZoul%E2%9D%83%27%2C%20%0A%20%20%20%20%20%20votes%3A%2038%2C%20%0A%20%20%20%20%20%20forks%3A%203%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/5819296158892032.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_2371175957417246495065305%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27I%20made%20explosive%20cows%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Wort-Head%20Productions%F0%9F%98%90%27%2C%20%0A%20%20%20%20%20%20votes%3A%2016%2C%20%0A%20%20%20%20%20%20forks%3A%202%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_423431091603467965233651%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Skinamarink%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27soap.%27%2C%20%0A%20%20%20%20%20%20votes%3A%2065%2C%20%0A%20%20%20%20%20%20forks%3A%207%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/skinamarink/5403493395644416%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_2090456066160557410785044%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Winston%20vs%20Hopper%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Speedyspeedcuber%27%2C%20%0A%20%20%20%20%20%20votes%3A%2028%2C%20%0A%20%20%20%20%20%20forks%3A%204%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4996257066303488.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_27450968667715698478922%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27If%20you%20know%2C%20you%20know.%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Synapse%27%2C%20%0A%20%20%20%20%20%20votes%3A%2032%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_1011121479142039633146274%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Terrain%20Generation%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Hurtin%27%2C%20%0A%20%20%20%20%20%20votes%3A%2018%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/terrain-generation/4748891507703808%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_567782721025930693177898%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27a%20groovy%20hotlist%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27%2ACaptain_Pockets%2A%27%2C%20%0A%20%20%20%20%20%20votes%3A%208%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_5149060527272230385478181%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Into%20the%20Clouds%20%5B3D%20Game%5D%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27%E2%96%AADipper98%E2%96%AA%27%2C%20%0A%20%20%20%20%20%20votes%3A%2083%2C%20%0A%20%20%20%20%20%20forks%3A%209%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_3886238215093093067654746%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Waterfall%20of%20Flames%20%7C%20ExDiCode%202023%20%28Challenge%205%3A%20Elemental%29%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27CylenceScythe%20%28Offline%29%27%2C%20%0A%20%20%20%20%20%20votes%3A%2060%2C%20%0A%20%20%20%20%20%20forks%3A%204%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_62918606874726993553345%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27kill%20dude%20among%20us%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27cool%20guy%20coding%27%2C%20%0A%20%20%20%20%20%20votes%3A%2017%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_3040702851422299209852325%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27piglin%20dance%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27LightningCoder%27%2C%20%0A%20%20%20%20%20%20votes%3A%2032%2C%20%0A%20%20%20%20%20%20forks%3A%203%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/piglin-dance/4522774163144704%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_293295321613227018876720%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27nincompoop%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27S.%20M.%20V.%27%2C%20%0A%20%20%20%20%20%20votes%3A%207%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5661956860329984.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/nincompoop/6110739742113792%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_266891459920003908397632%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Eye%20of%20the%20Hurricane%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27LightningCoder%27%2C%20%0A%20%20%20%20%20%20votes%3A%2019%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5883308628295680.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_293295321613227018876720%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Hangman%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Timothy%20Lightson%27%2C%20%0A%20%20%20%20%20%20votes%3A%2013%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/hangman/5729882510508032/5385733051564032.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/hangman/5729882510508032%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_18742994200781366480440%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27WELCOME%20BACK%20STUFF%21%21%21%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27LovelyPetals%27%2C%20%0A%20%20%20%20%20%20votes%3A%205%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_457072502044489729095001%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27%28work%20in%20progress%29%20v0.0.6%3A%20The%20World%5C%27s%20Hardest%20Game%2C%20Remade%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Repeat%27%2C%20%0A%20%20%20%20%20%20votes%3A%2014%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_730847189850789421961173%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27%28Hard%202%29%20CC01%20%28WorkInProgress%29%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27CodingChamp01%20%F0%9F%94%B4%27%2C%20%0A%20%20%20%20%20%20votes%3A%2013%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/4878024430632960.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_987747824768899590269539%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27why%20you%20can%5C%27t%20go%20outside%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27LovelyPetals%27%2C%20%0A%20%20%20%20%20%20votes%3A%2052%2C%20%0A%20%20%20%20%20%20forks%3A%203%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_457072502044489729095001%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Spin-off%20of%20%22Kaleidoscope%20Maker%20v1.0%22%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27mr.%20mustache%27%2C%20%0A%20%20%20%20%20%20votes%3A%204%2C%20%0A%20%20%20%20%20%20forks%3A%200%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_815566516976418032181994%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Change%20my%20name%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Phase%20%E2%9C%9D%27%2C%20%0A%20%20%20%20%20%20votes%3A%2013%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5359275314823168.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/change-my-name/5409783777902592%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_681089987425266577892907%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27Generate%20a%20Color%20Scheme%20from%20an%20Image%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27Paperwad%20%E2%98%A2%EF%B8%8F%27%2C%20%0A%20%20%20%20%20%20votes%3A%2021%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5028980250165248.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_1161636173501911064328685%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27fishnado%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27LightningCoder%27%2C%20%0A%20%20%20%20%20%20votes%3A%2029%2C%20%0A%20%20%20%20%20%20forks%3A%203%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/fishnado/6328407489298432%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_293295321613227018876720%27%0A%20%20%20%20%7D%2C%20%0A%20%20%20%20%7B%0A%20%20%20%20%20%20title%3A%20%27close%20one.%27%2C%20%0A%20%20%20%20%20%20author%3A%20%27YokieBob%27%2C%20%0A%20%20%20%20%20%20votes%3A%2019%2C%20%0A%20%20%20%20%20%20forks%3A%201%2C%20%0A%20%20%20%20%20%20thumbnail%3A%20%27https%3A//www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png%27%2C%20%0A%20%20%20%20%20%20link%3A%20%27https%3A//www.khanacademy.org/computer-programming/close-one/4619439901556736%27%2C%20%0A%20%20%20%20%20%20authorLink%3A%20%27https%3A//www.khanacademy.org/profile/kaid_681887786554114354822051%27%0A%20%20%20%20%7D%2C%20%0A%20%20%5D%3B%0A%7D%3B
+var LoadHotlistAPI = function() {
+  return [
+    {
+      title: 'Platformer v0.1', 
+      author: 'VanadiumDev', 
+      votes: 35, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
+    }, 
+    {
+      title: 'Isometric Blocks', 
+      author: 'Green Ghost', 
+      votes: 55, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Hotlist API', 
+      author: 'Infinite coder', 
+      votes: 22, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
+      title: 'Spin-off of "Isometric Blocks"', 
+      author: 'Bob Lyon', 
+      votes: 40, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
+      title: 'Mini Khan Academy', 
+      author: 'CodingChamp01 🔴', 
+      votes: 54, 
+      forks: 18, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 18, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ✝', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: '3D Raycasting Maze!', 
+      author: '❃JustZoul❃', 
+      votes: 38, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/5819296158892032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
+    }, 
+    {
+      title: 'I made explosive cows', 
+      author: 'Wort-Head Productions😐', 
+      votes: 16, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Skinamarink', 
+      author: 'soap.', 
+      votes: 65, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
+    }, 
+    {
+      title: 'Winston vs Hopper', 
+      author: 'Speedyspeedcuber', 
+      votes: 28, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4996257066303488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 32, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
+      title: 'Terrain Generation', 
+      author: 'Hurtin', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
+    }, 
+    {
+      title: 'a groovy hotlist', 
+      author: '*Captain_Pockets*', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
+    }, 
+    {
+      title: 'Into the Clouds [3D Game]', 
+      author: '▪Dipper98▪', 
+      votes: 83, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
+      author: 'CylenceScythe (Offline)', 
+      votes: 60, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 32, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5661956860329984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
+      title: 'Eye of the Hurricane', 
+      author: 'LightningCoder', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5883308628295680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5385733051564032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'WELCOME BACK STUFF!!!', 
+      author: 'LovelyPetals', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
+      author: 'Repeat', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
+    }, 
+    {
+      title: '(Hard 2) CC01 (WorkInProgress)', 
+      author: 'CodingChamp01 🔴', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/4878024430632960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'why you can\'t go outside', 
+      author: 'LovelyPetals', 
+      votes: 52, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
+      author: 'mr. mustache', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'Change my name', 
+      author: 'Phase ✝', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592/5359275314823168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/change-my-name/5409783777902592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Generate a Color Scheme from an Image', 
+      author: 'Paperwad ☢️', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5028980250165248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+    }, 
+    {
+      title: 'fishnado', 
+      author: 'LightningCoder', 
+      votes: 29, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'close one.', 
+      author: 'YokieBob', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736/5824087798890496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+  ];
+};
