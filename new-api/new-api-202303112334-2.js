@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'Biscuit Baker', 
-      author: 'JedBled', 
-      votes: 28, 
-      forks: 0, 
-      thumbnail: '/computer-programming/biscuit-baker/4829520677093376/5325630076141568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
-    }, 
-    {
       title: 'African Painted (Wild) Dog PIXEL', 
       author: 'PenGwen', 
       votes: 17, 
@@ -136,78 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Claudine Kariisa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6104571586068480/5428781970145280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6104571586068480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6736665965348485537942391'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'merlyynmerlyyn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5353419999330304/6012568764465152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5353419999330304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
-    }, 
-    {
-      title: 'some game', 
-      author: 'Underscore', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/some-game/5311658178428928/4652351900401664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/some-game/5311658178428928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
-    }, 
-    {
-      title: 'Pranav Is Stupidly Smart Just Kidding', 
-      author: 'SixtyNineFourTwenty', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pranav-is-stupidly-smart-just-kidding/5865618589138944/6543120135405568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pranav-is-stupidly-smart-just-kidding/5865618589138944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1085095126087580503707357'
-    }, 
-    {
-      title: 'New program', 
-      author: 'mastergordito2013', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6187522973810688/5279675704459264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6187522973810688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'flaherty', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/5916401259036672/5731093787754496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5916401259036672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697567192793256308060918'
-    }, 
-    {
-      title: 'New program', 
-      author: 'mastergordito2013', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/5584132883398656/4756923859910656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5584132883398656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage" -- Visit Satellite Beach 2', 
-      author: 'Hanna Green', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach-2/5098124089802752/5364883904577536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach-2/5098124089802752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
-    }, 
-    {
       title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
       author: 'camiloriva98', 
       votes: 1, 
@@ -235,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9455265574743917480791704'
     }, 
     {
+      title: 'Cute Pikachu', 
+      author: 'ArcticWolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6343623090421760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
       title: 'Spin-off of "Project: Travel webpage" -- Visit Satellite Beach', 
       author: 'Hanna Green', 
       votes: 1, 
@@ -253,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'Bhaavik Narayana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-make-it-rain/4747765244805120/6179606032072704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4747765244805120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6267032442590762070554611'
-    }, 
-    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'cloneymaricarandang', 
       votes: 1, 
@@ -269,6 +188,87 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/5721262095908864/6364526864023552.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5721262095908864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1166282538957354468773125'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Claudine Kariisa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6617714624086016/4615366435454976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6617714624086016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6736665965348485537942391'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'daniel.rafferty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-my-favorite-foods/5380567405477888/6519018750263296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5380567405477888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292389357190891478370385'
+    }, 
+    {
+      title: 'Gunz... | That\'s how you spell it -_-', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/gunz-thats-how-you-spell-it-_-/6393181610754048/4702695971930112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gunz-thats-how-you-spell-it-_-/6393181610754048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Mason Aguirre', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6216356641161216/6688995482583040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6216356641161216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4295230972577471835432695'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'Bhaavik Narayana', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-make-it-rain/5260475992686592/6074837972074496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5260475992686592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6267032442590762070554611'
+    }, 
+    {
+      title: 'JS Project: Step 4 (S5)', 
+      author: 'aieman27', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/js-project-step-4-s5/5754440550498304/5979805613080576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/js-project-step-4-s5/5754440550498304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'merlyynmerlyyn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4808858738671616/6297254598328320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4808858738671616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'dbd402', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-favorite-fruits/5436313774112768/4635469357039616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5436313774112768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9455265574743917480791704'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature" --> Rainbow Lorakeets', 
+      author: 'Hanna Green', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688/5150524527919104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
     }, 
   ];
 };
