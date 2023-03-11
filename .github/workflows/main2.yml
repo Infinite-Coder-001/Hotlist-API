@@ -1,0 +1,57 @@
+name: Remove old API logs
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+      tags:
+        description: 'Test scenario tags'
+        required: false
+        type: boolean
+      environment:
+        description: 'Environment to run tests against'
+        type: environment
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Execute python script # run main.py
+        run: python remove.py
+        
+      - name: Using auto-commit library
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Change
+#          push_options: '--force'
+#        
+#      - name: Purging jsdelivr's cache
+#        uses: gacts/purge-jsdelivr-cache@v1
+#        with:
+#          url: |
+#            https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api.js
