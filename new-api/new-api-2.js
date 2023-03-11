@@ -136,6 +136,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1069581113742895920375992'
     }, 
     {
+      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
+      author: 'rodrigo.mesquita', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/6041196256608256/6128853720547328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/6041196256608256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8239493800426721529682418'
+    }, 
+    {
+      title: 'Learning Java Script from HTML!', 
+      author: 'calvin.armour77', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/learning-java-script-from-html/5365398721839104/4847883524554752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/learning-java-script-from-html/5365398721839104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ari.v.zahemski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5577407535038464/6666355246153728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5577407535038464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4973609602928584636556805'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Evelyne W', 
       votes: 1, 
@@ -145,11 +172,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7278997410296382118814993'
     }, 
     {
+      title: 'Spin-off of "New program"', 
+      author: 'LJE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-new-program/6707627910545408/5542925155221504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/6707627910545408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
+    }, 
+    {
       title: 'Spin-off of "Drawing more shapes with code"', 
       author: 'Pritha Sankar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/6707534394343424/4588800150126592.png', 
+      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/6707534394343424/4970696059174912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6707534394343424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_397358735440412746588935'
     }, 
@@ -199,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
     }, 
     {
+      title: 'Second term Exam - 14-3-2023 By: ', 
+      author: 'William Garcia Franks', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/second-term-exam-14-3-2023-by/5190634757734400/4552756730052608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/second-term-exam-14-3-2023-by/5190634757734400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_555430956208811655352793'
+    }, 
+    {
       title: 'Ritz Crackers ad ', 
       author: 'sadhanareddy19', 
       votes: 1, 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/exemplu-2-khan-19/6234441800531968/5319543167959040.png', 
       link: 'https://www.khanacademy.org/computer-programming/exemplu-2-khan-19/6234441800531968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'mario.espinosalopez97', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-bola-8-mgica/5169958629982208/6231518110597120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5169958629982208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_116333613741815494210550'
-    }, 
-    {
-      title: 'Spin-off of "Nested For Loops"', 
-      author: 'HOPPER', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-nested-for-loops/6144882001625088/6113937412374528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/6144882001625088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426353572039768796081737'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Bran Usuga Matias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/5267285877243904/5078995047858176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5267285877243904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1145970157508866580846694'
-    }, 
-    {
-      title: 'Shooting stars', 
-      author: 'jonandchristinawoody', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/shooting-stars/6105901809582080/5776934212780032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-stars/6105901809582080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3051160711715090388744570'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Bran Usuga Matias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/4786259069550592/5958138568425472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4786259069550592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1145970157508866580846694'
     }, 
   ];
 };
