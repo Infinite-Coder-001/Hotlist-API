@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'GLITCH [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions😐', 
       votes: 19, 
@@ -95,18 +104,9 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 8, 
       forks: 1, 
-      thumbnail: '/computer-programming/raymarching/5238741335851008/4593964420481024.png', 
+      thumbnail: '/computer-programming/raymarching/5238741335851008/6244219830452224.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'GLITCH [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'some random 3D FPS', 
