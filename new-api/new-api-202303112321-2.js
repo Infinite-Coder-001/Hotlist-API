@@ -127,6 +127,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
+      author: 'camiloriva98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5064187162443776/4847539751010304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5064187162443776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_936982418706166176827120'
+    }, 
+    {
+      title: 'Derivado de "Crear una tabla e insertar datos"', 
+      author: 'miguelgutierrezdesign1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5950750712971264/6747430018400256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5950750712971264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7286616770423771172206975'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 'dbd402', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-favorite-animals/6110552487411712/4527352380178432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6110552487411712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9455265574743917480791704'
+    }, 
+    {
+      title: 'Cute Pikachu', 
+      author: 'ArcticWolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6343623090421760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage" -- Visit Satellite Beach', 
+      author: 'Hanna Green', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach/6225641454485504/4760725870657536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach/6225641454485504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
+    }, 
+    {
       title: 'DVD screensaver', 
       author: 'Ducky Momo', 
       votes: 12, 
@@ -164,7 +209,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Gunz... | That\'s how you spell it -_-', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 1, 
       forks: 0, 
       thumbnail: '/computer-programming/gunz-thats-how-you-spell-it-_-/6393181610754048/4702695971930112.png', 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688/5150524527919104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
-    }, 
-    {
-      title: 'Carrinho', 
-      author: 'capir.2022116isinf0318', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/carrinho/5937308346138624/4946224803528704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/carrinho/5937308346138624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_196755121533870800054109'
-    }, 
-    {
-      title: 'Spin-off of "triangle(x1, y1, x2, y2, x3, y3) | ProcessingJS"', 
-      author: '958781106', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-trianglex1-y1-x2-y2-x3-y3-processingjs/5232098338455552/5536508205645824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-trianglex1-y1-x2-y2-x3-y3-processingjs/5232098338455552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_966583982429002690525287'
-    }, 
-    {
-      title: 'Ashraf Alashwal: Machine Learning', 
-      author: 'ashraf_alashwal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/ashraf-alashwal-machine-learning/5555584369999872/5589388648300544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ashraf-alashwal-machine-learning/5555584369999872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_430754732202950629562243'
-    }, 
-    {
-      title: 'Diego García "Monte Everest"', 
-      author: 'Diego Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/diego-garca-monte-everest/5146555575484416/6659752077869056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/diego-garca-monte-everest/5146555575484416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7551067924020140927828637'
-    }, 
-    {
-      title: 'fish sticks', 
-      author: 'Bethanne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/fish-sticks/6157849279643648/6292186192986112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-sticks/6157849279643648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_75743402507318920852762'
     }, 
   ];
 };
