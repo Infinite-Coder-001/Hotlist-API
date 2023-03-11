@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 60, 
+      votes: 61, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
@@ -230,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 🔴', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/4878024430632960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/6173451595595776.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
