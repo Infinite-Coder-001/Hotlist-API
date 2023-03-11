@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
-      votes: 39, 
+      votes: 40, 
       forks: 0, 
       thumbnail: '/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 43, 
+      votes: 44, 
       forks: 1, 
       thumbnail: '/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5403432393687040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 57, 
+      votes: 58, 
       forks: 2, 
       thumbnail: '/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
-      votes: 61, 
+      votes: 62, 
       forks: 18, 
       thumbnail: '/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
       author: 'mr. mustache', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: '/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
@@ -211,7 +211,7 @@ var LoadHotlistAPI = function() {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 33, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: '/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
