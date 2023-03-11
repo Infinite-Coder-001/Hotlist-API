@@ -127,6 +127,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
     }, 
     {
+      title: 'hacked karlson just for backup', 
+      author: 'Babylon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/hacked-karlson-just-for-backup/5020220429484032/6304628016988160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hacked-karlson-just-for-backup/5020220429484032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_912757396065858256957570'
+    }, 
+    {
+      title: 'LovelyPetals', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/lovelypetals/5997018868924416/5757100510986240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lovelypetals/5997018868924416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'My Entry', 
       author: 'Lucas', 
       votes: 2, 
@@ -136,11 +154,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1069581113742895920375992'
     }, 
     {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'merlyynmerlyyn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-simple-snowman/5845802146906112/4797659804385280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5845802146906112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Just J', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/5017463467327488/4901353208201216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5017463467327488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444918832602112696836100'
+    }, 
+    {
+      title: 'Derivação de "Fundamentos de HTML"', 
+      author: 'ingridywho', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-fundamentos-de-html/4788291079815168/6381203953598464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-fundamentos-de-html/4788291079815168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1066140272288877025764049'
+    }, 
+    {
       title: 'Derivado de "Jose Enrique Samayoa Sánchez"', 
       author: 'Jose Enrique  Samayoa Sánchez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-jose-enrique-samayoa-snchez/5404777322430464/5507157338669056.png', 
+      thumbnail: '/computer-programming/derivado-de-jose-enrique-samayoa-snchez/5404777322430464/5844616274558976.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-jose-enrique-samayoa-snchez/5404777322430464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_388555879809927648476173'
     }, 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/lorenzo-etoile/5955002168557568/5353658873331712.png', 
       link: 'https://www.khanacademy.org/computer-programming/lorenzo-etoile/5955002168557568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_387334202065888469483506'
-    }, 
-    {
-      title: 'walmart piano', 
-      author: 'Dat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/walmart-piano/6251292970500096/6065419603722240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/walmart-piano/6251292970500096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'almost spring!!', 
-      author: 'Bethanne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/almost-spring/6229215274123264/4881879348330496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/almost-spring/6229215274123264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_75743402507318920852762'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'Javier A. Roman Gonzaez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-da-nevado-soleado/6529577658925056/6674998272245760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6529577658925056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_481665949439392970962808'
-    }, 
-    {
-      title: 'white dog graphic(draft)', 
-      author: 'White Eskimo dog', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/white-dog-graphicdraft/6477920342425600/6572686648328192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-dog-graphicdraft/6477920342425600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1007713844357391908776128'
-    }, 
-    {
-      title: 'Mario pixel art (in progress)', 
-      author: 'Green Light', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/mario-pixel-art-in-progress/5791186789122048/6515202294333440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario-pixel-art-in-progress/5791186789122048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
   ];
 };
