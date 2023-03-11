@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5712052691976192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/4593964420481024.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
