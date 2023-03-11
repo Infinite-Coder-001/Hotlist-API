@@ -119,6 +119,87 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
+      author: 'F4stB01', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
+      title: 'Carrinho', 
+      author: 'capir.2022116isinf0318', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/carrinho/5937308346138624/4946224803528704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/carrinho/5937308346138624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_196755121533870800054109'
+    }, 
+    {
+      title: 'Spin-off of "triangle(x1, y1, x2, y2, x3, y3) | ProcessingJS"', 
+      author: '958781106', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-trianglex1-y1-x2-y2-x3-y3-processingjs/5232098338455552/5536508205645824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-trianglex1-y1-x2-y2-x3-y3-processingjs/5232098338455552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966583982429002690525287'
+    }, 
+    {
+      title: 'Ashraf Alashwal: Machine Learning', 
+      author: 'ashraf_alashwal', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/ashraf-alashwal-machine-learning/5555584369999872/5097677618724864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ashraf-alashwal-machine-learning/5555584369999872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_430754732202950629562243'
+    }, 
+    {
+      title: 'Diego García "Monte Everest"', 
+      author: 'Diego Garcia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/diego-garca-monte-everest/5146555575484416/6659752077869056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/diego-garca-monte-everest/5146555575484416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7551067924020140927828637'
+    }, 
+    {
+      title: 'fish sticks', 
+      author: 'Bethanne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/fish-sticks/6157849279643648/6292186192986112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fish-sticks/6157849279643648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_75743402507318920852762'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'Santiago Bedoya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-libro-de-recetas/6384989321347072/4827374879555584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6384989321347072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7356864713741367517318290'
+    }, 
+    {
+      title: 'PO-3-informatica- Auto-spel', 
+      author: 'kamal shoushan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/po-3-informatica-auto-spel/5484077627260928/5900201137324032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/po-3-informatica-auto-spel/5484077627260928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'harrisonokojie9714', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6441452580421632/6705616020357120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6441452580421632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3453704388700200090323089'
+    }, 
+    {
+      title: 'New program', 
       author: 'LeaferStudios', 
       votes: 1, 
       forks: 0, 
@@ -136,12 +217,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_953367127516774863615491'
     }, 
     {
-      title: 'Images From The United States Of America', 
+      title: 'Images From The United States Of America And More😃', 
       author: 'Midnight Suffering V1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/images-from-the-united-states-of-america/4684502465298432/5954820479696896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/images-from-the-united-states-of-america/4684502465298432', 
+      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5520696732336128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7829382333724071241776572'
     }, 
     {
@@ -149,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/pixel-emerald/5286370497314816/5271710821826560.png', 
+      thumbnail: '/computer-programming/pixel-emerald/5286370497314816/4507166713364480.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-emerald/5286370497314816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -158,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'merlyynmerlyyn', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-waving-snowman/6574561334444032/6259650683256832.png', 
+      thumbnail: '/computer-programming/spin-off-of-challenge-waving-snowman/6574561334444032/5636897026392064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6574561334444032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
     }, 
@@ -188,87 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-data-dig/5860516780359680/6592638423973888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5860516780359680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6736665965348485537942391'
-    }, 
-    {
-      title: 'JS Program: Step 3 (S4)', 
-      author: 'aieman27', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/js-program-step-3-s4/6345659353710592/5218137413042176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/js-program-step-3-s4/6345659353710592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'thepotterlover3521', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6318952370454528/5412144944562176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6318952370454528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639768721107279664788216'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Alicia Lewis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/4862479761195008/4650941850894336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4862479761195008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_63201762441884590447863'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'ally', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-webpage/6698080600899584/5208927090556928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6698080600899584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Gąszczak Emilia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-ksika-kucharska/6314396307734528/4595092403044352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6314396307734528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_967374454915770030776114'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'cristianismoet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/6511824210280448/4977612198035456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511824210280448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_545800764651006291879335'
-    }, 
-    {
-      title: 'Diego García "Monte Everest"', 
-      author: 'Diego Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/diego-garca-monte-everest/6599259745206272/5641917910269952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/diego-garca-monte-everest/6599259745206272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7551067924020140927828637'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'n.siraj90', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-famous-people/6036877264338944/5062971284045824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6036877264338944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_559678405150368466912445'
-    }, 
-    {
-      title: 'me coding at 3:am ', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/me-coding-at-3am/5917061064998912/4950871630987264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/me-coding-at-3am/5917061064998912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
