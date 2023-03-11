@@ -38,7 +38,7 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 ```
 
 ## Callback
-The callback function is called after all data is loaded. The function is called with an argument - an array with 30 arguments - the top 30 programs on Hotlist. Each argument in the array is an object that contains: 
+The callback function is called after all data is loaded. The function is called with an argument - an array with 30 arguments - the top 30 programs on Hotlist. Each argument in the array is an object, that contains: 
  - `title`: The title of the program
  - `author`: Author of the program
  - `votes`: Amount of votes, that the program has
