@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'African Painted (Wild) Dog PIXEL', 
-      author: 'PenGwen', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: '/computer-programming/african-painted-wild-dog-pixel/6389379516121088/5432408310857728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
       title: 'STOP POSTING ABOUT \''baller''', 
       author: 'LovelyPetals', 
       votes: 3, 
@@ -136,24 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Mason Aguirre', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6216356641161216/6688995482583040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6216356641161216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4295230972577471835432695'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'Bhaavik Narayana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-make-it-rain/5260475992686592/6074837972074496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5260475992686592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6267032442590762070554611'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'merlyynmerlyyn', 
       votes: 1, 
@@ -179,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688/5150524527919104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
+    }, 
+    {
+      title: 'New program', 
+      author: 'F4stB01', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
       title: 'Carrinho', 
@@ -269,6 +251,24 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6089896051916800/6001928578580480.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6089896051916800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_953367127516774863615491'
+    }, 
+    {
+      title: 'Images From The United States Of America And More😃', 
+      author: 'Midnight Suffering V1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5121779695927296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7829382333724071241776572'
+    }, 
+    {
+      title: 'Pixel Emerald ', 
+      author: 'Arrow.programming', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/pixel-emerald/5286370497314816/5400221888856064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-emerald/5286370497314816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
