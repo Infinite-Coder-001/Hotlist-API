@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
-      votes: 33, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 20, 
+      votes: 21, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: '*Captain_Pockets*', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5349159224000512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Terrain Generation', 
+      author: 'Hurtin', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
+    }, 
+    {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
       author: 'CylenceScythe (Offline)', 
       votes: 60, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
-      title: 'Terrain Generation', 
-      author: 'Hurtin', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
       title: 'kill dude among us', 
