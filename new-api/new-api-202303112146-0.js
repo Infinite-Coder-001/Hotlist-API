@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
+      author: 'mr. mustache', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions😐', 
       votes: 19, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/3d-raycasting-maze/4729411834527744/5819296158892032.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
-    }, 
-    {
-      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
-      author: 'mr. mustache', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Raymarching', 
@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 8, 
       forks: 0, 
-      thumbnail: '/computer-programming/some-random-3d-fps/5066108229173248/4824037119541248.png', 
+      thumbnail: '/computer-programming/some-random-3d-fps/5066108229173248/5340575924797440.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-random-3d-fps/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skinamarink', 
       author: 'soap.', 
-      votes: 66, 
+      votes: 67, 
       forks: 7, 
       thumbnail: '/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
