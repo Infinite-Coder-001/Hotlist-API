@@ -9,6 +9,9 @@ from random import randint
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
+from urllib.parse import quote
+
+print(quote('ó'))
 
 # This is the variable, where the script will put all downloaded data
 programs = "["
