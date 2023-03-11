@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 ', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/6225551889317888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/5989981925720064.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Scene 26 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 6, 
+      title: 'WELCOME BACK STUFF!!!', 
+      author: 'LovelyPetals', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152/5914687504171008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
