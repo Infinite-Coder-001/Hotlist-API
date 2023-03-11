@@ -8,7 +8,7 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 |1.3.0        |✔️         |
 
 ## Importing
-**1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.2.0/main.js"></script>` to `<head>` of your HTML page. 
+**1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js"></script>` to `<head>` of your HTML page. 
 
 **2**. Call `HotlistAPI(callback);` in `<script>`. The `callback` is a function, that is called after all data is loaded. The function will be called with an argument, that contains raw JSON - the API output. **Example**: 
 
@@ -18,7 +18,7 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 <html>
     <head>
         <title>HotlistAPI example</title>
-        <script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.2.0/main.js"></script> <!-- Including the script -->
+        <script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js"></script> <!-- Including the script -->
     </head>
     <body>
         <p id = "demo"></p>
@@ -66,7 +66,7 @@ The callback function is called after all data is loaded. The function is called
 <html>
     <head>
         <title>HotlistAPI example 2</title>
-        <script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.2.0/main.js"></script> <!-- Including the script -->
+        <script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js"></script> <!-- Including the script -->
         <style>
             table {
                 font-family: arial, sans-serif;
