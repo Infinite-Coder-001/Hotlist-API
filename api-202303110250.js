@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Kaleidoscope Maker v1.0', 
       author: 'Phase ', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
       link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you know, you know.', 
       author: 'Synapse', 
-      votes: 30, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
