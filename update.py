@@ -1,3 +1,4 @@
+# This script is called only in OLD version
 # This script is evaluated every 5 minutes. 
 # It updates the 'api.js' file
 
