@@ -11,8 +11,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from urllib.parse import quote
 
-print(quote('ó'))
-
 # This is the variable, where the script will put all downloaded data
 programs = "["
 
@@ -51,7 +49,7 @@ fullNewDateSplited = list(fullNewDate)
 newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + fullNewDateSplited[10] + "0.js"
 
 openedFile = open(newFileName, "w");
-openedFile.write(programs);
+openedFile.write(quote(programs));
 openedFile.close();
 
 # That's all! Sucessfully updated. 
