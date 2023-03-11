@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'GLITCH [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'nincompoop', 
       author: 'S. M. V.', 
       votes: 12, 
@@ -122,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 7, 
       forks: 0, 
-      thumbnail: '/computer-programming/kas-first-3d-fps/5066108229173248/5485097648439296.png', 
+      thumbnail: '/computer-programming/kas-first-3d-fps/5066108229173248/5497634368569344.png', 
       link: 'https://www.khanacademy.org/computer-programming/kas-first-3d-fps/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'GLITCH [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Winston vs Hopper ', 
