@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'Eye of the Hurricane', 
-      author: 'LightningCoder', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: '/computer-programming/eye-of-the-hurricane/6529904726556672/5883308628295680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'New program', 
       author: 'F4stB01', 
       votes: 3, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/avatar-wars-2/4927787783995392/4565590650175488.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-wars-2/4927787783995392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: 'Biscuit Baker', 
+      author: 'JedBled', 
+      votes: 28, 
+      forks: 0, 
+      thumbnail: '/computer-programming/biscuit-baker/4829520677093376/5325630076141568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
     }, 
   ];
 };
