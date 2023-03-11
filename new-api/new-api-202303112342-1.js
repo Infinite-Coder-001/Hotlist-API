@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Hangman', 
+      author: 'Timothy Lightson', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: '/computer-programming/hangman/5729882510508032/5385733051564032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Eye of the Hurricane', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/eye-of-the-hurricane/6529904726556672/5883308628295680.png', 
       link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'New program', 
-      author: 'F4stB01', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
       title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Duolingo! [No PJS]', 
       author: 'Fire Wolf', 
-      votes: 65, 
+      votes: 66, 
       forks: 1, 
       thumbnail: '/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
