@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
-      votes: 58, 
+      votes: 59, 
       forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Generate a Color Scheme from an Image', 
-      author: 'Paperwad ☢️', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5028980250165248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+      title: 'Netflix graphic', 
+      author: 'sgh07', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/netflix-graphic/5010809736708096/5417140536786944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/netflix-graphic/5010809736708096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
   ];
 };
