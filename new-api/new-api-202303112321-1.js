@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'New program', 
+      author: 'F4stB01', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
       title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
       author: 'Repeat', 
       votes: 17, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'New program', 
-      author: 'F4stB01', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
       title: 'Raining till it is flooding ', 
