@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
+      author: 'Repeat', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: '/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
+    }, 
+    {
       title: 'New Angry Button: He wants revenge. ', 
       author: 'Omkirat C.', 
       votes: 3, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/african-painted-wild-dog-pixel/6389379516121088/5432408310857728.png', 
       link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: 'STOP POSTING ABOUT \''baller''', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/stop-posting-about-baller/6615856614522880/6145159840710656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stop-posting-about-baller/6615856614522880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
