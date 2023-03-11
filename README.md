@@ -4,8 +4,8 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 ## Working versions
 | **Version** | **Works** |
 |:-----------:|:---------:|
-|<1.2.0       |❌         |
-|1.2.0        |✔️         |
+|<1.3.0       |❌         |
+|1.3.0        |✔️         |
 
 ## Importing
 **1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@1.2.0/main.js"></script>` to `<head>` of your HTML page. 
