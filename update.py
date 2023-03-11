@@ -9,7 +9,7 @@ from random import randint
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
-from urllib.parse import quote
+#from urllib.parse import quote
 
 # This is the variable, where the script will put all downloaded data
 programs = "["
@@ -50,7 +50,7 @@ fullNewDateSplited = list(fullNewDate)
 newFileName = "api-" + fullNewDateSplited[0] + fullNewDateSplited[1] + fullNewDateSplited[2] + fullNewDateSplited[3] + fullNewDateSplited[4] + fullNewDateSplited[5] + fullNewDateSplited[6] + fullNewDateSplited[7] + fullNewDateSplited[8] + fullNewDateSplited[9] + fullNewDateSplited[10] + "0.js"
 
 openedFile = open(newFileName, "w");
-openedFile.write(quote(programs));
+openedFile.write(programs);
 openedFile.close();
 
 # That's all! Sucessfully updated. 
