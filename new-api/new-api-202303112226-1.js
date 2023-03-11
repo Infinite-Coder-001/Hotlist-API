@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 52, 
       forks: 3, 
-      thumbnail: '/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
+      thumbnail: '/computer-programming/why-you-cant-go-outside/4733894559842304/4870166511140864.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
