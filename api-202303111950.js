@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5232060027682816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5712052691976192.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
+      title: 'SCP Foundation', 
+      author: 'cool guy coding', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
       title: 'Flashbacks', 
       author: 'KarLlr', 
       votes: 4, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688/6626142054563840.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'SCP Foundation', 
-      author: 'cool guy coding', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
   ];
 };
