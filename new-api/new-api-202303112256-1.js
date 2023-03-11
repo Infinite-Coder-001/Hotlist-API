@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'New program', 
-      author: 'F4stB01', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
-    }, 
-    {
       title: 'Raining till it is flooding ', 
       author: 'Lesha ', 
       votes: 9, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/biscuit-baker/4829520677093376/5325630076141568.png', 
       link: 'https://www.khanacademy.org/computer-programming/biscuit-baker/4829520677093376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_256745960287839131161104'
+    }, 
+    {
+      title: 'African Painted (Wild) Dog PIXEL', 
+      author: 'PenGwen', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: '/computer-programming/african-painted-wild-dog-pixel/6389379516121088/5432408310857728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/african-painted-wild-dog-pixel/6389379516121088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
   ];
 };
