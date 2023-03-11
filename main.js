@@ -9,7 +9,7 @@ function HotlistAPI(callback) {
         }
         function finished() {
             clearTimeout(timeoutVariable);
-            callback(decodeURIComponent(LoadHotlistAPI()));
+            callback(LoadHotlistAPI());
         }
         var script = document.createElement('script');
         var date = new Date(Date.now() - 1000 * 60 * delay);
