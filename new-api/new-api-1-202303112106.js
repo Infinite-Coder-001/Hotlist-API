@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 🔴', 
       votes: 14, 
       forks: 0, 
-      thumbnail: '/computer-programming/hard-2-cc01-workinprogress/6299390304370688/4920736643072000.png', 
+      thumbnail: '/computer-programming/hard-2-cc01-workinprogress/6299390304370688/5293868918816768.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
