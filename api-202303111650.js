@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/5431197780197376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
