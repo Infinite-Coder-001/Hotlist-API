@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 15, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions', 
       votes: 16, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'NINTENDO Contest', 
-      author: 'PenGwen', 
-      votes: 14, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Skinamarink', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 28, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5497250459729920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5919564284346368.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
