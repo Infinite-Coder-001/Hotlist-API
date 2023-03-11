@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 17, 
+      votes: 18, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
@@ -40,10 +40,19 @@ var LoadHotlistAPI = function() {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 ', 
       votes: 54, 
-      forks: 17, 
+      forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 17, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Kaleidoscope Maker v1.0', 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/4812087123820544.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
-    }, 
-    {
-      title: 'NINTENDO Contest', 
-      author: 'PenGwen', 
-      votes: 16, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'I made explosive cows', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Lightson', 
       votes: 13, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6327322036977664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5385733051564032.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
