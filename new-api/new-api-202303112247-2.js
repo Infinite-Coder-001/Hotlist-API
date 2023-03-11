@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'STOP POSTING ABOUT \''baller''', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/stop-posting-about-baller/6615856614522880/6145159840710656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stop-posting-about-baller/6615856614522880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Butterflies', 
       author: 'LJE', 
       votes: 6, 
@@ -154,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
     }, 
     {
+      title: 'Here comes crazy man...', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/6363236318625792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'New program', 
       author: 'F4stB01', 
       votes: 1, 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'ashraf_alashwal', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/ashraf-alashwal-machine-learning/5555584369999872/5589388648300544.png', 
+      thumbnail: '/computer-programming/ashraf-alashwal-machine-learning/5555584369999872/5097677618724864.png', 
       link: 'https://www.khanacademy.org/computer-programming/ashraf-alashwal-machine-learning/5555584369999872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_430754732202950629562243'
     }, 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Midnight Suffering V1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5121779695927296.png', 
+      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5422624866091008.png', 
       link: 'https://www.khanacademy.org/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7829382333724071241776572'
     }, 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/pixel-emerald/5286370497314816/5400221888856064.png', 
+      thumbnail: '/computer-programming/pixel-emerald/5286370497314816/4507166713364480.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-emerald/5286370497314816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
