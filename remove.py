@@ -1,6 +1,8 @@
 # This script is used in NEW version
 # It removes old API logs
 
+import datetime
+
 for i in range(3, 600, 1):
     fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = i)).strftime('%Y%m%d%H%M')
     fullOldDateSplited = list(fullOldDate)
