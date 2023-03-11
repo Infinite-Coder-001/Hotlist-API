@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: '3D Raycasting Maze!', 
       author: 'JustZoul', 
       votes: 38, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
-    }, 
-    {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5990038141976576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'NINTENDO Contest', 
