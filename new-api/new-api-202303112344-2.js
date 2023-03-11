@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5680067734978560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
+    }, 
+    {
       title: 'Rays', 
       author: 'Salamander', 
       votes: 3, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/derivao-de-projeto-estrela-cadente/5763694908981248/5283702831890432.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/5763694908981248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2471981005261355655595031'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'madalyn.dower', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5680067734978560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -136,6 +136,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'New webpage', 
+      author: 'nvalenzuela9413', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-webpage/5160310015311872/5187150868168704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5160310015311872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_300183289842941898718910'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6243691239096320/5026769642242048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6243691239096320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'FINALV COMPLETE "Project: Famous people"', 
+      author: 'sophgali27', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/finalv-complete-project-famous-people/4767555850125312/4878697448652800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/finalv-complete-project-famous-people/4767555850125312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5373076920405698057979984'
+    }, 
+    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'Claudine Kariisa', 
       votes: 1, 
@@ -163,12 +190,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
     {
-      title: 'Pranav Is Stupidly Smart Just Kidding', 
+      title: 'math n\' blues', 
       author: 'SixtyNineFourTwenty', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/pranav-is-stupidly-smart-just-kidding/5865618589138944/6543120135405568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pranav-is-stupidly-smart-just-kidding/5865618589138944', 
+      thumbnail: '/computer-programming/math-n-blues/5865618589138944/5918960862412800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/math-n-blues/5865618589138944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1085095126087580503707357'
     }, 
     {
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach/6225641454485504/4760725870657536.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-visit-satellite-beach/6225641454485504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
-    }, 
-    {
-      title: 'DVD screensaver', 
-      author: 'Ducky Momo', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dvd-screensaver/4779457061896192/5011782815236096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dvd-screensaver/4779457061896192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'Bhaavik Narayana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-make-it-rain/4747765244805120/6179606032072704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4747765244805120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6267032442590762070554611'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'cloneymaricarandang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/5721262095908864/6364526864023552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5721262095908864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166282538957354468773125'
     }, 
   ];
 };
