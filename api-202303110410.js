@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hangman', 
       author: 'Timothy Lightson', 
-      votes: 12, 
+      votes: 13, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6327322036977664.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
@@ -208,12 +208,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
     {
-      title: 'nincompoop', 
+      title: 'pinhead', 
       author: 'S. M. V.', 
       votes: 5, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6322305917829120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pinhead/6110739742113792/5968071795982336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pinhead/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
