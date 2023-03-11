@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a groovy hotlist', 
       author: '*Captain_Pockets*', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Terrain Generation', 
       author: 'Hurtin', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
@@ -134,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5661956860329984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'kill dude among us', 
@@ -163,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5661956860329984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: 'Eye of the Hurricane', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -197,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/5385733051564032.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
+      author: 'mr. mustache', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
-      author: 'mr. mustache', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'close one.', 
