@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
       title: 'piglin dance', 
       author: 'LightningCoder', 
       votes: 32, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
       link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'Eye of the Hurricane', 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032/6327322036977664.png', 
       link: 'https://www.khanacademy.org/computer-programming/hangman/5729882510508032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'a groovy hotlist', 
+      author: '*Captain_Pockets*', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5141565855285248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
     {
       title: 'nincompoop', 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304/5585212509831168.png', 
       link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'a groovy hotlist', 
-      author: '*Captain_Pockets*', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5141565855285248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
     {
       title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
