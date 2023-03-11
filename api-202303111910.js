@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 42, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5302416558047232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
-      votes: 59, 
+      votes: 60, 
       forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -82,6 +82,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
+      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
+      author: 'mr. mustache', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'a groovy hotlist', 
+      author: '*Captain_Pockets*', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
+    }, 
+    {
       title: 'Raymarching', 
       author: 'Manta', 
       votes: 6, 
@@ -100,31 +118,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
-      title: 'a groovy hotlist', 
-      author: '*Captain_Pockets*', 
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
       votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
-      votes: 29, 
+      votes: 30, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4996257066303488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5072734382243840.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5661956860329984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+      title: 'Don\'t vote this up...', 
+      author: 'Speedyspeedcuber', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'If you know, you know.', 
@@ -136,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
-      title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
-      author: 'mr. mustache', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
       title: 'Terrain Generation', 
       author: 'Hurtin', 
       votes: 19, 
@@ -154,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
+      title: 'KA\'s first 3D FPS', 
+      author: 'Patrick', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-first-3d-fps/5066108229173248/5485097648439296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kas-first-3d-fps/5066108229173248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
+    }, 
+    {
       title: 'Into the Clouds [3D Game]', 
       author: '▪Dipper98▪', 
       votes: 83, 
@@ -161,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'kill dude among us', 
@@ -208,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'KA\'s first 3D FPS', 
-      author: 'Patrick', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-first-3d-fps/5066108229173248/5485097648439296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kas-first-3d-fps/5066108229173248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
-    }, 
-    {
       title: 'Eye of the Hurricane', 
       author: 'LightningCoder', 
       votes: 19, 
@@ -224,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672/5883308628295680.png', 
       link: 'https://www.khanacademy.org/computer-programming/eye-of-the-hurricane/6529904726556672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
+      author: 'Repeat', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
     {
       title: 'Hangman', 
@@ -235,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: '(work in progress) v0.0.6: The World\'s Hardest Game, Remade', 
-      author: 'Repeat', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
-    }, 
-    {
       title: '(Hard 2) CC01 (WorkInProgress)', 
       author: 'CodingChamp01 🔴', 
       votes: 14, 
@@ -253,11 +253,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'scp foundation', 
+      title: 'SCP Foundation', 
       author: 'cool guy coding', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/5859111654965248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
       link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
