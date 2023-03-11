@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
+      title: 'Avatar Wars 2', 
+      author: 'Crystal Coding', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: '/computer-programming/avatar-wars-2/4927787783995392/4565590650175488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-2/4927787783995392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Biscuit Baker', 
       author: 'JedBled', 
       votes: 28, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/rotational-symmetry-drawing-app/5387870259167232/6437662481498112.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotational-symmetry-drawing-app/5387870259167232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_117061054145957092515447'
-    }, 
-    {
-      title: 'Butterflies', 
-      author: 'LJE', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: '/computer-programming/butterflies/6721787889238016/6540077578895360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/butterflies/6721787889238016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
   ];
 };
