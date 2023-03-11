@@ -118,6 +118,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'merlyynmerlyyn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4808858738671616/6297254598328320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4808858738671616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'dbd402', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-favorite-fruits/5436313774112768/4635469357039616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5436313774112768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9455265574743917480791704'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature" --> Rainbow Lorakeets', 
+      author: 'Hanna Green', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688/5150524527919104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature-rainbow-lorakeets/5607224238194688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_338776289788318260964296'
+    }, 
+    {
+      title: 'Here comes crazy man...', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/6363236318625792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'New program', 
       author: 'F4stB01', 
       votes: 1, 
@@ -221,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Midnight Suffering V1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5520696732336128.png', 
+      thumbnail: '/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432/5422624866091008.png', 
       link: 'https://www.khanacademy.org/computer-programming/images-from-the-united-states-of-america-and-more/4684502465298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7829382333724071241776572'
     }, 
@@ -233,42 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/pixel-emerald/5286370497314816/4507166713364480.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-emerald/5286370497314816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'merlyynmerlyyn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-waving-snowman/6574561334444032/5636897026392064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6574561334444032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47305061333120911837507'
-    }, 
-    {
-      title: 'Undertale (Khan Edition) Improved!', 
-      author: 'Undertale Studios', 
-      votes: 39, 
-      forks: 6, 
-      thumbnail: '/computer-programming/undertale-khan-edition-improved/4732676479434752/4537095194722304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/undertale-khan-edition-improved/4732676479434752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358562544854059060202646'
-    }, 
-    {
-      title: 'Cena Estrato 2', 
-      author: 'andres_adap', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/cena-estrato-2/6605124833427456/5408937577070592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cena-estrato-2/6605124833427456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5921461804048538917579405'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Claudine Kariisa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5860516780359680/6592638423973888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5860516780359680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6736665965348485537942391'
     }, 
   ];
 };
