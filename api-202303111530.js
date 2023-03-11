@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
+      title: 'Hotlist API', 
+      author: 'Infinite coder', 
+      votes: 23, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
       votes: 55, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Hotlist API', 
-      author: 'Infinite coder', 
-      votes: 22, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/5310833200775168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
       title: 'Spin-off of "Isometric Blocks"', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
-      votes: 54, 
+      votes: 55, 
       forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5061591064428544.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 33, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
       votes: 28, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/4996257066303488.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 32, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'Terrain Generation', 
