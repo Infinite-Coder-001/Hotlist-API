@@ -46,18 +46,21 @@ jobs:
       - name: Execute python script # run main.py
         run: python update.py
         
-      - name: Using auto-commit library
+      - name: Use auto-commit library
         uses: stefanzweifel/git-auto-commit-action@v4
+        continue-on-error: true
         with:
           commit_message: Automated Change
           
-      - name: Using auto-commit library 2
+      - name: Use auto-commit library 2nd try
         uses: stefanzweifel/git-auto-commit-action@v4
+        continue-on-error: true
         with:
           commit_message: Automated Change
           
-      - name: Using auto-commit library 3
+      - name: Use auto-commit library 3rd try
         uses: stefanzweifel/git-auto-commit-action@v4
+        continue-on-error: true
         with:
           commit_message: Automated Change
 #          push_options: '--force'
