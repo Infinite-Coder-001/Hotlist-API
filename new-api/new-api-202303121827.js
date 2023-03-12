@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 40, 
+      votes: 39, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4868383697059840.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4812972377817088.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'Repeat', 
       votes: 17, 
       forks: 1, 
-      thumbnail: '/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/6551521653473280.png', 
+      thumbnail: '/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/4698268397518848.png', 
       link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'ChristianJ', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/i-9000/6277144177328128/6689671424032768.png', 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/4797565180887040.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
     }, 
@@ -505,65 +505,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Oso', 
-      author: 'nahi.tejeda12', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/oso/4866266882162688/6275758580613120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oso/4866266882162688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094621902816711129107212'
-    }, 
-    {
-      title: 'club website ', 
-      author: 'Askhat Almas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/club-website/4924960068124672/6038819554246656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/club-website/4924960068124672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_486323396681213626652518'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'kowalczyk.oliwia_c_2022', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5593399736713216/5059350190407680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5593399736713216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_609313032360231398633565'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'grotkowski.piotr_b_2022', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5765666747760640/5287267939958784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5765666747760640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_224098713936192375228825'
-    }, 
-    {
-      title: 'infinity facts about mr. mustache', 
-      author: 'mr. mustache', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6587756816154624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Derivação de "Desenhando com código"', 
-      author: 'Caroline Nazareth', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-desenhando-com-cdigo/4567569489248256/5896229399871488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-com-cdigo/4567569489248256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6400897926230914021790242'
-    }, 
-    {
       title: 'oso', 
       author: 'wendy  torres barrera ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/oso/6641608500232192/5352185967984640.png', 
+      thumbnail: '/computer-programming/oso/6641608500232192/6067065381502976.png', 
       link: 'https://www.khanacademy.org/computer-programming/oso/6641608500232192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6451636433716814977684705'
     }, 
@@ -581,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/hopping-party/6045436865724416/6689234620825600.png', 
+      thumbnail: '/computer-programming/hopping-party/6045436865724416/6091383385669632.png', 
       link: 'https://www.khanacademy.org/computer-programming/hopping-party/6045436865724416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/practice/6616128506085376/6073060560257024.png', 
       link: 'https://www.khanacademy.org/computer-programming/practice/6616128506085376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_126928894357396087116001'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6334771473203200/4745668059250688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6334771473203200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Ishan.S', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/5925992147501056/4710722603106304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5925992147501056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_904924778906059996217419'
+    }, 
+    {
+      title: 'Spin-off of "Project: Word game "', 
+      author: 'Fiona Froelich', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-word-game/6568962886516736/6722607011643392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/6568962886516736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1181577025463351520296218'
+    }, 
+    {
+      title: 'traslación de imagenes', 
+      author: 'wendy  torres barrera ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/traslacin-de-imagenes/5054497489731584/4879786944282624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/traslacin-de-imagenes/5054497489731584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6451636433716814977684705'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'monica.lozano3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-estrella-fugaz/5804859381301248/4674245714296832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5804859381301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_825244134076082041602445'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'jaan.shumail', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5711061984788480/6268223328927744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5711061984788480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5414796077205340121590408'
     }, 
   ];
 };
