@@ -127,6 +127,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: ' the title changes', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/the-title-changes/5276047639887872/4734302938251264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-title-changes/5276047639887872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Kristen WANG', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/6193997142081536/6337210595196928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6193997142081536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1134188608691645814335838'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'heart2heart.penguins', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/5310852033200128/6281897271672832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5310852033200128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_440962905906022741813144'
+    }, 
+    {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'kk kk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-bookshelf/5139619681452032/5261995295424512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5139619681452032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_762018058243937677793157'
+    }, 
+    {
+      title: 'Html: Spin offs', 
+      author: 'ghoshchandralekha', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/html-spin-offs/5569636475387904/5913818725400576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html-spin-offs/5569636475387904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_650264904193071856041537'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'nigee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/6075982673133568/6375166852775936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6075982673133568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_459867486008094575777553'
+    }, 
+    {
       title: 'Spin-off of "Challenge: My Favorite Foods"', 
       author: 'Zaria', 
       votes: 1, 
@@ -215,60 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/derivado-de-desafo-libertad/5809086472175616/6097273966870528.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-libertad/5809086472175616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9923098163972901215791722'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Javier Martín ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5905055289229312/5532398316208128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5905055289229312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'laura nuñez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5984295925891072/6503844274290688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5984295925891072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_297753498627977779747252'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Garrett Hilsinger', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature/6658493576953856/6508478497865728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6658493576953856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3772886140888320932696526'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Javier Martín ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5637604286709760/5029944596152320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5637604286709760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
-    }, 
-    {
-      title: 'Save The Ball', 
-      author: 'Michael Pinto', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/save-the-ball/5866834945687552/6202406646104064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/save-the-ball/5866834945687552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_711293946952773495994460'
-    }, 
-    {
-      title: 'Data Dig', 
-      author: 'lujain.mirza', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/data-dig/5654437538611200/4829859618799616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/data-dig/5654437538611200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
     }, 
   ];
 };
