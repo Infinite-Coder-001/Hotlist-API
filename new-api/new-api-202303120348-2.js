@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Julia set', 
+      author: 'Zacke1049', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/julia-set/6400488046379008/6511920578609152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/julia-set/6400488046379008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987429721043347382974846'
+    }, 
+    {
       title: ' The Pokemon Zoo', 
       author: 'radujavait', 
       votes: 2, 
@@ -113,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'cosmicdustructer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520/6008193853734912.png', 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520/5772396265259008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_615624192983511800717973'
     }, 
@@ -127,12 +136,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_186013780514729836495162'
     }, 
     {
-      title: 'oooh', 
+      title: 'I-9000', 
       author: 'ChristianJ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/oooh/6277144177328128/5711362833825792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oooh/6277144177328128', 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/5226704664838144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
     }, 
     {
@@ -158,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/live-hotlist/6683990860021760/5153459982876672.png', 
+      thumbnail: '/computer-programming/live-hotlist/6683990860021760/6723667625295872.png', 
       link: 'https://www.khanacademy.org/computer-programming/live-hotlist/6683990860021760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176/6453977317425152.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_136763236811254056381115'
-    }, 
-    {
-      title: 'Arctic Foxes', 
-      author: 'Ella', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/arctic-foxes/4656473198346240/5082592380764160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arctic-foxes/4656473198346240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733792997333705718798102'
     }, 
   ];
 };
