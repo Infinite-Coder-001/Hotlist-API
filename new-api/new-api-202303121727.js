@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
-      votes: 45, 
+      votes: 46, 
       forks: 1, 
       thumbnail: '/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Here comes crazy man...', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 16, 
+      votes: 17, 
       forks: 2, 
       thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/5335485952344064.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4653513328345088.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4963547262271488.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
     {
+      title: 'Derivado de "Proyecto: librero V"', 
+      author: 'valeriyolandabautistacristanch', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
+    }, 
+    {
       title: 'Winston vs Hopper ', 
       author: 'Speedyspeedcuber', 
       votes: 35, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/skinamarink/5403493395644416/4780582074892288.png', 
       link: 'https://www.khanacademy.org/computer-programming/skinamarink/5403493395644416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: librero V"', 
-      author: 'valeriyolandabautistacristanch', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
     }, 
     {
       title: 'Terrain Generation', 
@@ -505,6 +505,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6335102155140485716180485'
     }, 
     {
+      title: 'Spin-off of "Project: Word game "', 
+      author: 'Fiona Froelich', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-word-game/6568962886516736/6722607011643392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/6568962886516736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1181577025463351520296218'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'monica.lozano3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-estrella-fugaz/5804859381301248/4674245714296832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5804859381301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_825244134076082041602445'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'jaan.shumail', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5711061984788480/6268223328927744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5711061984788480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5414796077205340121590408'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Jessie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/6622875757101056/5629755510800384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6622875757101056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_669108714764159156588180'
+    }, 
+    {
       title: 'A plane animation', 
       author: 'yucebascaglayan', 
       votes: 1, 
@@ -523,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2743980328459599774152324'
     }, 
     {
+      title: 'Robot for Ben Orlin\'s Dandelion Game', 
+      author: 'akahn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/robot-for-ben-orlins-dandelion-game/6746312546762752/4519518074617856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/robot-for-ben-orlins-dandelion-game/6746312546762752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_378165478287313271575199'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Exploding Sun"', 
       author: 'bignoodle107', 
       votes: 1, 
@@ -530,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-exploding-sun/5287909425201152/5229969578180608.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5287909425201152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995858089767563751642354'
+    }, 
+    {
+      title: 'Hiiii GermanHiiii German            Hiiii German  Hiiii GermanHiiii GermanHiiii German  Hiiii GermanHiiii German', 
+      author: 'German Raukh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/hiiii-germanhiiii-german-hiiii-german-hiiii-germanhiiii-germanhiiii-german-hiiii-germanhiiii-german/6678520782962688/4794305351041024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hiiii-germanhiiii-german-hiiii-german-hiiii-germanhiiii-germanhiiii-german-hiiii-germanhiiii-german/6678520782962688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_212810335682071893283347'
     }, 
     {
       title: 'for Mr. bob Lyon ', 
@@ -563,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: '92444', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/car-moving-on-a-sunny-day/5716805933121536/4666098119393280.png', 
+      thumbnail: '/computer-programming/car-moving-on-a-sunny-day/5716805933121536/5010653792485376.png', 
       link: 'https://www.khanacademy.org/computer-programming/car-moving-on-a-sunny-day/5716805933121536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6817179566665764440878251'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208/6178020794875904.png', 
       link: 'https://www.khanacademy.org/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_516750514246010035164557'
-    }, 
-    {
-      title: 'Dat\'s P3D', 
-      author: 'Rob', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dats-p3d/5702845905289216/5790205179379712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dats-p3d/5702845905289216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7431502128871327747987980'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'PROFESORA LINA MARIA MARTINEZ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4758342608404480/5213269201829888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4758342608404480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_95409929201339584760137'
-    }, 
-    {
-      title: 'Версия на "Създаване на картинки с код"', 
-      author: 'martinnikolov08', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pjs/5673556551974912/6554482563661824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5673556551974912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_254995110517957658667491'
-    }, 
-    {
-      title: 'Lines and Shapes', 
-      author: 'madenally', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/lines-and-shapes/5797955204595712/4967037720117248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lines-and-shapes/5797955204595712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_601701714657761379643196'
-    }, 
-    {
-      title: 'Spin-off of "Functions"', 
-      author: 'khalilnwe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-functions/5672599042703360/4988118325575680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5672599042703360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_190688697476385174442453'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'trinhho.3110', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/4965792817135616/4897855427100672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4965792817135616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8674055107365955895142160'
     }, 
   ];
 };
