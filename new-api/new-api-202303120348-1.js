@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
     }, 
     {
+      title: 'The Program Where You Have To Click Restart Over And Over Again!', 
+      author: 'kylew139', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808/5044346338721792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
+    }, 
+    {
       title: 'Transformation Isometric Blocks', 
       author: 'Bob Lyon', 
       votes: 2, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
       link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
-    }, 
-    {
-      title: 'Julia set', 
-      author: 'Zacke1049', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/julia-set/6400488046379008/6511920578609152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/julia-set/6400488046379008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987429721043347382974846'
     }, 
   ];
 };
