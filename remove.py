@@ -2,6 +2,7 @@
 # It removes old API logs
 
 import datetime
+import os
 
 for i in range(3, 600, 1):
     fullOldDate = (datetime.datetime.utcnow() - datetime.timedelta(minutes = i)).strftime('%Y%m%d%H%M')
