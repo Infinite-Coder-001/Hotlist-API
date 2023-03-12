@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Derivado de "Proyecto: librero V"', 
+      author: 'valeriyolandabautistacristanch', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
+    }, 
+    {
       title: 'Hangman', 
       author: 'Timothy Lightson', 
       votes: 15, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128/5028980250165248.png', 
       link: 'https://www.khanacademy.org/computer-programming/generate-a-color-scheme-from-an-image/5736115661488128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: librero V"', 
-      author: 'valeriyolandabautistacristanch', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
     }, 
     {
       title: 'fishnado', 
