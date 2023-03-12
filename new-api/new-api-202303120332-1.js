@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Po met gras!', 
-      author: 'gudurgeetan', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/po-met-gras/6076459682938880/5918086220005376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/po-met-gras/6076459682938880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
-    }, 
-    {
       title: 'Transformation Isometric Blocks', 
       author: 'Bob Lyon', 
       votes: 2, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/julia-set/6400488046379008/6511920578609152.png', 
       link: 'https://www.khanacademy.org/computer-programming/julia-set/6400488046379008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987429721043347382974846'
+    }, 
+    {
+      title: ' The Pokemon Zoo', 
+      author: 'radujavait', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/the-pokemon-zoo/5048098944761856/5739025703157760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-pokemon-zoo/5048098944761856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_143544874372392454456998'
     }, 
   ];
 };
