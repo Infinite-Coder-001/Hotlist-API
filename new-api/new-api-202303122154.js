@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 46, 
+      votes: 47, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Super Mario PLATFORMER!!', 
       author: 'CHROMIUM_CODER', 
-      votes: 12, 
-      forks: 0, 
+      votes: 14, 
+      forks: 1, 
       thumbnail: '/computer-programming/super-mario-platformer/4553687731322880/5138850437709824.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
+      title: 'infinity facts about mr. mustache', 
+      author: 'mr. mustache', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'Goomba HTML/CSS ONLY', 
       author: 'CHROMIUM_CODER', 
       votes: 8, 
@@ -55,19 +64,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: 'infinity facts about mr. mustache', 
-      author: 'mr. mustache', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
       votes: 34, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: '/computer-programming/hotlist-api/5234045946740736/6671933813080064.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
+      title: 'Duolingo owl', 
+      author: 'LovelyPetals', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: '/computer-programming/duolingo-owl/5600000833011712/4796771324968960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Flashbacks', 
       author: 'KarLlr', 
       votes: 9, 
@@ -194,18 +203,9 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4784448031997952.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5977108776271872.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
-    }, 
-    {
-      title: 'Duolingo owl', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/duolingo-owl/5600000833011712/6649672192278528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'a groovy hotlist', 
@@ -631,6 +631,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Angela Ruiz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5502749938860032/6252822457008128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5502749938860032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6464338465851937513200234'
+    }, 
+    {
+      title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
+      author: 'helsisan.san', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4763623774011392/4940975120367616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4763623774011392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_925550975235065471170589'
+    }, 
+    {
+      title: 'TEST for TEXT', 
+      author: 'VALUEX', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/test-for-text/5802109352329216/5984941412499456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test-for-text/5802109352329216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1105212587483784100819076'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'alejandrozavala043', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/6559184110010368/5543307642191872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6559184110010368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_388434764636865995880446'
+    }, 
+    {
       title: 'Derivação de "Projeto: livro de receitas"', 
       author: 'camila.guimaraes', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/5811482850017280/5034103902879744.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5811482850017280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4641046026106442516175880'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Tzippy Meisel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5127649523712000/5705176797462528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5127649523712000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574103541996479478614558'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Trangh74', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4524225316831232/4833827799482368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4524225316831232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1029532540525609538556653'
-    }, 
-    {
-      title: 'Alien Attack!     BETA 1.0 Release!', 
-      author: 'dsabalakov2026', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/alien-attack-beta-10-release/6522238209933312/5903878745014272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/alien-attack-beta-10-release/6522238209933312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4705727062359083495308470'
-    }, 
-    {
-      title: 'create lists in html and emph and heighten text', 
-      author: 'ewan mckay', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/create-lists-in-html-and-emph-and-heighten-text/6203001733955584/5039563846500352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/create-lists-in-html-and-emph-and-heighten-text/6203001733955584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3776152400246740798034940'
     }, 
   ];
 };
