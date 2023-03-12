@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 10, 
       forks: 0, 
-      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6100922977796096.png', 
+      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5400681483911168.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4504959569936384.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -631,51 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
-      author: 'marcosandrevmello', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/5793825224441856/6037673989160960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/5793825224441856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_628246005034514033218788'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'jnp0902', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6601813606580224/5815188811202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6601813606580224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5045339890503488291502569'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'Isla', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-make-it-rain/6545492937064448/5202008779046912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6545492937064448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1162729944789370307270195'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'roguexarissa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5003584335036416/6179473668227072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5003584335036416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4497605894390666400050427'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'cmcquaig1312', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5334358288547840/5636245164441600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5334358288547840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5068676245787280942644428'
-    }, 
-    {
       title: 'I edited this: No more restart clicks!', 
       author: 'KW139', 
       votes: 2, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/testing-stuff-for-avatar-wars-3/4779120284450816/5333332999323648.png', 
       link: 'https://www.khanacademy.org/computer-programming/testing-stuff-for-avatar-wars-3/4779120284450816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Seeum', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4721018705068032/5661355179032576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4721018705068032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6902130209079503466114834'
+    }, 
+    {
+      title: 'New program', 
+      author: 'KW139', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6747904931053568/5780613368168448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6747904931053568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
+    }, 
+    {
+      title: 'contest 1!', 
+      author: 'Blake Meloche (T1)[Offline]', 
+      votes: 12, 
+      forks: 7, 
+      thumbnail: '/computer-programming/contest-1/6251268387684352/5014888261140480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-1/6251268387684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'yourmom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4891476855406592/4921238973890560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4891476855406592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_65036946979968210139255'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'akayla.rombley3136', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-html-basics/6584112704176128/6067659731156992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6584112704176128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_269805695963297457486552'
     }, 
   ];
 };
