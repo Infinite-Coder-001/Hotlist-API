@@ -1,6 +1,6 @@
-# This script is called only in OLD version
-# This script is evaluated every 5 minutes. 
-# It updates the 'api.js' file
+# This script is called only in OLD version. 
+# It is evaluated every 5-10 minutes. 
+# It updates the 'api.js' file. 
 
 # Importing the libraries
 import os
