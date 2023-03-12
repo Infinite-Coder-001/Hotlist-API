@@ -1,16 +1,19 @@
 # Hotlist API
-This repository downloads data from Khan Academy hotlist every 5-10 minutes. You can easily access it from any KA sketch. 
+This repository downloads data from Khan Academy hotlist every minute. You can easily access it from any KA sketch. 
 
-## Working versions
-| **Version** | **Works** |
-|:-----------:|:---------:|
-|<1.3.0       |❌         |
-|1.3.0        |✔️         |
+## Versions
+| **Version** |                                             **Description**                                             | **Still works**? |
+|:-----------:|:-------------------------------------------------------------------------------------------------------:|:----------------:|
+|<1.3.0       |These version were just tests, they didn't work.                                                         |NO                |
+|1.3.0        |This version worked, but the data were sometimes old + only 30 scratchpads from hotlist.                 |**YES**           |
+|1.4.0        |This is the current version, the data is updating every minute + 100 scratchpad from hotlist.            |**YES**           |
 
 ## Importing
-**1**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js"></script>` to `<head>` of your HTML page. 
+**1**. Create a new **webpage** on Khan Academy. 
 
-**2**. Call `HotlistAPI(callback);` in `<script>`. The `callback` is a function, that is called after all data is loaded. The function will be called with an argument, that contains raw JSON - the API output. **Example**: 
+**2**. Add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js"></script>` to `<head>` of your HTML page. *Note*: To import a specific version, add `<script src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@[REPLACE-WITH-YOUR-VERSION]/main.js"></script>` instead. 
+
+**3**. Create a new `<script>` in the body. Call `HotlistAPI(callback);` in `<script>`. The `callback` is a function, that is called after all data is loaded. The function will be called with an argument - the API output. **Example**: 
 
 ```
 <!DOCTYPE html>
@@ -37,8 +40,10 @@ This repository downloads data from Khan Academy hotlist every 5-10 minutes. You
 </html>
 ```
 
+*This example loads data from hotlist*, *then shows it as JSON*. 
+
 ## Callback
-The callback function is called after all data is loaded. The function is called with an argument - an array with 30 arguments - the top 30 programs on Hotlist. Each argument in the array is an object, that contains: 
+The callback function is called after all data is loaded. The function is called with an argument - an array with 100 arguments - the top 100 programs on Hotlist. Each argument in the array is an object, that contains: 
  - `title`: The title of the program
  - `author`: Author of the program
  - `votes`: Amount of votes, that the program has
@@ -47,7 +52,7 @@ The callback function is called after all data is loaded. The function is called
  - `link`: A link to the program
  - `authorLink`: A link to the author of the program
 
-**Example object** (there are 30 in total): 
+**One of the objects can look like**: 
 ```
 {
     title: 'My program', 
@@ -59,6 +64,9 @@ The callback function is called after all data is loaded. The function is called
     authorLink: 'https://www.khanacademy.org/profile/kaid_1254789652148759632501203'
 }, 
 ```
+
+*Don't forget, that there are 100 in total*. 
+
 **Example program**: 
 ```
 <!DOCTYPE html>
@@ -120,10 +128,10 @@ The callback function is called after all data is loaded. The function is called
 </html>
 ```
 ## Credits
-Please give link to this repository, when you're using it. The link can be in included code or on the webpage, that you make. 
+Please give link to this repository (or ideally to this project: https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736), when you're using it. The link can be in included code or on the webpage, that you make. 
 
 ## Questions
-If you have any questions about this project, fell free to ask in Discussion section. 
+If you have any questions about this project, fell free to ask in Discussion section. You can also check my second documentation with examples here: https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736
 
 ## Bug reporting
 If you find any bugs, please report them in Issues. 
