@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 41, 
+      votes: 44, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Here comes crazy man...', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      votes: 20, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/4767099040088064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Platformer v0.1', 
@@ -19,28 +28,37 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
-      title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/6003069899030528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
-      votes: 15, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'Super Mario PLATFORMER!!', 
+      author: 'CHROMIUM_CODER', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880/5219385310756864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
+      title: 'Goomba HTML/CSS ONLY', 
+      author: 'CHROMIUM_CODER', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/6585163251499008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 32, 
-      forks: 2, 
+      votes: 34, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736/6671933813080064.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
@@ -62,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5127148665094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'infinity facts about mr. mustache', 
+      author: 'mr. mustache', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'nincompoop', 
@@ -111,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
-      votes: 62, 
+      votes: 63, 
       forks: 19, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
@@ -122,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 22, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/5871439813328896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/5571951190130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -136,11 +163,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
+      title: 'New program', 
+      author: 'F4stB01', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784/6477889250050048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
       title: '3D Target Practice', 
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4892460881068032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6412938619699200.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -154,22 +190,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'New program', 
-      author: 'F4stB01', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784/6477889250050048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
-    }, 
-    {
-      title: 'infinity facts about mr. mustache', 
-      author: 'mr. mustache', 
+      title: 'Duolingo owl', 
+      author: 'LovelyPetals', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712/6259912961474560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Animated version!', 
+      author: 'CodingChamp01 🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'a groovy hotlist', 
@@ -188,6 +224,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
+    }, 
+    {
+      title: 'my dreams be like', 
+      author: 'LovelyPetals', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-dreams-be-like/6337342615109632/5466499869622272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-dreams-be-like/6337342615109632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'AbdellahRabbahregestrationform', 
+      author: 'abdellahrabbah09', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abdellahrabbahregestrationform/4618918482460672/5372721481695232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abdellahrabbahregestrationform/4618918482460672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_935316366070458439615598'
     }, 
     {
       title: 'Winston vs Hopper', 
@@ -215,60 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808/5266802622119936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generation/4748891507703808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
-      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
-      author: 'LovelyPetals', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6735871514820608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 33, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
-    }, 
-    {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
-    }, 
-    {
-      title: 'Into the Clouds [3D Game]', 
-      author: '▪Dipper98▪', 
-      votes: 84, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 35, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'WELCOME BACK STUFF!!!', 
-      author: 'LovelyPetals', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
