@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'Don\'t vote this up...', 
+      author: 'Speedyspeedcuber', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
       votes: 46, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5127148665094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Raymarching', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
+      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
+      author: 'LovelyPetals', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6387591803092992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'If you know, you know.', 
       author: 'Synapse', 
       votes: 33, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
       link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
-      title: 'Henwy simulator', 
-      author: 'Zenghao the chicken', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416/6066139606335488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
   ];
 };
