@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 19, 
       forks: 1, 
-      thumbnail: '/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
+      thumbnail: '/computer-programming/nincompoop/6110739742113792/6348550625869824.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
+      title: 'Flashbacks', 
+      author: 'KarLlr', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: '/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'a groovy hotlist', 
       author: '*Captain_Pockets*', 
       votes: 12, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
-    }, 
-    {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: '/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Winston vs Hopper ', 
@@ -541,6 +541,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
+      title: 'survive the blob', 
+      author: '92743', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/survive-the-blob/6159220011745280/5228807386873856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/survive-the-blob/6159220011745280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3215678035909956602771120'
+    }, 
+    {
+      title: 'Rabbit face', 
+      author: 'rasolofomananashanella', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/rabbit-face/5620610208415744/5826359308107776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rabbit-face/5620610208415744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_172452685841449437234273'
+    }, 
+    {
+      title: 'green ball adventures', 
+      author: 'joethefish', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/green-ball-adventures/5128418398355456/5855869592190976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/green-ball-adventures/5128418398355456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_763978370577791733783252'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Daniel Porr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-build-a-house/6383670888022016/6558114461827072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6383670888022016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_489751509840929261562521'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'mokohla7', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-bouncy-ball/6286112312311808/6097577407987712.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bouncy-ball/6286112312311808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4407869062141359474931968'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'premaharish.n4', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6032258169618432/6301675331829760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6032258169618432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7412887617596735546836472'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'chadpierce78', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4539024910106624/6461593473040384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4539024910106624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412756694247342933771565'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Julia Margasińska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/5139642834010112/5941324585156608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5139642834010112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_779543270186342083678831'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'hdmg1122', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5144164520214528/6208427644993536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5144164520214528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4209339165661920865241496'
     }, 
   ];
 };
