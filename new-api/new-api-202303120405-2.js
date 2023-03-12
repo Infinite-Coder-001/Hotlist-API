@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'c̶l̶o̶u̶d interesting effects', 
-      author: 'Prisha B.', 
-      votes: 86, 
-      forks: 16, 
-      thumbnail: '/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
       title: 'LJE\'s Subbie page', 
       author: 'LJE', 
       votes: 16, 
@@ -127,33 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Save The Ball', 
-      author: 'Michael Pinto', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/save-the-ball/5866834945687552/5306807172251648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/save-the-ball/5866834945687552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_711293946952773495994460'
-    }, 
-    {
-      title: 'Data Dig', 
-      author: 'lujain.mirza', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/data-dig/5654437538611200/6222722017574912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/data-dig/5654437538611200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
-    }, 
-    {
-      title: 'Day 215', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/day-215/6425494553935872/5620357073780736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-215/6425494553935872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
       title: 'Derivado de "Desafío: base de datos de libros"', 
       author: 'pipontripon', 
       votes: 1, 
@@ -194,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'ChristianJ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/i-9000/6277144177328128/6460817480663040.png', 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/5270212784209920.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
     }, 
@@ -244,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8471053614072220265604849'
     }, 
     {
-      title: '1 hour project', 
-      author: 'Lime Code alt(LC alt)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/1-hour-project/5315261790208000/6249875966836736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1-hour-project/5315261790208000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_493857095510606696542826'
-    }, 
-    {
       title: 'Projet dérivé de "Projet : étoile filante"', 
       author: 'Laurie Champagne', 
       votes: 1, 
@@ -269,6 +224,51 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/instant-screen-filler/6736194467840000/5783446310141952.png', 
       link: 'https://www.khanacademy.org/computer-programming/instant-screen-filler/6736194467840000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
+    }, 
+    {
+      title: 'Derivado de "proyecto"', 
+      author: 'Jose Emilio Barrera Gonzalez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto/5275448391286784/5638696617689088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto/5275448391286784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_151296725643913622658724'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'xuhanq', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5730308605657088/6596218417627136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5730308605657088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_194892823766852594585472'
+    }, 
+    {
+      title: 'Spin-off of "HTML tables"', 
+      author: 'cloneymaricarandang', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-html-tables/5997671125139456/6144445181640704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/5997671125139456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1166282538957354468773125'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'madalyn.dower', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/5956328298430464/5680067734978560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5956328298430464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454139949142267027875940'
+    }, 
+    {
+      title: 'Rays', 
+      author: 'Salamander', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/rays/5840462479147008/4878999581147136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rays/5840462479147008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
   ];
 };
