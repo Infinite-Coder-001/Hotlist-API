@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 6, 
       forks: 0, 
-      thumbnail: '/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152/5914687504171008.png', 
+      thumbnail: '/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152/6011059377061888.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
