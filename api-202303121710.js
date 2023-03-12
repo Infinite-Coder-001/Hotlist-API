@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/5230445145145344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
       votes: 46, 
@@ -82,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ✝', 
+      votes: 24, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
       author: 'mr. mustache', 
       votes: 16, 
@@ -107,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5762897953472512.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ✝', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Mini Khan Academy', 
@@ -149,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6699732150042624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/5592538604158976.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png', 
       link: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
+      author: 'CylenceScythe (Offline)', 
+      votes: 62, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
   ];
 };
