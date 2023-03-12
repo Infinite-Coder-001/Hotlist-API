@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Cute Pikachu', 
-      author: 'ArcticWolf', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
       title: 'Raymarching', 
       author: 'Manta', 
       votes: 11, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/raymarching/5238741335851008/5914745448480768.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'Cute Pikachu', 
+      author: 'ArcticWolf', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
       title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ✝', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: '/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
       votes: 62, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ✝', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: '/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Don\'t vote this up...', 
