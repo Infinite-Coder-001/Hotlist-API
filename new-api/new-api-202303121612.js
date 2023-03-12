@@ -541,60 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'dbeck305', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5125731560767488/5608713383886848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5125731560767488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_252052971967180163521261'
-    }, 
-    {
-      title: 'LipStick Design ', 
-      author: 'Izzy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/lipstick-design/5351958628319232/6002110678482944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lipstick-design/5351958628319232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_975666438939251939141651'
-    }, 
-    {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'Aibol elkeev', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-event-invite/6576412868001792/5768251881865216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6576412868001792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6193092275895092588850582'
-    }, 
-    {
-      title: '"Zor Görev: Öğrenme listeniz" uyarlaması', 
-      author: 'ebrar çeliker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208/6178020794875904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516750514246010035164557'
-    }, 
-    {
-      title: 'Dat\'s P3D', 
-      author: 'Rob', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dats-p3d/5702845905289216/4932050203492352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dats-p3d/5702845905289216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7431502128871327747987980'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'PROFESORA LINA MARIA MARTINEZ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4758342608404480/5213269201829888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4758342608404480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_95409929201339584760137'
-    }, 
-    {
       title: 'Версия на "Създаване на картинки с код"', 
       author: 'martinnikolov08', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6391193544212480/5353781338619904.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6391193544212480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9068963191055737416302759'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'dakotaquinnb2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6516513408598016/6293198798635008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6516513408598016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_518975117746053777882599'
+    }, 
+    {
+      title: 'Spin-off di "Sfida: La Tua Prima App di Disegno"', 
+      author: 'Liliana Kozemko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-di-sfida-la-tua-prima-app-di-disegno/5730248845213696/5592542630690816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-la-tua-prima-app-di-disegno/5730248845213696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1708565410429726141177420'
+    }, 
+    {
+      title: 'Avatar Wars 1', 
+      author: 'Crystal Coding', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: '/computer-programming/avatar-wars-1/6537476917477376/4878391688085504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-wars-1/6537476917477376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: 'Spin-off of "CSS floating elements"', 
+      author: 'Super Student', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-css-floating-elements/4802482893275136/6378773497036800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-floating-elements/4802482893275136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_504189230123785308866214'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'premaharish.n4', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4524261597560832/5227138188099584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4524261597560832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7412887617596735546836472'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mokohla7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/6359147585257472/4678666166779904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6359147585257472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3981128360114012543565798'
     }, 
   ];
 };
