@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 32, 
+      votes: 30, 
       forks: 2, 
       thumbnail: '/computer-programming/hotlist-api/5234045946740736/4566137293815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 8, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
+      title: 'Don\'t vote this up...', 
+      author: 'Speedyspeedcuber', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: '/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'I made explosive cows', 
