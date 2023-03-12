@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Mini Khan Academy', 
-      author: 'CodingChamp01 🟢', 
+      author: 'CodingChamp01 🔴', 
       votes: 62, 
       forks: 19, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
