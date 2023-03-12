@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 44, 
+      votes: 46, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -11,12 +11,21 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 20, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/4767099040088064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/4850097181736960.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Super Mario PLATFORMER!!', 
+      author: 'CHROMIUM_CODER', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880/6291215085780992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Platformer v0.1', 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
-      title: 'Super Mario PLATFORMER!!', 
-      author: 'CHROMIUM_CODER', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880/5219385310756864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Goomba HTML/CSS ONLY', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Flashbacks', 
+      author: 'KarLlr', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: '3D Raycasting Maze!', 
       author: '❃JustZoul❃', 
       votes: 42, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6412938619699200.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
-    }, 
-    {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Duolingo owl', 
