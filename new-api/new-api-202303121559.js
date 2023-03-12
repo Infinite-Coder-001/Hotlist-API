@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 11, 
       forks: 1, 
-      thumbnail: '/computer-programming/raymarching/5238741335851008/5794587992178688.png', 
+      thumbnail: '/computer-programming/raymarching/5238741335851008/6564534934618112.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: '/computer-programming/nincompoop/6110739742113792/6083098494418944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: 'Kaleidoscope Maker v1.0', 
       author: 'Phase ✝', 
       votes: 23, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
       link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: '/computer-programming/nincompoop/6110739742113792/6083098494418944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'Mini Khan Academy', 
@@ -541,24 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
-      title: 'Версия на "Създаване на картинки с код"', 
-      author: 'martinnikolov08', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pjs/5673556551974912/6554482563661824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5673556551974912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_254995110517957658667491'
-    }, 
-    {
-      title: 'Lines and Shapes', 
-      author: 'madenally', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/lines-and-shapes/5797955204595712/4967037720117248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lines-and-shapes/5797955204595712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_601701714657761379643196'
-    }, 
-    {
       title: 'Spin-off of "Functions"', 
       author: 'khalilnwe', 
       votes: 1, 
@@ -878,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Super Student', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-css-floating-elements/4802482893275136/6378773497036800.png', 
+      thumbnail: '/computer-programming/spin-off-of-css-floating-elements/4802482893275136/4589332021428224.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-floating-elements/4802482893275136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_504189230123785308866214'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/6359147585257472/4678666166779904.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6359147585257472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3981128360114012543565798'
+    }, 
+    {
+      title: 'No Nintendo >:(', 
+      author: 'Phase ✝', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: '/computer-programming/no-nintendo/5215849462153216/4527678235656192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-nintendo/5215849462153216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/5894680661508096/5241535019139072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5894680661508096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
     }, 
   ];
 };
