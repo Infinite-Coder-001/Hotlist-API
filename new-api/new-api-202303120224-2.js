@@ -118,6 +118,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'lauranicolmanriquec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6703193717522432/5164659667943424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6703193717522432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_917028696500410037452955'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'daniel.rafferty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/6338132788428800/6574475011473408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6338132788428800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292389357190891478370385'
+    }, 
+    {
       title: 'my fastest sanest metaballs. [kinda legal?]', 
       author: 'YokieBob', 
       votes: 21, 
@@ -185,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Shadow Fax', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/bouncefall/5213731078586368/5659397353422848.png', 
+      thumbnail: '/computer-programming/bouncefall/5213731078586368/5987783984594944.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncefall/5213731078586368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/pjs/5520824486641664/6492873652748288.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5520824486641664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
-      title: 'Pizza Pizza', 
-      author: 'TKerst', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pizza-pizza/6598829099237376/6300838597541888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-pizza/6598829099237376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_450898638275071510475235'
-    }, 
-    {
-      title: 'Novo programa', 
-      author: 'cleidsonxd', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: '/computer-programming/novo-programa/6602919392886784/6377531790114816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/novo-programa/6602919392886784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_306510828410904556988970'
     }, 
   ];
 };
