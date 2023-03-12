@@ -50,19 +50,19 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: Automated Change
+          commit_message: .[BOT] Update hotlist data (old version)
           
       - name: Use auto-commit library 2nd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: Automated Change
+          commit_message: .[BOT] Update hotlist data (old version)
           
       - name: Use auto-commit library 3rd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: Automated Change
+          commit_message: .[BOT] Update hotlist data (old version)
 #          push_options: '--force'
 #        
 #      - name: Purging jsdelivr's cache
