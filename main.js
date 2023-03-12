@@ -1,4 +1,3 @@
-// This file is loaded in BOTH versions
 // This is the main file, that is loading in the <head> of your HTML page
 // Link to this file is 'https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@latest/main.js'
 
