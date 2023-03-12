@@ -1,5 +1,5 @@
-# This script is used in NEW version
-# It removes old API logs
+# This script is used in NEW version. 
+# It removes old API logs. 
 
 import datetime
 import os
