@@ -127,11 +127,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Javier Martín ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5905055289229312/5532398316208128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5905055289229312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'laura nuñez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5984295925891072/6503844274290688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5984295925891072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_297753498627977779747252'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Garrett Hilsinger', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature/6658493576953856/6508478497865728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6658493576953856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3772886140888320932696526'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Javier Martín ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5637604286709760/5029944596152320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5637604286709760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
+    }, 
+    {
       title: 'Save The Ball', 
       author: 'Michael Pinto', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/save-the-ball/5866834945687552/5306807172251648.png', 
+      thumbnail: '/computer-programming/save-the-ball/5866834945687552/5293025133903872.png', 
       link: 'https://www.khanacademy.org/computer-programming/save-the-ball/5866834945687552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_711293946952773495994460'
     }, 
@@ -140,9 +176,18 @@ var LoadHotlistAPI = function() {
       author: 'lujain.mirza', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/data-dig/5654437538611200/6222722017574912.png', 
+      thumbnail: '/computer-programming/data-dig/5654437538611200/4829859618799616.png', 
       link: 'https://www.khanacademy.org/computer-programming/data-dig/5654437538611200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'maryglantz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/4916173731053568/5381115819114496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4916173731053568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192015603679361704386868'
     }, 
     {
       title: 'Day 215', 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/live-hotlist/6683990860021760/6723667625295872.png', 
       link: 'https://www.khanacademy.org/computer-programming/live-hotlist/6683990860021760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"weeeeeeee', 
-      author: 'seanhughes83', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-making-drawings-with-codeweeeeeeee/5603746166128640/5738663961214976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-codeweeeeeeee/5603746166128640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_54022868797837573019580'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'msaldivarr123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6462809716342784/6388839742750720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6462809716342784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8471053614072220265604849'
-    }, 
-    {
-      title: '1 hour project', 
-      author: 'Lime Code alt(LC alt)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/1-hour-project/5315261790208000/6249875966836736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1-hour-project/5315261790208000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_493857095510606696542826'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : étoile filante"', 
-      author: 'Laurie Champagne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/projet-driv-de-projet-toile-filante/4556080560783360/6483970818883584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-toile-filante/4556080560783360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3024203881458788361539123'
-    }, 
-    {
-      title: 'Instant Screen Filler', 
-      author: 'Nivag514', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/instant-screen-filler/6736194467840000/5783446310141952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/instant-screen-filler/6736194467840000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
     }, 
   ];
 };
