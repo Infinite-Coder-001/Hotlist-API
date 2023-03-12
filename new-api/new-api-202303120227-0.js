@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: '/computer-programming/hotlist-api/5234045946740736/4566137293815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
@@ -136,22 +136,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
-      title: '3D Target Practice', 
-      author: 'Patrick', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/6162293442527232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
-    }, 
-    {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 15, 
+      votes: 16, 
       forks: 1, 
       thumbnail: '/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
+      title: '3D Target Practice', 
+      author: 'Patrick', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5207978640982016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
     {
       title: 'New program', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
+      title: 'kill dude among us', 
+      author: 'cool guy coding', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: '/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
       title: 'Into the Clouds [3D Game]', 
       author: '▪Dipper98▪', 
       votes: 84, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/henwy-simulator/5766444346556416/5098405213028352.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
-    }, 
-    {
-      title: 'kill dude among us', 
-      author: 'cool guy coding', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: '/computer-programming/kill-dude-among-us/5314616840470528/5581343436357632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kill-dude-among-us/5314616840470528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'SCP Foundation', 
