@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: ' The Pokemon Zoo', 
+      author: 'radujavait', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/the-pokemon-zoo/5048098944761856/5739025703157760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-pokemon-zoo/5048098944761856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_143544874372392454456998'
+    }, 
+    {
       title: 'Winston VS Hopper fight! (Guess who wins)', 
       author: 'Speedyspeedcuber', 
       votes: 4, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
       link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
-    }, 
-    {
-      title: 'LJE\'s Subbie page', 
-      author: 'LJE', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: '/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
     }, 
   ];
 };
