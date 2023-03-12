@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Raymarching', 
+      author: 'Manta', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: '/computer-programming/raymarching/5238741335851008/5914745448480768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 9, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Raymarching', 
-      author: 'Manta', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: '/computer-programming/raymarching/5238741335851008/5914745448480768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'Kaleidoscope Maker v1.0', 
