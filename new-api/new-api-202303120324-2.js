@@ -100,11 +100,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Live hotlist', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/live-hotlist/6683990860021760/6334053701959680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/live-hotlist/6683990860021760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"weeeeeeee', 
+      author: 'seanhughes83', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-making-drawings-with-codeweeeeeeee/5603746166128640/5738663961214976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-codeweeeeeeee/5603746166128640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_54022868797837573019580'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'msaldivarr123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6462809716342784/6306231985946624.png', 
+      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6462809716342784/6388839742750720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6462809716342784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8471053614072220265604849'
     }, 
@@ -122,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Nivag514', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/instant-screen-filler/6736194467840000/6717913551912960.png', 
+      thumbnail: '/computer-programming/instant-screen-filler/6736194467840000/5783446310141952.png', 
       link: 'https://www.khanacademy.org/computer-programming/instant-screen-filler/6736194467840000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
     }, 
@@ -217,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1086068264903267665187524'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Jesús Aramburú', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4550067463962624/6585350669778944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4550067463962624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2724231930133823123655875'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Movie Reviews"', 
       author: 'Michael Pinto', 
       votes: 1, 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/proyecto/5083594802642944/5161226814668800.png', 
       link: 'https://www.khanacademy.org/computer-programming/proyecto/5083594802642944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_151296725643913622658724'
-    }, 
-    {
-      title: 'proyecto final (fiesta)', 
-      author: 'Jose Emilio Barrera Gonzalez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/proyecto-final-fiesta/6347651547447296/6279319754424320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-final-fiesta/6347651547447296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_151296725643913622658724'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Escrever um poema"', 
-      author: 'Luan Consani', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-desafio-escrever-um-poema/6095181780926464/5468156829417472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/6095181780926464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_811502525384567640229194'
-    }, 
-    {
-      title: 'Heer\'s picture-perfect trip"', 
-      author: 'Heer Sh', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/heers-picture-perfect-trip/5141757157490688/5470256430891008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heers-picture-perfect-trip/5141757157490688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
     }, 
   ];
 };
