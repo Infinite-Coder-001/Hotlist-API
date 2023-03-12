@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Derivado de "Proyecto: librero V"', 
-      author: 'valeriyolandabautistacristanch', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
-    }, 
-    {
       title: 'fishnado', 
       author: 'LightningCoder', 
       votes: 29, 
@@ -193,7 +184,7 @@ var LoadHotlistAPI = function() {
       title: 'Raining till it is flooding ', 
       author: 'Lesha ', 
       votes: 9, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: '/computer-programming/raining-till-it-is-flooding/6531178599596032/6713888999784448.png', 
       link: 'https://www.khanacademy.org/computer-programming/raining-till-it-is-flooding/6531178599596032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8089305659248288716554523'
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/feet-cake/5035594726293504/4686286940323840.png', 
       link: 'https://www.khanacademy.org/computer-programming/feet-cake/5035594726293504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_334823593334323522524076'
+    }, 
+    {
+      title: 'c̶l̶o̶u̶d interesting effects', 
+      author: 'Prisha B.', 
+      votes: 86, 
+      forks: 16, 
+      thumbnail: '/computer-programming/cloud-interesting-effects/5817858687025152/6336163059384320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cloud-interesting-effects/5817858687025152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_861909786767545381407237'
     }, 
   ];
 };
