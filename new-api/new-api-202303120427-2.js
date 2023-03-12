@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Derivado de "Desafío: LIBERTAD"', 
+      author: 'Eder Abraham  De la Cruz Perdomo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-libertad/5809086472175616/6097273966870528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-libertad/5809086472175616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9923098163972901215791722'
+    }, 
+    {
       title: 'Derivado de "Proyecto: página web de viajes"', 
       author: 'Javier Martín ', 
       votes: 1, 
@@ -167,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Michael Pinto', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/save-the-ball/5866834945687552/5293025133903872.png', 
+      thumbnail: '/computer-programming/save-the-ball/5866834945687552/6202406646104064.png', 
       link: 'https://www.khanacademy.org/computer-programming/save-the-ball/5866834945687552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_711293946952773495994460'
     }, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/heers-colorful-creature/4741329504747520/6600891774058496.png', 
       link: 'https://www.khanacademy.org/computer-programming/heers-colorful-creature/4741329504747520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
-    }, 
-    {
-      title: 'Live hotlist', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/live-hotlist/6683990860021760/6723667625295872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/live-hotlist/6683990860021760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
