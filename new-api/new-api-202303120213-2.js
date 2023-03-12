@@ -127,69 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'I nEeD hELp', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/i-need-help/5339864000413696/6064697646563328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-need-help/5339864000413696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"1', 
-      author: 'lauranicolmanriquec', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena1/5246019292151808/6229696062996480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena1/5246019292151808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_917028696500410037452955'
-    }, 
-    {
-      title: 'Yousuf Ansari App Impersonator', 
-      author: 'yousuf.ansari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/yousuf-ansari-app-impersonator/5558346948329472/6605026737045504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yousuf-ansari-app-impersonator/5558346948329472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_379719148569419569556861'
-    }, 
-    {
-      title: 'Diff Sorting method', 
-      author: 'Nivag514', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/diff-sorting-method/5670901683372032/5986171878686720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/diff-sorting-method/5670901683372032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Bucktooth Bunny"', 
-      author: 'aneeshmookherjee', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-bucktooth-bunny/5870347335548928/5868904775991296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/5870347335548928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866091593558172498294641'
-    }, 
-    {
-      title: 'CUTE HEART', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/cute-heart/4827304192950272/4526296724193280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cute-heart/4827304192950272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'BounceFall', 
-      author: 'Shadow Fax', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/bouncefall/5213731078586368/5659397353422848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bouncefall/5213731078586368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
       title: 'harfang', 
       author: 'Eram Altaha Albreijea', 
       votes: 1, 
@@ -235,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_48220209283058405135163'
     }, 
     {
+      title: 'normal vs my dreams ', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/normal-vs-my-dreams/6285798716784640/6408174066515968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/normal-vs-my-dreams/6285798716784640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Waving snowman"', 
       author: 'Mordecai', 
       votes: 1, 
@@ -269,6 +215,60 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/novo-programa/6602919392886784/6377531790114816.png', 
       link: 'https://www.khanacademy.org/computer-programming/novo-programa/6602919392886784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_306510828410904556988970'
+    }, 
+    {
+      title: 'New program', 
+      author: 'wli24', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/4556663015391232/5099790964932608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4556663015391232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4306371803686470672788812'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: librero V"', 
+      author: 'valeriyolandabautistacristanch', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'diamondv6317', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5741692257091584/5272334162509824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5741692257091584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_296299376012422157264135'
+    }, 
+    {
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'Matthew Katsaras', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-fish-tank/4643100784115712/4841869119111168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4643100784115712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2125322295984136203632456'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'Mordecai', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/4719037173252096/4837932693504000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4719037173252096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086068264903267665187524'
+    }, 
+    {
+      title: 'Generic Survival Game (WIP)', 
+      author: 'IAFrancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/generic-survival-game-wip/5115646608457728/5236889051512832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/generic-survival-game-wip/5115646608457728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
     }, 
   ];
 };
