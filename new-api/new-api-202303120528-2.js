@@ -118,51 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_26759296845012973168798'
     }, 
     {
-      title: 'Spin-off of "Project: Ad for oranges"', 
-      author: 'n8stewartewg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-ad-for-oranges/5165276398403584/4583008252510208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-for-oranges/5165276398403584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_692077407294498218904814'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'Prince X', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-build-a-house/5394410043129856/4854042163724288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5394410043129856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_847864916076725203581504'
-    }, 
-    {
-      title: 'Input Editor', 
-      author: 'Polar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/input-editor/5884455661387776/6091898244874240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/input-editor/5884455661387776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
-    }, 
-    {
-      title: 'Test Grounds', 
-      author: 'Memory Ninja', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/test-grounds/6399928501059584/4917824709771264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-grounds/6399928501059584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_655799093255327268744202'
-    }, 
-    {
-      title: 'proyecto final khan academy', 
-      author: 'Jose Emilio Barrera Gonzalez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/proyecto-final-khan-academy/4631673218318336/6165172702199808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-final-khan-academy/4631673218318336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_151296725643913622658724'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'E.A.G.L.E.13', 
       votes: 1, 
@@ -269,6 +224,51 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/6075982673133568/6375166852775936.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6075982673133568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_459867486008094575777553'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Zaria', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-my-favorite-foods/6276194310078464/6009851442675712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6276194310078464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_911307139899007958626720'
+    }, 
+    {
+      title: 'Design a Store Database   ', 
+      author: 'lujain.mirza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/design-a-store-database/6565163253940224/5675606337699840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/design-a-store-database/6565163253940224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'nigee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/4650755053371392/5256758723657728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4650755053371392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_459867486008094575777553'
+    }, 
+    {
+      title: 'My 1st Creation (bald human)', 
+      author: 'ジA𝓨的ㅔن', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/my-1st-creation-bald-human/6653643124424704/5539249581768704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-1st-creation-bald-human/6653643124424704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4338190096766484310603839'
+    }, 
+    {
+      title: 'Derivação de "Projeto: estrela cadente"', 
+      author: 'nathi.mendonca17', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-projeto-estrela-cadente/4525433922306048/6480741674565632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4525433922306048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2851662170346250209502766'
     }, 
   ];
 };
