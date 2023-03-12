@@ -50,6 +50,16 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated Change
+          
+      - name: Using auto-commit library 2
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Change
+          
+      - name: Using auto-commit library 3
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Change
 #          push_options: '--force'
 #        
 #      - name: Purging jsdelivr's cache
