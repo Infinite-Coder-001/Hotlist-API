@@ -109,11 +109,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Derivação de "Desafio: Minhas Comidas Favoritas"', 
+      author: 'Karol', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5897035993890816/5430343190757376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5897035993890816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7599069926790776163907161'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/5098852036427776/6129060541677568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5098852036427776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'final proyect', 
+      author: 'Juan Diego Yela Garcia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/final-proyect/5225471887589376/4964114390892544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/final-proyect/5225471887589376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29423480832009637490396'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Yurika.Miller', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5650521241468928/6023145448587264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5650521241468928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1150533806907678308877282'
+    }, 
+    {
       title: '', 
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/pjs/6394630918946816/6126109504880640.png', 
+      thumbnail: '/computer-programming/pjs/6394630918946816/6343236455284736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6394630918946816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -122,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'valeriyolandabautistacristanch', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-haz-que-llueva/6200649836707840/5557627566473216.png', 
+      thumbnail: '/computer-programming/derivado-de-proyecto-haz-que-llueva/6200649836707840/6242818530263040.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6200649836707840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
     }, 
@@ -140,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'emily.mccorduck', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/new-program/5755069805150208/4854767098839040.png', 
+      thumbnail: '/computer-programming/new-program/5755069805150208/5580097484800000.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5755069805150208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_555064627158234057105630'
     }, 
@@ -221,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/4638033796448256.png', 
+      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/5400544271450112.png', 
       link: 'https://www.khanacademy.org/computer-programming/skull-pixel-animation/6055413663711232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -233,42 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808/5044346338721792.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
-    }, 
-    {
-      title: 'New program', 
-      author: 'mastergordito2013', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6660711206141952/6517721745637376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6660711206141952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'samuelligolf', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-ad-design/5899451371929600/5651804119678976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5899451371929600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4770162379220546072300449'
-    }, 
-    {
-      title: 'Spin-off of "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"', 
-      author: 'tonydikdan09', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk/4769583284404224/4627057462263808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk/4769583284404224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5612707855887584167470734'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Bran Usuga Matias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6574571379802112/4718869073936384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6574571379802112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1145970157508866580846694'
     }, 
   ];
 };
