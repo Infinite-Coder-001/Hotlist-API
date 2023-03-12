@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'LJE\'s Subbie page', 
+      author: 'LJE', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: '/computer-programming/ljes-subbie-page/5696182250946560/5590561988067328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ljes-subbie-page/5696182250946560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
+    }, 
+    {
       title: 'Julia set', 
       author: 'Zacke1049', 
       votes: 2, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/julia-set/6400488046379008/6511920578609152.png', 
       link: 'https://www.khanacademy.org/computer-programming/julia-set/6400488046379008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987429721043347382974846'
-    }, 
-    {
-      title: ' The Pokemon Zoo', 
-      author: 'radujavait', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/the-pokemon-zoo/5048098944761856/5739025703157760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-pokemon-zoo/5048098944761856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_143544874372392454456998'
     }, 
     {
       title: 'Mad Libs 2.0', 
@@ -118,6 +118,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'pipontripon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5796621348814848/5971631065579520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5796621348814848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_320759054950953367212944'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'juanalejandroagudelo9', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5172668699820032/4670929286512640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5172668699820032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444938497662388620542536'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'cosmicdustructer', 
       votes: 1, 
@@ -140,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'ChristianJ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/i-9000/6277144177328128/5226704664838144.png', 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/5270212784209920.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
     }, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/rays/5840462479147008/4878999581147136.png', 
       link: 'https://www.khanacademy.org/computer-programming/rays/5840462479147008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'dilanguido47', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-blog/6485417685991424/4900965964890112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6485417685991424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5992130417358176320005993'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'David', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176/6453977317425152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_136763236811254056381115'
     }, 
   ];
 };
