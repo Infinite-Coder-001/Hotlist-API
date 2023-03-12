@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6100922977796096.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -130,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'NINTENDO Contest', 
       author: 'PenGwen', 
       votes: 22, 
-      forks: 4, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6642438863372288.png', 
       link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/5977108776271872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/5400681483911168.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
