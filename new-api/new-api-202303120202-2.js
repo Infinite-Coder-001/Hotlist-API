@@ -127,33 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'harfang', 
-      author: 'Eram Altaha Albreijea', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/harfang/5825842200756224/5032675666870272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harfang/5825842200756224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3683194010559098065346552'
-    }, 
-    {
-      title: 'DanCiNg cIrCLeS', 
-      author: 'smitanaik', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dancing-circles/6271484953935872/5309906226036736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dancing-circles/6271484953935872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034569675571046510012763'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'lauranicolmanriquec', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4824149459779584/6046849440202752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4824149459779584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_917028696500410037452955'
-    }, 
-    {
       title: 'Estrella fugaz', 
       author: 'Alvarez Hernandez Valeria', 
       votes: 1, 
@@ -269,6 +242,33 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/generic-survival-game-wip/5115646608457728/5236889051512832.png', 
       link: 'https://www.khanacademy.org/computer-programming/generic-survival-game-wip/5115646608457728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
+    }, 
+    {
+      title: 'Number are objects what the heck why', 
+      author: 'YokieBob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/number-are-objects-what-the-heck-why/6262680585551872/4651559030145024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/number-are-objects-what-the-heck-why/6262680585551872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Spin-off of "Project: creating my own store"', 
+      author: 'vargassteph1113', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-creating-my-own-store/5341055711232000/6042280333197312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creating-my-own-store/5341055711232000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_317023188406726229654539'
+    }, 
+    {
+      title: '新程序', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/pjs/4624223152947200/6144380220260352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4624223152947200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
   ];
 };
