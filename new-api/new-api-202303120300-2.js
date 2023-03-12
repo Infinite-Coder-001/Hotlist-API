@@ -100,33 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Trey Mayfield', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5809032705392640/4935739186135040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5809032705392640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5234400785022869124387656'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'xuhanq', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5730308605657088/6596218417627136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5730308605657088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_194892823766852594585472'
-    }, 
-    {
-      title: 'Spin-off of "HTML tables"', 
-      author: 'cloneymaricarandang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-html-tables/5997671125139456/6144445181640704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/5997671125139456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166282538957354468773125'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'madalyn.dower', 
       votes: 14, 
@@ -143,42 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/rays/5840462479147008/4878999581147136.png', 
       link: 'https://www.khanacademy.org/computer-programming/rays/5840462479147008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'dilanguido47', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-blog/6485417685991424/4900965964890112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6485417685991424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5992130417358176320005993'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'David', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176/6453977317425152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6393763075506176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_136763236811254056381115'
-    }, 
-    {
-      title: 'Arctic Foxes', 
-      author: 'Ella', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/arctic-foxes/4656473198346240/5082592380764160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arctic-foxes/4656473198346240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733792997333705718798102'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'aguirrecorrearodrigo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4997124851023872/5746336114982912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4997124851023872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_233453731195046610314459'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -253,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_516995944696724912325'
     }, 
     {
+      title: 'Lip Bite', 
+      author: 'mr. mustache', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/lip-bite/6026059449679872/6404499734577152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lip-bite/6026059449679872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'Derivação de "Projeto: Blog"', 
       author: 'Natalie W', 
       votes: 1, 
@@ -269,6 +215,60 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/barely-a-neural-network/5359308022005760/5919740243787776.png', 
       link: 'https://www.khanacademy.org/computer-programming/barely-a-neural-network/5359308022005760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_441509552762911320201792'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'lauranicolmanriquec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6703193717522432/5164659667943424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6703193717522432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_917028696500410037452955'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'daniel.rafferty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/6338132788428800/6574475011473408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6338132788428800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292389357190891478370385'
+    }, 
+    {
+      title: 'my fastest sanest metaballs. [kinda legal?]', 
+      author: 'YokieBob', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: '/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456/4789119798788096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-fastest-sanest-metaballs-kinda-legal/4792114385043456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'I nEeD hELp', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/i-need-help/5339864000413696/6064697646563328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-need-help/5339864000413696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"1', 
+      author: 'lauranicolmanriquec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena1/5246019292151808/6229696062996480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena1/5246019292151808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_917028696500410037452955'
+    }, 
+    {
+      title: 'Yousuf Ansari App Impersonator', 
+      author: 'yousuf.ansari', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/yousuf-ansari-app-impersonator/5558346948329472/6605026737045504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yousuf-ansari-app-impersonator/5558346948329472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379719148569419569556861'
     }, 
   ];
 };
