@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 26, 
+      votes: 24, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 43, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: '/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/5335485952344064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
       votes: 61, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Here comes crazy man...', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/5335485952344064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Kaleidoscope Maker v1.0', 
-      author: 'Phase ✝', 
-      votes: 22, 
-      forks: 1, 
-      thumbnail: '/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 8, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
+      title: 'Kaleidoscope Maker v1.0', 
+      author: 'Phase ✝', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: '/computer-programming/kaleidoscope-maker-v10/6207188601454592/4549792820936704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Don\'t vote this up...', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5849564555034624.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5207978640982016.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
