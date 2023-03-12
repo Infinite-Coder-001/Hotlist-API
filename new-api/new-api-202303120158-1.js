@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Bob Lyon', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/5056166101303296.png', 
+      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/6349596047753216.png', 
       link: 'https://www.khanacademy.org/computer-programming/transformation-isometric-blocks/5161628486385664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
