@@ -127,6 +127,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Zaria', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-my-favorite-foods/6276194310078464/6009851442675712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6276194310078464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_911307139899007958626720'
+    }, 
+    {
+      title: 'Design a Store Database   ', 
+      author: 'lujain.mirza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/design-a-store-database/6565163253940224/5675606337699840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/design-a-store-database/6565163253940224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'nigee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-drawing-more-shapes-with-code/4650755053371392/5256758723657728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4650755053371392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_459867486008094575777553'
+    }, 
+    {
+      title: 'My 1st Creation (bald human)', 
+      author: 'ジA𝓨的ㅔن', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/my-1st-creation-bald-human/6653643124424704/4781994624204800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-1st-creation-bald-human/6653643124424704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4338190096766484310603839'
+    }, 
+    {
+      title: 'Derivação de "Projeto: estrela cadente"', 
+      author: 'nathi.mendonca17', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-projeto-estrela-cadente/4525433922306048/6480741674565632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4525433922306048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2851662170346250209502766'
+    }, 
+    {
       title: 'Spin-off of "image(image, x, y, width*, height*) | ProcessingJS"', 
       author: 'ジA𝓨的ㅔن', 
       votes: 1, 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/data-dig/5654437538611200/4829859618799616.png', 
       link: 'https://www.khanacademy.org/computer-programming/data-dig/5654437538611200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_824618531887869526641574'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'maryglantz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/4916173731053568/5381115819114496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4916173731053568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192015603679361704386868'
-    }, 
-    {
-      title: 'Day 215', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/day-215/6425494553935872/5620357073780736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-215/6425494553935872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'pipontripon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5796621348814848/5971631065579520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5796621348814848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_320759054950953367212944'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'juanalejandroagudelo9', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5172668699820032/4670929286512640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5172668699820032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444938497662388620542536'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'cosmicdustructer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520/5772396265259008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_615624192983511800717973'
     }, 
   ];
 };
