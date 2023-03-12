@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
