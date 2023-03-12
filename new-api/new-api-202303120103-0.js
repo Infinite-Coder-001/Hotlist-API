@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/some-random-3d-fps/5066108229173248/6589335820615680.png', 
+      thumbnail: '/computer-programming/some-random-3d-fps/5066108229173248/5980158697979904.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-random-3d-fps/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
