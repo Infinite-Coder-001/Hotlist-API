@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/6232435513933824.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5159254720036864.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -523,47 +523,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6335102155140485716180485'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Jagoda P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/4908022856204288/6481526638559232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4908022856204288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_431767087247684769203568'
-    }, 
-    {
-      title: 'New program', 
-      author: '92444', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/5716805933121536/6342300139831296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5716805933121536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6817179566665764440878251'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'aparna soddy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4509104850911232/5687401051897856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4509104850911232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_557935315054933317020822'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'lauterix', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6633083115978752/4864813841039360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6633083115978752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_678268566490884574115985'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ataque animal"', 
       author: '2009ssotelo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-ataque-animal/5022150136479744/5030971940585472.png', 
+      thumbnail: '/computer-programming/derivado-de-proyecto-ataque-animal/5022150136479744/5307488973144064.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5022150136479744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1028160108030122213319967'
     }, 
@@ -644,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'camila.guimaraes', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-milla-table/6046279660781568/5130384352526336.png', 
+      thumbnail: '/computer-programming/derivao-de-milla-table/6046279660781568/5222034491883520.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-milla-table/6046279660781568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2743980328459599774152324'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-magic-8-ball/4524937878749184/4522639299493888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4524937878749184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_613656433494307351574979'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'shubha02sharma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6042508738215936/6388812018401280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6042508738215936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27245650430747018972455'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Sasha_Spaikes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6102240056360960/6698071776083968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6102240056360960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sara Affleck', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5848520903147520/4704921066979328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5848520903147520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2550194281391491447948160'
+    }, 
+    {
+      title: 'გამოწვევა: "მარტივი თოვლის კაცუნა"', 
+      author: 'ugrexelidze.gella', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/pjs/5538485903867904/5285570949726208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5538485903867904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5105268978306028784486366'
     }, 
   ];
 };
