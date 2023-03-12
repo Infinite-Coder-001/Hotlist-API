@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 45, 
+      votes: 46, 
       forks: 1, 
       thumbnail: '/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5403432393687040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Here comes crazy man...', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/5335485952344064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'Spin-off of "Kaleidoscope Maker v1.0"', 
       author: 'mr. mustache', 
       votes: 16, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/5335485952344064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'NINTENDO Contest', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Don\'t vote this up...', 
+      author: 'Speedyspeedcuber', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: '/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions😐', 
       votes: 20, 
@@ -127,27 +136,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: '3D Target Practice', 
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4902807255957504.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/6214515962462208.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 14, 
+      votes: 15, 
       forks: 1, 
       thumbnail: '/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
@@ -219,11 +219,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Clouds [3D Game]', 
       author: '▪Dipper98▪', 
-      votes: 83, 
+      votes: 84, 
       forks: 9, 
       thumbnail: '/computer-programming/into-the-clouds-3d-game/5107147832868864/6216456499150848.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-clouds-3d-game/5107147832868864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'piglin dance', 
+      author: 'LightningCoder', 
+      votes: 35, 
+      forks: 4, 
+      thumbnail: '/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/henwy-simulator/5766444346556416/5098405213028352.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
-    }, 
-    {
-      title: 'piglin dance', 
-      author: 'LightningCoder', 
-      votes: 34, 
-      forks: 4, 
-      thumbnail: '/computer-programming/piglin-dance/4522774163144704/4687169103118336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piglin-dance/4522774163144704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'kill dude among us', 
