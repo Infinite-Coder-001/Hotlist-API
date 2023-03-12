@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Transformation Isometric Blocks', 
+      author: 'Bob Lyon', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/4652271847915520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/transformation-isometric-blocks/5161628486385664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'contest 1!', 
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 12, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/adorable-puppy/5869676091719680/6018589218095104.png', 
       link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
-    }, 
-    {
-      title: 'Duolingo! [No PJS]', 
-      author: 'Fire Wolf', 
-      votes: 66, 
-      forks: 1, 
-      thumbnail: '/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
   ];
 };
