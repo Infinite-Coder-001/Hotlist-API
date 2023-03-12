@@ -109,69 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: '', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pjs/6394630918946816/6126109504880640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6394630918946816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: haz que llueva"', 
-      author: 'valeriyolandabautistacristanch', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-haz-que-llueva/6200649836707840/5557627566473216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6200649836707840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
-    }, 
-    {
-      title: 'Dodge', 
-      author: 'Underscore', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/dodge/6742562528608256/6658226081021952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dodge/6742562528608256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
-    }, 
-    {
-      title: 'New program', 
-      author: 'emily.mccorduck', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/5755069805150208/4854767098839040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5755069805150208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_555064627158234057105630'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'jramanata', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5899394933374976/6137193519431680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5899394933374976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_92634767584566121224219'
-    }, 
-    {
-      title: 'New program', 
-      author: 'daniel.rafferty', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6406696161558528/5800991343820800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6406696161558528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292389357190891478370385'
-    }, 
-    {
-      title: 'Derivação de "Projeto: ataque animal"', 
-      author: 'Karol', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-projeto-ataque-animal/5263342707195904/6145368004018176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-ataque-animal/5263342707195904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7599069926790776163907161'
-    }, 
-    {
       title: 'Derivação de "Projeto: estrela cadente"', 
       author: 'Jose Luiz Freire Domingos', 
       votes: 2, 
@@ -203,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448/5999840410779648.png', 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448/5769819419099136.png', 
       link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -221,17 +158,17 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/4638033796448256.png', 
+      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/6495235771514880.png', 
       link: 'https://www.khanacademy.org/computer-programming/skull-pixel-animation/6055413663711232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'The Program Where You Have To Click Restart Over And Over Again!', 
+      title: 'New program', 
       author: 'kylew139', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808/5044346338721792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-program-where-you-have-to-click-restart-over-and-over-again/6748511783927808', 
+      thumbnail: '/computer-programming/new-program/6748511783927808/5875823150415872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6748511783927808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
     }, 
     {
@@ -269,6 +206,69 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6574571379802112/4718869073936384.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6574571379802112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1145970157508866580846694'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/4578448834347008/5122753718173696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4578448834347008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'Car', 
+      author: 'Weedle Bug', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/car/4880153509675008/5994990520287232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/car/4880153509675008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3552596697437550366951746'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'shayma.murshed', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-app-impersonator/4755508580106240/5026504776138752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4755508580106240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18455291752504208284862'
+    }, 
+    {
+      title: 'purple weeeeee ball', 
+      author: 'graceshu0429', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/purple-weeeeee-ball/6269863448592384/4990539437228032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/purple-weeeeee-ball/6269863448592384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820682883196043541845751'
+    }, 
+    {
+      title: 'Derivação de "Desenhando com código"', 
+      author: 'onsalud8', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-desenhando-com-cdigo/5514956261081088/6032607269928960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-com-cdigo/5514956261081088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4457889113928817565578460'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/5451502716239872/5516729352765440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5451502716239872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'Spin-off of "textFont(font, size*)    | ProcessingJS"', 
+      author: 'Eram Altaha Albreijea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-textfontfont-size-processingjs/6079679306186752/5956823914168320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-textfontfont-size-processingjs/6079679306186752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3683194010559098065346552'
     }, 
   ];
 };
