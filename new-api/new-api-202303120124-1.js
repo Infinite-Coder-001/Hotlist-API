@@ -118,11 +118,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6387591803092992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Mom come pick me up I\'m scared', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448/5999840410779648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Transformation Isometric Blocks', 
       author: 'Bob Lyon', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/4652271847915520.png', 
+      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/5056166101303296.png', 
       link: 'https://www.khanacademy.org/computer-programming/transformation-isometric-blocks/5161628486385664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/the-pokemon-zoo/5048098944761856/5739025703157760.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pokemon-zoo/5048098944761856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_143544874372392454456998'
-    }, 
-    {
-      title: 'Mad Libs 2.0', 
-      author: 'IshmelCoder', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/mad-libs-20/4862913628389376/4694198412689408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mad-libs-20/4862913628389376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_539397466526678897361075'
-    }, 
-    {
-      title: 'Adorable Puppy!', 
-      author: '🥞PaNcAkEs🥞', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: '/computer-programming/adorable-puppy/5869676091719680/6018589218095104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-puppy/5869676091719680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
   ];
 };
