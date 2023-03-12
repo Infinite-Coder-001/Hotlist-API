@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Duolingo! [No PJS]', 
+      author: 'Fire Wolf', 
+      votes: 66, 
+      forks: 1, 
+      thumbnail: '/computer-programming/duolingo-no-pjs/5501996021104640/4950807856594944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-no-pjs/5501996021104640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
       title: 'Avatar Wars 2', 
       author: 'Crystal Coding', 
       votes: 4, 
@@ -109,11 +118,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2471981005261355655595031'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'imaan9798', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5085799135887360/5425687907581952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5085799135887360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3403389515018733282105871'
+    }, 
+    {
+      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6387591803092992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Mom come pick me up I\'m scared', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448/5769819419099136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Po met gras!', 
+      author: 'gudurgeetan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/po-met-gras/6076459682938880/5918086220005376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/po-met-gras/6076459682938880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
+    }, 
+    {
       title: 'skull pixel animation', 
       author: 'vw_beetlesultimategreatness', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/5879467363057664.png', 
+      thumbnail: '/computer-programming/skull-pixel-animation/6055413663711232/6495235771514880.png', 
       link: 'https://www.khanacademy.org/computer-programming/skull-pixel-animation/6055413663711232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -224,51 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-textfontfont-size-processingjs/6079679306186752/5956823914168320.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-textfontfont-size-processingjs/6079679306186752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3683194010559098065346552'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'somei.salinas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/5112896084557824/4970165270003712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5112896084557824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6791651926718040390124457'
-    }, 
-    {
-      title: 'Transformation Isometric Blocks', 
-      author: 'Bob Lyon', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/4652271847915520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/transformation-isometric-blocks/5161628486385664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: gente famosa"', 
-      author: 'salibemaximiliano', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-gente-famosa/6029990795984896/4798195005964288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6029990795984896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_656876832814964849901340'
-    }, 
-    {
-      title: 'PO3- 12-03-2023', 
-      author: 'kamal shoushan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/po3-12-03-2023/5720726164520960/4871840281706496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/po3-12-03-2023/5720726164520960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
-    }, 
-    {
-      title: 'New program', 
-      author: 'mastergordito2013', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/6582600783413248/5504494836432896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6582600783413248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
     }, 
   ];
 };
