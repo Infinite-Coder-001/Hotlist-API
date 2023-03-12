@@ -10,15 +10,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6387591803092992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'WELCOME BACK STUFF!!!', 
       author: 'LovelyPetals', 
       votes: 6, 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/fishnado/6328407489298432/6649221178769408.png', 
       link: 'https://www.khanacademy.org/computer-programming/fishnado/6328407489298432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'mom come pick me up i\'m scared ((⊙﹏⊙))', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304/6387591803092992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/6638611368034304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Mom come pick me up I\'m scared', 
