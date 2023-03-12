@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4963547262271488.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5831587591929856.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'Repeat', 
       votes: 17, 
       forks: 1, 
-      thumbnail: '/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/5089887642763264.png', 
+      thumbnail: '/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712/4698268397518848.png', 
       link: 'https://www.khanacademy.org/computer-programming/work-in-progress-v006-the-worlds-hardest-game-remade/5742745581043712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
     }, 
@@ -505,6 +505,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6335102155140485716180485'
     }, 
     {
+      title: 'Derivação de "Desafio: Uma viagem perfeita"', 
+      author: 'camila.guimaraes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6536942017888256/5929501504880640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6536942017888256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2743980328459599774152324'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Askhat Almas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-event-invite/6546896980328448/6732551739981824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6546896980328448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_486323396681213626652518'
+    }, 
+    {
+      title: 'practice', 
+      author: 'atkins.olivia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/practice/6616128506085376/6073060560257024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/practice/6616128506085376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_126928894357396087116001'
+    }, 
+    {
+      title: 'New program', 
+      author: 'mastergordito2013', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-program/6334771473203200/4745668059250688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6334771473203200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Ishan.S', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/5925992147501056/4710722603106304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5925992147501056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_904924778906059996217419'
+    }, 
+    {
       title: 'Spin-off of "Project: Word game "', 
       author: 'Fiona Froelich', 
       votes: 1, 
@@ -512,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-word-game/6568962886516736/6722607011643392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/6568962886516736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1181577025463351520296218'
+    }, 
+    {
+      title: 'traslación de imagenes', 
+      author: 'wendy  torres barrera ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/traslacin-de-imagenes/5054497489731584/5355735448076288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/traslacin-de-imagenes/5054497489731584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6451636433716814977684705'
     }, 
     {
       title: 'Derivado de "Proyecto: estrella fugaz"', 
@@ -581,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'German Raukh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/hiiii-germanhiiii-german-hiiii-german-hiiii-germanhiiii-germanhiiii-german-hiiii-germanhiiii-german/6678520782962688/4794305351041024.png', 
+      thumbnail: '/computer-programming/hiiii-germanhiiii-german-hiiii-german-hiiii-germanhiiii-germanhiiii-german-hiiii-germanhiiii-german/6678520782962688/6730979278635008.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiiii-germanhiiii-german-hiiii-german-hiiii-germanhiiii-germanhiiii-german-hiiii-germanhiiii-german/6678520782962688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_212810335682071893283347'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152/6011059377061888.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-26-angelm-wilmer-jerry-complete/4961034731569152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
-      author: 'alice.jana.kirschnerova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6670551236263936/4903310404665344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6670551236263936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_431321233188203561290460'
-    }, 
-    {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'Shahana Karim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-more-complex-queries-with-andor/4774856355004416/5009273723863040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4774856355004416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_895115475287546370958059'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'dbeck305', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5125731560767488/5608713383886848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5125731560767488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_252052971967180163521261'
-    }, 
-    {
-      title: 'LipStick Design ', 
-      author: 'Izzy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/lipstick-design/5351958628319232/6002110678482944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lipstick-design/5351958628319232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_975666438939251939141651'
-    }, 
-    {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'Aibol elkeev', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-event-invite/6576412868001792/5768251881865216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6576412868001792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6193092275895092588850582'
-    }, 
-    {
-      title: '"Zor Görev: Öğrenme listeniz" uyarlaması', 
-      author: 'ebrar çeliker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208/6178020794875904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zor-grev-renme-listeniz-uyarlamas/5203671921246208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516750514246010035164557'
     }, 
   ];
 };
