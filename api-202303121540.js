@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Don\'t vote this up...', 
       author: 'Speedyspeedcuber', 
-      votes: 19, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/5230445145145344.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5914745448480768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/6564534934618112.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 19, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6306333760733184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6083098494418944.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
+      title: 'Flashbacks', 
+      author: 'KarLlr', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'a groovy hotlist', 
       author: '*Captain_Pockets*', 
       votes: 12, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792/5515551256657920.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-groovy-hotlist/4622065384865792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
-    }, 
-    {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Winston vs Hopper', 
