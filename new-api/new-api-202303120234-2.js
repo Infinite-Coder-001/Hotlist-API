@@ -118,6 +118,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Derivação de "Projeto: Blog"', 
+      author: 'Natalie W', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-projeto-blog/5481994140303360/4533040577822720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/5481994140303360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9624575982008466509741832'
+    }, 
+    {
+      title: 'barely a neural network', 
+      author: 'Michael Chen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/barely-a-neural-network/5359308022005760/5919740243787776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/barely-a-neural-network/5359308022005760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_441509552762911320201792'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'lauranicolmanriquec', 
       votes: 1, 
@@ -176,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'Nivag514', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/diff-sorting-method/5670901683372032/5986171878686720.png', 
+      thumbnail: '/computer-programming/diff-sorting-method/5670901683372032/6704173976698880.png', 
       link: 'https://www.khanacademy.org/computer-programming/diff-sorting-method/5670901683372032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
     }, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-my-favorite-foods/4738966131884032/4747647225479168.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4738966131884032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_48220209283058405135163'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'Mordecai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-waving-snowman/5594330805092352/5804415179341824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5594330805092352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1086068264903267665187524'
-    }, 
-    {
-      title: '新程序', 
-      author: 'crazy__codes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pjs/5520824486641664/6492873652748288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5520824486641664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
   ];
 };
