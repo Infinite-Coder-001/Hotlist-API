@@ -100,13 +100,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Trey Mayfield', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'msaldivarr123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/5809032705392640/4935739186135040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5809032705392640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5234400785022869124387656'
+      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6462809716342784/6306231985946624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6462809716342784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8471053614072220265604849'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : étoile filante"', 
+      author: 'Laurie Champagne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/projet-driv-de-projet-toile-filante/4556080560783360/6483970818883584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-toile-filante/4556080560783360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3024203881458788361539123'
+    }, 
+    {
+      title: 'Instant Screen Filler', 
+      author: 'Nivag514', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/instant-screen-filler/6736194467840000/6717913551912960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/instant-screen-filler/6736194467840000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
+    }, 
+    {
+      title: 'Derivado de "proyecto"', 
+      author: 'Jose Emilio Barrera Gonzalez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto/5275448391286784/5638696617689088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto/5275448391286784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_151296725643913622658724'
     }, 
     {
       title: 'Spin-off of "Project: Data dig"', 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/heers-picture-perfect-trip/5141757157490688/5470256430891008.png', 
       link: 'https://www.khanacademy.org/computer-programming/heers-picture-perfect-trip/5141757157490688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Adam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6744658892079104/5821385224273920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6744658892079104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516995944696724912325'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Blog"', 
-      author: 'Natalie W', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-projeto-blog/5481994140303360/4533040577822720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/5481994140303360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9624575982008466509741832'
-    }, 
-    {
-      title: 'barely a neural network', 
-      author: 'Michael Chen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/barely-a-neural-network/5359308022005760/5919740243787776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/barely-a-neural-network/5359308022005760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_441509552762911320201792'
     }, 
   ];
 };
