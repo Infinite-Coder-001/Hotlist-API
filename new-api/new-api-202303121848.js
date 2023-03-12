@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 40, 
+      votes: 41, 
       forks: 0, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Here comes crazy man...', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 18, 
+      votes: 19, 
       forks: 2, 
       thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/6003069899030528.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: '/computer-programming/nincompoop/6110739742113792/5762897953472512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
       title: 'Raymarching', 
       author: 'Manta', 
       votes: 11, 
@@ -100,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: '/computer-programming/nincompoop/6110739742113792/5762897953472512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: 'Mini Khan Academy', 
       author: 'CodingChamp01 🔴', 
       votes: 62, 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 22, 
       forks: 2, 
-      thumbnail: '/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
+      thumbnail: '/computer-programming/i-made-explosive-cows/6279447152214016/5871439813328896.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -161,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/new-program/6333783488118784/6477889250050048.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
+      title: 'infinity facts about mr. mustache', 
+      author: 'mr. mustache', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'a groovy hotlist', 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
-    }, 
-    {
-      title: 'infinity facts about mr. mustache', 
-      author: 'mr. mustache', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/5542400540065792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'kill dude among us', 
@@ -329,7 +329,7 @@ var LoadHotlistAPI = function() {
       author: 'Bob Lyon', 
       votes: 3, 
       forks: 0, 
-      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/6349596047753216.png', 
+      thumbnail: '/computer-programming/transformation-isometric-blocks/5161628486385664/6471595206164480.png', 
       link: 'https://www.khanacademy.org/computer-programming/transformation-isometric-blocks/5161628486385664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'ChristianJ', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/i-9000/6277144177328128/6249360503652352.png', 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/4793369182388224.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
     }, 
@@ -505,6 +505,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Michał', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5407720838840320/5057126378815488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5407720838840320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4642502334321375351117835'
+    }, 
+    {
+      title: 'Spin-off of "Project: Paint splatter"', 
+      author: 'KW139', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-paint-splatter/4909931197415424/4928720370712576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-paint-splatter/4909931197415424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
+    }, 
+    {
       title: 'Mario pixel art', 
       author: 'Green Light', 
       votes: 2, 
@@ -539,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/new-program/5874480973135872/6742427425882112.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5874480973135872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3754586453380581294641425'
+    }, 
+    {
+      title: 'Puzzle, but interesting concept O.o', 
+      author: '‮e09', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/puzzle-but-interesting-concept-oo/4732622171586560/4803052727222272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/puzzle-but-interesting-concept-oo/4732622171586560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki" ', 
@@ -842,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'James Tyler', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/new-program/6011729626841088/4683427138027520.png', 
+      thumbnail: '/computer-programming/new-program/6011729626841088/4953675204444160.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6011729626841088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9081424627805153782818465'
     }, 
@@ -866,39 +893,12 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Michał Rosół', 
+      author: 'Michał', 
       votes: 1, 
       forks: 0, 
       thumbnail: '/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5790721221378048/6496817493884928.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5790721221378048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4642502334321375351117835'
-    }, 
-    {
-      title: 'what\'s for dinner?', 
-      author: 'rasolofomananashanella', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/whats-for-dinner/5553716629651456/5601865838673920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/whats-for-dinner/5553716629651456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_172452685841449437234273'
-    }, 
-    {
-      title: 'Casa', 
-      author: 'MOCTEZUMA MOLINA HECTOR JESUS', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/casa/5824461838532608/5844318713856000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/casa/5824461838532608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_364600177263238304210850'
-    }, 
-    {
-      title: '"Light" House', 
-      author: 'Samuel Jones', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/light-house/6287937555972096/5981836184698880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/light-house/6287937555972096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6335102155140485716180485'
     }, 
   ];
 };
