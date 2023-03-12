@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Don\'t vote this up...', 
       author: 'Speedyspeedcuber', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
