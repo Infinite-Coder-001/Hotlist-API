@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6541182316625920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6637450518904832.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Waterfall of Flames | ExDiCode 2023 (Challenge 5: Elemental)', 
-      author: 'CylenceScythe (Offline)', 
-      votes: 62, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512/6413649134796800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waterfall-of-flames-exdicode-2023-challenge-5-elemental/6589064692416512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+      title: 'WELCOME BACK STUFF!!!', 
+      author: 'LovelyPetals', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464/5335303416233984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/welcome-back-stuff/4890485397438464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
