@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I made explosive cows', 
       author: 'Wort-Head Productions😐', 
-      votes: 20, 
+      votes: 21, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016/6077119421792256.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-made-explosive-cows/6279447152214016', 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: '❃JustZoul❃', 
       votes: 42, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/5819296158892032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/6361358197374976.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
