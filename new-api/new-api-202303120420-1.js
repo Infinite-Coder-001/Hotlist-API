@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Po met gras!', 
+      author: 'gudurgeetan', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/po-met-gras/6076459682938880/5918086220005376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/po-met-gras/6076459682938880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
+    }, 
+    {
       title: 'WELCOME BACK STUFF!!!', 
       author: 'LovelyPetals', 
       votes: 6, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448/5999840410779648.png', 
       link: 'https://www.khanacademy.org/computer-programming/mom-come-pick-me-up-im-scared/4982911273320448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Po met gras!', 
-      author: 'gudurgeetan', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/po-met-gras/6076459682938880/5918086220005376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/po-met-gras/6076459682938880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
     }, 
     {
       title: 'The Program Where You Have To Click Restart Over And Over Again!', 
