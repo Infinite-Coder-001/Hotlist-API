@@ -127,42 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "image(image, x, y, width*, height*) | ProcessingJS"', 
-      author: 'ジA𝓨的ㅔن', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-imageimage-x-y-width-height-processingjs/6630254510915584/5820259473080320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-imageimage-x-y-width-height-processingjs/6630254510915584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4338190096766484310603839'
-    }, 
-    {
-      title: 'abhijay', 
-      author: 'mishradivya3010', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/abhijay/5348244563738624/5115272006778880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abhijay/5348244563738624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8908898311034060303379639'
-    }, 
-    {
-      title: 'Unfortunate Events (still in progress)', 
-      author: 'TheRealDeal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/unfortunate-events-still-in-progress/6587300542988288/6161507224436736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unfortunate-events-still-in-progress/6587300542988288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Just J', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5563354704035840/4704408279760896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5563354704035840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444918832602112696836100'
-    }, 
-    {
       title: 'Derivado de "Desafío: LIBERTAD"', 
       author: 'Eder Abraham  De la Cruz Perdomo', 
       votes: 1, 
@@ -269,6 +233,42 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520/5772396265259008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6689570081259520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_615624192983511800717973'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 's221159', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-favorite-animals/5571983159115776/6602750614093824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5571983159115776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_186013780514729836495162'
+    }, 
+    {
+      title: 'I-9000', 
+      author: 'ChristianJ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/i-9000/6277144177328128/6460817480663040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-9000/6277144177328128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6744688895405324276472360'
+    }, 
+    {
+      title: 'Day 248', 
+      author: 'Sarai Marte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/day-248/6542295291969536/6552260295573504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/day-248/6542295291969536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
+    }, 
+    {
+      title: 'Heer\'s Colorful creature', 
+      author: 'Heer Sh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/heers-colorful-creature/4741329504747520/6600891774058496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heers-colorful-creature/4741329504747520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
     }, 
   ];
 };
