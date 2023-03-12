@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/5760584635432960.png', 
+      thumbnail: '/computer-programming/3d-target-practice/5066108229173248/4784448031997952.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -631,6 +631,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
     }, 
     {
+      title: 'Derivação de "Projeto: livro de receitas"', 
+      author: 'camila.guimaraes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-projeto-livro-de-receitas/6301402723041280/6332151668981760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-livro-de-receitas/6301402723041280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2743980328459599774152324'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Recipe Card"', 
+      author: 'aej1019', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-recipe-card/4702077932847104/5397513643540480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/4702077932847104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_531319148332822690974516'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: '23090', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-wishlist/6291146735403008/5703466435788800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6291146735403008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2937340870422696573376368'
+    }, 
+    {
+      title: 'reCAPTCHA', 
+      author: 'Phase ✝', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'jon larson', 
       votes: 1, 
@@ -647,6 +683,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poemby-naroa-codea/4606741772025856/5919162511966208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poemby-naroa-codea/4606741772025856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_977125514865587089446861'
+    }, 
+    {
+      title: 'yourprettycaniseeyoushmallwillie', 
+      author: 'ao.killah1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/yourprettycaniseeyoushmallwillie/6069776176955392/4512528141172736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yourprettycaniseeyoushmallwillie/6069776176955392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_544639365223773592537742'
     }, 
     {
       title: 'alter colors of things in site using css', 
@@ -667,15 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6464338465851937513200234'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'playermations', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/5749608771010560/6094138632355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5749608771010560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_923903907960088175674835'
-    }, 
-    {
       title: 'Derivação de "Projeto: estrela cadente"', 
       author: 'pedro.moreira', 
       votes: 1, 
@@ -689,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'Crystal Coding', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/testing-stuff-for-avatar-wars-3/4779120284450816/4543315775373312.png', 
+      thumbnail: '/computer-programming/testing-stuff-for-avatar-wars-3/4779120284450816/5333332999323648.png', 
       link: 'https://www.khanacademy.org/computer-programming/testing-stuff-for-avatar-wars-3/4779120284450816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
@@ -770,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'ethankim8683', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/binary-heap-priority-queue/6117623823908864/4544807638974464.png', 
+      thumbnail: '/computer-programming/binary-heap-priority-queue/6117623823908864/5829442658418688.png', 
       link: 'https://www.khanacademy.org/computer-programming/binary-heap-priority-queue/6117623823908864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
@@ -851,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'dsabalakov2026', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/alien-attack-beta-10-release/6522238209933312/6240140853035008.png', 
+      thumbnail: '/computer-programming/alien-attack-beta-10-release/6522238209933312/5903878745014272.png', 
       link: 'https://www.khanacademy.org/computer-programming/alien-attack-beta-10-release/6522238209933312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4705727062359083495308470'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/create-lists-in-html-and-emph-and-heighten-text/6203001733955584/5039563846500352.png', 
       link: 'https://www.khanacademy.org/computer-programming/create-lists-in-html-and-emph-and-heighten-text/6203001733955584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3776152400246740798034940'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
-      author: 'helsisan.san', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/6495957036613632/6395065725665280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/6495957036613632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_925550975235065471170589'
-    }, 
-    {
-      title: 'Run... forward??', 
-      author: 'Ash :)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/run-forward/5885524596539392/6395218658377728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/run-forward/5885524596539392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6799961809593255696027753'
-    }, 
-    {
-      title: 'Spin-off of "CSS font-size property"', 
-      author: '44danbor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-css-font-size-property/4885898162651136/4514515024920576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-font-size-property/4885898162651136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_573891117642858400545854'
-    }, 
-    {
-      title: 'Test subject 1', 
-      author: 'Floppy Fish', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/test-subject-1/5298195905429504/6567411296026624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-subject-1/5298195905429504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
   ];
 };
