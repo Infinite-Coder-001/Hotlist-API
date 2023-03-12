@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 20, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6083098494418944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5762897953472512.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -149,9 +149,18 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/5789606568312832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6528100727046144.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
+    }, 
+    {
+      title: 'Flashbacks', 
+      author: 'KarLlr', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'New program', 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784/6477889250050048.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
-    }, 
-    {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'a groovy hotlist', 
