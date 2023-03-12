@@ -57,11 +57,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 61, 
+      votes: 62, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5472835114156032.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Don\'t vote this up...', 
+      author: 'Speedyspeedcuber', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Raymarching', 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Don\'t vote this up...', 
-      author: 'Speedyspeedcuber', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360/6155284647297024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-vote-this-up/6404476779151360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'I made explosive cows', 
@@ -192,11 +192,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Winston vs Hopper', 
       author: 'Speedyspeedcuber', 
-      votes: 33, 
+      votes: 34, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/5072734382243840.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: librero V"', 
+      author: 'valeriyolandabautistacristanch', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880/5759125453848576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero-v/5425122020474880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_207735194442259603936801'
     }, 
     {
       title: 'Terrain Generation', 
@@ -257,18 +266,9 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416/5098405213028352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416/4743271006126080.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-simulator/5766444346556416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
-    }, 
-    {
-      title: 'SCP Foundation', 
-      author: 'cool guy coding', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
   ];
 };
