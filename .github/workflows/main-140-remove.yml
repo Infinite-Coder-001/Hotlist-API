@@ -1,4 +1,4 @@
-name: Remove old API logs
+name: 1.4.0 - Remove old API logs
 
 on:
   schedule:
@@ -48,19 +48,19 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Delete old API logs (new version)
+          commit_message: .[BOT] 1.4.0 - Delete old API logs
           
       - name: Use auto-commit library 2nd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Delete old API logs (new version)
+          commit_message: .[BOT] 1.4.0 - Delete old API logs
           
       - name: Use auto-commit library 3rd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Delete old API logs (new version)
+          commit_message: .[BOT] 1.4.0 - Delete old API logs
 #          push_options: '--force'
 #        
 #      - name: Purging jsdelivr's cache
