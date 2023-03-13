@@ -44,25 +44,25 @@ jobs:
           pip install webdriver_manager
 
       - name: Execute python script # run main.py
-        run: python 1-3-0/update.py
+        run: python update.py
         
       - name: Use auto-commit library
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Update hotlist data (old version)
+          commit_message: .[BOT] Update hotlist data (1.3.0)
           
       - name: Use auto-commit library 2nd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Update hotlist data (old version)
+          commit_message: .[BOT] Update hotlist data (1.3.0)
           
       - name: Use auto-commit library 3rd try
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: .[BOT] Update hotlist data (old version)
+          commit_message: .[BOT] Update hotlist data (1.3.0)
 #          push_options: '--force'
 #        
 #      - name: Purging jsdelivr's cache
