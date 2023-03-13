@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 55, 
+      votes: 56, 
       forks: 2, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'infinity facts about mr. mustache', 
       author: 'mr. mustache', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6618398798954496.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
@@ -712,6 +712,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'Challenge #395 easy (solved sloppily ig)', 
+      author: 'MosaicTiles', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/challenge-395-easy-solved-sloppily-ig/6557402302562304/4557273915768832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-395-easy-solved-sloppily-ig/6557402302562304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3780754828798470929448631'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 's1090167', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-magic-8-ball/6175009183940608/6630736394502144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6175009183940608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1159536748353493949622778'
+    }, 
+    {
       title: 'good/bad stick overlap - Hoppy Beaver workspace', 
       author: 'Ariel k', 
       votes: 1, 
@@ -730,6 +748,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_753806079494657403088'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'alanjihoon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-making-drawings-with-code/6308799663357952/5772284638052352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6308799663357952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_487615827297010558117937'
+    }, 
+    {
       title: 'Windowed Assistant', 
       author: 'IshmelCoder', 
       votes: 1, 
@@ -737,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/windowed-assistant/5388813239369728/6658920129282048.png', 
       link: 'https://www.khanacademy.org/computer-programming/windowed-assistant/5388813239369728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_539397466526678897361075'
+    }, 
+    {
+      title: 'Spin-off of "Code #2 "House""', 
+      author: 'timrozko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-code-2-house/4635766422814720/6295357757898752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-code-2-house/4635766422814720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7678774244166963872472406'
     }, 
     {
       title: 'Code #2 "House"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4574688540147712/4536093150330880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4574688540147712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_548957415485758988785172'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Saranya Malaiyandi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6397625761054720/5009157625528320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6397625761054720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_814041252407941464904082'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'krIsthiam.criollo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/6569686546563072/4620224412565504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6569686546563072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
-    }, 
-    {
-      title: 'New SQL script', 
-      author: 's201077', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-sql-script/4643843746349056/6179164908732416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4643843746349056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_91389299054983090171958'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'amadeekimraisor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5939786106060800/5254286818983936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5939786106060800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1721564350149079766958092'
     }, 
   ];
 };
