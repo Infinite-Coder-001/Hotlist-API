@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Super Mario PLATFORMER!!', 
       author: 'CHROMIUM_CODER', 
-      votes: 21, 
+      votes: 20, 
       forks: 1, 
       thumbnail: '/computer-programming/super-mario-platformer/4553687731322880/6568382923325440.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
-      votes: 36, 
+      votes: 35, 
       forks: 4, 
       thumbnail: '/computer-programming/hotlist-api/5234045946740736/6671933813080064.png', 
       link: 'https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736', 
@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 7, 
       forks: 0, 
-      thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
+      thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/6631935285968896.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -107,24 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/isometric-blocks/6377160992669696/5127148665094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'reCAPTCHA', 
-      author: 'Phase ✝', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: '/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Nissan Pathfinder', 
-      author: 'Phase ✝', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: '/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Animated version!', 
@@ -215,6 +197,24 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'reCAPTCHA', 
+      author: 'Phase ✝', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: '/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Nissan Pathfinder', 
+      author: 'Phase ✝', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: '/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Duolingo owl', 
@@ -677,51 +677,6 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Mía Castillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5458079867256832/6096796822847488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5458079867256832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4411520686523958649926617'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'imaan9798', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6401030361497600/4835546289717248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6401030361497600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3403389515018733282105871'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'hassan.hassan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-famous-people/4576442958790656/6554269216194560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4576442958790656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714977600445172908787088'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'priyal.patel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-travel-webpage/5633803064492032/5946893001867264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5633803064492032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_172646212429108572084390'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'John Pilmer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6060281983975424/6206470993788928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6060281983975424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_20984615720024434575291'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Natalia Pasienski', 
       votes: 1, 
       forks: 0, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/heers-travel-webpage/5753519540060160/5730386967838720.png', 
       link: 'https://www.khanacademy.org/computer-programming/heers-travel-webpage/5753519540060160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'hassan.hassan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5286519969726464/5415698358910976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5286519969726464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714977600445172908787088'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'hassan.hassan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5007390749802496/5129170252513280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5007390749802496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714977600445172908787088'
+    }, 
+    {
+      title: 'Spin-off of "Abdurashid\'s Recipe book"', 
+      author: 'sc987087', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-abdurashids-recipe-book/5079067512848384/4923045804556288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-abdurashids-recipe-book/5079067512848384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845207219913100538586202'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
+      author: 'mauriciopereira.pcrj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4849518590083072/4912476561129472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4849518590083072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4421409419966792445175363'
+    }, 
+    {
+      title: 'Challenge: Book list database', 
+      author: 'kattuxxxa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/challenge-book-list-database/5660944825106432/4760532001538048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/5660944825106432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086488143346044530024094'
     }, 
   ];
 };
