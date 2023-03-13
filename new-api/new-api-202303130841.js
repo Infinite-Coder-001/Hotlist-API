@@ -685,11 +685,146 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'database opgave', 
+      author: 'juliesondergaard83', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/database-opgave/5146980106158080/6745473954398208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/database-opgave/5146980106158080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1101167415472490366388678'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema" Christian Ballen 1bahb', 
+      author: 'Christian Ballen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema-christian-ballen-1bahb/5787734692380672/5132381982081024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema-christian-ballen-1bahb/5787734692380672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9454160860516218942711967'
+    }, 
+    {
+      title: '- Living The Dream -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/-living-the-dream-/6268975183085568/6750837932343296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/6268975183085568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Mateusz Dąbrowski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5783420515172352/5200589829226496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5783420515172352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9318365012627064387187275'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Miłosz Rzempołuch', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5309871446867968/4882351744401408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5309871446867968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8283926156291156399026328'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'bartekdzieciatek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5587886886141952/6692738341060608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5587886886141952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_340874147473373380852859'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'julia maniecka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6450585694158848/6304655321907200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6450585694158848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1530459921276904324155090'
+    }, 
+    {
+      title: 'Spin-off of "New program"', 
+      author: 'Leandri Bekker', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-new-program/5851790757380096/6052039547469824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5851790757380096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1049049583343658405537084'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'afnanache', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/4683064691441664/4913584503308288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4683064691441664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2727830690022431492498621'
+    }, 
+    {
+      title: 'Derivado de "Desafío:un poema de melancolia"', 
+      author: 'Fabiola Adrover Yi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafoun-poema-de-melancolia/5893581057605632/5519242177069056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafoun-poema-de-melancolia/5893581057605632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_783004525698369520999659'
+    }, 
+    {
+      title: 'Derivado de "Desafío: Manon Dangotte"', 
+      author: 'manondangotte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-manon-dangotte/5069161003008000/6158593625997312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-manon-dangotte/5069161003008000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_897361265217259845745470'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'rumanaraafi23', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/6678333456957440/4796747916558336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6678333456957440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_923744431469228174898592'
+    }, 
+    {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'sles080', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-animales-favoritos/4841316712497152/4757338928234496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4841316712497152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_438726583988372456184901'
+    }, 
+    {
+      title: ' Mateo ivaschenco 1BAAA poema', 
+      author: 'mateooou', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/mateo-ivaschenco-1baaa-poema/6675966967726080/5434760086470656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mateo-ivaschenco-1baaa-poema/6675966967726080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3978589636241294266317132'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Dominika Kochanowicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4768935667089408/5778596553867264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4768935667089408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_127889237835020736750456'
+    }, 
+    {
       title: 'poema Irene', 
       author: 'Irene', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/poema-irene/6290374085885952/6426049485520896.png', 
+      thumbnail: '/computer-programming/poema-irene/6290374085885952/5144085264646144.png', 
       link: 'https://www.khanacademy.org/computer-programming/poema-irene/6290374085885952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_48865292994046371827260'
     }, 
@@ -707,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'Filip J', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/poema-filip-j/5627838449631232/4516756905574400.png', 
+      thumbnail: '/computer-programming/poema-filip-j/5627838449631232/5075836254601216.png', 
       link: 'https://www.khanacademy.org/computer-programming/poema-filip-j/5627838449631232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6811734861383387677793571'
     }, 
@@ -764,141 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/rizem-a-szemed/6181028446388224/5885558452961280.png', 
       link: 'https://www.khanacademy.org/computer-programming/rizem-a-szemed/6181028446388224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_961390103489767138235213'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Krystian Kaptur', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6372698072858624/6435545213616128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6372698072858624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2647266528650889839551014'
-    }, 
-    {
-      title: 'FASTE VARER BILKA', 
-      author: 'Celina Asby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/faste-varer-bilka/5049368485085184/5452343791632384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/faste-varer-bilka/5049368485085184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3455003613015087796219786'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Olivier benclowicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4764649075818496/5428289638547456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4764649075818496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3809621766757486628288404'
-    }, 
-    {
-      title: 'Petőfi Sándor', 
-      author: 'Nagy Lara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/petfi-sndor/6379222623109120/6441394912935936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/petfi-sndor/6379222623109120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_961390103489767138235213'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'szymon  lewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5436347735392256/5431799956422656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5436347735392256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_717881008695952697502644'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'Samara  Gómez Folgueira', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-lista-de-deseos/5566585190531072/4606686365270016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5566585190531072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_98061912782888890307362'
-    }, 
-    {
-      title: 'Őrizem a szemed', 
-      author: 'Nagy Lara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/rizem-a-szemed/5794982726516736/6248725175648256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rizem-a-szemed/5794982726516736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_961390103489767138235213'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Klaudusia Pusia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5940347471708160/5848702139023360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5940347471708160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7286075006415284122242774'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Marieta Pérez-Magdalena', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6499095638491136/4868850003001344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6499095638491136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7186710047453001944057518'
-    }, 
-    {
-      title: 'opg informatik', 
-      author: 'hjalte trojahn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/opg-informatik/6355096147640320/6607034365820928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/opg-informatik/6355096147640320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8152244374585055048201240'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Erwin Bielinski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5920740912447488/6305451300143104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5920740912447488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4117902531188368691269040'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Favorite Animals"', 
-      author: 'ranialukyamuzi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-favorite-animals/6260296564129792/5115512759828480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6260296564129792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_666640537687279054862967'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Mónica López Quintana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/6736852545748992/5131964992765952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6736852545748992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_938043464427985971306283'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'Laura ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-build-a-house/6657623753801728/4703562682908672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6657623753801728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_334423275256209994175205'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: The dinner table"', 
-      author: 'collo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-the-dinner-table/5511652323934208/6162691217735680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table/5511652323934208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8930567811279183931860762'
     }, 
   ];
 };
