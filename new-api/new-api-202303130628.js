@@ -694,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'tripathitoshani', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6286645861335040/6298534234341376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6286645861335040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2746377453498249053967965'
+    }, 
+    {
       title: 'New Angry Button: He wants revenge. ', 
       author: 'Omkirat C.', 
       votes: 3, 
@@ -712,12 +721,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_774367814520116609108620'
     }, 
     {
-      title: 'SVB just collapsed', 
+      title: 'SVB just collapsed (Comica #1)', 
       author: 'Hibernia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/svb-just-collapsed/5799350842474496/5609472049594368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed/5799350842474496', 
+      thumbnail: '/computer-programming/svb-just-collapsed-comica-1/5799350842474496/6377204256915456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed-comica-1/5799350842474496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
@@ -860,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/goodbad-stick-overlap-hoppy-beaver-workspace/4956206987001856/5420222951768064.png', 
+      thumbnail: '/computer-programming/goodbad-stick-overlap-hoppy-beaver-workspace/4956206987001856/4912597088649216.png', 
       link: 'https://www.khanacademy.org/computer-programming/goodbad-stick-overlap-hoppy-beaver-workspace/4956206987001856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/windowed-assistant/5388813239369728/6658920129282048.png', 
       link: 'https://www.khanacademy.org/computer-programming/windowed-assistant/5388813239369728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_539397466526678897361075'
-    }, 
-    {
-      title: 'Spin-off of "Code #2 "House""', 
-      author: 'timrozko', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-code-2-house/4635766422814720/6295357757898752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-code-2-house/4635766422814720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7678774244166963872472406'
     }, 
   ];
 };
