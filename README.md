@@ -131,6 +131,8 @@ The callback function is called after all data is loaded. The function is called
 ## Credits
 Please give link to this repository (or ideally to this project: https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736), when you're using it. The link can be in included code or on the webpage, that you make. 
 
+Otherwise, thanks to @**Reginald-Gillespie** for big help on this project. He optimized this program, so it's 20 times faster now! 
+
 ## Questions
 If you have any questions about this project, fell free to ask in Discussion section. You can also check my second documentation with examples here: https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736
 
