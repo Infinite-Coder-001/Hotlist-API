@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for Mr. bob Lyon ', 
       author: 'LovelyPetals', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Animated version!', 
+      author: 'CodingChamp01 🟢', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: '/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'New program', 
       author: 'F4stB01', 
       votes: 11, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/raymarching/5238741335851008/5794587992178688.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Animated version!', 
-      author: 'CodingChamp01 🟢', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: '/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'NINTENDO Contest', 
@@ -695,6 +695,69 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'n.elzanowski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4856673770717184/4782641511710720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4856673770717184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_663832876798624650887699'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'zarahsaleem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4742016263307264/5486189912309760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4742016263307264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_880960575018669553532391'
+    }, 
+    {
+      title: 'Expansion Studios', 
+      author: 'CodingChamp01 🟢', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/expansion-studios/5368596794753024/5141702308577280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/expansion-studios/5368596794753024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Piter P', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5831566788182016/4612880865738752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5831566788182016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'samanthajulianne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/5821387791187968/5186901793619968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5821387791187968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_33967218614506491464724'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Mateusz Jaczynski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6009245835509760/6110508203950080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6009245835509760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7112538879977701695326769'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Tasty Apple"', 
+      author: 'emma.makimartti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-tasty-apple/5043443846135808/5603847160774656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-apple/5043443846135808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_984986892818403125319151'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
       author: 'Sandra  Winiarczyk', 
       votes: 1, 
       forks: 0, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/netflix-graphic/5010809736708096/6066166584098816.png', 
       link: 'https://www.khanacademy.org/computer-programming/netflix-graphic/5010809736708096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'samanthajulianne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-my-favorite-foods/5911799704895488/6190645146599424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5911799704895488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_33967218614506491464724'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Dom', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/6417875336478720/6506179046195200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6417875336478720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1189318296734435578013093'
-    }, 
-    {
-      title: 'Challenge #393 easy (this is disgusting but pretty smart)', 
-      author: 'MosaicTiles', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/challenge-393-easy-this-is-disgusting-but-pretty-smart/5016881989992448/4642626592882688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-393-easy-this-is-disgusting-but-pretty-smart/5016881989992448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3780754828798470929448631'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'melissa.panduro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5370585297502208/4804071796293632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5370585297502208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1070896165625791820795722'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack" (penguin)', 
-      author: 'doodlebob92', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-animal-attack-penguin/5149631778701312/6651255391043584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-penguin/5149631778701312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2298529987522019177719999'
-    }, 
-    {
-      title: '"Making drawings with code" A person\'s face', 
-      author: 'ywxns10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/making-drawings-with-code-a-persons-face/4795952462610432/6235087119368192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/making-drawings-with-code-a-persons-face/4795952462610432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1142859784897549674940263'
-    }, 
-    {
-      title: 'circus guy Made by Hayoung Jang', 
-      author: 'hayoungjang0901', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/circus-guy-made-by-hayoung-jang/6599906272002048/5256531006504960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circus-guy-made-by-hayoung-jang/6599906272002048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8117191968012955949113161'
     }, 
   ];
 };
