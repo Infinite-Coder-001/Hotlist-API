@@ -32,7 +32,7 @@ function HotlistAPI(callback) {
             minutes = "0" + minutes;
         }
 
-        script.src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/new-api/new-api-" + year + month + day + hours + minutes + "0.js";
+        script.src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/new-api/new-api-" + year + month + day + hours + minutes + ".js";
         script.onload = function() {
             finished();
         };
