@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for Mr. bob Lyon ', 
       author: 'LovelyPetals', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
     {
+      title: 'If you know, you know.', 
+      author: 'Synapse', 
+      votes: 35, 
+      forks: 0, 
+      thumbnail: '/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Seeum', 
       votes: 2, 
@@ -440,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4721018705068032/5661355179032576.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4721018705068032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6902130209079503466114834'
-    }, 
-    {
-      title: 'If you know, you know.', 
-      author: 'Synapse', 
-      votes: 34, 
-      forks: 0, 
-      thumbnail: '/computer-programming/if-you-know-you-know/5012276623228928/5004756013858816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-know-you-know/5012276623228928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1011121479142039633146274'
     }, 
     {
       title: 'Cat playing', 
@@ -685,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Kirk Brown', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832/5621890108669952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2065857051596179475784719'
+    }, 
+    {
       title: 'close one.', 
       author: 'YokieBob', 
       votes: 22, 
@@ -692,6 +701,24 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/close-one/4619439901556736/5824087798890496.png', 
       link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Project: Design a store database', 
+      author: 'kattuxxxa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/project-design-a-store-database/5856053042659328/6044873923018752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5856053042659328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086488143346044530024094'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'kmccaddin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5561834252058624/6638137889832960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5561834252058624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_294669652853769106449644'
     }, 
     {
       title: 'Spin-off of "Terrific Text: Part Two"', 
@@ -716,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'Luccia Van Ammel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864/4965103923675136.png', 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864/5741473599635456.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_482221091438587674000916'
     }, 
@@ -797,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-new-program/5570319538765824/6650336905576448.png', 
+      thumbnail: '/computer-programming/spin-off-of-new-program/5570319538765824/6715929746784256.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5570319538765824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6060281983975424/6206470993788928.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6060281983975424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_20984615720024434575291'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Natalia Pasienski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/6572491353145344/5925063872528384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6572491353145344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_609612093444956973030583'
-    }, 
-    {
-      title: 'why you can\'t go outside', 
-      author: 'LovelyPetals', 
-      votes: 53, 
-      forks: 3, 
-      thumbnail: '/computer-programming/why-you-cant-go-outside/4733894559842304/4870166511140864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-you-cant-go-outside/4733894559842304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'mohsen14146', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: '/computer-programming/new-webpage/6581271373594624/5651352653185024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6581271373594624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577691568405278031607117'
     }, 
   ];
 };
