@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760/4573359432318976.png', 
+      thumbnail: '/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760/4698766009745408.png', 
       link: 'https://www.khanacademy.org/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -703,6 +703,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'New SQL script', 
+      author: 's201077', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/new-sql-script/4643843746349056/6179164908732416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4643843746349056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_91389299054983090171958'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'amadeekimraisor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5939786106060800/5254286818983936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5939786106060800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1721564350149079766958092'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'krIsthiam.criollo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/4889407872352256/6716696599773184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4889407872352256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Cat Clicker"', 
+      author: 'Dedy Kurniawan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-cat-clicker/5872271669641216/5271579288453120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-cat-clicker/5872271669641216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_760239968347780756462308'
+    }, 
+    {
+      title: 'Ai generated game', 
+      author: 'NSed2008', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/ai-generated-game/5483762945409024/5435083064655872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-generated-game/5483762945409024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_999705425764130631934709'
+    }, 
+    {
       title: 'Game Menu', 
       author: 'raymondpichardo28', 
       votes: 1, 
@@ -770,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/for-my-games/5147313603657728/5610400366510080.png', 
+      thumbnail: '/computer-programming/for-my-games/5147313603657728/5610192362586112.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-my-games/5147313603657728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-intro-to-objects/6389382858981376/4806446342782976.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-objects/6389382858981376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_768978478478599838284166'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Tracey Blackwell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5423466402856960/4645957474238464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5423466402856960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4857671895244423002099828'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'shehryarmaken456', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-recipe-book/4916189870735360/5478447327789056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4916189870735360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_732816134675744195265946'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Manogna', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature/6141698801713152/4815670959456256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6141698801713152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_462714339429174223716884'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Sahar Akhtar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-making-drawings-with-code/5781308381118464/6643239438565376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5781308381118464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3743224813902590627096695'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Kirk Brown', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832/5621890108669952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2065857051596179475784719'
     }, 
   ];
 };
