@@ -1,22 +1,22 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'P3D but BETTER', 
-      author: 'Dat', 
-      votes: 36, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 27, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
+    }, 
+    {
+      title: 'P3D but BETTER', 
+      author: 'Dat', 
+      votes: 37, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
       title: 'Click to be horrified, new joke!', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 87, 
+      votes: 88, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
       link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
@@ -110,8 +110,8 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 34, 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 35, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/5753770636263424.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
-      votes: 63, 
+      votes: 64, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
@@ -228,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 38, 
+      votes: 39, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/4866820496736256.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'Platformer v0.2', 
-      author: 'Archbirdplus', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920/4809137072685056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+      title: 'NINTENDO Contest', 
+      author: 'PenGwen', 
+      votes: 34, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/6122880192790528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
   ];
 };
