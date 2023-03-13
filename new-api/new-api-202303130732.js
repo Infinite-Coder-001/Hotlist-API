@@ -685,87 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Spin-off of "Making animations"', 
-      author: 'isa.kullberg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-making-animations/4601120968458240/5639046489751552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/4601120968458240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_813867658493999633297322'
-    }, 
-    {
-      title: 'Spin-off of "Making animations"', 
-      author: 'viivi.myrberg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-making-animations/6129420085805056/4628210744868864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6129420085805056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175412338466328858686928'
-    }, 
-    {
-      title: 'Spin-off of "Looping through Arrays"', 
-      author: 'ranialukyamuzi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-looping-through-arrays/6356803472637952/6203777151713280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/6356803472637952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_666640537687279054862967'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'matyldajagodzinska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6420976290283520/4622532957487104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6420976290283520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6450136299250515214646257'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Tosia  Belka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5360342211543040/6678546250776576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5360342211543040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4392448221921479710942080'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'frederikke degn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4753235221200896/5527631145779200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4753235221200896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5451788477572977975245613'
-    }, 
-    {
-      title: 'cool', 
-      author: 'water code', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/cool/5372303015985152/5360105006874624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool/5372303015985152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_166786727289707653596341'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Małgosia Rajska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5570941939924992/5468272256663552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5570941939924992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_802488022957871293959145'
-    }, 
-    {
-      title: 'Spin-off z "background(r, g, b, a*) | ProcessingJS"', 
-      author: 'Michal Bramowicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-backgroundr-g-b-a-processingjs/5807256744804352/4835901832478720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-backgroundr-g-b-a-processingjs/5807256744804352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3059271906579377995340462'
-    }, 
-    {
       title: 'Mario pixel art', 
       author: 'Green Light', 
       votes: 3, 
@@ -775,56 +694,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Mario Escape! [Contest Entry]', 
-      author: 'TheRealDeal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/mario-escape-contest-entry/6130799172960256/5567849219538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario-escape-contest-entry/6130799172960256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Belinda Barry', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature/4770457603850240/4944360125022208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4770457603850240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2669740221318384992977137'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'adatrzaska123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5296355579052032/5734909153165312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5296355579052032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520474742734980606503716'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Piter P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5613865130049536/5055769731186688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5613865130049536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'adatrzaska123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4930958526824448/5234439666057216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4930958526824448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520474742734980606503716'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
       author: 'viktorafanasjev849', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6695704208916480/5428770133819392.png', 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6695704208916480/5239512735465472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6695704208916480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_448873113013978252345550'
     }, 
@@ -878,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'MosaicTiles', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/challenge-391-easy-it-becomes-a-lot-harder-at-12am/6619183662284800/6106052276043776.png', 
+      thumbnail: '/computer-programming/challenge-391-easy-it-becomes-a-lot-harder-at-12am/6619183662284800/6682655553011712.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-391-easy-it-becomes-a-lot-harder-at-12am/6619183662284800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3780754828798470929448631'
     }, 
@@ -899,6 +773,132 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4856673770717184/4782641511710720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4856673770717184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_663832876798624650887699'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'zarahsaleem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-sunny-snowy-day/4742016263307264/5486189912309760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4742016263307264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_880960575018669553532391'
+    }, 
+    {
+      title: 'Expansion Studios', 
+      author: 'CodingChamp01 🟢', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/expansion-studios/5368596794753024/5141702308577280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/expansion-studios/5368596794753024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Piter P', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5831566788182016/4612880865738752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5831566788182016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'samanthajulianne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-ad-design/5821387791187968/5186901793619968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5821387791187968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_33967218614506491464724'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Mateusz Jaczynski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6009245835509760/6110508203950080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6009245835509760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7112538879977701695326769'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Tasty Apple"', 
+      author: 'emma.makimartti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-tasty-apple/5043443846135808/5603847160774656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-apple/5043443846135808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_984986892818403125319151'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Sandra  Winiarczyk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4748530084528128/5870970680426496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4748530084528128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_568630190725530658300863'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Wiktor Kościelski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6564543256117248/5686066994790400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6564543256117248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8012934237167537013551649'
+    }, 
+    {
+      title: 'Project: Blog', 
+      author: 'GINDIESEL (Gurinder)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/project-blog/5021985015119872/4782664806875136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-blog/5021985015119872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_32120139969070097701381'
+    }, 
+    {
+      title: '"Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'jakacki.kuba', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/wyzwanie-linki-ktre-uwielbiasz/5841936751837184/6337051563966464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wyzwanie-linki-ktre-uwielbiasz/5841936751837184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_243969967628973487111577'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'lena.rachobinska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6701591703109632/4804586730995712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6701591703109632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59589948436577767515556'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'viktorafanasjev849', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5109385728933888/6186317228851200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5109385728933888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_448873113013978252345550'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'shayan.hassan.ec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/6349216219971584/4749415049117696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6349216219971584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1125045915975835257698424'
+    }, 
+    {
+      title: '(Hard 2) CC01 (WorkInProgress)', 
+      author: 'CodingChamp01 🟢', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: '/computer-programming/hard-2-cc01-workinprogress/6299390304370688/4920736643072000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-2-cc01-workinprogress/6299390304370688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
   ];
 };
