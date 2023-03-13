@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 69, 
+      votes: 70, 
       forks: 3, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: '/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'reCAPTCHA', 
       author: 'Phase ✝', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: '/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
       link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
+      title: 'Duolingo owl', 
+      author: 'LovelyPetals', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: '/computer-programming/duolingo-owl/5600000833011712/4796771324968960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Animated version!', 
       author: 'CodingChamp01 🔴', 
       votes: 11, 
@@ -187,15 +196,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: '/computer-programming/my-dreams-be-like/6337342615109632/5466499869622272.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-dreams-be-like/6337342615109632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Duolingo owl', 
-      author: 'LovelyPetals', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: '/computer-programming/duolingo-owl/5600000833011712/4796771324968960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 13, 
       forks: 1, 
-      thumbnail: '/computer-programming/raymarching/5238741335851008/4538760761229312.png', 
+      thumbnail: '/computer-programming/raymarching/5238741335851008/6725904539893760.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
     {
+      title: 'SCP Foundation', 
+      author: 'cool guy coding', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: '/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
+    }, 
+    {
       title: '(Webpage) Expansion Studios', 
       author: 'CodingChamp01 🔴', 
       votes: 2, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/winston-vs-hopper/5314324992409600/6268075622318080.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'SCP Foundation', 
-      author: 'cool guy coding', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: '/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'ignore this please', 
@@ -536,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-new-program/5570319538765824/5447088571990016.png', 
+      thumbnail: '/computer-programming/spin-off-of-new-program/5570319538765824/4901860081451008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5570319538765824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -676,229 +676,229 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Jillian Orlando 3/13/23 quarter 3 exam', 
-      author: 'orlando.jillian', 
+      title: 'A riddle', 
+      author: '╎リ⎓╎リ╎ℸ ̣ ||ᓵ⍑╎!¡', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/jillian-orlando-31323-quarter-3-exam/4764404753416192/4529924335779840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jillian-orlando-31323-quarter-3-exam/4764404753416192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_376472342102493827672227'
+      thumbnail: '/computer-programming/a-riddle/4881768056668160/4874168783126528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-riddle/4881768056668160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
     }, 
     {
-      title: 'Olivia LeBoeuf 3.13.23 Q3 Exam', 
-      author: 'leboeuf.olivia', 
+      title: 'Spin-off of "Project: BIG DATA"', 
+      author: 'christine egan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/olivia-leboeuf-31323-q3-exam/6589023999279104/6728947591331840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/olivia-leboeuf-31323-q3-exam/6589023999279104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_320415072361763139492304'
+      thumbnail: '/computer-programming/spin-off-of-project-big-data/5898621830873088/5804041114533888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-big-data/5898621830873088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155186357439965290381197'
     }, 
     {
-      title: 'Calleigh Kies 3|13|23 Exam 2', 
-      author: 'kies.calleigh', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'vtoledo.maestra', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/calleigh-kies-31323-exam-2/4874990472445952/5644868385030144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/calleigh-kies-31323-exam-2/4874990472445952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614643350276767108585217'
-    }, 
-    {
-      title: 'Spin-off of "Project: my_furniture_shop"', 
-      author: 'ramki.1983', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-my_furniture_shop/4928900499292160/5528635538980864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-my_furniture_shop/4928900499292160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_153218118949763279833817'
-    }, 
-    {
-      title: 'Simple Acceleration', 
-      author: 'Noah Mericle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/simple-acceleration/6700765089677312/5842466676981760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/simple-acceleration/6700765089677312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_45797903202148055661008'
-    }, 
-    {
-      title: 'The Pygym Rabbit', 
-      author: 'EmilyR', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/the-pygym-rabbit/4516005764448256/6729467089436672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-pygym-rabbit/4516005764448256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_954479894803753812892131'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'navarrovioleta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5043080384528384/6307319149543424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5043080384528384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175919182735672860944145'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'repettomargarita', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5604304105029632/4524883990331392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5604304105029632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830274614697417627662339'
-    }, 
-    {
-      title: 'Alexandra Fornoff 3/13/23 Q3 Exam #2', 
-      author: 'fornoff.alexandra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/alexandra-fornoff-31323-q3-exam-2/6615940290887680/5017852015067136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/alexandra-fornoff-31323-q3-exam-2/6615940290887680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733725272400480753835771'
-    }, 
-    {
-      title: 'Olivia Atkins 3/13/23 Q3 Exam', 
-      author: 'atkins.olivia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/olivia-atkins-31323-q3-exam/4527659017355264/6094555814608896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/olivia-atkins-31323-q3-exam/4527659017355264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_126928894357396087116001'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'repettomargarita', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5754452294549504/5253775340388352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5754452294549504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830274614697417627662339'
-    }, 
-    {
-      title: 'Maddie Pansnao 3-13-23 Q3 Exam 2', 
-      author: 'pansano.madison', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/maddie-pansnao-3-13-23-q3-exam-2/4744271054028800/4694275889872896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/maddie-pansnao-3-13-23-q3-exam-2/4744271054028800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_963507415533149653719661'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'dore.minervini', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5147012351967232/4983894493675520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5147012351967232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1178783583962775258222750'
-    }, 
-    {
-      title: 'Spin-off of "Logical Operators"', 
-      author: 'shahd.abdelkarim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-logical-operators/4658906632863744/5128614859554816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/4658906632863744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28141821215153762324275'
-    }, 
-    {
-      title: 'The Beauty of Howl\'s Moving Castle', 
-      author: 'CaraL', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/the-beauty-of-howls-moving-castle/4618552193892352/4870339249356800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beauty-of-howls-moving-castle/4618552193892352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_403115156946605439549691'
-    }, 
-    {
-      title: 'All about Cats', 
-      author: 'KazimirF', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/all-about-cats/5276235636981760/5553257940566016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/all-about-cats/5276235636981760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_878804612285219146266044'
-    }, 
-    {
-      title: 'Spin-off of "Booleans"', 
-      author: 'shahd.abdelkarim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-booleans/5755346671157248/5807868366602240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/5755346671157248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28141821215153762324275'
-    }, 
-    {
-      title: 'Trench Warfare', 
-      author: 'EndertrekkieJHS', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/trench-warfare/6611776085213184/4736104240824320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/trench-warfare/6611776085213184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_882232767610359134251341'
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/5272253598318592/4821777622810624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5272253598318592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_595873759000555212031694'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'wapaz1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5200801045987328/6470583372267520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5200801045987328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1091226632987561057178236'
-    }, 
-    {
-      title: 'Claire Willmott 3/13/23 Q3 Exam #2', 
-      author: 'willmott.claire', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/claire-willmott-31323-q3-exam-2/5801264820830208/6271710070620160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/claire-willmott-31323-q3-exam-2/5801264820830208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478106380635124649273925'
-    }, 
-    {
-      title: 'New program', 
-      author: 'gregscout606', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/new-program/4870943933775872/4769638674382848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4870943933775872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3582120711775796212285191'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'jmvivot', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-lista-de-deseos/6455793207787520/6028920107614208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6455793207787520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3318279974755015959368552'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
       author: 'suayacarmela', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-wishlist/4808440893718528/5142161228349440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4808440893718528', 
+      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6415279896969216/6506866106744832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6415279896969216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_213525374635592654252046'
     }, 
     {
-      title: 'Eye', 
-      author: 'Robert Phillips', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'mohzai1431', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/eye/5172030007984128/5318214479560704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eye/5172030007984128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6251492235651763601770504'
+      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/6069853628973056/4636061475323904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6069853628973056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309589405106757871395236'
     }, 
     {
-      title: 'Scene 11', 
-      author: 'Rebeca Silva', 
+      title: 'Elaine Boudreaux 3/13/23 Q3 Exam', 
+      author: 'boudreaux.elaine', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/scene-11/4844103592624128/4765051649310720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-11/4844103592624128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610632134782815924041504'
+      thumbnail: '/computer-programming/elaine-boudreaux-31323-q3-exam/5492411205992448/4994722374664192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/elaine-boudreaux-31323-q3-exam/5492411205992448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_818709942278516882450858'
+    }, 
+    {
+      title: 'Amy Mendoza 3/13 Quarter 3 exam', 
+      author: 'mendoza.amy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/amy-mendoza-313-quarter-3-exam/4708098604580864/5017856779796480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/amy-mendoza-313-quarter-3-exam/4708098604580864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_143506329366678749066552'
+    }, 
+    {
+      title: 'Spin-off of "Elaine Boudreaux 3/13/23 Q3 Exam"', 
+      author: 'boudreaux.elaine', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-elaine-boudreaux-31323-q3-exam/5173905692344320/5981492453097472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-elaine-boudreaux-31323-q3-exam/5173905692344320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_818709942278516882450858'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'cittadinisofia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5874270238720000/6493051008892928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5874270238720000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_905718754161384658346663'
+    }, 
+    {
+      title: '(#2) Kasey Kadinger 3/13/23 q3 exam', 
+      author: 'kadinger.kasey', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/2-kasey-kadinger-31323-q3-exam/6220996774510592/4516257078755328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2-kasey-kadinger-31323-q3-exam/6220996774510592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_711678799125374328864720'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'repettomargarita', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6023536298999808/6206627164504064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6023536298999808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830274614697417627662339'
+    }, 
+    {
+      title: 'Sophie Exnicios 3-13-23 quarter 3 Exam', 
+      author: 'exnicios.sophie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/sophie-exnicios-3-13-23-quarter-3-exam/6743403276845056/5387120980312064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sophie-exnicios-3-13-23-quarter-3-exam/6743403276845056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546065188383950109325724'
+    }, 
+    {
+      title: 'carley kron 3/13/23Q3exam', 
+      author: 'kron.carley', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/carley-kron-31323q3exam/5721284032118784/5403010924855296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/carley-kron-31323q3exam/5721284032118784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_642794381272666944982647'
+    }, 
+    {
+      title: 'Madison Nelson 3/13/23 Q3 Exam - Web Page 2', 
+      author: 'nelson.madison', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/madison-nelson-31323-q3-exam-web-page-2/5528226141356032/6342340572921856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/madison-nelson-31323-q3-exam-web-page-2/5528226141356032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_992655743215917506398773'
+    }, 
+    {
+      title: 'Makenzie Mares 3/13/23 Q3 Exam 2', 
+      author: 'makenzie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/makenzie-mares-31323-q3-exam-2/6257867693015040/5648391881408512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/makenzie-mares-31323-q3-exam-2/6257867693015040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_496741436013533771773938'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Sacia Marquardt', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6523895081648128/5222803358138368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6523895081648128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351265501235774595951327'
+    }, 
+    {
+      title: '(#1) Kasey Kadinger 3/13/23 q3 exam', 
+      author: 'kadinger.kasey', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/1-kasey-kadinger-31323-q3-exam/6227693635158016/6281329186750464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1-kasey-kadinger-31323-q3-exam/6227693635158016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_711678799125374328864720'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'duley.grace', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5856369863606272/5201051395604480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5856369863606272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9854525528908637774310222'
+    }, 
+    {
+      title: 'how to amke a picture not fake gone wrong', 
+      author: 'JefersonR', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/how-to-amke-a-picture-not-fake-gone-wrong/6724458528423936/4948681877143552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-to-amke-a-picture-not-fake-gone-wrong/6724458528423936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_15829770483038481810390'
+    }, 
+    {
+      title: 'It is drizzling.', 
+      author: 'Samuel Jones', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/it-is-drizzling/4952109051330560/6707867229143040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/it-is-drizzling/4952109051330560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6335102155140485716180485'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'J Wil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-simple-snowman/4783957969518592/5390330612727808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4783957969518592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1189327977837746015097117'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Dayana Ramirez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-app-impersonator/5020874002710528/5082065869783040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5020874002710528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_734120189361526612457032'
+    }, 
+    {
+      title: 'Simply existent (WIP)', 
+      author: 'Blake Meloche (T1)[Online]', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/simply-existent-wip/4663119819620352/6343205237080064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/simply-existent-wip/4663119819620352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Rabbits', 
+      author: 'King KJ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/rabbits/4726974339923968/4741416511389696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rabbits/4726974339923968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_660852528287755977846158'
+    }, 
+    {
+      title: 'Kaitlyn Bergeron 3/13/23 Q3 exam', 
+      author: 'bergeron.kaitlyn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/kaitlyn-bergeron-31323-q3-exam/5519662144339968/5525123379806208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kaitlyn-bergeron-31323-q3-exam/5519662144339968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959089340366216002251781'
     }, 
   ];
 };
