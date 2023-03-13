@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 51, 
+      votes: 52, 
       forks: 2, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 14, 
       forks: 0, 
-      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6692064433848320.png', 
+      thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6618398798954496.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -685,6 +685,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Aditi Shanker', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-recipe-book/5070588668592128/5930019946020864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5070588668592128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_685627355459108902083099'
+    }, 
+    {
+      title: 'prabhs dinner menu', 
+      author: 'prabhrupsran', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: '/computer-programming/prabhs-dinner-menu/5448963753033728/5988357455003648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prabhs-dinner-menu/5448963753033728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_478686123136651748026832'
+    }, 
+    {
+      title: 'Alice Spellcards', 
+      author: 'angelm233', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/alice-spellcards/5269413685411840/5919651978854400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/alice-spellcards/5269413685411840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_274583224545748794614584'
+    }, 
+    {
+      title: 'Spin-off of "Intro to Objects"', 
+      author: 'Gratitude', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-intro-to-objects/6389382858981376/4806446342782976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-objects/6389382858981376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_768978478478599838284166'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Tracey Blackwell', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-new-program/5570319538765824/6284912611344384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5570319538765824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'jisun', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/5660746518413312/6441459660406784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5660746518413312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_334037033761014474219866'
-    }, 
-    {
-      title: 'Practice Sheet 2', 
-      author: 'monkeyburger21', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/practice-sheet-2/6255117546602496/6134799700115456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/practice-sheet-2/6255117546602496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6791740398816389345480841'
-    }, 
-    {
-      title: 'Travel to Mondstadt!', 
-      author: 'Nancy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/travel-to-mondstadt/5602093664878592/5937545877962752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/travel-to-mondstadt/5602093664878592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_282782062726366254974446'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Mía Castillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5458079867256832/6096796822847488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5458079867256832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4411520686523958649926617'
     }, 
   ];
 };
