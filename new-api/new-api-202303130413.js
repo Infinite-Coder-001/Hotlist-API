@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'infinity facts about mr. mustache', 
       author: 'mr. mustache', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: '/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6618398798954496.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
-      title: 'MicroSoft Office Users be like...', 
-      author: 'CHROMIUM_CODER', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: '/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'Goomba HTML/CSS ONLY', 
       author: 'CHROMIUM_CODER', 
       votes: 10, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'MicroSoft Office Users be like...', 
+      author: 'CHROMIUM_CODER', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: '/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Hotlist API', 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'scientist2022', 
       votes: 3, 
       forks: 0, 
-      thumbnail: '/computer-programming/the-apollo-mission-in-images/6716637946626048/4669400269766656.png', 
+      thumbnail: '/computer-programming/the-apollo-mission-in-images/6716637946626048/5350811779776512.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
@@ -703,24 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
-      title: 'Game Menu', 
-      author: 'raymondpichardo28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/game-menu/5965928405975040/4708629335031808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-menu/5965928405975040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4345472993686435063929045'
-    }, 
-    {
-      title: 'AK Practicing for Hoppy Beaver ', 
-      author: 'Ariel k', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/6630519288938496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
-    }, 
-    {
       title: 'ignore this please', 
       author: 'TheRealDeal', 
       votes: 2, 
@@ -770,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/for-my-games/5147313603657728/5610400366510080.png', 
+      thumbnail: '/computer-programming/for-my-games/5147313603657728/4645057284325376.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-my-games/5147313603657728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832/5621890108669952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4945669611896832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2065857051596179475784719'
+    }, 
+    {
+      title: 'close one.', 
+      author: 'YokieBob', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: '/computer-programming/close-one/4619439901556736/5824087798890496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/close-one/4619439901556736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Project: Design a store database', 
+      author: 'kattuxxxa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/project-design-a-store-database/5856053042659328/6044873923018752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5856053042659328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086488143346044530024094'
     }, 
   ];
 };
