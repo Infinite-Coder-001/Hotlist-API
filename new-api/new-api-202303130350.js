@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: 'Nissan Pathfinder', 
-      author: 'Phase ✝', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: '/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
       votes: 48, 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/raymarching/5238741335851008/5794587992178688.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'Nissan Pathfinder', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: '/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'nincompoop', 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
     {
-      title: 'The Apollo mission in images.', 
-      author: 'scientist2022', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/the-apollo-mission-in-images/6716637946626048/5350811779776512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
       title: 'my dreams be like ', 
       author: 'LovelyPetals', 
       votes: 4, 
@@ -377,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4883388811231232/6601687441915904.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4883388811231232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_771245274824790748218557'
+    }, 
+    {
+      title: 'The Apollo mission in images.', 
+      author: 'scientist2022', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/the-apollo-mission-in-images/6716637946626048/5350811779776512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Scene 30 (Angel.M, Wilmer, Jerry) complete', 
@@ -685,33 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
-      title: 'Spin-off of "Challenge: Funky Frog"', 
-      author: 'Tian van Zyl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-funky-frog/5764881012015104/5623747895934976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5764881012015104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6711414443013580904077649'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
-      author: 'luizc.psjunior', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-projeto-anncio-publicitrio/6340231869808640/6385452078907392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/6340231869808640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_621461944407234368884963'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Hikma Muneer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/6468806077890560/4680072579825664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6468806077890560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_350662631526937196990739'
-    }, 
-    {
       title: 'Drawing Canvas!', 
       author: 'Sophia1111111111', 
       votes: 1, 
@@ -725,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/corner-logo-crow-or-cat/6128070069370880/6418595536224256.png', 
+      thumbnail: '/computer-programming/corner-logo-crow-or-cat/6128070069370880/5564763453308928.png', 
       link: 'https://www.khanacademy.org/computer-programming/corner-logo-crow-or-cat/6128070069370880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/derivado-de-proyecto-exploracin-de-datos/5201698048229376/5295716937547776.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/5201698048229376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_874848578588241933387789'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'prkothari', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/5732727620157440/5983624694644736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5732727620157440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_750897790276027395455601'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'zoobiya shaikh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/5769662350802944/6619260501934080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5769662350802944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_678676627707617716546012'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'seohyunl25', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/6386645073182720/6309021021945856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6386645073182720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_789354929567608136316481'
     }, 
   ];
 };
