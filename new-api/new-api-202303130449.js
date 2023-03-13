@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'Goomba HTML/CSS ONLY', 
+      author: 'CHROMIUM_CODER', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: '/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 49, 
@@ -70,15 +79,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: '/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
       link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
-      title: 'Goomba HTML/CSS ONLY', 
-      author: 'CHROMIUM_CODER', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: '/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2371175957417246495065305'
     }, 
     {
+      title: 'Corner logo | Crow or Cat ? |', 
+      author: 'Xiøn 😋🤩', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/corner-logo-crow-or-cat/6128070069370880/6418595536224256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/corner-logo-crow-or-cat/6128070069370880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'club website ', 
       author: 'Askhat Almas', 
       votes: 4, 
@@ -341,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/winston-vs-hopper/5314324992409600/6268075622318080.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Corner logo | Crow or Cat ? |', 
-      author: 'Xiøn 😋🤩', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/corner-logo-crow-or-cat/6128070069370880/6418595536224256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/corner-logo-crow-or-cat/6128070069370880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'AbdellahRabbahregestrationform', 
@@ -703,6 +703,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'First Code "Face out of Circles"', 
+      author: 'timrozko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/first-code-face-out-of-circles/6596737726988288/5634335279726592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-code-face-out-of-circles/6596737726988288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7678774244166963872472406'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'flaila667', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5404112038707200/5659637930311680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5404112038707200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_688883752199895364316247'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Cat Clicker"', 
+      author: 'Dedy Kurniawan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-cat-clicker/5481984367575040/4509562600472576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-cat-clicker/5481984367575040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_760239968347780756462308'
+    }, 
+    {
       title: 'Spin-off of "MY_CLOTH_STORE"', 
       author: 'ramki.1983', 
       votes: 1, 
@@ -770,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Gabe(isn\'t)real', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/dice-testing/5780795350630400/6281559974133760.png', 
+      thumbnail: '/computer-programming/dice-testing/5780795350630400/6386838480928768.png', 
       link: 'https://www.khanacademy.org/computer-programming/dice-testing/5780795350630400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_34849545320998863988661'
     }, 
@@ -806,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/4602639214231552.png', 
+      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/6653076171964416.png', 
       link: 'https://www.khanacademy.org/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -860,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/for-my-games/5147313603657728/5285375637766144.png', 
+      thumbnail: '/computer-programming/for-my-games/5147313603657728/5826242136031232.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-my-games/5147313603657728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-of-challenge-funky-frog/5764881012015104/5623747895934976.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5764881012015104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6711414443013580904077649'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
-      author: 'luizc.psjunior', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-projeto-anncio-publicitrio/6340231869808640/6385452078907392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/6340231869808640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_621461944407234368884963'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Hikma Muneer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-write-a-poem/6468806077890560/4680072579825664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6468806077890560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_350662631526937196990739'
-    }, 
-    {
-      title: 'Drawing Canvas!', 
-      author: 'Sophia1111111111', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/drawing-canvas/4936381283745792/6365838875869184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drawing-canvas/4936381283745792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4673507827715461251472492'
     }, 
   ];
 };
