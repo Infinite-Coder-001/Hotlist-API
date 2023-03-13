@@ -44,7 +44,6 @@ jobs:
           pip install webdriver_manager
 
       - name: Execute python script # run main.py
-        working-directory: ./1-3-0
         run: python update.py
         
       - name: Use auto-commit library
