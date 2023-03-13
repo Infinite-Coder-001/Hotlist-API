@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Shift', 
+      author: 'Logix Indie', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
+    }, 
+    {
       title: 'Click to be horrified, new joke!', 
       author: 'Speedyspeedcuber', 
       votes: 25, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-new-joke/4956245650096128/5012937901391872.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-new-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Shift', 
-      author: 'Logix Indie', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
       title: 'Super Mario PLATFORMER!! (Now with ACTUAL coins)', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 86, 
+      votes: 87, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'LOGO CONTEST FOR ME', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/5647100534898688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'The Universe', 
       author: 'CHROMIUM_CODER', 
       votes: 21, 
@@ -64,13 +73,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: 'LOGO CONTEST FOR ME', 
-      author: 'LightningCoder', 
+      title: 'Never Say Goodbye - For Aragorn Elessar', 
+      author: 'PenGwen', 
       votes: 11, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/5647100534898688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
+      title: 'Deja-vu: part 11, On The Edge', 
+      author: 'Cookies \'n Scream', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864/5823230625759232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
       title: 'Futuristic Clock', 
@@ -80,24 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408/6209907470942208.png', 
       link: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
-      title: 'Never Say Goodbye - For Aragorn Elessar', 
-      author: 'PenGwen', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: 'Deja-vu: part 11, On The Edge', 
-      author: 'Cookies \'n Scream', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864/5823230625759232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
       title: 'Cute Pikachu', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
     }, 
     {
+      title: '106 from King, a PICO-8 bullet hell game', 
+      author: 'StuffStash', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/5912085144059904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Hotlist API', 
       author: 'Infinite coder', 
       votes: 41, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048/4669400269766656.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: '106 from King, a PICO-8 bullet hell game', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/5912085144059904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Flashbacks', 
