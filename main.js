@@ -44,3 +44,4 @@ function HotlistAPI(callback) {
     }
     loadHotlistData2(0);
 }
+
