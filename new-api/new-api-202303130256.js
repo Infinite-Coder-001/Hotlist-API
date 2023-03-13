@@ -361,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2302107013738252034528083'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'goddeau.ash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4883388811231232/6601687441915904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4883388811231232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_771245274824790748218557'
+    }, 
+    {
       title: 'The Apollo mission in images.', 
       author: 'scientist2022', 
       votes: 2, 
@@ -685,6 +694,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Spin-off of "Terrific Text: Part Two"', 
+      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-terrific-text-part-two/5395504295100416/6011597590151168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/5395504295100416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'kattuxxxa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/6076248801722368/5384516997005312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6076248801722368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086488143346044530024094'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?" Pizza!!!', 
+      author: 'Luccia Van Ammel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864/4965103923675136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_482221091438587674000916'
+    }, 
+    {
+      title: 'Spin-off of "Terrific Text: Part Two"', 
+      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-terrific-text-part-two/6697857396817920/5834682023591936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/6697857396817920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
+    }, 
+    {
+      title: 'Deque', 
+      author: 'ethankim8683', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/deque/5725591531995136/6069965616889856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deque/5725591531995136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
+    }, 
+    {
       title: 'Derivado de "Proyecto: exploración de datos"', 
       author: 'scze.fabioandres.ortega.cr', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/new-webpage/6581271373594624/5651352653185024.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6581271373594624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_577691568405278031607117'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
-      author: 'Jose Luiz Freire Domingos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivao-de-projeto-anncio-publicitrio/5280907923865600/5390090757259264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/5280907923865600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2471981005261355655595031'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'ponda1920', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-shooting-star/6467596423839744/6635195266809856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6467596423839744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643937610090241678511418'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'hassan.hassan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6592754748801024/5577276026830848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6592754748801024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714977600445172908787088'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'itsanaya14', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5389543820017664/5443401401286656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5389543820017664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62438591512419119245849'
-    }, 
-    {
-      title: 'Julia set', 
-      author: 'Zacke1049', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: '/computer-programming/julia-set/6400488046379008/6511920578609152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/julia-set/6400488046379008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987429721043347382974846'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'mokohla7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6235048443691008/4676280346001408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6235048443691008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3981128360114012543565798'
     }, 
   ];
 };
