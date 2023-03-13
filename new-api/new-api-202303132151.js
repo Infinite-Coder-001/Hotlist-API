@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 24, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -55,11 +55,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Never Say Goodbye - For Aragorn Elessar', 
+      author: 'PenGwen', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
       title: 'LOGO CONTEST FOR ME', 
       author: 'LightningCoder', 
       votes: 12, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/5647100534898688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4747029027012608.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
-      title: 'Never Say Goodbye - For Aragorn Elessar', 
-      author: 'PenGwen', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Deja-vu: part 11, On The Edge', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Intersections', 
+      author: 'ethankim8683', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/intersections/5903886923907072/5493829023350784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/intersections/5903886923907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
+    }, 
+    {
       title: 'New program', 
       author: 'F4stB01', 
       votes: 19, 
@@ -179,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784/6477889250050048.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
+      title: 'Animated version!', 
+      author: 'CodingChamp01 🔴', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: '106 from King, a PICO-8 bullet hell game', 
@@ -208,31 +226,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Animated version!', 
-      author: 'CodingChamp01 🔴', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'nincompoop', 
       author: 'S. M. V.', 
       votes: 37, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5903561445916672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/4866820496736256.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Intersections', 
-      author: 'ethankim8683', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/intersections/5903886923907072/5493829023350784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/intersections/5903886923907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
       title: 'The Apollo mission in images.', 
@@ -739,6 +739,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_771245274824790748218557'
     }, 
     {
+      title: 'Very Simple Platformer', 
+      author: 'Cole', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/very-simple-platformer/6301117686530048/5768209309679616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/very-simple-platformer/6301117686530048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8712574175953474682038615'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'grzegorek.martyna_nb_2021', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5685961130557440/5166490129317888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5685961130557440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_410568074378452558780697'
+    }, 
+    {
+      title: 'Loading screen', 
+      author: 'Arrow.programming', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/6488385541947392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'eric.dahn22', 
       votes: 1, 
@@ -764,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5507322996899840/5941412187389952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5507322996899840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_615730241422529969539790'
+    }, 
+    {
+      title: 'why must I do this', 
+      author: 'YokieBob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-must-i-do-this/5269893513789440/5045222163922944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-must-i-do-this/5269893513789440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-spinning/5771160019320832/6721560113364992.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-spinning/5771160019320832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_202229440731837219533516'
-    }, 
-    {
-      title: 'New program', 
-      author: '372336', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6643600257761280/6005028605444096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6643600257761280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1100963516066442527659362'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'cierlak.julia_nb_2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4521505134526464/5903016714878976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4521505134526464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1004733548409608809940122'
-    }, 
-    {
-      title: 'Pixelate Effect', 
-      author: 'TheDark ☢️', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixelate-effect/6616683328618496/5637187842654208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixelate-effect/6616683328618496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
-      author: 'sergio.ljunior', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/4914409338355712/4566861633339392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/4914409338355712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3117491848601563298822436'
     }, 
   ];
 };
