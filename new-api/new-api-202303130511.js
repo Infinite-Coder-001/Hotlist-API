@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 54, 
+      votes: 55, 
       forks: 2, 
       thumbnail: '/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -712,6 +712,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'flower ', 
+      author: 'isabella.lopezbustos-14088', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/flower/4654118683852800/5531688681914368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flower/4654118683852800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_227744882452333360588378'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'Nicolás Navarro Tamez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5545639171899392/6160494962720768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5545639171899392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_185039230460030329612019'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'melissa.panduro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/6105828535091200/5034929677451264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6105828535091200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1070896165625791820795722'
+    }, 
+    {
       title: 'not-bots', 
       author: 'Promise', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/game-menu/5965928405975040/4708629335031808.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-menu/5965928405975040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4345472993686435063929045'
-    }, 
-    {
-      title: 'AK Practicing for Hoppy Beaver ', 
-      author: 'Ariel k', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/4569763009576960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'alondreax', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/5703152634740736/5480143630155776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5703152634740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_307582498210558343362946'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler".hlw.031223', 
-      author: 'Hilary Wilson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-a-loopy-rulerhlw031223/5439006676664320/5017543112966144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-rulerhlw031223/5439006676664320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654908721698069823733169'
     }, 
   ];
 };
