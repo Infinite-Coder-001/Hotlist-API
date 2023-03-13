@@ -5,7 +5,7 @@ function HotlistAPI(callback) {
     function loadHotlistData2(delay) {
         var timeoutVariable;
         function timeout(delay) {
-            loadHotlistData2(delay + 10);
+            loadHotlistData2(delay + 1);
         }
         function finished() {
             clearTimeout(timeoutVariable);
