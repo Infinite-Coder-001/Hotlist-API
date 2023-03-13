@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
-      title: 'for Mr. bob Lyon ', 
-      author: 'LovelyPetals', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Here comes crazy man...', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 25, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/here-comes-crazy-man/6736502048735232/4850097181736960.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'for Mr. bob Lyon ', 
+      author: 'LovelyPetals', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Goomba HTML/CSS ONLY', 
@@ -685,78 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'igor kalemba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6483059941883904/5948781235585024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6483059941883904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5013765929746167659584900'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'stanisław Kaźmierczak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5944019769409536/5020223206113280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5944019769409536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6893836508240197170606358'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'isona.bolance.castells', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5916476915892224/5452335973449728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5916476915892224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_552903180738458914439177'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'emma.makimartti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/6460693463482368/5930543000895488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6460693463482368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_984986892818403125319151'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'ivet.amoros.aguilo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5693866412130304/5474158433845248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5693866412130304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_77543903539177991996174'
-    }, 
-    {
-      title: 'pig', 
-      author: 'aron.varga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/pig/6438966910042112/6465350667649024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pig/6438966910042112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231820864944633011639044'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Sergio García', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4692005622169600/6530783982698496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4692005622169600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6382505596938404598011357'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'venla.leikas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/5683838837899264/5885643320508416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5683838837899264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_861105779479535641632207'
-    }, 
-    {
       title: 'Minecraft Terrain', 
       author: 'Underscore', 
       votes: 1, 
@@ -770,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'Salvador Andreo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/5656254142005248/5292286009458688.png', 
+      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/5656254142005248/5323615468044288.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5656254142005248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_876492401613538768489201'
     }, 
@@ -797,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'c.yoon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5546603459166208/5990230341763072.png', 
+      thumbnail: '/computer-programming/spin-off-of-project-design-a-store-database/5546603459166208/6381233426972672.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5546603459166208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4117095080344877243759066'
     }, 
@@ -899,6 +827,78 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6453540287725568/6385738163994624.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6453540287725568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1049727179561684045366892'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'yhghkghgfagf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5076254770642944/6055585126858752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5076254770642944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4282203956718756718717061'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'kasper.kolsi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-animal-attack/5546579098648576/5539700574306304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5546579098648576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_158502974341176982610869'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'fdsfdefdesde esfdf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5040910633320448/5561548913557504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5040910633320448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9734550651239478804305528'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'ballsackcrusher', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5809320946352128/6290406423969792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5809320946352128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865968045358858507897409'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Nano Madalin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/5628194944499712/6340008338571264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5628194944499712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6940514863787560347299895'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Samara  Gómez Folgueira', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-desafo-escribe-un-poema/5598541626261504/4653513185738752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5598541626261504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_98061912782888890307362'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'Almudena Ramírez Navarro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/5879700453113856/5911917715832832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5879700453113856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_157391416010996321735413'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'ghhgghgh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4765166573240320/5440539677999104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4765166573240320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_545744539105473512762936'
     }, 
   ];
 };
