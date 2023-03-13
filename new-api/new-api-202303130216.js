@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 21, 
       forks: 1, 
-      thumbnail: '/computer-programming/nincompoop/6110739742113792/6093388095209472.png', 
+      thumbnail: '/computer-programming/nincompoop/6110739742113792/6133749186347008.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Cat playing Animated', 
+      author: 'Xiøn 😋🤩', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: '/computer-programming/cat-playing-animated/5357407289262080/4930714577715200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cat-playing-animated/5357407289262080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'a groovy hotlist', 
       author: '*Captain_Pockets*', 
       votes: 12, 
@@ -370,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
     {
-      title: 'Cat playing Animated', 
-      author: 'Xiøn 😋🤩', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: '/computer-programming/cat-playing-animated/5357407289262080/4930714577715200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-playing-animated/5357407289262080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'SCP Foundation', 
       author: 'cool guy coding', 
       votes: 5, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760/5715123144802304.png', 
+      thumbnail: '/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760/4573359432318976.png', 
       link: 'https://www.khanacademy.org/computer-programming/httpsprocessingfoundationorgcontent1-homeprocessing-webpng/6599534354677760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -676,6 +676,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Natalia Pasienski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-challenge-book-list-database/6572491353145344/5925063872528384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6572491353145344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_609612093444956973030583'
+    }, 
+    {
       title: 'why you can\'t go outside', 
       author: 'LovelyPetals', 
       votes: 53, 
@@ -793,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7599069926790776163907161'
     }, 
     {
+      title: 'Street lamp', 
+      author: 'Xiøn 😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/street-lamp/5068351133237248/5238529192148992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/street-lamp/5068351133237248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Derivação de "Projeto: Anúncio Publicitário"', 
       author: 'Jose Luiz Freire Domingos', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/challenge-book-list-database/5660944825106432/4760532001538048.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/5660944825106432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1086488143346044530024094'
-    }, 
-    {
-      title: 'Solar system', 
-      author: 'Isabel Morales Uribe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/solar-system/4617363964346368/5547039373180928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/solar-system/4617363964346368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5580590944258597432449216'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'mohammedaishas246', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-challenge-colorful-creature/4659264054673408/6032272119873536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4659264054673408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205596590608009515275268'
     }, 
   ];
 };
