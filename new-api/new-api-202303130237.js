@@ -82,18 +82,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
-      title: 'MicroSoft Office Users be like...', 
-      author: 'CHROMIUM_CODER', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: '/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'for Mr. bob Lyon ', 
       author: 'LovelyPetals', 
-      votes: 8, 
+      votes: 7, 
       forks: 0, 
       thumbnail: '/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
@@ -102,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spin-off of "Isometric Blocks"', 
       author: 'Bob Lyon', 
-      votes: 48, 
+      votes: 47, 
       forks: 1, 
       thumbnail: '/computer-programming/spin-off-of-isometric-blocks/5651571386138624/5403432393687040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-isometric-blocks/5651571386138624', 
@@ -125,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
       link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Raymarching', 
-      author: 'Manta', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: '/computer-programming/raymarching/5238741335851008/5794587992178688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'Nissan Pathfinder', 
@@ -172,13 +154,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
+      title: 'Raymarching', 
+      author: 'Manta', 
       votes: 11, 
-      forks: 0, 
-      thumbnail: '/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+      forks: 1, 
+      thumbnail: '/computer-programming/raymarching/5238741335851008/5794587992178688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'Kaleidoscope Maker v1.0', 
@@ -224,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/mini-khan-academy/6747794654412800/5216209106944000.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy/6747794654412800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Flashbacks', 
+      author: 'KarLlr', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: '/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Duolingo owl', 
@@ -361,12 +352,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2302107013738252034528083'
     }, 
     {
-      title: 'The Apollo mission in images.', 
+      title: 'Spin-off of "Solar system maybe"', 
       author: 'scientist2022', 
       votes: 2, 
       forks: 0, 
-      thumbnail: '/computer-programming/the-apollo-mission-in-images/6716637946626048/5350811779776512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
+      thumbnail: '/computer-programming/spin-off-of-solar-system-maybe/6716637946626048/5100402439929856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-solar-system-maybe/6716637946626048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
@@ -860,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/street-lamp/5068351133237248/5699997645717504.png', 
+      thumbnail: '/computer-programming/street-lamp/5068351133237248/5238529192148992.png', 
       link: 'https://www.khanacademy.org/computer-programming/street-lamp/5068351133237248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/face-with-eyebrows/5360031480725504/6325032123154432.png', 
       link: 'https://www.khanacademy.org/computer-programming/face-with-eyebrows/5360031480725504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604337328203897207763900'
+    }, 
+    {
+      title: 'Heer\'s Travel webpage', 
+      author: 'Heer Sh', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: '/computer-programming/heers-travel-webpage/5753519540060160/5730386967838720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heers-travel-webpage/5753519540060160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1174077553400562646258828'
     }, 
   ];
 };
