@@ -703,6 +703,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'hsiehknox', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-whats-for-dinner/4574688540147712/4536093150330880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4574688540147712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_548957415485758988785172'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Saranya Malaiyandi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/spin-off-of-project-data-dig/6397625761054720/5009157625528320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6397625761054720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_814041252407941464904082'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'krIsthiam.criollo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: '/computer-programming/derivado-de-proyecto-construye-una-casa/6569686546563072/4620224412565504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6569686546563072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
+    }, 
+    {
       title: 'New SQL script', 
       author: 's201077', 
       votes: 1, 
@@ -761,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/6630519288938496.png', 
+      thumbnail: '/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608/5791566054866944.png', 
       link: 'https://www.khanacademy.org/computer-programming/ak-practicing-for-hoppy-beaver/6652149012676608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -815,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: '/computer-programming/for-my-games/5147313603657728/5610192362586112.png', 
+      thumbnail: '/computer-programming/for-my-games/5147313603657728/5994902171467776.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-my-games/5147313603657728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: '/computer-programming/cat-mini-game/4621287458914304/4577867923243008.png', 
       link: 'https://www.khanacademy.org/computer-programming/cat-mini-game/4621287458914304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Aditi Shanker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-project-recipe-book/5070588668592128/5930019946020864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5070588668592128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_685627355459108902083099'
-    }, 
-    {
-      title: 'prabhs dinner menu', 
-      author: 'prabhrupsran', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: '/computer-programming/prabhs-dinner-menu/5448963753033728/5988357455003648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prabhs-dinner-menu/5448963753033728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478686123136651748026832'
-    }, 
-    {
-      title: 'Spin-off of "Intro to Objects"', 
-      author: 'Gratitude', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: '/computer-programming/spin-off-of-intro-to-objects/6389382858981376/4806446342782976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-objects/6389382858981376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_768978478478599838284166'
     }, 
   ];
 };
