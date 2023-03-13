@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 60, 
+      votes: 62, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Super Mario PLATFORMER!!', 
       author: 'CHROMIUM_CODER', 
-      votes: 23, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880/6568382923325440.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer/4553687731322880', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'infinity facts about mr. mustache', 
       author: 'mr. mustache', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6618398798954496.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'The Universe', 
       author: 'CHROMIUM_CODER', 
       votes: 15, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
@@ -193,7 +193,7 @@ var LoadHotlistAPI = function() {
       title: 'Kaleidoscope Maker v1.0', 
       author: 'Phase ✝', 
       votes: 25, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592/5138088852766720.png', 
       link: 'https://www.khanacademy.org/computer-programming/kaleidoscope-maker-v10/6207188601454592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: '3D Raycasting Maze!', 
       author: '❃JustZoul❃', 
-      votes: 43, 
+      votes: 44, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744/6361358197374976.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-raycasting-maze/4729411834527744', 
