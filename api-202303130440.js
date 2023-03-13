@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 51, 
+      votes: 54, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/5619223839948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -21,9 +21,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'infinity facts about mr. mustache', 
       author: 'mr. mustache', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6692064433848320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992/6618398798954496.png', 
       link: 'https://www.khanacademy.org/computer-programming/infinity-facts-about-mr-mustache/4623469637844992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'The Universe', 
+      author: 'CHROMIUM_CODER', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 49, 
@@ -55,12 +64,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
-      title: 'The Universe', 
+      title: 'MicroSoft Office Users be like...', 
       author: 'CHROMIUM_CODER', 
-      votes: 9, 
+      votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
@@ -75,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for Mr. bob Lyon', 
       author: 'LovelyPetals', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
@@ -91,13 +100,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
-      title: 'MicroSoft Office Users be like...', 
-      author: 'CHROMIUM_CODER', 
+      title: 'reCAPTCHA', 
+      author: 'Phase ✝', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/5588726141206528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Nissan Pathfinder', 
+      author: 'Phase ✝', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Spin-off of "Isometric Blocks"', 
@@ -118,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'reCAPTCHA', 
-      author: 'Phase ✝', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792/5586086397263872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/recaptcha/4762138361249792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Raymarching', 
       author: 'Manta', 
       votes: 12, 
@@ -136,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Nissan Pathfinder', 
-      author: 'Phase ✝', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024/5315211039129600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nissan-pathfinder/6098565074305024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6133749186347008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'Animated version!', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6133749186347008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'NINTENDO Contest', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
     {
-      title: 'Platformer v0.2', 
-      author: 'Archbirdplus', 
-      votes: 4, 
+      title: 'The Apollo mission in images.', 
+      author: 'scientist2022', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920/6319841655177216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048/4669400269766656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
   ];
 };
