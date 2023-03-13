@@ -128,21 +128,6 @@ The callback function is called after all data is loaded. The function is called
 </html>
 ```
 
-## Files
-Hotlist-API/ <br>
-|-> .github/ <br>
-|  |-> workflows/ <br>
-|  |  |-> main.yml - **downloads files from hotlist (version 1.3.0)** <br>
-|  |  |-> main2.yml - **deletes old API logs (version 1.4.0)** <br>
-|-> new-api <br>
-|  |-> new-api-XXXXXXXXXXXX.js - **current API log (version 1.4.0)** <br>
-|-> LICENSE - **the license** <br>
-|-> README.md - **this file** <br>
-|-> api-XXXXXXXXXXXX.js - **current API log (version 1.3.0)** <br>
-|-> main.js - **the main files (version 1.4.0)** <br>
-|-> remove.py - **file called from main.yml (version 1.3.0)** <br>
-|-> update.py - **file called from main2.yml (version 1.4.0)** <br>
-
 ## Credits
 Please give link to this repository (or ideally to this project: https://www.khanacademy.org/computer-programming/hotlist-api/5234045946740736), when you're using it. The link can be in included code or on the webpage, that you make. 
 
