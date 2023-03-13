@@ -1,5 +1,5 @@
-# This script is called only in OLD version. 
-# It is evaluated every 5-10 minutes. 
+# Version 1.3.0
+# This script is evaluated every 5-10 minutes. 
 # It updates the 'api.js' file. 
 
 # Importing the libraries
