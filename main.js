@@ -28,9 +28,11 @@ function HotlistAPI(callback) {
         if (String(hours).split("").length === 1) {
             hours = "0" + hours;
         }
-        minutes = String(minutes).split("")[0];
+        if (String(minutes).split("").length === 1) {
+            minutes = "0" + minutes;
+        }
 
-        script.src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/api-" + year + month + day + hours + minutes + "0.js";
+        script.src = "https://cdn.jsdelivr.net/gh/Infinite-Coder-001/Hotlist-API@main/new-api/new-api-" + year + month + day + hours + minutes + "0.js";
         script.onload = function() {
             finished();
         };
