@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Super Mario PLATFORMER!! UPDATED', 
+      author: 'CHROMIUM_CODER', 
+      votes: 47, 
+      forks: 12, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5714755891544064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
       votes: 23, 
@@ -37,18 +46,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Super Mario PLATFORMER!! UPDATED', 
-      author: 'CHROMIUM_CODER', 
-      votes: 46, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5714755891544064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 93, 
+      votes: 94, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4559747951149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -838,6 +838,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Raghav', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4849120802291712/5751295338397696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4849120802291712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Links for learning"', 
       author: 'Aba Hudhaifah', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056/6663804060745728.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_513929284385194630283078'
-    }, 
-    {
-      title: '(Webpage) Expansion Studios', 
-      author: 'CodingChamp01 🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage-expansion-studios/5368596794753024/5306615786160128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage-expansion-studios/5368596794753024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
   ];
 };
