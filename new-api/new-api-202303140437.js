@@ -848,57 +848,57 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Mohamed Jehad', 
+      author: 'sohail', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976/6212970218831872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_661059290229112038179789'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6706970847657984/5061474102067200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6706970847657984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940578158274041896087327'
+    }, 
+    {
+      title: 'CPIS Song - G9 Exam', 
+      author: 'mhike', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cpis-song-g9-exam/6282922485399552/5282293151481856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cpis-song-g9-exam/6282922485399552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_953536938785889423958778'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Anju Watanabe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6314321783341056/4865554320244736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6314321783341056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Abdulla Omar Bin fares', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6018791391936512/5219095224303616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6018791391936512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_50119054860701345536266'
     }, 
     {
       title: 'Spin-off of "Project: Data dig"', 
-      author: 'andrewwehling', 
+      author: 'Evelyne W', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5307624533049344/5447590303023104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5307624533049344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1188050937524714242137941'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6021204760903680/5840395076681728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6021204760903680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7278997410296382118814993'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'sophiawatson', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Mohamed Jehad', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5162057152643072/5508866576269312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5162057152643072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1021082072294449735707556'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'basilgrace42', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6378548959166464/6061041589207040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6378548959166464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6268365237501662132948143'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 's201100', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6183037098573824/5044513125220352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6183037098573824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_480205081297879434680195'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Clara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5119156519485440/5066965821734912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5119156519485440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465409114630243208173916'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976/5847264189005824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_661059290229112038179789'
     }, 
   ];
 };
