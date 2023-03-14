@@ -381,7 +381,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Isometric Blocks', 
       author: 'Green Ghost', 
-      votes: 68, 
+      votes: 67, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5127148665094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
@@ -811,94 +811,94 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1103624992197064295778480'
     }, 
     {
-      title: 'Carlos"Proyecto: pecera"', 
-      author: 'Carlos Fernández', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'ndinda.mutiso', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/carlosproyecto-pecera/6699959951081472/4603167495208960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/carlosproyecto-pecera/6699959951081472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1572610795801241107461574'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6613573227036672/6263234028158976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6613573227036672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_502911355598883781055860'
     }, 
     {
       title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Niya Haribiyan', 
+      author: 'Ralica Zlatkova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6105609726640128/4943780740644864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6105609726640128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293456535857929586281214'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'Rafał Ch.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5437340908830720/6560761612910592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5437340908830720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7413589091852499557506965'
-    }, 
-    {
-      title: ' Favorite Animals', 
-      author: 'Joy Beloved', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-animals/6191673095012352/4979709819797504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favorite-animals/6191673095012352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286696726385752718096359'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'Berta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5697666753544192/6623101419044864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5697666753544192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_607711669754264502703738'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5250943379881984/5855698313592832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5250943379881984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2989769189198890755436709'
     }, 
     {
       title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'brazon.danielalexis', 
+      author: 'David  Feijóo ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5331781828263936/4751334060638208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5331781828263936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237150865673404507451238'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5097274919403520/4792277077901312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5097274919403520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9140270233683395018735045'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Momchil Pisarov', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'paulaabellavezz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5346935831838720/4516503234068480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5346935831838720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3997748893896274500318850'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4607513859506176/5055125586755584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4607513859506176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_214439538692341074996723'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Mikaela Yordanova', 
+      title: 'JavaScript "onmousemove" Function', 
+      author: 'IAFrancy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5554043047165952/6285635193454592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5554043047165952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1765599541210417275067514'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-onmousemove-function/5785110811295744/4660048221749248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/javascript-onmousemove-function/5785110811295744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Sasha_Spaikes', 
-      votes: 1, 
+      title: 'Dinner Time!', 
+      author: 'SirNeetNoit', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4529952555057152/6595066011631616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4529952555057152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dinner-time/5791448102649856/5775695529951232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dinner-time/5791448102649856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
     {
-      title: 'Maja.L', 
-      author: 'Maja Lewińska', 
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'n.dziag', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/majal/5828741379178496/6448984183062528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/majal/5828741379178496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1934321696370744010190862'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6663866765590528/6589836754731008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6663866765590528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114027476513782335650997'
+    }, 
+    {
+      title: 'Clown with weird looking hat', 
+      author: 'L0YAL_SCRAT24ER!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clown-with-weird-looking-hat/6704127948406784/4709032457977856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clown-with-weird-looking-hat/6704127948406784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9670316404473139733739324'
+    }, 
+    {
+      title: 'Eine traumhafte Reise', 
+      author: 'fpetik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eine-traumhafte-reise/5028357211471872/5675635928514560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eine-traumhafte-reise/5028357211471872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125928235507688033096910'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'paulaabellavezz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5692004376035328/5681328630841344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5692004376035328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_214439538692341074996723'
     }, 
   ];
 };
