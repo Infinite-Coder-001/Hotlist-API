@@ -838,6 +838,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
+      title: 'Sunny snowy day', 
+      author: 'susana_rego', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5025757808345088/6663447125475328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5025757808345088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+    }, 
+    {
+      title: 'rotaions', 
+      author: '369030', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056/6663804060745728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_513929284385194630283078'
+    }, 
+    {
       title: '(Webpage) Expansion Studios', 
       author: 'CodingChamp01 🔴', 
       votes: 2, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6018791391936512/5219095224303616.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6018791391936512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_50119054860701345536266'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Evelyne W', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6021204760903680/5840395076681728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6021204760903680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7278997410296382118814993'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Mohamed Jehad', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976/5847264189005824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6391658373758976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_661059290229112038179789'
     }, 
   ];
 };
