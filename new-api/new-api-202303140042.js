@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
       link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4768204927057920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4887304462450688.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -775,51 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_935316366070458439615598'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'itzmrpainz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5474871171923968/6148545315127296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5474871171923968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5562662214309259525384589'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'alastair.james85', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6042942999674880/6372478257774592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6042942999674880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_774595527803387152154747'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'monitha.temp', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4873354651942912/6446207276990464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4873354651942912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6457580931859598432470043'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'nadiakford', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6598865287692288/6078694441664512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6598865287692288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_658329038926709297898914'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'hinakkun', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5030248163098624/5575135262457856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5030248163098624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_301937610876841001801526'
-    }, 
-    {
       title: 'Spin-off of "Project: What\'s for dinner?" Pizza!!!', 
       author: 'Gawtcha', 
       votes: 2, 
@@ -827,24 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864/5741473599635456.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-pizza/5279674236452864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_482221091438587674000916'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'andrecaval2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5053682813288448/6418055880294400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5053682813288448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3068101328774954328688914'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Uma viagem perfeita"', 
-      author: 'luis felipe ulguim mancilha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/5213823151947776/5947548932292608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/5213823151947776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3864147608221547781088298'
     }, 
     {
       title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-consultas-mais-complexas-com-andor/5004990441897984/5580032296927232.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-consultas-mais-complexas-com-andor/5004990441897984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7376191784866018453145691'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'killboyy24', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5732031759958016/4990123739758592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5732031759958016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_618735387510841731960529'
+    }, 
+    {
+      title: 'Derivação de "image(image, x, y, width*, height*) | ProcessingJS"', 
+      author: 'juliaalvesferreira1999', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-imageimage-x-y-width-height-processingjs/6108753139384320/5638826741776384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-imageimage-x-y-width-height-processingjs/6108753139384320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_646102460508969803689539'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sarah Kline', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6467142960857088/5442855068024832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6467142960857088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7247796760504447288355538'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'aragonveronicaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5016959668502528/6509445570150400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5016959668502528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6387782395977873267921626'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'rebecca_mitra', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5519055018835968/5333923590881280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5519055018835968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2993772928189022242765030'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Escrever um poema"', 
+      author: 'jaqueline.cavalaro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5562033443749888/5319933506666496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5562033443749888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_167918805866580722784189'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'DESIRRAY', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4785717698150400/5784106980130816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4785717698150400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3507861387575530782278103'
     }, 
   ];
 };
