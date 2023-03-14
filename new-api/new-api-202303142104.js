@@ -220,7 +220,7 @@ var LoadHotlistAPI = function() {
       title: 'CONTEST: JURASSIC PARK', 
       author: 'Riparovenator65', 
       votes: 10, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-jurassic-park/4959551738920960/5519027101548544.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-jurassic-park/4959551738920960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
@@ -496,15 +496,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_634451098657025919920795'
     }, 
     {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'Erick Tapia', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6118845658218496/5896357108039680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6118845658218496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295281823076839467274774'
-    }, 
-    {
       title: '- Living The Dream -', 
       author: 'Xiøn 😋🤩', 
       votes: 2, 
@@ -706,7 +697,7 @@ var LoadHotlistAPI = function() {
       title: 'Mosaic', 
       author: '🍕TheGreatPizzaMan🍕', 
       votes: 3, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mosaic/4749562185302016/6120356865949696.png', 
       link: 'https://www.khanacademy.org/computer-programming/mosaic/4749562185302016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1024760169357761846944546'
@@ -892,13 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
-      title: 'Mouse Lock', 
-      author: 'Salamander', 
+      title: 'Spin-off of "Challenge: Wishlist" jvr ', 
+      author: 'jeriana8', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mouse-lock/5982291535118336/6317899491098624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mouse-lock/5982291535118336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist-jvr/6567247214854144/4710465475493888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist-jvr/6567247214854144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9485710152978405252474769'
+    }, 
+    {
+      title: '"Creating a table and inserting data"', 
+      author: 'jjanebaldwin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/5469016049369088/5729795155738624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/5469016049369088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7513555268690882240811871'
     }, 
   ];
 };
