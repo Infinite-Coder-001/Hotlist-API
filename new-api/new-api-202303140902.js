@@ -793,24 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1018711837033268204515137'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Ksawery Smug', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6009100737757184/5066361187647488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6009100737757184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5295613261683321735643894'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Zuzanna Skoczylas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6646438719438848/5905209773834240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6646438719438848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4708457441085914457370331'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: '11138011', 
       votes: 2, 
@@ -820,85 +802,103 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_713631104415031795201370'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'rohitnarzary11', 
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'nunoreyfernandez2018', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6459119391522816/5520256854704128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6459119391522816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_151730677477312684337864'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5832442391085056/4528386938814464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5832442391085056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433596166114282352241431'
     }, 
     {
-      title: 'Nouvelle page Web', 
-      author: 'Alexandre Silveri', 
+      title: 'months (11/12)', 
+      author: 'Δɖɖίsoͷ thϵ Δίʀbϵͷɖϵʀ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/5627622883377152/5551974248660992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/5627622883377152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9005292140337075348558407'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: '1862545', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5703630315634688/4784256998227968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5703630315634688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4165244758949706536799120'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/months-1112/5081826190475264/4716066238676992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/months-1112/5081826190475264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
     }, 
     {
       title: 'Derivado de "Desafío: criatura colorida"', 
-      author: '5566122', 
+      author: '1920164', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5773710525251584/4599290876182528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5773710525251584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820930515905305908897219'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5457269515141120/6011995008843776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5457269515141120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_288200112610397390500378'
     }, 
     {
-      title: 'Nouvelle page Web', 
-      author: 'Emmanuel Vlad', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4560709252071424/6033301536292864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4560709252071424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5824878721420839922436960'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'klr2003', 
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'damian.stepniak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6288247171104768/6039870588108800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6288247171104768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1066187483955022173484030'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4597740778864640/4940147064094720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4597740778864640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6491704211180523782075961'
     }, 
     {
-      title: 'Nouvelle page Web', 
-      author: 'COGETMILAN', 
+      title: 'Projet dérivé de "Projet : Blog"', 
+      author: 'Julia Forti', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4677818716045312/5523973846908928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4677818716045312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426642041968472208506247'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/4654785141981184/6108492589219840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/4654785141981184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2541542174417665748643861'
     }, 
     {
-      title: 'Spin-off of "Project: Baking webpage"', 
-      author: 'rumanaraafi23', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-baking-webpage/6541163098324992/6639984457334784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-baking-webpage/6541163098324992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_923744431469228174898592'
-    }, 
-    {
-      title: 'Spin-off of "Terrific Text: Part Two"', 
-      author: 'damien.school.2008', 
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Mirela Dimitrova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/5211375255470080/5986351218737152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/5211375255470080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1158265936955287831049366'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4786657146748928/5417704284798976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/4786657146748928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_260264045482530091415874'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Кристиан Щилиянов', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5182940407709696/5569557945434112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5182940407709696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7955246214274358588052423'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Лия Райкова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5980248422531072/6130660215668736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5980248422531072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_56248606064613697535300'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Kate', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6227216340140032/6296798518099968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6227216340140032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380202174191888926263965'
+    }, 
+    {
+      title: ' "Challenge: Write a Poem"', 
+      author: 'arezoo.nabizada10', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/4986322953748480/6710719255199744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/4986322953748480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1103624992197064295778480'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Мария Стефанова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5525428674805760/6561110746775552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5525428674805760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6048067707512822850415136'
     }, 
   ];
 };
