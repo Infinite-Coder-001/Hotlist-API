@@ -820,85 +820,85 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
     {
-      title: 'Derivado de "Desafío: criatura colorida"', 
-      author: 'yaizavillaverdecalvo', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Nimer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5591391285854208/6078208070172672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5591391285854208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1133056357964233888762044'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5054663978434560/4943450405650432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5054663978434560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266326247295130241334683'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Agata Mielczarek', 
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Bogdan Arendarski', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6142917867782144/5687109119950848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6142917867782144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2973176588318174520576366'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5149305663176704/6183162676035584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5149305663176704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9582361553658328807995862'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'wiekamils', 
+      author: 'oskar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6238843043102720/6204867100327936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6238843043102720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_991739726794939102196558'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4726275141058560/5765194376855552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4726275141058560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_880793599882150264370205'
     }, 
     {
-      title: 'Derivado de "Desafío: criatura colorida"', 
-      author: 'lucia ruiz', 
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'oskar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6685466147733504/4560643686711296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6685466147733504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3987387213508302265648831'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Poskacz sobie"', 
-      author: 'wiekamils', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-poskacz-sobie/4626169972703232/6351640150196224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-poskacz-sobie/4626169972703232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_991739726794939102196558'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6032724332953600/4799948392808448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6032724332953600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_880793599882150264370205'
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'karim.mohamed', 
+      author: 'omar.qandil', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4605565835984896/5966146081964032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4605565835984896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286384263051534930337203'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6289577000353792/5005451312021504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6289577000353792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_136653724936505915049671'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Oliwia H', 
+      author: 'wiekamils', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6210542220132352/6062435247374336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6210542220132352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1733067447689568425824737'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4772048696295424/5307420052340736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4772048696295424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_991739726794939102196558'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'salma.youssef850', 
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Korban Bolaji', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5581556003684352/5716226716516352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5581556003684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_40322844039458981266118'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6198307410198528/5826936821825536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6198307410198528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_925718702543240970084866'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'konrad', 
+      title: 'THE HORSE FELL OFF THE POEM(POEM)', 
+      author: 'ibrahim.ashraf-abu-sharia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6388093223747584/6321742882848768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6388093223747584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_594912465660692408224941'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-horse-fell-off-the-poempoem/5824753342660608/5514006284779520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-horse-fell-off-the-poempoem/5824753342660608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_33413682405277141583410'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Bogdan Arendarski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4888534685368320/5916131942776832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4888534685368320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9582361553658328807995862'
     }, 
   ];
 };
