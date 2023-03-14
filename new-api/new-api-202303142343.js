@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 54, 
+      votes: 55, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
     }, 
     {
+      title: 'New program', 
+      author: 'sgardiner23', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
+    }, 
+    {
       title: 'Futuristic Clock', 
       author: 'Lightning Driver, Esq.', 
       votes: 23, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408/6029693881204736.png', 
       link: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
-      title: 'New program', 
-      author: 'sgardiner23', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
       title: 'for Mr. bob Lyon ', 
@@ -152,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864/5823230625759232.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
+    }, 
+    {
+      title: 'lol, chromium_coder is hacked and ur hatin\' on him', 
+      author: 'CHROMIUM_CODER', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344/6155617037500416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'The Universe', 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-jurassic-park/4959551738920960/5519027101548544.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-jurassic-park/4959551738920960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
-    }, 
-    {
-      title: 'lol, chromium_coder is hacked', 
-      author: 'CHROMIUM_CODER', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked/4537420295225344/5351844425809920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked/4537420295225344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Cute Pikachu', 
@@ -415,6 +415,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
     }, 
     {
+      title: '106 from KING, a PICO-8 bullet hell game', 
+      author: 'StuffStash', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/5168367466233856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Animated version!', 
+      author: 'CodingChamp01 🔴', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Duolingo owl', 
       author: 'LovelyPetals', 
       votes: 13, 
@@ -431,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-butterflies/6502376985116672/5770726026297344.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-butterflies/6502376985116672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Animated version!', 
-      author: 'CodingChamp01 🔴', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Cat playing Animated', 
@@ -521,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6428930200616960.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: '106 from KING, a PICO-8 bullet hell game', 
-      author: 'StuffStash', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/5168367466233856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Test subject 1', 
@@ -659,7 +659,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Medium 1 Ne"SS"', 
-      author: 'S S [Offline]', 
+      author: 'S S [Online]', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/medium-1-ness/6169781445378048/5819007464947712.png', 
