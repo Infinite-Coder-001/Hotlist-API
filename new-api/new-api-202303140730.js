@@ -820,85 +820,85 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Maciej Krygier', 
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'iga.pyzara', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4736778282254336/6426721421410304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4736778282254336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7736051137323860525258822'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5693953385218048/4716469126742016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5693953385218048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_322038932143843327056548'
     }, 
     {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Katarzyna Wojciechowska', 
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Siyana Ninova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4592774907478016/5897657107398656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4592774907478016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_212391357122457079798215'
-    }, 
-    {
-      title: 'CSS', 
-      author: 'tugsenlucas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/css/5440420090003456/6387860490207232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/css/5440420090003456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_53871807384477284987324'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'kasia.wasylko.25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6358115803250688/4672909954301952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6358115803250688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89433561921667385721242'
-    }, 
-    {
-      title: 'Casa estrella Julián ', 
-      author: 'julian.contreras', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/casa-estrella-julin/6270303468830720/6162489891143680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/casa-estrella-julin/6270303468830720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_388565840379964342698259'
-    }, 
-    {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'Naisha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5781887807438848/5465867175641088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5781887807438848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_17468042196300914187496'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6123594273046528/6334669232848896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6123594273046528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5610686945672494374270574'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Anan Ibrahim', 
+      author: 'Ibrahim Ramsis', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5903086751367168/5755774112677888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5903086751367168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2035528527993734052228073'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5308764846866432/6335764273348608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5308764846866432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_784324636582401582282273'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'hala hazem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4547725104562176/6486898644402176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4547725104562176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2905249297148495138506040'
     }, 
     {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
       author: 'Katarzyna Wojciechowska', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4640204331991040/5364586847191040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4640204331991040', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5664893267394560/5629861299535872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5664893267394560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_212391357122457079798215'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Wiktor  Jankowski', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Mohamed Mahmoud', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4824958322917376/6444034157756416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4824958322917376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8995184588928817103062883'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5406700553420800/4628824346378240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5406700553420800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2530594429720032464934028'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Julia Kania', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5334707153977344/6545346874621952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5334707153977344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7759482550807849115287004'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Caren  Michael', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5676119825367040/5788675701260288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5676119825367040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7423438457626524755647807'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Michał Ignaczak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6521418512908288/6365937098080256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6521418512908288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8576510950705797516415541'
     }, 
   ];
 };
