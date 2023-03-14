@@ -264,7 +264,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 43, 
+      votes: 44, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6273705284255744.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Patrick', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4779578235338752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/6042491357020160.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'marci', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4718414889533440/5004811554832384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4718414889533440/6473787879243776.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4718414889533440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
@@ -656,6 +656,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bellas-snowman/6006224049192960/4701025061879808.png', 
       link: 'https://www.khanacademy.org/computer-programming/bellas-snowman/6006224049192960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271297523477014594442136'
+    }, 
+    {
+      title: 'Derivado de "Texto fabuloso: parte dos"', 
+      author: 'Jorge Aguinaga Ordas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-texto-fabuloso-parte-dos/4844308023001088/5150487634821120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-texto-fabuloso-parte-dos/4844308023001088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_184610763280104287801285'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Melanie Rabas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5039575095623680/4988728479367168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5039575095623680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1272734578916358089480639'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'jmorhig1412', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6710537658613760/4777575471955968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6710537658613760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8326179349019711130203246'
+    }, 
+    {
+      title: 'Spin-off of "Project: Eyeball_Animal attack"', 
+      author: 'Sasha_Spaikes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-eyeball_animal-attack/5364674684305408/6043660762529792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-eyeball_animal-attack/5364674684305408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Jayden', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6278645771714560/6537659310981120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6278645771714560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1030989078701261821603675'
+    }, 
+    {
+      title: 'Videogame shop table', 
+      author: 'ica', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/videogame-shop-table/5752262096109568/5133400317149184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/videogame-shop-table/5752262096109568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3716557123305009697725928'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'Jorge Aguinaga Ordas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5624881528225792/5879670941990912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5624881528225792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_184610763280104287801285'
     }, 
     {
       title: 'Bwyd', 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632/5954132211187712.png', 
       link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'Plat pitsa', 
-      author: 'crh21id072', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plat-pitsa/5456796867411968/6398992097525760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/plat-pitsa/5456796867411968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47944360862641886785062'
-    }, 
-    {
-      title: 'Spin-off of "Readable Code"', 
-      author: 'rebeccaslattery', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/4693891096035328/5475761295507456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/4693891096035328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_876677855393445819448180'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'yamini.learning1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6141398212722688/4919725165690880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6141398212722688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3087040006879219012603978'
-    }, 
-    {
-      title: 'Clothing: Design a store database"', 
-      author: 'Moira McKinney-Steffen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clothing-design-a-store-database/6088108204670976/6647236350230528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clothing-design-a-store-database/6088108204670976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3156007963199261485048851'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'benjamin.cohen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6097399359782912/6208208886874112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6097399359782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_562337117336103603216574'
-    }, 
-    {
-      title: 'Making Sprites for a Game', 
-      author: 'Ranger Rioter', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-sprites-for-a-game/6271107332358144/4805898440851456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/making-sprites-for-a-game/6271107332358144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_790437013531100522322763'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Kubra Goktekin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4591455043895296/5388864762200064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4591455043895296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6156705777653545462821725'
     }, 
   ];
 };
