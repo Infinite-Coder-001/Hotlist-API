@@ -856,33 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Derivado de "Proyecto: construye una casa" Itzel', 
-      author: 'itzel.vazquez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-itzel/6592684989136896/5533448813199360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-itzel/6592684989136896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247439265049423569694400'
-    }, 
-    {
-      title: 'clicker game (IN THE WORKS)', 
-      author: 'CBE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clicker-game-in-the-works/5489593774555136/6594078034935808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clicker-game-in-the-works/5489593774555136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_960820813860593796505902'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Mohana Priya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5821774866726912/5392631800840192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5821774866726912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203399470067710954534854'
-    }, 
-    {
       title: 'Derivado de "Dibujar más figuras con código"', 
       author: 'Andres Emanuel Oviedo Rodríguez', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6115183057747968/5147504259940352.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6115183057747968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3694526503666129057602156'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'o0ARAH0o', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5867838860738560/5819870518493184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5867838860738560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_846574445101746941290699'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Will Case', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4794972673196032/4709111390584832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4794972673196032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721987272994031868463963'
+    }, 
+    {
+      title: 'wipz and stuffz', 
+      author: 'Trillionth', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wipz-and-stuffz/5547580262236160/4774318913667072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wipz-and-stuffz/5547580262236160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9452342026778938070152395'
     }, 
   ];
 };
