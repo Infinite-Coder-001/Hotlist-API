@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'Never Say Goodbye - For Aragorn Elessar', 
+      author: 'PenGwen', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
       votes: 93, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4559747951149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Never Say Goodbye - For Aragorn Elessar', 
-      author: 'PenGwen', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Futuristic Clock', 
@@ -838,6 +838,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'New program', 
+      author: 'Clara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5119156519485440/5066965821734912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5119156519485440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465409114630243208173916'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Waving snowman"', 
+      author: 'Clara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4838667590090752/6526545781112832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4838667590090752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465409114630243208173916'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Exploding Sun"', 
+      author: 'Sabhyata Dubey', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/6163890151145472/6267972543102976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/6163890151145472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_737436711790417040217372'
+    }, 
+    {
+      title: 'Work in progress', 
+      author: 'Mr Rooster', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress/6691178789781504/4844717252853760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress/6691178789781504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149030422954440549928039'
+    }, 
+    {
       title: 'Derivado de "Desafío: un viaje de ensueño"', 
       author: 'xiomaravelasquez138', 
       votes: 1, 
@@ -847,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2071541732794115080065471'
     }, 
     {
+      title: 'Book', 
+      author: 's201115', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/book/5509383742341120/6408583548026880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/book/5509383742341120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1036264157022894904111641'
+    }, 
+    {
       title: 'Derivado de "Desafío: un viaje de ensueño"', 
       author: 'xiomaravelasquez138', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4687983091695616/6399990006333440.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4687983091695616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2071541732794115080065471'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Will Case', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6262363886239744/6642781554786304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6262363886239744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721987272994031868463963'
-    }, 
-    {
-      title: 'SVB just collapsed (Comica #1)', 
-      author: 'Hibernia', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed-comica-1/5799350842474496/5984165256544256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed-comica-1/5799350842474496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'alexander.gittsovich', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6232211068338176/4825793350123520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6232211068338176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3812214926566160993042685'
-    }, 
-    {
-      title: 'Winston vs Hopper ', 
-      author: 'Speedyspeedcuber', 
-      votes: 39, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600/6268075622318080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-vs-hopper/5314324992409600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'natashaonline1111', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6742347687968768/6392062100684800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6742347687968768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2522004967813934927653085'
     }, 
   ];
 };
