@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: ' be horrified (I\'ll keep adding jokes this week)', 
       author: 'Speedyspeedcuber', 
-      votes: 31, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128/4525498397147136.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128', 
@@ -712,51 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012143064823294973622375'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Sasha_Spaikes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6092858505609216/6637141188984832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6092858505609216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'britt671', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606838710779904/5847789684965376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606838710779904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_31274624025099771668107'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Fabiola Adrover Yi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6038633536864256/6565797889884160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6038633536864256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_783004525698369520999659'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'lucasfernandezies', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6206335064784896/5623749141643264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6206335064784896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_701386592491805753849689'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'mateooou', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6395660008210432/6279927349690368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6395660008210432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3978589636241294266317132'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Simple snowman"', 
       author: 'ellie amos', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5991177604349952/6019894225453056.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5991177604349952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1103624992197064295778480'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'suleb8135', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4894498675277824/6381442223620096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4894498675277824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_976310347211073568209479'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'colineshim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5787150685880320/5268058891665408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5787150685880320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5919420481318378046771790'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Story teller"', 
+      author: 'aahil.hossain', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/4880621178765312/6075002246184960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/4880621178765312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8358403680937500785156611'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Prosty bałwanek"', 
+      author: 'Alicja Łuszczyńska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-prosty-bawanek/5614100816379904/5425374081368064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-prosty-bawanek/5614100816379904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3016761335588223603399707'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'andrzejdrugi7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6414807844831232/5449984512409600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6414807844831232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_159763342242374993413436'
     }, 
   ];
 };
