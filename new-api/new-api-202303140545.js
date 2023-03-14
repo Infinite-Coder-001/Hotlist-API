@@ -838,24 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
-      title: 'Wyzwanie: baza danych książek', 
-      author: 'Dorota Subel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wyzwanie-baza-danych-ksiek/5824722824904704/6706840035704832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wyzwanie-baza-danych-ksiek/5824722824904704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705087326421727080751908'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Sasha_Spaikes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4754436436312064/5743940152377344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4754436436312064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'amysahoo290', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6429399526457344/5700622093697024.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6429399526457344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2122619040891846419225304'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Jim C', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5706109375791104/5953071412985856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5706109375791104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1152086937035671571089490'
+    }, 
+    {
+      title: 'Spin-off of "Aggregating data"', 
+      author: 'Anju Watanabe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6687986622447616/5770680635539456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6687986622447616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
     }, 
   ];
 };
