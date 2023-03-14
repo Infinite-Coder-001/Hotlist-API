@@ -721,11 +721,110 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1103624992197064295778480'
     }, 
     {
+      title: 'Spin-off of "Challenge: Story teller"', 
+      author: 'aahil.hossain', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/4880621178765312/6075002246184960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/4880621178765312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8358403680937500785156611'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'andrzejdrugi7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6414807844831232/5449984512409600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6414807844831232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_159763342242374993413436'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
+      author: 'Amelia Kotowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4559034692976640/5358915368042496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4559034692976640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9069079845815951716038348'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'nikosvarga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4966785738915840/5599515753365504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4966785738915840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_440160878260489972499186'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
+      author: 'Amelia Kotowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5531861193637888/4855408365977600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5531861193637888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9069079845815951716038348'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'Flo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4941831563689984/6105670325944320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4941831563689984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_175277947560001182321134'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
+      author: 'Amelia Kotowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5970353769988096/6650052947001344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5970353769988096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9069079845815951716038348'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'standziak.pola_nb_2020', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6167599862038528/5512384414531584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6167599862038528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_21656208687048817073534'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
+      author: 'Weronika Domańska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5914603538399232/5303552711114752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5914603538399232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7250621166809972199171237'
+    }, 
+    {
+      title: '"Spin-off of Second term Exam - 14-3-2023 By: iker abarrategui "', 
+      author: 'iker.abarrategui', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-second-term-exam-14-3-2023-by-iker-abarrategui/5348246090465280/5923924045250560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-second-term-exam-14-3-2023-by-iker-abarrategui/5348246090465280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_656182129590431595992079'
+    }, 
+    {
+      title: 'Derivado de sol y agujero negro', 
+      author: 'miguel.beltran', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-sol-y-agujero-negro/5489404863102976/5027729433214976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-sol-y-agujero-negro/5489404863102976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125267960903033411887108'
+    }, 
+    {
       title: 'Spin-off z "Projekt: Książka kucharska"', 
       author: 'klodnicka.julia_na_2020', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6088383317458944/6383369095266304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6088383317458944/5519581823418368.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6088383317458944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_663584624840600377114309'
     }, 
@@ -800,105 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yellowboxes/5821569245167616/6711532748849152.png', 
       link: 'https://www.khanacademy.org/computer-programming/yellowboxes/5821569245167616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Gabriela Brzozowska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6309512393048064/5756517267849216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6309512393048064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8244411991280612201641387'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'gabrielakania24', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5118510890270720/6331752639676416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5118510890270720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_788995470604945856945939'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Carlos Gomez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5152959069732864/6444102080315392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5152959069732864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5739237772160596467383077'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Xola Ketsiwe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6433334265954304/4941031047217152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6433334265954304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3960564843180963790823599'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'yeray aguilar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5939632133160960/5529147009187840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5939632133160960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4350483527552518760755277'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'musie.dawit12', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5645061490786304/5583778884141056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5645061490786304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_461542423239142826399798'
-    }, 
-    {
-      title: 'for sleepydishes xP', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-sleepydishes-xp/5825663758286848/5375975917666304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-sleepydishes-xp/5825663758286848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Spin-off of "Evaluation exam by Manuel Vergara"', 
-      author: 'manuel.vergara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-evaluation-exam-by-manuel-vergara/5676717178142720/5881302442360832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-evaluation-exam-by-manuel-vergara/5676717178142720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_148700134797150687671153'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'jagoda.stepien1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4948132607868928/4671689562832896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4948132607868928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_219070995483795911682164'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'arezoo.nabizada10', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5824173001981952/6595787205427200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5824173001981952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1103624992197064295778480'
-    }, 
-    {
-      title: 'Second term Exam - 14-3-2023 By:Thierry lecumberri', 
-      author: 'thierry.lecumberri', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/second-term-exam-14-3-2023-bythierry-lecumberri/6705870799159296/6323967688491008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/second-term-exam-14-3-2023-bythierry-lecumberri/6705870799159296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_148626115265700461236164'
     }, 
   ];
 };
