@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Terrain Generator - Particle Plasma', 
       author: 'CHROMIUM_CODER', 
-      votes: 8, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864/4628737373290496.png', 
       link: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864', 
@@ -838,6 +838,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'xiomaravelasquez138', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5451475587481600/6317039222571008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5451475587481600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2071541732794115080065471'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'xiomaravelasquez138', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4687983091695616/6399990006333440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4687983091695616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2071541732794115080065471'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Will Case', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6262363886239744/6642781554786304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6262363886239744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721987272994031868463963'
+    }, 
+    {
       title: 'SVB just collapsed (Comica #1)', 
       author: 'Hibernia', 
       votes: 2, 
@@ -845,6 +872,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed-comica-1/5799350842474496/5984165256544256.png', 
       link: 'https://www.khanacademy.org/computer-programming/svb-just-collapsed-comica-1/5799350842474496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'alexander.gittsovich', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6232211068338176/4825793350123520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6232211068338176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3812214926566160993042685'
     }, 
     {
       title: 'Winston vs Hopper ', 
@@ -856,49 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: '"პროექტი: რა გვაქვს სადილად?"-ის სპინ-ოფები', 
-      author: 'Nini Antidze', 
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'natashaonline1111', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5618847778652160/5344420893605888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/5618847778652160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_127485066937685896744411'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa" Itzel', 
-      author: 'itzel.vazquez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-itzel/6592684989136896/5533448813199360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-itzel/6592684989136896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247439265049423569694400'
-    }, 
-    {
-      title: 'clicker game (IN THE WORKS)', 
-      author: 'CBE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clicker-game-in-the-works/5489593774555136/6594078034935808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clicker-game-in-the-works/5489593774555136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_960820813860593796505902'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Mohana Priya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5821774866726912/5392631800840192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5821774866726912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203399470067710954534854'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'Andres Emanuel Oviedo Rodríguez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6440834943991808/4765641267789824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6440834943991808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4999532187150131124564939'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6742347687968768/6392062100684800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6742347687968768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2522004967813934927653085'
     }, 
   ];
 };
