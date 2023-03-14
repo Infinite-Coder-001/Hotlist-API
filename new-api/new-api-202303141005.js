@@ -721,6 +721,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Carlos Gomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5152959069732864/6444102080315392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5152959069732864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5739237772160596467383077'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Xola Ketsiwe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6433334265954304/4941031047217152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6433334265954304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3960564843180963790823599'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'yeray aguilar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5939632133160960/5529147009187840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5939632133160960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4350483527552518760755277'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Wishlist"', 
       author: 'musie.dawit12', 
       votes: 2, 
@@ -730,12 +757,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_461542423239142826399798'
     }, 
     {
-      title: 'for sleepydishes', 
+      title: 'for sleepydishes xP', 
       author: 'vw_beetlesultimategreatness', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-sleepydishes/5825663758286848/4700701026729984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-sleepydishes/5825663758286848', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-sleepydishes-xp/5825663758286848/5375975917666304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-sleepydishes-xp/5825663758286848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
@@ -773,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/second-term-exam-14-3-2023-bythierry-lecumberri/6705870799159296/6672390237241344.png', 
       link: 'https://www.khanacademy.org/computer-programming/second-term-exam-14-3-2023-bythierry-lecumberri/6705870799159296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_148626115265700461236164'
+    }, 
+    {
+      title: 'new and important', 
+      author: '-Er1on', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-and-important/5304944473456640/6584968207974400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-and-important/5304944473456640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_105114359290761332730251'
     }, 
     {
       title: 'Spin-off of "Project: Data dig"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6605547988369408/5771218336923648.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6605547988369408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6269732180742359927153318'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'domska.maja_b_2015', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5430335137693696/5424591726231552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5430335137693696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_246013394330944780880842'
-    }, 
-    {
-      title: 'Scene 30 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-30-angelm-wilmer-jerry-complete/5527442041389056/6013085762764800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-30-angelm-wilmer-jerry-complete/5527442041389056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: '1harding.jack', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5331267052945408/5204032337788928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5331267052945408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_735415517563071678864105'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'francois lourens', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6700447262097408/5755086087438336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6700447262097408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9815260441426310212364351'
     }, 
   ];
 };
