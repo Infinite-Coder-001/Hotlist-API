@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
       link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'Terrain Generator - Particle Plasma', 
+      author: 'CHROMIUM_CODER', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864/4628737373290496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 36, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
-      title: 'Terrain Generator - Particle Plasma', 
-      author: 'CHROMIUM_CODER', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864/4628737373290496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Here comes crazy man...', 
@@ -143,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-camera/5733431726358528/4553508714233856.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-camera/5733431726358528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987182949924628851050037'
+    }, 
+    {
+      title: 'Terrainz', 
+      author: 'CHROMIUM_CODER', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrainz/5943544512823296/5595397005557760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrainz/5943544512823296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Goomba HTML/CSS ONLY', 
@@ -847,58 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'LauraAMPeffer', 
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'Andres Emanuel Oviedo Rodríguez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5115064573280256/5756050290819072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5115064573280256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1113332153742028130020258'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6440834943991808/4765641267789824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6440834943991808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4999532187150131124564939'
     }, 
     {
-      title: 'Don\'t forget to use this (by kiran and mom)', 
-      author: 'mariewagle', 
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'DevShree Gohil', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-forget-to-use-this-by-kiran-and-mom/6493378500149248/4735736752685056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-forget-to-use-this-by-kiran-and-mom/6493378500149248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_825654429537999331167156'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6115183057747968/5147504259940352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6115183057747968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3694526503666129057602156'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Silvia A-J', 
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'o0ARAH0o', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6448530048991232/4538121817735168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6448530048991232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9087212053047456033533295'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5867838860738560/5819870518493184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5867838860738560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_846574445101746941290699'
     }, 
     {
-      title: 'AI Test 1', 
-      author: 'dawson.mccoy', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Will Case', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-test-1/5871705413435392/4994839848730624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-test-1/5871705413435392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_176949191878979231003716'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4794972673196032/4709111390584832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4794972673196032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721987272994031868463963'
     }, 
     {
-      title: 'New program', 
-      author: 'sgh07', 
+      title: 'wipz and stuffz', 
+      author: 'Trillionth', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6433411965435904/5278682157727744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6433411965435904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'amaya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4984599405182976/5968560273014784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4984599405182976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_962967982024162888813142'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wipz-and-stuffz/5547580262236160/4774318913667072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wipz-and-stuffz/5547580262236160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9452342026778938070152395'
     }, 
   ];
 };
