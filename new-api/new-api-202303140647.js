@@ -829,76 +829,76 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5149060527272230385478181'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe Instructions"', 
-      author: 'Mina N. Mofrad', 
-      votes: 1, 
+      title: 'SCP Foundation', 
+      author: 'cool guy coding', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-instructions/4765357976109056/6464363211046912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-instructions/4765357976109056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7180694394850674210692966'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656/4780237747699712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scp-foundation/6564453925830656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
       title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Yoan Hristov', 
+      author: 'Oleksandra Lambova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6650687851380736/4632719781052416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6650687851380736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6472800068811185564185663'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6631306677239808/5019944536555520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6631306677239808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1335841369109306634530446'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Caren  Michael', 
+      author: 'Gene Bronkhorst', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5287854731476992/6502248077377536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5287854731476992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7423438457626524755647807'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6583811771252736/5580811296620544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6583811771252736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8552890012373941448098163'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Силвия Цанкова', 
+      title: 'Beach House', 
+      author: 'Niel van der merwe', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6742128845963264/4782828728664064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6742128845963264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beach-house/5087712946470912/5555931087945728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beach-house/5087712946470912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8460971956723218487387814'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'crustal.pants11', 
+      title: 'Spin-off of "Challenge: Mouse Tracker"', 
+      author: 'Erin Slabbert', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6031995371307008/5939725104103424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6031995371307008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2387882920370822121636285'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5187624799354880/5750354040111104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5187624799354880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8197654842223985755651609'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Zain A', 
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Laya Lambert', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4512194710781952/6604742078021632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4512194710781952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_829172508360832031945668'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6630015469142016/5464620284559360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6630015469142016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5221239039346591292309328'
     }, 
     {
-      title: 'Spin-off of "Rect_Line Notes-Drawing more shapes with code"', 
-      author: 'Sasha_Spaikes', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Zari', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-rect_line-notes-drawing-more-shapes-with-code/5387605355315200/4719729585733632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-rect_line-notes-drawing-more-shapes-with-code/5387605355315200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6608428661522432/6545900782796800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6608428661522432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_615622445695823784764705'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Kremena Dimitrova', 
+      title: 'AVL Tree Sorted Multimap', 
+      author: 'ethankim8683', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6630250383720448/5288823313711104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6630250383720448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6586464902274086660110412'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552/5596965339709440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
   ];
 };
