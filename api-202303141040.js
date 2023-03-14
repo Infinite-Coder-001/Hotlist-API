@@ -19,12 +19,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Click to be horrified, even more jokes!!!', 
+      title: 'be horrified (I\'ll keep adding jokes this week)', 
       author: 'Speedyspeedcuber', 
       votes: 30, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-even-more-jokes/4956245650096128/5804296195325952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-even-more-jokes/4956245650096128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128/4525498397147136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
