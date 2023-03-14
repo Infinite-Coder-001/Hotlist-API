@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: ' be horrified (I\'ll keep adding jokes this week)', 
       author: 'Speedyspeedcuber', 
-      votes: 57, 
-      forks: 4, 
+      votes: 56, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128/6576169740976128.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'pi', 
       author: 'Reader ✔', 
-      votes: 22, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/6489944942231552.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Contest: What\'s Cooking? - HTML Submissions', 
-      author: 'Evan Lewis', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
-    }, 
-    {
       title: 'LOGO CONTEST FOR ME', 
       author: 'LightningCoder', 
       votes: 21, 
@@ -98,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4579965788274688.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Contest: What\'s Cooking? - HTML Submissions', 
+      author: 'Evan Lewis', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
       title: 'Futuristic Clock', 
@@ -245,7 +245,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Here comes crazy man...', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 39, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/5753770636263424.png', 
@@ -325,24 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: 'The Apollo mission in images.', 
-      author: 'scientist2022', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048/4752918710632448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'SubPage', 
-      author: 'Arrow.programming', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 70, 
@@ -377,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5008637766713344.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'The Apollo mission in images.', 
+      author: 'scientist2022', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048/4752918710632448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Intersections', 
@@ -530,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784/5293540429316096.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6333783488118784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
+      title: 'SubPage', 
+      author: 'Arrow.programming', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -856,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'ignore this please', 
-      author: 'TheRealDeal', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this-please/6050420504182784/4852317306535936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ignore-this-please/6050420504182784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Simple snowman"', 
       author: 'J Wil', 
       votes: 3, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6700760761155584/5977627871723520.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6700760761155584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997185345895246905414939'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: '23millerel', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4943096632885248/4906081572929536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4943096632885248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1171106361239635890817'
     }, 
   ];
 };
