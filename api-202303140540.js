@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for Mr. bob Lyon', 
       author: 'LovelyPetals', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
