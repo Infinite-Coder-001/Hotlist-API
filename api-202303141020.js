@@ -19,12 +19,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Click to be horrified, new joke!', 
+      title: 'Click to be horrified, even more jokes!!!', 
       author: 'Speedyspeedcuber', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-new-joke/4956245650096128/5012937901391872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-new-joke/4956245650096128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-even-more-jokes/4956245650096128/5804296195325952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified-even-more-jokes/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'LOGO CONTEST FOR ME', 
+      author: 'LightningCoder', 
+      votes: 16, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4747029027012608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Futuristic Clock', 
       author: 'Lightning Driver, Esq.', 
       votes: 19, 
@@ -64,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
-      title: 'LOGO CONTEST FOR ME', 
-      author: 'LightningCoder', 
-      votes: 15, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4747029027012608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'for Mr. bob Lyon', 
       author: 'LovelyPetals', 
       votes: 32, 
@@ -80,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Terrain Generator - Particle Plasma', 
+      author: 'CHROMIUM_CODER', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864/4628737373290496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Deja-vu: part 11, On The Edge', 
@@ -97,15 +106,6 @@ var LoadHotlistAPI = function() {
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
-      title: 'Terrain Generator - Particle Plasma', 
-      author: 'CHROMIUM_CODER', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864/4628737373290496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terrain-generator-particle-plasma/5188340121124864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'Solar system maybe', 
+      author: 'CodingChamp01 🔴', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848/5965779717898240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Goomba HTML/CSS ONLY', 
       author: 'CHROMIUM_CODER', 
       votes: 16, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
       link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
-      title: 'Solar system maybe', 
-      author: 'CodingChamp01 🔴', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848/5965779717898240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Platformer v0.1', 
@@ -228,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Animated version!', 
       author: 'CodingChamp01 🔴', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 42, 
+      votes: 43, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6273705284255744.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
