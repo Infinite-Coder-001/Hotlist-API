@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Lightning Driver, Esq.', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408/6209907470942208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408/6029693881204736.png', 
       link: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
@@ -838,6 +838,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Oleksandra Lambova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6631306677239808/5019944536555520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6631306677239808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1335841369109306634530446'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Gene Bronkhorst', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6583811771252736/5580811296620544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6583811771252736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8552890012373941448098163'
+    }, 
+    {
+      title: 'Beach House', 
+      author: 'Niel van der merwe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beach-house/5087712946470912/5555931087945728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beach-house/5087712946470912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8460971956723218487387814'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Mouse Tracker"', 
+      author: 'Erin Slabbert', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5187624799354880/5750354040111104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5187624799354880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8197654842223985755651609'
+    }, 
+    {
       title: 'Spin-off of "Challenge: My Favorite Foods"', 
       author: 'Laya Lambert', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552/5596965339709440.png', 
       link: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Krzesimir Gałązka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6116059499511808/6465917217456128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6116059499511808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1282909922723304084509564'
-    }, 
-    {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Катерина Йорданова', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5938670521860096/5729956128931840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5938670521860096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6971503350346588193058438'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Funky Frog"', 
-      author: 'Hussein Elmasri', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5732256541097984/4678455612719104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5732256541097984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_117671049596309224066938'
-    }, 
-    {
-      title: 'tree', 
-      author: 'Nelima Le Roux', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tree/5357516550881280/5353162796220416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tree/5357516550881280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1785099527184300439866864'
     }, 
   ];
 };
