@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'Anju Watanabe', 
+      title: 'AVL Tree Sorted Multimap', 
+      author: 'ethankim8683', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5599432060223488/6263841891860480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5599432060223488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552/5596965339709440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multimap/4571990386327552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Krzesimir Gałązka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6116059499511808/4860101892816896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6116059499511808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1282909922723304084509564'
     }, 
     {
       title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Силвия Стойнева ', 
+      author: 'Катерина Йорданова', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5018354392023040/4763226757971968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5018354392023040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5308475201389372001908176'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5938670521860096/5729956128931840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5938670521860096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6971503350346588193058438'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Kiril Stoyanov', 
+      title: 'Spin-off of "Challenge: Funky Frog"', 
+      author: 'Hussein Elmasri', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5453604364533760/5076908754911232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5453604364533760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9010209770157372360766169'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5732256541097984/4678455612719104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/5732256541097984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_117671049596309224066938'
     }, 
     {
-      title: 'Hristo Botev Напиши поема"', 
-      author: 'Yulian Nikolov', 
+      title: 'tree', 
+      author: 'Nelima Le Roux', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hristo-botev/5014924910968832/5489910394175488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hristo-botev/5014924910968832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1102548214395944700113330'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tree/5357516550881280/5353162796220416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tree/5357516550881280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1785099527184300439866864'
     }, 
     {
-      title: 'Egg, Sausage & Toast - Breakfast', 
-      author: 'susana_rego', 
+      title: 'AVL Tree Sorted Multiset', 
+      author: 'ethankim8683', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/egg-sausage-toast-breakfast/5145756678012928/5479548433252352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/egg-sausage-toast-breakfast/5145756678012928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multiset/5509742405664768/4542999323525120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avl-tree-sorted-multiset/5509742405664768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
-      title: 'Версия на "Предизвикателсво: Напиши поема"', 
-      author: 'Lilla Lovash', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'harriettework', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6420330300358656/6603528707817472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6420330300358656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1343119010406026394344161'
-    }, 
-    {
-      title: 'Wyzwanie: baza danych książek', 
-      author: 'Dorota Subel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wyzwanie-baza-danych-ksiek/5824722824904704/5967089179607040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wyzwanie-baza-danych-ksiek/5824722824904704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705087326421727080751908'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5708326258393088/4979785099165696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5708326258393088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_357607842358972516232858'
     }, 
   ];
 };
