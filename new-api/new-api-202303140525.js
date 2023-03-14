@@ -838,24 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3040702851422299209852325'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'amysahoo290', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4540748056018944/6282634697424896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4540748056018944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1033588987851951871926233'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Brown bear eyes"', 
-      author: 'ashley.nelson109', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-brown-bear-eyes/5699277580189696/6234440424800256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-brown-bear-eyes/5699277580189696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_865572012548240392082659'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Colorful creature"', 
       author: 'Raghav', 
       votes: 1, 
@@ -863,15 +845,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4849120802291712/5751295338397696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4849120802291712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ecarlos215', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4710202299695104/4612415876808704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4710202299695104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_405599923604817423052331'
     }, 
     {
       title: 'Spin-off of "Challenge: Links for learning"', 
@@ -887,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Jim C', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5706109375791104/5953071412985856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5706109375791104/4943467124146176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5706109375791104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152086937035671571089490'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6687986622447616/5770680635539456.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6687986622447616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
+    }, 
+    {
+      title: 'George Washington', 
+      author: 'Hibernia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/george-washington/6468620899368960/4639770842284032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/george-washington/6468620899368960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Sunny snowy day', 
+      author: 'susana_rego', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5025757808345088/6663447125475328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5025757808345088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+    }, 
+    {
+      title: 'rotaions', 
+      author: '369030', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056/6663804060745728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotaions/4914086947373056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_513929284385194630283078'
     }, 
   ];
 };
