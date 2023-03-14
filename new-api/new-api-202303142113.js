@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 52, 
+      votes: 51, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: '3D CSS Cube', 
-      author: 'CHROMIUM_CODER', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-css-cube/5873719727931392/5923021808517120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-css-cube/5873719727931392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'pi', 
       author: 'Reader ✔', 
       votes: 14, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/4802560588562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: '3D CSS Cube', 
+      author: 'CHROMIUM_CODER', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-css-cube/5873719727931392/5923021808517120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-css-cube/5873719727931392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: '- Living The Dream -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5008637766713344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'The Apollo mission in images.', 
       author: 'scientist2022', 
       votes: 12, 
@@ -514,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295281823076839467274774'
     }, 
     {
+      title: '- Living The Dream -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5008637766713344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'collision tutorial #2', 
       author: 'YokieBob', 
       votes: 2, 
@@ -548,15 +548,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5390122919182336.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
-    }, 
-    {
-      title: 'Test Subject 3', 
-      author: 'Royal Advisor Floppy Fish', 
-      votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584/5888540267560960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'pi!', 
@@ -770,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/homepagewip/5698387729235968/4698858284433408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/homepagewip/5698387729235968/5275963552481280.png', 
       link: 'https://www.khanacademy.org/computer-programming/homepagewip/5698387729235968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568/4567592037826560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kaleidoscope-maker-v10/5261104903405568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'Mouse Lock', 
+      author: 'Salamander', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mouse-lock/5982291535118336/6317899491098624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mouse-lock/5982291535118336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
   ];
 };
