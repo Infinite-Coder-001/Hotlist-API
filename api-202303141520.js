@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 45, 
+      votes: 48, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'be horrified (I\'ll keep adding jokes this week)', 
       author: 'Speedyspeedcuber', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128/6576169740976128.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128', 
@@ -30,8 +30,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
-      votes: 25, 
-      forks: 0, 
+      votes: 26, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/6129261423673344.png', 
       link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'Super Mario PLATFORMER!! UPDATED', 
       author: 'CHROMIUM_CODER', 
       votes: 49, 
-      forks: 14, 
+      forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5714755891544064.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
@@ -48,8 +48,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 97, 
-      forks: 7, 
+      votes: 99, 
+      forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4559747951149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'LOGO CONTEST FOR ME', 
       author: 'LightningCoder', 
-      votes: 17, 
+      votes: 18, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4708510921441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
@@ -120,8 +120,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
-      votes: 38, 
-      forks: 2, 
+      votes: 39, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
@@ -148,7 +148,7 @@ var LoadHotlistAPI = function() {
       title: 'Here comes crazy man...', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 35, 
-      forks: 6, 
+      forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/5753770636263424.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Goomba HTML/CSS ONLY', 
       author: 'CHROMIUM_CODER', 
       votes: 16, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
       link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
@@ -175,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 68, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
@@ -185,9 +185,18 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pew-nrogram/6091609878085632/6461687345758208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pew-nrogram/6091609878085632/5669342954176512.png', 
       link: 'https://www.khanacademy.org/computer-programming/pew-nrogram/6091609878085632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Microsoft Office Users be like...', 
+      author: 'CHROMIUM_CODER', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/6478499995238400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'The Apollo mission in images.', 
@@ -217,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
-      title: 'Microsoft Office Users be like...', 
-      author: 'CHROMIUM_CODER', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/6478499995238400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'Cat playing Animated', 
       author: 'Xiøn 😋🤩', 
       votes: 11, 
@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'Animated version!', 
       author: 'CodingChamp01 🔴', 
       votes: 16, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -264,7 +264,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'nincompoop', 
       author: 'S. M. V.', 
-      votes: 47, 
+      votes: 48, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/5495707459174400.png', 
       link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
