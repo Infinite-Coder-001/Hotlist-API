@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Lightson', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/5737368290377728.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
@@ -248,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/4931670920970240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/4864384361086976.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
