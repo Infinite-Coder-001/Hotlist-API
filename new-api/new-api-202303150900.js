@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'Solar system maybe', 
+      author: 'CodingChamp01 🔴', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848/5965779717898240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Oh wow, its pi day! (Game)', 
       author: '‮e09', 
       votes: 3, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4954579630604288/6183468960890880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4954579630604288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998080520931912175844182'
-    }, 
-    {
-      title: '3D Target Practice', 
-      author: 'Patrick', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4561999671640064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
     }, 
   ];
 };
