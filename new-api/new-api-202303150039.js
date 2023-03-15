@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 56, 
+      votes: 57, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
       author: 'CHROMIUM_CODER', 
-      votes: 59, 
+      votes: 58, 
       forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5739477354201088.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
+      title: 'Collaboration between LJE, Seth, and Arwen.', 
+      author: 'Arwen Undómiel', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5220507060584448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
       title: 'LOGO CONTEST FOR ME', 
       author: 'LightningCoder', 
       votes: 21, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4579965788274688.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Collaboration between LJE, Seth, and Arwen.', 
-      author: 'Arwen Undómiel', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5220507060584448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Random emojis (^-^*)', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
+      title: 'SubPage', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 6, 
@@ -241,15 +250,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/4931670920970240.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'SubPage', 
-      author: 'Arrow.programming', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
@@ -334,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
     }, 
     {
-      title: 'Goomba HTML/CSS ONLY', 
-      author: 'CHROMIUM_CODER', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
       title: 'Don\'t click!', 
       author: 'cuiqinlin', 
       votes: 6, 
@@ -368,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848/5965779717898240.png', 
       link: 'https://www.khanacademy.org/computer-programming/solar-system-maybe/5990109835214848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Goomba HTML/CSS ONLY', 
+      author: 'CHROMIUM_CODER', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Intersections', 
@@ -406,11 +406,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
     }, 
     {
+      title: '---Pizza---', 
+      author: 'Emma', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/5650007179182080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
+    }, 
+    {
       title: 'Test Subject 3', 
       author: 'Royal Advisor Floppy Fish(Offline)', 
       votes: 3, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584/4743106782347264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584/5808065180123136.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -554,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/5919933592813568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/6751734456434688.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
@@ -602,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5707680536903680/5323648032620544.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5707680536903680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_617392490873376690647856'
-    }, 
-    {
-      title: '---Pizza---', 
-      author: 'Emma', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/5650007179182080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
       title: 'Hotlist API', 
