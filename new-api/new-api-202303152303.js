@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 33, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'ipasion0001', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'kualawills', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6596936822210560/6482380733071360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6596936822210560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_119091597700346267585126'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5915980310298624/4850962940608512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5915980310298624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3505188640652742642610319'
     }, 
     {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'sriharshithaalamuru', 
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'gorecki.bartosz_nc_2021', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6196808961540096/6199241926295552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6196808961540096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_248490221897687370285896'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6653516993314816/5968154985807872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6653516993314816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_369885803803736649059772'
     }, 
     {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'lazwaig', 
+      title: 'Spin-off of "New program"', 
+      author: 'Bob Lyon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4780561917067264/6104416094830592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4780561917067264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4514511935412273953937520'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5072652140331008/5942825441345536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5072652140331008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
-      author: 'astrologiclive2', 
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'anaiskengelmann', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/5118481605640192/4755318196453376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/5118481605640192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929441475557578891131719'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4705002830741504/6567339346935808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4705002830741504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8699972642693487838008065'
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'leuel.b205', 
+      author: 'AL SAHAF SIFAT ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4647209272655872/4935875400351744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4647209272655872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292603050823749930735044'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5258364210954240/6424372871217152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5258364210954240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3428722025562222894192381'
     }, 
     {
-      title: 'OH NOOOOO', 
-      author: 'LovelyPetals', 
+      title: 'New program', 
+      author: 'thebalex ✝ (Offline)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-nooooo/5549236651606016/6680397079691264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-nooooo/5549236651606016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6684115380518912/5603332561616896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6684115380518912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_603767549740601785548046'
     }, 
     {
-      title: 'Game [WIP]', 
-      author: 'Agent Bob', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Emir Emilio Barredes Vasquez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-wip/5974266657161216/5074659844603904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-wip/5974266657161216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2356770715001192791737849'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4647377715904512/4859449460441088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4647377715904512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168329761017262806469836'
     }, 
   ];
 };
