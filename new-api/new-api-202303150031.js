@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Collaboration between LJE, Seth, and Arwen.', 
+      author: 'Arwen Undómiel', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5220507060584448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
       title: 'Random emojis (^-^*)', 
       author: 'verdertrio', 
       votes: 9, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Collaboration between LJE, Seth, and Arwen.', 
-      author: 'Arwen Undómiel', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5220507060584448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Lavender Galaxy MC SKIN', 
@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/5604464788815872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/5919933592813568.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
