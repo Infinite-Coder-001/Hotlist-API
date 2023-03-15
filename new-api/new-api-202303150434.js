@@ -307,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
+      title: 'One Riddle(Game)', 
+      author: 'Shadow Fax', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: 'Pi Day Comic LOL 🥧', 
       author: 'Just a coder.', 
       votes: 5, 
@@ -359,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-block-textures/4753277332013056/6498726774620160.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-block-textures/4753277332013056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
-    }, 
-    {
-      title: 'One Riddle(Game)', 
-      author: 'Shadow Fax', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'Fire w/ Particles', 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'CylenceScythe (Online)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5190568856829952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
@@ -536,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/4990268711682048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/6663345120002048.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
