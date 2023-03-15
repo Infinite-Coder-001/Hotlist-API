@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 58, 
+      votes: 57, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'kamal shoushan', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576/5192751589408768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576/5542575065055232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
