@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 56, 
+      votes: 57, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'pi', 
+      author: 'Reader ✔', 
+      votes: 25, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5230329751453696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
       title: 'P3D but BETTER', 
       author: 'Dat', 
       votes: 58, 
@@ -26,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'pi', 
-      author: 'Reader ✔', 
-      votes: 24, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5230329751453696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
@@ -48,8 +48,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 14, 
-      forks: 0, 
+      votes: 15, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5220507060584448.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
+      title: '- Living The Dream -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'for Mr. bob Lyon ', 
       author: 'LovelyPetals', 
       votes: 37, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: '- Living The Dream -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Khancraft ver 5.19', 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256/4807053275348992.png', 
       link: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
+      title: 'Messi The Goat', 
+      author: 'Timothy Lightson', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'What is cooking?!', 
@@ -305,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232/5753770636263424.png', 
       link: 'https://www.khanacademy.org/computer-programming/here-comes-crazy-man/6736502048735232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Messi The Goat', 
-      author: 'Timothy Lightson', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'P3D block textures', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_388984409044627291352559'
     }, 
     {
+      title: 'nincompoop', 
+      author: 'S. M. V.', 
+      votes: 51, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6428930200616960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
       title: 'Noot Noot', 
       author: 'Riparovenator65', 
       votes: 3, 
@@ -541,13 +550,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
-      title: 'nincompoop', 
-      author: 'S. M. V.', 
-      votes: 50, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792/6428930200616960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nincompoop/6110739742113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+      title: 'Fire w/ Particles', 
+      author: 'Archbirdplus', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304/5762122938368000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Tomato sauce with herbs... :P', 
+      author: 'WinstonWinner000 (Parlor Indie)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5402443502632960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
       title: 'Test subject 1', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/frye/4749776195469312/5940173122879488.png', 
       link: 'https://www.khanacademy.org/computer-programming/frye/4749776195469312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_800908511438919917036763'
-    }, 
-    {
-      title: 'Congratulations Floppy fish', 
-      author: 'Edmund Knight⚔🏹', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/congratulations-floppy-fish/5016698883457024/4743124767522816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/congratulations-floppy-fish/5016698883457024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Isometric Blocks', 
-      author: 'Green Ghost', 
-      votes: 69, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696/5127148665094144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/isometric-blocks/6377160992669696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
   ];
 };
