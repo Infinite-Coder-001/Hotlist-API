@@ -65,7 +65,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 58, 
       forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5739477354201088.png', 
@@ -146,7 +146,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'lol, chromium_coder is hacked and ur hatin\' on him', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344/6155617037500416.png', 
@@ -209,7 +209,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The Universe', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
@@ -371,7 +371,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Microsoft Office Users be like...', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/6478499995238400.png', 
@@ -398,7 +398,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Goomba HTML/CSS ONLY', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 16, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
@@ -425,7 +425,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Super Cool Website', 
-      author: 'CHROMIUM_SUCKER', 
+      author: 'CHROMIUM_IDIOT', 
       votes: 6, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-cool-website/5918116192501760/4555300948721664.png', 
