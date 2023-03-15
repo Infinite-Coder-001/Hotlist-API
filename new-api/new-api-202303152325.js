@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 38, 
+      votes: 36, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CLICK TO BE HORRIFIED', 
       author: 'Speedyspeedcuber', 
-      votes: 72, 
+      votes: 71, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128/6401734752911360.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Rexkitty', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5086714433683456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4986330931314688.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
@@ -838,42 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book" Mkay\'s Recipe Book', 
-      author: 'kuromiema2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book-mkays-recipe-book/5533791437504512/4823143950893056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book-mkays-recipe-book/5533791437504512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_671144476975344829536235'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'pilux0000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6634893729906688/6595282018287616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6634893729906688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9242700418822836704443249'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'gorecki.bartosz_nc_2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4877440893894656/5173888009158656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4877440893894656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_369885803803736649059772'
-    }, 
-    {
-      title: 'Your destiny, awaits', 
-      author: 'student97328', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/your-destiny-awaits/5056389464768512/6667221025996800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/your-destiny-awaits/5056389464768512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_750908179011135923142518'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'taylorfuller898', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6260758516383744/6105045609529344.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6260758516383744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165582439007183416813185'
+    }, 
+    {
+      title: 'Fairy house', 
+      author: 'Elib', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fairy-house/6376124148137984/5770798386429952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fairy-house/6376124148137984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_996275463400855753693868'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Christopher Kistler', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6259041427046400/6457590148284416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6259041427046400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_685560787079099565767570'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"- Kendra Hughes', 
+      author: 'hugheskendra75', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-kendra-hughes/5350232219238400/4721064724971520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-kendra-hughes/5350232219238400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5200366095499705881186749'
+    }, 
+    {
+      title: 'Lemme doo it for u', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lemme-doo-it-for-u/5289553978245120/5783907582918656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lemme-doo-it-for-u/5289553978245120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
