@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 60, 
+      votes: 59, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'for Mr. bob Lyon ', 
-      author: 'LovelyPetals', 
-      votes: 38, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'SubPage', 
       author: 'Arrow.programming', 
       votes: 7, 
@@ -235,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'for Mr. bob Lyon ', 
+      author: 'LovelyPetals', 
+      votes: 37, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
       votes: 6, 
@@ -242,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
-      title: 'What is cooking?!', 
-      author: 'Buster', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680/5575783752187904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
       title: 'Lavender Galaxy MC SKIN', 
@@ -287,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
+      title: 'What is cooking?!', 
+      author: 'Buster', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680/5575783752187904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
       title: 'Dune Raiders', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_656382324631306036019767'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'gustas.svambarys', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'nov12cvm', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5208296174960640/5778308556177408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5208296174960640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_963952775480331714995876'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6377029782257664/5316965222891520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6377029782257664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_902683261264717824273903'
     }, 
     {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Alicja Akulicz', 
+      title: 'Derivado de "Conceptos básicos de HTML"', 
+      author: 'arnau mas petraviciute', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6446268396388352/5806950384451584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6446268396388352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520160425898967681511546'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6144651382013952/5773484653592576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6144651382013952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1678939747626365963480484'
     }, 
     {
-      title: ' "Proyecto: diseño de anuncio"Enrique Ruiz Reyes', 
-      author: 'eruirey2110', 
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'sarkar.aditya.mail', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-diseo-de-anuncioenrique-ruiz-reyes/6368838994411520/5658659994779648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-diseo-de-anuncioenrique-ruiz-reyes/6368838994411520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_210373508802963124687796'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5978512727261184/4758084407050240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5978512727261184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_561154739668339658024966'
     }, 
     {
       title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'paumentaltorrent', 
+      author: 'sergimengual2007', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6724720135553024/5846683479228416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6724720135553024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_995099910811051747867180'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4702560210698240/5917856841908224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4702560210698240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_743526575246785826680590'
     }, 
     {
-      title: 'Derivado de "Enemics objectes 2.0"', 
-      author: 'ildeocon', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'yehudakon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-enemics-objectes-20/5636629673066496/5070614262235136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-enemics-objectes-20/5636629673066496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_416955501478790122849349'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5900098930524160/4817252396613632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5900098930524160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3390484560785861777753000'
     }, 
   ];
 };
