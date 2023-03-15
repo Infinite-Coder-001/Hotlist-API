@@ -604,12 +604,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_796009814440543841155154'
     }, 
     {
-      title: 'Canceled Subject 1', 
+      title: 'Test subject 1', 
       author: 'Royal Advisor Floppy Fish', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/canceled-subject-1/5909780927660032/6581937873666048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/canceled-subject-1/5909780927660032', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-1/5909780927660032/5050357871067136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test-subject-1/5909780927660032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
@@ -757,15 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_491122039730638374482742'
     }, 
     {
-      title: 'Spin-off of "Contest: What\'s Cooking?"', 
-      author: 'QueenCoder', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/5086777113362432/6112919559651328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/5086777113362432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
-    }, 
-    {
       title: 'Spin-off of "Project: Build-a-House"', 
       author: 'zoobiya shaikh', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5587336299855872.png', 
       link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'Circular 2', 
+      author: '368934', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circular-2/4881548149309440/5829678680293376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circular-2/4881548149309440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_26759296845012973168798'
     }, 
   ];
 };
