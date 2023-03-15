@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: ' be horrified (I\'ll keep adding jokes this week)', 
       author: 'Speedyspeedcuber', 
-      votes: 62, 
+      votes: 61, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128/6576169740976128.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-ill-keep-adding-jokes-this-week/4956245650096128', 
@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'Arwen Undómiel', 
       votes: 18, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4926863132901376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5819362739273728.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
@@ -65,7 +65,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 58, 
       forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-platformer-updated/4553687731322880/5739477354201088.png', 
@@ -146,7 +146,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'lol, chromium_coder is hacked and ur hatin\' on him', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344/6155617037500416.png', 
@@ -209,7 +209,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The Universe', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
@@ -256,7 +256,7 @@ var LoadHotlistAPI = function() {
       title: 'Program New', 
       author: 'LightningCoder', 
       votes: 12, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -362,7 +362,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Microsoft Office Users be like...', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/6478499995238400.png', 
@@ -389,7 +389,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Goomba HTML/CSS ONLY', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 16, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/goomba-htmlcss-only/5788800532135936/4934000093478912.png', 
@@ -416,7 +416,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Super Cool Website', 
-      author: 'CHROMIUM_IDIOT', 
+      author: 'CHROMIUM_CODER', 
       votes: 6, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-cool-website/5918116192501760/4555300948721664.png', 
@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 3, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584/4555740746661888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584/4565575819116544.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-subject-3/6721355842371584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
