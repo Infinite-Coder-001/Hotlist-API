@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
-      votes: 18, 
+      votes: 19, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flag CHROMIUM', 
       author: 'ArcticWolf', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
       link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
@@ -230,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'cjcool', 
       votes: 16, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lavender-galaxy-mc-skin/4648895533858816/6514446522695680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lavender-galaxy-mc-skin/4648895533858816/6254411209031680.png', 
       link: 'https://www.khanacademy.org/computer-programming/lavender-galaxy-mc-skin/4648895533858816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/4828759167647744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/5150762311401472.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -503,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280/4666547513901056.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Lightning Driver, Esq.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/5952377574440960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
       title: 'Cat playing Animated', 
@@ -838,67 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_678676627707617716546012'
     }, 
     {
-      title: 'Flashbacks', 
-      author: 'KarLlr', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960/4603241205907456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashbacks/5744688223272960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
-      title: 'Logo for LightingCoder', 
-      author: 'PenGwen', 
-      votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-lightingcoder/5547183590129664/6384410255736832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-lightingcoder/5547183590129664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'ariantonmendi', 
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'anearrospide', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5618289013473280/4734777548914688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5618289013473280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1159805800733048661645289'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6006272887668736/6254967013031936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6006272887668736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1171141510724002927362141'
     }, 
     {
-      title: 'Star Wars - (Intro to) A New Hope', 
-      author: 'MallekToins', 
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'adriangranado', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-intro-to-a-new-hope/5338920198127616/4996416772816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/star-wars-intro-to-a-new-hope/5338920198127616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485747606517914347780517'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4832397390823424/6707823046344704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4832397390823424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_222680281510972243996853'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Wolfgang Wilson', 
+      title: 'Sunny devil day 😈', 
+      author: 'jamatulli32', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4645554015748096/4994714288046080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4645554015748096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5566275518784568094864046'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-devil-day/5353522281627648/4583866071564288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-devil-day/5353522281627648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_857589844685411673275347'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Deivy Nevarez', 
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'lamosamateo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5717381123194880/4511378398560256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5717381123194880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8481573132798463305413173'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5835425128431616/5287855603892224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5835425128431616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1064036678302844669849986'
     }, 
     {
-      title: 'New program', 
-      author: 'FROG', 
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'yhearlynmadissoncapia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5038650058653696/4896654950187008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5038650058653696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_235614852104667612895116'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5750112783745024/4869935002337280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5750112783745024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'mcginley.serena', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5230715694530560/6386868797358080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5230715694530560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890944807988420729319973'
     }, 
   ];
 };
