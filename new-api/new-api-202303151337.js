@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 31, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CLICK TO BE HORRIFIED', 
       author: 'Speedyspeedcuber', 
-      votes: 65, 
+      votes: 66, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128/6401734752911360.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128', 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/5150762311401472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/5406377290022912.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
     }, 
     {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'zoobiya shaikh', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5909093363793920/6334813391077376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5909093363793920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_678676627707617716546012'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'anearrospide', 
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Lange  Buhle Siphosethu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6006272887668736/6254967013031936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6006272887668736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1171141510724002927362141'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5556864958119936/6664984186896384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5556864958119936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3573163628842515258304784'
     }, 
     {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'adriangranado', 
+      title: 'Travel Webpage Project: Lake Samila Michael Bourret March 2023', 
+      author: 'Michael Joseph', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4832397390823424/6707823046344704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4832397390823424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_222680281510972243996853'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/travel-webpage-project-lake-samila-michael-bourret-march-2023/4847949232521216/5197597386260480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/travel-webpage-project-lake-samila-michael-bourret-march-2023/4847949232521216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_682180118862411122660244'
     }, 
     {
-      title: 'Sunny devil day 😈', 
-      author: 'jamatulli32', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'krystal  cruz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-devil-day/5353522281627648/4583866071564288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-devil-day/5353522281627648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_857589844685411673275347'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'lamosamateo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5835425128431616/5287855603892224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5835425128431616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1064036678302844669849986'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'yhearlynmadissoncapia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5750112783745024/4869935002337280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5750112783745024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5403361216348160/4637692094889984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5403361216348160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9131413884279354160280562'
     }, 
     {
       title: 'Spin-off of "Project: Shooting star"', 
-      author: 'mcginley.serena', 
+      author: 'xavier.haskell', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5230715694530560/6386868797358080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5230715694530560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_890944807988420729319973'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5866792818098176/6326195555975168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5866792818098176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_318830773595884775179227'
+    }, 
+    {
+      title: 'giggity', 
+      author: 'rivera.timothy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/giggity/5208668889202688/5692299504041984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/giggity/5208668889202688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247620203311804342039331'
+    }, 
+    {
+      title: 'fish', 
+      author: 'mayo.arianna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fish/4702484671283200/4539333837373440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fish/4702484671283200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7556130728176381264056794'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'price.woolls', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4934544681910272/6603293516414976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4934544681910272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_78384557009225420578040'
     }, 
   ];
 };
