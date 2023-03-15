@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'kamal shoushan', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/po-3-kamal-arman-en-gudur/6606358084632576/4721678620082176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/po-3-kamal-arman-en-gudur/6606358084632576/6439441663311872.png', 
       link: 'https://www.khanacademy.org/computer-programming/po-3-kamal-arman-en-gudur/6606358084632576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
