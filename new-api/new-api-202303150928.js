@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
+      author: 'CylenceScythe (Online)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
       title: 'Khancraft ver 5.19', 
       author: 'Black Nightmare', 
       votes: 9, 
@@ -208,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Program New', 
+      author: 'LightningCoder', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Lavender Galaxy MC SKIN', 
       author: 'cjcool', 
       votes: 15, 
@@ -233,24 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864/5823230625759232.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-11-on-the-edge/6563381870116864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
-    }, 
-    {
-      title: 'Program New', 
-      author: 'LightningCoder', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Online)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
       title: 'The Universe', 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'Oh wow, its pi day! (Game)', 
+      author: '‮e09', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/5932449916043264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
+    }, 
+    {
       title: 'Here comes crazy man...', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 39, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240/6478499995238400.png', 
       link: 'https://www.khanacademy.org/computer-programming/microsoft-office-users-be-like/6199809298186240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
-    }, 
-    {
-      title: 'Oh wow, its pi day! (Game)', 
-      author: '‮e09', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008/5932449916043264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-wow-its-pi-day-game/4812775161643008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
     {
       title: 'Spin-off of "Project: Shooting star"', 
