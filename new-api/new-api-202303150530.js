@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
+      title: 'Flag CHROMIUM', 
+      author: 'ArcticWolf', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -145,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Flag CHROMIUM', 
-      author: 'ArcticWolf', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
       title: 'Futuristic Clock', 
       author: 'Lightning Driver, Esq.', 
       votes: 24, 
@@ -170,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'lol, chromium_coder is hacked and ur hatin\' on him', 
-      author: 'CHROMIUM_SUCKER', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344/6155617037500416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol-chromium_coder-is-hacked-and-ur-hatin-on-him/4537420295225344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
       title: 'Khancraft ver 5.19', 
@@ -559,15 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'Legend of Zelda (Nintendo Contest Entry)', 
-      author: 'bubbapeanut', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/legend-of-zelda-nintendo-contest-entry/6393387332976640/6107527026884608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/legend-of-zelda-nintendo-contest-entry/6393387332976640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1002380822530159774445327'
-    }, 
-    {
       title: 'Game test 2', 
       author: 'Royal Advisor Floppy Fish', 
       votes: 2, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4954579630604288/6183468960890880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4954579630604288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998080520931912175844182'
+    }, 
+    {
+      title: '3D Target Practice', 
+      author: 'Patrick', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248/4561999671640064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-target-practice/5066108229173248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276230091395179716195810'
+    }, 
+    {
+      title: 'Raymarching', 
+      author: 'Manta', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5587336299855872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
   ];
 };
