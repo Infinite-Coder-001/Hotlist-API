@@ -19,15 +19,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Collaboration between LJE, Seth, and Arwen.', 
-      author: 'Arwen Undómiel', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/6159860649738240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
       title: 'pi', 
       author: 'Reader ✔', 
       votes: 26, 
@@ -35,6 +26,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5230329751453696.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'Collaboration between LJE, Seth, and Arwen.', 
+      author: 'Arwen Undómiel', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4926863132901376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'P3D but BETTER', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Flag CHROMIUM', 
-      author: 'ArcticWolf', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
       title: 'Futuristic Clock', 
       author: 'Lightning Driver, Esq.', 
       votes: 24, 
@@ -172,13 +163,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
     }, 
     {
-      title: 'SubPage', 
-      author: 'Arrow.programming', 
-      votes: 7, 
+      title: 'Flag CHROMIUM', 
+      author: 'ArcticWolf', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
       title: 'Windy Fisher', 
@@ -226,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
-      title: 'Program New', 
-      author: 'LightningCoder', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'The Universe', 
       author: 'CHROMIUM_SUCKER', 
       votes: 27, 
@@ -242,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664/6722303444697088.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-universe/5086425664241664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_769252680501985808642022'
+    }, 
+    {
+      title: 'SubPage', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088/5386345713549312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/5694044653273088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Pie', 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632/5954132211187712.png', 
       link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
+      title: 'Program New', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/4591397867143168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Lavender Galaxy MC SKIN', 
@@ -307,24 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
-      title: 'Pi Day Comic LOL 🥧', 
-      author: 'Just a coder.', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5390122919182336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
-    }, 
-    {
-      title: 'Tomato sauce with herbs... :P', 
-      author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/6749057769062400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
       votes: 40, 
@@ -352,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Pi Day Comic LOL 🥧', 
+      author: 'Just a coder.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5390122919182336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
+    }, 
+    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
       votes: 3, 
@@ -368,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304/5762122938368000.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Tomato sauce with herbs... :P', 
+      author: 'WinstonWinner000 (Parlor Indie)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5697940691927040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
       title: 'Don\'t click!', 
