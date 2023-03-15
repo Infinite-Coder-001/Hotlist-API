@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'kamal shoushan', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576/5192751589408768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576/5026080417431552.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_393697467147917530479889'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'mmgarcia173', 
-      votes: 3, 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '20matthewstephenson', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4542118687457280/6708986537885696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4542118687457280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1359857463955846182070110'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5135766349201408/4631367470333952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5135766349201408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_741423234183015032671034'
     }, 
     {
-      title: 'NINTENDO Contest', 
-      author: 'PenGwen', 
-      votes: 36, 
-      forks: 8, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424/4615055788523520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nintendo-contest/6026064327655424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'manuellozano935', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4564514198831104/5367798635479040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4564514198831104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153746547005521287651910'
     }, 
   ];
 };
