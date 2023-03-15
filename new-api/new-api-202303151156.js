@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 27, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Emma', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/5650007179182080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/6600574223302656.png', 
       link: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_656382324631306036019767'
     }, 
     {
-      title: 'barco', 
-      author: 'capir.2022116isinf0210', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/barco/4811271402995712/5179584343752704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/barco/4811271402995712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1174462236316167701773578'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'prodic.novak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6414881362591744/5390710608281600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6414881362591744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4179950300133128331297384'
-    }, 
-    {
-      title: 'Start of Avatar Wars 3(not even close to done yet)', 
-      author: 'Crystal Coding', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/start-of-avatar-wars-3not-even-close-to-done-yet/5590661401460736/4840927489474560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/start-of-avatar-wars-3not-even-close-to-done-yet/5590661401460736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
       title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'LinHao', 
+      author: 'nov12cvm', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5799784080523264/4744127256510464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5799784080523264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_755977439487590040583198'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6377029782257664/5316965222891520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6377029782257664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_902683261264717824273903'
+    }, 
+    {
+      title: 'Derivado de "Conceptos básicos de HTML"', 
+      author: 'arnau mas petraviciute', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6144651382013952/5773484653592576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6144651382013952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1678939747626365963480484'
     }, 
     {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'venucsit', 
+      author: 'sarkar.aditya.mail', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5656523718311936/5360222699044864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5656523718311936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_73195185000627712302384'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5978512727261184/4758084407050240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5978512727261184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_561154739668339658024966'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'sergimengual2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4702560210698240/5917856841908224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4702560210698240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_743526575246785826680590'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'yehudakon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5900098930524160/4817252396613632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5900098930524160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3390484560785861777753000'
     }, 
   ];
 };
