@@ -46,27 +46,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'khanmigo is soo cute!', 
-      author: 'soap.', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
-      votes: 25, 
+      votes: 24, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
+      title: 'khanmigo is soo cute!', 
+      author: 'soap.', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
+    }, 
+    {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Online)', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/4918688669286400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/6291084676481024.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-sure/4661596272246784/5800364941295616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-sure/4661596272246784/6084767592529920.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-sure/4661596272246784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -757,148 +757,148 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7377847465845463950969303'
     }, 
     {
-      title: 'Derivado de "rect(x, y, width, height, radius)"', 
-      author: 'xcontreras848', 
+      title: 'Facts about Rabbits', 
+      author: 'SIENNAD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/5290360517738496/5411393946042368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/5290360517738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_946209446200804155744425'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/facts-about-rabbits/4893528868306944/6008664530141184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/facts-about-rabbits/4893528868306944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4874959451058468673676511'
     }, 
     {
-      title: 'HTML opgave 2 ', 
-      author: 'unordkwil', 
+      title: 'Derivado de "Conceptos básicos de HTML"', 
+      author: 'Ortega Gonzalez Maria Fernanda ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-opgave-2/5581710286962688/4675092150009856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/html-opgave-2/5581710286962688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_401271081767125101931627'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5152877113032704/4619648400408576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5152877113032704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_876886307984999774964885'
     }, 
     {
-      title: '', 
-      author: 'andoni.espinaco', 
+      title: 'Derivado de "Proyecto: pecera"', 
+      author: 'Pedro Amado', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4814378845388800/6229730003304448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/4814378845388800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295622235447220720580317'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6151377149804544/6690887184990208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6151377149804544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1025352129709720179937006'
     }, 
     {
-      title: 'New webpage', 
-      author: 'nsdavis11', 
+      title: 'Spin-off of "HTML basics"', 
+      author: '23sullivan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6355317447507968/5262136064655360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6355317447507968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_157866220575133988763140'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6402917236260864/5145014990848000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6402917236260864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_360155088590256658472894'
     }, 
     {
-      title: 'Derivado de "rect(x, y, width, height, radius)"', 
+      title: 'Spin-off of "HTML basics"', 
+      author: 'SimonB', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5391872799588352/5145292150456320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5391872799588352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_810052030484297868787592'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'itsanaya14', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6562771884097536/6237996171182080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6562771884097536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62438591512419119245849'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'itsanaya14', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6618543980593152/5879817256091648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6618543980593152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62438591512419119245849'
+    }, 
+    {
+      title: 'Protocol Thwart', 
+      author: 'Royal Advisor Floppy Fish', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/protocol-thwart/5150074126778368/5499867705425920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/protocol-thwart/5150074126778368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'agrassi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4728816293691392/5695559065452544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4728816293691392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_286295980593804491248369'
+    }, 
+    {
+      title: 'blink', 
+      author: 'vaughan.kaylee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blink/4546552066785280/4729065762504704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blink/4546552066785280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_179581041964255099736530'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
       author: 'Ana Càrdenas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/4668383276875776/5870559739297792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/4668383276875776', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5341943410507776/6198884236050432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5341943410507776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5516853702192523167243353'
     }, 
     {
-      title: 'Derivado de "rect(x, y, width, height, radius)"', 
-      author: 'angelreglacolpat', 
+      title: 'Spin off of Dorthy Vuaghn', 
+      author: 'nsdavis11', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/5820214216540160/6162105466404864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/5820214216540160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_141864719704892999757089'
-    }, 
-    {
-      title: 'heheh snowman', 
-      author: 'jeremy.rhee29', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heheh-snowman/5028743783694336/4566075176173568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heheh-snowman/5028743783694336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520623198008636194889093'
-    }, 
-    {
-      title: 'snowman', 
-      author: 'martin.kaufmann29', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman/5933104982441984/5897397228322816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snowman/5933104982441984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553721106604319147645124'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dorthy-vuaghn/5666286715846656/5519123218219008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dorthy-vuaghn/5666286715846656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_157866220575133988763140'
     }, 
     {
       title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'Carvalho Diaz Tomas', 
+      author: 'Salazar Ramos Juan José', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4559264867991552/6436118667247616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4559264867991552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_425049229938691002657372'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4575549286825984/5567127396597760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4575549286825984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_304721191138870986186300'
     }, 
     {
-      title: 'mincraft sertch', 
-      author: 'mark.minichan', 
+      title: 'Harfang', 
+      author: 'Catherine De Viveiros', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mincraft-sertch/5967762398953472/4809373228777472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mincraft-sertch/5967762398953472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1002978140245677184804097'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harfang/4547651796516864/4824778840260608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harfang/4547651796516864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5074470123116950077684259'
     }, 
     {
-      title: 'cuadros de wendy', 
-      author: 'Wendy Ramires', 
+      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
+      author: 'sol', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cuadros-de-wendy/5404050843811840/4558439496073216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cuadros-de-wendy/5404050843811840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_631941490514545881077076'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/6663966682300416/6705030730399744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/6663966682300416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266768979195149985604210'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Benjamin Roach', 
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'Ana Càrdenas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6195107433070592/4521204193214464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6195107433070592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3924157196791022463530497'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'chase.morse', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6648835294412800/5369575158104064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6648835294412800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1129069391972573069649541'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'freydanelson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6256385241432064/6348278868525056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6256385241432064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_650512924568122227204784'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'arosen817', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5451937028030464/5795056311386112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5451937028030464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_106584905684326341906956'
-    }, 
-    {
-      title: 'Derivado de "rect(x, y, width, height, radius)"', 
-      author: 'joseangelguerrerobarajas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/6466736557965312/5035903494176768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-rectx-y-width-height-radius/6466736557965312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_413782516815810458414860'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4818255825125376/4570514729517056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4818255825125376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5516853702192523167243353'
     }, 
   ];
 };
