@@ -559,12 +559,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287411428229377754016820'
     }, 
     {
-      title: 'PO-3 kamal, Arman en Gudur', 
+      title: 'Spin-off of "PO3-kamal, Arman en Gudur"', 
       author: 'kamal shoushan', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/po-3-kamal-arman-en-gudur/6606358084632576/5238752433979392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/po-3-kamal-arman-en-gudur/6606358084632576', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576/5542575065055232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-po3-kamal-arman-en-gudur/6606358084632576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
     {
