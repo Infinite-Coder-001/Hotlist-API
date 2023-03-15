@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'New program', 
+      author: 'sgardiner23', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 11, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'New program', 
-      author: 'sgardiner23', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
+      title: 'Khancraft ver 5.19', 
+      author: 'Black Nightmare', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/6578455628267520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
+    }, 
+    {
       title: 'Pie', 
       author: 'Ducky Momo', 
       votes: 8, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'Khancraft ver 5.19', 
-      author: 'Black Nightmare', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/6578455628267520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'for Mr. bob Lyon ', 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Royal Advisor Floppy Fish', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/6033487159410688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656/4828759167647744.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-hope-i-dont-regret-this/5644082070470656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -758,7 +758,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Medium 1 Ne"SS"', 
-      author: 'S S [Offline]', 
+      author: 'S S [Online]', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/medium-1-ness/6169781445378048/5819007464947712.png', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Bayron Marcano', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'ariantonmendi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5867355391705088/5283568270229504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5867355391705088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4422828075223931603237595'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5618289013473280/4734777548914688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5618289013473280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1159805800733048661645289'
+    }, 
+    {
+      title: 'Star Wars - (Intro to) A New Hope', 
+      author: 'MallekToins', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-intro-to-a-new-hope/5338920198127616/4996416772816896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/star-wars-intro-to-a-new-hope/5338920198127616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485747606517914347780517'
     }, 
     {
       title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Reagan Wokorach', 
+      author: 'Wolfgang Wilson', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5208862162731008/4748718257782784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5208862162731008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4572140103085419093688025'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4645554015748096/4994714288046080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4645554015748096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5566275518784568094864046'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'oliviadsummerville', 
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Deivy Nevarez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5726077140123648/6515136066273280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5726077140123648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5030184413827187964853588'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5717381123194880/4511378398560256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5717381123194880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8481573132798463305413173'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Katia Gómez', 
+      title: 'New program', 
+      author: 'FROG', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6455795321716736/4741455484862464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6455795321716736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7701862347237679873396060'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'Wisal Lehbil Rhaiti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4942119594934272/6570844057026560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4942119594934272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19055239347673777601220'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5038650058653696/4896654950187008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5038650058653696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_235614852104667612895116'
     }, 
   ];
 };
