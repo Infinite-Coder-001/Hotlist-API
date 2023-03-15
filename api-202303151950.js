@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 28, 
+      votes: 29, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 42, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'pi', 
       author: 'Reader ✔', 
-      votes: 40, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5418203365031936.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6364932453220352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6753475075817472.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -190,22 +190,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Khancraft ver 5.19', 
-      author: 'Black Nightmare', 
-      votes: 13, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
-    }, 
-    {
       title: 'Random emojis (^-^*)', 
       author: 'verdertrio', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5432261933842432.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
+    }, 
+    {
+      title: 'Khancraft ver 5.19', 
+      author: 'Black Nightmare', 
+      votes: 13, 
+      forks: 13, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'Pie', 
@@ -224,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/4931670920970240.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Program New', 
+      author: 'LightningCoder', 
+      votes: 18, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/5075921994563584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'LOGO CONTEST FOR ME', 
@@ -253,22 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
-      title: 'Program New', 
-      author: 'LightningCoder', 
-      votes: 17, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632/5075921994563584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-new/6091609878085632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'for Mr. bob Lyon', 
-      author: 'LovelyPetals', 
-      votes: 42, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5601801808429056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      title: 'Contest: New Subpage', 
+      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/5028934305759232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
   ];
 };
