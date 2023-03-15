@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Online)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
       title: 'The Universe', 
       author: 'CHROMIUM_SUCKER', 
       votes: 27, 
@@ -307,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
     {
+      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
+      author: 'CylenceScythe (Online)', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
       votes: 4, 
@@ -336,7 +336,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cute Pikachu', 
       author: 'ArcticWolf', 
-      votes: 41, 
+      votes: 40, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
@@ -458,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048/4752918710632448.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-apollo-mission-in-images/6716637946626048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'Love &#60;3', 
-      author: 'Aluuf', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896/6699164476162048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_469061401168313036164163'
     }, 
     {
       title: 'Platformer v0.1', 
@@ -665,6 +656,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5869617899945984/5385472560119808.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5869617899945984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'Love &#60;3', 
+      author: 'Aluuf', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896/6699164476162048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_469061401168313036164163'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
