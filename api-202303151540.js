@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'pi', 
       author: 'Reader ✔', 
-      votes: 33, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5418203365031936.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 60, 
+      votes: 61, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 61, 
+      votes: 62, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
+      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
+      author: 'CylenceScythe (Online)', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
       votes: 40, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496/4986688671891456.png', 
       link: 'https://www.khanacademy.org/computer-programming/never-say-goodbye-for-aragorn-elessar/5140694119530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Online)', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/4517092919656448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
@@ -84,11 +84,20 @@ var LoadHotlistAPI = function() {
     {
       title: '- Living The Dream -', 
       author: 'Xiøn 😋🤩', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'New program', 
+      author: 'sgardiner23', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
       title: 'Windy Fisher', 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/6569266596069376.png', 
       link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'New program', 
-      author: 'sgardiner23', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
@@ -127,49 +127,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987182949924628851050037'
     }, 
     {
-      title: 'GLITCH [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 113, 
-      forks: 8, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Messi The Goat', 
-      author: 'Timothy Lightson', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit[WIP]', 
-      author: 'Hibernia', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280/4666547513901056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
-      votes: 8, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit[WIP]', 
+      author: 'Hibernia', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280/4666547513901056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnitwip/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Messi The Goat', 
+      author: 'Timothy Lightson', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/4796649052618752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Pi Day Comic LOL 🥧', 
       author: 'Just a coder.', 
-      votes: 10, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5390122919182336.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
+    }, 
+    {
+      title: 'GLITCH [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 115, 
+      forks: 8, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Khancraft ver 5.19', 
+      author: 'Black Nightmare', 
+      votes: 12, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'Pie', 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256/4807053275348992.png', 
       link: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Khancraft ver 5.19', 
-      author: 'Black Nightmare', 
-      votes: 11, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/6578455628267520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'Random emojis (^-^*)', 
