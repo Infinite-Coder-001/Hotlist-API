@@ -559,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1002380822530159774445327'
     }, 
     {
+      title: 'Game test 2', 
+      author: 'Royal Advisor Floppy Fish', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-test-2/4569372469542912/6126782288019456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-test-2/4569372469542912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'Zap Oh-Noes!', 
       author: '🍕TheGreatPizzaMan🍕', 
       votes: 5, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/protocol-thwart/5150074126778368/5499867705425920.png', 
       link: 'https://www.khanacademy.org/computer-programming/protocol-thwart/5150074126778368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Raymarching', 
-      author: 'Manta', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008/5587336299855872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raymarching/5238741335851008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
   ];
 };
