@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 33, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'pi', 
       author: 'Reader ✔', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/5230329751453696.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Shift', 
       author: 'Logix Indie', 
-      votes: 59, 
+      votes: 60, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
@@ -46,6 +46,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Flag CHROMIUM', 
+      author: 'ArcticWolf', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
+      title: 'Contest: What\'s Cooking? - HTML Submissions', 
+      author: 'Evan Lewis', 
+      votes: 20, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
+    }, 
+    {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
       votes: 39, 
@@ -55,31 +73,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Contest: What\'s Cooking? - HTML Submissions', 
-      author: 'Evan Lewis', 
-      votes: 19, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
-    }, 
-    {
-      title: 'Flag CHROMIUM', 
-      author: 'ArcticWolf', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664/5993349087805440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flag-chromium/5671807896305664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
       title: 'Intro for me! (Tell me what you think)', 
       author: 'Animation Guy', 
       votes: 17, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768/6153999592243200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768/5552385391116288.png', 
       link: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
+      title: 'Windy Fisher', 
+      author: 'Arrow.programming', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/6569266596069376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Super Mario PLATFORMER!! UPDATED', 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
-    }, 
-    {
-      title: 'Windy Fisher', 
-      author: 'Arrow.programming', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/6569266596069376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'my camera', 
@@ -201,7 +201,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for Mr. bob Lyon', 
       author: 'LovelyPetals', 
-      votes: 39, 
+      votes: 40, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/5300968139046912.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
