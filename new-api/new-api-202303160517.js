@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'Speedyspeedcuber', 
       votes: 73, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6050483754287104.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
@@ -856,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Challenge: Recipe Card"', 
-      author: 'b.ramalks1982', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6555134324948992/6699559059505152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6555134324948992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218974483781364681238673'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'roderipper12', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480/6635301399478272.png', 
       link: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6725321708645908247851994'
+    }, 
+    {
+      title: 'Spin-off of "Project: bazaar"', 
+      author: 'pilux0000', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480/6401883331936256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9242700418822836704443249'
     }, 
   ];
 };
