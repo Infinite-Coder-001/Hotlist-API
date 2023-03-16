@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'BURGER STACK (3.0)', 
+      author: 'redcharr', 
+      votes: 29, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-30/6553942723182592/6201177849249792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/burger-stack-30/6553942723182592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
+    }, 
+    {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
       votes: 45, 
@@ -19,31 +28,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'BURGER STACK (3.0)', 
-      author: 'redcharr', 
-      votes: 28, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-30/6553942723182592/6201177849249792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/burger-stack-30/6553942723182592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
-    }, 
-    {
-      title: 'Happy Pi Day!', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6753475075817472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'Happy Pi Day!', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6753475075817472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Messi The Goat', 
+      author: 'Timothy Lightson', 
+      votes: 28, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
       votes: 33, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
-    }, 
-    {
-      title: 'Messi The Goat', 
-      author: 'Timothy Lightson', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
+      title: 'GPT 5 goes farming (Comica #2)', 
+      author: 'Hibernia', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/5108256228032512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Random emojis (^-^*)', 
       author: 'verdertrio', 
       votes: 13, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5081764802641920.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
-    }, 
-    {
-      title: 'GLITCH [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 123, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
   ];
 };
