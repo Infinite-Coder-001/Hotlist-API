@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6753475075817472.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'This May Be a Joke', 
-      author: 'Volatile ✝︎', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104/5563640218697728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 22, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: 'This May Be a Joke', 
+      author: 'Volatile ✝︎', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104/5563640218697728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Betterer Rainbow', 
-      author: 'thompson.brantlee', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'palizas.pedro', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/betterer-rainbow/6430234763378688/5732777893085184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/betterer-rainbow/6430234763378688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_105881129639923507456904'
-    }, 
-    {
-      title: 'Driving car', 
-      author: 'bethelcagbogwu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/driving-car/5351346813583360/5500160480428032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/driving-car/5351346813583360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_691012541378968532637042'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'b023a1cnmejiatm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4690983830994944/5985295202041856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4690983830994944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62783573374197242693650'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Alexander García', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5842464764379136/5664075210342400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5842464764379136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7127972057591105407430926'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5041590701965312/5108497400512512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5041590701965312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_41836177068395334381273'
     }, 
     {
       title: 'New program', 
-      author: 'Baseball', 
+      author: 'NL#Midsane', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6658042496335872/4806717546479616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6658042496335872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_409866928458143861262808'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'SallyR', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4714362025852928/4766655467274240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4714362025852928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1022638161232206059796272'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
+      author: 'João Gabriel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/5556551693942784/5517540522770432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/5556551693942784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_447685472892398139781236'
+    }, 
+    {
+      title: 'GPA table', 
+      author: 'ginacavaseno', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpa-table/5810145756233728/4956347764621312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpa-table/5810145756233728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1660316378930935522280466'
     }, 
   ];
 };
