@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'pi', 
       author: 'Reader ✔', 
-      votes: 43, 
+      votes: 44, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/4970556573401088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Sumthin...', 
-      author: 'Xiøn 😋🤩', 
+      title: 'balls', 
+      author: 'Nelima Le Roux', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sumthin/6226177914355712/5109068446613504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sumthin/6226177914355712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/balls/6358052788027392/5794374569213952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/balls/6358052788027392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1785099527184300439866864'
     }, 
     {
-      title: '- Rubix Cube -', 
-      author: 'Xiøn 😋🤩', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Tsoa', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5322904600625152/6412456987770880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5322904600625152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5223964358262784/6301539071475712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5223964358262784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27834958665742970807406'
     }, 
     {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'ses22010190', 
+      title: 'New webpage animal', 
+      author: 'SyedS', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4771591156449280/4623227165130752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4771591156449280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_81128892800115312609548'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage-animal/5010759899987968/5994809536069632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage-animal/5010759899987968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1160999552285644424851508'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Alibek Sartbai ', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'yerulan.abusalim', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6498635993104384/5636657665851392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6498635993104384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063832577584813457028314'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5173024586514432/5108091299610624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5173024586514432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_53969672906972940787076'
     }, 
     {
-      title: '- FunkyCat -', 
-      author: 'Xiøn 😋🤩', 
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'angeligbutton', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-funkycat-/5931456755187712/4804291124838400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-funkycat-/5931456755187712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4966981952651264/5015038912151552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4966981952651264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2374992408936274265113022'
     }, 
   ];
 };
