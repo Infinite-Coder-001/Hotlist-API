@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 67, 
+      votes: 66, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Loading screen', 
       author: 'Arrow.programming', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472/6459335280738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-screen/5161136922345472', 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Emma', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/5871185042915328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280/5480461130579968.png', 
       link: 'https://www.khanacademy.org/computer-programming/-pizza-/5593899135713280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
@@ -806,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/4724836410900480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/5168367466233856.png', 
       link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'mihailidesn.2025', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6517184161693696/5080657841930240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6517184161693696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1142238866039049339339954'
+      title: 'Noot Noot', 
+      author: 'Riparovenator65', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/noot-noot/6287518670831616/4537944449007616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/noot-noot/6287518670831616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
     }, 
     {
-      title: 'jet sim!', 
-      author: 'AndrewM', 
+      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
+      author: 'Debs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jet-sim/4932319268093952/5374021757878272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jet-sim/4932319268093952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1065240681971506003669342'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4512553273442304/6407890581897216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4512553273442304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_54520769804163337695674'
     }, 
     {
-      title: 'LovelyPetals mc', 
-      author: 'LovelyPetals', 
+      title: 'SQL-paso5-1', 
+      author: 'kuxhausks', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lovelypetals-mc/5171456403357696/5997892148183040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lovelypetals-mc/5171456403357696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-paso5-1/6602072697126912/6630120846835712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql-paso5-1/6602072697126912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1182619773734374195739181'
     }, 
     {
-      title: 'greece webpage', 
-      author: 'Tahlia', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Zarish Jamil', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/greece-webpage/4941206931161088/6436376633720832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/greece-webpage/4941206931161088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1152600271705299495828406'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5041981409771520/6259560396668928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5041981409771520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_836028416958209995476742'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'kualawills', 
+      title: 'Spin-off z "Projekt: Znane postacie"', 
+      author: 'Gosia Wichulska', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5743561146679296/6112496589258752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5743561146679296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3505188640652742642610319'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6695932177727488/6197374907367424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6695932177727488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9524717084542105431690013'
     }, 
     {
-      title: 'What is a neighbor?', 
-      author: 'H.M. Wogglebug T.E.', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Barbara Garcia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/5864076133842944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5149873622269952/5066153888366592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5149873622269952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1068617083280400255583922'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lillianwhitnell', 
+      title: 'Angle Calculator', 
+      author: '24mboys', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4676755560644608/6387567333523456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4676755560644608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8547191960412833303696821'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angle-calculator/4873512039006208/5137048363384832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angle-calculator/4873512039006208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_459688310955167834727840'
     }, 
   ];
 };
