@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 44, 
+      votes: 46, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5639636225671168.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 44, 
+      votes: 45, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 34, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
+      title: 'Realistic Cherries', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6488671819972608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 37, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'Realistic Cherries', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6488671819972608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'GPT 5 goes farming (Comica #2)', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'What is a neighbor?', 
+      author: 'H.M. Wogglebug T.E.', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
       title: 'P3D but BETTER', 
       author: 'Dat', 
       votes: 70, 
@@ -190,13 +199,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'What is a neighbor?', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 10, 
+      title: 'Unusual Fellow', 
+      author: 'mr. mustache', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: '- Living The Dream -', 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
-    }, 
-    {
-      title: 'Unusual Fellow', 
-      author: 'mr. mustache', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: '3D engine, efficient, more efficient, even more efficient, pov update', 
@@ -323,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832/5126398371217408.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
+      title: 'Cody the Catbot', 
+      author: 'Lisanne', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/4617537977630720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
     {
       title: 'Khancraft ver 5.19', 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664/5627350220062720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'Cody the Catbot', 
-      author: 'Lisanne', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/4617537977630720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
     {
       title: 'Salamander\'s Subpage', 
@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/6469306902953984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/5492863536513024.png', 
       link: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
