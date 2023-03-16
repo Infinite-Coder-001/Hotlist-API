@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
-      title: 'Spin-off z "Projekt: Data Mining"', 
-      author: 'kinga.cibor05', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'lucia.cazorla', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6066523208990720/4734208683851776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6066523208990720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_824322679653909024508569'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6488472422760448/5646497368817664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6488472422760448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178089611787240435278929'
     }, 
     {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'Isabella Gore', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'javier macho', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5214326686531584/4579103070273536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5214326686531584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3659963962717680004718003'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6621251588374528/4843456998719488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6621251588374528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7247816075010837807691610'
     }, 
     {
-      title: 'Loading', 
-      author: 'Avinasen', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'andreaaalow', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading/5696603665252352/5414664647524352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading/5696603665252352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5841899103764480/6084043538219008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5841899103764480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_826107886458238716569915'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'alekgajewski0511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5907317294153728/6288365484032000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5907317294153728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_806802302527590231089801'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Fatima Davids ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5871781640716288/5013589243248640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5871781640716288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7895331878144618738686372'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Lin Zi Ang', 
+      author: 'tomislavdronjic', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4960125540679680/4650134413819904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4960125540679680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7946934879751971661434995'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4868529163911168/4541940077215744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4868529163911168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Christiaan Holl', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6549010003574784/6381850815938560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6549010003574784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8740212178692239274849022'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Lin Zi Ang', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'lucia.cazorla', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5102137074040832/6559719705853952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5102137074040832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7946934879751971661434995'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'ragazzochaesa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5855137853915136/6182558142611456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5855137853915136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_587971861231399228367930'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6522636924665856/4924776516993024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6522636924665856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178089611787240435278929'
     }, 
   ];
 };
