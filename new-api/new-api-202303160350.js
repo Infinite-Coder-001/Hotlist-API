@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'BURGER STACK (2.0)', 
-      author: 'redcharr', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592/5911159779934208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
-    }, 
-    {
       title: 'Shift', 
       author: 'Logix Indie', 
       votes: 68, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
+    }, 
+    {
+      title: 'BURGER STACK (2.0)', 
+      author: 'redcharr', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592/5911159779934208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
       title: 'CLICK TO BE HORRIFIED', 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
-      title: 'Rope Physics', 
-      author: 'Rexkitty', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
-    }, 
-    {
       title: 'my camera', 
       author: 'The_Sockman', 
       votes: 31, 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5655073638367232.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
+    }, 
+    {
+      title: 'Rope Physics', 
+      author: 'Rexkitty', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
       title: 'Random emojis (^-^*)', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6584291557687296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/5874604390531072.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'Bittertide', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5516089813680128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/6398362817708032.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -865,15 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'graceichida', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6593977853984768/5243511777837056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6593977853984768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1538107153188211335188205'
-    }, 
-    {
       title: 'my dreams be like ', 
       author: 'LovelyPetals', 
       votes: 15, 
@@ -883,15 +874,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig" -- 2', 
-      author: 'Alexis Hernandez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-2/5260418908209152/5584139678171136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-2/5260418908209152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1494689471442929427931416'
-    }, 
-    {
       title: 'Platformer v0.2', 
       author: 'Archbirdplus', 
       votes: 15, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920/4809137072685056.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: '106 from KING, a PICO-8 bullet hell game', 
+      author: 'StuffStash', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072/4724836410900480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/106-from-king-a-pico-8-bullet-hell-game/6471117256835072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Spin-off of "Readable Code"', 
+      author: 'trimblej', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5785812770013184/6015537383784448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5785812770013184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319330496161820460001007'
     }, 
   ];
 };
