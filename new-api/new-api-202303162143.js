@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
-      votes: 23, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
@@ -175,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'P3D but BETTER', 
       author: 'Dat', 
       votes: 69, 
-      forks: 8, 
+      forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'Tomato sauce with herbs... :P', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 16, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5190401504100352.png', 
       link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
@@ -577,15 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
-      title: 'Helping Someone', 
-      author: '▪Dipper98▪', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856/5475120003203072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'Math.sin() VS. sin() speed test: Math.sin() wins', 
       author: 'noNameCode', 
       votes: 2, 
@@ -674,15 +665,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4633892592336896/5472643082141696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4633892592336896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_215454306255500057483920'
-    }, 
-    {
-      title: 'Infinitely satisfying', 
-      author: 'fuchs.reed', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/infinitely-satisfying/5168907977801728/6130441935699968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinitely-satisfying/5168907977801728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_647166836803740203062861'
     }, 
     {
       title: '3d thing', 
@@ -820,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Infinitely satisfying', 
+      author: 'fuchs.reed', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinitely-satisfying/5168907977801728/6130441935699968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinitely-satisfying/5168907977801728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_647166836803740203062861'
+    }, 
+    {
       title: 'Astroid Dodge', 
       author: 'notzachariadahhan', 
       votes: 3, 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
-      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
-      author: 'mirelly trajano', 
+      title: 'Spin-off of "3D Ramp Pyramid *Check*"', 
+      author: 'Bearkirb314🐻‍❄️', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4798811769978880/4731440560652288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4798811769978880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8445428616292494255578273'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336/6365144466898944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: 'raps', 
-      author: '368880', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Jhojan Herrera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raps/5085242585300992/5099781989122048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raps/5085242585300992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_747107172272366546698246'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6405309457547264/5252811757764608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6405309457547264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4652115220739168382559675'
+    }, 
+    {
+      title: 'For my reference: WEBGL (acually) in program', 
+      author: 'noNameCode', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-my-reference-webgl-acually-in-program/6738468392976384/4513056858357760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-my-reference-webgl-acually-in-program/6738468392976384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
   ];
 };
