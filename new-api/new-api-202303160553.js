@@ -856,24 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Spooky Cool Scardy Shark!', 
-      author: 't.font151', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spooky-cool-scardy-shark/5732527677685760/5354733344964608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spooky-cool-scardy-shark/5732527677685760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6218431007052776213850763'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'ses22010152', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6028523905269760/4848839398047744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6028523905269760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_784216620349893223090685'
-    }, 
-    {
       title: 'Duolingo owl', 
       author: 'LovelyPetals', 
       votes: 14, 
@@ -883,22 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip" - Megan (IKS32 Mas)', 
-      author: 'ses22010174', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mauro.anto35', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip-megan-iks32-mas/4798665388769280/5580948936900608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip-megan-iks32-mas/4798665388769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_625733446081120997984796'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945360872947712/5357457746739200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945360872947712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8659919728051862621134938'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'ewern lim', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Siveng Orn', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6607113076129792/5609827089039360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6607113076129792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_182043587793631052310060'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4752664862965760/5902348285427712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4752664862965760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_806298945440103431409575'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : vos fruits favoris"', 
+      author: 'obrahmsjohannes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-vos-fruits-favoris/4929877780512768/5297837577650176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-vos-fruits-favoris/4929877780512768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1729185928652500156219172'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Khasen Nurkhan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856/5243130565935104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1109818482911534930866135'
     }, 
   ];
 };
