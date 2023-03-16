@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
-      author: 'Hibernia', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6686799869296640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 22, 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
+      author: 'Hibernia', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6686799869296640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Contest: New Subpage', 
@@ -228,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 120, 
+      votes: 119, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -512,15 +512,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064/6219575652040704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cute-pikachu/5661074043224064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
-    }, 
-    {
-      title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[Offline]', 
-      votes: 2, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5353375715868672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Happy National Panda Day :)', 
@@ -865,40 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'megandandridge12', 
+      title: 'Betterer Rainbow', 
+      author: 'thompson.brantlee', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6321304569692160/6491560546189312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6321304569692160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8130712181465567074413438'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/betterer-rainbow/6430234763378688/5732777893085184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/betterer-rainbow/6430234763378688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_105881129639923507456904'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'vidhyanarayanan11', 
+      title: 'Driving car', 
+      author: 'bethelcagbogwu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4679275397824512/5506397028794368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4679275397824512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7666490549204684987706142'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/driving-car/5351346813583360/5500160480428032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/driving-car/5351346813583360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_691012541378968532637042'
     }, 
     {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'Matias  Roldan', 
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'b023a1cnmejiatm', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6218051198697472/5041661820583936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6218051198697472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2469303603621180779990035'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4690983830994944/5985295202041856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4690983830994944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62783573374197242693650'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'fredrickajgreene', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Alexander García', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6404038533103616/5787171816783872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6404038533103616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478867426921068158452259'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5842464764379136/5664075210342400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5842464764379136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7127972057591105407430926'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Baseball', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6658042496335872/4806717546479616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6658042496335872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_409866928458143861262808'
     }, 
   ];
 };
