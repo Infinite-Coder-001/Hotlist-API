@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (2.0)', 
       author: 'redcharr', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592/5911159779934208.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592', 
@@ -120,11 +120,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: 'Personal Servant 4! [INTERACTIVE]', 
+      author: 'TheRealDeal', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'Contest: New Subpage', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/5615156120043520.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Personal Servant 4! [INTERACTIVE]', 
-      author: 'TheRealDeal', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'Crashed Computer', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
+      title: 'Rope Physics', 
+      author: 'Rexkitty', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 16, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5600534105210880.png', 
       link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Rope Physics', 
-      author: 'Rexkitty', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
       title: 'my camera', 
@@ -865,6 +865,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mauro.anto35', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945360872947712/5357457746739200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945360872947712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8659919728051862621134938'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Siveng Orn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4752664862965760/5902348285427712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4752664862965760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_806298945440103431409575'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : vos fruits favoris"', 
+      author: 'obrahmsjohannes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-vos-fruits-favoris/4929877780512768/5297837577650176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-vos-fruits-favoris/4929877780512768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1729185928652500156219172'
+    }, 
+    {
       title: 'Spin-off of "Project: Recipe book"', 
       author: 'Khasen Nurkhan', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856/5243130565935104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1109818482911534930866135'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database" MANISHA', 
-      author: 'manishadamadewrst', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manisha/6122831471755264/5004072216477696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manisha/6122831471755264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4730149532877969712144341'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'osvaldomepv', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5704531017252864/5953667473915904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5704531017252864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4009325654594521015727531'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Raghav', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5060315266203648/5322327950934016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5060315266203648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
     }, 
   ];
 };
