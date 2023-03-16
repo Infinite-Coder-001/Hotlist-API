@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'Personal Servant 4! [INTERACTIVE]', 
+      author: 'TheRealDeal', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 48, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Personal Servant 4! [INTERACTIVE]', 
-      author: 'TheRealDeal', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'pi', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
+      title: 'Messi The Goat', 
+      author: 'Timothy Lightson', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
       author: 'Hibernia', 
       votes: 19, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Messi The Goat', 
-      author: 'Timothy Lightson', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'P3D but BETTER', 
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 6, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5787876384358400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/4600770962178048.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
