@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6381765789007872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6142748208185344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6307490369421312.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
@@ -770,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'aelmor', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner-andrew-elmor/5783163379171328/5371071115345920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner-andrew-elmor/5783163379171328/6329618846236672.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner-andrew-elmor/5783163379171328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9746533834172571522888089'
     }, 
@@ -856,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'andresmarqueznaranjo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4838587814428672/6676404471382016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4838587814428672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103477112545229748277766'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Javier Alan Castellanos', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376/5380716538150912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_550193731092808448583854'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'mymagicbox2016', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6176902324994048/6608862235115520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6176902324994048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_552473821001116768000485'
     }, 
   ];
 };
