@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 43, 
+      votes: 44, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 26, 
+      votes: 27, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
-      votes: 49, 
+      votes: 50, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
-      votes: 35, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
       author: 'Hibernia', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
@@ -154,9 +154,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Steve The Dinosaur (WIP)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 12, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
@@ -166,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'P3D but BETTER', 
       author: 'Dat', 
       votes: 69, 
-      forks: 7, 
+      forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -174,20 +183,11 @@ var LoadHotlistAPI = function() {
     {
       title: '- Living The Dream -', 
       author: 'Xiøn 😋🤩', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 10, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5285030085836800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'What is a neighbor?', 
@@ -217,13 +217,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
     }, 
     {
+      title: 'Realistic Cherries', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6488671819972608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/4697306777829376.png', 
       link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Tomato sauce with herbs... :P', 
+      author: 'WinstonWinner000 (Parlor Indie)', 
+      votes: 16, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5190401504100352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'Pi Day Comic LOL 🥧', 
+      author: 'Just a coder.', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5655073638367232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
     }, 
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
-      title: 'Tomato sauce with herbs... :P', 
-      author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 15, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5190401504100352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Pi Day Comic LOL 🥧', 
-      author: 'Just a coder.', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5655073638367232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
-    }, 
-    {
-      title: 'my camera', 
-      author: 'The_Sockman', 
-      votes: 34, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-camera/5733431726358528/4553508714233856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-camera/5733431726358528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987182949924628851050037'
     }, 
   ];
 };
