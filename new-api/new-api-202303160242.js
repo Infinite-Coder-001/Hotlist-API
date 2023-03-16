@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 68, 
+      votes: 67, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -145,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: '- Living The Dream -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
       votes: 9, 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: '- Living The Dream -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
@@ -329,7 +329,7 @@ var LoadHotlistAPI = function() {
       author: 'Rexkitty', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4659328126861312.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
@@ -494,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/5793228970573824.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
-      title: 'New program', 
-      author: 'govindrewatkar4', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5438680007491584/6315056138862592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5438680007491584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_196192740803003290431867'
     }, 
     {
       title: 'Spin-off of "Project: Fish tank"', 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'tuz.julia_nc_2021', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mayravlopez.22', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4700399926034432/5565051081900032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4700399926034432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_26976827955470951531736'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5222703735029760/6704799808798720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5222703735029760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7338678576165954425616858'
     }, 
     {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'tuz.julia_nc_2021', 
+      title: 'Shooting star', 
+      author: 'seany', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6519730884362240/6612287672860672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6519730884362240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_26976827955470951531736'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/5237565731160064/4627934801608704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shooting-star/5237565731160064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_459859233587536406856155'
+    }, 
+    {
+      title: 'Spin-off of "PO bijna af"', 
+      author: 'kamal shoushan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-po-bijna-af/6606358084632576/5858933606760448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-po-bijna-af/6606358084632576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
   ];
 };
