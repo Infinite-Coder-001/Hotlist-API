@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
-      votes: 73, 
+      votes: 74, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
+      title: 'ORBITS', 
+      author: 'Loading...', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orbits/6405303468081152/6646054252756992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orbits/6405303468081152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862312020879626804381633'
+    }, 
+    {
       title: 'New program', 
       author: 'govindrewatkar4', 
       votes: 2, 
@@ -856,49 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Challenge: Recipe Card"', 
-      author: 'b.ramalks1982', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Khasen Nurkhan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6555134324948992/6699559059505152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6555134324948992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218974483781364681238673'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856/5243130565935104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6584261736185856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1109818482911534930866135'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'roderipper12', 
+      title: 'Spin-off of "Challenge: Book list database" MANISHA', 
+      author: 'manishadamadewrst', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5904996887740416/5439121919361024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5904996887740416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_629371115658619448952182'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manisha/6122831471755264/5004072216477696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manisha/6122831471755264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4730149532877969712144341'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'andresmarqueznaranjo', 
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'osvaldomepv', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4838587814428672/6676404471382016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4838587814428672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103477112545229748277766'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5704531017252864/5953667473915904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5704531017252864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4009325654594521015727531'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Javier Alan Castellanos', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Raghav', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6544800247758848/6640410648952832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6544800247758848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1020233825069865704899662'
-    }, 
-    {
-      title: ' Tori Spin-off of "Project: App impersonator"', 
-      author: 'Tori Soda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480/6635301399478272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6725321708645908247851994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5060315266203648/5322327950934016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5060315266203648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
     }, 
   ];
 };
