@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Steve The Dinosaur (WIP)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 12, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
       votes: 22, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 11, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5285030085836800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: '- Living The Dream -', 
@@ -292,7 +292,7 @@ var LoadHotlistAPI = function() {
       title: '3D Ramp Pyramid *Check*', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 3, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832/5126398371217408.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_469061401168313036164163'
     }, 
     {
+      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      author: 'matthew.nicholas.smith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Circus!', 
       author: 'Crystal Coding', 
       votes: 5, 
@@ -467,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664/5627350220062720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+    }, 
+    {
+      title: 'Cody the Catbot', 
+      author: 'Lisanne', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/4617537977630720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
     {
       title: 'Salamander\'s Subpage', 
@@ -500,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Unsought Vagabond', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904/6340149149745152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904/5661613850148864.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -856,49 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
-      title: 'animate', 
-      author: 'vaughndavis2008', 
+      title: 'Spin-off of "3D Ramp Pyramid *Check*"', 
+      author: 'Bearkirb314🐻‍❄️', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animate/5096181380464640/4626369487355904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animate/5096181380464640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614645029619998576102028'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336/6365144466898944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: '3D Rounded Bulging Cube *Check*', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Jhojan Herrera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-rounded-bulging-cube-check/5008568845910016/6069158725074944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-rounded-bulging-cube-check/5008568845910016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6405309457547264/5252811757764608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6405309457547264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4652115220739168382559675'
     }, 
     {
-      title: 'machine language', 
-      author: 'matthew.nicholas.smith', 
+      title: 'For my reference: WEBGL (acually) in program', 
+      author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/machine-language/6108387110862848/5881632970293248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/machine-language/6108387110862848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'collision detection', 
-      author: 'matthew.nicholas.smith', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/4511662738817024/5904299895078912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-detection/4511662738817024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'Spin-off of "3D engine" - efficient', 
-      author: 'matthew.nicholas.smith', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-engine-efficient/6247991700930560/6406699818991616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-engine-efficient/6247991700930560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-my-reference-webgl-acually-in-program/6738468392976384/4513056858357760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-my-reference-webgl-acually-in-program/6738468392976384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
   ];
 };
