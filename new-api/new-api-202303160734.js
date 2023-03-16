@@ -289,12 +289,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Attacking Snake', 
+      title: 'Spin-off of "Project: Animal attack"', 
       author: 'Barry', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/4634880116047872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5904795183661056/4761698739470336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
     {
