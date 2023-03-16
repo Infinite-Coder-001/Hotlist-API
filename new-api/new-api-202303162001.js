@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 40, 
+      votes: 41, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 38, 
+      votes: 39, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
+      title: 'One Riddle:Hard(GAME)', 
+      author: 'Shadow Fax', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: '(3D) A Bug, A Tree & A Floating Island (3D)', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 6, 
@@ -346,7 +355,7 @@ var LoadHotlistAPI = function() {
       title: 'Attacking Snake', 
       author: 'Incognitus', 
       votes: 12, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/5876917364637696.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
@@ -433,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'One Riddle:Hard(GAME)', 
-      author: 'Shadow Fax', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
       title: 'One Riddle:Stage3(GAME)', 
       author: 'Shadow Fax', 
       votes: 4, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Salamander', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-block-textures/4753277332013056/5089368941576192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-block-textures/4753277332013056/5295038341103616.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-block-textures/4753277332013056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
@@ -572,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'Salamander', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fast-raytracing/6555529411608576/4686528708395008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fast-raytracing/6555529411608576/6285667590258688.png', 
       link: 'https://www.khanacademy.org/computer-programming/fast-raytracing/6555529411608576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
     }, 
     {
-      title: 'Salamander\'s Subpage', 
-      author: 'Salamander', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: '7389937', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848/4824557682999296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5700403369132032/5359380382138368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5700403369132032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124180102481003442415730'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'ebenezerp2', 
+      title: 'A Revised 3D Map With More Complex Shapes 1.0', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5275641589317632/5520859525857280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5275641589317632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_330776689731808381708813'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-10/5511398098780160/6404615283458048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-10/5511398098780160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'book list database', 
-      author: 'rezabekje', 
+      title: 'MeninoYaan salvando vidas(e notas)!!!!', 
+      author: 'Thaís  Sousa', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/book-list-database/5641752654692352/5885712098705408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/book-list-database/5641752654692352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9889763290624827099457729'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meninoyaan-salvando-vidase-notas/6172395713118208/5762840986435584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meninoyaan-salvando-vidase-notas/6172395713118208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_572319609183388238161678'
     }, 
     {
-      title: 'Book list database', 
-      author: 'vanessacachu77', 
+      title: 'sql', 
+      author: 'ashley He', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/book-list-database/5239200620527616/4757086968004608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/book-list-database/5239200620527616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6937678731428851433664413'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql/5567321760645120/4531812259119104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql/5567321760645120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2049585950765461969717626'
     }, 
     {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'juletzyh95012', 
+      title: 'Ms. Davina\'s Magical Magic 8-Ball', 
+      author: 'davina.matadin', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6568905718153216/5169943568236544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6568905718153216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_938298283249090267931836'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ms-davinas-magical-magic-8-ball/5950155113414656/5485515770216448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ms-davinas-magical-magic-8-ball/5950155113414656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_745313911487969179348305'
     }, 
     {
-      title: 'New program', 
-      author: 'YokieBob', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'patrickmmogaka', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4979769194364928/5221169039196160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4979769194364928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6130271714066432/6101418501259264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6130271714066432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116358973070659555086571'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'cc17129140', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'patrickmmogaka', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6136867273883648/6008267782537216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6136867273883648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546818319275518181354696'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5541757226106880/6730668380045312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5541757226106880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116358973070659555086571'
     }, 
   ];
 };
