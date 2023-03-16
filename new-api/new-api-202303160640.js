@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
+      author: 'Hibernia', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
       votes: 11, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
-      author: 'Hibernia', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Messi The Goat', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Crashed Computer', 
+      author: '▪Dipper98▪', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Contest: New Subpage', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 10, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/5615156120043520.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Crashed Computer', 
-      author: '▪Dipper98▪', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'balls', 
-      author: 'Nelima Le Roux', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/balls/6358052788027392/5794374569213952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/balls/6358052788027392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1785099527184300439866864'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Tsoa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5223964358262784/6301539071475712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5223964358262784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27834958665742970807406'
-    }, 
-    {
-      title: 'New webpage animal', 
-      author: 'SyedS', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage-animal/5010759899987968/5994809536069632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage-animal/5010759899987968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1160999552285644424851508'
-    }, 
-    {
       title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'yerulan.abusalim', 
+      author: 'Raghav', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5173024586514432/5108091299610624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5173024586514432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_53969672906972940787076'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6530356205633536/6286089335914496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6530356205633536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'angeligbutton', 
+      title: 'Derivação de "Projeto: Faça Chover"', 
+      author: 'Ercilio Daniel de Oliveira Michilini', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4966981952651264/5015038912151552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4966981952651264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2374992408936274265113022'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-faa-chover/4891918406565888/5676787374014464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-faa-chover/4891918406565888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_49637624056016965442865'
+    }, 
+    {
+      title: 'bob bob bob bob bob bob bob bob bob bob bob bob bob bob bob bob bob bob', 
+      author: 'meyer.arela', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob/6571955061047296/4932387064823808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob-bob/6571955061047296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_624670924325792398166688'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'noori1278', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6371731856211968/5555481592774656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6371731856211968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1054804835322857865831285'
+    }, 
+    {
+      title: 'Khanmigo Alpha 0.1', 
+      author: 'Hibernia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-alpha-01/5587710658265088/5901812228210688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khanmigo-alpha-01/5587710658265088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
 };
