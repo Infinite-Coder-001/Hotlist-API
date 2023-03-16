@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'Barry', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/5184762430144512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6283484119482368.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
@@ -352,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
-      title: 'Dune Raiders', 
-      author: 'Deathly Hallows', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632/5954132211187712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
       title: 'Talking Grom (interactive)', 
       author: 'theCoolCoders', 
       votes: 4, 
@@ -395,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/6165059103670272/6712071104544768.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/6165059103670272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: 'Dune Raiders', 
+      author: 'Deathly Hallows', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632/5954132211187712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6118508998213632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: 'New program', 
@@ -793,56 +793,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9746533834172571522888089'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Lin Zi Ang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5976283882504192/6363916911558656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5976283882504192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7946934879751971661434995'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'agb25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4644514113568768/4992310247211008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/4644514113568768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1164166900871731742749898'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Projekt reklamy"', 
-      author: 'j.kaczmarczyk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/6011834954203136/4565732971298816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/6011834954203136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1148961959113864046328555'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Hussein Giyash', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5032481462206464/5820187431714816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5032481462206464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_438179645085794281327779'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'sillichmann', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/4729434987085824/6440374052896768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/4729434987085824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619064977336149966626528'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Alicja Mizińska', 
       votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5879322743455744/4697218261237760.png', 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5879322743455744/6507394823929856.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5879322743455744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5915294181577033300590289'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5381875843776512/5638888028946432.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5381875843776512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_867792737428345945650239'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'brookelayne0911', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6057986726608896/4905891310911488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6057986726608896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18095504513737667242170'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Aleksander Zając', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6260704502136832/5438748861186048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6260704502136832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_625694929589359149431336'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'krzysiekszczurzs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5845072413507584/5922126492385280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5845072413507584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7497905765044531225922111'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Oscar Pizano ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6116654386036736/5652891031617536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6116654386036736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3291228950043056392702552'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'vasundaraaganesh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712/6160310547562496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1235249163999462164644358'
     }, 
   ];
 };
