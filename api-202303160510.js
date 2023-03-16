@@ -64,12 +64,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
-      title: 'CLICK TO BE HORRIFIED', 
+      title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
       votes: 73, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128/6401734752911360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6381765789007872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
