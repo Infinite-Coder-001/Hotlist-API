@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
@@ -793,6 +793,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9746533834172571522888089'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'krzysiekszczurzs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5845072413507584/5922126492385280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5845072413507584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7497905765044531225922111'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Oscar Pizano ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6116654386036736/5652891031617536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6116654386036736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3291228950043056392702552'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'vasundaraaganesh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712/6160310547562496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1235249163999462164644358'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'jakubkupskizs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5362967854235648/5175457316388864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5362967854235648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_422944120042607704348425'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'piotrolow921', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5282193478041600/6038029716471808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5282193478041600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_229917510948556269516865'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'szymonzielinskizs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6336281280036864/5646822741950464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6336281280036864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604571776544956657678845'
+    }, 
+    {
       title: 'Platformer v0.1', 
       author: 'VanadiumDev', 
       votes: 73, 
@@ -800,6 +854,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
+    }, 
+    {
+      title: 'SMP_MLS7_I Nyoman Panit', 
+      author: 'nyoman_bakti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smp_mls7_i-nyoman-panit/6626485442232320/5206915804348416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smp_mls7_i-nyoman-panit/6626485442232320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_847171589897064703537449'
+    }, 
+    {
+      title: 'Gambling Game "iceD" Simulation', 
+      author: 'ekenz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gambling-game-iced-simulation/6372235642454016/5709277283270656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gambling-game-iced-simulation/6372235642454016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_265123171048087774254942'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Muju Vora', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6127767899127808/5283284139687936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6127767899127808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8029197759702218187250999'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5942800149692416/5866210548039680.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5942800149692416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_941735360111724366734866'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'jakub.ryta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6417171955892224/5063838817107968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6417171955892224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_204484797224205458517431'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Amelia Orzłowska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6755180228165632/4842860161843200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6755180228165632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3057977614726974749536048'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'Wiktoria Maliszewska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5109575496024064/4561468668559360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5109575496024064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2658394804754419994984054'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Dominik Rzędzian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5556418281521152/6078191729164288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5556418281521152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2251787423720097339757017'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Dominik Rzędzian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5499198479056896/4727740840591360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5499198479056896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2251787423720097339757017'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'sehrishwaseem1997', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5281859309453312/6150862114439168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5281859309453312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1111339210896449639690013'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'oliwiermasternakzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4704310510534656/5520015732555776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4704310510534656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6980680169805262798466519'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'gabrysiaczarnewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5390012877422592/6172711527432192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5390012877422592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_696125122023143534148156'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'Wiktoria Maliszewska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5468049346183168/5066325754167296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5468049346183168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2658394804754419994984054'
     }, 
   ];
 };
