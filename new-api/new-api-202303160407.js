@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 40, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Bittertide', 
       votes: 3, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5789976967299072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5790531982770176.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -856,6 +856,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Challenge: My Favorite Foods', 
+      author: 'derrick.tumwesigye1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336/6724837576065024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Backerksedse', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5655695930474496/6177445386698752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5655695930474496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1017758160351471754441632'
+    }, 
+    {
+      title: 'Shooting stars', 
+      author: 'susana_rego', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-stars/5591007431540736/5404637811490816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shooting-stars/5591007431540736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+    }, 
+    {
+      title: 'Challenge: My Favorite Foods', 
+      author: 'derrick.tumwesigye1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/6112542072291328/5224121560776704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/6112542072291328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ataque animal"', 
       author: 'juancachiquerodriguez7264', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416/6748148561395712.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_999574234290529241158801'
-    }, 
-    {
-      title: 'This assignment is a steaming pile. ', 
-      author: 'Marcos Herrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-assignment-is-a-steaming-pile/4508978048712704/5786671696363520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-assignment-is-a-steaming-pile/4508978048712704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_524743876789669456959302'
-    }, 
-    {
-      title: 'New program', 
-      author: 'PotentiallyKor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5050529116110848/5982920479391744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5050529116110848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_509507072708538099889440'
-    }, 
-    {
-      title: 'Button function plugin', 
-      author: 'bainbridgegeorge8', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-function-plugin/6082075721777152/4971884238389248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button-function-plugin/6082075721777152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5476380736479857657708941'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: You can learn text tags"', 
-      author: 'Hamna', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/4591003577401344/5087720613658624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/4591003577401344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_221971841748147578679538'
     }, 
   ];
 };
