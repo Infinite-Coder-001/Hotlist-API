@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'Barry', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/5612277585985536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6283484119482368.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
@@ -793,6 +793,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9746533834172571522888089'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Alicja Mizińska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5879322743455744/6507394823929856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5879322743455744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5915294181577033300590289'
+    }, 
+    {
+      title: 'Challenge 1 : Book list database"', 
+      author: 'Dharshy HF', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-1-book-list-database/6015685123948544/5882492232187904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-1-book-list-database/6015685123948544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9191937428112593943858674'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Aleksander Zając', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6474805048295424/6214915184705536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6474805048295424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_625694929589359149431336'
+    }, 
+    {
+      title: 'Spin-off von "Projekt: Reise-Website"', 
+      author: 'sillichmann', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6487498043998208/4653418939727872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6487498043998208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619064977336149966626528'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Mariusz Janowicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5547600042573824/5912923602206720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5547600042573824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223506295241640549030537'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Malwina Dudkiewicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5681287543439360/6113516241338368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5681287543439360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_395243762765309648541022'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Marysia Kaczmarczyk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5381875843776512/5638888028946432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5381875843776512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_867792737428345945650239'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'brookelayne0911', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6057986726608896/4905891310911488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6057986726608896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18095504513737667242170'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Aleksander Zając', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6260704502136832/5438748861186048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6260704502136832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_625694929589359149431336'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
       author: 'krzysiekszczurzs7', 
       votes: 1, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712/6160310547562496.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5552933402099712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1235249163999462164644358'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'jakubkupskizs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5362967854235648/5175457316388864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5362967854235648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_422944120042607704348425'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'piotrolow921', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5282193478041600/6038029716471808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5282193478041600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_229917510948556269516865'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'szymonzielinskizs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6336281280036864/5646822741950464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6336281280036864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604571776544956657678845'
-    }, 
-    {
-      title: 'Platformer v0.1', 
-      author: 'VanadiumDev', 
-      votes: 73, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728/5087959865147392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-v01/6052606936137728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_335279540512177885166674'
-    }, 
-    {
-      title: 'SMP_MLS7_I Nyoman Panit', 
-      author: 'nyoman_bakti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smp_mls7_i-nyoman-panit/6626485442232320/5206915804348416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smp_mls7_i-nyoman-panit/6626485442232320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_847171589897064703537449'
-    }, 
-    {
-      title: 'Gambling Game "iceD" Simulation', 
-      author: 'ekenz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gambling-game-iced-simulation/6372235642454016/5709277283270656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gambling-game-iced-simulation/6372235642454016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_265123171048087774254942'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Muju Vora', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6127767899127808/5283284139687936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6127767899127808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8029197759702218187250999'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'Jakub Łopacki', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5456110813495296/4744877596524544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5456110813495296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203830747617566501758377'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'kuminiarczyknatalia95', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5942800149692416/5866210548039680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5942800149692416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_941735360111724366734866'
     }, 
   ];
 };
