@@ -365,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: '1001programmer1001', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/6436538349305856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/6305954180415488.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
