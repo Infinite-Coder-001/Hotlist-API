@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Sumthin...', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sumthin/6226177914355712/5109068446613504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sumthin/6226177914355712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: '- Rubix Cube -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5322904600625152/6412456987770880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5322904600625152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'ses22010006, Ezzoomer(Lxy)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4930036845297664/5374667831689216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4930036845297664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169520755478240962524213'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'maharajagoyal1991', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/4820062597070848/6535834251870208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/4820062597070848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_36728528561904960081995'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'avale9928', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6327947902631936/5508938810572800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6327947902631936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1163801624261873118179887'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'ses22010004', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4681884439461888/5854238075043840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4681884439461888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599126493937120161278093'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'ses22010190', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4771591156449280/4623227165130752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4771591156449280', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5790110757208064/5256520596242432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5790110757208064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_81128892800115312609548'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Alibek Sartbai ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6498635993104384/5636657665851392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6498635993104384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063832577584813457028314'
-    }, 
-    {
-      title: '- FunkyCat -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-funkycat-/5931456755187712/4804291124838400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-funkycat-/5931456755187712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
