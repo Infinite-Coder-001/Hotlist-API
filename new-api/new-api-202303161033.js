@@ -784,6 +784,114 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1024760169357761846944546'
     }, 
     {
+      title: 'pizza sweet potato', 
+      author: 'crh21am223', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-sweet-potato/6716786089443328/5131479200088064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-sweet-potato/6716786089443328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995502217680490489512189'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'mariam  mahmoud', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5107021441712128/5251637772075008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5107021441712128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4397494911510266849410760'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'yassin mamdouh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5077681261821952/5850457128091648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5077681261821952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4819932333491712604421467'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Elina Emad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5124460837650432/6588451946545152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5124460837650432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1573926113109624423141858'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Yuanna Boules', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5441312033914880/5390028899663872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5441312033914880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2150107567586696224394418'
+    }, 
+    {
+      title: 'Ny hjemmeside', 
+      author: 'mads2910b', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4554799293186048/5181763947380736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4554799293186048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_525220314039846661511964'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Caren  Michael', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5295292859858944/5646428263464960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5295292859858944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7423438457626524755647807'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Ziad Monzer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6254809944735744/6384351208325120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6254809944735744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2655644405160608947396555'
+    }, 
+    {
+      title: 'Air Combat 2 (WIP, you can only spin rn)', 
+      author: 'hencefox', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/air-combat-2-wip-you-can-only-spin-rn/5289450714480640/5335616328089600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/air-combat-2-wip-you-can-only-spin-rn/5289450714480640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_761241797404811881454910'
+    }, 
+    {
+      title: 'New program', 
+      author: 'crh21md079', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5798756593483776/5702577109123072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5798756593483776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715162010115741571058581'
+    }, 
+    {
+      title: 'Spin-off z "Podstawy HTML"', 
+      author: 'Kuba Korsak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-podstawy-html/6260926145937408/4537905391648768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-podstawy-html/6260926145937408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9969528008090294984068608'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sarah Lindinger', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5875354835402752/5484379600371712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5875354835402752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5338504223519446261193622'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'Lena Schweighofer', 
       votes: 1, 
@@ -791,114 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4526535321370624/4955082141777920.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4526535321370624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5425769117713950168138623'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'mhillinger', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6376866724495360/4624182476587008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6376866724495360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_265777114356566980655330'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'espiler', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6625270302031872/5793074804736000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6625270302031872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_575568752588800003476510'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'msteidl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6403617022328832/6602253723287552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/6403617022328832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218367121139594294603299'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'zwenzl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5588876037242880/5366497327497216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5588876037242880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_653634366822806146316811'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'lewis.danzig13', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6009492938735616/6132345562513408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6009492938735616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_973196967275699744146700'
-    }, 
-    {
-      title: 'Cookie', 
-      author: 'Paul-Jason Gilbert', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie/5784066580594688/5826312482897920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie/5784066580594688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_722344811401505799004561'
-    }, 
-    {
-      title: 'Cat got your tongue?', 
-      author: 'Ansi Anvitha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-got-your-tongue/6506186038099968/5690155510054912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-got-your-tongue/6506186038099968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_327618311750452774402800'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'George Nader', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4610119948353536/6611461524996096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4610119948353536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5695098304485420024014836'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Say Your Name"', 
-      author: 'Erin Slabbert', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/4627957081751552/5057307245592576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/4627957081751552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8197654842223985755651609'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'yahia salama', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5247342368571392/4627312635330560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5247342368571392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7983560093614475698414112'
-    }, 
-    {
-      title: 'Narigón de "Hacer dibujos con código"', 
-      author: 'julia.sanz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/narign-de-hacer-dibujos-con-cdigo/5126538964287488/5543552237223936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/narign-de-hacer-dibujos-con-cdigo/5126538964287488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1009842077148019102988188'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"myfavorites', 
-      author: 'luismiguel2050', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-bookmyfavorites/6003164203761664/5265072626909184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-bookmyfavorites/6003164203761664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1091238617086581250521740'
     }, 
   ];
 };
