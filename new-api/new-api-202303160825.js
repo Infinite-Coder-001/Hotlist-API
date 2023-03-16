@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Khancraft ver 5.19', 
       author: 'Black Nightmare', 
-      votes: 14, 
+      votes: 13, 
       forks: 16, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
       link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'justyna kokocinska', 
+      title: 'Derivado de "Desafío: criatura colorida"Alma Muñoz y Rubén Alcaraz', 
+      author: 'Alma Rubén Muñoz Alcaraz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4524023319150592/5533021849829376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4524023319150592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8563014797395439995072982'
-    }, 
-    {
-      title: 'Spin-off of "Functions"', 
-      author: 'damien.school.2008', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/4696895081725952/6723046574702592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/4696895081725952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1158265936955287831049366'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'kozlowska.weronika_nc_2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4731266278932480/6019826529386496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4731266278932480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611503943812227688689648'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-coloridaalma-muoz-y-rubn-alcaraz/4838873060655104/5706122520739840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-coloridaalma-muoz-y-rubn-alcaraz/4838873060655104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1055019363388634866874674'
     }, 
     {
       title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'anitaaa', 
+      author: 'MiguelPR', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5523708213248000/5028314890944512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5523708213248000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_592347157745899505941222'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5308292769562624/5460381067952128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5308292769562624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_342024527332107590163144'
     }, 
     {
-      title: 'Scene 37 (Angel.M, Wilmer, Jerry) incomplete', 
-      author: 'jerrys38', 
+      title: 'Derivado de "Desafío: un viaje de ensueño"Gustavo Pérez Iniesta 1BAHB', 
+      author: 'gustavopereziniesta', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-37-angelm-wilmer-jerry-incomplete/6501584035168256/4555026943229952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-37-angelm-wilmer-jerry-incomplete/6501584035168256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueogustavo-prez-iniesta-1bahb/6554011191001088/5010467355672576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueogustavo-prez-iniesta-1bahb/6554011191001088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_626156053651310794507318'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'czajaa5', 
+      title: 'Marcel Biedrzycki obrazy', 
+      author: 'marcelbiedrzycki', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5341066557702144/6608602305708032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5341066557702144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866998343058755957862106'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/marcel-biedrzycki-obrazy/6435885514276864/6348047577825280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/marcel-biedrzycki-obrazy/6435885514276864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_405521190377857183068200'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Filip Jakubowski', 
+      title: 'Derivado de "Desafío: criatura colorida" Maya y Marina', 
+      author: 'Maya y Marina', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6154410537566208/6434737499717632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6154410537566208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6839085704988018368653027'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida-maya-y-marina/5570037178220544/5394589601284096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida-maya-y-marina/5570037178220544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6035418949606900862941328'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'MiguelPR', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6675295145082880/6484739559309312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6675295145082880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_342024527332107590163144'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'cabaneromartinezjudith', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5304284927541248/4853169714937856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5304284927541248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_312597069084444643899760'
     }, 
   ];
 };
