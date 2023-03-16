@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
-      votes: 31, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6686799869296640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6381765789007872.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Crashed Computer', 
+      author: '▪Dipper98▪', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Intro for me! (Tell me what you think)', 
       author: 'Animation Guy', 
       votes: 23, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Crashed Computer', 
-      author: '▪Dipper98▪', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/5051381507735552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Aluuf', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896/5745725424320512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896/4685836950224896.png', 
       link: 'https://www.khanacademy.org/computer-programming/love-3/5806041176784896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_469061401168313036164163'
     }, 
@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Bittertide', 
       votes: 3, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5790531982770176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5534814629576704.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -856,6 +856,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Radial Gradient', 
+      author: 'Joe H', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384/6554149452038144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'Orbits with some prime numbers!!', 
+      author: 'Loading...', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orbits-with-some-prime-numbers/6405303468081152/5936405446705152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orbits-with-some-prime-numbers/6405303468081152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862312020879626804381633'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Ejiro Onomrezino', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6444850855854080/5178000524230656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6444850855854080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9007928918615781094902709'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Oscar Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5849716850212864/5404186017841152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5849716850212864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8883716437719378920913061'
+    }, 
+    {
       title: 'Challenge: My Favorite Foods', 
       author: 'derrick.tumwesigye1', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336/6724837576065024.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Backerksedse', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5655695930474496/6177445386698752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5655695930474496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1017758160351471754441632'
-    }, 
-    {
-      title: 'Shooting stars', 
-      author: 'susana_rego', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-stars/5591007431540736/5404637811490816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-stars/5591007431540736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
-    }, 
-    {
-      title: 'Challenge: My Favorite Foods', 
-      author: 'derrick.tumwesigye1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/6112542072291328/5224121560776704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/6112542072291328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'juancachiquerodriguez7264', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416/6748148561395712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_999574234290529241158801'
     }, 
   ];
 };
