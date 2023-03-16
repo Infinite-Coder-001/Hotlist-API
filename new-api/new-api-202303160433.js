@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
-      title: 'A pi memorization game!', 
-      author: '‮e09', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6142748208185344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
-    }, 
-    {
       title: 'LOGO CONTEST FOR ME', 
       author: 'LightningCoder', 
       votes: 21, 
@@ -359,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792/6212540503998464.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-mr-bob-lyon/4652473040289792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'A pi memorization game!', 
+      author: '‮e09', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6142748208185344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
     {
       title: 'Lavender Galaxy MC SKIN', 
@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Bittertide', 
       votes: 3, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/4669060891852800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5534814629576704.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lrecinos03', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4509776929406976/4555514338131968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4509776929406976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1842036651833925887791858'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'noori1278', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5335013656936448/6374676341506048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5335013656936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1054804835322857865831285'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'noori1278', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5118615437492224/5880077487489024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5118615437492224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1054804835322857865831285'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'vdildy3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5019744719912960/5172283134230528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5019744719912960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_446064347613517758143109'
-    }, 
-    {
       title: 'Radial Gradient', 
       author: 'Joe H', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384/4539745432813568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384/6554149452038144.png', 
       link: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'Orbits with some prime numbers!!', 
+      author: 'Loading...', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orbits-with-some-prime-numbers/6405303468081152/5936405446705152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orbits-with-some-prime-numbers/6405303468081152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862312020879626804381633'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Ejiro Onomrezino', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6444850855854080/5178000524230656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6444850855854080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9007928918615781094902709'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Oscar Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5849716850212864/5404186017841152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5849716850212864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8883716437719378920913061'
+    }, 
+    {
+      title: 'Challenge: My Favorite Foods', 
+      author: 'derrick.tumwesigye1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336/6724837576065024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-my-favorite-foods/5075215623438336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
     }, 
   ];
 };
