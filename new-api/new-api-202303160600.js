@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Spooky Cool Scardy Shark!', 
-      author: 't.font151', 
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'ses22010006, Ezzoomer(Lxy)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spooky-cool-scardy-shark/5732527677685760/5354733344964608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spooky-cool-scardy-shark/5732527677685760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6218431007052776213850763'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4930036845297664/5374667831689216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4930036845297664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169520755478240962524213'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'maharajagoyal1991', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/4820062597070848/6535834251870208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/4820062597070848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_36728528561904960081995'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'avale9928', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6327947902631936/5508938810572800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6327947902631936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1163801624261873118179887'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'ses22010152', 
+      author: 'ses22010004', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6028523905269760/4848839398047744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6028523905269760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_784216620349893223090685'
-    }, 
-    {
-      title: 'Duolingo owl', 
-      author: 'LovelyPetals', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712/4796771324968960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-owl/5600000833011712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip" - Megan (IKS32 Mas)', 
-      author: 'ses22010174', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip-megan-iks32-mas/4798665388769280/5580948936900608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip-megan-iks32-mas/4798665388769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_625733446081120997984796'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4681884439461888/5854238075043840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4681884439461888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599126493937120161278093'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'ewern lim', 
+      author: 'ses22010190', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6607113076129792/5609827089039360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6607113076129792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_182043587793631052310060'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5790110757208064/5256520596242432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5790110757208064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_81128892800115312609548'
     }, 
   ];
 };
