@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 22, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6753475075817472.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6142748208185344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6584291557687296.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
@@ -386,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: '(Drippy) My first project (:', 
-      author: 'Cobra >:)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552/4965977383288832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'Love &#60;3', 
@@ -454,8 +445,8 @@ var LoadHotlistAPI = function() {
       title: 'Moving cloud (Lightning added)', 
       author: 'Bittertide', 
       votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5789976967299072.png', 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/5516089813680128.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -554,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'Rodrigo', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/6360816180051968/5833459673382912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/6360816180051968/5989951223414784.png', 
       link: 'https://www.khanacademy.org/computer-programming/pong-game/6360816180051968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533221230010212476572525'
     }, 
@@ -593,6 +584,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/car/5873454580809728/4568127046467584.png', 
       link: 'https://www.khanacademy.org/computer-programming/car/5873454580809728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_931597586107158818156962'
+    }, 
+    {
+      title: '(Drippy) My first project (:', 
+      author: 'Cobra >:)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552/4965977383288832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'What is a neighbor?', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'juancachiquerodriguez7264', 
-      votes: 1, 
+      title: 'Spin-off of "Lightning Bros"', 
+      author: 'LightningCoder', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416/6748148561395712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5709467872444416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_999574234290529241158801'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-lightning-bros/5310027433033728/5463238714376192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-lightning-bros/5310027433033728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'This assignment is a steaming pile. ', 
-      author: 'Marcos Herrera', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'graceichida', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-assignment-is-a-steaming-pile/4508978048712704/5786671696363520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-assignment-is-a-steaming-pile/4508978048712704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_524743876789669456959302'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6593977853984768/5243511777837056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6593977853984768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1538107153188211335188205'
     }, 
     {
-      title: 'New program', 
-      author: 'PotentiallyKor', 
-      votes: 1, 
+      title: 'my dreams be like ', 
+      author: 'LovelyPetals', 
+      votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5050529116110848/5982920479391744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5050529116110848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_509507072708538099889440'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-dreams-be-like/6337342615109632/5466499869622272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-dreams-be-like/6337342615109632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Button function plugin', 
-      author: 'bainbridgegeorge8', 
+      title: 'Spin-off of "Project: Data dig" -- 2', 
+      author: 'Alexis Hernandez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-function-plugin/6082075721777152/4971884238389248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button-function-plugin/6082075721777152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5476380736479857657708941'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-2/5260418908209152/5584139678171136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-2/5260418908209152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1494689471442929427931416'
     }, 
     {
-      title: 'Spin-off of "Challenge: You can learn text tags"', 
-      author: 'Hamna', 
-      votes: 1, 
+      title: 'Platformer v0.2', 
+      author: 'Archbirdplus', 
+      votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/4591003577401344/5087720613658624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/4591003577401344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_221971841748147578679538'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920/4809137072685056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-v02/6697106616401920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
   ];
 };
