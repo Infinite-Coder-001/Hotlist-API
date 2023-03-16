@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
+      author: 'Hibernia', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6686799869296640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'This May Be a Joke', 
       author: 'Volatile ✝︎', 
       votes: 12, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104/5563640218697728.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
-      author: 'Hibernia', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6686799869296640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Messi The Goat', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
+      title: 'New webpage', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4972015704653824/6080461334167552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4972015704653824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'The Grey Stuff', 
       author: 'both your lungs', 
       votes: 5, 
@@ -544,7 +553,7 @@ var LoadHotlistAPI = function() {
       title: 'STAR WARS - A NEW HOPE', 
       author: 'ajgoshert', 
       votes: 4, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-a-new-hope/4892478883020800/6480853293383680.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-a-new-hope/4892478883020800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_796009814440543841155154'
@@ -563,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 2, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5459548880289792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5954972623880192.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -874,31 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3268517781845793808735826'
     }, 
     {
-      title: 'Spin-off of "Butterflies"', 
-      author: 'Arwen Undómiel', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-butterflies/6502376985116672/5770726026297344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-butterflies/6502376985116672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'me better', 
-      author: 'Jotaro Kujo aka jacob', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Anaua Espana', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/me-better/6557484963905536/6640171405852672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/me-better/6557484963905536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_880130248071379151701806'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4969523579240448/5119094259236864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4969523579240448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4808996749290157463909740'
     }, 
     {
-      title: 'pi day wip', 
-      author: 'LovelyPetals', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'quackingdragon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-wip/6643276667207680/4741658136854528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pi-day-wip/6643276667207680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5220144169402368/5558250923933696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5220144169402368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_689919938442632798439249'
     }, 
   ];
 };
