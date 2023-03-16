@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 41, 
+      votes: 42, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 15, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/4735570373033984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/5784952300158976.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'P3D but BETTER', 
       author: 'Dat', 
-      votes: 69, 
+      votes: 70, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
@@ -590,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936/5123271047823360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936/4549633017954304.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
-      title: 'Derivação de "Desafio: Dia de neve ensolarado"', 
-      author: 'mirelly trajano', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Leandro Vidurrizaga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4798811769978880/4731440560652288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-dia-de-neve-ensolarado/4798811769978880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8445428616292494255578273'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6700966164611072/6126387973111808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6700966164611072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223233023262777110378380'
     }, 
     {
-      title: 'raps', 
-      author: '368880', 
+      title: 'mario pixel art', 
+      author: 'john lighson', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raps/5085242585300992/5099781989122048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raps/5085242585300992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_747107172272366546698246'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-pixel-art/6230703937470464/4735913802645504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mario-pixel-art/6230703937470464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
     }, 
   ];
 };
