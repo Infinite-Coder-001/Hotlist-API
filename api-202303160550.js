@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (2.0)', 
       author: 'redcharr', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592/5911159779934208.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-20/6553942723182592', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'One Riddle(Game)', 
+      author: 'Shadow Fax', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
       votes: 10, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5626420024098816.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'One Riddle(Game)', 
-      author: 'Shadow Fax', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'Contest: New Subpage', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
+      title: 'Rope Physics', 
+      author: 'Rexkitty', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 16, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5600534105210880.png', 
       link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Rope Physics', 
-      author: 'Rexkitty', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5316362274914304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
       title: 'my camera', 
