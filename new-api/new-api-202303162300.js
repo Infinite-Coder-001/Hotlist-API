@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 44, 
+      votes: 43, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -91,18 +91,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'Realistic Cherries', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6488671819972608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
       title: 'GPT 5 goes farming (Comica #2)', 
       author: 'Hibernia', 
-      votes: 12, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
       link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104/5563640218697728.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Realistic Cherries', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6488671819972608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Shift', 
@@ -224,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
-    }, 
-    {
-      title: 'Unusual Fellow', 
-      author: 'mr. mustache', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: '3D engine, efficient, more efficient, even more efficient, pov update', 
@@ -476,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680/5403256727846912.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
-    }, 
-    {
-      title: 'brainf*', 
-      author: 'matthew.nicholas.smith', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/brainf/6573378171617280/4858022306562048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/brainf/6573378171617280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Love &#60;3', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304/5762122938368000.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-w-particles/6401802012770304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'ORBITS', 
+      author: 'Loading...', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orbits/6405303468081152/6646054252756992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orbits/6405303468081152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862312020879626804381633'
+    }, 
+    {
+      title: 'New program', 
+      author: 'govindrewatkar4', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5438680007491584/6315056138862592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5438680007491584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_196192740803003290431867'
     }, 
   ];
 };
