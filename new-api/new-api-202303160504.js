@@ -64,12 +64,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
-      title: 'BE HORRIFIED! (NEWEST JOKE)', 
+      title: 'CLICK TO BE HORRIFIED', 
       author: 'Speedyspeedcuber', 
       votes: 73, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6050483754287104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128/6401734752911360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/click-to-be-horrified/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
@@ -856,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'roderipper12', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5904996887740416/5439121919361024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5904996887740416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_629371115658619448952182'
-    }, 
-    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'andresmarqueznaranjo', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480/6401883331936256.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9242700418822836704443249'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'BoyRobo1609', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376/5380716538150912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_550193731092808448583854'
     }, 
   ];
 };
