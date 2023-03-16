@@ -739,15 +739,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
     {
-      title: 'Circus!', 
-      author: 'Crystal Coding', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circus/6355533856817152/6610211442049024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circus/6355533856817152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
       title: 'HAHAHAHAHAHA MINECRAFT RULES', 
       author: 'verdertrio', 
       votes: 4, 
@@ -847,33 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8740212178692239274849022'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Lin Zi Ang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6301702884212736/5583066875871232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6301702884212736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7946934879751971661434995'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Hla.Eltoucky653', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5768505981190144/4588383001427968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5768505981190144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_359483964637651421244859'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'jalvarado260', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6527065790922752/4962644421558272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6527065790922752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_184547063106324305979180'
-    }, 
-    {
       title: 'Cat playing Animated', 
       author: 'Xiøn 😋🤩', 
       votes: 13, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424/4767711551078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-version/4737989899239424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'WORKING', 
+      author: 'ekenz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/working/5798670325039104/6255268415717376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/working/5798670325039104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_265123171048087774254942'
+    }, 
+    {
+      title: 'Scene 34 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-34-angelm-wilmer-jerry-incomplete/4552994601615360/5256384012926976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-34-angelm-wilmer-jerry-incomplete/4552994601615360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Raghav', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6530356205633536/6286089335914496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6530356205633536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_701703760369548615306706'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Faça Chover"', 
+      author: 'Ercilio Daniel de Oliveira Michilini', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-faa-chover/4891918406565888/5676787374014464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-faa-chover/4891918406565888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_49637624056016965442865'
     }, 
   ];
 };
