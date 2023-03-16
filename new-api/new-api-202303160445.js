@@ -343,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
-      title: 'This is What it Feels Like...', 
-      author: 'The Tech Guy 💻', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872/5794060088688640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
-    }, 
-    {
       title: 'Talking Grom (interactive)', 
       author: 'theCoolCoders', 
       votes: 4, 
@@ -467,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360/4669060891852800.png', 
       link: 'https://www.khanacademy.org/computer-programming/moving-cloud-lightning-added/6193407867535360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'This is What it Feels Like...', 
+      author: 'The Tech Guy 💻', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872/5794060088688640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
       title: '(3D) A Bug, A Tree & A Floating Island (3D)', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Javier Alan Castellanos', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'lrecinos03', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6544800247758848/6640410648952832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6544800247758848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1020233825069865704899662'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4509776929406976/4555514338131968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4509776929406976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1842036651833925887791858'
     }, 
     {
-      title: ' Tori Spin-off of "Project: App impersonator"', 
-      author: 'Tori Soda', 
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'noori1278', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480/6635301399478272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tori-spin-off-of-project-app-impersonator/6676108420628480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6725321708645908247851994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5335013656936448/6374676341506048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5335013656936448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1054804835322857865831285'
     }, 
     {
-      title: 'Spin-off of "Project: bazaar"', 
-      author: 'pilux0000', 
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'noori1278', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480/6401883331936256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bazaar/5613357770260480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9242700418822836704443249'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5118615437492224/5880077487489024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5118615437492224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1054804835322857865831285'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'BoyRobo1609', 
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'vdildy3', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376/5380716538150912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5577405974757376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550193731092808448583854'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5019744719912960/5172283134230528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5019744719912960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_446064347613517758143109'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'mymagicbox2016', 
+      title: 'Radial Gradient', 
+      author: 'Joe H', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6176902324994048/6608862235115520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6176902324994048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_552473821001116768000485'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384/4539745432813568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/radial-gradient/5005388271632384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
   ];
 };
