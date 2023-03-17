@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
       votes: 13, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Tron with path minmax ai', 
       author: 'matthew.nicholas.smith', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
       link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: '1001programmer1001', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/6436538349305856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/5172411765145600.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
@@ -350,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
       link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
+      title: 'mega rainbow land', 
+      author: 'Ram dilibero', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096/5170006398910464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7915240812425872416652894'
     }, 
     {
       title: 'One Riddle(Game)', 
@@ -392,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064/5985434209665024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064/6463789044383744.png', 
       link: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -413,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/5104978329124864.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'move a box \'round the screen controlled by arrow keys but smaller', 
+      author: 'Proscribir', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/6329418257842176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
@@ -460,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: '~RUN~', 
+      author: 'TheRealDeal', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/run/4663064077320192/5912517325144064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/run/4663064077320192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
       title: 'Windy Fisher', 
       author: 'Arrow.programming', 
       votes: 18, 
@@ -476,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832/5126398371217408.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
-      title: 'mega rainbow land', 
-      author: 'Ram dilibero', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096/5170006398910464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7915240812425872416652894'
     }, 
     {
       title: 'Cody the Catbot', 
@@ -568,12 +586,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'A Revised 3D Map With More Complex Shapes 2.0', 
+      title: 'A Revised 3D Map With More Complex Shapes 2.1', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-20/6285263360016384/4827142649331712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-20/6285263360016384', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-21/6285263360016384/5880725759115264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-21/6285263360016384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
@@ -658,15 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
-      title: 'move a box \'round the screen controlled by arrow keys but smaller', 
-      author: 'Proscribir', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/6329418257842176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
-    }, 
-    {
       title: 'my camera', 
       author: 'The_Sockman', 
       votes: 34, 
@@ -692,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlestage3game/5328841033957376/5440154104020992.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlestage3game/5328841033957376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
-      title: '~RUN~', 
-      author: 'TheRealDeal', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/run/4663064077320192/5912517325144064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/run/4663064077320192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'Salamander\'s Subpage', 
