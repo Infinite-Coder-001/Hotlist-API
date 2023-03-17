@@ -157,7 +157,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 7, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5646769411375104.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
@@ -368,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
       link: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'mega rainbow land', 
-      author: 'Ram dilibero', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096/5170006398910464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mega-rainbow-land/6376279035396096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7915240812425872416652894'
     }, 
     {
       title: 'One Riddle(Game)', 
@@ -898,6 +889,15 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-two/5156005359173632/6573300912537600.png', 
       link: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-two/5156005359173632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7860250254733382907500886'
+    }, 
+    {
+      title: 'Balancing Equations Practice Problems - Problem One', 
+      author: 'maasmax1', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-one/4538103144693760/5997278051745792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-one/4538103144693760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7860250254733382907500886'
     }, 
   ];
