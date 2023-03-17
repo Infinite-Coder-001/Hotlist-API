@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 30, 
+      votes: 31, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4711069161668608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -278,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
       link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'move a box \'round the screen controlled by arrow keys', 
+      author: 'Dominic R.', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
@@ -536,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'Lightning Driver, Esq.', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/6340165473976320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/6307219098615808.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
@@ -865,40 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'owen.finneran', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ash02uikey', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4558594433662976/6474269335011328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4558594433662976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_954053619419970373200455'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4768847913861120/5808231039680512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4768847913861120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7116759252358434194169422'
     }, 
     {
-      title: 'move a box \'round the screen controlled by arrow keys', 
-      author: 'Dominic R.', 
+      title: 'Tool', 
+      author: 'samidulislam0023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tool/5351878483558400/6238239038160896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tool/5351878483558400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112026153399099381049356'
     }, 
     {
-      title: 'Մարտահրավեր․ ոճի ուղեցույց-ի ճյուղավորում', 
-      author: 'Ashot MK', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'farley.john', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6576166662356992/4999864138383360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6576166662356992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485244919112013578638237'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'Jan gonzalez garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4949139467321344/6122496212647936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4949139467321344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1239720430671344957869106'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6273644869500928/5714527033540608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6273644869500928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_517546630879158639799056'
     }, 
   ];
 };
