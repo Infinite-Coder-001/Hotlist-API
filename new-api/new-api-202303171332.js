@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
+      title: 'move a box \'round the screen controlled by arrow keys', 
+      author: 'Dominic R.', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 17, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
-      title: 'move a box \'round the screen controlled by arrow keys', 
-      author: 'Dominic R.', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Unusual Fellow', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Food maker!', 
       author: 'Deathly Hallows', 
       votes: 4, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Iphone Ad', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_647166836803740203062861'
     }, 
     {
-      title: 'Derivado de "Aclarar con comentarios"', 
-      author: 'tomas.carrasco', 
+      title: 'Bot', 
+      author: 'Hibernia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/5676096102383616/4575570644221952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/5676096102383616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_725521097788826567362701'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bot/4533368547229696/6397484681445376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bot/4533368547229696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Derivado de "Aclarar con comentarios"', 
-      author: 'colombicosas', 
+      title: 'e', 
+      author: 'KAO1234', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/4696359854981120/6591171885580288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/4696359854981120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1183741757195896664918164'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6697949386293248/5803455203819520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e/6697949386293248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_811376502755225502164911'
     }, 
     {
-      title: 'Derivado de "Código legible"', 
-      author: 'colombicosas', 
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'coscolla.josefina', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/5021098121150464/5186858525179904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/5021098121150464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1183741757195896664918164'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4939962195951616/6463832061165568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4939962195951616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_302319380762572031359968'
     }, 
     {
-      title: 'Derivado de "Aclarar con comentarios"', 
-      author: 'felipe.saba', 
+      title: 'Xion Pixel Art (Kingdom Hearts)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/6418507405508608/4798548501905408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-aclarar-con-comentarios/6418507405508608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_313496833260246137037361'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/xion-pixel-art-kingdom-hearts/6166535750336512/5388865265516544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/xion-pixel-art-kingdom-hearts/6166535750336512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Derivado de "Código legible"', 
-      author: 'sofia.rios', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'sweenor.edward', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/6006895020392448/6604907341987840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/6006895020392448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27083462626241210951240'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6133492905984000/4563468852445184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6133492905984000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_128690459173146165139665'
     }, 
   ];
 };
