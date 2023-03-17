@@ -76,7 +76,7 @@ var LoadHotlistAPI = function() {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
       votes: 11, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
@@ -370,12 +370,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'T1\'s entry', 
+      title: 'this exists i guess', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064/6265523505774592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064/5572694362079232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
