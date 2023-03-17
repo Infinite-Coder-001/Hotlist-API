@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Iphone Ad', 
-      author: 'Incognitus', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
-    }, 
-    {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 17, 
@@ -350,6 +341,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Iphone Ad', 
+      author: 'Incognitus', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
+      title: 'Fighters! Release!', 
+      author: 'Jibanyanc', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-release/5946937176276992/4924160843497472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-release/5946937176276992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'mega rainbow land', 
@@ -827,15 +836,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5857877388738560.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Phyrexian Gargantua', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4593460055425024/4736694580723712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4593460055425024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Pie', 
