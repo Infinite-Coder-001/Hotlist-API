@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Agar.io', 
+      author: 'TheRealDeal', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
       title: 'Intro for me! (Tell me what you think)', 
       author: 'Animation Guy', 
       votes: 26, 
@@ -307,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: '3D Ramp Pyramid *Check*', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832/5126398371217408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
       title: 'Tomato sauce with herbs... :P', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 16, 
@@ -332,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/6436538349305856.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
-      title: 'Agar.io', 
-      author: 'TheRealDeal', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'my camera', 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
       link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
-    }, 
-    {
-      title: '3D Ramp Pyramid *Check*', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832/5126398371217408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-ramp-pyramid-check/5518497243512832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
       title: 'Cody the Catbot', 
