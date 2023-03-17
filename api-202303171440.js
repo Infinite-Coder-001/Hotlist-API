@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 54, 
+      votes: 55, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
-      votes: 20, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 32, 
+      votes: 33, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4711069161668608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'pi', 
       author: 'Reader ✔', 
       votes: 50, 
@@ -134,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/4970556573401088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      author: 'matthew.nicholas.smith', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Messi The Goat', 
@@ -163,12 +181,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      title: 'Tron with path minmax ai', 
       author: 'matthew.nicholas.smith', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
@@ -181,20 +199,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 15, 
       forks: 8, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5619020114214912.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -244,13 +253,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Tron with path minmax ai', 
-      author: 'matthew.nicholas.smith', 
-      votes: 6, 
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/4828232816050176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'One Riddle(Game)', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
-      title: 'What is a neighbor?', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
   ];
 };
