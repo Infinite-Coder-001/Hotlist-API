@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
+      title: 'Realistic Cherries', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
       votes: 29, 
@@ -55,13 +64,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
-      title: 'Realistic Cherries', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 13, 
+      title: 'Unusual Fellow', 
+      author: 'mr. mustache', 
+      votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Crashed Computer', 
@@ -82,13 +91,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Unusual Fellow', 
-      author: 'mr. mustache', 
-      votes: 11, 
+      title: 'GPT 5 goes farming (Comica #2)', 
+      author: 'Hibernia', 
+      votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'pi', 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/4970556573401088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'GPT 5 goes farming (Comica #2)', 
-      author: 'Hibernia', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Messi The Goat', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
+      author: 'Hibernia', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Contest: New Subpage', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 15, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
-      author: 'Hibernia', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
@@ -388,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Hearts In-a Bottle(Sub-Page)', 
+      author: 'm a r i i', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/5717390652653568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
+    }, 
+    {
       title: 'One Riddle:Stage3(GAME)', 
       author: 'Shadow Fax', 
       votes: 6, 
@@ -622,20 +631,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Hearts In-a Bottle(Sub-Page)', 
-      author: 'm a r i i', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/5717390652653568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
-    }, 
-    {
       title: 'New program', 
       author: 'Unsought Vagabond', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904/5533499144847360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904/6324045052428288.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6416475365883904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -833,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/5492863536513024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/5814891929976832.png', 
       link: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
