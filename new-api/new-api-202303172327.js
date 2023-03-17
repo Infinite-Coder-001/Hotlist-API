@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 38, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -111,20 +111,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Online)', 
-      votes: 61, 
+      votes: 60, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
-      title: 'Loading Images in PJS', 
-      author: 'Noah H.', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Crashed Computer', 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Tetris', 
