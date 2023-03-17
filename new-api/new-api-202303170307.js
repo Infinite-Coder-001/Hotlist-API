@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'TheRealDeal', 
       votes: 50, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5639636225671168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'Mini Khan academy 2.0', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
       title: 'This May Be a Joke', 
       author: 'Volatile ✝︎', 
       votes: 18, 
@@ -181,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
-      title: 'Mini Khan academy 2.0', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 12, 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
+      title: 'contest (maybe)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'One Riddle:Hard(GAME)', 
       author: 'Shadow Fax', 
       votes: 6, 
@@ -233,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264/5826356934131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/p3d-but-better/6520532231307264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: '- Living The Dream -', 
@@ -262,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'contest (maybe)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'New program', 
       author: 'sgardiner23', 
       votes: 25, 
@@ -287,15 +296,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5655073638367232.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
-    }, 
-    {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Windy Fisher', 
