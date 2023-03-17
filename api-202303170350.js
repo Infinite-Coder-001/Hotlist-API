@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Rexkitty', 
       votes: 29, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/6547158419685376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/5348512135168000.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
+      title: 'contest (maybe)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
       votes: 78, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
-    }, 
-    {
-      title: 'contest (maybe)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'One Riddle:Hard(GAME)', 
