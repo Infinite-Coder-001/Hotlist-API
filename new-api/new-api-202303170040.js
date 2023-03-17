@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
+      title: 'One Riddle:Hard(GAME)', 
+      author: 'Shadow Fax', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: 'P3D but BETTER', 
       author: 'Dat', 
       votes: 70, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768/5473042228887552.png', 
       link: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'One Riddle:Hard(GAME)', 
-      author: 'Shadow Fax', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'New program', 
