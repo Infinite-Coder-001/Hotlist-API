@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 58, 
+      votes: 57, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Lightning Driver, Esq.', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/4916110145404928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/5040903087767552.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_931597586107158818156962'
     }, 
     {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'daniel-swierk', 
-      votes: 1, 
+      title: 'Breath of the Wild Link', 
+      author: 'cjcool', 
+      votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4801247502974976/5547255304339456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4801247502974976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_545122023762846279986963'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/breath-of-the-wild-link/6210345255616512/4578525665607680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/breath-of-the-wild-link/6210345255616512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Hania Czerwińska', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'David  Feijóo ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4627742148837376/5926583997349888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4627742148837376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2660806848912358812254386'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4993370030391296/5095764030439424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4993370030391296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9140270233683395018735045'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'franek lisowski', 
-      votes: 1, 
+      title: '(Drippy) My first project (:', 
+      author: 'Cobra >:)', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4880770567290880/6425307345371136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4880770567290880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3647841190706030247390221'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552/4965977383288832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/drippy-my-first-project/5018698442391552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
   ];
 };
