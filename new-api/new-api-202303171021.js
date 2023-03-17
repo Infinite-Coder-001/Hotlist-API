@@ -391,7 +391,7 @@ var LoadHotlistAPI = function() {
       title: 'Khancraft ver 5.19', 
       author: 'Black Nightmare', 
       votes: 17, 
-      forks: 20, 
+      forks: 21, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
       link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Lisanne', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5392220876488704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5332651894685696.png', 
       link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
@@ -703,6 +703,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_811177991334006852288'
     }, 
     {
+      title: 'WIP', 
+      author: 'Lightning Driver, Esq.', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/4968090255540224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
+    }, 
+    {
       title: 'This is What it Feels Like...', 
       author: 'The Tech Guy 💻', 
       votes: 4, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-does-the-arguments-keyword-do/5474456564973568/4884374883713024.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-does-the-arguments-keyword-do/5474456564973568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'Dice', 
-      author: 'Maurice Jones', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/5472703664668672/4681429625913344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dice/5472703664668672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676579323003776205447797'
     }, 
   ];
 };
