@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 53, 
+      votes: 54, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 38, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
+      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      author: 'matthew.nicholas.smith', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 12, 
@@ -217,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
-      author: 'matthew.nicholas.smith', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
       title: 'Intro for me! (Tell me what you think)', 
       author: 'Animation Guy', 
       votes: 26, 
@@ -255,11 +255,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pi Day Comic LOL 🥧', 
       author: 'Just a coder.', 
-      votes: 21, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712/5655073638367232.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi-day-comic-lol/5364869199347712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_220831791066366549063938'
+    }, 
+    {
+      title: 'Tron with path minmax ai', 
+      author: 'matthew.nicholas.smith', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Windy Fisher', 
@@ -334,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
-      title: 'Tron with path minmax ai', 
-      author: 'matthew.nicholas.smith', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
       title: '3D Ramp Pyramid *Check*', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 3, 
@@ -399,7 +399,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 128, 
+      votes: 129, 
       forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: '‮e09', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/6307490369421312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/5323228065349632.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collisions-take-3/6278386815385600/6653492582465536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collisions-take-3/6278386815385600/5191984065331200.png', 
       link: 'https://www.khanacademy.org/computer-programming/collisions-take-3/6278386815385600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -494,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'type a computer into existence', 
+      author: 'matthew.nicholas.smith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016/5708499516702720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Futuristic Clock', 
@@ -545,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'Paperwad ☢️', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664/5627350220062720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664/5880178435997696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-rope-physics/5335544253169664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
@@ -662,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936/5642539866832896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936/4648103766704128.png', 
       link: 'https://www.khanacademy.org/computer-programming/mathsin-vs-sin-speed-test-mathsin-wins/4695122132647936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -788,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6130152847491072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6167095887052800.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-grey-stuff/5143746843033600/4674248323153920.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-grey-stuff/5143746843033600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_172890018680553055259459'
-    }, 
-    {
-      title: 'Mario Escape! [Contest Entry]', 
-      author: 'TheRealDeal', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-escape-contest-entry/6130799172960256/5567849219538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario-escape-contest-entry/6130799172960256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
   ];
 };
