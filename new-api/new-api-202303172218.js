@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 36, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 71, 
+      votes: 72, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -129,11 +129,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
-      votes: 33, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Loading Images in PJS', 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'GPT 5 goes farming (Comica #2)', 
@@ -503,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208/6025446259212288.png', 
       link: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Winston donuts', 
+      author: 'Thiam', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800/5961955435397120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
     }, 
     {
       title: '~RUN~', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-three/5328324983570432/4900908460982272.png', 
       link: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-three/5328324983570432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7860250254733382907500886'
-    }, 
-    {
-      title: 'A pi memorization game!', 
-      author: '‮e09', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/5323228065349632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
   ];
 };
