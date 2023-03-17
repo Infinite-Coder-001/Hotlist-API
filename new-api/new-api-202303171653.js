@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 25, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 63, 
+      votes: 64, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 43, 
+      votes: 44, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Lighter Movement', 
+      author: 'Dominic.Gomez Rawr', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080/4980271252553728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1102421151430901994446418'
+    }, 
+    {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
       votes: 37, 
@@ -343,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: ' st. patricks  day  facts and more', 
+      author: 'ally', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568/5793670865666048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
+    }, 
+    {
       title: '- Living The Dream -', 
       author: 'Xiøn 😋🤩', 
       votes: 26, 
@@ -377,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Lighter Movement', 
-      author: 'Dominic.Gomez Rawr', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080/4980271252553728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1102421151430901994446418'
     }, 
     {
       title: 'I did terribly', 
@@ -469,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
+      title: 'The 3D Engine Dude\'s Subpage!', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056/6500948497448960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
       title: 'Hearts In-a Bottle(Sub-Page)', 
       author: 'm a r i i', 
       votes: 4, 
@@ -514,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: ' st. patricks  day  facts and more', 
-      author: 'ally', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568/5793670865666048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
-    }, 
-    {
       title: 'A Revised 3D Map With More Complex Shapes 2.0', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 2, 
@@ -548,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/6165059103670272/6712071104544768.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/6165059103670272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: '3D Integrated Shapes *Check*', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-integrated-shapes-check/4539097446400000/5732734691753984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-integrated-shapes-check/4539097446400000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
       title: 'Robot Carter Tucholski', 
@@ -616,7 +634,7 @@ var LoadHotlistAPI = function() {
       title: 'Khancraft ver 5.19', 
       author: 'Black Nightmare', 
       votes: 19, 
-      forks: 20, 
+      forks: 21, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
       link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
@@ -674,24 +692,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848/6511823035875328.png', 
       link: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
-    }, 
-    {
-      title: 'The 3D Engine Dude\'s Subpage!', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056/6500948497448960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
-      title: '3D Integrated Shapes *Check*', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-integrated-shapes-check/4539097446400000/5732734691753984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-integrated-shapes-check/4539097446400000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
       title: '', 
