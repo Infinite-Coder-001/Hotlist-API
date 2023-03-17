@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 60, 
+      votes: 61, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
+      title: 'Happy Saint Patrick\'s Day!', 
+      author: 'Seth | Flightsong Studios', 
+      votes: 14, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
       votes: 62, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'Happy Saint Patrick\'s Day!', 
-      author: 'Seth | Flightsong Studios', 
-      votes: 13, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
       title: 'Happy Pi Day!', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 34, 
+      votes: 35, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4711069161668608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Steve The Dinosaur (WIP)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 17, 
+      forks: 10, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5619020114214912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'Contest: New Subpage', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 18, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 16, 
-      forks: 10, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5619020114214912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Shift', 
@@ -494,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/4697306777829376.png', 
       link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Fighters! Full release!', 
+      author: 'Jibanyanc', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release/5946937176276992/6580273607393280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release/5946937176276992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'Khan AcadeMii Test Lab', 
@@ -769,7 +778,7 @@ var LoadHotlistAPI = function() {
       title: 'Clock', 
       author: 'Avinasen', 
       votes: 2, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616/4839963797798912.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-3d-map-20/6427823743221760/5487930951122944.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-3d-map-20/6427823743221760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
-      title: 'collisions | Take 3|', 
-      author: 'Xiøn 😋🤩', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collisions-take-3/6278386815385600/4909054134894592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collisions-take-3/6278386815385600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
