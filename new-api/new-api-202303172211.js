@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Online)', 
-      votes: 60, 
+      votes: 59, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -289,15 +289,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Lighter Movement', 
-      author: 'Dominic.Gomez Rawr', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080/4980271252553728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1102421151430901994446418'
-    }, 
-    {
       title: 'Iphone Ad', 
       author: 'Incognitus', 
       votes: 5, 
@@ -361,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Lighter Movement', 
+      author: 'Dominic.Gomez Rawr', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080/4980271252553728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighter-movement/5551902408622080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1102421151430901994446418'
+    }, 
+    {
       title: 'The Pulse', 
       author: '1001programmer1001', 
       votes: 9, 
@@ -422,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Zachary Williamson from the Unwanted', 
-      author: 'exploding_kitten💣🔥', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
       title: 'Spin-off of "Project: Word game " ablah', 
@@ -683,6 +674,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968/4551422995906560.png', 
       link: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'Zachary Williamson from the Unwanted', 
+      author: 'exploding_kitten💣🔥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
       title: 'My favorite error', 
