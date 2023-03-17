@@ -19,15 +19,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Personal Servant 4! [INTERACTIVE]', 
-      author: 'TheRealDeal', 
-      votes: 67, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 33, 
@@ -35,6 +26,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
+      title: 'Personal Servant 4! [INTERACTIVE]', 
+      author: 'TheRealDeal', 
+      votes: 66, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'Unusual Fellow', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
-      title: 'GPT 5 goes farming (Comica #2)', 
-      author: 'Hibernia', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 7, 
@@ -163,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Loading Images in PJS', 
-      author: 'Noah H.', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 51, 
@@ -181,9 +163,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
+      title: 'GPT 5 goes farming (Comica #2)', 
+      author: 'Hibernia', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Tetris', 
       author: 'matthew.nicholas.smith', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
