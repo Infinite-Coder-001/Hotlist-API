@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'T1\'s entry for subpage contest :)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064/4779547314929664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'This May Be a Joke', 
       author: 'Volatile ✝︎', 
       votes: 21, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
-    }, 
-    {
-      title: 'T1\'s entry for subpage contest :)', 
-      author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064/4779547314929664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
@@ -742,7 +742,7 @@ var LoadHotlistAPI = function() {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
       votes: 133, 
-      forks: 10, 
+      forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
