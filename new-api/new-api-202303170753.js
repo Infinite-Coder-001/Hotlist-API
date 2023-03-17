@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 43, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 58, 
+      votes: 57, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Incognitus', 
       votes: 13, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6395280759242752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6449274286292992.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
