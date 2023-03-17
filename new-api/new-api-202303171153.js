@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 56, 
+      votes: 55, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
       votes: 58, 
-      forks: 7, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
@@ -532,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'WIP', 
-      author: 'Lightning Driver, Esq.', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/6340165473976320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
       title: 'A pi memorization game!', 
       author: '‮e09', 
       votes: 10, 
@@ -611,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Lightning Driver, Esq.', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/6340165473976320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
       title: 'type a computer into existence', 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'owen.finneran', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'tinusia23wbs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4558594433662976/6474269335011328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4558594433662976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_954053619419970373200455'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5774949069668352/5613588356317184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5774949069668352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7760352251146104560386137'
     }, 
     {
-      title: 'move a box \'round the screen controlled by arrow keys', 
-      author: 'Dominic R.', 
+      title: 'Derivado de "Proyecto: haz que llueva"', 
+      author: 'aromlob', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5646030660222976/6707690875437056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5646030660222976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692824850452294614947823'
     }, 
     {
-      title: 'Մարտահրավեր․ ոճի ուղեցույց-ի ճյուղավորում', 
-      author: 'Ashot MK', 
+      title: 'Famous people', 
+      author: 'hadiyansari67', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6576166662356992/4999864138383360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6576166662356992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485244919112013578638237'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/famous-people/4660866547236864/5047864575442944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/famous-people/4660866547236864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8489747395118292674694910'
     }, 
     {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'Jan gonzalez garcia', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'King Viljami', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4949139467321344/6122496212647936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4949139467321344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1239720430671344957869106'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360/6116522852663296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_597803924677283418633836'
     }, 
   ];
 };
