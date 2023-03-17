@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 40, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 56, 
+      votes: 57, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      author: 'matthew.nicholas.smith', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Shift', 
       author: 'Logix Indie', 
       votes: 75, 
@@ -172,40 +181,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'BE HORRIFIED! (NEWEST JOKE)', 
-      author: 'Speedyspeedcuber', 
-      votes: 78, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
-      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
-      author: 'matthew.nicholas.smith', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+      title: 'BE HORRIFIED! (NEWEST JOKE)', 
+      author: 'Speedyspeedcuber', 
+      votes: 79, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 12, 
+      votes: 13, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Tron with path minmax ai', 
+      author: 'matthew.nicholas.smith', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'One Riddle(Game)', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Tron with path minmax ai', 
-      author: 'matthew.nicholas.smith', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
