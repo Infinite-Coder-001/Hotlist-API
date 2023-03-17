@@ -5,9 +5,18 @@ var LoadHotlistAPI = function() {
       author: 'TheRealDeal', 
       votes: 50, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5639636225671168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'BURGER STACK (3.5)', 
+      author: 'redcharr', 
+      votes: 49, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
       title: 'khanmigo is soo cute!', 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'BURGER STACK (3.5)', 
-      author: 'redcharr', 
-      votes: 48, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
       title: 'Happy Pi Day!', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
@@ -62,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/6547158419685376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
+    }, 
+    {
+      title: 'Unusual Fellow', 
+      author: 'mr. mustache', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Crashed Computer', 
@@ -82,13 +91,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Unusual Fellow', 
-      author: 'mr. mustache', 
-      votes: 11, 
+      title: 'GPT 5 goes farming (Comica #2)', 
+      author: 'Hibernia', 
+      votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'pi', 
@@ -100,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'GPT 5 goes farming (Comica #2)', 
-      author: 'Hibernia', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 38, 
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'Mini Khan academy 2.0', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'This May Be a Joke', 
@@ -136,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
+      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
+      author: 'Hibernia', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Contest: New Subpage', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 15, 
@@ -143,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
-      author: 'Hibernia', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
@@ -181,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
-      title: 'Mini Khan academy 2.0', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 12, 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
+      title: 'contest (maybe)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'One Riddle:Hard(GAME)', 
       author: 'Shadow Fax', 
       votes: 6, 
@@ -235,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: '- Living The Dream -', 
       author: 'Xiøn 😋🤩', 
       votes: 24, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
       link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'Intro for me! (Tell me what you think)', 
-      author: 'Animation Guy', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768/5473042228887552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'contest (maybe)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
   ];
 };
