@@ -28,18 +28,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
-      title: 'BURGER STACK (3.5)', 
-      author: 'redcharr', 
-      votes: 60, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
-    }, 
-    {
       title: 'Unusual Fellow', 
       author: 'mr. mustache', 
-      votes: 24, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
       link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
@@ -48,11 +39,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
+      title: 'BURGER STACK (3.5)', 
+      author: 'redcharr', 
+      votes: 60, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
       title: 'khanmigo is soo cute!', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Happy Saint Patrick\'s Day!', 
+      author: 'Seth | Flightsong Studios', 
+      votes: 13, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
       title: 'Mini Khan academy 2.0', 
       author: 'Cataclysmic Code 🌩‮', 
       votes: 19, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
-      title: 'Happy Saint Patrick\'s Day!', 
-      author: 'Seth | Flightsong Studios', 
-      votes: 12, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
       title: 'Happy Pi Day!', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
+      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
+      author: 'Velvet', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5646769411375104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
       author: 'Hibernia', 
       votes: 23, 
@@ -383,18 +392,9 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064/4783727358296064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064/6063787667144704.png', 
       link: 'https://www.khanacademy.org/computer-programming/t1s-entry/6085865812312064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
-      author: 'Velvet', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5646769411375104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Spin-off of "Project: Word game " ablah', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Phyrexian Gargantua', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/5658454155116544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6712332090916864.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -730,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'This is What it Feels Like...', 
+      author: 'The Tech Guy 💻', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872/5794060088688640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
+    }, 
+    {
       title: '(3D) A Bug, A Tree & A Floating Island (3D)', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 6, 
@@ -845,15 +854,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanemon-battle-screen/6230870753329152/6750400567099392.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanemon-battle-screen/6230870753329152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'This is What it Feels Like...', 
-      author: 'The Tech Guy 💻', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872/5794060088688640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-what-it-feels-like/6300891219279872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
       title: 'Love &#60;3', 
