@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
-      title: 'Mini Khan academy 2.0', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
       votes: 62, 
@@ -370,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Winston donuts', 
+      author: 'Thiam', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800/5961955435397120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
+    }, 
+    {
       title: 'Blake\'s(T1Avenger's) subpage', 
       author: 'Blake Meloche (T1)[Online :)]', 
       votes: 3, 
@@ -503,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208/6025446259212288.png', 
       link: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Winston donuts', 
-      author: 'Thiam', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800/5961955435397120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
     }, 
     {
       title: '~RUN~', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-three/5328324983570432/4900908460982272.png', 
       link: 'https://www.khanacademy.org/computer-programming/balancing-equations-practice-problems-problem-three/5328324983570432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7860250254733382907500886'
+    }, 
+    {
+      title: 'A pi memorization game!', 
+      author: '‮e09', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/5323228065349632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
   ];
 };
