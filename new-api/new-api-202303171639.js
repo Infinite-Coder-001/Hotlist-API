@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
       votes: 6, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
       link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
@@ -380,7 +380,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'I did terribly', 
-      author: 'Bilious Skulldweller', 
+      author: 'Phyrexian Gargantua', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6709398896689152.png', 
@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
+      title: 'Zachary Williamson from the Unwanted', 
+      author: 'exploding_kitten💣🔥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
+    }, 
+    {
       title: 'My favorite error', 
       author: 'YokieBob', 
       votes: 2, 
@@ -593,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/it-seeks/6389587461324800/6088009604972544.png', 
       link: 'https://www.khanacademy.org/computer-programming/it-seeks/6389587461324800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391385483726485594665877'
+    }, 
+    {
+      title: 'Khancraft ver 5.19', 
+      author: 'Black Nightmare', 
+      votes: 19, 
+      forks: 20, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'move a box \'round the screen controlled by arrow keys but smaller', 
@@ -620,15 +638,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6139935575031808.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Khancraft ver 5.19', 
-      author: 'Black Nightmare', 
-      votes: 18, 
-      forks: 20, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216/5741624602968064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khancraft-ver-519/6227705379209216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
       title: 'One Riddle:Stage3(GAME)', 
@@ -689,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'LavenderGalaxy', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944/5191785959964672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944/5106771628965888.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_811177991334006852288'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'type a computer into existence', 
-      author: 'matthew.nicholas.smith', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016/5708499516702720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
   ];
 };
