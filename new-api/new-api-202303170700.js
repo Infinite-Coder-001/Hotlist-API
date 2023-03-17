@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Incognitus', 
       votes: 13, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/5876917364637696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6449274286292992.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
