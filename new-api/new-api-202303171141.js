@@ -496,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Attacking Snake', 
+      author: 'Incognitus', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6436743433994240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
       title: 'Random emojis (^-^*)', 
       author: 'verdertrio', 
       votes: 13, 
@@ -530,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008/5323228065349632.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pi-memorization-game/4812775161643008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
-    }, 
-    {
-      title: 'Attacking Snake', 
-      author: 'Incognitus', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6436743433994240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
     {
       title: 'Love &#60;3', 
@@ -602,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416/4643993281675264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5937135742140416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Lightning Driver, Esq.', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/6340165473976320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
       title: 'type a computer into existence', 
@@ -710,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944/5066259819708416.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_811177991334006852288'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Lightning Driver, Esq.', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/4916110145404928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
     {
       title: 'This is What it Feels Like...', 
@@ -865,6 +865,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'tinusia23wbs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5774949069668352/5613588356317184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5774949069668352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7760352251146104560386137'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: haz que llueva"', 
+      author: 'aromlob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5646030660222976/6707690875437056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5646030660222976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692824850452294614947823'
+    }, 
+    {
       title: 'Famous people', 
       author: 'hadiyansari67', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360/6116522852663296.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_597803924677283418633836'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'zurek.lena_nc_2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5730562629484544/4960390301925376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5730562629484544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_59313205355956915024360'
-    }, 
-    {
-      title: 'Project (start)', 
-      author: 'gudurgeetan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-start/5640315400929280/5957942107226112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-start/5640315400929280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
     }, 
   ];
 };
