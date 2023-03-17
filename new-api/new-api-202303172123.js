@@ -271,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Mario', 
-      author: 'Timothy Lightson', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mario/5470553312116736/5069722402209792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario/5470553312116736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
       title: 'Iphone Ad', 
       author: 'Incognitus', 
       votes: 5, 
@@ -377,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
       link: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Mario', 
+      author: 'Timothy Lightson', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mario/5470553312116736/5069722402209792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mario/5470553312116736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'mega rainbow land', 
@@ -741,7 +741,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
-      votes: 133, 
+      votes: 132, 
       forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
