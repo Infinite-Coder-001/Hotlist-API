@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Unusual Fellow', 
       author: 'mr. mustache', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
       link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan academy 2.0', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
+      title: 'Happy Saint Patrick\'s Day!', 
+      author: 'Seth | Flightsong Studios', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
       title: 'Crashed Computer', 
       author: '▪Dipper98▪', 
       votes: 30, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Happy Saint Patrick\'s Day!', 
-      author: 'Seth | Flightsong Studios', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
@@ -220,7 +220,7 @@ var LoadHotlistAPI = function() {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 39, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
@@ -341,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
       link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'this exists i guess', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064/4732950577201152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Spin-off of "Project: Word game " ablah', 
@@ -478,6 +487,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
+      title: 'Spin-off of "Project: Scene change" Muhamad Meiko Triputra', 
+      author: 'Muhamad Meiko Triputra - 09031282126035', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304/4733473187479552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_539355796509485009852546'
+    }, 
+    {
+      title: 'Nowy program', 
+      author: 'remigron', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nowy-program/5969234431885312/5828792759402496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nowy-program/5969234431885312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_11271582039480930028154'
+    }, 
+    {
+      title: '3D Sphere *Check*', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-sphere-check/5018264935907328/4744316771942400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-sphere-check/5018264935907328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
+      title: ' st. patricks  day  facts and more', 
+      author: 'ally', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568/5793670865666048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
+    }, 
+    {
+      title: 'A Revised 3D Map With More Complex Shapes 2.0', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-20/6285263360016384/6217011783057408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-revised-3d-map-with-more-complex-shapes-20/6285263360016384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
       title: 'One Riddle(GAME)', 
       author: 'Shadow Fax', 
       votes: 9, 
@@ -487,13 +541,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'this exists i guess', 
-      author: 'Blake Meloche (T1)[Online :)]', 
+      title: 'Robot Carter Tucholski', 
+      author: 'CarterT', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064/4936739343089664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-exists-i-guess/6085865812312064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/robot-carter-tucholski/5314102283255808/5929543129153536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/robot-carter-tucholski/5314102283255808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_209338075083243934978080'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'lmgasco', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5823248560603136/5583996702736384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5823248560603136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1023290882205670484609119'
+    }, 
+    {
+      title: 'Savable Version', 
+      author: 'Noah H.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968/4624734044340224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
+      author: 'Velvet', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5646769411375104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'My favorite error', 
@@ -620,6 +701,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
       link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Really guys? Get a life ŌwŌ', 
+      author: 'StuffStash', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/6005499692892160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: '(3D) A Bug, A Tree & A Floating Island (3D)', 
@@ -775,15 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Really guys? Get a life ŌwŌ', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/6005499692892160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'collisions | Take 3|', 
       author: 'Xiøn 😋🤩', 
       votes: 2, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016/5708499516702720.png', 
       link: 'https://www.khanacademy.org/computer-programming/type-a-computer-into-existence/5046885910102016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'Spin-off of "3D Ramp Pyramid *Check*"', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336/6365144466898944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-3d-ramp-pyramid-check/5308910707982336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'Futuristic Clock', 
-      author: 'Lightning Driver, Esq.', 
-      votes: 27, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408/6029693881204736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/futuristic-clock/4591853200785408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
-      title: 'What is cooking?!', 
-      author: 'Buster', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680/5403256727846912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-cooking/6022521772359680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
-    }, 
-    {
-      title: 'brainf*', 
-      author: 'matthew.nicholas.smith', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/brainf/6573378171617280/4858022306562048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/brainf/6573378171617280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'Mandelbrot zoom', 
-      author: 'matthew.nicholas.smith', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mandelbrot-zoom/6287851027480576/6069191423868928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mandelbrot-zoom/6287851027480576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'LOGO CONTEST FOR ME', 
-      author: 'LightningCoder', 
-      votes: 22, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160/4579965788274688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-for-me/6140159919964160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Train', 
-      author: 'Emma', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/train/6189742633041920/5659285583609856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/train/6189742633041920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'JaylenN', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5516269061455872/5555099542011904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5516269061455872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_867324182825514932316144'
-    }, 
-    {
-      title: 'Spin-off of "Project: Scene change" Muhamad Meiko Triputra', 
-      author: 'Muhamad Meiko Triputra - 09031282126035', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304/4733473187479552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_539355796509485009852546'
     }, 
   ];
 };
