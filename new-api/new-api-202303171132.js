@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mini Khan academy 2.0', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Contest: What\'s Cooking? - HTML Submissions', 
+      author: 'Evan Lewis', 
+      votes: 37, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
+    }, 
+    {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
       votes: 80, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Contest: What\'s Cooking? - HTML Submissions', 
-      author: 'Evan Lewis', 
-      votes: 36, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
       title: 'Tron with path minmax ai', 
@@ -422,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848/6511823035875328.png', 
       link: 'https://www.khanacademy.org/computer-programming/salamanders-subpage/4845981298638848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
+    }, 
+    {
+      title: 'The 3D Engine Dude\'s Subpage!', 
+      author: 'Drake Rochelle, The 3D Engine Dude.', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056/6500948497448960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
       title: 'Hearts In-a Bottle(Sub-Page)', 
@@ -658,15 +667,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_617041495915515287795827'
     }, 
     {
-      title: 'The 3D Engine Dude\'s Subpage!', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056/6500948497448960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-3d-engine-dudes-subpage/5619292056109056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
       title: 'Rain', 
       author: '✎®oman', 
       votes: 2, 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Car', 
-      author: 'jeremyhu0508', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/car/5873454580809728/4568127046467584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/car/5873454580809728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_931597586107158818156962'
-    }, 
-    {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'daniel-swierk', 
+      title: 'Famous people', 
+      author: 'hadiyansari67', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4801247502974976/5547255304339456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4801247502974976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_545122023762846279986963'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/famous-people/4660866547236864/5047864575442944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/famous-people/4660866547236864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8489747395118292674694910'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Hania Czerwińska', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'King Viljami', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4627742148837376/5926583997349888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4627742148837376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2660806848912358812254386'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360/6116522852663296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5518309472911360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_597803924677283418633836'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'franek lisowski', 
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'zurek.lena_nc_2020', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4880770567290880/6425307345371136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4880770567290880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3647841190706030247390221'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5730562629484544/4960390301925376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5730562629484544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59313205355956915024360'
+    }, 
+    {
+      title: 'Project (start)', 
+      author: 'gudurgeetan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-start/5640315400929280/5957942107226112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-start/5640315400929280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_587170391175936359501502'
     }, 
   ];
 };
