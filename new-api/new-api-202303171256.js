@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 17, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'Unusual Fellow', 
+      author: 'mr. mustache', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
       votes: 58, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
-    }, 
-    {
-      title: 'Unusual Fellow', 
-      author: 'mr. mustache', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/5970799880355840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Rope Physics', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
+      title: 'move a box \'round the screen controlled by arrow keys', 
+      author: 'Dominic R.', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'GPT 5 goes farming (Comica #2)', 
       author: 'Hibernia', 
       votes: 16, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
       link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'move a box \'round the screen controlled by arrow keys', 
-      author: 'Dominic R.', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'pi', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Steve The Dinosaur (WIP)', 
+      author: 'Blake Meloche (T1)[Online :)]', 
+      votes: 15, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'Contest: New Subpage', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 16, 
@@ -199,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[Online :)]', 
-      votes: 14, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5077112950407168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'Contest: What\'s Cooking? - HTML Submissions', 
       author: 'Evan Lewis', 
       votes: 37, 
@@ -219,11 +219,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
-      votes: 80, 
+      votes: 81, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Food maker!', 
+      author: 'Deathly Hallows', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: 'Tron with path minmax ai', 
@@ -361,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/4828232816050176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Bad segmented snake.', 
       author: 'Wort-Head Productions😐', 
       votes: 4, 
@@ -413,15 +431,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/run/4663064077320192/5912517325144064.png', 
       link: 'https://www.khanacademy.org/computer-programming/run/4663064077320192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Food maker!', 
-      author: 'Deathly Hallows', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: 'Cody the Catbot', 
@@ -521,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5857877388738560.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
-    }, 
-    {
-      title: 'Loading Images in PJS', 
-      author: 'Noah H.', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/4828232816050176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Circus!', 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_647166836803740203062861'
     }, 
     {
-      title: '3d thing', 
-      author: 'kris', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-thing/5954991556968448/4728687536947200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-thing/5954991556968448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1054833900980952744604611'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'amorrod1802', 
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'Marta Kolankiewicz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4695157431910400/5395828514799616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4695157431910400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_551428982568491676539301'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4875780519936000/5286989916323840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4875780519936000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1069029995511059902506035'
     }, 
     {
-      title: 'liam\'s snowman', 
-      author: 'lmcorreia-de-nobrega-e-matos', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Bayron Marcano', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/liams-snowman/4503670928752640/6212464956194816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/liams-snowman/4503670928752640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7916227978189895484365998'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6316730958004224/6169003175493632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6316730958004224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4422828075223931603237595'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'kaitlyn', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Arshmaan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5870833879007232/5016297824108544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5870833879007232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3651001908280726043450881'
-    }, 
-    {
-      title: 'Derivado de "Desafío: criatura colorida"Gonzalo y zakaria', 
-      author: 'GONZALOZAKARIA', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-coloridagonzalo-y-zakaria/5997872116187136/5570611672039424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-coloridagonzalo-y-zakaria/5997872116187136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_213250386247812022170695'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4515980388909056/5176073509978112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4515980388909056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_705416199920628154830678'
     }, 
     {
       title: 'Spin-off z "Rysowanie innych kształtów"', 
-      author: 'luka.hiliuk', 
+      author: 'aleksandra.boronska', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/4639685848907776/4709447324975104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/4639685848907776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516950845445273816370284'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5999161898221568/5420332511182848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5999161898221568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_96773180371124016262086'
     }, 
     {
-      title: 'Leroy Santos; "Project: Shooting star"', 
-      author: 'Leroy Santos', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Beiya Quitcon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leroy-santos-project-shooting-star/5002759852310528/4670470614204416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leroy-santos-project-shooting-star/5002759852310528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5730298736122739285274833'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6520949388394496/6007961766117376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6520949388394496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1320871557551281913681313'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'Benjamin609', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4723918529413120/6163431998930944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4723918529413120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_328928602081196119336082'
+    }, 
+    {
+      title: 'New program', 
+      author: 'thomashowie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598953536700416/5029944763924480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4598953536700416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1837169089177932274886462'
     }, 
   ];
 };
