@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
-      title: 'Dice', 
-      author: 'Maurice Jones', 
+      title: 'Derivado de "Desafío: criatura colorida"', 
+      author: 'evaaalopezveiga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/5472703664668672/4681429625913344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dice/5472703664668672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676579323003776205447797'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5644907928928256/6159407195144192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5644907928928256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_732857008949148263945269'
     }, 
   ];
 };
