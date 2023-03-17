@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'redcharr', 
       votes: 51, 
       forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/6659913273360384.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 29, 
+      votes: 30, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/6360200271675392.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
