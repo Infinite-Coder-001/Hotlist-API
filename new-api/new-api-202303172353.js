@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
-      votes: 17, 
+      votes: 16, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
@@ -155,7 +155,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'T1\'s entry for subpage contest :)', 
-      author: 'Blake Meloche (T1)[OffForWeekend]', 
+      author: 'Blake Meloche (T1)[Online :)]', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064/4779547314929664.png', 
@@ -272,7 +272,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Steve The Dinosaur (WIP)', 
-      author: 'Blake Meloche (T1)[OffForWeekend]', 
+      author: 'Blake Meloche (T1)[Online :)]', 
       votes: 18, 
       forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5397734876299264.png', 
@@ -361,17 +361,8 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
     }, 
     {
-      title: 'I did terribly', 
-      author: 'Phyrexian Gargantua', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6295618744270848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'Blake\'s(T1Avenger's) subpage', 
-      author: 'Blake Meloche (T1)[OffForWeekend]', 
+      author: 'Blake Meloche (T1)[Online :)]', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
@@ -440,6 +431,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-error/4650245747425280/4691129742442496.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-favorite-error/4650245747425280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'I did terribly', 
+      author: 'Phyrexian Gargantua', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6295618744270848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'move a box \'round the screen controlled by arrow keys but smaller', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_379752102000467787208100'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'kae.u.carter', 
+      title: 'Dibuja', 
+      author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5322178449162240/5482295702372352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5322178449162240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9057837561523023238255397'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dibuja/4963238301450240/4566744436097024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dibuja/4963238301450240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
-      title: 'Puzzle', 
-      author: 'CodingChamp01', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Jenae Cotton', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/puzzle/5694718745034752/5166462832787456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/puzzle/5694718745034752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5151000245878784/6420405344845824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5151000245878784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1009354389737950378359997'
     }, 
   ];
 };
