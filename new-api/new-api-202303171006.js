@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Lisanne', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/4617537977630720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5392220876488704.png', 
       link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
-      title: 'The Grey Stuff', 
-      author: 'both your lungs', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-grey-stuff/5143746843033600/4674248323153920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-grey-stuff/5143746843033600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_172890018680553055259459'
+      title: 'Derivado de "Desafío: criatura colorida"', 
+      author: 'evaaalopezveiga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5644907928928256/6159407195144192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/5644907928928256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_732857008949148263945269'
     }, 
   ];
 };
