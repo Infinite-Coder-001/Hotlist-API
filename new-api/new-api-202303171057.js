@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 52, 
+      votes: 53, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Lightning Driver, Esq.', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/4968090255540224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/5040903087767552.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
     }, 
