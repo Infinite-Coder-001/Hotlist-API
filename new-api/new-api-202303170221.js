@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 47, 
+      votes: 48, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4944310749675520.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Tron with path minmax ai', 
+      author: 'matthew.nicholas.smith', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Intro for me! (Tell me what you think)', 
       author: 'Animation Guy', 
       votes: 26, 
@@ -268,15 +277,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'Tron with path minmax ai', 
-      author: 'matthew.nicholas.smith', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6167095887052800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6139935575031808.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
@@ -467,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/5876917364637696.png', 
       link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
+      title: 'Mini Khan academy 2.0', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264/6519896014110720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mini-khan-academy-20/6092055766155264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'Love &#60;3', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kirby-v70/6357802740400128/4841529850249216.png', 
       link: 'https://www.khanacademy.org/computer-programming/kirby-v70/6357802740400128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287411428229377754016820'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Your First Painting App"', 
-      author: 'Silas', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/6709012903280640/5651649467301888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/6709012903280640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1098071282566765154149824'
     }, 
   ];
 };
