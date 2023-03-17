@@ -10,27 +10,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
-      title: 'BURGER STACK (3.5)', 
-      author: 'redcharr', 
-      votes: 51, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/4811041639022592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
-    }, 
-    {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 56, 
+      votes: 57, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'BURGER STACK (3.5)', 
+      author: 'redcharr', 
+      votes: 51, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
+    }, 
+    {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 41, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
-      votes: 57, 
+      votes: 58, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
       link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'Rexkitty', 
       votes: 30, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/6360200271675392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4711069161668608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
