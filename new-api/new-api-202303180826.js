@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6409153674526720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4846318188281856.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,11 +775,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Sah khan 17', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816/6056443309768704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
+    }, 
+    {
+      title: 'Car Selection', 
+      author: 'sparky', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car-selection/4633060445569024/6487344627892224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/car-selection/4633060445569024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9753375279099118738703489'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'obgeet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/4549760457687040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/4684504520507392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712/4820726189441024.png', 
       link: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1063239105511073987203587'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688/5106107371798528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: '"프로젝트: 여행 웹 페이지" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384/5534939253882880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
     }, 
   ];
 };
