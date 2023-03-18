@@ -865,39 +865,39 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'walterquiroz.asm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5774436659937280/6232996443373568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5774436659937280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223808951790222969682847'
-    }, 
-    {
-      title: 'Baby Registry', 
-      author: 'eugene.germanii', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-registry/5541682483609600/5434413796343808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/baby-registry/5541682483609600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_240273655359524929834932'
-    }, 
-    {
-      title: 'Dibuja amigos', 
+      title: 'ESPACIO', 
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dibuja-amigos/5896429635944448/4993301260582912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dibuja-amigos/5896429635944448', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/espacio/5803339410620416/5229165060341760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/espacio/5803339410620416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
-      title: 'colores', 
+      title: 'Tiburon mmm', 
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/colores/4787207727792128/5121940279050240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/colores/4787207727792128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tiburon-mmm/4712484020994048/5622724624171008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tiburon-mmm/4712484020994048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'steven.wiezorek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6121450924982272/4876622236008448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6121450924982272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_938707988395588922867296'
+    }, 
+    {
+      title: 'A pintar!', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pintar/5611065935446016/5880172211650560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-pintar/5611065935446016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
