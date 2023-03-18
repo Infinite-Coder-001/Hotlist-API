@@ -775,6 +775,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'lkbbridges', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5846912390709248/5728596712013824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5846912390709248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5248098825289375352262924'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'tamchandak26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4699259142455296/5876153400475648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4699259142455296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_474711458269780634351932'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'Rozy Adel', 
       votes: 1, 
@@ -791,6 +809,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4995970116141056/5461435247542272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4995970116141056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
+    }, 
+    {
+      title: 'CREATIVE PROJECT', 
+      author: 'JAYDE KHUNG EE JAE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/4804087080337408/6307129947635712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/creative-project/4804087080337408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
     {
       title: 'Planets are Moving', 
@@ -814,8 +841,8 @@ var LoadHotlistAPI = function() {
       title: 'New program', 
       author: 'Xiøn 😋🤩', 
       votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/6566100637892608.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/5283962437287936.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5051059849707520/4504127976816640.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5051059849707520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Tahidul.R', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4694711644504064/5784459271258112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4694711644504064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
-    }, 
-    {
-      title: 'Side scrolling | take 5 |', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/side-scrolling-take-5/5886017595031552/5143984349691904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/side-scrolling-take-5/5886017595031552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'Tahidul.R', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5798965456191488/5608577941422080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5798965456191488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
     }, 
   ];
 };
