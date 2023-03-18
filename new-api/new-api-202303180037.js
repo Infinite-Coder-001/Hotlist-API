@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 73, 
+      votes: 74, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'Ohnoes is annoying sometimes ', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568/5650804247937024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'New program', 
       author: 'sgardiner23', 
       votes: 27, 
@@ -856,49 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Pie', 
-      author: 'Ducky Momo', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256/4807053275348992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pie/4900213448032256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Circus!', 
-      author: 'Crystal Coding', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circus/6355533856817152/4630501715656704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circus/6355533856817152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
-      title: 'do not click up key or it will scare you!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', 
-      author: 'john lighson', 
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'israe_jm31', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click-up-key-or-it-will-scare-you/5920317858168832/6550545789927424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-click-up-key-or-it-will-scare-you/5920317858168832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4898715376861184/4784432571793408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4898715376861184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770890804090840609582735'
     }, 
     {
-      title: 'Play-dough', 
-      author: 'H.M. Wogglebug T.E.', 
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'israe_jm31', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/6673005961068544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616/5342091393941504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770890804090840609582735'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'David Alvarado', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'gregjame86', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5390472019492864/5063295839289344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5390472019492864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8583418223205492115621756'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5133952379830272/5831682265759744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5133952379830272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_765355089183683588830583'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'melissan352', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5359960202723328/5264757655650304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5359960202723328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3232719578505868725082396'
     }, 
   ];
 };
