@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Lisanne', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5719352798396416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5197263757688832.png', 
       link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
@@ -767,6 +767,33 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Dawid Perliński ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5043871614812160/4998814458232832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5043871614812160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454290044415704156923835'
+    }, 
+    {
+      title: 'Antonio Castillo "Desafío: animales favoritos"', 
+      author: 'acastor160', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/antonio-castillo-desafo-animales-favoritos/6647438121418752/6652043470356480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/antonio-castillo-desafo-animales-favoritos/6647438121418752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_296267593395695760477228'
+    }, 
+    {
+      title: '"გამოწვევა: წიგნების სიის მონაცემების ბაზა"-ის სპინ-ოფები', 
+      author: 'tgalu20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5541326943993856/6593653188640768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/5541326943993856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_294840690181798585145541'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
       author: 'Adrianna Pilawa', 
       votes: 1, 
       forks: 0, 
@@ -797,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Dawid Perliński ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4546354145968128/5526143563513856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4546354145968128/6703968014352384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4546354145968128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_454290044415704156923835'
     }, 
@@ -824,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Gabriela Mierzwa', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4777928652275712/5054232823906304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4777928652275712/4826177979334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4777928652275712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5322453466936442347388980'
     }, 
@@ -851,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'Marcin Bałdyga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4676365627736064/5336036698013696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4676365627736064/4810159965913088.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4676365627736064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1345629632879503444703455'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlestage3game/5328841033957376/5440154104020992.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlestage3game/5328841033957376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Adrianna Badran', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6436178075369472/6388030018732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6436178075369472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1005172644532243879860717'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Roksana Kmieć', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4837251478765568/5528346680410112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4837251478765568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1129236469370363581368953'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Julia Blum', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6164575419678720/5518203508015104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6164575419678720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9336549653566352073654088'
     }, 
   ];
 };
