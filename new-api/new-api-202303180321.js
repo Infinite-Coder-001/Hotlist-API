@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: '▪Dipper98▪', 
       votes: 35, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6438113276903424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6367978491002880.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'contest (maybe)', 
       author: 'vw_beetlesultimategreatness', 
       votes: 12, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Iphone Ad', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Contest: New Subpage', 
+      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
+      votes: 20, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
+    }, 
+    {
       title: 'This May Be a Joke', 
       author: 'Volatile ✝︎', 
       votes: 21, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104/5563640218697728.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-may-be-a-joke/5532415907119104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Contest: New Subpage', 
-      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
-      votes: 19, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
       title: 'Blake\'s(T1Avenger's) subpage', 
@@ -847,6 +847,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Spin-off of "Nested For Loops"', 
+      author: 'Tom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5025935160295424/5225741199654912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5025935160295424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1068218227103174127032178'
+    }, 
+    {
+      title: ' "Challenge: A Loopy Ruler"', 
+      author: 'Giang Ta', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408/5606043843608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6429055945188304389896932'
+    }, 
+    {
+      title: 'HasNothingBetterToDo = !false;', 
+      author: '21262', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hasnothingbettertodo-false/5446736325951488/6541556510408704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hasnothingbettertodo-false/5446736325951488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
       title: '3D Wedge *Check*', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 3, 
@@ -856,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
+      title: 'tutioral arcoiris', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutioral-arcoiris/6489030365855744/5808360495824896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutioral-arcoiris/6489030365855744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
       title: '3D Sloped Cone *Check*', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 3, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-sloped-cone-check/5111642692304896/4765871920955392.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-sloped-cone-check/5111642692304896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: '03lexa15', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4637470199431168/6688611892510720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4637470199431168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2892455598450956848734577'
-    }, 
-    {
-      title: 'Wave', 
-      author: 'dongigdong', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wave/5284522591830016/6658012096020480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wave/5284522591830016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951644213544102920964357'
-    }, 
-    {
-      title: 'goal', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/goal/5572827875164160/5545469168369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/goal/5572827875164160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Watermelon', 
-      author: 'Moo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelon/5876420054401024/5624851773833216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelon/5876420054401024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_397888356071723081324043'
     }, 
   ];
 };
