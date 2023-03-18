@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Realistic Cherries', 
       author: 'Bearkirb314🐻‍❄️', 
-      votes: 35, 
+      votes: 36, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 64, 
+      votes: 65, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 64, 
+      votes: 65, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
+      author: 'CylenceScythe (Offline)', 
+      votes: 63, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
+    }, 
+    {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
       votes: 14, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704/6206667488542720.png', 
       link: 'https://www.khanacademy.org/computer-programming/tron-with-path-minmax-ai/4642482745032704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Offline)', 
-      votes: 62, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
       title: 'Loading Images in PJS', 
