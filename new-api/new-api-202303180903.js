@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6352671163596800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6197146569457664.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,42 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'villain/problem generator', 
-      author: 'wade Kelley', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160/6279490420654080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4885783079986966447036924'
-    }, 
-    {
-      title: 'ex3 khan20', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex3-khan20/6538861619757056/6003079683293184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex3-khan20/6538861619757056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
-      title: 'Khan 20 Exercitul 2', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-20-exercitul-2/5932459851300864/6608592762617856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-20-exercitul-2/5932459851300864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'faisalrashed535', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6025566152343552/5705646923366400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6025566152343552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_622319576464191969182024'
-    }, 
-    {
       title: 'khan20 ex:1&2', 
       author: 'daria.alexandra.lazar', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/5778487857430528.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
+    }, 
+    {
+      title: 'khan 17 ex. 3', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048/4987234957967360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
+    }, 
+    {
+      title: '"응용: 좋아하는 링크" 프로젝트', 
+      author: 'k01086927114', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5763020673564672/5882559478415360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5763020673564672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'marzanken232', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5270439464321024/5085705606053888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5270439464321024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_74188448908754101485'
+    }, 
+    {
+      title: 'Fibonacci nerecursiv + recursiv', 
+      author: 'daria.alexandra.lazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024/6115314289131520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
     }, 
   ];
 };
