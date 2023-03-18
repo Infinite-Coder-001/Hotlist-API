@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1320010596207039412090514'
     }, 
     {
+      title: 'New program', 
+      author: 'Astro', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320/4630856687992832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
       title: 'My favorite error', 
       author: 'YokieBob', 
       votes: 3, 
@@ -847,6 +856,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
+      title: 'Riega la hojita', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/riega-la-hojita/5673364402520064/6284148816003072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/riega-la-hojita/5673364402520064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Castor Saltarin', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/castor-saltarin/5102006147792896/5202816945930240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/castor-saltarin/5102006147792896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
       title: 'Pasteles', 
       author: 'JD', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416/6538252469452800.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9153666755321934222822561'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'ramimandelsberg2662', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4679713420525568/5241176778391552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4679713420525568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1182806468341273300309178'
-    }, 
-    {
-      title: 'ABRE LA PUERTA', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abre-la-puerta/4883583535988736/5073230518075392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abre-la-puerta/4883583535988736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'velitas', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632/5650763294752768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
 };
