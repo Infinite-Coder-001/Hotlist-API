@@ -148,7 +148,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 9, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6102704268296192.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
@@ -757,42 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_510527438442022278936365'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'madison.shikuku', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4906695597015040/5690279933034496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4906695597015040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8301445437625570897976291'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'ryleebean64209', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5497531162476544/5598951446462464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5497531162476544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8785947079995118346737627'
-    }, 
-    {
-      title: 'Doodle Jump ', 
-      author: 'samidulislam0023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doodle-jump/4805608709865472/5751120527147008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/doodle-jump/4805608709865472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1112026153399099381049356'
-    }, 
-    {
-      title: '"프로젝트: 블로그" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5096225155366912/4858342385434624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5096225155366912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
-    }, 
-    {
       title: 'soalr sistem 18.03.2023', 
       author: 'rares', 
       votes: 1, 
@@ -898,6 +862,42 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/nowa-strona-internetowa/4958375596310528/4774600555937792.png', 
       link: 'https://www.khanacademy.org/computer-programming/nowa-strona-internetowa/4958375596310528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_874258581833557194137489'
+    }, 
+    {
+      title: 'best Project ever', 
+      author: 'StetcoAlx', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/best-project-ever/5833910719397888/5729323098357760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/best-project-ever/5833910719397888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2667782839576231404960266'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Neelam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4938806782640128/6033568914784256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4938806782640128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1068318383431669697202124'
+    }, 
+    {
+      title: 'Episode 3 [PRE-RELEASE]', 
+      author: 'Hibernia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/5674437241520128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'dawidbrianis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6557320248344576/5188167620935680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6557320248344576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_874258581833557194137489'
     }, 
   ];
