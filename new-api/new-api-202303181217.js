@@ -739,6 +739,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'nganthupham1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5362654425432064/6296014303838208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5362654425432064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3049430914183752989776547'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'aelha12', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6568897534017536/5946396181315584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6568897534017536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_96428973089921257287517'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Dana Thompson', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6711449444728832/5945407332204544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6711449444728832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4629616675374368182085008'
+    }, 
+    {
       title: 'Inspirováno programem "Projekt: Padající hvězda"', 
       author: 'Týna Alexandrová', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/keyboard-controls/6508564987559936/5404884755333120.png', 
       link: 'https://www.khanacademy.org/computer-programming/keyboard-controls/6508564987559936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_32249617768928565652531'
-    }, 
-    {
-      title: 'it seeks', 
-      author: 'michaelfernandez', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/it-seeks/6389587461324800/6088009604972544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/it-seeks/6389587461324800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391385483726485594665877'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
-      author: 'Drozdislav', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6231049433825280/6109519609643008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6231049433825280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_850916231382269390265978'
-    }, 
-    {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'shehryarmaken456', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5134912979255296/4803216345972736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5134912979255296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_732816134675744195265946'
     }, 
   ];
 };
