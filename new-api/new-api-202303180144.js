@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Agar.io', 
-      author: 'TheRealDeal', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
       title: 'T1\'s entry for subpage contest :)', 
       author: 'Blake Meloche (T1)[OffForWeekend]', 
       votes: 8, 
@@ -172,13 +163,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
-      title: 'contest (maybe)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 12, 
+      title: 'Agar.io', 
+      author: 'TheRealDeal', 
+      votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'GPT 5 goes farming (Comica #2)', 
@@ -188,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968/6181631117541376.png', 
       link: 'https://www.khanacademy.org/computer-programming/gpt-5-goes-farming-comica-2/6206542338899968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'contest (maybe)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
-      title: 'Contest: What\'s Cooking? - HTML Submissions', 
-      author: 'Evan Lewis', 
-      votes: 39, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
-    }, 
-    {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
       author: 'Hibernia', 
       votes: 23, 
@@ -341,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Contest: What\'s Cooking? - HTML Submissions', 
+      author: 'Evan Lewis', 
+      votes: 38, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
     {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
@@ -476,15 +476,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768/5473042228887552.png', 
       link: 'https://www.khanacademy.org/computer-programming/intro-for-me-tell-me-what-you-think/4869599340576768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'Apex Communities idea2', 
-      author: 'apex alt', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112/6375749965889536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'Pi Day Comic LOL 🥧', 
@@ -874,31 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Spin-off of "Resizing shapes with variable expressions"', 
-      author: 'Brett Kryger', 
+      title: 'Spin-off of "Challenge: Say Your Name"', 
+      author: 'fionaligolf', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5975270639321088/5313730986688512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5975270639321088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5954922100709751876149049'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/5897145318424576/6631596537200640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/5897145318424576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_812251583889253996413388'
     }, 
     {
-      title: 'Test art', 
-      author: 'mike.brown9709', 
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'esteban.hernandez5', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-art/5744440440569856/6623773254270976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-art/5744440440569856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_43944868756843309919768'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4567793283678208/6259607540645888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4567793283678208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_314068430824469823748255'
     }, 
     {
-      title: 'Favorite Book list database (SQL)', 
-      author: 'Passion George', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'steppingonlegos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-book-list-database-sql/5876680940109824/5617139354746880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favorite-book-list-database-sql/5876680940109824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_528992700193767168850430'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4641370063290368/6401628251144192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4641370063290368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1067515327133748513466034'
+    }, 
+    {
+      title: 'Cars', 
+      author: 'cheehongyuen1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cars/5681560844288000/6235747487367168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cars/5681560844288000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546875171912590304350037'
     }, 
   ];
 };
