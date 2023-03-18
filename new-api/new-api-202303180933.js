@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6746810715783168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6300901171314688.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Lisanne', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5513366371352576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5332651894685696.png', 
       link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
@@ -766,33 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987182949924628851050037'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Weronika Ilczuk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4618925872824320/4569028824973312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4618925872824320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_329565690218784780853392'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Marcin Bałdyga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4676365627736064/5336036698013696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4676365627736064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1345629632879503444703455'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'julia.sadulak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5285447422230528/4876715245748224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5285447422230528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_301241298835431188298273'
-    }, 
-    {
       title: 'One Riddle:Stage3(GAME)', 
       author: 'Shadow Fax', 
       votes: 7, 
@@ -803,102 +776,129 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Adrianna Badran', 
+      author: 'Damian Baliga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6436178075369472/6388030018732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6436178075369472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1005172644532243879860717'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6257833118318592/5646362647773184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6257833118318592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6288893866159684835271220'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Roksana Kmieć', 
+      title: 'New program', 
+      author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4837251478765568/5528346680410112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4837251478765568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1129236469370363581368953'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4615427621961728/5098331800125440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4615427621961728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Julia Blum', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'lavinia.mail', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6164575419678720/5518203508015104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6164575419678720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9336549653566352073654088'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5459776520896512/6554564691279872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5459776520896512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_650952256566248262800213'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Adrianna Klich', 
+      title: 'SMP_MLS7_Samuel', 
+      author: 'jeffy_jeff25', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5355979375165440/5243891063504896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5355979375165440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7683698742880420503527211'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smp_mls7_samuel/6667636349124608/5754402855239680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smp_mls7_samuel/6667636349124608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9924690036841654170568298'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Aleksandra Jewtuszik', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'benmaati75', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5371120339697664/5360987239923712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5371120339697664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2992224398433395763459565'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6067740885696512/5171356176269312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6067740885696512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6665246321789639763980615'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Jakub Szwaj', 
+      title: 'villain/problem generator', 
+      author: 'wade Kelley', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4875010348204032/4821732486856704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4875010348204032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_875948647839282078518843'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160/6279490420654080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4885783079986966447036924'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Paulina Pawlicka', 
+      title: 'game speedrun: 30 minutes', 
+      author: 'Underscore', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5395721781297152/5526616009916416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5395721781297152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1730068252227108330000925'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-speedrun-30-minutes/5233392818110464/6417789575544832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-speedrun-30-minutes/5233392818110464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Jok K', 
+      title: 'ex3 khan20', 
+      author: 'dani2710', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6063724621512704/6079128857264128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6063724621512704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_438048487272536835020792'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex3-khan20/6538861619757056/6003079683293184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex3-khan20/6538861619757056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Natalia Sławińska', 
+      title: 'Khan 20 Exercitul 2', 
+      author: 'david popescu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5290363750498304/6442370012069888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5290363750498304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_954327286577675737772217'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-20-exercitul-2/5932459851300864/6608592762617856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-20-exercitul-2/5932459851300864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Martyna Kowalczyk', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'faisalrashed535', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5406150092963840/6742242414084096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5406150092963840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_306257029007305196772622'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6025566152343552/5705646923366400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6025566152343552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_622319576464191969182024'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Joanna Górniak', 
+      title: 'khan20 ex:1&2', 
+      author: 'daria.alexandra.lazar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6001707172806656/6542314337255424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6001707172806656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex12/5447473587077120/5765336197808128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan20-ex12/5447473587077120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
+    }, 
+    {
+      title: 'ex2 L20', 
+      author: 'Troaca Andrei', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex2-l20/6263496234024960/5477329646436352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex2-l20/6263496234024960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
+    }, 
+    {
+      title: 'New program', 
+      author: 'daria.alexandra.lazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5111731295928320/6611042504589312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5111731295928320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'obgeet', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312/6185290583818240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
     }, 
   ];
 };
