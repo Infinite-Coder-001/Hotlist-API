@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 25, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Iphone Ad', 
+      author: 'Incognitus', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
       title: 'GPT 5 goes farming (Comica #2)', 
       author: 'Hibernia', 
       votes: 19, 
@@ -190,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'One Riddle:Hard(GAME)', 
+      author: 'Shadow Fax', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 51, 
@@ -197,24 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Iphone Ad', 
-      author: 'Incognitus', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
-    }, 
-    {
-      title: 'One Riddle:Hard(GAME)', 
-      author: 'Shadow Fax', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'Food maker!', 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Mr/Ms Misfit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/5141642589028352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/5200959506792448.png', 
       link: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -784,6 +784,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Brett Kryger', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6240540737978368/6172832759595008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6240540737978368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5954922100709751876149049'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'Erlin Isai', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584/5994431229771776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_551742734075114231411668'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Tom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5572037668290560/4780421944754176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5572037668290560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1068218227103174127032178'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'rshelton1494', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5424208487432192/5824294354731008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5424208487432192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9864271140298193487910812'
+    }, 
+    {
       title: 'GLITCH [Game]', 
       author: '▪Dipper98▪', 
       votes: 133, 
@@ -806,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'The Dalek Overlord', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552/5834275053420544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552/5513524678017024.png', 
       link: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_477656744587544472395627'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520/6096554408853504.png', 
       link: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830592981872810152835374'
-    }, 
-    {
-      title: 'New program', 
-      author: 'neha.n2002', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4662075295318016/5674575016017920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4662075295318016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4653779476024575607351674'
-    }, 
-    {
-      title: '', 
-      author: 'LavenderGalaxy', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944/5486289082433536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/4928459032018944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_811177991334006852288'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Lightning Driver, Esq.', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208/4641644404326400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6117181895262208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
-      title: 'Really guys? Get a life ŌwŌ', 
-      author: 'StuffStash', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824/6005499692892160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/really-guys-get-a-life-w/4972015704653824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
   ];
 };
