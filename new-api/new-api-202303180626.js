@@ -775,11 +775,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Planets are Moving', 
+      author: 'Thecoderofthenoobs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/planets-are-moving/6279092468236288/4520961225572352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/planets-are-moving/6279092468236288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Tahidul.R', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5638438167822336/4537779377979392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5638438167822336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
+    }, 
+    {
       title: 'New program', 
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/6491116347375616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/5736770168995840.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -806,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Thecoderofthenoobs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640/6317341500817408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640/5738342862077952.png', 
       link: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680/5296485988352000.png', 
       link: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'New program', 
-      author: 'TheRealDeal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5512853723594752/6376390992904192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5512853723594752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'Prado Macías Iliana Fernanda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440/4761972915879936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_811976060022869468243761'
     }, 
   ];
 };
