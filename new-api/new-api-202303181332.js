@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (3.5)', 
       author: 'redcharr', 
-      votes: 68, 
+      votes: 67, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'Play-dough', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/5912136700444672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
-    }, 
-    {
       title: 'pi', 
       author: 'Reader ✔', 
       votes: 51, 
@@ -352,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Play-dough', 
+      author: 'H.M. Wogglebug T.E.', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/5912136700444672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
       title: 'Ohnoes is annoying sometimes ', 
       author: 'LovelyPetals', 
       votes: 3, 
@@ -413,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'We were all noobs once!', 
-      author: '🥞PaNcAkEs🥞', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'Winston donuts', 
@@ -712,42 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Super Student', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5675804181970944/5463158536060928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5675804181970944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_504189230123785308866214'
-    }, 
-    {
-      title: 'Game tips', 
-      author: 'monsimir', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-tips/6308053698002944/5542957954678784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-tips/6308053698002944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
-    }, 
-    {
-      title: 'Tic-Tac-Toe', 
-      author: 'IshmelCoder', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/6071614342217728/5359113359114240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/6071614342217728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_539397466526678897361075'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: '23NirwanAs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5276983249649664/6189239937318912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5276983249649664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_274078637007646247435891'
-    }, 
-    {
       title: 'One Riddle(GAME)', 
       author: 'Shadow Fax', 
       votes: 9, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5645338838089728/5484226763079680.png', 
       link: 'https://www.khanacademy.org/computer-programming/webpage/5645338838089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'Savable Version', 
+      author: 'Noah H.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968/4551422995906560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Yggdrasil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4846167461773312/5144306911592448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4846167461773312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8952513001487222031496848'
+    }, 
+    {
+      title: 'Distances', 
+      author: 'Dementor333', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/distances/4615217977016320/5277745472126976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/distances/4615217977016320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_117886630968128649800291'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Dana Thompson', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5066026401447936/4748092286222336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5066026401447936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4629616675374368182085008'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Layzalsiyad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4938240386973696/4551089078976512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4938240386973696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_983205171519893778869601'
     }, 
   ];
 };
