@@ -847,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'velitas', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632/5650763294752768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
       title: 'Attacking Snake', 
       author: 'Incognitus', 
       votes: 14, 
@@ -865,33 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'sheppardmshannon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4972010168172544/6130496595869696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4972010168172544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358192858465492735571478'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'lkbbridges', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6375569275273216/4526188334989312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6375569275273216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5248098825289375352262924'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'Kerrisa Myvett', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6269926400901120/5577252798775296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6269926400901120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3204157221663827889318896'
-    }, 
-    {
       title: 'Random emojis (^-^*)', 
       author: 'verdertrio', 
       votes: 13, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5857877388738560.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Phyrexian Gargantua', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4593460055425024/4736694580723712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4593460055425024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'P3V5-Info_O3', 
+      author: 'Daniël Arends', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/p3v5-info_o3/4771194945716224/5358203879866368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/p3v5-info_o3/4771194945716224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2645783124664802891297601'
+    }, 
+    {
+      title: 'Draw if mousePressed', 
+      author: 'msagnor623', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/draw-if-mousepressed/5942539767300096/4818514848563200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/draw-if-mousepressed/5942539767300096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_570055176155353260164887'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Ally Rybinski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4571653818597376/6014352190914560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4571653818597376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_847135522044868070248183'
     }, 
   ];
 };
