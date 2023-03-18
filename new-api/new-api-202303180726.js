@@ -775,13 +775,85 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Game Summary', 
+      author: 'hadiyansari67', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-summary/6142510864056320/4855076465459200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-summary/6142510864056320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8489747395118292674694910'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'yasmin hatem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592/4768976799580160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5540864220170718260728691'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'hussien mohamed', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6590658922201088/5525838889271296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6590658922201088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2590381917601125469664371'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'joyce essam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6566765820952576/5126447998222336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6566765820952576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2682318884490850220258364'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'moreen emad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6490801304813568/4909751936008192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6490801304813568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28786969197032626070485'
+    }, 
+    {
+      title: 'Bugs that move across the screen in different ways', 
+      author: 'managingkvtech', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bugs-that-move-across-the-screen-in-different-ways/5246762651795456/5074000139304960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bugs-that-move-across-the-screen-in-different-ways/5246762651795456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1200785355994841284233587'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Parthenia Mamdouh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5813952543244288/4917879154982912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5813952543244288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8801297561043186309611271'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'reyjemarinas.school', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248/5505563489517568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248/5957056021708800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8709345732415210805464286'
+    }, 
+    {
+      title: 'Hot air balloon moving with the sun coming up', 
+      author: 'managingkvtech', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hot-air-balloon-moving-with-the-sun-coming-up/6578413638041600/5295712122486784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hot-air-balloon-moving-with-the-sun-coming-up/6578413638041600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1200785355994841284233587'
     }, 
     {
       title: 'Spin-off of "Project: Travel webpage"', 
@@ -806,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'nour  sameh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5140393021980672/5752843010359296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5140393021980672/5221595921825792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5140393021980672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9967508702743264939018325'
     }, 
@@ -815,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'karimyassersfs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5828471005954048/5047926063939584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5828471005954048/6643622579847168.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5828471005954048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_261627242826418299211834'
     }, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-rotation/4561865960374272/4670292138180608.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-rotation/4561865960374272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_185873630962504181135876'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'aiten tharwat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5034580597063680/4731904655147008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5034580597063680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5657501241320434688791623'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'marawan mohamed', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6432948598652928/5471440977838080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6432948598652928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3996061276077983161355046'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'mohamed tamer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6660510125965312/5542784481411072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6660510125965312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8156853192007667242622655'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'vdildy3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6023207779090432/5538682250772480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6023207779090432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_446064347613517758143109'
-    }, 
-    {
-      title: 'peisaj cv?', 
-      author: 'isbasoiuluca39', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/peisaj-cv/6446745107349504/6595535592275968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/peisaj-cv/6446745107349504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Jennifer Ayman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6428974274363392/5594578696847360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6428974274363392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9394016305221857906038862'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'khaled amr', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6349289917038592/4901461374058496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6349289917038592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6263041441541355808134745'
-    }, 
-    {
-      title: 'Spin-off of "BUGS"', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-bugs/4777197434093568/6168957356916736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-bugs/4777197434093568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
   ];
 };
