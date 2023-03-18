@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4652366021574656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6352671163596800.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,15 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'benmaati75', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6067740885696512/5171356176269312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6067740885696512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6665246321789639763980615'
-    }, 
-    {
       title: 'villain/problem generator', 
       author: 'wade Kelley', 
       votes: 1, 
@@ -791,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160/6279490420654080.png', 
       link: 'https://www.khanacademy.org/computer-programming/villainproblem-generator/6558527063900160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4885783079986966447036924'
-    }, 
-    {
-      title: 'game speedrun: 30 minutes', 
-      author: 'Underscore', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-speedrun-30-minutes/5233392818110464/6417789575544832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-speedrun-30-minutes/5233392818110464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
     {
       title: 'ex3 khan20', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816/6326385490837504.png', 
       link: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
+    }, 
+    {
+      title: 'Car Selection', 
+      author: 'sparky', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car-selection/4633060445569024/6487344627892224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/car-selection/4633060445569024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9753375279099118738703489'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'obgeet', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/5778487857430528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
     }, 
   ];
 };
