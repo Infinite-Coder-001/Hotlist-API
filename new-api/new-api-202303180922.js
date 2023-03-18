@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'Loading Images in PJS', 
       author: 'Noah H.', 
       votes: 13, 
@@ -149,9 +140,18 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6300901171314688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4652366021574656.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'T1\'s entry for subpage contest :)', 
@@ -775,42 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Damian Baliga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6257833118318592/5646362647773184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6257833118318592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6288893866159684835271220'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4615427621961728/5098331800125440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4615427621961728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lavinia.mail', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5459776520896512/6554564691279872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5459776520896512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_650952256566248262800213'
-    }, 
-    {
-      title: 'SMP_MLS7_Samuel', 
-      author: 'jeffy_jeff25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smp_mls7_samuel/6667636349124608/5754402855239680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smp_mls7_samuel/6667636349124608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9924690036841654170568298'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'benmaati75', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312/6185290583818240.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
+    }, 
+    {
+      title: 'Khan20 Exercitiul 1', 
+      author: 'david popescu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-exercitiul-1/4854935939497984/4541948314828800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan20-exercitiul-1/4854935939497984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
+    }, 
+    {
+      title: 'ex1 khan 20', 
+      author: 'Troaca Andrei', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex1-khan-20/5675203926736896/6075724961464320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex1-khan-20/5675203926736896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
+    }, 
+    {
+      title: 'ex2 khan20', 
+      author: 'dani2710', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex2-khan20/4762080726269952/4834413210025984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex2-khan20/4762080726269952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
+    }, 
+    {
+      title: 'Sah khan 17', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816/6326385490837504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
   ];
 };
