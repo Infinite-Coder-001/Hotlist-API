@@ -784,38 +784,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'JoshuaInGrace', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5433208923799552/5924520839135232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5433208923799552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150325074368727876095396'
-    }, 
-    {
-      title: 'wip', 
-      author: 'TheRealDeal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5051059849707520/4504127976816640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5051059849707520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Tahidul.R', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4694711644504064/5784459271258112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4694711644504064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
-    }, 
-    {
       title: 'Side scrolling | take 5 |', 
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/side-scrolling-take-5/5886017595031552/5143984349691904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/side-scrolling-take-5/5886017595031552/5804526734196736.png', 
       link: 'https://www.khanacademy.org/computer-programming/side-scrolling-take-5/5886017595031552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872/6634248746614784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1806369460308185848316745'
+    }, 
+    {
+      title: 'Any code in 1 line, 0 semicolons, no var\'s, no `function`s, no equals', 
+      author: 'Archbirdplus', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/any-code-in-1-line-0-semicolons-no-vars-no-functions-no-equals/6520614719635456/6201754062733312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/any-code-in-1-line-0-semicolons-no-vars-no-functions-no-equals/6520614719635456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alonsogomez032', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5101449141075968/6749337764020224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5101449141075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_844578508718719832178972'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'imanimhibbert', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6542297254903808/6704563937918976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6542297254903808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1004625356879670404281106'
     }, 
   ];
 };
