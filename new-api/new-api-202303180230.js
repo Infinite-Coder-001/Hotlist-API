@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 75, 
+      votes: 74, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -847,51 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Pasteles', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pasteles/4863510640377856/4661517318668288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pasteles/4863510640377856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Derivado de "Cambiar renglones con UPDATE y DELETE"', 
-      author: 'Bello Villegas Luis Miguel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-renglones-con-update-y-delete/4531892823310336/6607777621655552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-renglones-con-update-y-delete/4531892823310336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89272549444509967808685'
-    }, 
-    {
-      title: 'Project: Travel webpage ITALY', 
-      author: 'Ghanbari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416/6538252469452800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9153666755321934222822561'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'ramimandelsberg2662', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4679713420525568/5241176778391552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4679713420525568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1182806468341273300309178'
-    }, 
-    {
-      title: 'ABRE LA PUERTA', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abre-la-puerta/4883583535988736/5073230518075392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abre-la-puerta/4883583535988736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
       title: 'velitas', 
       author: 'JD', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632/5650763294752768.png', 
       link: 'https://www.khanacademy.org/computer-programming/velitas/5148577246789632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Attacking Snake', 
+      author: 'Incognitus', 
+      votes: 14, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056/6436743433994240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attacking-snake/5904795183661056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'sheppardmshannon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4972010168172544/6130496595869696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4972010168172544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_358192858465492735571478'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'lkbbridges', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6375569275273216/4526188334989312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6375569275273216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5248098825289375352262924'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Kerrisa Myvett', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6269926400901120/5577252798775296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6269926400901120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3204157221663827889318896'
+    }, 
+    {
+      title: 'Random emojis (^-^*)', 
+      author: 'verdertrio', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752/5857877388738560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/random-emojis-/5718012860874752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7524743249071512577499552'
     }, 
   ];
 };
