@@ -865,6 +865,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'peas on a plate', 
+      author: 'AVbear', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/peas-on-a-plate/6328235514445824/6028345429245952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/peas-on-a-plate/6328235514445824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_916339569405269886640226'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'qian hanyu', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120/5154211807674368.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7969477878178863469055172'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas Christian Ballen"', 
-      author: 'Christian Ballen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-christian-ballen/5623461885296640/6603778101133312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-christian-ballen/5623461885296640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9454160860516218942711967'
     }, 
   ];
 };
