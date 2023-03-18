@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5170408098938880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6197146569457664.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,11 +775,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'khan20 ex:1&2', 
+      author: 'daria.alexandra.lazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex12/5447473587077120/5765336197808128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan20-ex12/5447473587077120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
+    }, 
+    {
+      title: 'ex2 L20', 
+      author: 'Troaca Andrei', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex2-l20/6263496234024960/5477329646436352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex2-l20/6263496234024960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
+    }, 
+    {
+      title: 'New program', 
+      author: 'daria.alexandra.lazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5111731295928320/6611042504589312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5111731295928320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'obgeet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312/6363493508104192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312/6185290583818240.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024/6115314289131520.png', 
       link: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
-    }, 
-    {
-      title: 'ex1 khan20', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex1-khan20/5886118261473280/6723788214681600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex1-khan20/5886118261473280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
-      title: 'Khan19-Fibonacci nerecursiv+recursiv', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursivrecursiv/5158379673927680/6557482987339776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursivrecursiv/5158379673927680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'Apex Community ideas3', 
-      author: 'apex', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576/5291405380730880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
   ];
 };
