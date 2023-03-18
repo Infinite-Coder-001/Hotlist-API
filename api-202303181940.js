@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 79, 
+      votes: 80, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5845310300798976.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Play-dough', 
       author: 'H.M. Wogglebug T.E.', 
       votes: 9, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-unwanted-game/5615457774387200/5938341101223936.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-unwanted-game/5615457774387200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
-    }, 
-    {
-      title: 'Loading Images in PJS', 
-      author: 'Noah H.', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Rope Physics', 
