@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 39, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6326237985554432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5649986999336960.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
+      title: 'Messi The Goat', 
+      author: 'Timothy Lightson', 
+      votes: 46, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Episode 3 [PRE-RELEASE]', 
       author: 'Hibernia', 
       votes: 3, 
@@ -287,15 +296,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/4819825719558144.png', 
       link: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Messi The Goat', 
-      author: 'Timothy Lightson', 
-      votes: 45, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'pi', 
@@ -631,6 +631,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'bryangonsalescompunet2021', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5373082602881024/4595174102843392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5373082602881024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_631398096826740927234558'
+    }, 
+    {
+      title: 'opdracht 3 - dobbelstenen', 
+      author: 'Marielinde Heijnen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/4875652378705920/5116131489923072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/4875652378705920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2274890599945009351793735'
+    }, 
+    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'Blair Graff', 
       votes: 1, 
@@ -829,12 +847,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9710316231080694486576361'
     }, 
     {
-      title: 'Scene 44 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Scene 43 (Angel.M, Wilmer, Jerry) complete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-44-angelm-wilmer-jerry-incomplete/4675221824258048/5785069760593920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-44-angelm-wilmer-jerry-incomplete/4675221824258048', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-43-angelm-wilmer-jerry-complete/4675221824258048/6480246389129216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-43-angelm-wilmer-jerry-complete/4675221824258048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -880,24 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4970975819251712/6627678251958272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4970975819251712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8983420612420142979943741'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'chiomaokanu2002', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6131191477747712/6417318873972736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6131191477747712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_51765487671466227487043'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'brooke.liebell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6132341824339968/5221649709580288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6132341824339968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8983420612420142979943741'
     }, 
   ];
