@@ -505,12 +505,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Meow :3', 
+      title: 'Learning Html', 
       author: 'Mr/Ms Misfit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/meow-3/6273235069222912/5700045245825024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/meow-3/6273235069222912', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/6150016685359104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
@@ -784,11 +784,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'tamchandak26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6301764389486592/6136614444384256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6301764389486592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_474711458269780634351932'
+    }, 
+    {
+      title: 'Bell flower', 
+      author: 'Longproboy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bell-flower/6214184774975488/5748320913113088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bell-flower/6214184774975488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179868604912258882671577'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Simple snowman"', 
       author: 'JoshuaInGrace', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5433208923799552/5924520839135232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5433208923799552/4969205420310528.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5433208923799552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150325074368727876095396'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120/6234021819629568.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1098887434052077877476486'
-    }, 
-    {
-      title: 'minecraft', 
-      author: 'laryr0987', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft/5406480137502720/6300734472896512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minecraft/5406480137502720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_696866479229045420125773'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Pyke Nwachukwu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872/6634248746614784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1806369460308185848316745'
     }, 
   ];
 };
