@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 40, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5649986999336960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5541403649425408.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
@@ -622,6 +622,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Lucas Pung "Proyecto: haz que llueva"', 
+      author: 'lpunted256', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lucas-pung-proyecto-haz-que-llueva/4755282430574592/4846720267894784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lucas-pung-proyecto-haz-que-llueva/4755282430574592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_685571126711517381269706'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Eduard Codeup', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6493422406123520/6249649054990336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6493422406123520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'alekgajewski0511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5928806344081408/6368633879314432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5928806344081408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_806802302527590231089801'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Zaproszenie na specjalną okazję"', 
+      author: 'alekgajewski0511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/6411962885128192/5428302665007104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/6411962885128192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_806802302527590231089801'
+    }, 
+    {
       title: 'Spin-off of "Project: App impersonator"', 
       author: 'textellent', 
       votes: 1, 
@@ -779,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'iva.ivanovska12', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nice-car/6450375693746176/5749289931554816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nice-car/6450375693746176/6167724972883968.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nice-car/6450375693746176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1646232451683174001915'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/color-me-plz/5874787667984384/5013832952233984.png', 
       link: 'https://www.khanacademy.org/computer-programming/color-me-plz/5874787667984384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3051160711715090388744570'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'Julia Purzycka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/4725445826494464/5103349331705856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/4725445826494464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8138925002576740142435909'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'akihiro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5149357890650112/6159870081679360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5149357890650112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_632492854433085537966394'
-    }, 
-    {
-      title: 'Duolingo! First Lesson [No PJS]', 
-      author: 'atharv', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo-first-lesson-no-pjs/6225188481187840/5882408013709312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo-first-lesson-no-pjs/6225188481187840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_623156253374606162339808'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Oliwia Grodzka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5992839843725312/5907556456513536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5992839843725312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_201715806486658711396091'
     }, 
   ];
 };
