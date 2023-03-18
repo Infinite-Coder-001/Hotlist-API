@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
-      votes: 45, 
+      votes: 44, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
@@ -739,33 +739,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
-      title: 'Inspirováno programem "Projekt: Padající hvězda"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-padajc-hvzda/5940303770206208/6151008960167936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-padajc-hvzda/5940303770206208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: 'Derivado de "Desafío: ids estacionales"', 
-      author: 'blancafragarodri', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/6350087606550528/4829407727632384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/6350087606550528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614665925245877170793161'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'Levi Grubbs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6621766970818560/5623021852475392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6621766970818560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815140607287672383099603'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
       author: 'Adrianna Badran', 
       votes: 1, 
@@ -788,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'Levi Grubbs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6205621818146816/5497874894077952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6205621818146816/5785956738449408.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6205621818146816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815140607287672383099603'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5134912979255296/4803216345972736.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5134912979255296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_732816134675744195265946'
+    }, 
+    {
+      title: 'Spin-off of "Nested For Loops"', 
+      author: 'malak elseragy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/6006632493662208/5732990463557632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/6006632493662208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6158169663082366644087186'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'aditinagwekar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6064288470188032/5866379259723776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6064288470188032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_330598506161728790033682'
+    }, 
+    {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'robocar0625', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4734819998416896/4870147035938816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4734819998416896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1115685349295936312814148'
     }, 
   ];
 };
