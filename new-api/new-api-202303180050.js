@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Noah H.', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/6433807890956288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5273256255078400.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
@@ -865,24 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Spin-off of "Project: Word game " Najwa', 
-      author: 'Najwa Salsabila - 09031182126002', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-najwa/6747567885172736/6726695770177536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-najwa/6747567885172736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_127752732396182929501810'
-    }, 
-    {
-      title: 'Mous X & Y Graph', 
-      author: 'Hamza Wali', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mous-x-y-graph/4524864646201344/4618551908679680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mous-x-y-graph/4524864646201344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1190067887367113436621383'
-    }, 
-    {
       title: 'Derivado de "Hacer animaciones"', 
       author: 'israe_jm31', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616/5342091393941504.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_770890804090840609582735'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'gregjame86', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5133952379830272/5831682265759744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5133952379830272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_765355089183683588830583'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'melissan352', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5359960202723328/5264757655650304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5359960202723328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3232719578505868725082396'
     }, 
   ];
 };
