@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 43, 
+      votes: 42, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Agar.io', 
-      author: 'TheRealDeal', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
       title: 'Loading Images in PJS', 
       author: 'Noah H.', 
       votes: 13, 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024/6367978491002880.png', 
       link: 'https://www.khanacademy.org/computer-programming/crashed-computer/5727102832001024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Agar.io', 
+      author: 'TheRealDeal', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
       title: 'T1\'s entry for subpage contest :)', 
@@ -829,24 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Venu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5013142700867584/6294835701268480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5013142700867584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2230724778460153840539796'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'natasha sambaya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6656166568706048/6322939450671104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6656166568706048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1117942556758059209273367'
-    }, 
-    {
       title: 'Derivado de "Desafío: escribe un poema"', 
       author: 'anival0419', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616/4839963797798912.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'ldoster26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340674393423872/4533447433699328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340674393423872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_702821545406142132367755'
+    }, 
+    {
+      title: 'Helping Someone', 
+      author: '▪Dipper98▪', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856/5475120003203072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
   ];
 };
