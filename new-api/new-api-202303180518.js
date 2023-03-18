@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 43, 
+      votes: 44, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'T1\'s entry for subpage contest :)', 
       author: 'Blake Meloche (T1)[OffForWeekend]', 
       votes: 8, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'contest (maybe)', 
@@ -775,6 +775,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'Chashan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120/6234021819629568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1098887434052077877476486'
+    }, 
+    {
+      title: 'minecraft', 
+      author: 'laryr0987', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft/5406480137502720/6300734472896512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minecraft/5406480137502720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_696866479229045420125773'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Pyke Nwachukwu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872/6634248746614784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5687673488719872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1806369460308185848316745'
+    }, 
+    {
+      title: 'Any code in 1 line, 0 semicolons, no var\'s, no `function`s, no equals', 
+      author: 'Archbirdplus', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/any-code-in-1-line-0-semicolons-no-vars-no-functions-no-equals/6520614719635456/6201754062733312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/any-code-in-1-line-0-semicolons-no-vars-no-functions-no-equals/6520614719635456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alonsogomez032', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5101449141075968/6749337764020224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5101449141075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_844578508718719832178972'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'imanimhibbert', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5265583732211712/6606626472902656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5265583732211712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001706538016934888850340'
-    }, 
-    {
-      title: 'GLaDOS WIP', 
-      author: 'The Dalek Overlord', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552/5156800937902080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_477656744587544472395627'
-    }, 
-    {
-      title: 'Day 254', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-254/5666786361262080/5130033490608128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-254/5666786361262080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'chis423w', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6262867152388096/5591595976278016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6262867152388096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9359422532161002135441259'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database" Floral Shop', 
-      author: 'nguyen.samantha77', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-floral-shop/6222757929205760/6213637364826112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-floral-shop/6222757929205760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7029508933808627858257008'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'diego.daza.2022.9', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6472806294667264/6293172377665536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6472806294667264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5633249679167706921164984'
     }, 
   ];
 };
