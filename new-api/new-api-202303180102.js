@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 40, 
+      votes: 39, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Offline)', 
+      author: 'CylenceScythe (Online)', 
       votes: 61, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Noah H.', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/6433807890956288.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'qian hanyu', 
+      title: 'Spin-off of "Project: Word game " Najwa', 
+      author: 'Najwa Salsabila - 09031182126002', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5749814182854656/5636656024829952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5749814182854656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6965844200490341270238274'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-najwa/6747567885172736/6726695770177536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-najwa/6747567885172736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_127752732396182929501810'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Javier Martín ', 
+      title: 'Mous X & Y Graph', 
+      author: 'Hamza Wali', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6089455499001856/5493313535000576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6089455499001856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mous-x-y-graph/4524864646201344/4618551908679680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mous-x-y-graph/4524864646201344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1190067887367113436621383'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Kacper Koelner', 
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'israe_jm31', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120/5154211807674368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7969477878178863469055172'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4898715376861184/4784432571793408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4898715376861184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770890804090840609582735'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas Christian Ballen"', 
-      author: 'Christian Ballen', 
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'israe_jm31', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-christian-ballen/5623461885296640/6603778101133312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-christian-ballen/5623461885296640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9454160860516218942711967'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616/5342091393941504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5226902921199616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770890804090840609582735'
     }, 
   ];
 };
