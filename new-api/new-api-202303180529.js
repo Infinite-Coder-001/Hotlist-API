@@ -640,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
     }, 
     {
+      title: 'l: ) Mc Skin', 
+      author: 'cjcool', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/l-mc-skin/5565449993764864/4559562378362880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/l-mc-skin/5565449993764864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'Never Say Goodbye - For Aragorn Elessar', 
       author: 'PenGwen', 
       votes: 41, 
@@ -775,6 +784,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Saltarines de noche', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680/5296485988352000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'New program', 
+      author: 'TheRealDeal', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5512853723594752/6376390992904192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5512853723594752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'Prado Macías Iliana Fernanda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440/4761972915879936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_811976060022869468243761'
+    }, 
+    {
+      title: 'Hojita saltarina', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hojita-saltarina/6291083342692352/6502114886205440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hojita-saltarina/6291083342692352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
       title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
       author: 'Chashan', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6240540737978368/6172832759595008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6240540737978368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5954922100709751876149049'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Erlin Isai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584/6619038522589184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_551742734075114231411668'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'Tom', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5572037668290560/4780421944754176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5572037668290560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1068218227103174127032178'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'rshelton1494', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5424208487432192/5824294354731008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5424208487432192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9864271140298193487910812'
-    }, 
-    {
-      title: 'GLITCH [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 133, 
-      forks: 11, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328/4878497824948224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Dravin Zuber', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5265583732211712/6606626472902656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5265583732211712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001706538016934888850340'
     }, 
   ];
 };
