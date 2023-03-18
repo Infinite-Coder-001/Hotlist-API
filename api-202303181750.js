@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 39, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5316438359588864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/6326237985554432.png', 
       link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
@@ -44,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5845310300798976.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'NIGHT TIME', 
+      author: 'Xiøn 😋🤩', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Unusual Fellow', 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592/5423267265691648.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-35/6553942723182592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
-    }, 
-    {
-      title: 'NIGHT TIME', 
-      author: 'Xiøn 😋🤩', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'khanmigo is soo cute!', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'Apex Communities idea2', 
+      author: 'apex alt', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112/6375749965889536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'We were all noobs once!', 
       author: '🥞PaNcAkEs🥞', 
       votes: 4, 
@@ -244,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
+      author: 'matthew.nicholas.smith', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 51, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Apex Communities idea2', 
-      author: 'apex alt', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112/6375749965889536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
-      title: '3D engine, efficient, more efficient, even more efficient, pov update', 
-      author: 'matthew.nicholas.smith', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128/5702077013868544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-engine-efficient-more-efficient-even-more-efficient-pov-update/5239595002544128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
   ];
 };
