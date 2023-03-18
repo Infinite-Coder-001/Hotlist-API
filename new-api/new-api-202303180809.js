@@ -775,33 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Challenge: Links for learning"', 
-      author: 'marzanken232', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5270439464321024/5085705606053888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5270439464321024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_74188448908754101485'
-    }, 
-    {
-      title: 'Fibonacci nerecursiv + recursiv', 
-      author: 'daria.alexandra.lazar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024/6115314289131520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fibonacci-nerecursiv-recursiv/4651578428801024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
-    }, 
-    {
-      title: 'ex1 khan20', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex1-khan20/5886118261473280/6723788214681600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex1-khan20/5886118261473280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
       title: 'Khan19-Fibonacci nerecursiv+recursiv', 
       author: 'david popescu', 
       votes: 1, 
@@ -860,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688/5106107371798528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688/5860609343406080.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368/5971965463805952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Byron Beam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5001320638758912/5534274540584960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5001320638758912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5531665639128527342633092'
+    }, 
+    {
+      title: 'Game Summary', 
+      author: 'hadiyansari67', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-summary/6142510864056320/4855076465459200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-summary/6142510864056320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8489747395118292674694910'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'yasmin hatem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592/4768976799580160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5540864220170718260728691'
     }, 
   ];
 };
