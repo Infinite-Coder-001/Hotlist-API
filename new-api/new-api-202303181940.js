@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 79, 
+      votes: 80, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5845310300798976.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
+      title: 'Loading Images in PJS', 
+      author: 'Noah H.', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Play-dough', 
       author: 'H.M. Wogglebug T.E.', 
       votes: 9, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-unwanted-game/5615457774387200/5938341101223936.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-unwanted-game/5615457774387200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
-    }, 
-    {
-      title: 'Loading Images in PJS', 
-      author: 'Noah H.', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Rope Physics', 
@@ -265,7 +265,7 @@ var LoadHotlistAPI = function() {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 51, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
@@ -359,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/5597812673003520.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Proscribir', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5949953353760768/4616136026275840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5949953353760768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
       title: 'Hopper’s journey.', 
@@ -622,6 +631,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'giel.roza_d_2022', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6117661220323328/4823218612649984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6117661220323328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_829621383937602848408366'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
+      author: 'Mario Reis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6645962196172800/6338386434768896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6645962196172800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8332987266880517803911168'
+    }, 
+    {
+      title: 'A bad Program', 
+      author: 'William Cooper', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-bad-program/5847646863671296/5767895394336768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-bad-program/5847646863671296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9923787052432795692327592'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'lisettesand', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6089289776807936/5959473819860992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6089289776807936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7337383520477082237956823'
+    }, 
+    {
       title: 'Table1', 
       author: 'shiva.kasera', 
       votes: 1, 
@@ -680,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'lucas.schirmer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primeiro-projeto/6090508775768064/4842808428249088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primeiro-projeto/6090508775768064/6653881377669120.png', 
       link: 'https://www.khanacademy.org/computer-programming/primeiro-projeto/6090508775768064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1205932876141945496410377'
     }, 
@@ -734,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'safina iram', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5540985494093824/5925552165011456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5540985494093824/5443470274904064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5540985494093824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639425711050139762860215'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4880374561030144/5736092503687168.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4880374561030144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_327356089991301160646584'
-    }, 
-    {
-      title: 'Opdracht 3 5v', 
-      author: 'Mats Boermans', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/opdracht-3-5v/6573750779953152/4773225995485184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/opdracht-3-5v/6573750779953152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794135451487919337595275'
-    }, 
-    {
-      title: 'Spin-off of "Custom Shoe Store"', 
-      author: 'brooke.liebell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-custom-shoe-store/5796681473114112/6178456082890752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-custom-shoe-store/5796681473114112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8983420612420142979943741'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Pessoas famosas"', 
-      author: 'joaovitor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pessoas-famosas/4747371839012864/4522800615571456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pessoas-famosas/4747371839012864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_252034852040174007752679'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'lachama106', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5258643803258880/5341778132910080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5258643803258880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_648977777019626127341454'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'catherinecleetus26', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5097896266743808/4733979023687680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5097896266743808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3356199023659916930167132'
     }, 
   ];
 };
