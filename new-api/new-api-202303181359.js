@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 10, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6634470544556032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5794104086937600.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
-      title: 'Iphone Ad', 
-      author: 'Incognitus', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
-    }, 
-    {
       title: 'T1\'s entry for subpage contest :)', 
       author: 'Blake Meloche (T1)[OffForWeekend]', 
       votes: 8, 
@@ -199,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Iphone Ad', 
+      author: 'Incognitus', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
+    }, 
+    {
       title: 'GPT 5 goes farming (Comica #2)', 
       author: 'Hibernia', 
       votes: 19, 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Play-dough', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/5912136700444672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
-    }, 
-    {
       title: 'Collaboration between LJE, Seth, and Arwen.', 
       author: 'Arwen Undómiel', 
       votes: 51, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'Play-dough', 
+      author: 'H.M. Wogglebug T.E.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/5912136700444672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
       title: 'pi', 
@@ -676,15 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Vamo trabaia', 
-      author: 'Iury Rezende', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vamo-trabaia/4674483153846272/4580938766139392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vamo-trabaia/4674483153846272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
-    }, 
-    {
       title: 'Spin-off of "Project: Scene change" Muhamad Meiko Triputra', 
       author: 'Muhamad Meiko Triputra - 09031282126035', 
       votes: 2, 
@@ -692,15 +683,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304/4733473187479552.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-muhamad-meiko-triputra/5066033629282304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_539355796509485009852546'
-    }, 
-    {
-      title: 'Que tu y tu Paraiso Estan Aqui', 
-      author: 'Alexander', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/que-tu-y-tu-paraiso-estan-aqui/6303317694398464/5291333940199424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/que-tu-y-tu-paraiso-estan-aqui/6303317694398464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_216163898184276752362931'
     }, 
     {
       title: 'Nowy program', 
@@ -770,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'IshmelCoder', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/6071614342217728/5651263171903488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/6071614342217728/5359113359114240.png', 
       link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/6071614342217728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_539397466526678897361075'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4521056788594688/5209522466766848.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4521056788594688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8687086164772343266680235'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'Leon Belczak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5375812997267456/4656946537086976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5375812997267456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1798164796055346327035136'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'sarah.ibrahim1043', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6316700611166208/6661414887669760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6316700611166208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_791847343860540406050102'
     }, 
   ];
 };
