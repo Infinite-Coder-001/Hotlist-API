@@ -766,42 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987182949924628851050037'
     }, 
     {
-      title: 'Sean Pong', 
-      author: 'Sean Byrne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sean-pong/6204623436431360/5740696504156160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sean-pong/6204623436431360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Roksana Kmieć', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6258269929914368/6394420591378432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6258269929914368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1129236469370363581368953'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Gabriela Mierzwa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5826946899689472/5770259102744576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5826946899689472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5322453466936442347388980'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Marcin Bałdyga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5669114300645376/5951280901308416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5669114300645376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1345629632879503444703455'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Adrianna Pilawa', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5725343811158016/5850635858919424.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5725343811158016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1066801445540741353876627'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Weronika Ilczuk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5998178790064128/5026970518994944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5998178790064128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_329565690218784780853392'
+    }, 
+    {
+      title: 'move me lots', 
+      author: 'Sean Byrne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-me-lots/4776968391540736/5307313097588736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-me-lots/4776968391540736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Paulina Pawlicka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5410272590479360/4764950398812160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5410272590479360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1730068252227108330000925'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Aleksandra Jewtuszik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6608526727495680/6167390096506880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6608526727495680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2992224398433395763459565'
     }, 
   ];
 };
