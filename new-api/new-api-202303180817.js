@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6409153674526720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5646769411375104.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,33 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'obgeet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/4549760457687040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
-    }, 
-    {
-      title: 'khan 17 ex. 3', 
-      author: 'specialtelefon2018', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048/4995813953814528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
-    }, 
-    {
-      title: '"응용: 좋아하는 링크" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5763020673564672/5882559478415360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5763020673564672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Links for learning"', 
       author: 'marzanken232', 
       votes: 1, 
@@ -842,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'apex', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576/5291405380730880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576/5655768025317376.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384/5534939253882880.png', 
       link: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'Khan19 - Fibonacci nerecursiv + recursiv ', 
+      author: 'TraineriCodeup', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursiv-recursiv/4785452696780800/5461088297861120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursiv-recursiv/4785452696780800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112231961402615501577939'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Passion George', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6726839822499840/6467971637886976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6726839822499840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_528992700193767168850430'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Yan Agundiz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368/5971965463805952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
     }, 
   ];
 };
