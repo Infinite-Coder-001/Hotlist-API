@@ -775,24 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Rozy Adel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6616269882441728/5084756985561088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6616269882441728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7528036614692124877269049'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Yan Agundiz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4995970116141056/5461435247542272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4995970116141056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
-    }, 
-    {
       title: 'Planets are Moving', 
       author: 'Thecoderofthenoobs', 
       votes: 1, 
@@ -815,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/6566100637892608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/5736770168995840.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -842,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Thecoderofthenoobs', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640/6215158253010944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640/5738342862077952.png', 
       link: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5798965456191488/5608577941422080.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5798965456191488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
+    }, 
+    {
+      title: 'Espacial', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/espacial/6721621199208448/6106927224635392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/espacial/6721621199208448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Saltarines de noche', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680/5296485988352000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/saltarines-de-noche/6619289442631680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
 };
