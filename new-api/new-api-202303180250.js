@@ -595,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
+      title: 'New program', 
+      author: 'Phyrexian Gargantua', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6243489786675200/4525025120272384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6243489786675200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'AGUANTE QUILMES', 
       author: 'MONTSRL', 
       votes: 2, 
@@ -856,49 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Riega la hojita', 
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'walterquiroz.asm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5774436659937280/6232996443373568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5774436659937280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223808951790222969682847'
+    }, 
+    {
+      title: 'Baby Registry', 
+      author: 'eugene.germanii', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-registry/5541682483609600/5434413796343808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/baby-registry/5541682483609600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_240273655359524929834932'
+    }, 
+    {
+      title: 'Dibuja amigos', 
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/riega-la-hojita/5673364402520064/6284148816003072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/riega-la-hojita/5673364402520064', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dibuja-amigos/5896429635944448/4993301260582912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dibuja-amigos/5896429635944448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
-      title: 'Castor Saltarin', 
+      title: 'colores', 
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/castor-saltarin/5102006147792896/5202816945930240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/castor-saltarin/5102006147792896', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/colores/4787207727792128/5121940279050240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/colores/4787207727792128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Pasteles', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pasteles/4863510640377856/4661517318668288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pasteles/4863510640377856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Derivado de "Cambiar renglones con UPDATE y DELETE"', 
-      author: 'Bello Villegas Luis Miguel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-renglones-con-update-y-delete/4531892823310336/6607777621655552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-renglones-con-update-y-delete/4531892823310336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89272549444509967808685'
-    }, 
-    {
-      title: 'Project: Travel webpage ITALY', 
-      author: 'Ghanbari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416/6538252469452800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-travel-webpage-italy/5989650525372416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9153666755321934222822561'
     }, 
   ];
 };
