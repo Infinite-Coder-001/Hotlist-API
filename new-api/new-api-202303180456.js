@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'TheRealDeal', 
       votes: 75, 
       forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/6470367407554560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5845310300798976.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
@@ -487,12 +487,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Learning Html', 
+      title: 'Meow :3', 
       author: 'Mr/Ms Misfit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/5200959506792448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meow-3/6273235069222912/4993704987508736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meow-3/6273235069222912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
@@ -611,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840/5190401504100352.png', 
       link: 'https://www.khanacademy.org/computer-programming/tomato-sauce-with-herbs-p/6358187894947840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Mr/Ms Misfit', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6243489786675200/4525025120272384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6243489786675200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'AGUANTE QUILMES', 
@@ -784,6 +775,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_191858554304309919445022'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: '陈 曦', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6520557741064192/6206810178764800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6520557741064192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4231280948645011152644742'
+    }, 
+    {
+      title: 'Challenge: Say Your Name', 
+      author: 'derrick.tumwesigye1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-say-your-name/5392564171882496/5546598174343168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-say-your-name/5392564171882496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_538079386953354576672311'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Brett Kryger', 
       votes: 1, 
@@ -797,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'Erlin Isai', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584/5994431229771776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584/6619038522589184.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6423699718979584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_551742734075114231411668'
     }, 
@@ -842,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'The Dalek Overlord', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552/5513524678017024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552/5156800937902080.png', 
       link: 'https://www.khanacademy.org/computer-programming/glados-wip/5742127670935552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_477656744587544472395627'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6307085585530880/6537962495197184.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6307085585530880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6202436109194775102305197'
-    }, 
-    {
-      title: 'Bonsai', 
-      author: 'Roen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520/6096554408853504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830592981872810152835374'
     }, 
   ];
 };
