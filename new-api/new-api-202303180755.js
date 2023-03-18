@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Food maker!', 
-      author: 'Deathly Hallows', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
       title: 'One Riddle:Hard(GAME)', 
       author: 'Shadow Fax', 
       votes: 13, 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
+      title: 'Food maker!', 
+      author: 'Deathly Hallows', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: '3D engine, efficient, more efficient, even more efficient, pov update', 
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'NIGHT TIME', 
-      author: 'Xiøn 😋🤩', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Play-dough', 
       author: 'H.M. Wogglebug T.E.', 
       votes: 3, 
@@ -368,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
-    }, 
-    {
-      title: 'Zachary Williamson from the Unwanted', 
-      author: 'exploding_kitten💣🔥', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
       title: 'Oh Noes Saga Episode 2 - Who Dunnit', 
@@ -469,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Zachary Williamson from the Unwanted', 
+      author: 'exploding_kitten💣🔥', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
+    }, 
+    {
       title: 'Spin-off of "Project: Word game " ablah', 
       author: 'Ablah Nurhaliza - 09031282126053', 
       votes: 3, 
@@ -503,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/6291316260782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
+    }, 
+    {
+      title: 'NIGHT TIME', 
+      author: 'Xiøn 😋🤩', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Learning Html', 
@@ -775,60 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Khan19-Fibonacci nerecursiv+recursiv', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursivrecursiv/5158379673927680/6557482987339776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursivrecursiv/5158379673927680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'Apex Community ideas3', 
-      author: 'apex', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576/5655768025317376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Fibonacci recursiv si nerecursiv', 
-      author: 'Troaca Andrei', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-recursiv-si-nerecursiv/4976674237366272/5828828028256256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fibonacci-recursiv-si-nerecursiv/4976674237366272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
-    }, 
-    {
-      title: 'Sirul lui Fibonacci khan19', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sirul-lui-fibonacci-khan19/5628975482454016/4535184751116288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sirul-lui-fibonacci-khan19/5628975482454016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Bonnie Snipes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4824191624069120/4708898729934848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4824191624069120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3498212297584075448701419'
-    }, 
-    {
-      title: 'Exploding moon', 
-      author: 'Huda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712/4820726189441024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063239105511073987203587'
-    }, 
-    {
       title: 'New program', 
       author: 'Xiøn 😋🤩', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592/4768976799580160.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5977645222510592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5540864220170718260728691'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'hussien mohamed', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6590658922201088/5525838889271296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6590658922201088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2590381917601125469664371'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'joyce essam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6566765820952576/5126447998222336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6566765820952576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2682318884490850220258364'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'moreen emad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6490801304813568/4909751936008192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6490801304813568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28786969197032626070485'
+    }, 
+    {
+      title: 'Bugs that move across the screen in different ways', 
+      author: 'managingkvtech', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bugs-that-move-across-the-screen-in-different-ways/5246762651795456/5074000139304960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bugs-that-move-across-the-screen-in-different-ways/5246762651795456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1200785355994841284233587'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Parthenia Mamdouh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5813952543244288/4917879154982912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5813952543244288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8801297561043186309611271'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'reyjemarinas.school', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248/5957056021708800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8709345732415210805464286'
     }, 
   ];
 };
