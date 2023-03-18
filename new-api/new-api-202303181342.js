@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 10, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6102704268296192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5794104086937600.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -694,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_11271582039480930028154'
     }, 
     {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'SethuL', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5356045141852160/6032511279087616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5356045141852160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3573163628842515258304784'
+    }, 
+    {
       title: '3D Sphere *Check*', 
       author: 'Drake Rochelle, The 3D Engine Dude.', 
       votes: 2, 
@@ -701,6 +710,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3d-sphere-check/5018264935907328/4744316771942400.png', 
       link: 'https://www.khanacademy.org/computer-programming/3d-sphere-check/5018264935907328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
+    }, 
+    {
+      title: 'Antonio Castillo "Proyecto: haz que llueva"', 
+      author: 'acastor160', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/antonio-castillo-proyecto-haz-que-llueva/5314227458064384/6463750090833920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/antonio-castillo-proyecto-haz-que-llueva/5314227458064384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_296267593395695760477228'
     }, 
     {
       title: 'A Revised 3D Map With More Complex Shapes 2.1', 
@@ -716,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'Super Student', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5675804181970944/5463158536060928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5675804181970944/5030331196686336.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5675804181970944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_504189230123785308866214'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6316700611166208/6661414887669760.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6316700611166208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_791847343860540406050102'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'sarah.ibrahim1043', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5407940459937792/5489258649665536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5407940459937792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_791847343860540406050102'
-    }, 
-    {
-      title: '"프로젝트: 블로그" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5645338838089728/5484226763079680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5645338838089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
     }, 
   ];
 };
