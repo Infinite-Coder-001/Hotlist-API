@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'Shift', 
-      author: 'Logix Indie', 
-      votes: 80, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
-    }, 
-    {
       title: 'The Pulse', 
       author: '1001programmer1001', 
       votes: 10, 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/5172411765145600.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+    }, 
+    {
+      title: 'Shift', 
+      author: 'Logix Indie', 
+      votes: 79, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
       title: 'Play-dough', 
@@ -775,15 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'New program', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688/5860609343406080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6023296966770688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: '"프로젝트: 여행 웹 페이지" 프로젝트', 
       author: 'k01086927114', 
       votes: 1, 
@@ -818,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368/5971965463805952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Byron Beam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5001320638758912/5534274540584960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5001320638758912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5531665639128527342633092'
     }, 
     {
       title: 'Game Summary', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248/5957056021708800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5779367319093248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8709345732415210805464286'
+    }, 
+    {
+      title: 'Hot air balloon moving with the sun coming up', 
+      author: 'managingkvtech', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hot-air-balloon-moving-with-the-sun-coming-up/6578413638041600/5295712122486784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hot-air-balloon-moving-with-the-sun-coming-up/6578413638041600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1200785355994841284233587'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'kerelos emad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6656615664369664/5997566690115584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6656615664369664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9734006078077121994742350'
     }, 
   ];
 };
