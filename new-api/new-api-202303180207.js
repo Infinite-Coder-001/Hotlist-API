@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 42, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'BSS Poster', 
       author: 'Dat', 
       votes: 24, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -478,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Windy Fisher', 
-      author: 'Arrow.programming', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/4697306777829376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Apex Communities idea2', 
       author: 'apex alt', 
       votes: 2, 
@@ -530,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lil-boat-animated/4874600997765120/4552198791151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/lil-boat-animated/4874600997765120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Windy Fisher', 
+      author: 'Arrow.programming', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520/4697306777829376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/windy-fisher/5280045910507520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: '~RUN~', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'P3V5-Info_O3', 
-      author: 'Daniël Arends', 
+      title: 'Landscape project', 
+      author: 'liun3466', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/p3v5-info_o3/4771194945716224/5358203879866368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/p3v5-info_o3/4771194945716224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2645783124664802891297601'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/landscape-project/5817289058598912/5054141116497920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/landscape-project/5817289058598912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5969058069822952262481235'
     }, 
     {
-      title: 'Draw if mousePressed', 
-      author: 'msagnor623', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'valery.pulido', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/draw-if-mousepressed/5942539767300096/4818514848563200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/draw-if-mousepressed/5942539767300096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_570055176155353260164887'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6159038180278272/5714918781534208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6159038180278272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_221187632701387307284642'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Ally Rybinski', 
+      title: 'Tree dude score scene', 
+      author: 'Anirudh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4571653818597376/6014352190914560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4571653818597376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_847135522044868070248183'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tree-dude-score-scene/5927868293234688/5521770981670912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tree-dude-score-scene/5927868293234688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164947044329284510452610'
     }, 
   ];
 };
