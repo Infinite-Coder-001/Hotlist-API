@@ -775,42 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: '"프로젝트: 여행 웹 페이지" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384/5534939253882880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6569255358480384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
-    }, 
-    {
-      title: 'Khan19 - Fibonacci nerecursiv + recursiv ', 
-      author: 'TraineriCodeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursiv-recursiv/4785452696780800/5461088297861120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan19-fibonacci-nerecursiv-recursiv/4785452696780800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1112231961402615501577939'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Passion George', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6726839822499840/6467971637886976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6726839822499840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_528992700193767168850430'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Yan Agundiz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368/5971965463805952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6113381892538368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3134899993185723374041237'
-    }, 
-    {
       title: 'Game Summary', 
       author: 'hadiyansari67', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6656615664369664/5997566690115584.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6656615664369664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9734006078077121994742350'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'kerelos emad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4990697705095168/6130684168290304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4990697705095168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9734006078077121994742350'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'nour  sameh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5140393021980672/5221595921825792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5140393021980672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9967508702743264939018325'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'karimyassersfs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5828471005954048/6643622579847168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5828471005954048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_261627242826418299211834'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Rotation"', 
+      author: 'alainbrucentigoheka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-rotation/4561865960374272/4670292138180608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-rotation/4561865960374272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_185873630962504181135876'
     }, 
   ];
 };
