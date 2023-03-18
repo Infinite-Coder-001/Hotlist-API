@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Unusual Fellow', 
       author: 'mr. mustache', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/4694503841906688.png', 
       link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
@@ -380,7 +380,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'I did terribly', 
-      author: 'Phyrexian Gargantua', 
+      author: 'Mr/Ms Misfit', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6295618744270848.png', 
@@ -467,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/6291316260782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
+    }, 
+    {
+      title: 'Learning Html', 
+      author: 'Mr/Ms Misfit', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/6025075821428736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'New program', 
@@ -596,7 +605,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'Phyrexian Gargantua', 
+      author: 'Mr/Ms Misfit', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6243489786675200/4525025120272384.png', 
@@ -847,6 +856,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'chapmanalex812', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5781181204578304/5565430971547648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5781181204578304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3949157183861522288550468'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'shevonvelez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5851739360378880/6331508853096448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5851739360378880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_878476551593783403317677'
+    }, 
+    {
+      title: 'A list of why dogs are great and my favs', 
+      author: 'Alex Montoya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-list-of-why-dogs-are-great-and-my-favs/6074028379127808/6515102733090816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-list-of-why-dogs-are-great-and-my-favs/6074028379127808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_304714848417915374832762'
+    }, 
+    {
       title: 'Spin-off of "Nested For Loops"', 
       author: 'Tom', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408/5606043843608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6429055945188304389896932'
-    }, 
-    {
-      title: 'HasNothingBetterToDo = !false;', 
-      author: '21262', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hasnothingbettertodo-false/5446736325951488/6541556510408704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hasnothingbettertodo-false/5446736325951488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: '3D Wedge *Check*', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-wedge-check/6113364491419648/6288903009255424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-wedge-check/6113364491419648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
-    }, 
-    {
-      title: 'tutioral arcoiris', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutioral-arcoiris/6489030365855744/5808360495824896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutioral-arcoiris/6489030365855744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: '3D Sloped Cone *Check*', 
-      author: 'Drake Rochelle, The 3D Engine Dude.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-sloped-cone-check/5111642692304896/4765871920955392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-sloped-cone-check/5111642692304896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
   ];
 };
