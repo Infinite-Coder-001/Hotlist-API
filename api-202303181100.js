@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
+      title: 'NIGHT TIME', 
+      author: 'Xiøn 😋🤩', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 44, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5397734876299264.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Contest: New Subpage', 
-      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
-      votes: 20, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768/6283277961052160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-new-subpage/4743474522144768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
   ];
 };
