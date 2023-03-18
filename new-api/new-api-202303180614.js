@@ -775,15 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'New program', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336/6491116347375616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5283113510158336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Salamander\'s Subpage', 
       author: 'Salamander', 
       votes: 3, 
@@ -802,20 +793,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_474711458269780634351932'
     }, 
     {
-      title: 'Creative project', 
-      author: 'Thecoderofthenoobs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640/6317341500817408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/creative-project/5691870983536640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
-    }, 
-    {
       title: 'Bell flower', 
       author: 'Longproboy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bell-flower/6214184774975488/5216508295036928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bell-flower/6214184774975488/5748320913113088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bell-flower/6214184774975488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179868604912258882671577'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440/4761972915879936.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5018606338621440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_811976060022869468243761'
+    }, 
+    {
+      title: 'Hojita saltarina', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hojita-saltarina/6291083342692352/6502114886205440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hojita-saltarina/6291083342692352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'Chashan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120/6234021819629568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6583228195717120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1098887434052077877476486'
     }, 
   ];
 };
