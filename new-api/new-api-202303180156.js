@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
-      votes: 19, 
+      votes: 18, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 63, 
+      votes: 62, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -265,7 +265,7 @@ var LoadHotlistAPI = function() {
       title: 'Steve The Dinosaur (WIP)', 
       author: 'Blake Meloche (T1)[OffForWeekend]', 
       votes: 19, 
-      forks: 11, 
+      forks: 10, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136/5397734876299264.png', 
       link: 'https://www.khanacademy.org/computer-programming/steve-the-dinosaur-wip/5871197843931136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Landscape project', 
-      author: 'liun3466', 
+      title: 'Spin-off of "Resizing shapes with variable expressions"', 
+      author: 'Brett Kryger', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/landscape-project/5817289058598912/5054141116497920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/landscape-project/5817289058598912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5969058069822952262481235'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5975270639321088/5313730986688512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5975270639321088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5954922100709751876149049'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'valery.pulido', 
+      title: 'Test art', 
+      author: 'mike.brown9709', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6159038180278272/5714918781534208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6159038180278272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_221187632701387307284642'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-art/5744440440569856/6623773254270976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test-art/5744440440569856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_43944868756843309919768'
     }, 
     {
-      title: 'Tree dude score scene', 
-      author: 'Anirudh', 
+      title: 'Favorite Book list database (SQL)', 
+      author: 'Passion George', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tree-dude-score-scene/5927868293234688/5521770981670912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tree-dude-score-scene/5927868293234688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1164947044329284510452610'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-book-list-database-sql/5876680940109824/5617139354746880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-book-list-database-sql/5876680940109824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_528992700193767168850430'
     }, 
   ];
 };
