@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'peas on a plate', 
-      author: 'AVbear', 
+      title: 'Tree of Life House Blueprints', 
+      author: 'Joshua Van Dyke', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/peas-on-a-plate/6328235514445824/6028345429245952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/peas-on-a-plate/6328235514445824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_916339569405269886640226'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tree-of-life-house-blueprints/6359500963758080/5990211790356480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tree-of-life-house-blueprints/6359500963758080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_591303094106458297512364'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'qian hanyu', 
+      title: 'Derivado de "Proyecto: salpicadura de pintura"', 
+      author: 'Marcos Valbuena', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5749814182854656/5636656024829952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5749814182854656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6965844200490341270238274'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-salpicadura-de-pintura/6255157085257728/6755383668686848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-salpicadura-de-pintura/6255157085257728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_316193784094296176815814'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Javier Martín ', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'lkbbridges', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6089455499001856/5493313535000576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6089455499001856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9071082488854103824714156'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6543540580827136/4603837719822336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6543540580827136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5248098825289375352262924'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Kacper Koelner', 
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'duvan riaño', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120/5154211807674368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6109834011525120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7969477878178863469055172'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6720297678192640/5490490667745280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6720297678192640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8100207798456134014894356'
     }, 
   ];
 };
