@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Food maker!', 
+      author: 'Deathly Hallows', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
       title: 'One Riddle:Hard(GAME)', 
       author: 'Shadow Fax', 
       votes: 13, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/4583762044436480.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Food maker!', 
-      author: 'Deathly Hallows', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: '3D engine, efficient, more efficient, even more efficient, pov update', 
