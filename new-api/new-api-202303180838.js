@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 9, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/5170408098938880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4846318188281856.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -775,47 +775,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'obgeet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312/6363493508104192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4614495080333312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
-    }, 
-    {
-      title: 'Khan20 Exercitiul 1', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-exercitiul-1/4854935939497984/4541948314828800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan20-exercitiul-1/4854935939497984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'ex1 khan 20', 
-      author: 'Troaca Andrei', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex1-khan-20/5675203926736896/6075724961464320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex1-khan-20/5675203926736896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
-    }, 
-    {
-      title: 'ex2 khan20', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex2-khan20/4762080726269952/4834413210025984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex2-khan20/4762080726269952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
       title: 'Sah khan 17', 
       author: 'specialtelefon2018', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816/6326385490837504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816/6056443309768704.png', 
       link: 'https://www.khanacademy.org/computer-programming/sah-khan-17/5113265672994816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
@@ -833,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'obgeet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/5778487857430528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008/4684504520507392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4667484340011008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
     }, 
@@ -842,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'specialtelefon2018', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048/4987234957967360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048/4995813953814528.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-17-ex-3/5319609524994048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576/5291405380730880.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-community-ideas3/6088640330776576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Fibonacci recursiv si nerecursiv', 
+      author: 'Troaca Andrei', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-recursiv-si-nerecursiv/4976674237366272/5828828028256256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fibonacci-recursiv-si-nerecursiv/4976674237366272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
+    }, 
+    {
+      title: 'Sirul lui Fibonacci khan19', 
+      author: 'dani2710', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sirul-lui-fibonacci-khan19/5628975482454016/4535184751116288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sirul-lui-fibonacci-khan19/5628975482454016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Bonnie Snipes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4824191624069120/4708898729934848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4824191624069120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3498212297584075448701419'
+    }, 
+    {
+      title: 'Exploding moon', 
+      author: 'Huda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712/4820726189441024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/exploding-moon/6700002014707712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063239105511073987203587'
     }, 
   ];
 };
