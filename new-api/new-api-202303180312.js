@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
-      votes: 20, 
+      votes: 19, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
-      votes: 44, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1102421151430901994446418'
     }, 
     {
-      title: 'The Pulse', 
-      author: '1001programmer1001', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/5172411765145600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
       title: 'Shift', 
       author: 'Logix Indie', 
       votes: 78, 
@@ -323,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
-    }, 
-    {
-      title: 'Ohnoes is annoying sometimes ', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568/5650804247937024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'What is a neighbor?', 
@@ -368,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128/6037274230046720.png', 
       link: 'https://www.khanacademy.org/computer-programming/be-horrified-newest-joke/4956245650096128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'The Pulse', 
+      author: '1001programmer1001', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/5172411765145600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
       title: 'Winston donuts', 
@@ -467,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/6291316260782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
+    }, 
+    {
+      title: 'Ohnoes is annoying sometimes ', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568/5650804247937024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'New program', 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: '03lexa15', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4637470199431168/6688611892510720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4637470199431168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2892455598450956848734577'
-    }, 
-    {
-      title: 'Wave', 
-      author: 'dongigdong', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wave/5284522591830016/6658012096020480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wave/5284522591830016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951644213544102920964357'
-    }, 
-    {
-      title: 'goal', 
+      title: 'ESPACIO', 
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/goal/5572827875164160/5545469168369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/goal/5572827875164160', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/espacio/5803339410620416/5229165060341760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/espacio/5803339410620416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
-      title: 'Watermelon', 
-      author: 'Moo', 
+      title: 'Tiburon mmm', 
+      author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelon/5876420054401024/5624851773833216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelon/5876420054401024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_397888356071723081324043'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tiburon-mmm/4712484020994048/5622724624171008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tiburon-mmm/4712484020994048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'steven.wiezorek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6121450924982272/4876622236008448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6121450924982272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_938707988395588922867296'
+    }, 
+    {
+      title: 'A pintar!', 
+      author: 'JD', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pintar/5611065935446016/5880172211650560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-pintar/5611065935446016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
 };
