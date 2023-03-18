@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Mr/Ms Misfit', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6295746536325120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296/6325151496192000.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-did-terribly/5708159123767296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Mr/Ms Misfit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/6551562039377920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912/6025075821428736.png', 
       link: 'https://www.khanacademy.org/computer-programming/learning-html/6273235069222912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -775,33 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'ianruien', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6307085585530880/6537962495197184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6307085585530880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6202436109194775102305197'
-    }, 
-    {
-      title: 'Bonsai', 
-      author: 'Roen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520/6096554408853504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bonsai/6362123913707520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830592981872810152835374'
-    }, 
-    {
-      title: 'New program', 
-      author: 'neha.n2002', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4662075295318016/5674575016017920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4662075295318016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4653779476024575607351674'
-    }, 
-    {
       title: '', 
       author: 'LavenderGalaxy', 
       votes: 3, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jurassic-park-30th-contest/5009731506978816/5401502384701440.png', 
       link: 'https://www.khanacademy.org/computer-programming/jurassic-park-30th-contest/5009731506978816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'mauricio.diaz20202', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4679808376422400/6533711682387968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4679808376422400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_154992088819437088048456'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Carola Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6266072744640512/5610904941281280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6266072744640512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6751209688310232817566635'
+    }, 
+    {
+      title: 'Clock', 
+      author: 'Avinasen', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616/4839963797798912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock/6404759953391616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
   ];
 };
