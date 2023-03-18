@@ -622,11 +622,83 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Enemics objectes 3.0', 
+      author: 'ildeocon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/enemics-objectes-30/5442861933051904/4855129414352896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/enemics-objectes-30/5442861933051904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_416955501478790122849349'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'William Eubanks', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5552560632283136/5404414660886528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5552560632283136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_517432628295157586178772'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'anw9107', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4888511779225600/5517054033838080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4888511779225600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_808951329008367953888923'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Karol_Nowicki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5695621362401280/5863133274226688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5695621362401280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982560517381419119914995'
+    }, 
+    {
+      title: 'Météorite', 
+      author: 'Isaac Poulin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mtorite/5719533894811648/5804150287024128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mtorite/5719533894811648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6976016679833702153905381'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Emmer Gen C.', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6720412840148992/5639339238539264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6720412840148992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396415081311465030039845'
+    }, 
+    {
+      title: 'A nice car', 
+      author: 'iva.ivanovska12', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nice-car/6450375693746176/5749289931554816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nice-car/6450375693746176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1646232451683174001915'
+    }, 
+    {
+      title: 'opdracht 3 - dobbelstenen gooien', 
+      author: 'Marielinde Heijnen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen-gooien/5119909984256000/5940620453789696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen-gooien/5119909984256000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2274890599945009351793735'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'PS', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6679133641031680/6701227892326400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6679133641031680/6347750808797184.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6679133641031680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_796521151983932832459929'
     }, 
@@ -752,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5126728382201856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6461017048793088.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kill-oh-noes-contest-on-april-10th/6619360581173248/6473597846863872.png', 
       link: 'https://www.khanacademy.org/computer-programming/kill-oh-noes-contest-on-april-10th/6619360581173248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_190447849551718593926646'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'oliverorizaba2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4966461405970432/5326276757078016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4966461405970432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_290876612238603272819112'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Blair Graff', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4567815328940032/5756883631915008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4567815328940032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4333107719330368875413508'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'gersonlopezcompunet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5317590890364928/6485957420564480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5317590890364928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205660925586497497128401'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Favorite Animals"', 
-      author: 'kirill2009', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5173890646327296/4928955405877248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5173890646327296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_48536988475043132340528'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'lpalacios', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4966535161757696/6136257156792320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4966535161757696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088437934206880563409236'
-    }, 
-    {
-      title: 'Scene 45 (Angel.M, Wilmer, Jerry) incomplete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-45-angelm-wilmer-jerry-incomplete/5355168294289408/4521382169067520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-45-angelm-wilmer-jerry-incomplete/5355168294289408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'ydguydef', 
-      author: 'mahammatqulovalaylo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ydguydef/5455258651508736/6499953309696000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ydguydef/5455258651508736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1062512041809607542895874'
-    }, 
-    {
-      title: '"Project: Build-a-House"', 
-      author: 'Nelson Banga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-build-a-house/5731873836023808/5269217848115200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-build-a-house/5731873836023808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3189456081059434466752335'
     }, 
   ];
 };
