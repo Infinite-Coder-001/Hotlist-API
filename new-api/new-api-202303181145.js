@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
       votes: 44, 
-      forks: 3, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Lisanne', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/5663989767127040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280/6658939711438848.png', 
       link: 'https://www.khanacademy.org/computer-programming/cody-the-catbot/4718260581089280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309096734279650715562021'
     }, 
@@ -521,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416/6205014823714816.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6503735880892416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639992172514634305343153'
-    }, 
-    {
-      title: 'Hearts In-a Bottle(Sub-Page)', 
-      author: 'm a r i i', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/6532876781010944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
     }, 
     {
       title: 'Intro for me! (Tell me what you think)', 
@@ -640,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
+      title: 'Hearts In-a Bottle(Sub-Page)', 
+      author: 'm a r i i', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/6532876781010944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
+    }, 
+    {
       title: 'l: ) Mc Skin', 
       author: 'cjcool', 
       votes: 2, 
@@ -737,33 +737,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968/4551422995906560.png', 
       link: 'https://www.khanacademy.org/computer-programming/savable-version/5480024922963968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'Derivado de "Desafío: ids estacionales"', 
-      author: 'blancafragarodri', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/5852895145934848/5086591241732096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/5852895145934848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614665925245877170793161'
-    }, 
-    {
-      title: 'New program', 
-      author: 'robert.carrafarago', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4730344172732416/4555275802820608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4730344172732416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_121410679178637147028121'
-    }, 
-    {
-      title: 'Pizza', 
-      author: 'Moo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/5695465401401344/6439427623927808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza/5695465401401344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_397888356071723081324043'
     }, 
     {
       title: 'Shuriken', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5096225155366912/4858342385434624.png', 
       link: 'https://www.khanacademy.org/computer-programming/webpage/5096225155366912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'soalr sistem 18.03.2023', 
+      author: 'rares', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/soalr-sistem-18032023/4853528935055360/5822695418937344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/soalr-sistem-18032023/4853528935055360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940082394281974115520922'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Solomon Djelloul', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6398855483801600/5362599295500288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6398855483801600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4337370889121747717382905'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'aaronabes98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5335390506762240/4832912488054784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5335390506762240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_505525349806457046490825'
     }, 
   ];
 };
