@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
-      votes: 43, 
+      votes: 44, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360/6504109324943360.png', 
       link: 'https://www.khanacademy.org/computer-programming/messi-the-goat/5182215699087360', 
