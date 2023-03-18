@@ -739,6 +739,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: '"프로젝트: 블로그" 프로젝트', 
+      author: 'k01086927114', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6016209465425920/5178929210245120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6016209465425920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: The dinner table"', 
+      author: 'SethuL', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table/6523010975842304/6434668193038336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table/6523010975842304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3573163628842515258304784'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: invitación a un evento"', 
+      author: 'Germán Gutierrez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5492738247409664/6514650721337344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5492738247409664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9459867865674436450287043'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'nganthupham1', 
       votes: 1, 
@@ -746,6 +773,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5362654425432064/6296014303838208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5362654425432064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3049430914183752989776547'
+    }, 
+    {
+      title: 'Querying the table', 
+      author: 'Levi Grubbs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/querying-the-table/4731904987545600/4910382823292928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/querying-the-table/4731904987545600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815140607287672383099603'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/5695465401401344/6439427623927808.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza/5695465401401344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_397888356071723081324043'
-    }, 
-    {
-      title: 'Shuriken', 
-      author: 'rares', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shuriken/4545463480270848/5927676969009152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shuriken/4545463480270848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_940082394281974115520922'
-    }, 
-    {
-      title: 'Hloubkový průzkum dat', 
-      author: 'denisisi477', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hloubkov-przkum-dat/6641063990444032/6364528729440256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hloubkov-przkum-dat/6641063990444032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_206706789299382484246877'
-    }, 
-    {
-      title: 'Spin-off of "Nested For Loops"', 
-      author: 'malak elseragy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/4732496552181760/5825053423091712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/4732496552181760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6158169663082366644087186'
-    }, 
-    {
-      title: 'keyboard controls', 
-      author: 'amorosanu72', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/keyboard-controls/6508564987559936/5404884755333120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/keyboard-controls/6508564987559936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_32249617768928565652531'
     }, 
   ];
 };
