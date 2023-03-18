@@ -337,7 +337,7 @@ var LoadHotlistAPI = function() {
       title: 'What is a neighbor?', 
       author: 'H.M. Wogglebug T.E.', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040/6033768060338176.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-a-neighbor/6664268487639040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
@@ -829,6 +829,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3753919699650711060468737'
     }, 
     {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'anival0419', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4864482108293120/6688440902270976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4864482108293120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_625275274259490619180900'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Robert Carpenter', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/4888078387036160/4774163640532992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/4888078387036160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890290135114019962364304'
+    }, 
+    {
       title: 'JURASSIC PARK 30TH: CONTEST', 
       author: 'Riparovenator65', 
       votes: 3, 
@@ -836,6 +854,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jurassic-park-30th-contest/5009731506978816/5401502384701440.png', 
       link: 'https://www.khanacademy.org/computer-programming/jurassic-park-30th-contest/5009731506978816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_44716277289399474948105'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'mauricio.diaz20202', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4679808376422400/6533711682387968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4679808376422400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_154992088819437088048456'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Carola Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6266072744640512/5610904941281280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6266072744640512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6751209688310232817566635'
     }, 
     {
       title: 'Clock', 
@@ -847,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'ldoster26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340674393423872/4533447433699328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340674393423872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_702821545406142132367755'
+    }, 
+    {
       title: 'Helping Someone', 
       author: '▪Dipper98▪', 
       votes: 3, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856/5475120003203072.png', 
       link: 'https://www.khanacademy.org/computer-programming/helping-someone/4968414508793856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'chapmanalex812', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5781181204578304/5565430971547648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5781181204578304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3949157183861522288550468'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'shevonvelez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5851739360378880/6331508853096448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5851739360378880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_878476551593783403317677'
-    }, 
-    {
-      title: 'A list of why dogs are great and my favs', 
-      author: 'Alex Montoya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-list-of-why-dogs-are-great-and-my-favs/6074028379127808/6515102733090816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-list-of-why-dogs-are-great-and-my-favs/6074028379127808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_304714848417915374832762'
-    }, 
-    {
-      title: 'Spin-off of "Nested For Loops"', 
-      author: 'Tom', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5025935160295424/5225741199654912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5025935160295424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1068218227103174127032178'
-    }, 
-    {
-      title: ' "Challenge: A Loopy Ruler"', 
-      author: 'Giang Ta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408/5606043843608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-a-loopy-ruler/4744460854673408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6429055945188304389896932'
     }, 
   ];
 };
