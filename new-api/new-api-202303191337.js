@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (Final Update)', 
       author: 'redcharr', 
-      votes: 71, 
+      votes: 72, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592/4824524484034560.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592', 
@@ -487,6 +487,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Mabel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6009635279781888/6159128058970112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6009635279781888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_265628470553210030762374'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Josh Roarty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5220123956002816/6276178799542272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5220123956002816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4478752346847395020746098'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Margarita Troitskaya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6019119906603008/4658908196290560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6019119906603008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_129708453107863116079263'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'Oliwia Grodzka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6273852541026304/4841879507353600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6273852541026304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_201715806486658711396091'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Dominik Zimnicki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5765790524817408/6282472540389376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5765790524817408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662682506575439962184155'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'pardondonna', 
       votes: 1, 
@@ -644,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'Josh Claydon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/curves/5189829773279232/4819662245511168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/curves/5189829773279232/4730396316319744.png', 
       link: 'https://www.khanacademy.org/computer-programming/curves/5189829773279232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_71290766185376704414761'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5674667958648832/6319931164770304.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5674667958648832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3908324243232261930526264'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Natalia Nowak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5144886094643200/5601861286805504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5144886094643200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1062262709265759135050094'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Irena Koterba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5090303502761984/4839922811060224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5090303502761984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_90120691336526789678469'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Monika Wodejko', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4868233695117312/5794097312088064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4868233695117312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1180245153043247717971461'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Damian  Grzejdziak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6592906334093312/4787393283801088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6592906334093312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1745378492283225471473600'
-    }, 
-    {
-      title: 'SQL - database med kommentar', 
-      author: 'Emma Elkrog', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-database-med-kommentar/6586312082898944/6245028075978752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sql-database-med-kommentar/6586312082898944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4499608287519101118729120'
     }, 
   ];
 };
