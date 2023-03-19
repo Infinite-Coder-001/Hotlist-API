@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5605825407401984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5548312641191936.png', 
       link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -514,11 +514,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
+      title: 'Projet dérivé de "Projet : site de voyage"', 
+      author: 'mbae.am1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/4664913765384192/6301612122619904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/4664913765384192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1035723511366487242647379'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'FrankE123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5863028584398848/6404209361862656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5863028584398848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_63374946400413614759909'
+    }, 
+    {
+      title: 'Marta Boyko; Derivado de "Desafío: frutas favoritas"', 
+      author: 'mboy157', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-desafo-frutas-favoritas/5766155731255296/4947650526101504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-desafo-frutas-favoritas/5766155731255296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1103565271340030467798274'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Jakub Olszewski', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5169051191263232/6023174895747072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5169051191263232/5907954073387008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5169051191263232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1016329924268398276724450'
     }, 
@@ -581,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'Klaudia Czyżewska', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6388453408555008/5283974782173184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6388453408555008/4858354599247872.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6388453408555008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_237176591153653941770230'
     }, 
@@ -725,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'Norbert Grzelak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4801929969713152/6232674340749312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4801929969713152/4946830925545472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4801929969713152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8733749775028799819053229'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6308079974268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Natalia Skalińska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5843982682996736/6080997906235392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5843982682996736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1808844612252810533481083'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Klaudia Czyżewska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6295182352105472/6744840664825856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6295182352105472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237176591153653941770230'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : site de voyage"', 
-      author: 'Arnotte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/5683608473092096/5118068785463296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/5683608473092096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1018527200098532263088331'
     }, 
   ];
 };
