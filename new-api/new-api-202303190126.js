@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 55, 
+      votes: 56, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
       link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
@@ -463,7 +463,7 @@ var LoadHotlistAPI = function() {
       title: 'The Pulse', 
       author: '1001programmer1001', 
       votes: 10, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696/4712791779098624.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-pulse/5803177306013696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
@@ -593,6 +593,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208/6025446259212288.png', 
       link: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'delinacdema', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6533344298057728/5577266220548096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6533344298057728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7719990277711181842054714'
+    }, 
+    {
+      title: 'Spin-off of "Booleans"', 
+      author: 'Angel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6417129831448576/5913430961995776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6417129831448576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6674886787645440/6096960417480704.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6674886787645440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6989042399186175442995363'
-    }, 
-    {
-      title: 'js', 
-      author: 'wendyytzhao', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/js/4562396654125056/6140609767456768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/js/4562396654125056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_214872958364812503259400'
-    }, 
-    {
-      title: 'other bunny', 
-      author: 'caroline.royce29', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/other-bunny/6056874819764224/4863906347794432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/other-bunny/6056874819764224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_680941616600744107640779'
     }, 
   ];
 };
