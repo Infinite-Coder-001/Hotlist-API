@@ -505,42 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Yasmin Silva', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5684930917220352/6617880092524544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5684930917220352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_443969787690522810580981'
-    }, 
-    {
-      title: 'Daniel Jaén "Proyecto: Bola 8 mágica"', 
-      author: 'djaecar389', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/daniel-jan-proyecto-bola-8-mgica/5491936632029184/6090963572539392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/daniel-jan-proyecto-bola-8-mgica/5491936632029184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_596036529542481295702196'
-    }, 
-    {
-      title: 'Drawing Robot Head and Neck', 
-      author: 'Vaishnavi KS', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/drawing-robot-head-and-neck/5773039557197824/6533492709310464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drawing-robot-head-and-neck/5773039557197824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_324602122383775378353615'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Seasonal ids"', 
-      author: 'Żółcińska Emilka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-seasonal-ids/6470644721303552/4551059819511808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-seasonal-ids/6470644721303552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_572480975460803193249479'
-    }, 
-    {
       title: 'iygu', 
       author: 'alexstiubei', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Ewelina Sztyc', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5299908577116160/6295543733338112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5299908577116160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_39047860120649831966561'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Norbert Grzelak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4801929969713152/4946830925545472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4801929969713152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8733749775028799819053229'
+    }, 
+    {
+      title: 'Wyzwanie: Twoja lista do nauki', 
+      author: 'Szymon Pulak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wyzwanie-twoja-lista-do-nauki/5181643965120512/5183274710515712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wyzwanie-twoja-lista-do-nauki/5181643965120512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_551643827722307865003932'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ta100188', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5716677033771008/6509138567020544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5716677033771008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_973462487894877205730261'
     }, 
   ];
 };
