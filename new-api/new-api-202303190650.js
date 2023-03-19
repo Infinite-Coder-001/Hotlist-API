@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
+      title: 'New program', 
+      author: 'Astro', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320/6303293736534016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
       votes: 66, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
       link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Astro', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320/6303293736534016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'Agar.io', 
@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'mperez4129', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6051021313064960/6183487804850176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6051021313064960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_570531918942756361555933'
+    }, 
+    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'ilonashkil', 
       votes: 1, 
@@ -629,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512/4582279201734656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_729890182263944225303973'
+    }, 
+    {
+      title: 'The Subpage (Suggestions? Plz comment.)', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/4583514273267712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Spin-off of "Project: Famous people"', 
@@ -761,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'nithya2904', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/teddy-bear-factory/5799104032849920/5106451740934144.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/teddy-bear-factory/5799104032849920/5956120722325504.png', 
       link: 'https://www.khanacademy.org/computer-programming/teddy-bear-factory/5799104032849920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3999877923912414682939568'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976/6505759297028096.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Scene 54 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-complete/6521160784461824/5132248488919040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-complete/6521160784461824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Alexia Lopez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296/6551984556785664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5157474159051263394496328'
     }, 
   ];
 };
