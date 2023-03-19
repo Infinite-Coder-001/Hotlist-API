@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
