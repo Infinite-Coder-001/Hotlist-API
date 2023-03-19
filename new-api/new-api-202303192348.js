@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ski Translator', 
       author: 'Phase ✝', 
-      votes: 13, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/5598961244356608.png', 
       link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'NIGHT TIME', 
+      author: 'Xiøn 😋🤩', 
+      votes: 38, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
       votes: 19, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/6281015237853184.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'NIGHT TIME', 
-      author: 'Xiøn 😋🤩', 
-      votes: 37, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'BSS Poster', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'To Grill Hamburgers', 
       author: 'Volatile ✝︎', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/6225657367674880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/6725295748202496.png', 
       link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -442,6 +442,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
+      title: 'Magic 8-ball', 
+      author: 'legendarydummy632', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magic-8-ball/4784961057243136/4933666548793344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magic-8-ball/4784961057243136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_626552316167765452647225'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Pessoas famosas"', 
+      author: 'Renato  Coelho Miguelote ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pessoas-famosas/6262055104724992/5324945213407232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pessoas-famosas/6262055104724992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3362136797453274901440197'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Daniel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6082245460017152/5224155621670912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6082245460017152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6295165815633841457988864'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'lgogolinski', 
       votes: 1, 
@@ -473,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Merp', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616/5323766248030208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616/5564299918753792.png', 
       link: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_285866933698810589585041'
     }, 
@@ -752,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'VALUEX', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-invaders/6448093992370176/5111055677440000.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space-invaders/6448093992370176/6195263494733824.png', 
       link: 'https://www.khanacademy.org/computer-programming/space-invaders/6448093992370176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1105212587483784100819076'
     }, 
@@ -779,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'nathan_cafaro', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360/4877828716019712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360/6550337705263104.png', 
       link: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_564521246105554062329693'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6240274419597312/4892932773822464.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6240274419597312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1981958734461260667019450'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'Tian McDonald', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6614962867060736/6356108177620992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6614962867060736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7906722679677701990467077'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Paris Francis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5763912949874688/6647417589252096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5763912949874688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2999400007152075289210502'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Dominiika Wojnar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5569068470157312/6701805632536576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5569068470157312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2638192876692755867147116'
     }, 
   ];
 };
