@@ -532,65 +532,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'ex 1 khan18', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-1-khan18/4954158273970176/6383774243012608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex-1-khan18/4954158273970176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'First Animation', 
-      author: 'arinjain.mail', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-animation/5870530013216768/5120073665921024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-animation/5870530013216768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1268238331572441108721752'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Eduard Codeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360/6636756608008192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
-    }, 
-    {
-      title: 'Linki które uwielbiasz', 
-      author: 'Antonina Bogusiewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/linki-ktre-uwielbiasz/6664723555991552/5685596506079232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/linki-ktre-uwielbiasz/6664723555991552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4188166176256294251913719'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'charlie.purplecloud', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5271024854941696/5663687810793472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5271024854941696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_96259189101131439935015'
-    }, 
-    {
-      title: 'Մարտահրավեր․ ճանապարհորդություն նկարների մեջ-ի ճյուղավորում', 
-      author: 'narebaghdasaryan490', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5075186694275072/6312376820613120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/5075186694275072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5801008769301028882232034'
-    }, 
-    {
       title: '2023/03/19 loops with arrays', 
       author: '🐻✨✍️✅😎✌️', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/20230319-loops-with-arrays/6217385465135104/5181999108374528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/20230319-loops-with-arrays/6217385465135104/4578966976643072.png', 
       link: 'https://www.khanacademy.org/computer-programming/20230319-loops-with-arrays/6217385465135104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865587506284067904525509'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6285211588673536/4768620183076864.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6285211588673536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5063330496166525332333036'
+    }, 
+    {
+      title: 'snake[bad game]', 
+      author: 'Wort-Head Productions😐', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208/6025446259212288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snakebad-game/5404028580446208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Spin-off of "Terrific Text: Part Two"', 
+      author: 'bhoom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/4781312952287232/4811890364825600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-two/4781312952287232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7412887617596735546836472'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'sania karia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512/4582279201734656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_729890182263944225303973'
+    }, 
+    {
+      title: 'The Subpage (Suggestions? Plz comment.)', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Alicia Lewis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5702927367061504/6508066100264960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5702927367061504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_63201762441884590447863'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Freddie Davis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5246463480479744/5012776927150080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5246463480479744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6452083791866438574332563'
     }, 
   ];
 };
