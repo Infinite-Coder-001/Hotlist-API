@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 60, 
+      votes: 61, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 19, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BURGER STACK (Final Update)', 
       author: 'redcharr', 
-      votes: 71, 
+      votes: 72, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592/4824524484034560.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592', 
