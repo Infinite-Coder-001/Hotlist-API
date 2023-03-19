@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 31, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6516939835097088.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5958220894224384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6101883526889472.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
+      title: 'Mr/Ms Misfit\'s Subpage (WIP)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504/5322345217835008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Messi The Goat', 
       author: 'Timothy Lightson', 
       votes: 47, 
@@ -568,6 +577,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Scene 49 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592/5428813695860736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'hkelts', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296/5873978200866816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1461610395423235567906614'
+    }, 
+    {
       title: 'Hearts In-a Bottle(Sub-Page)', 
       author: 'm a r i i', 
       votes: 6, 
@@ -575,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/6532876781010944.png', 
       link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
+    }, 
+    {
+      title: '- Rubix Cube -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: '- Use You\'re Illusions II -', 
@@ -613,15 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Mr/Ms Misfit\'s Subpage (WIP)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504/5322345217835008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'genekylesolano19', 
       votes: 1, 
@@ -658,12 +685,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_543811336014364540607932'
     }, 
     {
-      title: 'Scene 48 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Scene 48 (Angel.M, Wilmer, Jerry) complete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-incomplete/6377711423766528/5297004575244288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-incomplete/6377711423766528', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528/6675647265292288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -707,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/5679027655589888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/4639153356849152.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -782,6 +809,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/threejs-inside-khan-academy/4632472135712768/5067526452330496.png', 
       link: 'https://www.khanacademy.org/computer-programming/threejs-inside-khan-academy/4632472135712768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
+    }, 
+    {
+      title: 'Fight game', 
+      author: 'shang.sun.1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fight-game/4581000710766592/4891946273521664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fight-game/4581000710766592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_720882784048547940412838'
     }, 
     {
       title: 'Pizza Praise', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6249433672237056/6578083261104128.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6249433672237056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_21203632391006833970712'
-    }, 
-    {
-      title: 'Spin-off of "Logical Operators"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5454969580077056/5803724078628864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5454969580077056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
-    }, 
-    {
-      title: 'Marci Plush Ad', 
-      author: 'susana_rego', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/marci-plush-ad/5576701167058944/4803579069382656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/marci-plush-ad/5576701167058944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'delinacdema', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6533344298057728/5577266220548096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6533344298057728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7719990277711181842054714'
-    }, 
-    {
-      title: 'Spin-off of "Booleans"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6417129831448576/5913430961995776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6417129831448576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
     }, 
   ];
 };
