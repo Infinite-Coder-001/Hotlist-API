@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 39, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5696780466700288.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
+      title: 'ski Translator', 
+      author: 'Phase ✝', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/5598961244356608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
       votes: 35, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'ski Translator', 
-      author: 'Phase ✝', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/6247341922500608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'BSS Poster', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 28, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
       votes: 27, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
-    }, 
-    {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Realistic Cherries', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Unusual Fellow', 
       author: 'mr. mustache', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224/4694503841906688.png', 
       link: 'https://www.khanacademy.org/computer-programming/unusual-fellow/4585307586740224', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'PLS UP VOTE!!!', 
+      author: 'ifer35', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032/6528036691558400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465252124173958967136628'
+    }, 
+    {
       title: 'Apex Communities idea2', 
       author: 'apex alt', 
       votes: 9, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Online)', 
-      votes: 65, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
   ];
 };
