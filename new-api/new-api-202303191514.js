@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
@@ -163,11 +163,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
-      title: 'Ski Translator', 
+      title: 'ski Translator', 
       author: 'Phase ✝', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/6550606003355648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/4931558894256128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -487,6 +487,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: '"პროექტი: შექმენით მაღაზიის მონაცემთა ბაზა"-ის სპინ-ოფები', 
+      author: 'Giorgi Razmadze', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6254819524526080/5599578142588928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/6254819524526080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3512586915281440940536223'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'roy.abulkhayr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4713348785815552/5336572632547328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4713348785815552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9586057837660888007931428'
+    }, 
+    {
+      title: 'What\'s Cooking: BB8 Making Sushi (animation)', 
+      author: 'Sushi Coder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/whats-cooking-bb8-making-sushi-animation/6248092434481152/5494216857010176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/whats-cooking-bb8-making-sushi-animation/6248092434481152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'nguyenamiee', 
       votes: 1, 
@@ -518,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720/6622826552672256.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720/5708032878362624.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -548,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-program-3/6674692577738752/5502586506756096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-program-3/6674692577738752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_322853196859551867030819'
+    }, 
+    {
+      title: 'Wip', 
+      author: 'Velvet', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5605743803023360/5950603940642816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5605743803023360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for breakfast?"', 
@@ -734,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'MAyyan2009', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/diagonal-test/6291076299407360/6160165021990912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/diagonal-test/6291076299407360/5467563430821888.png', 
       link: 'https://www.khanacademy.org/computer-programming/diagonal-test/6291076299407360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6520647963070374039286753'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-medvd-s-hndma-oima/5220053625913344/4585366612131840.png', 
       link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-medvd-s-hndma-oima/5220053625913344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: 'Derivação de "Projeto: página web sobre viagens"', 
-      author: 'rafaqfv', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5136862256873472/5422391042031616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5136862256873472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5624149365386679894485794'
-    }, 
-    {
-      title: 'Snow Day', 
-      author: 'Reflex', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528/5456804806180864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Teo Hernández', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696/4658426418610176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9356445755516390156366333'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Dominik Zimnicki', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5793033566339072/5294006218309632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5793033566339072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_662682506575439962184155'
     }, 
   ];
 };
