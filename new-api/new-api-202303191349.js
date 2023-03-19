@@ -478,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Derivação de "Projeto: página web sobre viagens"', 
+      author: 'rafaqfv', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5136862256873472/5422391042031616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5136862256873472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5624149365386679894485794'
+    }, 
+    {
       title: 'Snow Day', 
       author: 'Reflex', 
       votes: 2, 
@@ -485,6 +494,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528/5456804806180864.png', 
       link: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Teo Hernández', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696/5805768348844032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9356445755516390156366333'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Dominik Zimnicki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5793033566339072/5294006218309632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5793033566339072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662682506575439962184155'
     }, 
     {
       title: 'Derivado de "Proyecto: página web de viajes"', 
@@ -730,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_595892779936673325952057'
     }, 
     {
+      title: 'Quadruple balls, optical illusion, over 100 lines of code!!!', 
+      author: 'MAyyan2009', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552/6712166502940672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6520647963070374039286753'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Możesz się nauczyć znaczników!"', 
       author: 'Urszula Aleksandrwicz', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560/5386822642614272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_649440371385867463814792'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Maria Makuch', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6660622264877056/6723112361312256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6660622264877056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2360482602497025920748112'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Wiktoria  Piętka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5094676282785792/6753684475396096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5094676282785792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6159075512021312048387264'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Paulina Zaród', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4803781201281024/4530306003812352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4803781201281024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_538184131355567179715224'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Dominika Bajorska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5674667958648832/6319931164770304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5674667958648832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3908324243232261930526264'
     }, 
   ];
 };
