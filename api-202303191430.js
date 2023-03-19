@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'BSS Poster', 
       author: 'Dat', 
       votes: 33, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Happy Saint Patrick\'s Day!', 
@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 20, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6634470544556032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4973898007625728.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592/4824524484034560.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
+    }, 
+    {
+      title: 'We were all noobs once!', 
+      author: '🥞PaNcAkEs🥞', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'khanmigo is soo cute!', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'We were all noobs once!', 
-      author: '🥞PaNcAkEs🥞', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'Agar.io', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
     }, 
     {
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
+    }, 
+    {
       title: 'Gatito panzón', 
       author: 'JD', 
       votes: 3, 
@@ -253,22 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 14, 
+      title: 'Ohnoes is annoying sometimes', 
+      author: 'LovelyPetals', 
+      votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
-      title: 'T1\'s entry for subpage contest :)', 
-      author: 'Blake Meloche (T1)[OffForWeekend]', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064/4779547314929664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/t1s-entry-for-subpage-contest/6085865812312064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568/5650804247937024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
