@@ -541,51 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'mukilanthepro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4874636518277120/6693783506042880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4874636518277120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_908460036470264173392593'
-    }, 
-    {
-      title: 'suma indicilor', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/suma-indicilor/5714630887653376/5656155746779136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/suma-indicilor/5714630887653376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'suma indicilor', 
-      author: 'Troaca Andrei', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/suma-indicilor/4654875423326208/6438417836851200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/suma-indicilor/4654875423326208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
-    }, 
-    {
-      title: 'Fish Party', 
-      author: 'coding guy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-party/5248882483445760/6331457847214080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-party/5248882483445760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8941489002844716037067452'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'anetaa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5199036035678208/6430354703695872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5199036035678208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_381932307603812538252672'
-    }, 
-    {
       title: 'move a box \'round the screen controlled by arrow keys but smaller', 
       author: 'Proscribir', 
       votes: 4, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-links/5353530706935808/5305772885196800.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-links/5353530706935808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_417662862925934474949416'
+    }, 
+    {
+      title: 'Random Abstract', 
+      author: 'dongigdong', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944/5248110600437760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951644213544102920964357'
+    }, 
+    {
+      title: 'Tools', 
+      author: 'Akhil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272/5488524213403648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1028540372520763684968073'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data" Khan\'s work', 
+      author: 'kalen hightower', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data-khans-work/5987311717498880/6229225683337216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data-khans-work/5987311717498880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9920216706719686993489718'
+    }, 
+    {
+      title: 'My Favorite Foods', 
+      author: 'Juan Santos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/5746749491953664/4613310270193664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/5746749491953664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'asiamrodwell', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5940825068716032/5840288477396992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5940825068716032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_762292903414241976181396'
     }, 
   ];
 };
