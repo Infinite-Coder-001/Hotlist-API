@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6101883526889472.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -559,24 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'My Favorite Animals!', 
-      author: 'Yuhan wang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672/5568511536840704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964883060475682220225629'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'eisaac742', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6539742353342464/6427985763942400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6539742353342464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_535847433685268452003304'
-    }, 
-    {
       title: 'One Riddle(Game)', 
       author: 'Shadow Fax', 
       votes: 23, 
@@ -595,42 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Frog Attack', 
-      author: 'Juan Santos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640/6222114022801408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'dbeck305', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5145682609750016/5986207843794944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5145682609750016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_252052971967180163521261'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig" updated', 
-      author: 'jwcr.22', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-updated/6345641506947072/6306845402906624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-updated/6345641506947072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173794918325713633307601'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Nancy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6684573213966336/6395422392500224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6684573213966336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
-    }, 
-    {
       title: 'Scene 49 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
@@ -644,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'hkelts', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296/5474977614970880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296/5873978200866816.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1461610395423235567906614'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/6628057618366464/5975580014329856.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/6628057618366464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_49637624056016965442865'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Erika Pimentel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6365142138011648/5195134192107520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6365142138011648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5063330496166525332333036'
+    }, 
+    {
+      title: 'Spin-off of "Iku character example"', 
+      author: 'angelm233', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-iku-character-example/6715375179055104/5959081233006592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-iku-character-example/6715375179055104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_274583224545748794614584'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Z M', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5271977596338176/6630870892199936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5271977596338176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9587092622538503866161167'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'mariabernal', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6306339405217792/5712248788271104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6306339405217792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2036538028440415262393705'
+    }, 
+    {
+      title: 'Derivação de "projetoialen"', 
+      author: 'capir.2022116isinf0210', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projetoialen/5115444899135488/5260853765259264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projetoialen/5115444899135488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1174462236316167701773578'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'MissDanielle015', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6249433672237056/6578083261104128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6249433672237056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_21203632391006833970712'
     }, 
   ];
 };
