@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6511062507896832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/4627209592815616.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'Unusual Fellow', 
       author: 'mr. mustache', 
       votes: 33, 
@@ -73,13 +82,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 7, 
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6634470544556032.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Play-dough', 
@@ -200,7 +200,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Offline)', 
+      author: 'CylenceScythe (Online-ish)', 
       votes: 64, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
@@ -595,6 +595,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'ismael.ir130', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760/6021542939246592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
+    }, 
+    {
+      title: 'Spin-off of "Booleans"', 
+      author: 'Ariya Tikoo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6596349082779648/6713447812481024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6596349082779648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29634664377026608839587'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Flashy Flash Card"', 
       author: 'Will Gronsky', 
       votes: 1, 
@@ -608,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'obedicr', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936/5341669919866880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936/5141030254198784.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_560453622856473858208268'
     }, 
@@ -640,12 +658,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
     }, 
     {
-      title: '3D attempt again.', 
+      title: 'Why is it not appearing?', 
       author: 'Fenris', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-attempt-again/4632472135712768/5791383026974720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-attempt-again/4632472135712768', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-is-it-not-appearing/4632472135712768/5664519625162752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-is-it-not-appearing/4632472135712768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
     }, 
     {
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5115569654513664/5119703023665152.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5115569654513664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
-    }, 
-    {
-      title: 'Color testing', 
-      author: 'judahvonmeding', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/color-testing/4768033416724480/5808423977664512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/color-testing/4768033416724480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114755538465527950479602'
-    }, 
-    {
-      title: 'Iku character example', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iku-character-example/6310062537883648/5925101263699968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iku-character-example/6310062537883648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
