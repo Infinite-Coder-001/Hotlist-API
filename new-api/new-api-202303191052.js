@@ -505,24 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'Jabberwocky', 
-      author: 'Zaki009', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jabberwocky/6606602380820480/5507393615347712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jabberwocky/6606602380820480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5028675674302718088316330'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Sternschnuppe"', 
-      author: 'Philip Benkenstein', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/5827701468610560/6353419494539264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/5827701468610560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9345689971082141140941459'
-    }, 
-    {
       title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
       author: 'vojtech.prichystal', 
       votes: 1, 
@@ -878,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'naroa.codea', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-images-and-text-emphasis-by-naroa-codea/5964133252251648/5700140003540992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-images-and-text-emphasis-by-naroa-codea/5964133252251648/5061385149267968.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-images-and-text-emphasis-by-naroa-codea/5964133252251648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_977125514865587089446861'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6578911988465664/6245608228962304.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6578911988465664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_14471106898844245501176'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Magdalena Stępień', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6271109667536896/5815749718622208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6271109667536896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1776270014861404110658335'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'ha6549', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5765390287552512/6258422401253376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5765390287552512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_975028983621402301095317'
     }, 
   ];
 };
