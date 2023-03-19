@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5910116589420544.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
+      title: 'Gatito panzón', 
+      author: 'JD', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
       title: 'T1\'s entry for subpage contest :)', 
       author: 'Blake Meloche (T1)[OffForWeekend]', 
       votes: 8, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hoppers-journey/5975726644051968/4557705345024000.png', 
       link: 'https://www.khanacademy.org/computer-programming/hoppers-journey/5975726644051968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
-    }, 
-    {
-      title: 'Gatito panzón', 
-      author: 'JD', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
       title: 'Messi The Goat', 
@@ -604,6 +604,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
     }, 
     {
+      title: '3D attempt again.', 
+      author: 'Fenris', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-attempt-again/4632472135712768/5270288734666752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-attempt-again/4632472135712768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
+    }, 
+    {
+      title: 'Pizza Praise', 
+      author: 'knowZap', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-praise/5935533739261952/5128458314498048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-praise/5935533739261952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3460419250235478108740589'
+    }, 
+    {
+      title: 'JS Ruler Made by E.B', 
+      author: 'Cheryl Bastian', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/js-ruler-made-by-eb/5090304506249216/5247995038973952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/js-ruler-made-by-eb/5090304506249216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4723847815413043008132166'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Blog"', 
+      author: 'Ercilio Daniel de Oliveira Michilini', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/6628057618366464/5975580014329856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-blog/6628057618366464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_49637624056016965442865'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Erika Pimentel', 
       votes: 1, 
@@ -611,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6365142138011648/5195134192107520.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6365142138011648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5063330496166525332333036'
+    }, 
+    {
+      title: 'Spin-off of "Iku character example"', 
+      author: 'angelm233', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-iku-character-example/6715375179055104/5411701542666240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-iku-character-example/6715375179055104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_274583224545748794614584'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6728811782914048/6461017149456384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6728811782914048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_736869181810514899307588'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game " ablah', 
-      author: 'Ablah Nurhaliza - 09031282126053', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-ablah/5263414018752512/6499749664702464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-ablah/5263414018752512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1320010596207039412090514'
-    }, 
-    {
-      title: 'La historia de la gotita', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/la-historia-de-la-gotita/6075270698418176/4807682773270528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/la-historia-de-la-gotita/6075270698418176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'tiny.dancer27333', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4877902538915840/6252049475092480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4877902538915840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_267986998911824141342803'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Wort-Head Productions😐', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6725451038113792/6162203725316096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6725451038113792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'le.dedaj', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5094544380313600/4762182631079936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5094544380313600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1206352674633146894123261'
     }, 
   ];
 };
