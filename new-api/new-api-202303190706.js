@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'rect and line', 
+      author: 'arjunanil554', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rect-and-line/6341785099223040/6713225410560000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rect-and-line/6341785099223040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_731842148490806741552439'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'mperez4129', 
       votes: 1, 
@@ -644,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/4583514273267712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -761,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'snmoorthy108', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lollipop-factory-by-jaishnavi-sathyanarayanan/5089200367255552/6703944190705664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lollipop-factory-by-jaishnavi-sathyanarayanan/5089200367255552/6374226597822464.png', 
       link: 'https://www.khanacademy.org/computer-programming/lollipop-factory-by-jaishnavi-sathyanarayanan/5089200367255552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_721678166795052306401976'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600/6093550481883136.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_234766638671921479485230'
-    }, 
-    {
-      title: 'Scene 55 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976/6505759297028096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
