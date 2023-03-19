@@ -21,16 +21,16 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5247365054513152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/4627209592815616.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 33, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -595,38 +595,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Spin-off of "Steve"', 
-      author: '1001programmer1001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-steve/6322541766688768/6451002222100480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-steve/6322541766688768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
-      title: 'Tic Tac Toa', 
-      author: 'TacoBlayno', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toa/6401727001837568/6331042513600512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toa/6401727001837568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_268264806341041318021133'
-    }, 
-    {
-      title: 'Scene 47 (Angel.M, Wilmer, Jerry) incomplete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-incomplete/6351728753819648/4795824505929728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-incomplete/6351728753819648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
       title: 'Derivado de "Desafío: lista de deseos"', 
       author: 'ismael.ir130', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760/6470783099781120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760/6021542939246592.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
     }, 
@@ -685,12 +658,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
     }, 
     {
-      title: 'Three.js Template', 
+      title: 'Why is it not appearing?', 
       author: 'Fenris', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/threejs-template/4632472135712768/6223840465436672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/threejs-template/4632472135712768', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-is-it-not-appearing/4632472135712768/5664519625162752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-is-it-not-appearing/4632472135712768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
     }, 
     {
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fish-project/5624861236183040/4876142877392896.png', 
       link: 'https://www.khanacademy.org/computer-programming/fish-project/5624861236183040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1003870435544286551005356'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'alenanetesova245', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6650527078465536/6442664079966208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6650527078465536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2256307026028351378609'
+    }, 
+    {
+      title: 'Spin-off of "Looping through Arrays"', 
+      author: 'Miss Kashvi P', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/5803315785154560/6045855946948608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/5803315785154560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_336624982135495835235128'
+    }, 
+    {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'Duvan Gonzalez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5115569654513664/5119703023665152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5115569654513664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
     }, 
   ];
 };
