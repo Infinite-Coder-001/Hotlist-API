@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'Play-dough', 
+      author: 'H.M. Wogglebug T.E.', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/4539365297799168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
       title: 'To Grill Hamburgers', 
       author: 'Volatile ✝︎', 
       votes: 20, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6634470544556032.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'Play-dough', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/4539365297799168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
       title: 'BURGER STACK (Final Update)', 
@@ -559,11 +559,56 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Tylerfox0817', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5914323143933952/4780876942852096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5914323143933952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278805823695019842284076'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Elisabeth Araki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6285274536787968/5659961456902144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6285274536787968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_672838131344086062780929'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'leoandradelemos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472/5878818088992768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9053813488590487185509522'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig" (Pokemon)', 
+      author: 'soowot', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6410476118654976/4519662001111040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6410476118654976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9077869513849041958360556'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Amanda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304/5122103910383616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_578404684542823990864983'
+    }, 
+    {
       title: 'Spin-off of "Drawing more shapes with code"', 
       author: 'Darian Bell', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5056223675465728/5959101899390976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5056223675465728/4910245655920640.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5056223675465728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6685122898635596653867664'
     }, 
@@ -671,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592/5428813695860736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592/5677062537134080.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -779,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528/6675647265292288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528/6182978009219072.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -815,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/4639153356849152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/4935087344107520.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936/5141030254198784.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_560453622856473858208268'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'emmanuella tem', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6563773839360000/5861535677464576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6563773839360000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_543811336014364540607932'
-    }, 
-    {
-      title: ' st. patricks  day  facts and more', 
-      author: 'ally', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568/5793670865666048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/st-patricks-day-facts-and-more/5003081807085568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'ismael.ir130', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6105866437967872/6570443185373184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6105866437967872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
-    }, 
-    {
-      title: 'Three.js inside khan academy', 
-      author: 'Fenris', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/threejs-inside-khan-academy/4632472135712768/5067526452330496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/threejs-inside-khan-academy/4632472135712768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
-    }, 
-    {
-      title: 'Fight game', 
-      author: 'shang.sun.1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fight-game/4581000710766592/4891946273521664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fight-game/4581000710766592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_720882784048547940412838'
     }, 
   ];
 };
