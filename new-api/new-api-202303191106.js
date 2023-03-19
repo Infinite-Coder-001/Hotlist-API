@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 60, 
+      votes: 59, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -505,42 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
-      author: 'justyna.hrubsova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6417693478797312/5223421249372160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6417693478797312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_156648809527744683812625'
-    }, 
-    {
-      title: 'Test B3 préparatoire ', 
-      author: 'Eliza Fron', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632/4654297146245120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9890268115480212349972165'
-    }, 
-    {
-      title: 'Racing Rampage', 
-      author: '! R4MP4G3 ₮he ⋐ool Dude #JesusIsKing', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736/5195282704023552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286506355967486363210084'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'maydelabadan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945556716535808/6345802672029696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945556716535808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1046720205864583470454694'
-    }, 
-    {
       title: 'Jabberwocky', 
       author: 'Zaki009', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5705203162857472/5252752252125184.png', 
       link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5705203162857472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1035723511366487242647379'
+    }, 
+    {
+      title: 'Zachary Williamson from the Unwanted', 
+      author: 'exploding_kitten💣🔥', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512/6176450665562112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zachary-williamson-from-the-unwanted/6001722671808512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
+    }, 
+    {
+      title: 'Spin-off of "Challenge:  Images and text emphasis By Naroa Codea"', 
+      author: 'naroa.codea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-images-and-text-emphasis-by-naroa-codea/5964133252251648/5700140003540992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-images-and-text-emphasis-by-naroa-codea/5964133252251648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_977125514865587089446861'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'nrowan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6098849333821440/4660266812096512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6098849333821440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_14471106898844245501176'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'nrowan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6578911988465664/6245608228962304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6578911988465664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_14471106898844245501176'
     }, 
   ];
 };
