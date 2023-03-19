@@ -343,12 +343,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
-      title: 'Mr/Ms Misfit\'s Subpage (WIP)', 
+      title: 'Mr/Ms Misfit\'s Subpage', 
       author: 'vw_beetlesultimategreatness', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504/6667924648804352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5605825407401984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
@@ -515,6 +515,87 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Jakub Olszewski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5169051191263232/6023174895747072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5169051191263232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1016329924268398276724450'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Natalia Skalińska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6263231019794432/6507983220817920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6263231019794432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1808844612252810533481083'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Zuzanna Sopiarz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5506618776403968/4882623912787968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5506618776403968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5117298726026327610514153'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Kacper Woźniak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6688832348274688/6536409394757632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6688832348274688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_26739697426997736157344'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Blessings', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4822545239162880/6452104589000704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4822545239162880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315639171764481822683464'
+    }, 
+    {
+      title: 'Watch the Stars! comertial', 
+      author: 'lidiagutierrezlopez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/watch-the-stars-comertial/5593340944105472/5250098968969216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/watch-the-stars-comertial/5593340944105472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_461344364867215634491515'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Martyna Drab', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4978132576944128/4854676023721984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4978132576944128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5538410251266621802099885'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Klaudia Czyżewska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6388453408555008/5283974782173184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6388453408555008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_237176591153653941770230'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki" Julia Wawrzyszczuk', 
+      author: 'Julia Wawrzyszczuk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki-julia-wawrzyszczuk/6262050907275264/6347391910592512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki-julia-wawrzyszczuk/6262050907275264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2222111708262180443054853'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Karolina Szemiel', 
       votes: 1, 
       forks: 0, 
@@ -536,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'Joanna Rólka-Wąsik', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5748948612726784/6417623548215296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5748948612726784/5153727080349696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5748948612726784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271249849732969890047172'
     }, 
@@ -581,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Magdalena Maksymowicz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5436254860918784/6621612855312384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5436254860918784/6375998875811840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5436254860918784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433890054743432155234228'
     }, 
@@ -608,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'Magdalena Skowyra', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5144061192486912/4555718117343232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5144061192486912/5091257052610560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5144061192486912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_993714017759741329472306'
     }, 
@@ -635,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Ewelina Sztyc', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5299908577116160/6184870415220736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5299908577116160/6295543733338112.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5299908577116160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_39047860120649831966561'
     }, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/5683608473092096/5118068785463296.png', 
       link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-site-de-voyage/5683608473092096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1018527200098532263088331'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Magdalena Maksymowicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6335603161743360/5694686468816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6335603161743360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3433890054743432155234228'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Kacper Woźniak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4817384839102464/5946822118129664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4817384839102464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_26739697426997736157344'
-    }, 
-    {
-      title: 'książka kucharska', 
-      author: 'Antonina Bogusiewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/6728693332623360/4705719310139392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/6728693332623360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4188166176256294251913719'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Zuzanna Sopiarz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6633128837038080/5190477370671104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6633128837038080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5117298726026327610514153'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Magdalena Stępień', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5347093893136384/5445229127974912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5347093893136384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1776270014861404110658335'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Julia  Rusin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6326430725357568/6366184674213888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6326430725357568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9429941256979398358233151'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Karolina Szemiel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5910043846557696/6247372725469184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5910043846557696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5193498491110153573031739'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Joanna Szydłowska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5445560346918912/6328813221101568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5445560346918912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4783857506612806029197650'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Martyna Drab', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6683524906401792/5025600290209792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6683524906401792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5538410251266621802099885'
     }, 
   ];
 };
