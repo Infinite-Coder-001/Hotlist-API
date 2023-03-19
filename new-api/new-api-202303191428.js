@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'BSS Poster', 
       author: 'Dat', 
       votes: 33, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Happy Saint Patrick\'s Day!', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
+      title: 'We were all noobs once!', 
+      author: '🥞PaNcAkEs🥞', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
       votes: 67, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248/5480378905444352.png', 
       link: 'https://www.khanacademy.org/computer-programming/loading-images-in-pjs/5632539547189248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'We were all noobs once!', 
-      author: '🥞PaNcAkEs🥞', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'Agar.io', 
@@ -478,6 +478,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
+      author: 'viictor.silva77', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/5912676795727872/6046101296955392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/5912676795727872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_751659176780906975275413'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Nene Kubata', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4931871081545728/5226538855612416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4931871081545728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1983157254796347194009734'
+    }, 
+    {
+      title: 'Crowdsourcing - Jolie Frontiero', 
+      author: 'joliefrontiero', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crowdsourcing-jolie-frontiero/5612201417424896/5602169783107584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crowdsourcing-jolie-frontiero/5612201417424896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9395043730385263089125252'
+    }, 
+    {
       title: 'diagonal test', 
       author: 'MAyyan2009', 
       votes: 1, 
@@ -761,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase ✝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/4940110842085376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/6550606003355648.png', 
       link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6716136763998208/6612284689661952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6716136763998208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_595892779936673325952057'
-    }, 
-    {
-      title: 'Quadruple balls, optical illusion, over 100 lines of code!!!', 
-      author: 'MAyyan2009', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552/5741379339993088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6520647963070374039286753'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Możesz się nauczyć znaczników!"', 
-      author: 'Urszula Aleksandrwicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moesz-si-nauczy-znacznikw/4581225324134400/6575987786825728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moesz-si-nauczy-znacznikw/4581225324134400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_649440371385867463814792'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'barczukjulia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4798615026712576/5576375887249408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4798615026712576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_651101650417468607581165'
     }, 
   ];
 };
