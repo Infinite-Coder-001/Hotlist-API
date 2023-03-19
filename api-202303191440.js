@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 22, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5696780466700288.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'Ski Translator', 
+      author: 'Phase ✝', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/6550606003355648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
       votes: 18, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
       link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'Ohnoes is annoying sometimes', 
-      author: 'LovelyPetals', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568/5650804247937024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ohnoes-is-annoying-sometimes/5509342688493568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
