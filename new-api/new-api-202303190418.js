@@ -559,6 +559,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Spin-off of "hacker2.0"', 
+      author: 'Rohit Malik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-hacker20/5111906312699904/6748452399923200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-hacker20/5111906312699904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_878800491876348423030689'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Kat Ng', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5568673937145856/5065473827061760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5568673937145856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4886729991714305833990379'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'staceyplexico', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6693982212243456/4657398716612608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6693982212243456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2775301351800463426197103'
+    }, 
+    {
+      title: 'Scene 51 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-51-angelm-wilmer-jerry-incomplete/4511289834782720/5992596943192064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-51-angelm-wilmer-jerry-incomplete/4511289834782720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
       title: 'New program', 
       author: 'StuffStash', 
       votes: 1, 
@@ -595,12 +631,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1184373489068898762485731'
     }, 
     {
-      title: 'Scene 50 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Scene 50 (Angel.M, Wilmer, Jerry) complete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-incomplete/4791752071626752/6599095516184576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-incomplete/4791752071626752', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-complete/4791752071626752/5479045086363648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-complete/4791752071626752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -688,7 +724,7 @@ var LoadHotlistAPI = function() {
       title: 'Jerry "Tenshi Hina"', 
       author: 'jerrys38', 
       votes: 1, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512/5800477486006272.png', 
       link: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
@@ -806,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'guilfonseca2007', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai/5164371015942144/5050055431340032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai/5164371015942144/6199482565050368.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai/5164371015942144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_644625468924713394864896'
     }, 
@@ -862,42 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528/6182978009219072.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-48-angelm-wilmer-jerry-complete/6377711423766528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Vani', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4997509895471104/6705665063305216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4997509895471104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1130605661076785761494224'
-    }, 
-    {
-      title: 'random key generator', 
-      author: 'creamCheese', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/random-key-generator/5402599094534144/6305541380161536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/random-key-generator/5402599094534144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097993995617565832041486'
-    }, 
-    {
-      title: 'Tic Tac Toa', 
-      author: 'TacoBlayno', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toa/6401727001837568/6311378072944640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toa/6401727001837568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_268264806341041318021133'
-    }, 
-    {
-      title: 'Scene 47 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/4935087344107520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
