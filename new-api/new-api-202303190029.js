@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/4970220512133120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5349886192304128.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Astro', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320/4630856687992832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320/6303293736534016.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5992048727736320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rope Physics', 
       author: 'Rexkitty', 
-      votes: 42, 
+      votes: 43, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632/4711069161668608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rope-physics/6515263942213632', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'One Riddle:Hard(GAME)', 
+      author: 'Shadow Fax', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
       title: 'Tetris', 
       author: 'matthew.nicholas.smith', 
       votes: 13, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080/6389625428164608.png', 
       link: 'https://www.khanacademy.org/computer-programming/food-maker/4743603404718080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'One Riddle:Hard(GAME)', 
-      author: 'Shadow Fax', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'GPT 5 goes farming (Comica #2)', 
@@ -314,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hoppers-journey/5975726644051968/4557705345024000.png', 
       link: 'https://www.khanacademy.org/computer-programming/hoppers-journey/5975726644051968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
+      title: 'Gatito panzón', 
+      author: 'JD', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
       title: 'Messi The Goat', 
@@ -595,6 +604,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1320010596207039412090514'
     }, 
     {
+      title: 'New program', 
+      author: 'Wort-Head Productions😐', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6725451038113792/5498259864076288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6725451038113792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'le.dedaj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5094544380313600/4762182631079936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5094544380313600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1206352674633146894123261'
+    }, 
+    {
+      title: 'weird face', 
+      author: 'Meharjaap Virdi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/weird-face/6631436284379136/4784198901874688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/weird-face/6631436284379136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6987844246979177193836938'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'txorder', 
       votes: 1, 
@@ -671,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'caroline.royce29', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/other-bunny/6056874819764224/6065482806640640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/other-bunny/6056874819764224/4863906347794432.png', 
       link: 'https://www.khanacademy.org/computer-programming/other-bunny/6056874819764224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_680941616600744107640779'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4713597222830080/5511412493631488.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4713597222830080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3555494450714158488274118'
-    }, 
-    {
-      title: 'gravity!', 
-      author: 'OwenClarke10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity/4522463125094400/6049095291813888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gravity/4522463125094400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_310976437588959616843510'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Phoebe Crutchfield', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081837706559488/5223172543922176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081837706559488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8750261035965227411056367'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
-      author: 'jcjeancarlos.1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/5274613364080640/5196761847349248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/5274613364080640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_250983042016003644597932'
-    }, 
-    {
-      title: 'waaaaaaaaaaa', 
-      author: 'njgreenowl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waaaaaaaaaaa/4620372675969024/6247083620483072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waaaaaaaaaaa/4620372675969024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
     }, 
   ];
 };
