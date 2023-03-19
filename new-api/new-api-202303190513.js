@@ -559,6 +559,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'HTML links', 
+      author: 'Gabrielle.Smith7117', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html-links/5353530706935808/5305772885196800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html-links/5353530706935808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_417662862925934474949416'
+    }, 
+    {
+      title: 'Random Abstract', 
+      author: 'dongigdong', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944/5248110600437760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951644213544102920964357'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data" Khan\'s work', 
       author: 'kalen hightower', 
       votes: 1, 
@@ -698,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'leoandradelemos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384/5701959861714944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384/5658112540590080.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9053813488590487185509522'
     }, 
@@ -757,12 +775,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
-      title: 'New program', 
+      title: 'Abstract Protogen Drawer 1.0 Rawr OwO', 
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/6568396297912320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-10-rawr-owo/4703282993086464/6030961738563584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-10-rawr-owo/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672/5568511536840704.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964883060475682220225629'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'eisaac742', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6539742353342464/6427985763942400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6539742353342464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_535847433685268452003304'
-    }, 
-    {
-      title: 'Jerry "Tenshi Hina"', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512/4514066729320448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
