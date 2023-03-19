@@ -559,6 +559,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Spin-off of "CSS Basics"', 
+      author: 'Mckenzie Marvelous', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-basics/5905666201141248/6404270296711168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-basics/5905666201141248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3103661792770881039836276'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: haz que llueva"', 
+      author: 'Duvan Gonzalez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5806026986405888/6184239387426816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5806026986405888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
+    }, 
+    {
       title: 'Hypno Frog', 
       author: 'Juan Santos', 
       votes: 1, 
@@ -575,6 +593,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200/5323392854310912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_949510074657983743258205'
+    }, 
+    {
+      title: 'Weapons', 
+      author: 'Akhil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/weapons/6364029473046528/6502412715343872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/weapons/6364029473046528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1028540372520763684968073'
     }, 
     {
       title: 'Teddy Bear Factory', 
@@ -608,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'Akhil', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272/5168637263790080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272/5488524213403648.png', 
       link: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1028540372520763684968073'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5914323143933952/4780876942852096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5914323143933952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278805823695019842284076'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Elisabeth Araki', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6285274536787968/5659961456902144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6285274536787968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_672838131344086062780929'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'leoandradelemos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472/5878818088992768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9053813488590487185509522'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Amanda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304/5122103910383616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_578404684542823990864983'
     }, 
   ];
 };
