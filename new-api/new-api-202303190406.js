@@ -559,51 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'New program', 
-      author: 'StuffStash', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/5691641269895168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Mariana González Doda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5528661689417728/5417310165975040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5528661689417728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2106568377196813006642303'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'chwells77', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6411748640079872/4560550355058688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6411748640079872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_388074085975719587042594'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database" pradeep', 
-      author: 'pradeeplingam102', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-pradeep/5634948037132288/6298512629481472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-pradeep/5634948037132288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1184373489068898762485731'
-    }, 
-    {
-      title: 'Scene 50 (Angel.M, Wilmer, Jerry) incomplete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-incomplete/4791752071626752/6599095516184576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-incomplete/4791752071626752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'Tylerfox0817', 
       votes: 1, 
@@ -629,6 +584,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472/5878818088992768.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5142998523625472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9053813488590487185509522'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig" (Pokemon)', 
+      author: 'soowot', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6410476118654976/4519662001111040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6410476118654976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9077869513849041958360556'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -748,12 +712,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
     }, 
     {
-      title: 'Scene 49 (Angel.M, Wilmer, Jerry) complete', 
+      title: 'Scene 49 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-complete/4889609210478592/6441768042414080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-complete/4889609210478592', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592/5677062537134080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-incomplete/4889609210478592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648/4935087344107520.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-47-angelm-wilmer-jerry-complete/6351728753819648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'ismael.ir130', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760/6470783099781120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5620476846325760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8488263152906202646582327'
+    }, 
+    {
+      title: 'Spin-off of "Booleans"', 
+      author: 'Ariya Tikoo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6596349082779648/6713447812481024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6596349082779648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29634664377026608839587'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Flashy Flash Card"', 
+      author: 'Will Gronsky', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flashy-flash-card/6723016865398784/6217066026942464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flashy-flash-card/6723016865398784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4702008804809739429866944'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'obedicr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936/5141030254198784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5175120248487936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_560453622856473858208268'
     }, 
   ];
 };
