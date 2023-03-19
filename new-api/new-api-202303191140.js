@@ -505,6 +505,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database" Manga list', 
+      author: 'Roos Klijmeij', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manga-list/6673104510435328/5721134877425664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-manga-list/6673104510435328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3671571320298961889345364'
+    }, 
+    {
+      title: 'Test B3 preparatoire', 
+      author: 'Elissa Strouzas', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-preparatoire/5370352550330368/4630437394956288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test-b3-preparatoire/5370352550330368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6299046043771800177815457'
+    }, 
+    {
+      title: 'Marta Boyko; Derivado de "Proyecto: construye una casa"', 
+      author: 'mboy157', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-proyecto-construye-una-casa/6376590172012544/6197944631214080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-proyecto-construye-una-casa/6376590172012544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1103565271340030467798274'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'Jakub Milczanowski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6677624695078912/5599100559212544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6677624695078912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9837486971195160308918503'
+    }, 
+    {
+      title: 'PLS UP VOTE!!!', 
+      author: 'ifer35', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032/6528036691558400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465252124173958967136628'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Yasmin Silva', 
       votes: 1, 
@@ -572,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'Eliza Fron', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632/4654297146245120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632/6162697311010816.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9890268115480212349972165'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5436254860918784/6375998875811840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5436254860918784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433890054743432155234228'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Marianna Nadorożna', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6425808483958784/4603743502123008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6425808483958784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1120685693719623808097870'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Oliwia Szeląg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5689325879869440/6701732014112768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5689325879869440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5347396283317940263034534'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Magdalena Skowyra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5144061192486912/5091257052610560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5144061192486912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_993714017759741329472306'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Julia Salikov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4656622871035904/5513657150914560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4656622871035904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_699021263220744856471702'
-    }, 
-    {
-      title: 'Contest: What\'s Cooking? - HTML Submissions', 
-      author: 'Evan Lewis', 
-      votes: 39, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440/4852891380924416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking-html-submissions/6197891662397440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173497530379971182404232'
     }, 
   ];
 };
