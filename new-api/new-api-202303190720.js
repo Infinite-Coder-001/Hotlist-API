@@ -550,6 +550,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'anshika08092015', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6078645337899008/5526781835919360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6078645337899008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_40630630586526638281817'
+    }, 
+    {
+      title: 'Low grade builder', 
+      author: 'A kid', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/low-grade-builder/5611375511781376/5755904315408384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/low-grade-builder/5611375511781376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933953362756898540005602'
+    }, 
+    {
+      title: 'Derivado de "Desafío: papel rayado"', 
+      author: 'Maria Isabel Madero Garcia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-papel-rayado/5570105036816384/5077374040588288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-papel-rayado/5570105036816384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Sasha_Spaikes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5150491295399936/6310678697918464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5150491295399936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+    }, 
+    {
       title: 'rect and line', 
       author: 'arjunanil554', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992/6568500786413568.png', 
       link: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Michelle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5591527726563328/4944408698208256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5591527726563328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_234766638671921479485230'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'Shraddha Shoraff', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4774513546149888/4946808578293760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4774513546149888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8518458875992800565426067'
-    }, 
-    {
-      title: 'Snake game', 
-      author: 'Rodrigo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/4848022515400704/4753816098750464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/4848022515400704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533221230010212476572525'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Michelle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600/6093550481883136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_234766638671921479485230'
     }, 
   ];
 };
