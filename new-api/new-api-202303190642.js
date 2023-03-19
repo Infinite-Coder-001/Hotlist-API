@@ -698,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'nailea_martinez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032/5433676440846336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032/6287371219025920.png', 
       link: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_148262265680211319262998'
     }, 
@@ -737,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200/5323392854310912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_949510074657983743258205'
+    }, 
+    {
+      title: 'Lollipop Factory : By Jaishnavi Sathyanarayanan', 
+      author: 'snmoorthy108', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lollipop-factory-by-jaishnavi-sathyanarayanan/5089200367255552/6703944190705664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lollipop-factory-by-jaishnavi-sathyanarayanan/5089200367255552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721678166795052306401976'
     }, 
     {
       title: 'Weapons', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296/6551984556785664.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5157474159051263394496328'
-    }, 
-    {
-      title: 'Scene 53 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-complete/6675608412405760/5348949181644800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-complete/6675608412405760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
