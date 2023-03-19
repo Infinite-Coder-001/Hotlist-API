@@ -307,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'The Subpage (Suggestions? Plz comment.)', 
+      author: 'The Ember Society', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'Ohnoes is annoying sometimes ', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -338,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504/6059946929340416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504/6667924648804352.png', 
       link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage-wip/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -523,6 +532,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: Scene change" Leo Akbaroka', 
+      author: 'LEO AKBAROKA - 09031182126020', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-leo-akbaroka/6369245909008384/5619811230203904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-leo-akbaroka/6369245909008384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_792606718816060730855136'
+    }, 
+    {
+      title: 'New program', 
+      author: 'isbasoiuluca39', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5080478832181248/4563609918423040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5080478832181248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
+    }, 
+    {
       title: 'BE HORRIFIED! (NEWEST JOKE)', 
       author: 'Speedyspeedcuber', 
       votes: 83, 
@@ -545,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'specialtelefon2018', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-3-khan-20/5359656068497408/6078368211845120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-3-khan-20/5359656068497408/4982166963666944.png', 
       link: 'https://www.khanacademy.org/computer-programming/ex-3-khan-20/5359656068497408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
@@ -581,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'Eduard Codeup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360/6518576086564864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360/5826121326444544.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
     }, 
@@ -689,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Madd Sam', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/coball/4848576804208640/6736291938222080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coball/4848576804208640/5738261327953920.png', 
       link: 'https://www.khanacademy.org/computer-programming/coball/4848576804208640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6051021313064960/6183487804850176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6051021313064960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_570531918942756361555933'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'ilonashkil', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4854449464197120/5053862648266752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4854449464197120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89165090119554944476032'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Thais  Vargas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5822077480517632/5615859457638400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5822077480517632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6260626676150658916227571'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'rohitraj7872', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854073456377856/4736001114423296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854073456377856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654555707537488356428034'
     }, 
   ];
 };
