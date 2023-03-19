@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'Play-dough', 
+      author: 'H.M. Wogglebug T.E.', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/4539365297799168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
       title: 'To Grill Hamburgers', 
       author: 'Volatile ✝︎', 
       votes: 20, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/6634470544556032.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'Play-dough', 
-      author: 'H.M. Wogglebug T.E.', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/4539365297799168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
       title: 'BURGER STACK (Final Update)', 
