@@ -532,6 +532,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'Maria Isabel Madero Garcia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4691424923926528/5181542365446144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4691424923926528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
+    }, 
+    {
+      title: '2023/03/19 arrays.length', 
+      author: '🐻✨✍️✅😎✌️', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/20230319-arrayslength/6365348162224128/6218275932651520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/20230319-arrayslength/6365348162224128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865587506284067904525509'
+    }, 
+    {
       title: 'Winston donuts', 
       author: 'Thiam', 
       votes: 3, 
@@ -539,6 +557,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800/6648500122337280.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-donuts/4658365416652800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_130157740839892983809765'
+    }, 
+    {
+      title: 'gagucii', 
+      author: 'isbasoiuluca39', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gagucii/5863564851331072/4964210443599872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gagucii/5863564851331072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
+    }, 
+    {
+      title: 'CoBall', 
+      author: 'Madd Sam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coball/4848576804208640/6736291938222080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/coball/4848576804208640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
+    }, 
+    {
+      title: 'Ex. 1 khan 20', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-1-khan-20/5768336162209792/6433611899518976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex-1-khan-20/5768336162209792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
     {
       title: 'Derivado de "Desafío: frutas favoritas"', 
@@ -572,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'Eduard Codeup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5406142781243392/5726449161256960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5406142781243392/5556590986182656.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5406142781243392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4935681525989376/6011557411864576.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4935681525989376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820037272857576966221477'
-    }, 
-    {
-      title: 'Nailea Martinez: Internet Entertainment', 
-      author: 'nailea_martinez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032/6287371219025920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_148262265680211319262998'
-    }, 
-    {
-      title: 'Spin-off of "CSS Basics"', 
-      author: 'Mckenzie Marvelous', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-basics/5905666201141248/6404270296711168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-css-basics/5905666201141248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3103661792770881039836276'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: haz que llueva"', 
-      author: 'Duvan Gonzalez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5806026986405888/6184239387426816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5806026986405888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
-    }, 
-    {
-      title: 'Hypno Frog', 
-      author: 'Juan Santos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hypno-frog/4710509339525120/4763359247646720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hypno-frog/4710509339525120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'weldemichaelabigail1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200/5323392854310912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_949510074657983743258205'
     }, 
   ];
 };
