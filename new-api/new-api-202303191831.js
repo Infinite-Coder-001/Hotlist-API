@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 33, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5696780466700288.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 86, 
+      votes: 85, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/5845310300798976.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
@@ -424,69 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Spin-off z "Projekt: Zaproszenie na specjalną okazję"', 
-      author: 'Jakub Milczanowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5798696950480896/6725488753295360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5798696950480896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9837486971195160308918503'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Andrés Condrache', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6122093022593024/6128840687796224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6122093022593024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7009869921568810611721961'
-    }, 
-    {
-      title: 'Save him!!!!!!!!!', 
-      author: 'Xander', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/save-him/4729661809803264/4950114223570944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/save-him/4729661809803264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
-    }, 
-    {
-      title: 'Armando Morales Rodríguez "Proyecto: construye una casa"', 
-      author: 'amorrod1802', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/armando-morales-rodrguez-proyecto-construye-una-casa/5344639853051904/4960917274279936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/armando-morales-rodrguez-proyecto-construye-una-casa/5344639853051904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_551428982568491676539301'
-    }, 
-    {
-      title: 'Sunny snowy day', 
-      author: 'Samarth Balyan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5489239862329344/5010459590967296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/5489239862329344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_531025659918333914111961'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'mateotorrez752', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4730569188753408/5258661992906752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4730569188753408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465853647335014553170678'
-    }, 
-    {
-      title: 'Derivado de "Desafío: caminante con pasos ruidosos"', 
-      author: 'Marcos Valbuena', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-caminante-con-pasos-ruidosos/4557600856522752/6679891162742784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-caminante-con-pasos-ruidosos/4557600856522752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_316193784094296176815814'
-    }, 
-    {
       title: 'Projet dérivé de "Projet : le livre de recettes terminé', 
       author: 'tortueaubeurresale', 
       votes: 1, 
@@ -518,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'JS ULI', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy-3/5202531769958400/6613275283603456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy-3/5202531769958400/5903512677695488.png', 
       link: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy-3/5202531769958400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
     }, 
@@ -739,12 +676,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_127438910416963248570985'
     }, 
     {
-      title: 'Cartas Khan academy 1', 
+      title: 'Cartas Khan academy', 
       author: 'JS ULI', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy-1/6249672009367552/5816931170172928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy-1/6249672009367552', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy/6249672009367552/6435615166218240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cartas-khan-academy/6249672009367552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
     }, 
     {
@@ -842,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'slagelal2024', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/people/6026221436846080/5025156063084544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/people/6026221436846080/6134357774614528.png', 
       link: 'https://www.khanacademy.org/computer-programming/people/6026221436846080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
     }, 
@@ -887,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Silasjack', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/block-array-demo/4516540764700672/5257059366125568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/block-array-demo/4516540764700672/6552382710530048.png', 
       link: 'https://www.khanacademy.org/computer-programming/block-array-demo/4516540764700672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1138488893308425128546683'
     }, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6254571694637056/6069584832806912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6254571694637056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_319888069852740873727643'
+    }, 
+    {
+      title: 'paisagem', 
+      author: 'Dawana Dias', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/paisagem/5106528815464448/4506941180395520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/paisagem/5106528815464448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2348331824756408009128608'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Story teller"', 
+      author: 'itsanaya14', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/5110909746069504/5769622236479488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/5110909746069504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62438591512419119245849'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Story teller"', 
+      author: 'itsanaya14', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/5223084295766016/4609974828580864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller/5223084295766016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_62438591512419119245849'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
+      author: 'Lucas  Bonfim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4739110066765824/6114948884512768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4739110066765824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6214089710242501836667021'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'Christen Wesley', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6379492932370432/6409993609068544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6379492932370432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5543518346360640560409822'
+    }, 
+    {
+      title: 'Avatars as MTG cards', 
+      author: 'LightningCoder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/5973002631299072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Spin-off of " "Scene 11" Irfan "', 
+      author: 'irfank2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4944420912021504/6549757649797120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4944420912021504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178074871443832895612433'
     }, 
   ];
 };
