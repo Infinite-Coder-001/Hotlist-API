@@ -3,9 +3,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 42, 
+      votes: 44, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5696780466700288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6568066659172352.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -206,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
       link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
-    }, 
-    {
-      title: 'PLS UP VOTE!!!', 
-      author: 'ifer35', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032/6528036691558400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465252124173958967136628'
     }, 
     {
       title: 'Gatito panzón', 
@@ -442,11 +433,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Testtt', 
+      author: 'Blue Ghoul', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/testtt/5622876360458240/5978849423966208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/testtt/5622876360458240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'Tom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6023693546602496/4615652272029696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6023693546602496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1198239676744680299560449'
+    }, 
+    {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: '22266298', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5536301829111808/5492190904369152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/5536301829111808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'Mariana González Doda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5023569841274880/6648980551548928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5023569841274880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106568377196813006642303'
+    }, 
+    {
       title: '4 squared haha', 
       author: 'sana', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/4-squared-haha/5288581875941376/5817420460900352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/4-squared-haha/5288581875941376/6554911241453568.png', 
       link: 'https://www.khanacademy.org/computer-programming/4-squared-haha/5288581875941376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_904180790805031661360785'
     }, 
@@ -482,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'nathan_cafaro', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360/5390408500953088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360/5883089031315456.png', 
       link: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_564521246105554062329693'
     }, 
@@ -503,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6479941781995520/4876295077150720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6479941781995520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4969019643164476927410225'
+    }, 
+    {
+      title: 'Scene 68 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-68-angelm-wilmer-jerry-incomplete/6447191378149376/6539065359122432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-68-angelm-wilmer-jerry-incomplete/6447191378149376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -626,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'RectSqG', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6434709196554240/5298585056100352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6434709196554240/6499981898072064.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6434709196554240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280716717082059383656239'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5340635000520704/6652042259251200.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5340635000520704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_863360645987790911453281'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'wilsonc24', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5069780873953280/4869785856032768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5069780873953280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_16395763251709554406251'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'alenanetesova245', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5386139172388864/6629431809720320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5386139172388864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2256307026028351378609'
-    }, 
-    {
-      title: 'Mouse Tracker', 
-      author: 'Mia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mouse-tracker/5120276133363712/5661919861325824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mouse-tracker/5120276133363712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500512355739405260790687'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'Dominiika Wojnar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5148331061067776/6492418527772672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5148331061067776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2638192876692755867147116'
     }, 
   ];
 };
