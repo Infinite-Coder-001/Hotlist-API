@@ -595,42 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lindsay.fmr', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4640668812361728/4889718564372480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4640668812361728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_795552879066207620812319'
-    }, 
-    {
-      title: 'numeritos', 
-      author: 'JD', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/numeritos/6575898062274560/5493588046954496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/numeritos/6575898062274560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'PaNcAkEs!!!', 
-      author: 'BallerBoi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pancakes/4535420907208704/4879880233992192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pancakes/4535420907208704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_729523652751545360550069'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Alexandra Hummel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4783260317302784/5207154127847424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4783260317302784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3192430645030191281795007'
-    }, 
-    {
       title: 'Shooting star\'s', 
       author: 'Benjamin Wani', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ceng/6448793571868672/5055246704623616.png', 
       link: 'https://www.khanacademy.org/computer-programming/ceng/6448793571868672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_579676105955297328150469'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'gabrielperez2808', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6278461574660096/5174880468516864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6278461574660096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179732131706615064555426'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Nancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5165397717598208/5242132945485824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5165397717598208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'kailanwjones', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6588555260641280/5185440786464768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6588555260641280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736869181810514899307588'
+    }, 
+    {
+      title: 'Derivado de "Desafío: frutas favoritas"', 
+      author: 'Duvan Gonzalez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6684255188205568/4943947522949120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6684255188205568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
     }, 
   ];
 };
