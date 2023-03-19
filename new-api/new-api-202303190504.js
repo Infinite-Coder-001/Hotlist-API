@@ -559,38 +559,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Spin-off of "Creating a table and inserting data" Khan\'s work', 
-      author: 'kalen hightower', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data-khans-work/5987311717498880/6229225683337216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data-khans-work/5987311717498880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9920216706719686993489718'
-    }, 
-    {
-      title: 'My Favorite Foods', 
-      author: 'Juan Santos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/5746749491953664/4613310270193664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/5746749491953664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'asiamrodwell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5940825068716032/5840288477396992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5940825068716032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_762292903414241976181396'
-    }, 
-    {
       title: '"Challenge: Favorite Books database"', 
       author: 'kalen hightower', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912/5946423427514368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912/6669751888953344.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9920216706719686993489718'
     }, 
@@ -698,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'leoandradelemos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384/5701959861714944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384/6108590185431040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6529233309712384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9053813488590487185509522'
     }, 
@@ -761,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/6568396297912320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/4881012226310144.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -896,9 +869,36 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512/4514066729320448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512/5800477486006272.png', 
       link: 'https://www.khanacademy.org/computer-programming/jerry-tenshi-hina/6187454710464512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'One Riddle(Game)', 
+      author: 'Shadow Fax', 
+      votes: 23, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192/4518027888738304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlegame/5899148534792192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: '- Living The Dream -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664/5356865158692864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-living-the-dream-/5349689543409664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Frog Attack', 
+      author: 'Juan Santos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640/6222114022801408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
     }, 
   ];
 };
