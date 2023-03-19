@@ -505,24 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'iygu', 
-      author: 'alexstiubei', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iygu/6285822410407936/6118327480270848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iygu/6285822410407936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9545477928506516655413844'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaproszenie na specjalną okazję"', 
-      author: 'alekgajewski0511', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5181690136018944/5283597398622208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5181690136018944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_806802302527590231089801'
-    }, 
-    {
       title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
       author: 'justyna.hrubsova', 
       votes: 1, 
@@ -545,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: '! R4MP4G3 ₮he ⋐ool Dude #JesusIsKing', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736/5813281719894016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736/5195282704023552.png', 
       link: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_286506355967486363210084'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5716677033771008/6509138567020544.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5716677033771008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_973462487894877205730261'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'kendraunique', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6573186327298048/4895854025818112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6573186327298048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1560285075715051574630594'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : une créature colorée"', 
+      author: 'mbae.am1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5705203162857472/5252752252125184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5705203162857472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1035723511366487242647379'
     }, 
   ];
 };
