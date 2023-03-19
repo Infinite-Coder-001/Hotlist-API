@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
-      title: 'The Subpage (Suggestions? Plz comment.)', 
-      author: 'The Ember Society', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 46, 
@@ -316,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
     }, 
     {
+      title: 'The Subpage (Suggestions? Plz comment.)', 
+      author: 'The Ember Society', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'Ohnoes is annoying sometimes ', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -350,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5548312641191936.png', 
       link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Blake\'s(T1Avenger's) subpage', 
-      author: 'Blake Meloche (T1)[OffForWeekend]', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Messi The Goat', 
@@ -460,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
+      title: 'Blake\'s(T1Avenger's) subpage', 
+      author: 'Blake Meloche (T1)[OffForWeekend]', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'Lighter Movement', 
       author: 'Dominic.Gomez Rawr', 
       votes: 5, 
@@ -485,24 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528/5456804806180864.png', 
       link: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Magdalena Łagoda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6208751302656000/4920420970315776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6208751302656000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9573911977370781202906124'
-    }, 
-    {
-      title: 'CASA MOVIL CON FIGURA', 
-      author: 'avilesdiver70', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/casa-movil-con-figura/4705903090909184/5800531441532928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/casa-movil-con-figura/4705903090909184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_826923966910703407186279'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -580,7 +562,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
       author: 'Urszula Aleksandrwicz', 
       votes: 1, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560/5386822642614272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_649440371385867463814792'
@@ -608,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Paulina Zaród', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4803781201281024/4530306003812352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4803781201281024/6135557949538304.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4803781201281024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_538184131355567179715224'
     }, 
@@ -734,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'The Giza', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848/5426713594216448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848/4506148020731904.png', 
       link: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_774991855661533290070479'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632/6244129823834112.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9890268115480212349972165'
+    }, 
+    {
+      title: 'Racing Rampage', 
+      author: '! R4MP4G3 ₮he ⋐ool Dude #JesusIsKing', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736/5813281719894016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/racing-rampage/4755527240564736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_286506355967486363210084'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'maydelabadan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945556716535808/6345802672029696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5945556716535808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1046720205864583470454694'
     }, 
   ];
 };
