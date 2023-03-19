@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
       votes: 26, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
@@ -200,7 +200,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
-      author: 'CylenceScythe (Offline)', 
+      author: 'CylenceScythe (Online-ish)', 
       votes: 64, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cylencescythe-aragorn-elessar-shatter-collab-exdicode-2023-challenge-6-group-effort/5716984056823808/5274352377708544.png', 
@@ -559,75 +559,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: '"Challenge: Favorite Books database"', 
-      author: 'kalen hightower', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912/6669751888953344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9920216706719686993489718'
-    }, 
-    {
-      title: '"Booleans"', 
-      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992/6568500786413568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Michelle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5591527726563328/4944408698208256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5591527726563328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_234766638671921479485230'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'Shraddha Shoraff', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4774513546149888/4946808578293760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4774513546149888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8518458875992800565426067'
-    }, 
-    {
-      title: 'Snake game', 
-      author: 'Rodrigo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/4848022515400704/4753816098750464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/4848022515400704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533221230010212476572525'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Michelle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600/6093550481883136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4759989916057600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_234766638671921479485230'
-    }, 
-    {
-      title: 'Scene 55 (Angel.M, Wilmer, Jerry) complete', 
+      title: 'Scene 54 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976/6505759297028096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-55-angelm-wilmer-jerry-complete/6063615435390976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Scene 54 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-complete/6521160784461824/5132248488919040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-complete/6521160784461824', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-incomplete/6521160784461824/6325129283158016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-incomplete/6521160784461824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -734,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/4881012226310144.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/5760389267898368.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640/6222114022801408.png', 
       link: 'https://www.khanacademy.org/computer-programming/frog-attack/6480844862832640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'dbeck305', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5145682609750016/5986207843794944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5145682609750016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_252052971967180163521261'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig" updated', 
+      author: 'jwcr.22', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-updated/6345641506947072/6306845402906624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-updated/6345641506947072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173794918325713633307601'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Nancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6684573213966336/6395422392500224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6684573213966336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
+    }, 
+    {
+      title: 'Scene 49 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-complete/4889609210478592/6441768042414080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-49-angelm-wilmer-jerry-complete/4889609210478592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'hkelts', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296/5993622165307392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5823315706167296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1461610395423235567906614'
+    }, 
+    {
+      title: 'Hearts In-a Bottle(Sub-Page)', 
+      author: 'm a r i i', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312/6532876781010944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hearts-in-a-bottlesub-page/5374268215181312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_720576897038436375743042'
+    }, 
+    {
+      title: '- Rubix Cube -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
