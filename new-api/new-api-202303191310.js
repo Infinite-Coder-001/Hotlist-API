@@ -487,6 +487,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'rosa.sanchez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5344112108945408/5275346766446592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5344112108945408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_576120536161615654163954'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Abem Nigussie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4916691596525568/4647529821290496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4916691596525568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3531564215271384850574074'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Sasha_Spaikes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4528430307917824/4630927960752128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4528430307917824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'gorlando', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6532947111100416/6627580141944832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6532947111100416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_575051211820773121071131'
+    }, 
+    {
       title: 'My Favorite Animals', 
       author: 'Erina Iftehar', 
       votes: 1, 
@@ -611,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
+    }, 
+    {
+      title: 'opdracht 3, dobbelstenen', 
+      author: 'Lotte Huizinga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/5896632945393664/4886653665853440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/5896632945393664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9474461795996178859640135'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
@@ -788,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'The Giza', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848/5868103289585664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848/4718289474600960.png', 
       link: 'https://www.khanacademy.org/computer-programming/medapp-wip/5482957664206848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_774991855661533290070479'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-preparatoire/5370352550330368/4630437394956288.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-b3-preparatoire/5370352550330368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6299046043771800177815457'
-    }, 
-    {
-      title: 'Marta Boyko; Derivado de "Proyecto: construye una casa"', 
-      author: 'mboy157', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-proyecto-construye-una-casa/6376590172012544/6197944631214080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/marta-boyko-derivado-de-proyecto-construye-una-casa/6376590172012544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1103565271340030467798274'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'Jakub Milczanowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6677624695078912/5599100559212544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6677624695078912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9837486971195160308918503'
-    }, 
-    {
-      title: 'PLS UP VOTE!!!', 
-      author: 'ifer35', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032/6528036691558400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pls-up-vote/6282568570028032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465252124173958967136628'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Yasmin Silva', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5684930917220352/6617880092524544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5684930917220352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_443969787690522810580981'
-    }, 
-    {
-      title: 'Daniel Jaén "Proyecto: Bola 8 mágica"', 
-      author: 'djaecar389', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/daniel-jan-proyecto-bola-8-mgica/5491936632029184/6090963572539392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/daniel-jan-proyecto-bola-8-mgica/5491936632029184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_596036529542481295702196'
     }, 
   ];
 };
