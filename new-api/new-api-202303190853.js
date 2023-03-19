@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5300616706703360.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -532,6 +532,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Ex. 3 khan 20', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-3-khan-20/5359656068497408/6078368211845120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex-3-khan-20/5359656068497408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'tongthituyet8485', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4799213903069184/5684255033442304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4799213903069184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_244474958164607560363749'
+    }, 
+    {
       title: 'ex 1 khan18', 
       author: 'david popescu', 
       votes: 1, 
@@ -554,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'Eduard Codeup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360/6636756608008192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360/6518576086564864.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4930817374863360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
     }, 
@@ -608,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Troaca Andrei', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-1-l18/4789610359341056/5817061156896768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex-1-l18/4789610359341056/5846202781581312.png', 
       link: 'https://www.khanacademy.org/computer-programming/ex-1-l18/4789610359341056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/current-kdramas/5557365895380992/5116699532902400.png', 
       link: 'https://www.khanacademy.org/computer-programming/current-kdramas/5557365895380992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1156458406051904533664783'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'rohitraj7872', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5052909504217088/5995456720322560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5052909504217088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654555707537488356428034'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Erika Pimentel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6285211588673536/4768620183076864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6285211588673536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5063330496166525332333036'
     }, 
   ];
 };
