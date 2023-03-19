@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 24, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5696780466700288.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 61, 
-      forks: 4, 
+      votes: 62, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
@@ -39,20 +39,47 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 33, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'ski Translator', 
+      author: 'Phase ✝', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/6247341922500608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong Studios', 
-      votes: 26, 
+      votes: 27, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
+      title: 'To Grill Hamburgers', 
+      author: 'Volatile ✝︎', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Realistic Cherries', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 43, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5541403649425408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
@@ -64,29 +91,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
-      title: 'Realistic Cherries', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 42, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560/5541403649425408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/realistic-cherries/6409724063170560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'To Grill Hamburgers', 
-      author: 'Volatile ✝︎', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'Play-dough', 
       author: 'H.M. Wogglebug T.E.', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/4539365297799168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672/6471866102628352.png', 
       link: 'https://www.khanacademy.org/computer-programming/play-dough/5078485226012672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
@@ -138,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'khanmigo is soo cute!', 
       author: 'soap.', 
-      votes: 67, 
+      votes: 68, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
@@ -163,22 +172,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
-      title: 'ski Translator', 
-      author: 'Phase ✝', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/4911147059036160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864/4513899510808576.png', 
       link: 'https://www.khanacademy.org/computer-programming/agario/5492649459236864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
+    }, 
+    {
+      title: 'Mr/Ms Misfit\'s Subpage', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5548312641191936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Tron with path minmax ai', 
@@ -199,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
     }, 
     {
+      title: 'contest :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 17, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400/4724815945842688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'The Subpage (Suggestions? Plz comment.)', 
       author: 'The Ember Society', 
       votes: 3, 
@@ -206,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5685365920022528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Happy Pi Day!', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 47, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Apex Communities idea2', 
@@ -217,22 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'Happy Pi Day!', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 46, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096/6279603146768384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-pi-day/4887286435332096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
-      title: 'contest :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 16, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400/4724815945842688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+      title: 'Tetris', 
+      author: 'matthew.nicholas.smith', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
@@ -244,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_62918606874726993553345'
     }, 
     {
-      title: 'Tetris', 
-      author: 'matthew.nicholas.smith', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880/6558306745499648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tetris/6186562260090880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
-    }, 
-    {
       title: 'Iphone Ad', 
       author: 'Incognitus', 
       votes: 10, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
       link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
-    }, 
-    {
-      title: 'Gatito panzón', 
-      author: 'JD', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
 };
