@@ -559,12 +559,30 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Scene 53 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Scene 54 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-incomplete/6675608412405760/4666856838578176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-incomplete/6675608412405760', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-incomplete/6521160784461824/6325129283158016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-54-angelm-wilmer-jerry-incomplete/6521160784461824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Alexia Lopez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296/6551984556785664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4820075938103296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5157474159051263394496328'
+    }, 
+    {
+      title: 'Scene 53 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-complete/6675608412405760/5348949181644800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-53-angelm-wilmer-jerry-complete/6675608412405760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -653,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/6535334512082944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464/5760389267898368.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -692,6 +710,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-complete/4791752071626752/5479045086363648.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-50-angelm-wilmer-jerry-complete/4791752071626752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'Basic', 
+      author: 'Ray Walker III', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic/6254216151875584/5176659588464640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic/6254216151875584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218967998749466106769355'
     }, 
     {
       title: 'Spin-off of "Project: Travel webpage"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
       link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: '- Use You\'re Illusions II -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-use-youre-illusions-ii-/6130375598587904/5762508096061440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-use-youre-illusions-ii-/6130375598587904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'l: ) Mc Skin', 
-      author: 'cjcool', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/l-mc-skin/5565449993764864/4559562378362880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/l-mc-skin/5565449993764864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'AI', 
-      author: 'guilfonseca2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai/5164371015942144/5319106809348096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai/5164371015942144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_644625468924713394864896'
     }, 
   ];
 };
