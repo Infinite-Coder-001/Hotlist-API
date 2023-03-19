@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'Apex Communities idea2', 
+      author: 'apex alt', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112/6375749965889536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'Happy Pi Day!', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 46, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656/4606155592876032.png', 
       link: 'https://www.khanacademy.org/computer-programming/iphone-ad/6454975251398656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_432838159607758060705046'
-    }, 
-    {
-      title: 'Apex Communities idea2', 
-      author: 'apex alt', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112/6375749965889536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-communities-idea2/6123946368090112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'Gatito panzón', 
@@ -485,6 +485,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528/5456804806180864.png', 
       link: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Możesz się nauczyć znaczników!"', 
+      author: 'Urszula Aleksandrwicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moesz-si-nauczy-znacznikw/4581225324134400/6575987786825728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moesz-si-nauczy-znacznikw/4581225324134400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_649440371385867463814792'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'barczukjulia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4798615026712576/5576375887249408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4798615026712576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_651101650417468607581165'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
+      author: 'Amelia Sz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6151263705415680/6049942138568704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6151263705415680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7923743763438978348982522'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
@@ -743,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'James Corcra', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish/6238094186823680/5599293835886592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fish/6238094186823680/5925075695222784.png', 
       link: 'https://www.khanacademy.org/computer-programming/fish/6238094186823680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6382731889575066014190818'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iygu/6285822410407936/6118327480270848.png', 
       link: 'https://www.khanacademy.org/computer-programming/iygu/6285822410407936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9545477928506516655413844'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaproszenie na specjalną okazję"', 
-      author: 'alekgajewski0511', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5181690136018944/5283597398622208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5181690136018944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_806802302527590231089801'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
-      author: 'justyna.hrubsova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6417693478797312/5223421249372160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6417693478797312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_156648809527744683812625'
-    }, 
-    {
-      title: 'Test B3 préparatoire ', 
-      author: 'Eliza Fron', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632/6244129823834112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test-b3-prparatoire/5394132643397632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9890268115480212349972165'
     }, 
   ];
 };
