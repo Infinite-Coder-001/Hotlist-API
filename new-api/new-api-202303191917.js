@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_150218954645666746045812'
     }, 
     {
+      title: 'Abstract Protogen Drawer Ver. 1.2', 
+      author: 'StuffStash', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464/4575141301633024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'CylenceScythe, Aragorn Elessar (+Shatter) Collab | ExDiCode 2023 (Challenge 6: Group Effort)', 
       author: 'CylenceScythe (Offline)', 
       votes: 64, 
@@ -374,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'Arwen Undómiel', 
       votes: 52, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/5435959652171776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696/6670763085316096.png', 
       link: 'https://www.khanacademy.org/computer-programming/collaboration-between-lje-seth-and-arwen/6510655727517696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528/5456804806180864.png', 
       link: 'https://www.khanacademy.org/computer-programming/snow-day/4775999000854528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
-      title: 'Abstract Protogen Drawer Ver. 1.2', 
-      author: 'StuffStash', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464/4575141301633024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Hopper’s journey.', 
@@ -431,6 +431,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616/4970556573401088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pi/4650979893231616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'txorder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6158130952323072/5597313855963136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6158130952323072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6989042399186175442995363'
+    }, 
+    {
+      title: 'Spin-off z "If/Else - Część 2"', 
+      author: 'Renata Skarzynska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-ifelse-cz-2/4923120223043584/5216670533861376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-ifelse-cz-2/4923120223043584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8374479633204654488839397'
+    }, 
+    {
+      title: 'Sezonowe id', 
+      author: 'Wojtaszewska Basia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sezonowe-id/6419163834007552/4728094012522496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sezonowe-id/6419163834007552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5654217621375267831811376'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'darwiniyeyouo03', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5906618338557952/4610018580414464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5906618338557952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169360809371819334864814'
     }, 
     {
       title: 'Spin-off z "Projekt: Co jest na obiad?"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6669678468710400/5242885638504448.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6669678468710400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1198239676744680299560449'
-    }, 
-    {
-      title: 'verlet integration', 
-      author: 'Rexkitty', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/verlet-integration/4527214432665600/6617392747954176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/verlet-integration/4527214432665600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952181630988508084165249'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'merran', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5351478249439232/4645096990752768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5351478249439232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3862160983597351872407762'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Braiden Hall', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5347135165087744/4591214210105344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5347135165087744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4087772820547886297131857'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'nguyenamiee', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6444762711506944/5737986648227840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6444762711506944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643215770334614143754013'
     }, 
   ];
 };
