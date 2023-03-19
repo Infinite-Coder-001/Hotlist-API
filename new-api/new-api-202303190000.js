@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
-      votes: 27, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6343254713090048.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
@@ -100,31 +100,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
     {
-      title: 'khanmigo is soo cute!', 
-      author: 'soap.', 
-      votes: 66, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/5002407198375936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/4574880650805248.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
-      title: 'Wikimedia images', 
-      author: 'Bob Lyon', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images/6266740477837312/5838537067118592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+      title: 'khanmigo is soo cute!', 
+      author: 'soap.', 
+      votes: 65, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
       title: 'the Unwanted GAME', 
@@ -226,13 +217,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'contest :P', 
+      title: 'contest (maybe)', 
       author: 'vw_beetlesultimategreatness', 
       votes: 14, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400/4724815945842688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-p/6431733505638400', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400/6494516918140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-maybe/6431733505638400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Wikimedia images', 
+      author: 'Bob Lyon', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images/6266740477837312/5838537067118592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'T1\'s entry for subpage contest :)', 
@@ -604,24 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'gabrielperez2808', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6278461574660096/5174880468516864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6278461574660096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179732131706615064555426'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Nancy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5165397717598208/5242132945485824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5165397717598208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'kailanwjones', 
       votes: 1, 
@@ -640,12 +622,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_59800086595736316396866'
     }, 
     {
-      title: 'Tsunami', 
+      title: 'Bomb', 
       author: 'therealdhil09', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tsunami/5317955895476224/5034542677409792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tsunami/5317955895476224', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bomb/5317955895476224/5011441460756480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bomb/5317955895476224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1183608971616454835722937'
     }, 
     {
@@ -716,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'EpicCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/align/5984702186176512/6738841403965440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/align/5984702186176512/5871649520140288.png', 
       link: 'https://www.khanacademy.org/computer-programming/align/5984702186176512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_190475489237318326808174'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120/6139935575031808.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-academii-test-lab/4972582036357120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'vidya.gokrish', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5047025868783616/6351123096322048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5047025868783616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9351174099135449840260330'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'bump.tori', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6599815728513024/5287502362755072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6599815728513024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164821795106936771143572'
     }, 
   ];
 };
