@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/6519173690998784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/4594695817969664.png', 
       link: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'A kid', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/low-grade-builder/5611375511781376/5755904315408384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/low-grade-builder/5611375511781376/5585253923340288.png', 
       link: 'https://www.khanacademy.org/computer-programming/low-grade-builder/5611375511781376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_933953362756898540005602'
     }, 
