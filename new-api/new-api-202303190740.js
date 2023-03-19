@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/4594695817969664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/5419453656645632.png', 
       link: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/5407720692039680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280/6308079974268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-saga-episode-2-who-dunnit/5839135896289280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -548,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152/5203197389225984.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys-but-smaller/5851172995121152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9211662042278111755251491'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'Nikhil Rajput', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5860920023891968/5535118434549760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5860920023891968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3993239906354219981592493'
     }, 
     {
       title: 'Spin-off of "Making drawings with code"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912/5946423427514368.png', 
       link: 'https://www.khanacademy.org/computer-programming/challenge-favorite-books-database/5637479246118912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9920216706719686993489718'
-    }, 
-    {
-      title: '"Booleans"', 
-      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992/6568500786413568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/booleans/5310992478420992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
     }, 
   ];
 };
