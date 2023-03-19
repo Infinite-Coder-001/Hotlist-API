@@ -559,15 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'sania karia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512/4582279201734656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5010247795392512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_729890182263944225303973'
-    }, 
-    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'Alicia Lewis', 
       votes: 1, 
@@ -635,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'nailea_martinez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032/5433676440846336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032/6164904387330048.png', 
       link: 'https://www.khanacademy.org/computer-programming/nailea-martinez-internet-entertainment/5876157289644032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_148262265680211319262998'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5568673937145856/5065473827061760.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5568673937145856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4886729991714305833990379'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'staceyplexico', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6693982212243456/4657398716612608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6693982212243456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2775301351800463426197103'
     }, 
   ];
 };
