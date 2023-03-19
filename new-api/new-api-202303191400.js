@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5875647195168768.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
@@ -478,6 +478,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Kr1tex', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6628005813469184/5516704836009984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6628005813469184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_334259849469869675488285'
+    }, 
+    {
+      title: 'Special Inner face "Drawing more shapes with code"', 
+      author: 'roy.abulkhayr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/special-inner-face-drawing-more-shapes-with-code/5226216199340032/5979338614030336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/special-inner-face-drawing-more-shapes-with-code/5226216199340032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9586057837660888007931428'
+    }, 
+    {
+      title: '"Desafío: una regla de bucles"', 
+      author: 'amengra961', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/desafo-una-regla-de-bucles/6098943084904448/4637732662198272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/desafo-una-regla-de-bucles/6098943084904448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_284682075969564871937160'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Dominik Zimnicki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6371345345855488/4918203958738944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6371345345855488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662682506575439962184155'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Chidera Alinnor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5772685152141312/5592636636577792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5772685152141312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_402334123685619012449269'
+    }, 
+    {
+      title: 'Inspirováno programem "Výzva: Medvěd s hnědýma očima"', 
+      author: 'Týna Alexandrová', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-medvd-s-hndma-oima/5220053625913344/4585366612131840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-medvd-s-hndma-oima/5220053625913344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
+    }, 
+    {
       title: 'Derivação de "Projeto: página web sobre viagens"', 
       author: 'rafaqfv', 
       votes: 1, 
@@ -500,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'Teo Hernández', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696/5805768348844032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696/4658426418610176.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6626380638109696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9356445755516390156366333'
     }, 
@@ -761,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'MAyyan2009', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552/6712166502940672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552/5741379339993088.png', 
       link: 'https://www.khanacademy.org/computer-programming/quadruple-balls-optical-illusion-over-100-lines-of-code/6302159529623552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6520647963070374039286753'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5089778107465728/6131030852681728.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5089778107465728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4221238928221131325890602'
-    }, 
-    {
-      title: 'Juan "Proyecto: Bola 8 mágica"', 
-      author: 'jperrod2704', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/juan-proyecto-bola-8-mgica/5263952486645760/6125657412386816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/juan-proyecto-bola-8-mgica/5263952486645760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_253119363382630133546130'
-    }, 
-    {
-      title: 'Shift', 
-      author: 'Logix Indie', 
-      votes: 81, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664/4848310999629824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shift/5567025793777664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
-    }, 
-    {
-      title: 'opdracht 3, dobbelstenen', 
-      author: 'Lotte Huizinga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/5896632945393664/4886653665853440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/opdracht-3-dobbelstenen/5896632945393664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9474461795996178859640135'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Bartosz Szczepankiewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6146019953000448/5493831249477632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6146019953000448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5310611881507511474009804'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'jungjin124', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5764056633098240/5295974249709568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5764056633098240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5372608506905208471423264'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Urszula Aleksandrwicz', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560/5386822642614272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6339842633154560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_649440371385867463814792'
     }, 
   ];
 };
