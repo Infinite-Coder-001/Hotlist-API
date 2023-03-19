@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/6519173690998784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928/4819825719558144.png', 
       link: 'https://www.khanacademy.org/computer-programming/episode-3-pre-release/6248575383420928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -559,33 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Hypno Frog', 
-      author: 'Juan Santos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hypno-frog/4710509339525120/4763359247646720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hypno-frog/4710509339525120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'weldemichaelabigail1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200/5323392854310912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5525506599731200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_949510074657983743258205'
-    }, 
-    {
-      title: 'Teddy Bear Factory', 
-      author: 'nithya2904', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/teddy-bear-factory/5799104032849920/5106451740934144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/teddy-bear-factory/5799104032849920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3999877923912414682939568'
-    }, 
-    {
       title: 'HTML links', 
       author: 'Gabrielle.Smith7117', 
       votes: 1, 
@@ -602,15 +575,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944/5248110600437760.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-abstract/4955101119954944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951644213544102920964357'
-    }, 
-    {
-      title: 'Tools', 
-      author: 'Akhil', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272/5168637263790080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tools/4749082913718272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1028540372520763684968073'
     }, 
     {
       title: 'Spin-off of "Creating a table and inserting data" Khan\'s work', 
@@ -811,12 +775,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
-      title: 'Abstract Protogen Drawer Ver. 1.1', 
+      title: 'Abstract Protogen Drawer 1.0 Rawr OwO', 
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-11/4703282993086464/6341656787075072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-11/4703282993086464', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-10-rawr-owo/4703282993086464/6030961738563584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-10-rawr-owo/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304/5122103910383616.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6273752008802304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_578404684542823990864983'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'Darian Bell', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5056223675465728/4910245655920640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5056223675465728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6685122898635596653867664'
+    }, 
+    {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'Devin Martin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4508043040833536/5934992170729472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4508043040833536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4769948458070787454058184'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'christinajane1997', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6158705541562368/5180305277501440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6158705541562368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7927104407450027816393737'
+    }, 
+    {
+      title: 'My Favorite Animals!', 
+      author: 'Yuhan wang', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672/5568511536840704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-favorite-animals/6192718860828672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964883060475682220225629'
     }, 
   ];
 };
