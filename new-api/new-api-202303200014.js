@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
-      title: 'The Subpage (Suggestions? Plz comment.)', 
-      author: 'The Ember Society', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/6554135395876864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'BURGER STACK (Final Update)', 
       author: 'redcharr', 
       votes: 73, 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592/4824524484034560.png', 
       link: 'https://www.khanacademy.org/computer-programming/burger-stack-final-update/6553942723182592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
+    }, 
+    {
+      title: 'The Subpage (Suggestions? Plz comment.)', 
+      author: 'The Ember Society', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/6554135395876864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Entry w.i.p', 
@@ -442,51 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Ava Horwood', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5667966000873472/5966897670832128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5667966000873472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3207188617383080057958967'
-    }, 
-    {
-      title: 'Scene 69 (Angel.M, Wilmer, Jerry) incomplete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-69-angelm-wilmer-jerry-incomplete/4927794086985728/5477307402993664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-69-angelm-wilmer-jerry-incomplete/4927794086985728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'pageschloe1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6673576054013952/5318972863201280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6673576054013952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_875805171379016165343782'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'LJE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6254499955261440/6677369278742528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6254499955261440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'simranjitsinghbal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6327697136730112/6481789487202304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6327697136730112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5789597620886362542865602'
-    }, 
-    {
       title: 'Derivado de "Desafío: vínculos que te encantan"', 
       author: 'jorgemunozhdez14', 
       votes: 1, 
@@ -608,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'Merp', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616/6659178682957824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616/6248011061837824.png', 
       link: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_285866933698810589585041'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code-i-made-a-frog/4875053898711040/5484774703808512.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code-i-made-a-frog/4875053898711040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4449790520883644776060576'
+    }, 
+    {
+      title: 'Blake\'s(T1Avenger's) subpage', 
+      author: 'Blake Meloche (T1)[OffForWeekend]', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848/4831185706729472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blakest1avengers-subpage/5416928833486848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Impact of Drones', 
+      author: 'nathan_cafaro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360/4697239702519808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/impact-of-drones/6287561472655360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_564521246105554062329693'
+    }, 
+    {
+      title: 'Derivado de "Desafío: frutas favoritas"', 
+      author: '22266298', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6308723044958208/6122612780744704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6308723044958208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Bryan Abadie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6479941781995520/4876295077150720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6479941781995520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4969019643164476927410225'
+    }, 
+    {
+      title: 'Scene 68 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-68-angelm-wilmer-jerry-incomplete/6447191378149376/5190445899759616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-68-angelm-wilmer-jerry-incomplete/6447191378149376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
