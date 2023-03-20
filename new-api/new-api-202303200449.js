@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'Jme', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6231942918094848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6748104437317632.png', 
       link: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567701916296046823162388'
     }, 
@@ -496,12 +496,48 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Scene 80 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Spin-off of "Project: Design a store database" CLOTHING', 
+      author: 'ericaarroyochavez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6514267697496064/5265472063062016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6514267697496064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9731161629634701313262551'
+    }, 
+    {
+      title: 'Spin-off of " "Scene 11" Irfan "', 
+      author: 'irfank2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4852460629049344/4584087047421952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4852460629049344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178074871443832895612433'
+    }, 
+    {
+      title: 'Scene 81 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-incomplete/5505625025200128/5517459270713344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-incomplete/5505625025200128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-81-angelm-wilmer-jerry-incomplete/5905384612347904/6399713467482112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-81-angelm-wilmer-jerry-incomplete/5905384612347904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'ai circle drawer', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112/4725711782068224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
+    }, 
+    {
+      title: 'Scene 80 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-complete/5505625025200128/5679643345862656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-complete/5505625025200128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -617,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'GrahamTeeg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5191081353592832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5224662125821952.png', 
       link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
@@ -689,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'ҠIПႺᄃΗΣΣƬΛΗ-𝟙𝟛𝟝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/5282996203864064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/4844335087796224.png', 
       link: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4902718722588672/5370853417336832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4902718722588672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1193262056495755257040288'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Lisa Walekwa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5738843027587072/4927616181387264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5738843027587072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_642363335142403058469050'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'haniyah2005', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5530814605737984/5007984616062976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5530814605737984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7866469206534134812877944'
-    }, 
-    {
-      title: 'CEDSpin-off of "Debugging with println()s"', 
-      author: '23cdonegan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cedspin-off-of-debugging-with-printlns/5290581381398528/4545352616427520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cedspin-off-of-debugging-with-printlns/5290581381398528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_164828162039808557819092'
-    }, 
-    {
-      title: 'Derivado de "Desafío: la oruga que cambia"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-la-oruga-que-cambia/5410639880437760/6443742958764032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-la-oruga-que-cambia/5410639880437760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
     }, 
   ];
 };
