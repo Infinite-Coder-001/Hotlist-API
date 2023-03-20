@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'spring :>', 
       author: 'marci', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/6321624522735616.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Kopter Coding', 
       votes: 4, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/5806231668441088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/6738192189669376.png', 
       link: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
