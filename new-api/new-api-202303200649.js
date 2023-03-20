@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'To Grill Hamburgers', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 34, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
@@ -487,87 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'Spin-off of "Project: Word game "', 
-      author: 'Alghany Fergiano - 09031282126038', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/5490302595153920/6713427679821824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/5490302595153920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1057187419684779196021891'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Christian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4542271547817984/5597350933610496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4542271547817984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_653619985419386164870080'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game "', 
-      author: 'Alghany Fergiano - 09031282126038', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/5188486455148544/6000733993615360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/5188486455148544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1057187419684779196021891'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Ig Rz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4684136968404992/6587011756769280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4684136968404992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3433427596008019518643060'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Piter P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5387285727330304/4554671017738240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5387285727330304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Piter P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6715791321120768/6325783191928832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6715791321120768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
-    }, 
-    {
-      title: 'Spin-off of "Project: ACTORS"', 
-      author: 'ramki.1983', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-actors/5193764231757824/6104229921210368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-actors/5193764231757824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_153218118949763279833817'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Piter P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6739739924545536/6232170588061696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6739739924545536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8985898672126879212079614'
-    }, 
-    {
-      title: 'assesment 1', 
-      author: 'louise aubin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/assesment-1/4572118349299712/5206836095795200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/assesment-1/4572118349299712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3195047358428163109279652'
-    }, 
-    {
       title: 'Spin-off of "Project: Word game " M. Gusti Arya Priandana', 
       author: 'M. Gusti Arya Priandana-09031282126041', 
       votes: 1, 
@@ -899,6 +818,87 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048/6595443046006784.png', 
       link: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_285792125283542579134352'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'alondra rdz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5487576968642560/5255443451789312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5487576968642560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1743043108307643276044907'
+    }, 
+    {
+      title: 'Scene 83 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-83-angelm-wilmer-jerry-complete/5687455421612032/6451751764148224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-83-angelm-wilmer-jerry-complete/5687455421612032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'ai minecraft tree generorator', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-minecraft-tree-generorator/5952511208112128/4574722206777344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-minecraft-tree-generorator/5952511208112128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
+    }, 
+    {
+      title: 'Scene 82 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-82-angelm-wilmer-jerry-complete/6496206420492288/5146637498630144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-82-angelm-wilmer-jerry-complete/6496206420492288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'ai netherrack generator', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-netherrack-generator/5300104733179904/6624381126361088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-netherrack-generator/5300104733179904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database" CLOTHING', 
+      author: 'ericaarroyochavez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6514267697496064/5265472063062016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6514267697496064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9731161629634701313262551'
+    }, 
+    {
+      title: 'Spin-off of " "Scene 11" Irfan "', 
+      author: 'irfank2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4852460629049344/4584087047421952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-scene-11-irfan/4852460629049344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178074871443832895612433'
+    }, 
+    {
+      title: 'Scene 81 (Angel.M, Wilmer, Jerry) complete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-81-angelm-wilmer-jerry-complete/5905384612347904/4912177314316288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-81-angelm-wilmer-jerry-complete/5905384612347904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'ai circle drawer', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112/4725711782068224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
     }, 
   ];
 };
