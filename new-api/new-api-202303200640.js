@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
     }, 
     {
+      title: 'Avatars as MTG cards', 
+      author: 'LightningCoder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/5973002631299072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'The Subpage (Suggestions? Plz comment.)', 
       author: 'The Ember Society', 
       votes: 7, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344/6628432689807360.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
-    }, 
-    {
-      title: 'Avatars as MTG cards', 
-      author: 'LightningCoder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/5973002631299072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'New program', 
@@ -485,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120/5726517659484160.png', 
       link: 'https://www.khanacademy.org/computer-programming/one-riddlehardgame/6159989498757120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
+    }, 
+    {
+      title: 'Spin-off of "Project: Word game " M. Gusti Arya Priandana', 
+      author: 'M. Gusti Arya Priandana-09031282126041', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-m-gusti-arya-priandana/6471007780257792/5247327973720064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-m-gusti-arya-priandana/6471007780257792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_704929940626856044474022'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112/4725711782068224.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai-circle-drawer/5727660006490112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
-    }, 
-    {
-      title: 'Scene 80 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-complete/5505625025200128/5679643345862656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-complete/5505625025200128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
   ];
 };
