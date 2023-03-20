@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'To Grill Hamburgers', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 32, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
@@ -496,6 +496,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'gianella7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5572851598147584/5634701680492544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5572851598147584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_727404317419182882095772'
+    }, 
+    {
+      title: 'TurtleScript+', 
+      author: 'GrahamTeeg', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5688391587119104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
+    }, 
+    {
       title: 'GPT 5 goes farming (Comica #2)', 
       author: 'Hibernia', 
       votes: 19, 
@@ -545,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-78-angelm-wilmer-jerry-incomplete/5521527477157888/6581281669562368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-78-angelm-wilmer-jerry-incomplete/5521527477157888/5836315431321600.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-78-angelm-wilmer-jerry-incomplete/5521527477157888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -563,7 +581,7 @@ var LoadHotlistAPI = function() {
       author: 'ҠIПႺᄃΗΣΣƬΛΗ-𝟙𝟛𝟝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/5458889341714432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/4686526580834304.png', 
       link: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
@@ -797,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'jamie.amendolagine', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/polynomial/6292170643652608/5250143462146048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/polynomial/6292170643652608/5691873634336768.png', 
       link: 'https://www.khanacademy.org/computer-programming/polynomial/6292170643652608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_733160376422142737221823'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tu-primer-jquery/6372671853215744/5928856071749632.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tu-primer-jquery/6372671853215744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ancrawford', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6650197976596480/4813504336150528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6650197976596480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7118235302901561514905815'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'ramimandelsberg2662', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5172909615398912/4733304814485504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5172909615398912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1182806468341273300309178'
     }, 
   ];
 };
