@@ -487,6 +487,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Daniel Herrera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6357057328693248/6238402283618304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6357057328693248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_464896571397959974317597'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Vilte Motekaityte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5930497215873024/6488930272985088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5930497215873024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5643096812427181547218206'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'lena.rachobinska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6287363364143104/4717669050007552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6287363364143104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_59589948436577767515556'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: exploración de datos"', 
+      author: 'aftormo16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/5522738526863360/5212324996890624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/5522738526863360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_582245230959993675067928'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Ryan Eads', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6074464187236352/4632680374517760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6074464187236352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5485819443098830361239939'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ashiyaparveen0101', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6439099257110528/4962852425482240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6439099257110528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4053417125892913389561570'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'adatrzaska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6427649142734848/6360313115230208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6427649142734848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1000655226377906608437081'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Recipe Card"', 
       author: 'Ashley Keomanywong', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4659801482379264/5806900878032896.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4659801482379264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1137456939913553256359564'
-    }, 
-    {
-      title: 'program for exercise "Solve for t"', 
-      author: 'JiaqiFan42', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-exercise-solve-for-t/6492010438770688/5433275230502912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-for-exercise-solve-for-t/6492010438770688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1190457930657430307876304'
-    }, 
-    {
-      title: 'Day 256', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-256/6512963973595136/5932967694483456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-256/6512963973595136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
-      title: 'Derivado de "Desafío: carita sonriente"', 
-      author: '22266298', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/5326791381401600/5991822705082368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/5326791381401600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
-    }, 
-    {
-      title: 'Derivado de "Conceptos básicos de HTML"', 
-      author: 'Adolfo León Torre Leal ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5730325369241600/6569005579288576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5730325369241600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2997803428161602807845353'
-    }, 
-    {
-      title: 'Hayoung\'s surprised face Made by H.Y', 
-      author: 'hayoungjang0901', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hayoungs-surprised-face-made-by-hy/6719101328474112/5300178083168256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hayoungs-surprised-face-made-by-hy/6719101328474112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8117191968012955949113161'
-    }, 
-    {
-      title: 'ai triangular minecraft tree generator 2', 
-      author: 'mikerempel3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator-2/6005825640644608/5053003590844416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator-2/6005825640644608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas" JORDAN ALDAIR PATRACA SOTARRIBA 401', 
-      author: 'Jordan Aldair Patraca Sotarriba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816/6268994664579072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979079639691186455638915'
     }, 
   ];
 };
