@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Deja-vu: part 12, The End?', 
+      author: 'Cookies \'n Scream', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
+    }, 
+    {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 46, 
@@ -10,18 +19,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
-      title: 'Deja-vu: part 12, The End?', 
-      author: 'Cookies \'n Scream', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
-    }, 
-    {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 27, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/5488072366276608.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'spring :>', 
       author: 'marci', 
-      votes: 22, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/6321624522735616.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 75, 
+      votes: 76, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -73,27 +73,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
     }, 
     {
-      title: 'NIGHT TIME', 
-      author: 'Xiøn 😋🤩', 
-      votes: 65, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'a nintendo switch (wip)', 
       author: 'Blake Meloche (T1)[OfflineToCharge]', 
-      votes: 8, 
+      votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6614799926738944.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'NIGHT TIME', 
+      author: 'Xiøn 😋🤩', 
+      votes: 66, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 25, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Rubix Cube -', 
       author: 'Xiøn 😋🤩', 
-      votes: 21, 
+      votes: 22, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
       link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032/5592481480884224.png', 
       link: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_54175946864254521834497'
+    }, 
+    {
+      title: 'My Logo (. ❛ ᴗ ❛.)', 
+      author: 'Prince M', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
       title: 'Avatars as MTG cards', 
@@ -136,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'a survival clicker', 
+      author: 'Blake Meloche (T1)[OfflineToCharge]', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-survival-clicker/4757999836250112/6513569161330688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-survival-clicker/4757999836250112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'Lenovo 5i flex laptop', 
       author: 'Veritas Rimor', 
       votes: 5, 
@@ -143,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lenovo-5i-flex-laptop/5640242188304384/5079629901905920.png', 
       link: 'https://www.khanacademy.org/computer-programming/lenovo-5i-flex-laptop/5640242188304384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9105863985236629522184716'
-    }, 
-    {
-      title: 'My Logo (. ❛ ᴗ ❛.)', 
-      author: 'Prince M', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
       title: 'THE END', 
@@ -163,13 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
     }, 
     {
-      title: 'a survival clicker', 
-      author: 'Blake Meloche (T1)[OfflineToCharge]', 
+      title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-survival-clicker/4757999836250112/6513569161330688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-survival-clicker/4757999836250112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800/6154499691692032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Abstract Protogen Drawer Ver. 1.2', 
@@ -199,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Entry w.i.p', 
+      author: 'sgh07', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928/5116305902714880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
       title: 'Robotics 2 project', 
       author: 'Lucas', 
       votes: 4, 
@@ -210,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'To Grill Hamburgers', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 41, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
@@ -226,49 +244,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Entry w.i.p', 
-      author: 'sgh07', 
-      votes: 6, 
+      title: 'Flying potatos for dinner!', 
+      author: 'proGamer194', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928/5116305902714880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
-      title: 'Happy Saint Patrick\'s Day!', 
-      author: 'Seth | Flightsong', 
-      votes: 33, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+      title: 'Smooth', 
+      author: 'Kopter Coding', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/6430357793849344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
     {
       title: 'We were all noobs once!', 
       author: '🥞PaNcAkEs🥞', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
       link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
-    }, 
-    {
-      title: 'Blood Bag Pixel Art', 
-      author: 'ditzy ♡ [offline]', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blood-bag-pixel-art/6698782176886784/6302622312349696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blood-bag-pixel-art/6698782176886784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4008059980985598936233584'
-    }, 
-    {
-      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
-      author: 'Velvet', 
-      votes: 30, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4508357912477696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
   ];
 };
