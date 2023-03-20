@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Canvas API Rasterizer', 
+      author: 'Fifth', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/5226201298026496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
+    }, 
+    {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 49, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
-      title: 'Canvas API Rasterizer', 
-      author: 'Fifth', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/5226201298026496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
       title: 'ski Translator', 
@@ -506,7 +506,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'pong created by an ai', 
-      author: 'flufflyandbuddyroblox', 
+      author: 'Explosion', 
       votes: 1, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pong-created-by-an-ai/4772532696956928/4628435336216576.png', 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Punnami', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5801077137260544/5851734632349696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5801077137260544/6745912329420800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5801077137260544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3826488185082826616827528'
     }, 
@@ -584,6 +584,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4659801482379264/5806900878032896.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4659801482379264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1137456939913553256359564'
+    }, 
+    {
+      title: 'program for exercise "Solve for t"', 
+      author: 'JiaqiFan42', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-exercise-solve-for-t/6492010438770688/5433275230502912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-for-exercise-solve-for-t/6492010438770688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1190457930657430307876304'
     }, 
     {
       title: 'Day 256', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5572851598147584/5634701680492544.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5572851598147584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_727404317419182882095772'
-    }, 
-    {
-      title: 'TurtleScript+', 
-      author: 'GrahamTeeg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5483025883512832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
   ];
 };
