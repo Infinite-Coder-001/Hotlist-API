@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/5226201298026496.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
-      votes: 21, 
+      votes: 22, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
-      votes: 63, 
+      votes: 64, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
@@ -487,6 +487,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
+      title: 'Spin-off of "Challenge: Recipe Card"', 
+      author: 'Ashley Keomanywong', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6673813112930304/4515866055327744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card/6673813112930304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2057714761944407617500822'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Isabelle Jacob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5621451837456384/6314452933984256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5621451837456384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6448978483203145126742733'
+    }, 
+    {
+      title: 'Wyzwanie Stół obiadowy', 
+      author: 'jakacki.kuba', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wyzwanie-st-obiadowy/5653945885442048/4816428336463872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wyzwanie-st-obiadowy/5653945885442048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_243969967628973487111577'
+    }, 
+    {
+      title: 'Spin-off of "Project: Word game " - O.a. Fadilla Salsa', 
+      author: 'O.a. Fadilla Salsa - 09031282126071', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-oa-fadilla-salsa/4842867282722816/4622951703166976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-oa-fadilla-salsa/4842867282722816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_923575723873924845222871'
+    }, 
+    {
       title: 'Spin-off of "Project: Word game "', 
       author: 'Alghany Fergiano - 09031282126038', 
       votes: 1, 
@@ -563,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'louise aubin', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/assesment-1/4572118349299712/5206836095795200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/assesment-1/4572118349299712/6245278190714880.png', 
       link: 'https://www.khanacademy.org/computer-programming/assesment-1/4572118349299712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3195047358428163109279652'
     }, 
@@ -575,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-m-gusti-arya-priandana/6471007780257792/5247327973720064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-m-gusti-arya-priandana/6471007780257792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_704929940626856044474022'
+    }, 
+    {
+      title: '# game', 
+      author: 'Paul Lao', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game/6144927320031232/5873147829338112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game/6144927320031232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_156308840026042774928977'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816/6268994664579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979079639691186455638915'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Cynthia Allison', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4552495751020544/5619166783782912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4552495751020544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4359577150132962018055106'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database" CLOTHING', 
-      author: 'ericaarroyochavez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6035147519737856/5590389828665344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6035147519737856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9731161629634701313262551'
-    }, 
-    {
-      title: 'ai triangular minecraft tree generator', 
-      author: 'mikerempel3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator/4789401717882880/5704794070368256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator/4789401717882880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
-    }, 
-    {
-      title: '"项目：广告设计"', 
-      author: '皓森 张', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5748443551416320/6135037315825664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5748443551416320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5864936745753194366422578'
-    }, 
-    {
-      title: 'Jenell\'s Hogwart Letter', 
-      author: 'Jenell S. Canta(っ◉‿◉)っ🌺', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048/6595443046006784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_285792125283542579134352'
     }, 
   ];
 };
