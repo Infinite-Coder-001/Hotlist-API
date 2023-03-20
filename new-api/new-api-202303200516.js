@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464/5668031767560192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464/5211881477554176.png', 
       link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'Jme', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6748104437317632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6688885834039296.png', 
       link: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567701916296046823162388'
     }, 
@@ -496,6 +496,78 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Hayoung\'s surprised face Made by H.Y', 
+      author: 'hayoungjang0901', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hayoungs-surprised-face-made-by-hy/6719101328474112/5466038717431808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hayoungs-surprised-face-made-by-hy/6719101328474112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8117191968012955949113161'
+    }, 
+    {
+      title: 'ai triangular minecraft tree generator 2', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator-2/6005825640644608/5053003590844416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator-2/6005825640644608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas" JORDAN ALDAIR PATRACA SOTARRIBA 401', 
+      author: 'Jordan Aldair Patraca Sotarriba', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816/6268994664579072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-jordan-aldair-patraca-sotarriba-401/4875918529314816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979079639691186455638915'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Cynthia Allison', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4552495751020544/5619166783782912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4552495751020544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4359577150132962018055106'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database" CLOTHING', 
+      author: 'ericaarroyochavez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6035147519737856/5590389828665344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-clothing/6035147519737856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9731161629634701313262551'
+    }, 
+    {
+      title: 'ai triangular minecraft tree generator', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator/4789401717882880/5704794070368256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-triangular-minecraft-tree-generator/4789401717882880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
+    }, 
+    {
+      title: '"项目：广告设计"', 
+      author: '皓森 张', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5748443551416320/6135037315825664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5748443551416320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5864936745753194366422578'
+    }, 
+    {
+      title: 'Jenell\'s Hogwart Letter', 
+      author: 'Jenell S. Canta(っ◉‿◉)っ🌺', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048/6595443046006784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jenells-hogwart-letter/6093123199746048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_285792125283542579134352'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'alondra rdz', 
       votes: 1, 
@@ -509,9 +581,18 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-83-angelm-wilmer-jerry-complete/5687455421612032/6160511239766016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-83-angelm-wilmer-jerry-complete/5687455421612032/6451751764148224.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-83-angelm-wilmer-jerry-complete/5687455421612032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
+      title: 'ai minecraft tree generorator', 
+      author: 'mikerempel3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-minecraft-tree-generorator/5952511208112128/4574722206777344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-minecraft-tree-generorator/5952511208112128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138990834947355333516798'
     }, 
     {
       title: 'Scene 82 (Angel.M, Wilmer, Jerry) complete', 
@@ -617,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5933191304364032/5060959682215936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5933191304364032/4894257036181504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5933191304364032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -698,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'GrahamTeeg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/6371626126196736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5083398201982976.png', 
       link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
@@ -770,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'ҠIПႺᄃΗΣΣƬΛΗ-𝟙𝟛𝟝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/5799826160926720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/5237322578968576.png', 
       link: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/different-colors-in-html-wip/5323522911289344/6147378434588672.png', 
       link: 'https://www.khanacademy.org/computer-programming/different-colors-in-html-wip/5323522911289344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: '142658', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4935550861885440/6291540424310784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4935550861885440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_175018609846818494286181'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'ivettesanches.17enero', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5915428124934144/6737398227845120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5915428124934144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'ivettesanches.17enero', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5509945091211264/6726446027685888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5509945091211264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'brendahenriquez321', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6644448223346688/6267924043317248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6644448223346688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_665219799880945086033530'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'me261289094', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5474834810454016/6111273566912512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5474834810454016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_658245917184149450386225'
-    }, 
-    {
-      title: 'program for exercise "Parametric ray intuition"', 
-      author: 'JiaqiFan42', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-exercise-parametric-ray-intuition/6717222515163136/5529241577111552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-for-exercise-parametric-ray-intuition/6717222515163136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1190457930657430307876304'
-    }, 
-    {
-      title: 'Scene 77 (Angel.M, Wilmer, Jerry) complete', 
-      author: 'jerrys38', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-77-angelm-wilmer-jerry-complete/4871365330255872/6034654001152000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-77-angelm-wilmer-jerry-complete/4871365330255872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Derivado de "Desafío: cadena de margaritas"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-cadena-de-margaritas/5740769991507968/5460702790991872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-cadena-de-margaritas/5740769991507968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: 'Anthony Peschell: Collaborative Software', 
-      author: 'apeschell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anthony-peschell-collaborative-software/5770601190178816/4798980501585920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anthony-peschell-collaborative-software/5770601190178816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7123032818259936179588925'
     }, 
   ];
 };
