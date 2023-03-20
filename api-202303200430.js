@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720/6131907160227840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720/6230450487214080.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-furry-artists-i-guess/6415067643166720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
