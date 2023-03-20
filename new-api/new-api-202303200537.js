@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 48, 
+      votes: 49, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/5226201298026496.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
-      votes: 43, 
+      votes: 44, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: '___ with no invert', 
       author: 'njgreenowl', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088/5693202154962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088', 
@@ -496,6 +496,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'anja.abraham', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5369722330988544/6428268090933248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5369722330988544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_731454183156924136096046'
+    }, 
+    {
+      title: '"项目：修房子"', 
+      author: '皓森 张', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6490358889627648/5841260079529984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6490358889627648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5864936745753194366422578'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Adolfo León Torre Leal ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6681190457458688/6244145188618240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6681190457458688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2997803428161602807845353'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'hanniacarrera5', 
       votes: 1, 
@@ -815,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'GrahamTeeg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5996203172216832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5502707202048000.png', 
       link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/scene-78-angelm-wilmer-jerry-complete/5521527477157888/5075914221469696.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-78-angelm-wilmer-jerry-complete/5521527477157888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
-    }, 
-    {
-      title: 'Katharine Stein: Public Data', 
-      author: 'katharine_stein', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/katharine-stein-public-data/5362808171839488/6569893292195840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/katharine-stein-public-data/5362808171839488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8661852988478993531797204'
-    }, 
-    {
-      title: 'making graphics for slide project', 
-      author: 'ҠIПႺᄃΗΣΣƬΛΗ-𝟙𝟛𝟝', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352/5237322578968576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/making-graphics-for-slide-project/5163495043940352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: cambio de escena"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-cambio-de-escena/6599264294977536/5514362129530880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-cambio-de-escena/6599264294977536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
     }, 
   ];
 };
