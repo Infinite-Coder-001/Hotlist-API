@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
+      title: 'Deja-vu: part 12, The End?', 
+      author: 'Cookies \'n Scream', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
+    }, 
+    {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 67, 
@@ -22,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
       votes: 15, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/4936315167883264.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -31,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: '___ with no invert', 
       author: 'njgreenowl', 
       votes: 21, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088/5693202154962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/5598961244356608.png', 
       link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Deja-vu: part 12, The End?', 
-      author: 'Cookies \'n Scream', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
       title: 'snake', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
+      title: 'a nintendo switch (wip)', 
+      author: 'Blake Meloche (T1)[OfflineToCharge]', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/4792012051365888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'Avatars as MTG cards', 
       author: 'LightningCoder', 
       votes: 10, 
@@ -127,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'THE END', 
+      author: 'monsimir', 
+      votes: 8, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
+    }, 
+    {
       title: 'Abstract Protogen Drawer Ver. 1.2', 
       author: 'StuffStash', 
       votes: 13, 
@@ -134,24 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464/5484012014714880.png', 
       link: 'https://www.khanacademy.org/computer-programming/abstract-protogen-drawer-ver-12/4703282993086464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'a nintendo switch (wip)', 
-      author: 'Blake Meloche (T1)[OfflineToCharge]', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6580421934759936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'THE END', 
-      author: 'monsimir', 
-      votes: 7, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
     }, 
     {
       title: 'BSS Poster', 
@@ -191,7 +191,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Happy Saint Patrick\'s Day!', 
-      author: 'Seth | Flightsong Studios', 
+      author: 'Flightsong', 
       votes: 32, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
@@ -217,12 +217,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'The Subpage (Suggestions? Plz comment.)', 
+      title: 'The Subpage (Updated v2.1)', 
       author: 'The Ember Society', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936/5828145665327104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-subpage-suggestions-plz-comment/6650823196327936', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v21/6650823196327936/5981690075070464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v21/6650823196327936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
