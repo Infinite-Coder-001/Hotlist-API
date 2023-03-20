@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 67, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/4936315167883264.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
-      votes: 59, 
+      votes: 60, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
