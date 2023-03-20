@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/4936315167883264.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 69, 
+      votes: 71, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '___ with no invert', 
       author: 'njgreenowl', 
-      votes: 21, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088/5693202154962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'snake', 
       author: 'quag', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
@@ -91,22 +91,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_54175946864254521834497'
     }, 
     {
+      title: '- Rubix Cube -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R. [RESUB]', 
-      votes: 67, 
+      votes: 68, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: '- Rubix Cube -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 19, 
+      title: 'a nintendo switch (wip)', 
+      author: 'Blake Meloche (T1)[OfflineToCharge]', 
+      votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6614799926738944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
@@ -127,19 +136,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'a nintendo switch (wip)', 
-      author: 'Blake Meloche (T1)[OfflineToCharge]', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6164890224214016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'THE END', 
       author: 'monsimir', 
       votes: 8, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'BSS Poster', 
       author: 'Dat', 
-      votes: 39, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Entry w.i.p', 
+      author: 'sgh07', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928/5116305902714880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Flightsong', 
       votes: 32, 
@@ -199,18 +208,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
-      title: 'Entry w.i.p', 
-      author: 'sgh07', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928/5116305902714880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
-      votes: 29, 
+      votes: 30, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568/4508357912477696.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/4698982184173568', 
@@ -229,7 +229,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Jeremiah Fahmer', 
       votes: 5, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344/6628432689807360.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
@@ -264,8 +264,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Personal Servant 4! [INTERACTIVE]', 
       author: 'TheRealDeal', 
-      votes: 92, 
-      forks: 7, 
+      votes: 93, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/4616751612739584.png', 
       link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
