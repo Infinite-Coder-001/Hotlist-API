@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/5226201298026496.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 21, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'move a box \'round the screen controlled by arrow keys', 
       author: 'Dominic R.', 
       votes: 63, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 20, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: '___ with no invert', 
@@ -496,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Scene 80 (Angel.M, Wilmer, Jerry) incomplete', 
+      author: 'jerrys38', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-incomplete/5505625025200128/5517459270713344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-80-angelm-wilmer-jerry-incomplete/5505625025200128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
+    }, 
+    {
       title: '"Challenge: Book list database"', 
       author: 'Alicia Eugenides', 
       votes: 1, 
@@ -514,12 +523,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_984915416450170040295175'
     }, 
     {
-      title: 'Scene 79 (Angel.M, Wilmer, Jerry) incomplete', 
+      title: 'Scene 79 (Angel.M, Wilmer, Jerry) complete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-79-angelm-wilmer-jerry-incomplete/4978850577825792/5894840736071680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-79-angelm-wilmer-jerry-incomplete/4978850577825792', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-79-angelm-wilmer-jerry-complete/4978850577825792/5263440076914688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/scene-79-angelm-wilmer-jerry-complete/4978850577825792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
     {
@@ -608,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'GrahamTeeg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/6072779888967680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048/5191081353592832.png', 
       link: 'https://www.khanacademy.org/computer-programming/turtlescript/5940563649282048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-la-oruga-que-cambia/5410639880437760/6443742958764032.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-la-oruga-que-cambia/5410639880437760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: '"Project: Pokemon Data dig" by Peter Iyke Nwachukwu', 
-      author: 'Pyke Nwachukwu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-pokemon-data-dig-by-peter-iyke-nwachukwu/4789598679252992/6371714041954304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-pokemon-data-dig-by-peter-iyke-nwachukwu/4789598679252992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1806369460308185848316745'
     }, 
   ];
 };
