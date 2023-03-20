@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 46, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/4683412930871296.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: '___ with no invert', 
       author: 'njgreenowl', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088/5693202154962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/___-with-no-invert/4840958740185088', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ski Translator', 
       author: 'Phase ✝', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168/5598961244356608.png', 
       link: 'https://www.khanacademy.org/computer-programming/ski-translator/6432925781639168', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'NIGHT TIME', 
       author: 'Xiøn 😋🤩', 
-      votes: 58, 
+      votes: 59, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
@@ -93,11 +93,29 @@ var LoadHotlistAPI = function() {
     {
       title: '- Rubix Cube -', 
       author: 'Xiøn 😋🤩', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856/4773331624837120.png', 
       link: 'https://www.khanacademy.org/computer-programming/-rubix-cube-/5398846568185856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Turnip Farmer!', 
+      author: 'WoodlandWolf', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032/5592481480884224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_54175946864254521834497'
+    }, 
+    {
+      title: 'My Logo (. ❛ ᴗ ❛.)', 
+      author: 'Prince M', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
       title: 'Avatars as MTG cards', 
@@ -107,24 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/6218469910822912.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Turnip Farmer!', 
-      author: 'WoodlandWolf', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032/5592481480884224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/turnip-farmer/5030442865836032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_54175946864254521834497'
-    }, 
-    {
-      title: 'My Logo (. ❛ ᴗ ❛.)', 
-      author: 'Prince M', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
       title: 'Abstract Protogen Drawer Ver. 1.2', 
@@ -137,10 +137,10 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'a nintendo switch (wip)', 
-      author: 'Blake Meloche (T1)', 
+      author: 'Blake Meloche (T1)[OfflineToCharge]', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/5069333190721536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6580421934759936.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
