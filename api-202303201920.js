@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/4936315167883264.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 71, 
+      votes: 72, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Avatars as MTG cards', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/6218469910822912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
       author: 'Prince M', 
       votes: 6, 
@@ -127,19 +136,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
-      title: 'Avatars as MTG cards', 
-      author: 'LightningCoder', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/6218469910822912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'THE END', 
       author: 'monsimir', 
       votes: 8, 
-      forks: 4, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
@@ -201,11 +201,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Flightsong', 
-      votes: 32, 
+      votes: 33, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
+      title: 'Blood Bag Pixel Art', 
+      author: 'ditzy ♡ [offline]', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blood-bag-pixel-art/6698782176886784/6302622312349696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blood-bag-pixel-art/6698782176886784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4008059980985598936233584'
     }, 
     {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320/5238140501803008.png', 
       link: 'https://www.khanacademy.org/computer-programming/we-were-all-noobs-once/5801090455224320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
-    }, 
-    {
-      title: 'Personal Servant 4! [INTERACTIVE]', 
-      author: 'TheRealDeal', 
-      votes: 93, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416/4616751612739584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/personal-servant-4-interactive/4924020485308416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
   ];
 };
