@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/6725295748202496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/4982228099842048.png', 
       link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_715640565258207648742605'
     }, 
     {
+      title: 'New program', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008/5507712315342848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: '___ with no invert', 
       author: 'njgreenowl', 
       votes: 2, 
@@ -251,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768/6428615245086720.png', 
       link: 'https://www.khanacademy.org/computer-programming/gatito-panzn/5827907627040768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'New program', 
+      author: 'RectSqG', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6434709196554240/6499981898072064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6434709196554240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280716717082059383656239'
     }, 
     {
       title: 'Apex Communities idea2', 
@@ -469,11 +487,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
+      title: 'Guy', 
+      author: 'Kindle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guy/6076218480050176/5947324464676864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/guy/6076218480050176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112515097512951062828574'
+    }, 
+    {
+      title: 'New program Jesus Is King!', 
+      author: 'Candy Sanchez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program-jesus-is-king/4542761543188480/6323017635643392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program-jesus-is-king/4542761543188480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5695399796650306949631606'
+    }, 
+    {
+      title: 'Fictional Cuisines', 
+      author: 'Fire Wolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fictional-cuisines/6192327954841600/6543112896036864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fictional-cuisines/6192327954841600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
       title: 'Turnip Farmer', 
       author: 'WoodlandWolf', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turnip-farmer/4798394909638656/5679617542504448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turnip-farmer/4798394909638656/6395108628152320.png', 
       link: 'https://www.khanacademy.org/computer-programming/turnip-farmer/4798394909638656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_54175946864254521834497'
     }, 
@@ -487,20 +532,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_319353706324730269103981'
     }, 
     {
-      title: 'New program', 
-      author: 'StuffStash', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008/5507712315342848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Scene 70 (Angel.M, Wilmer, Jerry) incomplete', 
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-70-angelm-wilmer-jerry-incomplete/6464313939509248/5231010053931008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-70-angelm-wilmer-jerry-incomplete/6464313939509248/4979823622799360.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-70-angelm-wilmer-jerry-incomplete/6464313939509248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -557,6 +593,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6110460475916288/5549622535962624.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6110460475916288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_131662929698950791504439'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Waving snowman" Skinny arms, fat body', 
+      author: 'Candy Sanchez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman-skinny-arms-fat-body/5880029038034944/5011507022970880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman-skinny-arms-fat-body/5880029038034944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5695399796650306949631606'
     }, 
     {
       title: 'code for mincraft ☺', 
@@ -716,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'jerrys38', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-69-angelm-wilmer-jerry-complete/4927794086985728/6575112620130304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-69-angelm-wilmer-jerry-complete/4927794086985728/4989739189190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/scene-69-angelm-wilmer-jerry-complete/4927794086985728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_165058450344735595529583'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reeeman/6144155531395072/5262712818155520.png', 
       link: 'https://www.khanacademy.org/computer-programming/reeeman/6144155531395072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'reeeeeman', 
-      author: 'Jake K. 🐻‍❄️', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reeeeeman/4719874988621824/4868391464910848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/reeeeeman/4719874988621824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'Discord Minesweeper maker', 
-      author: 'Merp', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616/6515484481863680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/discord-minesweeper-maker/6165730762735616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_285866933698810589585041'
-    }, 
-    {
-      title: 'Breakfast is Bacon and Egg!', 
-      author: 'AlienMath', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/breakfast-is-bacon-and-egg/6406971764031488/6549565815963648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/breakfast-is-bacon-and-egg/6406971764031488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1068090154967775348291118'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'alejandro sanchez ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6596650871341056/4636204257820672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6596650871341056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465673825506740502023849'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'Erick Oeng', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5754623072976896/5812731091664896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5754623072976896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5667384124177865216663286'
     }, 
   ];
 };
