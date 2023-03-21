@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 67, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/5521357359333376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/4679381265203200.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9105863985236629522184716'
     }, 
     {
+      title: 'Kinetic and potential energy example.', 
+      author: 'Timothy Kostenko Productions', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248/4514136391467008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
+    }, 
+    {
       title: 'Abstract Protogen Drawer Ver. 1.2', 
       author: 'StuffStash', 
       votes: 15, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008/5507712315342848.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Kinetic and potential energy example.', 
-      author: 'Timothy Kostenko Productions', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248/4514136391467008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'To Grill Hamburgers', 
@@ -361,12 +361,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7573706291484001756676971'
     }, 
     {
-      title: 'The Subpage (Updated v2.1)', 
+      title: 'The Subpage (Updated v2.2 - Font switch)', 
       author: 'The Ember Society', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v21/6650823196327936/5981690075070464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v21/6650823196327936', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v22-font-switch/6650823196327936/6520360444149760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-subpage-updated-v22-font-switch/6650823196327936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
@@ -559,6 +559,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
     }, 
     {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Стефания Атанасова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5422975429165056/4993587479887872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5422975429165056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1114073909579474094147190'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Evelin Bogomilova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5704733269737472/5170890443898880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5704733269737472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2613371535689088138686760'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Daniela Popova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6609933191921664/4732168121401344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6609933191921664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9818718404582292803608314'
+    }, 
+    {
       title: 'Spin-off of "Project: App impersonator"', 
       author: 'youssef.eldesouky1042', 
       votes: 1, 
@@ -581,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'ҠIПႺᄃΗΣΣƬΛΗ-𝟙𝟛𝟝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6373708416729088/6153495075143680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6373708416729088/5377356803129344.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6373708416729088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
@@ -730,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1404697817880406622348345'
     }, 
     {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'abhi310', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4814729274245120/5225353780183040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/4814729274245120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_285563693006239160400280'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A Loopy Ruler"', 
       author: 'samuelligolf', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5705259735629824/5820558870888448.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5705259735629824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_826052461869424021557462'
-    }, 
-    {
-      title: 'en', 
-      author: 'cupidlovegodravi.rs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/en/6092848321839104/6695085149569024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/en/6092848321839104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7463988647408309192203961'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'chis423w', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5054823985889280/6590595638542336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5054823985889280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9359422532161002135441259'
-    }, 
-    {
-      title: 'Spin-off of "Project: Scene change" aida', 
-      author: 'Aida Khalisatifa - 09031282126098', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-aida/4956524868059136/5104111956836352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-aida/4956524868059136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_98120965548066821807746'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'withloveliz23', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6005236424818688/6059275303829504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6005236424818688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6028294614429070688547001'
     }, 
   ];
 };
