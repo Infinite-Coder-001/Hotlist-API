@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Deja-vu: part 12, The End?', 
+      author: 'Cookies \'n Scream', 
+      votes: 39, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
+    }, 
+    {
       title: 'spring :>', 
       author: 'marci', 
       votes: 36, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
-      title: 'Deja-vu: part 12, The End?', 
-      author: 'Cookies \'n Scream', 
-      votes: 38, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
       title: 'Subscribe [NEW]', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Flying potatos for dinner!', 
+      author: 'proGamer194', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
+    }, 
+    {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
       author: 'Prince M', 
       votes: 9, 
@@ -127,13 +136,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'Flying potatos for dinner!', 
-      author: 'proGamer194', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
+      title: 'THE END', 
+      author: 'monsimir', 
+      votes: 12, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
     }, 
     {
       title: 'Turnip Farmer! (JavaScript)', 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'THE END', 
-      author: 'monsimir', 
-      votes: 11, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
     }, 
     {
       title: 'a survival clicker', 
