@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 34, 
+      votes: 35, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/5488072366276608.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 47, 
-      forks: 6, 
+      forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/4683412930871296.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 79, 
+      votes: 81, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -253,22 +253,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
-      title: 'Mr/Ms Misfit\'s Subpage', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 14, 
+      title: 'New Webpage', 
+      author: 'Fifth', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504/5243523639328768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mrms-misfits-subpage/6144067484565504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6030427518451712/5036717913718784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6030427518451712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
-      title: 'New program', 
-      author: 'StuffStash', 
-      votes: 7, 
+      title: 'KASE editor (spin off so I don\'t lose my marbles)', 
+      author: 'noNameCode', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008/5507712315342848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/6360485856591872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
   ];
 };
