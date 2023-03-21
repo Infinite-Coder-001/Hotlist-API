@@ -586,78 +586,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Maria Mazur', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5657619757056000/5572763417100288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5657619757056000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_178398889773524045756498'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Alejandro Gómez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4567753555230720/5150703960244224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4567753555230720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan" irene', 
-      author: 'Irene', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan-irene/5104736539033600/6480311149182976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan-irene/5104736539033600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_48865292994046371827260'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Alejandro Gómez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5120041520775168/5661460799995904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5120041520775168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
-    }, 
-    {
-      title: 'Bounce', 
-      author: 'Damien', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bounce/5933141945794560/5957366195732480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bounce/5933141945794560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_732068064836028498365149'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Entwerfen einer Datenbank"', 
-      author: 'Oryna Neretina', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/6661049479905280/4950220929810432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/6661049479905280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8578568181778706098349818'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'ellie amos', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4844535474864128/5372723302023168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4844535474864128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9208623463493985045413684'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'emmankayani2009', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5434021343707136/5044391443218432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5434021343707136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8481669990673445943074906'
-    }, 
-    {
       title: 'Agar.io', 
       author: 'TheRealDeal', 
       votes: 27, 
@@ -899,6 +827,78 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5996376380194816/5976015279276032.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5996376380194816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52818136499288734874041'
+    }, 
+    {
+      title: 'Database ordre', 
+      author: 'clarajacobsen4', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/database-ordre/6399770076954624/5104646814482432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/database-ordre/6399770076954624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_584728968836606299173530'
+    }, 
+    {
+      title: 'Derivado de "Hacer dibujos con código"', 
+      author: 'Carlos Gomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5811423743885312/4881445316509696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5811423743885312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5739237772160596467383077'
+    }, 
+    {
+      title: 'Strona o podróżach', 
+      author: 'Wojtaszewska Basia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/strona-o-podrach/4666563234152448/5775407090810880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/strona-o-podrach/4666563234152448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5654217621375267831811376'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'modzelewski igi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6035860115210240/5900579181477888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6035860115210240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4797958529277978315706385'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Jan Ukleja 7c', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6102634877730816/5547674499858432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6102634877730816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8558570892231258842801510'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'Kowal Estera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5160698956267520/4602390721642496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5160698956267520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1170445021309423245863164'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'Detko Wera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4820721089167360/4801542449577984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4820721089167360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_934799839691704547199029'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'aej1019', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4976734970888192/6056466794725376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4976734970888192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_531319148332822690974516'
     }, 
   ];
 };
