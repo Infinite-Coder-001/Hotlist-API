@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'spring :>', 
       author: 'marci', 
       votes: 38, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'snake', 
       author: 'quag', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
@@ -577,87 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
     }, 
     {
-      title: 'Watermelon', 
-      author: 'Hibernia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelon/6062537398599680/4520613802983424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelon/6062537398599680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Derivado de "Desafío: clases de elementos"', 
-      author: 'Curro Toledo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-clases-de-elementos/5887774035329024/6491658919395328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-clases-de-elementos/5887774035329024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706725332219818872463502'
-    }, 
-    {
-      title: 'Spin-off of "spring :>"', 
-      author: 'erdmanne25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-spring/5797188883234816/6532715320229888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-spring/5797188883234816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_653176568007634805694777'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Majeczkaa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6309105092575232/5161596869722112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6309105092575232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1190464353944324789174825'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'Maksymilian.B 7B', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6752242876334080/5173888666615808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6752242876334080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6156376810488624050308658'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Jessica Di', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6337227062034432/4634832421568512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6337227062034432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5913429774101918739695370'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Bella', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6478117159092224/6412836105666560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6478117159092224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_981298895434672902119169'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'Avinasen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4837736001617920/4981056546848768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4837736001617920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Rozalka Kowal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6512336539271168/5433219597254656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6512336539271168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7443718309227067920754052'
-    }, 
-    {
       title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
       author: 'Yoan Hristov', 
       votes: 1, 
@@ -671,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Emilka Szybowskaa', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4756343821221888/4887412703805440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4756343821221888/5864534440198144.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4756343821221888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7955746991028162815585466'
     }, 
@@ -770,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'terminn', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mechanics/5431177202941952/5536975840133120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mechanics/5431177202941952/4748410080247808.png', 
       link: 'https://www.khanacademy.org/computer-programming/mechanics/5431177202941952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
@@ -899,6 +818,87 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5066173940285440/5984188168978432.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5066173940285440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_234316029795038787433503'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Yoan Hristov', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5788676862033920/5712027365720064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5788676862033920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6472800068811185564185663'
+    }, 
+    {
+      title: 'face with teeth', 
+      author: 'tmosjamd', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/face-with-teeth/6331671323656192/5376924518236160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/face-with-teeth/6331671323656192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2162845074592620743128047'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Kremena Dimitrova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5634609137369088/5205771416813568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5634609137369088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6586464902274086660110412'
+    }, 
+    {
+      title: 'my ad design', 
+      author: 'cherish.minthorn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-ad-design/5427081619226624/5513432070930432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-ad-design/5427081619226624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7393940729395610846411'
+    }, 
+    {
+      title: 'Why C++ is a great language', 
+      author: 'Stoyan Metodiev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why-c-is-a-great-language/4568355521740800/4935110161121280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why-c-is-a-great-language/4568355521740800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5855240764155103589070243'
+    }, 
+    {
+      title: 'The Adventure of Winston', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventure-of-winston/6583939717447680/5238787233071104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-adventure-of-winston/6583939717447680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Стефания Атанасова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5422975429165056/4993587479887872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5422975429165056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1114073909579474094147190'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Evelin Bogomilova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5704733269737472/5170890443898880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5704733269737472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2613371535689088138686760'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Daniela Popova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6609933191921664/4732168121401344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6609933191921664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9818718404582292803608314'
     }, 
   ];
 };
