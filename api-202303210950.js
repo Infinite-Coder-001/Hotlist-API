@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'spring :>', 
+      author: 'marci', 
+      votes: 40, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
+    }, 
+    {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
       votes: 41, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5187841468710912.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
-    }, 
-    {
-      title: 'spring :>', 
-      author: 'marci', 
-      votes: 38, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'Subscribe [NEW]', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
+      title: 'how to vote for your own content', 
+      author: 'MarkSuperMario111', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5209329592745984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
+    }, 
+    {
       title: 'island', 
       author: 'kobi harkup', 
       votes: 3, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008/5507712315342848.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6032331964203008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Sub Page Contest! :)', 
-      author: 'ColtTheBolt12 #TeamPruina', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920/5677858250080256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166736841238396186068932'
     }, 
   ];
 };
