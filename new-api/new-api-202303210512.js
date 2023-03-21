@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'To Grill Hamburgers', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 44, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'BSS Poster', 
       author: 'Dat', 
       votes: 41, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
       link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
+      title: 'To Grill Hamburgers', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 43, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Entry w.i.p', 
@@ -568,24 +568,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3149534071764416313120677'
     }, 
     {
-      title: 'island', 
-      author: 'kobi harkup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/5277492840808448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/island/5361185177518080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Lined Paper"', 
-      author: 'Shing Peng Lee', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/6115122931351552/6180581149032448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/6115122931351552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7314119820629974803301263'
-    }, 
-    {
       title: 'New program: Ad Design Malek', 
       author: 'Sanam Raja', 
       votes: 1, 
@@ -608,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'arynrandolph', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6304278086205440/4521070045741056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6304278086205440/5566448006381568.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6304278086205440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3377076044118749916447445'
     }, 
@@ -752,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'kobi harkup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6615028704002048/4864443383332864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6615028704002048/6063519704596480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6615028704002048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5143795105841152/5018385013587968.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5143795105841152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
+    }, 
+    {
+      title: 'Artificial Intelligence: Matthew Veloso ', 
+      author: 'matthew_veloso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/artificial-intelligence-matthew-veloso/5761170881691648/5041133304725504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/artificial-intelligence-matthew-veloso/5761170881691648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2163305416309431662583703'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Flower Grower"', 
+      author: 'Riya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5530386185895936/4725536426606592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5530386185895936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_766307958386092623320072'
     }, 
   ];
 };
