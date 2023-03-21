@@ -212,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/4643465504014336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/4757386760077312.png', 
       link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -568,6 +568,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: '22266298', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5143795105841152/5018385013587968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5143795105841152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
+    }, 
+    {
+      title: 'Artificial Intelligence: Matthew Veloso ', 
+      author: 'matthew_veloso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/artificial-intelligence-matthew-veloso/5761170881691648/5041133304725504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/artificial-intelligence-matthew-veloso/5761170881691648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2163305416309431662583703'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Flower Grower"', 
+      author: 'Riya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5530386185895936/4725536426606592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5530386185895936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_766307958386092623320072'
+    }, 
+    {
+      title: 'Invitacion', 
+      author: 'denilsonemir123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/invitacion/6281137473503232/4700849488314368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/invitacion/6281137473503232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1059401319531351192765982'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Ashley Bergeron', 
       votes: 1, 
@@ -721,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_946987910919828910014012'
     }, 
     {
+      title: 'Leuteritz_BitmojiRain', 
+      author: 'cleuteritz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leuteritz_bitmojirain/4766987827068928/5448636583690240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leuteritz_bitmojirain/4766987827068928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'ls261288925', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5338977243807744/5770546731335680.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5338977243807744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_794077673635572447527414'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'eunjae.kim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4711544966660096/5873170512134144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4711544966660096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_628169857287516408290478'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'carloschavez1990', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6249154734243840/5838802620039168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6249154734243840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5340537143181349612429313'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'SUBHAHAN S.M', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5838189980073984/5800376618237952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5838189980073984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3604373247863769242410683'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Promise', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4840925856841728/6121209131745280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4840925856841728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
-    }, 
-    {
-      title: 'Sub Page Contest! :)', 
-      author: 'ColtTheBolt12 #TeamPruina', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920/5677858250080256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166736841238396186068932'
     }, 
   ];
 };
