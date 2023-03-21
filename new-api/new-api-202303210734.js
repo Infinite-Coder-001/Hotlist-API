@@ -577,96 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
     }, 
     {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'Gosia Suchan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5620843431641088/4939891869007872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5620843431641088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6951047680446385696493896'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'ljuagon1502', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5503011943399424/5289921771520000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5503011943399424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_146542704030280568345077'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
-      author: 'Polina Geba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6383312665100288/6434737385422848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6383312665100288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8518725681613621831958445'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Olek K', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5267499827642368/5267986363760640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5267499827642368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9259818409329197372882703'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'Curro Toledo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5220019162365952/5588722780520448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5220019162365952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706725332219818872463502'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'Miguel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4897124930338816/4892777621274624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4897124930338816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1096203370920911100490916'
-    }, 
-    {
-      title: 'Derivado de "Crear una tabla e insertar datos"', 
-      author: 'ljuagon1502', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5808231241007104/5582386425544704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5808231241007104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_146542704030280568345077'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Abdullah Alshehri', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5797231296036864/5872861509369856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5797231296036864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6228104758186902840876404'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'Jakub Falkowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5330348688064512/5121363028525056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5330348688064512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_942101079937094987076474'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
-      author: 'Lyubena Peeva', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4600068016750592/4653928013938688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4600068016750592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_696994535974026075445210'
-    }, 
-    {
       title: 'Watermelon', 
       author: 'Hibernia', 
       votes: 1, 
@@ -707,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'Maksymilian.B 7B', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6752242876334080/5687700436074496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6752242876334080/5173888666615808.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6752242876334080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6156376810488624050308658'
     }, 
@@ -899,6 +809,96 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6741545351168000/5371805155246080.png', 
       link: 'https://www.khanacademy.org/computer-programming/webpage/6741545351168000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1335841369109306634530446'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'matthewcquezada', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4652639554158592/6184151947722752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4652639554158592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9324791723449064036701926'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Kremena Dimitrova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6127070285709312/4620506890551296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6127070285709312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6586464902274086660110412'
+    }, 
+    {
+      title: 'Derivado de "Practico 5 Ellipse"', 
+      author: 'Alain Mérida Durán', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-practico-5-ellipse/6062168498028544/4739813971640320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-practico-5-ellipse/6062168498028544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_349291895094519687678706'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Lisandro Kokalj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6108288128434176/6465052942319616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6108288128434176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1163419763821779068349101'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'gkrtu7456', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4523666521243648/4691485389012992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/4523666521243648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198842296225088724544478'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?" - Hamburger', 
+      author: 'Enneka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-hamburger/5390784176373760/5035116995067904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-hamburger/5390784176373760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5902364572769629663536381'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Силвия Цанкова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5295300077207552/5600706340110336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5295300077207552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Farida Mansy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4846646985015296/5977466377388032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4846646985015296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7231201637164762392229454'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Simona Mladenova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4747442437537792/5674299802566656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/4747442437537792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3196115612296162484406226'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'judy.asaker2081', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5066173940285440/5984188168978432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5066173940285440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_234316029795038787433503'
     }, 
   ];
 };
