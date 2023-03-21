@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
     {
+      title: 'snake', 
+      author: 'quag', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
+    }, 
+    {
       title: 'ski Translator', 
       author: 'Phase ✝', 
       votes: 31, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6614799926738944.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'snake', 
-      author: 'quag', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
     }, 
     {
       title: 'Flying potatos for dinner!', 
