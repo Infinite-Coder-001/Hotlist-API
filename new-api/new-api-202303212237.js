@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
     }, 
     {
+      title: 'MIGRATION [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5305234571444224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Vertex Drawer Tool V.3', 
       author: 'NIKO Ψ', 
       votes: 11, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840/4649245023191040.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'MIGRATION [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5305234571444224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Flying potatos for dinner!', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'Jump! Remastered!', 
+      author: 'Jibanyanc', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5626132482539520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
       title: 'island', 
       author: 'kobi harkup', 
       votes: 10, 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Jump! Remastered!', 
-      author: 'Jibanyanc', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5626132482539520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
       title: 'KASE editor (spin off so I don\'t lose my marbles)', 
       author: 'noNameCode', 
       votes: 11, 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'NIKO Ψ', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4952318081810432/6062751542984704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4952318081810432/4839265248002048.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4952318081810432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'Arctic (learningwithameer)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480/4524565914238976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480/6462591322079232.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_532204053528121557052555'
     }, 
@@ -386,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lenovo-5i-flex-laptop/5640242188304384/5079629901905920.png', 
       link: 'https://www.khanacademy.org/computer-programming/lenovo-5i-flex-laptop/5640242188304384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9105863985236629522184716'
+    }, 
+    {
+      title: 'Thunder Lyrics', 
+      author: 'Max Zeng', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thunder-lyrics/5327522264039424/5072009156673536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thunder-lyrics/5327522264039424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756570013070810267237430'
     }, 
     {
       title: 'best nba players', 
@@ -588,7 +597,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong', 
-      votes: 35, 
+      votes: 36, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
@@ -685,6 +694,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Margarita Troitskaya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5339014791217152/4653666658467840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5339014791217152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_129708453107863116079263'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Riya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6066237882023936/4848826012975104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6066237882023936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4212899869143163601324417'
+    }, 
+    {
+      title: 'Aquino_arrays', 
+      author: 'oscar_aquino', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aquino_arrays/6062268510158848/5606541492535296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aquino_arrays/6062268510158848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4423657795165702229019120'
+    }, 
+    {
+      title: 'Hermione', 
+      author: 'NIKO Ψ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5929315163488256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Testing List adding', 
+      author: 'Blue Ghoul', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/testing-list-adding/5051269799788544/6655372506218496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/testing-list-adding/5051269799788544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Jeremiah Fahmer', 
       votes: 5, 
@@ -692,6 +746,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344/6628432689807360.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6321893092409344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: pecera"', 
+      author: '1625097', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/4810565504778240/6113511647526912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/4810565504778240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460225276717733293898519'
+    }, 
+    {
+      title: 'Spin-off of "Pac Man"', 
+      author: 'NateTheGreat0630', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-pac-man/6241677095518208/4958679498801152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-pac-man/6241677095518208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_408621833580572469637743'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'diomedes mateo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6696396624543744/5468066073067520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6696396624543744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3536398002308268168590469'
+    }, 
+    {
+      title: 'Vertex Tool WIP', 
+      author: 'StuffStash', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-tool-wip/5738920538324992/5101416562868224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-tool-wip/5738920538324992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'steve from minecraft', 
@@ -710,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5310841950093312/5531736953110528.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5310841950093312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_665766273013707847686234'
+    }, 
+    {
+      title: 'build up!', 
+      author: 'AnsonH', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/build-up/5505700878139392/5388716119212032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/build-up/5505700878139392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2102006827651679927335110'
     }, 
     {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
@@ -766,15 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_831509053323496962137713'
     }, 
     {
-      title: 'Thunder Lyrics', 
-      author: 'Max Zeng', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/thunder-lyrics/5327522264039424/5072009156673536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/thunder-lyrics/5327522264039424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756570013070810267237430'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'LAURENT ALGARAÑAZ', 
       votes: 1, 
@@ -809,96 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4702952179941376/6187688179056640.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4702952179941376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3244489922683998761656170'
-    }, 
-    {
-      title: 'cena', 
-      author: 'angeline nogales', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cena/4898821710856192/6080744637382656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cena/4898821710856192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1098799947652295620623765'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'matias sebastian sandoval apaza', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5958251113136128/4834761334112256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5958251113136128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_821604622456891833804030'
-    }, 
-    {
-      title: 'As close as it\'ll get', 
-      author: 'Astro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/as-close-as-itll-get/5399404917080064/4582374160777216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/as-close-as-itll-get/5399404917080064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'hectorarteaga168', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5742313223798784/5020738588557312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5742313223798784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_129108597261470442007012'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Gian Lucas Tobar Antelo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5547037203677184/4847760857939968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5547037203677184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919073043752324497968388'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ukhuyag', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5300150034808832/4717856857309184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5300150034808832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5588646643414537933770137'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'juansantiagocamaramontano17', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5392011731714048/5968620254707712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5392011731714048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_486897460427041159832131'
-    }, 
-    {
-      title: 'Niagara Falls with Ice Cream and Pasta ', 
-      author: 'DAPHNES', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/niagara-falls-with-ice-cream-and-pasta/6751743549685760/4716358551257088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/niagara-falls-with-ice-cream-and-pasta/6751743549685760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_305535184201313193731311'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Gisel Cordova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6551462214942720/5384058025852928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6551462214942720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_870527625259653027825838'
-    }, 
-    {
-      title: 'que es el cenar de hans', 
-      author: 'HANS ROSALES', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/que-es-el-cenar-de-hans/5785332256915456/4913987528736768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/que-es-el-cenar-de-hans/5785332256915456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_893583217108708555449615'
     }, 
   ];
 };
