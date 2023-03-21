@@ -559,6 +559,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
     }, 
     {
+      title: 'Editing a Web page', 
+      author: 'ip4006', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/6284929496563712/5045188360978432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/6284929496563712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_212995653872424626012261'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'chelle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6270191651831808/4705727836110848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6270191651831808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3942326939032893691817737'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Noah Winn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5807930126680064/5569577356673024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5807930126680064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6915852515585703242760217'
+    }, 
+    {
+      title: 'Derivado de "Desafío: papel rayado"', 
+      author: 'Felipe Perez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-papel-rayado/4902607056584704/4796579044442112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-papel-rayado/4902607056584704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1404697817880406622348345'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A Loopy Ruler"', 
       author: 'samuelligolf', 
       votes: 1, 
@@ -752,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'kobi harkup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/5719019572477952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/4543761864769536.png', 
       link: 'https://www.khanacademy.org/computer-programming/island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -860,45 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Paperwad ☢️', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2ish/5676238074331136/5019380741357568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2ish/5676238074331136/6381331547471872.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2ish/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'num f', 
-      author: 'omar.tareq.khatib', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/num-f/6690355853705216/6371041071120384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/num-f/6690355853705216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_773534918290951068174895'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'st7778', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5864338680496128/6454290693799936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5864338680496128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_398524057394714884561550'
-    }, 
-    {
-      title: 'Project: Design a store database', 
-      author: 'Iqra Shah', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6435171814653952/4654263390486528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6435171814653952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_43492160748101871984061'
-    }, 
-    {
-      title: 'Editing a Web page', 
-      author: 'Pieng', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/5667501607534592/6526548952006656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/5667501607534592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520350128489108235358655'
     }, 
   ];
 };
