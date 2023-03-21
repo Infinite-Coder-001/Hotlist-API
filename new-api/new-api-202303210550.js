@@ -559,6 +559,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_527790708227177035401513'
     }, 
     {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'samuelligolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6247063689150464/4553913593544704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6247063689150464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4770162379220546072300449'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Lazy Boy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5789749966323712/6025080451940352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5789749966323712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1108525265412283990905718'
+    }, 
+    {
+      title: 'Population "Project: Data dig"', 
+      author: 'Tahidul.R', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/population-project-data-dig/4522538622566400/5580455538900992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/population-project-data-dig/4522538622566400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8238678636381560576216'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'a01080811787', 
       votes: 1, 
@@ -572,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'Taehoon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5369025438990336/6331755176181760.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5369025438990336/4755138482061312.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5369025438990336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1126751135070965703049281'
     }, 
@@ -581,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'Marilyn Alcorn', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions-blowing-winston-up/6375599510962176/5290374454362112.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions-blowing-winston-up/6375599510962176/5057058409070592.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions-blowing-winston-up/6375599510962176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012104494930061424480540'
     }, 
@@ -725,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'kobi harkup', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/4800099340566528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/5719019572477952.png', 
       link: 'https://www.khanacademy.org/computer-programming/island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -770,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-graphiti-/5690506861658112/4605215769935872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-graphiti-/5690506861658112/4529439158616064.png', 
       link: 'https://www.khanacademy.org/computer-programming/-graphiti-/5690506861658112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/5667501607534592/6526548952006656.png', 
       link: 'https://www.khanacademy.org/computer-programming/editing-a-web-page/5667501607534592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520350128489108235358655'
-    }, 
-    {
-      title: 'khanmigo is soo cute!', 
-      author: 'soap.', 
-      votes: 71, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448/6675223573479424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khanmigo-is-soo-cute/4791767402856448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
-    }, 
-    {
-      title: 'Luiz’s Book list database"', 
-      author: 'luizzzg16', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/luizs-book-list-database/5833862132580352/5350090837639168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/luizs-book-list-database/5833862132580352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7223963208223923964524182'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'natasha sambaya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5693821231087616/6420620968771584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5693821231087616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1117942556758059209273367'
     }, 
   ];
 };
