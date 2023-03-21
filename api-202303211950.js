@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 25, 
-      forks: 0, 
+      votes: 27, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
+    }, 
+    {
+      title: 'spring :>', 
+      author: 'marci', 
+      votes: 44, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'Deja-vu: part 12, The End?', 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5187841468710912.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
-    }, 
-    {
-      title: 'spring :>', 
-      author: 'marci', 
-      votes: 43, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'Subscribe [NEW]', 
@@ -75,9 +75,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'how to vote for your own content', 
       author: 'MarkSuperMario111', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/6099308825067520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5363991502438400.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
     }, 
