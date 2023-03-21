@@ -586,6 +586,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1169157030730722697729998'
     }, 
     {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'wiktor jerzy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5520351867224064/5666943664439296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5520351867224064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2509753654733904970308324'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Cerys Horne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5343108163485696/5318237749559296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5343108163485696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3578950599669976353704909'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'Filip J', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5906114418098176/5869168102785024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5906114418098176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6811734861383387677793571'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
+      author: 'Omar Capetillo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4528003092889600/6739170569797632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4528003092889600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_328334444420828505718148'
+    }, 
+    {
+      title: 'Bogdan pagina perros', 
+      author: 'Bogdan Andrei Schvartz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bogdan-pagina-perros/5925574310936576/5436927294881792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bogdan-pagina-perros/5925574310936576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7601364708908377168965683'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball" unfinished', 
+      author: 'vstr6243', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball-unfinished/4703797986508800/6624620101025792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball-unfinished/4703797986508800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292655134559333721007247'
+    }, 
+    {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
       author: 'Maria Mazur', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpagenikole-lecumberri/4828914276155392/6610042448297984.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpagenikole-lecumberri/4828914276155392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_65250553772413679085817'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'alana geary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5775161338150912/6735312145661952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5775161338150912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_961901490486984196743339'
-    }, 
-    {
-      title: 'If- Rudyard Kipling by Teresa Cordoba', 
-      author: 'teresa.cordoba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-rudyard-kipling-by-teresa-cordoba/6236289159708672/4688683325505536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-rudyard-kipling-by-teresa-cordoba/6236289159708672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1010306734306531960995822'
-    }, 
-    {
-      title: 'Derivação de "Projeto: App personificador"', 
-      author: 'Renato  Coelho Miguelote ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-app-personificador/5658562169978880/4504251923742720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-app-personificador/5658562169978880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3362136797453274901440197'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'aperin.duduyemi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4509256033550336/5851480256200704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4509256033550336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Angelica Long', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5492168895807488/6487868211249152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5492168895807488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6637278476568472952700653'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'zosia.dolzynska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5996376380194816/5976015279276032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5996376380194816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_52818136499288734874041'
     }, 
   ];
 };
