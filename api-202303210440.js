@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'Cookies \'n Scream', 
       votes: 39, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5849175167385600.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5187841468710912.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
     {
+      title: 'Flying potatos for dinner!', 
+      author: 'proGamer194', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
+    }, 
+    {
       title: 'New program', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 8, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/5521357359333376.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Flying potatos for dinner!', 
-      author: 'proGamer194', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'My Logo :P', 
+      author: '▪Dipper98▪', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-p/5913683022888960/5272732973711360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo-p/5913683022888960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Mr/Ms Misfit\'s Subpage', 
       author: 'vw_beetlesultimategreatness', 
       votes: 14, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Entry w.i.p', 
-      author: 'sgh07', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928/6423527789215744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/entry-wip/4834356737916928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
   ];
 };
