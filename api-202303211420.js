@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
     {
+      title: 'a nintendo switch (wip)', 
+      author: 'Blake Meloche (T1)[Online]', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6338306843656192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'snake', 
       author: 'quag', 
       votes: 22, 
@@ -82,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
-      title: 'a nintendo switch (wip)', 
-      author: 'Blake Meloche (T1)[Online]', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912/6127794997477376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nintendo-switch-wip/5920628189478912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'New program', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 10, 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'how to vote for your own content', 
+      author: 'MarkSuperMario111', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5209329592745984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
+    }, 
+    {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
       author: 'Prince M', 
       votes: 11, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
-    }, 
-    {
-      title: 'how to vote for your own content', 
-      author: 'MarkSuperMario111', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5209329592745984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
     }, 
     {
       title: 'island', 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'THE END', 
       author: 'monsimir', 
       votes: 13, 
-      forks: 7, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)[Online]', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-survival-clicker-wip/4757999836250112/4561359120678912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-survival-clicker-wip/4757999836250112/4809871595978752.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-survival-clicker-wip/4757999836250112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
