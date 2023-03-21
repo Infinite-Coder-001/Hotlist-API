@@ -212,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/4757386760077312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/6507208381874176.png', 
       link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -568,6 +568,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'cd14129158', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6475146987880448/5826376876998656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6475146987880448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2675250675239713499996611'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Yureli Ronquillo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5277337447088128/6059659434967040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5277337447088128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6684069348885546526351985'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'emclaughlin54', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4883619677257728/5561632744062976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4883619677257728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8724029548233052807695309'
+    }, 
+    {
       title: 'Derivado de "Desafío: escribe un poema"', 
       author: '22266298', 
       votes: 1, 
@@ -833,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Isabella Ryder', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6220448447905792/6542693465636864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6220448447905792/6367013331320832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6220448447905792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9298591287203068550225266'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-complete/5951341903265792/5348472574492672.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-complete/5951341903265792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_245073566020210352941277'
-    }, 
-    {
-      title: 'My Book Shelf Room. Enoy!:)', 
-      author: 'MidnightMay', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-book-shelf-room-enoy/5974336151535616/4663494952927232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-book-shelf-room-enoy/5974336151535616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7573706291484001756676971'
-    }, 
-    {
-      title: 'Derivado de "Código legible"', 
-      author: 'wilfredoguzman7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/5240090487209984/5875319707058176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cdigo-legible/5240090487209984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_814245367526138378168001'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'thomas.l.hester', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5338977243807744/5770546731335680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5338977243807744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794077673635572447527414'
     }, 
   ];
 };
