@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
+      title: 'THE END', 
+      author: 'monsimir', 
+      votes: 12, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
+    }, 
+    {
       title: 'Turnip Farmer! (JavaScript)', 
       author: 'WoodlandWolf', 
       votes: 7, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'THE END', 
-      author: 'monsimir', 
-      votes: 11, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
     }, 
     {
       title: 'a survival clicker', 
@@ -559,6 +559,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2090456066160557410785044'
     }, 
     {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Andrea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6634963053363200/5639932947513344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6634963053363200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_215454306255500057483920'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'rabiega.wiktoria_e_2022', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6113606371688448/6208475082571776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6113606371688448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_946987910919828910014012'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'Endr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4804765953605632/5503878117507072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4804765953605632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_321889605397346999550971'
+    }, 
+    {
       title: 'New program', 
       author: 'Cody', 
       votes: 1, 
@@ -622,12 +649,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5305774957387542695521384'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
+      title: 'The ABC Store', 
       author: 'Richard', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5142531479486464/4554113004388352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5142531479486464', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-abc-store/5142531479486464/6219396818452480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-abc-store/5142531479486464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_585382046380325078196939'
     }, 
     {
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5342051064659968/6748381767843840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5342051064659968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9854525528908637774310222'
-    }, 
-    {
-      title: 'Crowdfunding Webpage', 
-      author: 'sofiane_poole', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crowdfunding-webpage/4664343645175808/5922060124864512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crowdfunding-webpage/4664343645175808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3565949036864959403714150'
-    }, 
-    {
-      title: 'Mountain Heights SQL', 
-      author: 'devinbrayman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountain-heights-sql/5798976663371776/5368031086952448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mountain-heights-sql/5798976663371776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2611111893663699975299919'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Isabella Morgan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6027482479509504/5939360753303552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6027482479509504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1958830309156432364348073'
     }, 
   ];
 };
