@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 67, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/6088409942900736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/5521357359333376.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328/5907113001140224.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-logo/4520159878627328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
+    }, 
+    {
+      title: 'Avatars as MTG cards', 
+      author: 'LightningCoder', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/5255722087792640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Wikimedia images on PJS', 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
       link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
-    }, 
-    {
-      title: 'Avatars as MTG cards', 
-      author: 'LightningCoder', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288/5255722087792640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatars-as-mtg-cards/6346805443084288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Turnip Farmer! (JavaScript)', 
