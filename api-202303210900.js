@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn 😋🤩', 
       votes: 67, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/4679381265203200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/4561732816388096.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
+      title: 'island', 
+      author: 'kobi harkup', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/island/5361185177518080/4543761864769536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/island/5361185177518080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
+    }, 
+    {
       title: 'Mr/Ms Misfit\'s Subpage', 
       author: 'vw_beetlesultimategreatness', 
       votes: 14, 
@@ -253,22 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'To Grill Hamburgers', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 44, 
+      title: 'Sub Page Contest! :)', 
+      author: 'ColtTheBolt12 #TeamPruina', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016/5784740773019648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-grill-hamburgers/6525801694806016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'BSS Poster', 
-      author: 'Dat', 
-      votes: 41, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592/5105684750581760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bss-poster/5084900330094592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920/5677858250080256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1166736841238396186068932'
     }, 
   ];
 };
