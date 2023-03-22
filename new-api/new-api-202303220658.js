@@ -658,6 +658,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
     }, 
     {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'fa0092298', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5165262040252416/4872061282729984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5165262040252416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_965619003267318940383514'
+    }, 
+    {
+      title: 'Project: Design a store database', 
+      author: 'zmilly', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5988058035175424/5226130702647296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5988058035175424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1088231826220811824249775'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'rodricintopopo16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6066864443932672/5348010597072896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6066864443932672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1030177166155935551198251'
+    }, 
+    {
       title: 'We were all noobs once!', 
       author: '🥞PaNcAkEs🥞', 
       votes: 19, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/2333005/6205910554034176/4989540298440704.png', 
       link: 'https://www.khanacademy.org/computer-programming/2333005/6205910554034176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_506017970211522612190870'
-    }, 
-    {
-      title: 'New program', 
-      author: 'C2_2333027_유원석_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5546873592266752/6459933844619264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5546873592266752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_837363692448959432436841'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: app imitadora"', 
-      author: 'andresmarqueznaranjo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6648179341967360/5466627795894272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6648179341967360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103477112545229748277766'
-    }, 
-    {
-      title: 'C2_Project_김호연', 
-      author: 'C2_2333015_김호연_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c2_project_/5949453526941696/5894570018914304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c2_project_/5949453526941696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_261625143408512150140986'
     }, 
   ];
 };
