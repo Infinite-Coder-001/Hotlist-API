@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive voronoi', 
       author: 'YokieBob', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520/6661248122142720.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520', 
@@ -230,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 13, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/4804288943800320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/5050699844206592.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -242,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
+    }, 
+    {
+      title: 'Edmund Knight Subpage', 
+      author: 'Edmund Knight⚔🏹ඞ🔥', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056/6105517200293888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
       title: 'ski Translator', 
@@ -256,19 +265,10 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'miffhreiff', 
       votes: 6, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680/4906136580177920.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
-    }, 
-    {
-      title: 'The Humble Cubesphere', 
-      author: 'Fifth', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712/6405996065112064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
   ];
 };
