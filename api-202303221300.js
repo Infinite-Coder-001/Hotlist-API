@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 42, 
-      forks: 2, 
+      votes: 47, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/4772682249060352.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 27, 
+      votes: 28, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 21, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
-      votes: 55, 
+      votes: 56, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5187841468710912.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
@@ -49,7 +49,7 @@ var LoadHotlistAPI = function() {
       title: 'spring :>', 
       author: 'marci', 
       votes: 49, 
-      forks: 5, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
@@ -57,11 +57,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'MIGRATION [Game]', 
       author: '▪Dipper98▪', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5640532434141184.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Top-Down Movement #TT', 
+      author: 'Dominic R. [RESUB]', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Canvas API Rasterizer', 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/4683412930871296.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
-    }, 
-    {
-      title: 'Top-Down Movement #TT', 
-      author: 'Dominic R. [RESUB]', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Subscribe [NEW]', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'how to vote for your own content', 
       author: 'MarkSuperMario111', 
-      votes: 28, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5222310933217280.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
@@ -246,29 +246,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Humble Cubesphere', 
       author: 'Fifth', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712/6405996065112064.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
-      title: 'Custom Corner-Cut Rectangles?!', 
-      author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 9, 
+      title: 'Edmund Knight Subpage', 
+      author: 'Edmund Knight⚔🏹ඞ🔥', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-corner-cut-rectangles/5254463293276160/6047360057917440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/custom-corner-cut-rectangles/5254463293276160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056/6105517200293888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'a survival clicker WIP', 
-      author: 'Blake Meloche (T1)[Online]', 
-      votes: 10, 
+      title: '15 Random Facts You Don\'t Need To Know', 
+      author: '🥞PaNcAkEs🥞', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-survival-clicker-wip/4757999836250112/4521065817882624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-survival-clicker-wip/4757999836250112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720/4815720469020672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
   ];
 };
