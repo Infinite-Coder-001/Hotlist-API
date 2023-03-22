@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5722590972002304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/6429007157706752.png', 
       link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
     }, 
     {
+      title: 'Derivado de "Desafío: el menú de la cena"', 
+      author: 'mateooou', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/5144635375927296/5426056128675840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/5144635375927296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3978589636241294266317132'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'alaa.ahmed-nassar', 
       votes: 1, 
@@ -743,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'anton.pedersen06', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/css-opg-2/5511633184276480/5429312150093824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/css-opg-2/5511633184276480/6164129112178688.png', 
       link: 'https://www.khanacademy.org/computer-programming/css-opg-2/5511633184276480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_70724501817766117229154'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5219631340240896/5931679744311296.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5219631340240896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5776548060271095146846570'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'juliomollom', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5040401317937152/5565280949682176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5040401317937152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2870283339567705825383'
     }, 
   ];
 };
