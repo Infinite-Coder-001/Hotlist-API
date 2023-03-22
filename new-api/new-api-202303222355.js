@@ -847,58 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'erickdosmil35', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4734899488866304/4988031020089344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4734899488866304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1003301591614182347725246'
-    }, 
-    {
-      title: 'Basic British Accents.', 
-      author: 'Phase ✝', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5293296069165056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Atwood Perry', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5655618993307648/6554333165699072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5655618993307648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_419368971197356554892950'
-    }, 
-    {
-      title: 'Adorable Fish Swimming in the Ocean', 
-      author: 'dorris4m', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-fish-swimming-in-the-ocean/5911212966854656/5212122952024064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-fish-swimming-in-the-ocean/5911212966854656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_20167202280387015063881'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Sienna Anderson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5905588522631168/5913191000621056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5905588522631168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9443255385416136152477622'
-    }, 
-    {
       title: 'Nuevo script de SQL', 
       author: 'Andre Michelle Messi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5976880802217984/6506970044743680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5976880802217984/4919482654179328.png', 
       link: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5976880802217984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_897396159307019232903799'
+    }, 
+    {
+      title: 'New SQL script', 
+      author: 'l.martin-rico', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/5406749663477760/5298896189571072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/5406749663477760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859981798919678950397538'
+    }, 
+    {
+      title: 'Remonda Ghobrial of "Project: Event invite"', 
+      author: 'Remonda Ghobrial', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/remonda-ghobrial-of-project-event-invite/6173923852206080/4676124102934528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/remonda-ghobrial-of-project-event-invite/6173923852206080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_749578188049636202922569'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'johansmg30', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4797022396006400/5012985937707008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/4797022396006400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7198487027707820252537880'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Charlotte G', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5937210756218880/6358755790077952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5937210756218880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3732787277423860832902410'
+    }, 
+    {
+      title: ' "Project: Design a store database"', 
+      author: 'rkeeble927', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6609989314854912/6668571074936832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6609989314854912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1000728576694940400676133'
     }, 
   ];
 };
