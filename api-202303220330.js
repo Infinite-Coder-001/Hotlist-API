@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -136,12 +136,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'island - [basic Perlin noise & parallax]', 
+      title: 'Perlin Noise Island, with parallax', 
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/island-basic-perlin-noise-parallax/5361185177518080/4590930910035968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/island-basic-perlin-noise-parallax/5361185177518080', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island-with-parallax/5361185177518080/6545839398109184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island-with-parallax/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
