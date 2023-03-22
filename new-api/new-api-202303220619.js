@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
       votes: 26, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -48,8 +48,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'spring :>', 
       author: 'marci', 
-      votes: 48, 
-      forks: 4, 
+      votes: 49, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
@@ -676,6 +676,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2870283339567705825383'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'lucas.1624364', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6673153902559232/4611720330133504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6673153902559232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_405819502018176571802909'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'lucas.1624364', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5202071503814656/4803859718651904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5202071503814656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_405819502018176571802909'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Prateek Malviya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5257099899879424/6125663519293440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5257099899879424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103043382061077492071838'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'didiboff400', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4541038788395008/5708701047767040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4541038788395008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9850724714937451764724899'
+    }, 
+    {
       title: 'Happy Saint Patrick\'s Day!', 
       author: 'Seth | Flightsong', 
       votes: 36, 
@@ -683,6 +719,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928/6115897448382464.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-saint-patricks-day/5550907570044928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
+      title: 'My perfect trip', 
+      author: 'cre1324-1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-perfect-trip/5963372643532800/4693288469970944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-perfect-trip/5963372643532800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_731794662443539464594061'
+    }, 
+    {
+      title: 'Perfect trip.', 
+      author: 'MATHNERD01LRM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perfect-trip/6141202808487936/5087254814179328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/perfect-trip/6141202808487936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1076770985889314124094552'
+    }, 
+    {
+      title: 'Tenzin -Sunny snowy day"', 
+      author: 'tenzinpelzang21', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tenzin-sunny-snowy-day/6691076804231168/6311110207913984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tenzin-sunny-snowy-day/6691076804231168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_814622119415754217112931'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Suggs Jayden', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6120904963964928/4828243825049600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6120904963964928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_321300391142721923115075'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Muskan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6222718975655936/5563989939765248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6222718975655936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1013179207990871420835862'
     }, 
     {
       title: 'Perfect Trip', 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project1/6698333252141056/6679468447154176.png', 
       link: 'https://www.khanacademy.org/computer-programming/project1/6698333252141056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_566640673867085687867727'
-    }, 
-    {
-      title: 'New program', 
-      author: 'C2_2333033_주수진_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4691001061195776/6412650982719488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4691001061195776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604178193938930671392069'
-    }, 
-    {
-      title: 'A bee', 
-      author: 'MATHNERD01LRM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-bee/5296191148703744/4854053119246336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-bee/5296191148703744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1076770985889314124094552'
-    }, 
-    {
-      title: 'New program', 
-      author: 'C2_2333002_마지민_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6551072678395904/6288437105967104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6551072678395904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_369465709623863516763415'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'amy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5228756806713344/4591012078206976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5228756806713344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203420284251698012687917'
-    }, 
-    {
-      title: 'project 1', 
-      author: 'C2_2333032_조예원_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-1/5899894989832192/4681115962228736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-1/5899894989832192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1044968975374830675902754'
-    }, 
-    {
-      title: 'Sample', 
-      author: 'Ian Pollard', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sample/6476954159333376/6156046554152960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sample/6476954159333376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_442857079432937858174387'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Zenti Valenzuela', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6579050635378688/5680103779778560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6579050635378688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1193262056495755257040288'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'jisun', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6622008059412480/6341522133139456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6622008059412480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_334037033761014474219866'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'ste1439-2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6287933319725056/5826842944913408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6287933319725056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_534255571511560649702233'
     }, 
   ];
 };
