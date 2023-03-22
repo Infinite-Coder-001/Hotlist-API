@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/4898015599181824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5823204037017600.png', 
       link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
