@@ -487,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_756570013070810267237430'
     }, 
     {
+      title: 'New webpage', 
+      author: 'ⱠeaferStudios', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6737256158380032/6077588239073280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6737256158380032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
       title: 'best nba players', 
       author: 'mely f', 
       votes: 2, 
@@ -640,6 +649,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_189535360151993249767513'
     }, 
     {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'Yerai Jorge', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4981661832101888/5928097470005248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4981661832101888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_388614871661200368805795'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'Samuel Arroyo Troya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6566941914611712/6655442668535808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6566941914611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1125291323744183927038266'
+    }, 
+    {
+      title: 'yess or No', 
+      author: 'Ané Mills', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yess-or-no/5447264405602304/5807788996739072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yess-or-no/5447264405602304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_856002042500577449726913'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Mateo Vázquez Monleón', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5498777169608704/4691419722989568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5498777169608704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_324063604849376032493019'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Projekt reklamy"', 
+      author: 'julkaciesielska5', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/6611595951390720/4975171331211264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/6611595951390720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546776694493862930470914'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Colorful creature"', 
       author: '20patricklacey', 
       votes: 1, 
@@ -662,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Laura ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6535737031049216/5060654068449280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6535737031049216/5971886272200704.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6535737031049216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_334423275256209994175205'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6140648727298048/5014955750637568.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6140648727298048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: haz que llueva"', 
-      author: 'Mónica López Quintana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5086968390402048/6517412485971968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/5086968390402048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_938043464427985971306283'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Machający bałwanek"', 
-      author: 'Helena Bodio', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-machajcy-bawanek/5821271838605312/6079456684064768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-machajcy-bawanek/5821271838605312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5059593446061064065210490'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'saidderfoufibenderfouf', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6633161448800256/5373483980996608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6633161448800256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_201759134994765090141697'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Natalia Lazarova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4954166592323584/6092584989802496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4954166592323584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6966349167297360246424269'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'dmitry.psenkova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5373729300594688/5405347138551808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5373729300594688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_334256428185071075949730'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Paweł Nowak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6161888481427456/5967982452064256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6161888481427456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5181353326613964714755743'
     }, 
   ];
 };
