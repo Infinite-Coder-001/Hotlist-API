@@ -649,65 +649,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseño de anuncio"', 
-      author: 'ilyass', 
+      title: 'terrain', 
+      author: 'Kobi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6062881063092224/5239637301051392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6062881063092224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365320552265438533403428'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'marcos.lopez281', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5700471588438016/5209011097223168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5700471588438016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_826234102642410401550148'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseño de anuncio"', 
-      author: 'Ángela Arnez y Kevin Orozco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5823356438102016/6238430335123456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5823356438102016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_326222494710565935535109'
-    }, 
-    {
-      title: 'mis comidas favoritas MARÍA GARCÍA CARRASCO', 
-      author: 'maría garcía', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mis-comidas-favoritas-mara-garca-carrasco/6267001866862592/6205722816987136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mis-comidas-favoritas-mara-garca-carrasco/6267001866862592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_425927888681391375209312'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Phemelo Motsamai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6311625704652800/4615511709368320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6311625704652800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
-    }, 
-    {
-      title: 'Aiman Malik (Fruits) Spin-off of "Creating a table and inserting data"', 
-      author: 'aimanmalik755', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aiman-malik-fruits-spin-off-of-creating-a-table-and-inserting-data/4915349818753024/5182134598025216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aiman-malik-fruits-spin-off-of-creating-a-table-and-inserting-data/4915349818753024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6213625455955421117675994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terrain/5550959481896960/6143167692062720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terrain/5550959481896960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
       title: 'Spin-off of "Challenge: Wishlist"', 
       author: 'alaa.ahmed-nassar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4932643907223552/6264449783873536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4932643907223552/4569388458229760.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4932643907223552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574438298337145803452649'
     }, 
@@ -770,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'Carmen Miras Sanchez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5886822837436416/5126071117987840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5886822837436416/5213712207364096.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5886822837436416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_364378899026421732286465'
     }, 
@@ -874,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7028200991515764564613694'
     }, 
     {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'wynn.chiu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6329069580107776/6322286149025792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6329069580107776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_21136325500499623205040'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Meera Dayal', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5667370339450880/4901588746682368.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5667370339450880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_215170514229275503749566'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'aesruiz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4916471479451648/5918217635938304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4916471479451648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_102694445249116793962628'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'Laura Sánchez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6460440046780416/5975485790339072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6460440046780416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_416682137206752275738915'
+    }, 
+    {
+      title: 'CSS', 
+      author: 'jeghaderopvask', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/css/6711587685842944/4651709428449280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/css/6711587685842944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_244733090083135015837352'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'aavigil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4604044552486912/5163575107960832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4604044552486912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_606041591385218020960124'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'aarufo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5366291591643136/6114047411142656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5366291591643136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_957995993524588125826730'
+    }, 
+    {
+      title: 'Derivado de "Desafío: el menú de la cena"', 
+      author: 'Alejandro Gómez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6217888211189760/5607546612400128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6217888211189760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
     }, 
   ];
 };
