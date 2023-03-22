@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 6, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
@@ -631,47 +631,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Sergio García', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4802431205818368/6546767396257792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4802431205818368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6382505596938404598011357'
-    }, 
-    {
-      title: 'Japan Countryball', 
-      author: 'Hibernia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/japan-countryball/6390222999044096/6745316234936320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/japan-countryball/6390222999044096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Derivação de "Projeto: livro de receitas"', 
-      author: 'augusto.rajao', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-livro-de-receitas/6527342782758912/4762868413415424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-livro-de-receitas/6527342782758912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_92578371270051973287686'
-    }, 
-    {
-      title: 'zaba dawid', 
-      author: 'Dawid siwak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zaba-dawid/6673034854580224/4964518943047680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zaba-dawid/6673034854580224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5296991603704361460815146'
-    }, 
-    {
       title: 'Derivado de "Tablas en HTML"', 
       author: 'cristianpg927', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/6707732586741760/5724382107582464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/6707732586741760/4627616557744128.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/6707732586741760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_427494613050209386074723'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5635035647754240/4718264641175552.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5635035647754240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_540633763689044173305256'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sandile Cwili', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4992571921448960/6410631009058816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4992571921448960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8418219725522158285861699'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '20bennorton', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5904642220539904/6706078252580864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5904642220539904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1206300037806717888659797'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Lesego Matsimela', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4796787753009152/4576694435627008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4796787753009152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7028200991515764564613694'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Gabriele Jackevičiūte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5817697483145216/5361996423020544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5817697483145216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5543427867147064731541054'
     }, 
   ];
 };
