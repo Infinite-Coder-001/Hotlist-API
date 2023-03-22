@@ -48,8 +48,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'spring :>', 
       author: 'marci', 
-      votes: 48, 
-      forks: 4, 
+      votes: 49, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
