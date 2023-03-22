@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -136,12 +136,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Perlin Noise Island', 
+      title: 'Perlin Noise Island, with parallax', 
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/4898015599181824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island-with-parallax/5361185177518080/6545839398109184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island-with-parallax/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
@@ -703,69 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Spin-off of "Project: Word game "', 
-      author: 'Belia Citra - 09031282126056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904/5565545590341632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
-    }, 
-    {
-      title: 'Spin-off of "Project: Scene change"', 
-      author: 'Belia Citra - 09031282126056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4611099435778048/5142407361642496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4611099435778048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 's201021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6394588601565184/5462146131738624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6394588601565184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1139196886576257185845914'
-    }, 
-    {
-      title: '양파쿵야', 
-      author: 'C2_2333035_박세인_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6626141526081536/4807037857087488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6626141526081536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1114859113782067784819765'
-    }, 
-    {
-      title: 'Spin-off of "Project: Scene change"', 
-      author: 'Belia Citra - 09031282126056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4860726159392768/6037635983523840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4860726159392768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
-    }, 
-    {
-      title: 'Editing a Web page - By : Archi', 
-      author: 'Arc01', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/editing-a-web-page-by-archi/6067768735875072/5733238427664384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/editing-a-web-page-by-archi/6067768735875072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683448335595974880153016'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game "', 
-      author: 'Belia Citra - 09031282126056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4889653301002240/6196745325559808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4889653301002240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'poodleyteddy', 
       votes: 1, 
@@ -833,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'Kobi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rain-particle-simulation/4723336192245760/6542539655266304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rain-particle-simulation/4723336192245760/6020898694152192.png', 
       link: 'https://www.khanacademy.org/computer-programming/rain-particle-simulation/4723336192245760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -887,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'BH', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6477542036127744/6157808091578368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6477542036127744/6654464254853120.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6477542036127744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1085165551578784618079583'
     }, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4823633479647232/6249571077636096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4823633479647232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1154238901032403676327911'
+    }, 
+    {
+      title: 'Shoe Store "Project: Design a store database"', 
+      author: 'luizzzg16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shoe-store-project-design-a-store-database/6018158102364160/5774387972456448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shoe-store-project-design-a-store-database/6018158102364160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7223963208223923964524182'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Lucy Tilleman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4910695013728256/5627946636460032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4910695013728256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567774383487266402116032'
+    }, 
+    {
+      title: '3D Light tunnel (Interactive)', 
+      author: 'The Ember Society', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-light-tunnel-interactive/5674131493535744/5827909103435776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-light-tunnel-interactive/5674131493535744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: '8.1 Naomi Permono', 
+      author: 'Naomi Permono', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/81-naomi-permono/5657049502629888/5400959259033600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/81-naomi-permono/5657049502629888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_695223399022579450360348'
+    }, 
+    {
+      title: 'aEsThEtIc CaT (aWeSoMe CoLoRs)', 
+      author: 'Ava A', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aesthetic-cat-awesome-colors/5990548981989376/6001822868488192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aesthetic-cat-awesome-colors/5990548981989376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2749617760974829574090313'
+    }, 
+    {
+      title: 'Character Drawing & Animation - JustinJhon', 
+      author: 'Justin Jhon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/character-drawing-animation-justinjhon/5023133566550016/4509701297717248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/character-drawing-animation-justinjhon/5023133566550016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_16836432245885844200300'
+    }, 
+    {
+      title: 'Shoe Store Project: Design a store database"', 
+      author: 'luizzzg16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shoe-store-project-design-a-store-database/4782192044851200/4598992295215104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shoe-store-project-design-a-store-database/4782192044851200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7223963208223923964524182'
     }, 
   ];
 };
