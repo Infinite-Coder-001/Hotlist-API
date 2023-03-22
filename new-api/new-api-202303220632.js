@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 27, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 6, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
@@ -676,33 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2870283339567705825383'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'didiboff400', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5215106964439040/4704055211638784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5215106964439040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9850724714937451764724899'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'zackgambatte123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4830193572429824/6367753411018752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4830193572429824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_320099136526800057321050'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : attaque animale"', 
-      author: 'Kana_Hikari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5108128523010048/5862950268354560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5108128523010048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_688463111893101540575192'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'lucas.1624364', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5113332345651200/5002998662348800.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5113332345651200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604178193938930671392069'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'zackgambatte123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5523370356817920/5119361238220800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5523370356817920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_320099136526800057321050'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'a01080811787', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6559331115122688/5255766245425152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6559331115122688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217584301848908644771564'
+    }, 
+    {
+      title: 'project1', 
+      author: 'C2_2333019_최진범_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project1/6698333252141056/6679468447154176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project1/6698333252141056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_566640673867085687867727'
     }, 
   ];
 };
