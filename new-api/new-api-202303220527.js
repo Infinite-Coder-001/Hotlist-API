@@ -685,33 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
-      title: 'turtle ship', 
-      author: 'C2_2333018_조예준_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtle-ship/5482715706343424/4577569937866752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/turtle-ship/5482715706343424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_109488545554196661012405'
-    }, 
-    {
-      title: 'Derivado de "Conceptos básicos de HTML"', 
-      author: 'cristianyggg.05', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5910612493516800/4800496621895680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/5910612493516800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_303766051430877867219772'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'williamt25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5731889710415872/6655710130913280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5731889710415872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_388932710333902063193613'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'atemd7277', 
       votes: 1, 
@@ -797,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'emmanuel.chanyangtze', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frosty-the-snowman/5464254426955776/4504511168430080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frosty-the-snowman/5464254426955776/6096545150976000.png', 
       link: 'https://www.khanacademy.org/computer-programming/frosty-the-snowman/5464254426955776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6792436458586476193129048'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333048-panda/5075565520666624/5741528992759808.png', 
       link: 'https://www.khanacademy.org/computer-programming/c1-2333048-panda/5075565520666624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66696261747334330217186'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Jeremyyy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4931761462362112/5227503917776896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4931761462362112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1111132732034803743200880'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Estante de Livros"', 
+      author: 'Rebecca Garcez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estante-de-livros/5500211890012160/4713240270782464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estante-de-livros/5500211890012160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_250051678035482002339038'
+    }, 
+    {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'C1_2333062_홍지민_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5102841717112832/6719213336313856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5102841717112832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161471644170203726160534'
     }, 
   ];
 };
