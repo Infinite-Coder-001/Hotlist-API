@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Top-Down Movement #TT', 
-      author: 'Dominic R. [RESUB]', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
       title: 'how to vote for your own content', 
       author: 'MarkSuperMario111', 
       votes: 27, 
@@ -98,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5222310933217280.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
+    }, 
+    {
+      title: 'Top-Down Movement #TT', 
+      author: 'Dominic R. [RESUB]', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Vertex Drawer Tool V.3', 
@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'The Humble Cubesphere', 
-      author: 'Fifth', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712/6405996065112064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
-    }, 
-    {
       title: 'Custom Corner-Cut Rectangles?!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 9, 
@@ -287,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480/6462591322079232.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_532204053528121557052555'
+    }, 
+    {
+      title: 'The Humble Cubesphere', 
+      author: 'Fifth', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712/6405996065112064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-humble-cubesphere/6030427518451712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
@@ -676,15 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'José Mateo Solís Alfonso ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6663628624543744/6666593745813504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6663628624543744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4013761882495515396272506'
-    }, 
-    {
       title: 'Spin-off of "spring :>"', 
       author: 'erdmanne25', 
       votes: 2, 
@@ -692,15 +683,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-spring/5797188883234816/6532715320229888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-spring/5797188883234816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_653176568007634805694777'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'juandiegogar1212', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5820016131096576/6002237349609472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5820016131096576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_742231919954066577704939'
     }, 
     {
       title: 'Derivado de "Desafío: escribe un poema"', 
@@ -737,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6122576176005120/5573183555289088.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6122576176005120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'emmanuel.chanyangtze', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5464254426955776/6082118523600896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5464254426955776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6792436458586476193129048'
     }, 
     {
       title: 'Star Clicker!', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904/5565545590341632.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
+    }, 
+    {
+      title: 'Spin-off of "Project: Scene change"', 
+      author: 'Belia Citra - 09031282126056', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4611099435778048/5142407361642496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4611099435778048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 's201021', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6394588601565184/5462146131738624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6394588601565184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1139196886576257185845914'
+    }, 
+    {
+      title: '양파쿵야', 
+      author: 'C2_2333035_박세인_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6626141526081536/4807037857087488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6626141526081536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1114859113782067784819765'
     }, 
   ];
 };
