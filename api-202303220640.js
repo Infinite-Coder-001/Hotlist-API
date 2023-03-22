@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 26, 
+      votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'MIGRATION [Game]', 
       author: '▪Dipper98▪', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5640532434141184.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
@@ -238,7 +238,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 6, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
