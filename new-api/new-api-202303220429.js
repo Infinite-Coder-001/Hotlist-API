@@ -694,6 +694,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7315614198759417621270224'
     }, 
     {
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Eyob Legese', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6219766820028416/5379417817006080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6219766820028416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_238898542067236746552177'
+    }, 
+    {
+      title: 'SQL-paso12-project', 
+      author: 'kuxhausks', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-paso12-project/4875933262856192/6328244409516032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql-paso12-project/4875933262856192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1182619773734374195739181'
+    }, 
+    {
       title: 'New program', 
       author: 'vw_beetlesultimategreatness', 
       votes: 5, 
@@ -701,6 +719,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5943334674939904/6379387870298112.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5943334674939904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Samantha Dieffenbach', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5999945430908928/5826973877452800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5999945430908928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5776548060271095146846570'
     }, 
     {
       title: 'C1 우희태 2333048 panda', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4826112816627712/5745580958859264.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4826112816627712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3942326939032893691817737'
-    }, 
-    {
-      title: 'Rain [Particle Simulation]', 
-      author: 'Kobi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rain-particle-simulation/4723336192245760/6542539655266304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rain-particle-simulation/4723336192245760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'samuelagraciada', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6401122219900928/4631395575316480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6401122219900928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063378907953469495018395'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'ma17129128', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4938375138426880/5598275458875392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4938375138426880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_130589143982540610916064'
     }, 
   ];
 };
