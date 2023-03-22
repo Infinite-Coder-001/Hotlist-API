@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
+      title: 'MIGRATION [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5640532434141184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'spring :>', 
       author: 'marci', 
       votes: 49, 
@@ -55,18 +64,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
-      title: 'MIGRATION [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5640532434141184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'Top-Down Movement #TT', 
       author: 'Dominic R. [RESUB]', 
-      votes: 15, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Vertex Drawer Tool V.3', 
       author: 'NIKO Ψ', 
-      votes: 13, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840/5958044867674112.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'natural selection', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 86, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'Perlin Noise Island', 
       author: 'Kobi', 
       votes: 13, 
@@ -163,13 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
-      title: 'natural selection', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 85, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+      title: 'Cool art!!', 
+      author: 'ArcticWolf', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208/5101272413028352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
@@ -188,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720/4815720469020672.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'Merp Merp Merp', 
+      author: 'StuffStash', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/5544646413697024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'KASE editor (spin off so I don\'t lose my marbles)', 
@@ -217,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Merp Merp Merp', 
-      author: 'StuffStash', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/5544646413697024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Kinetic and potential energy example.', 
       author: 'Timothy Kostenko Productions', 
       votes: 13, 
@@ -235,13 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'Cool art!!', 
-      author: 'ArcticWolf', 
-      votes: 4, 
+      title: 'interactive voronoi', 
+      author: 'YokieBob', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208/5101272413028352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520/6661248122142720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'HTML Game', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920/5121983936512000.png', 
       link: 'https://www.khanacademy.org/computer-programming/sub-page-contest/6629836140625920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1166736841238396186068932'
-    }, 
-    {
-      title: 'New program', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800/6465075085099008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
   ];
 };
