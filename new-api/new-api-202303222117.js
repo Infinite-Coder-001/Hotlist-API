@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 54, 
+      votes: 53, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 65, 
+      votes: 64, 
       forks: 20, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
@@ -39,9 +39,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive voronoi', 
       author: 'YokieBob', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520/4797753617334272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520/4819123864649728.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/6515868307865600.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5083480880103424.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 87, 
@@ -271,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'Flame Head', 
-      author: 'Archbirdplus', 
+      title: 'Logo/Intro contest!', 
+      author: 'Arwen Undómiel', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/4772373780021248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -311,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 13, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/5360703570755584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/6377410510766080.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -424,13 +415,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Rainbow Snek', 
-      author: 'Owen', 
+      title: 'Flame Head', 
+      author: 'Archbirdplus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672/4845553513185280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1049380794375551316391249'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/4772373780021248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
       title: 'Self-Portrait', 
@@ -449,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6147156307394560/4763945108029440.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6147156307394560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1131274568914333453287593'
-    }, 
-    {
-      title: 'Winston', 
-      author: 'daniel', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6038622279352320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: 'Projet dérivé de "Projet : attaque animale"', 
@@ -677,7 +659,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'PokeKhan Battle', 
-      author: '⚡💧🔥lukyluki🔥💧⚡', 
+      author: 'lukyluki', 
       votes: 7, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pokekhan-battle/6388447905628160/6070586502856704.png', 
@@ -757,114 +739,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'jh7.martinez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6602515316785152/5802083417899008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6602515316785152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_969746607415022826731830'
-    }, 
-    {
-      title: 'Derivado de "Desafío: el menú de la cena"', 
-      author: '22266298', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6728642329886720/6026396255436800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6728642329886720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
-    }, 
-    {
-      title: 'Rotation of Rect', 
-      author: 'La Rube', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-of-rect/4555623762280448/4882372522983424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotation-of-rect/4555623762280448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177416374329180839524004'
-    }, 
-    {
-      title: 'New program', 
-      author: 'All Hallow\'s Eve(Online)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5449022694539264/4747022671593472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5449022694539264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'cehl9112', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6290876647391232/5009532079357952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6290876647391232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3959221776250463147695412'
-    }, 
-    {
-      title: 'Версия на "Проект: Уеб страница за пътешествия"', 
-      author: 'Iva Atanasova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4946661069864960/6373173122875392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4946661069864960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_596074211847748313825651'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'kyan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6205264057647104/6233887598755840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6205264057647104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_274331279354719814706941'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'simon pierce', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227446691315712/5193265227022336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227446691315712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6487587469509198959312698'
-    }, 
-    {
-      title: 'Derivado de "Vector Subtraction Ray (Multiplied)"', 
-      author: 'Veramendi Diaz Steve Harris', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-vector-subtraction-ray-multiplied/4940137789440000/5439940077076480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-vector-subtraction-ray-multiplied/4940137789440000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2872466971938232608357337'
-    }, 
-    {
-      title: 'SL Spin-off of "Challenge: Sunny snowy day"', 
-      author: '2024SLabuz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sl-spin-off-of-challenge-sunny-snowy-day/4674599741865984/4962394608812032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sl-spin-off-of-challenge-sunny-snowy-day/4674599741865984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_69554774836726316205162'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lauma.gailite.official', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4549832133099520/5714204541894656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4549832133099520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4446093394035407999599693'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Luna Hoogakker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4808924844048384/5894573505429504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4808924844048384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8715751567508309350674871'
-    }, 
-    {
       title: 'Lenovo 5i flex laptop', 
       author: 'Veritas Rimor', 
       votes: 5, 
@@ -874,31 +748,157 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9105863985236629522184716'
     }, 
     {
-      title: 'Space Guide', 
+      title: 'Rainbow Snek', 
+      author: 'Owen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672/4845553513185280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1049380794375551316391249'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'SageN', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5151252779679744/5848872640626688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5151252779679744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6422985352496542280142991'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Construindo uma Casa"', 
+      author: 'isabelleaniele10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-construindo-uma-casa/5345810939428864/4956948324990976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-construindo-uma-casa/5345810939428864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_778875223193836161969943'
+    }, 
+    {
+      title: 'New program', 
+      author: 'njgreenowl', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6054393939279872/6307792144351232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6054393939279872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'HuongN', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5334277170708480/5702987630821376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5334277170708480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_832343636715086777028208'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'AlfonsoC', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5255152263282688/6311645032005632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5255152263282688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3890062183472509162890524'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Danna Hurtado', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5636096467976192/5302950350340096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5636096467976192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177549765353283402476170'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Luna Hoogakker', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5445898542039040/5912189551820800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5445898542039040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8715751567508309350674871'
+    }, 
+    {
+      title: 'Spin-off of "Hermione"', 
+      author: 'victor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-hermione/4765372785147904/4769807104000000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-hermione/4765372785147904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_941865013967547029578920'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'AndreiG', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6446137366331392/5248952296587264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6446137366331392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_885049035340533319395344'
+    }, 
+    {
+      title: 'C is on it\'s way!', 
+      author: 'KarLlr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c-is-on-its-way/6390068886683648/5656630843981824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c-is-on-its-way/6390068886683648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Say Your Name"(Hi Bunny!)', 
+      author: 'Lana Cutter', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-namehi-bunny/6247622102007808/6573114856357888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-namehi-bunny/6247622102007808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8225929369386774343874087'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Chromium', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5265880658526208/6076987950284800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5265880658526208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_595297406293280256720850'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?" 2', 
+      author: 'Alexa Zarate', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-2/5925308965634048/6079857455054848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-2/5925308965634048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1152918542605803507025999'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'hugheskendra75', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4672394007724032/6083476233437184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4672394007724032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5200366095499705881186749'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
       author: 'KW139', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-guide/5396407298342912/5807282925649920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space-guide/5396407298342912', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5784728579129344/4588553810264064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5784728579129344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7568028474831153638105514'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Ivan Gandarilla', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'morganskjeie', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6666800541777920/6143723152130048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6666800541777920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_210367714584912211519973'
-    }, 
-    {
-      title: 'Spin-off of "frameRate(fps) | ProcessingJS"', 
-      author: 'ted.wiker04', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-frameratefps-processingjs/5799606409805824/6078416026910720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-frameratefps-processingjs/5799606409805824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_745664310319734673398907'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4803818178265088/5775253075968000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4803818178265088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_197816614353560699058660'
     }, 
   ];
 };
