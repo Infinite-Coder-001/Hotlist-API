@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'Jibanyanc', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5626132482539520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5042041961889792.png', 
       link: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
@@ -404,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-wip/4674506007560192/5260255425773568.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-wip/4674506007560192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'Cool art!!', 
+      author: 'ArcticWolf', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208/5101272413028352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
       title: 'move a box \'round the screen controlled by arrow keys', 
@@ -676,6 +685,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
     }, 
     {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'atemd7277', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5005738683711488/6594618180550656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5005738683711488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1474484650634429961986151'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'José Mateo Solís Alfonso ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6234656568819712/6717771468816384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6234656568819712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4013761882495515396272506'
+    }, 
+    {
       title: 'Derivado de "Desafío: lista de deseos"', 
       author: 'José Mateo Solís Alfonso ', 
       votes: 1, 
@@ -739,12 +766,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
     }, 
     {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
+      title: 'Frosty the snowman', 
       author: 'emmanuel.chanyangtze', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5464254426955776/6082118523600896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5464254426955776', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frosty-the-snowman/5464254426955776/6096545150976000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frosty-the-snowman/5464254426955776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6792436458586476193129048'
     }, 
     {
@@ -764,15 +791,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6080621173850112/6018514285805568.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6080621173850112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_727404317419182882095772'
-    }, 
-    {
-      title: 'Cool art!!', 
-      author: 'ArcticWolf', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208/5101272413028352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
       title: 'Spin-off of "Project: Shooting star"', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5102841717112832/6719213336313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5102841717112832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161471644170203726160534'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game " aida', 
-      author: 'Aida Khalisatifa - 09031282126098', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-aida/4788183960436736/4802476235866112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-aida/4788183960436736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_98120965548066821807746'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game "', 
-      author: 'Belia Citra - 09031282126056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904/5565545590341632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4565744886267904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_929773363209244422454014'
     }, 
   ];
 };
