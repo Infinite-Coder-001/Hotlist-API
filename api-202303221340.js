@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 47, 
+      votes: 48, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/4772682249060352.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'how to vote for your own content', 
       author: 'MarkSuperMario111', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168/5222310933217280.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-vote-for-your-own-content/5897271217799168', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
     }, 
     {
+      title: 'Chikn Nuggit WIP', 
+      author: 'StuffStash', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/4890177149648896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Jump! Remastered!', 
       author: 'Jibanyanc', 
       votes: 10, 
@@ -145,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Chikn Nuggit WIP', 
-      author: 'StuffStash', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/4890177149648896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Perlin Noise Island', 
       author: 'Kobi', 
       votes: 13, 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
+      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
+      author: 'Velvet', 
+      votes: 8, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'snake', 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248/4514136391467008.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
-    }, 
-    {
-      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
-      author: 'Velvet', 
-      votes: 7, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'HTML Game', 
