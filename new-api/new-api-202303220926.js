@@ -640,265 +640,265 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_189535360151993249767513'
     }, 
     {
-      title: 'Dog', 
-      author: 'Emil Slavov', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'victoriasa2100', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dog/4662559321145344/4869900209537024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dog/4662559321145344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8818011175107157189759601'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6079227003977728/6451082084794368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6079227003977728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_831098598496748643229314'
     }, 
     {
-      title: 'wishlist', 
-      author: 'anthony', 
+      title: ' (Sin terminar) Derivado de "Proyecto: estrella fugaz"', 
+      author: 'hernandezdelahuerta.garcia.daniel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wishlist/5065232470032384/4662960632152064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wishlist/5065232470032384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_71530945576615329933441'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sin-terminar-derivado-de-proyecto-estrella-fugaz/5211671326146560/5048359788527616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sin-terminar-derivado-de-proyecto-estrella-fugaz/5211671326146560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_540313517555320408796827'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'ilias el ouarssani', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'torres.leon.marcos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4716933070241792/4925781961916416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4716933070241792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6801109105261971011675375'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5095746501394432/6085623180214272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5095746501394432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_107755391013445870698598'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Moje ulubione jedzenie"', 
-      author: 'julkaciesielska5', 
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'silkbathroom', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moje-ulubione-jedzenie/5661800675983360/6599585541963776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moje-ulubione-jedzenie/5661800675983360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546776694493862930470914'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5167288439586816/5962460832251904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5167288439586816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178961764855795444949681'
     }, 
     {
-      title: 'Aiman Malik (favbooks) Spin-off of "Challenge: Book list database"', 
-      author: 'aimanmalik755', 
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'a.sofia.latorre', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aiman-malik-favbooks-spin-off-of-challenge-book-list-database/6383562011230208/5348785976033280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aiman-malik-favbooks-spin-off-of-challenge-book-list-database/6383562011230208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6213625455955421117675994'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4755473321738240/6391264129105920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4755473321738240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_612110134840387568598389'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Lilyrose McNamara Corcoran', 
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'a.rodrigo.cerezo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6286431762038784/6039853861224448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6286431762038784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1460144374111469146959826'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'a.marta.iniguez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5081689341870080/4909101580861440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5081689341870080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_653542239212661259725406'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Diego Tolentino de la Mora', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6580682622287872/6211537934270464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6580682622287872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1568763245288121563164436'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4641030059376640/5101277211312128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4641030059376640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_920369323836699196743611'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'RUTH WELLS', 
+      author: 'shanthini.ad20', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4857438291673088/6167761547214848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4857438291673088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_285426890152204473687983'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Natalia Aparicio Vila', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6636746944331776/5606657154662400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6636746944331776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3764381822071842815096679'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'a.jaime.ballester', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5243235141468160/6322303798657024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5243235141468160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_108304927660720849307719'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"tiju', 
-      author: 'a.hugo.ramirez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animaltiju/5979488699858944/5974090667311104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animaltiju/5979488699858944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426830906811818078600957'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Bee O\'Connell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5385991012794368/6713436101984256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5385991012794368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2656898726490022036653890'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'mariete', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6228183613751296/6048645997969408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6228183613751296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1033053989997119578931166'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'desidevantari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4931514753400832/6195636086292480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4931514753400832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2786260572486398743602950'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'a.sita.franco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5480870984335360/6360768183582720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5480870984335360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_769171979312492366677072'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'joan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5883779886661632/6327540840185856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5883779886661632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1013859843917227650296477'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'mireiabarberà', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4687674276626432/4855401473687552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4687674276626432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_410443785536868683196107'
-    }, 
-    {
-      title: 'Searching for the perfect HomeDepot Hammer', 
-      author: 'anthony', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/searching-for-the-perfect-homedepot-hammer/5659714895790080/6144350921998336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/searching-for-the-perfect-homedepot-hammer/5659714895790080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_71530945576615329933441'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'a.hugo.martinez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6555426637529088/6437888180142080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6555426637529088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2438397679738719174898'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'a.juan.lopez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6509612573704192/4765114650902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6509612573704192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_95143237985396204823520'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'a.diego.martin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6329824621936640/4751338241310720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6329824621936640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_176551521109356148695834'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'pinja.leikas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6167240748875776/5185706470457344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6167240748875776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_215676012119746014104860'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'a.iria.perez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5456400676601856/6264813175226368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5456400676601856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683065922469448555274914'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: pecera"', 
-      author: 'alejandro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/5617847823024128/6272272563486720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/5617847823024128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1104254441648786725224195'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: haz que llueva"', 
-      author: 'Salvador Andreo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6688015361818624/6630744224219136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6688015361818624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_876492401613538768489201'
-    }, 
-    {
-      title: 'Projet dérivé de "Défi : une créature colorée"', 
-      author: 'tom.janel2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5344376755896320/5273546470506496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/5344376755896320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1118869077323204696635754'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'Julio Galindo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5885765772165120/5357211155218432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5885765772165120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_897607017393597181919063'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6053706942693376/4730005608513536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6053706942693376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_740106055797632029760829'
     }, 
     {
       title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'albamarbart', 
+      author: 'victoriasa2100', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6196199834304512/4874395560755200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6196199834304512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1080398356407079546916730'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5901321841721344/6748880014458880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5901321841721344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_831098598496748643229314'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'venla.leikas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4825725598482432/6005868224364544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4825725598482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_861105779479535641632207'
+    }, 
+    {
+      title: 'Wishlist :)', 
+      author: 'Ellie Niland', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wishlist/6459361973288960/6471419422883840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wishlist/6459361973288960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8940369339073629394057229'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.alejandra.bengoechea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5105868564905984/6384616992980992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5105868564905984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733319760955181553834936'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.javier.delamorena', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6135663441526784/6510810752139264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6135663441526784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124985109405330824043460'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: pecera"', 
+      author: 'David Silva Santos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6420635799830528/6496009455976448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6420635799830528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_841568978473456180346339'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.blanca.gomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6421446673088512/5459160763514880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6421446673088512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_980918377835913449644991'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'ortubiag.bruno', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4795432187510784/5537431140220928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4795432187510784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1072620300389228250802942'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'jake.jones', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6731819803525120/5519132160475136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6731819803525120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815582010693318274182767'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.sara.gore', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5542420278460416/6175559127449600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5542420278460416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_221615827674991835360870'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'hertta.ulanen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6304691211517952/5186106573504512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6304691211517952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1079583030627057052646598'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'hernandom.marcos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5916677171888128/6047858542559232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5916677171888128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_52346418171458347104151'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'granadog.raquel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6683713586118656/5670572307824640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6683713586118656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_399842581446248312280674'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'a.sofia.latorre', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6729766574276608/6471402447486976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6729766574276608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_612110134840387568598389'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.pedro.aracil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6185436948250624/6040978608930816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6185436948250624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_170238383309363928150783'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'cabrerat.gemma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4790777265045504/4552108532875264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4790777265045504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_498655155333243811327003'
+    }, 
+    {
+      title: 'Derivado de "Desafío: mis comidas favoritas"', 
+      author: 'a.maria.gomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/4594596228415488/5540736788643840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/4594596228415488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1056958628486772349787068'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'ramirezg.david', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6109570545270784/5915358767923200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6109570545270784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_696684022048798576883203'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
+      author: 'Raúl Moya Funes 1ºA', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5554911788187648/6653428664418304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5554911788187648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_350638389447523538089173'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'sina.anaisabel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5442743351689216/5182078330388480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5442743351689216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453265947419570563622857'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: '20matthewmurray', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5049711867510784/6238973245833216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5049711867510784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_84162198132673298538688'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'molinaa.diego', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5834731997675520/5737875653312512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5834731997675520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_648269309179202004532865'
     }, 
   ];
 };
