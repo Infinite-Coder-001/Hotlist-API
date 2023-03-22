@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/4898015599181824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/4788541281583104.png', 
       link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -658,6 +658,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
     }, 
     {
+      title: 'JSOB (JavaScript Oriented Box)', 
+      author: 'IAFrancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jsob-javascript-oriented-box/6719894172516352/5755966357553152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jsob-javascript-oriented-box/6719894172516352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes" Oleg Samaruk', 
+      author: 'Oleg', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-oleg-samaruk/5888798925045760/6191557444419584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-oleg-samaruk/5888798925045760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3293094064589156966156'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'Alejandro Gómez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5220834890530816/4700884673282048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5220834890530816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
+    }, 
+    {
+      title: 'AC Repair in  UAE on Yellowpages.ae. ', 
+      author: 'Fixalis Tondy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ac-repair-in-uae-on-yellowpagesae/6617322250092544/4849139139788800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ac-repair-in-uae-on-yellowpagesae/6617322250092544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2632111343745035717359503'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes" Manon Dangotte 1baaa', 
+      author: 'manondangotte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-manon-dangotte-1baaa/6384380836888576/6358335520817152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-manon-dangotte-1baaa/6384380836888576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_897361265217259845745470'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'mateooou', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4586060886884352/4874883579559936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4586060886884352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3978589636241294266317132'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : attaque animale"', 
+      author: 'Kana_Hikari', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5729891644653568/5815963124809728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5729891644653568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_688463111893101540575192'
+    }, 
+    {
       title: 'Derivado de "Proyecto: página web de viajes"', 
       author: 'fa0092298', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6222718975655936/5563989939765248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6222718975655936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1013179207990871420835862'
-    }, 
-    {
-      title: 'Perfect Trip', 
-      author: 'MATHNERD01LRM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perfect-trip/6617820264972288/6000968169996288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/perfect-trip/6617820264972288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1076770985889314124094552'
-    }, 
-    {
-      title: 'business devil', 
-      author: 'C2_2333031_김세찬_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/business-devil/5117349213814784/6563918123417600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/business-devil/5117349213814784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1140846514309718537345394'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'dul1521-2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5262387205947392/5662933037400064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5262387205947392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869494544828589948237078'
-    }, 
-    {
-      title: 'beemo', 
-      author: 'C2_2333001_안새빈_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beemo/4620193293975552/6131638489890816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beemo/4620193293975552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
-    }, 
-    {
-      title: 'Random Wishlist', 
-      author: 'oko1357-2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/random-wishlist/5086610434867200/5769327044509696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/random-wishlist/5086610434867200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520069204476504229425433'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'gilbertmegan186', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6566954564632576/4620602587791360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6566954564632576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_202883459017771822567873'
-    }, 
-    {
-      title: '2333005 김범준', 
-      author: 'C2_2333005_김범준_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/2333005/6205910554034176/4989540298440704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/2333005/6205910554034176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_506017970211522612190870'
     }, 
   ];
 };
