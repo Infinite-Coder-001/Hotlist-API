@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'MIGRATION [Game]', 
       author: '▪Dipper98▪', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/5640532434141184.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
@@ -667,6 +667,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'aperin.duduyemi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6548315950071808/4705301376057344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6548315950071808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_148956104003052078078523'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : attaque animale"', 
+      author: 'Kana_Hikari', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/6164811038900224/5319651367370752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/6164811038900224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_688463111893101540575192'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Samantha Dieffenbach', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5219631340240896/5931679744311296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5219631340240896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5776548060271095146846570'
+    }, 
+    {
       title: 'Derivado de "Desafío: escribe un poema"', 
       author: 'juliomollom', 
       votes: 2, 
@@ -692,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4830193572429824/6367753411018752.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4830193572429824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_320099136526800057321050'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : attaque animale"', 
-      author: 'Kana_Hikari', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5108128523010048/5862950268354560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale/5108128523010048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_688463111893101540575192'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/c2_project_/5949453526941696/5894570018914304.png', 
       link: 'https://www.khanacademy.org/computer-programming/c2_project_/5949453526941696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_261625143408512150140986'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'erika01618g', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6476448060981248/6088450630795264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6476448060981248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1100026326668333005587968'
-    }, 
-    {
-      title: 'New program', 
-      author: 'C2_2333033_주수진_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5113332345651200/5002998662348800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5113332345651200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604178193938930671392069'
     }, 
   ];
 };
