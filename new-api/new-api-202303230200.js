@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
       votes: 72, 
-      forks: 24, 
+      forks: 23, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 37, 
+      votes: 36, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -229,7 +229,7 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 14, 
-      forks: 10, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'attempting buttons that actually look fine', 
-      author: 'Blake Meloche (T1)[Offline]', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000/6247899228061696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'snake', 
       author: 'quag', 
       votes: 26, 
@@ -406,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'attempting buttons that actually look fine', 
+      author: 'Blake Meloche (T1)[Offline]', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000/6247899228061696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
       title: 'The Humble Cubesphere', 
       author: 'Fifth', 
       votes: 14, 
@@ -458,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/5477064066252800.png', 
       link: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
-    }, 
-    {
-      title: 'Proof of Concept', 
-      author: 'ethankim8683', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/4825544874311680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
       title: 'Logo for the Knight_400.', 
@@ -824,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-to-coltthebolt12/5157519338291200/4681161764028416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-to-coltthebolt12/5157519338291200/5607183623700480.png', 
       link: 'https://www.khanacademy.org/computer-programming/sub-to-coltthebolt12/5157519338291200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -874,31 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Derivado de "SQL: CREATE table with multiple data types"', 
-      author: 'jenylizardi06', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'morganaltenhoff', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-sql-create-table-with-multiple-data-types/6678963805274112/5632791560896512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-sql-create-table-with-multiple-data-types/6678963805274112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1177511770862622946738890'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081097294462976/4797408409337856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081097294462976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1609555553549761897301390'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database" First attempt', 
-      author: 'vflo91', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'usmaangely5', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-first-attempt/5358879283396608/4953044602372096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-first-attempt/5358879283396608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866001309521602596693267'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5118251928698880/6673601521827840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5118251928698880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_116728345902903596743231'
     }, 
     {
-      title: 'New program', 
-      author: 'Seth | Flightsong', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Elikia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6086654713708544/6576776312832000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6086654713708544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6508760405426176/5656732044148736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6508760405426176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1080614886094773675154105'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'abyunwashington324', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6510535370915840/5365886824529920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6510535370915840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5103274171768110169743219'
     }, 
   ];
 };
