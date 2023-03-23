@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 58, 
+      votes: 59, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Flame Head', 
+      author: 'Archbirdplus', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
       votes: 44, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840/5367944415854592.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Flame Head', 
-      author: 'Archbirdplus', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
       title: 'Jump! Remastered!', 
@@ -422,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800/6465075085099008.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Basic British Accents.', 
+      author: 'Phase ✝', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Logo for the Knight_400.', 
@@ -847,58 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'erickdosmil35', 
+      title: 'Memory+: SpaceDog Edition!', 
+      author: '🐱', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4734899488866304/4988031020089344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4734899488866304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1003301591614182347725246'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-spacedog-edition/5469304318640128/4646052117659648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/memory-spacedog-edition/5469304318640128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959631688491450337269512'
     }, 
     {
-      title: 'Basic British Accents.', 
-      author: 'Phase ✝', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'kyraannfuller', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5293296069165056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5527293239017472/5279661225721856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5527293239017472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_199037131085502705330082'
     }, 
     {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Atwood Perry', 
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'Vane Nuñez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5655618993307648/6554333165699072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5655618993307648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_419368971197356554892950'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4990253041762304/6149884081389568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4990253041762304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4903707726664054903381558'
     }, 
     {
-      title: 'Adorable Fish Swimming in the Ocean', 
-      author: 'dorris4m', 
+      title: 'Chill Pills', 
+      author: 'cestrada0123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/adorable-fish-swimming-in-the-ocean/5911212966854656/5212122952024064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/adorable-fish-swimming-in-the-ocean/5911212966854656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_20167202280387015063881'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chill-pills/6148158642241536/5803501159759872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chill-pills/6148158642241536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1171776287521836611830034'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Sienna Anderson', 
+      title: 'Spin-off of "Challenge: Flower Grower"', 
+      author: 'angelyli123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5905588522631168/5913191000621056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5905588522631168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9443255385416136152477622'
-    }, 
-    {
-      title: 'Nuevo script de SQL', 
-      author: 'Andre Michelle Messi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5976880802217984/6506970044743680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5976880802217984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_897396159307019232903799'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/6157146331070464/6264823644209152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/6157146331070464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_522460336363984623709643'
     }, 
   ];
 };
