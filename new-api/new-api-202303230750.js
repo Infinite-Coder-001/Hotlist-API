@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'ethankim8683', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/6422767714222080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/5834847019122688.png', 
       link: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'Salvador Fernando Murillo Rosales ', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Lehlohonolo Moloi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4873791785451520/4621094364692480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4873791785451520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3636603392765094243367629'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6722937811156992/6755087718596608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6722937811156992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6612206636487436247862615'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Michał Samba', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'rekha m', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6233610056417280/6673476833558528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6233610056417280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3475209406565917548661360'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6568699224178688/6435961266552832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6568699224178688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2459082108518013025026243'
     }, 
     {
-      title: 'bucle', 
-      author: 'Edgar Amador', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'mauryarohit004', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bucle/6035981548699648/6257141360148480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bucle/6035981548699648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5006239831219475487574501'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6439812761698304/5678515514294272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6439812761698304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9131696530665690468467768'
     }, 
   ];
 };
