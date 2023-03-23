@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/4863065571246080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5761778085838848.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -730,15 +730,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Wikimedia images on PJS', 
-      author: 'Bob Lyon', 
-      votes: 32, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: 'My Book Shelf Room. Enoy!:)', 
       author: 'MidnightMay', 
       votes: 6, 
@@ -791,6 +782,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pokekhan-battle/6388447905628160/6070586502856704.png', 
       link: 'https://www.khanacademy.org/computer-programming/pokekhan-battle/6388447905628160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
+    }, 
+    {
+      title: 'Wikimedia images on PJS', 
+      author: 'Bob Lyon', 
+      votes: 31, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312/5399186007965696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wikimedia-images-on-pjs/6266740477837312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Spin-off of "Sub Page Contest! :)"', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'pong', 
-      author: 'tom.dymock', 
+      title: 'Memory+: SpaceDog Edition!', 
+      author: '🐱', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pong/4771734873227264/4895441943838720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pong/4771734873227264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_501393226392794053751412'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'Jesus Manuel Meraz Marrufo ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5561545368322048/6489170827853824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5561545368322048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231084613927632435068449'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-spacedog-edition/5469304318640128/4646052117659648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/memory-spacedog-edition/5469304318640128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959631688491450337269512'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Darden Em', 
+      author: 'kyraannfuller', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4892569600573440/6712149725724672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4892569600573440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_833494208526420475608561'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5527293239017472/5279661225721856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5527293239017472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_199037131085502705330082'
     }, 
     {
-      title: 'Mis deseos', 
-      author: 'Danae Arriagada ', 
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'Vane Nuñez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mis-deseos/4613966967128064/6410052765532160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mis-deseos/4613966967128064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_74823922120071762926842'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4990253041762304/6149884081389568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4990253041762304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4903707726664054903381558'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Jack.S', 
+      title: 'Chill Pills', 
+      author: 'cestrada0123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5431460808146944/5818030879981568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5431460808146944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_403083469984047408784267'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chill-pills/6148158642241536/5803501159759872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chill-pills/6148158642241536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1171776287521836611830034'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Flower Grower"', 
+      author: 'angelyli123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/6157146331070464/6264823644209152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/6157146331070464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_522460336363984623709643'
     }, 
   ];
 };
