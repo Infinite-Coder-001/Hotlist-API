@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'sarasjod', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6209443802169344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6494097490886656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
@@ -820,6 +820,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7573706291484001756676971'
     }, 
     {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'Mikołaj Wasilewski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4705979460796416/5637546442014720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4705979460796416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_289441878202382036602959'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Zmiana odzieży"', 
+      author: 'Paweł Obrzut', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/6388245136195584/6516038062882816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/6388245136195584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5611464656491914477040142'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Znane postacie"', 
+      author: 'Michalina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6301452671959040/4711359561646080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6301452671959040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_205072091388685716128535'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'cabrerat.gemma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5746787978887168/5271970586607616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5746787978887168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_498655155333243811327003'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Znane postacie"', 
+      author: 'Michalina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5485978119880704/6086057142829056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5485978119880704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_205072091388685716128535'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Hobby Roberta "', 
+      author: 'sebastiankudzin123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-hobby-roberta/6479024085057536/4521220235378688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-hobby-roberta/6479024085057536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453898248649416880787417'
+    }, 
+    {
       title: 'Spin-off of "15 Random Facts You Don\'t Need To Know"', 
       author: 'Reader ✔', 
       votes: 2, 
@@ -829,76 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: '☃️𝐂ᵒ๏l ᔕηⓞฬ𝕞𝐀𝕟☃️', 
-      author: 'Skoniar', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/l/5724185914818560/5438199675797504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/l/5724185914818560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_661694846369502370652273'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'popovic.elena', 
+      title: 'Spin-off z "Projekt: Znane postacie"', 
+      author: 'aleksiwanina', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6111576593842176/6651715475783680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6111576593842176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_348644020929860827917992'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6577617525587968/5450520463720448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6577617525587968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_509046159574917245022286'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes 2"', 
-      author: 'raulleira2017', 
+      title: 'Spin-off z "Projekt: Data Mining"', 
+      author: 'Piotr  Stefaniak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-2/5461847265558528/5410853823496192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-2/5461847265558528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_463274169294210992321708'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'raulleira2017', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6260178640224256/5390055662469120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6260178640224256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_463274169294210992321708'
-    }, 
-    {
-      title: 'Derivado de "Tablas en HTML"', 
-      author: 'marcoskorni', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/5977133312950272/5411756790038528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/5977133312950272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1165038047932224807137712'
-    }, 
-    {
-      title: 'Derivado de "Desafío: el menú de la cena"', 
-      author: 'noa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/5842687213486080/4833464290689024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/5842687213486080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_262855341608199319619882'
-    }, 
-    {
-      title: 'Derivado de "Cambiar el tamaño de las figuras con expresiones variables"', 
-      author: 'olivanb.hugo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variables/6105712456679424/5317849927434240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variables/6105712456679424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_81710697619754419322390'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'rymarz.piotr_d_2022', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6123833963888640/5309439948406784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6123833963888640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1083472277355201074691305'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6171120580739072/5987193974996992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6171120580739072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4258130882159006027593538'
     }, 
   ];
 };
