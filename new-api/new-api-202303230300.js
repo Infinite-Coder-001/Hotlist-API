@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Subscribe [NEW]', 
+      author: 'Dominic R. [RESUB]', 
+      votes: 45, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/5488072366276608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
       votes: 7, 
@@ -208,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
-      title: 'Flying potatos for dinner!', 
-      author: 'proGamer194', 
-      votes: 24, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
-    }, 
-    {
       title: 'Dirt Diggy', 
       author: 'urfav.isabela', 
       votes: 6, 
@@ -224,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dirt-diggy/5620799676661760/5434994391826432.png', 
       link: 'https://www.khanacademy.org/computer-programming/dirt-diggy/5620799676661760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
+    }, 
+    {
+      title: 'Flying potatos for dinner!', 
+      author: 'proGamer194', 
+      votes: 23, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
@@ -347,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'All Hallow\'s Eve(Online)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/6209214018273280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/4839663639773184.png', 
       link: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -451,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135390373166178418179921'
     }, 
     {
-      title: 'My new logo?(in progress)', 
-      author: 'Green Light', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896/6676790129246208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'HTML Game', 
       author: 'Arctic (learningwithameer)', 
       votes: 5, 
@@ -503,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864/4999496821161984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_121237126065047383627188'
-    }, 
-    {
-      title: 'Capy adventure!', 
-      author: 'Aleksandra J', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/capy-adventure/4515115744673792/5332787488145408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/capy-adventure/4515115744673792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
     }, 
     {
       title: 'crossy!!!!!!!!!!!!!!!!!', 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: '"Kod ile Çizimler Yapma" uyarlaması', 
-      author: 'mursel', 
+      title: 'Spin-off of "Project: Famous people" Athletes', 
+      author: 'brahyun', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kod-ile-izimler-yapma-uyarlamas/5706080278855680/5154956044976128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kod-ile-izimler-yapma-uyarlamas/5706080278855680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614275906472546043783516'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-athletes/5489238248570880/5599139888152576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-athletes/5489238248570880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_971114337360989171943253'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 's5203510', 
+      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
+      author: 'mendozamedranojimmyweimar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5079922902351872/6614351572418560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5079922902351872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6670757970166879429013'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/4711228011495424/5074769075814400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/4711228011495424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1074369970416286310914487'
+    }, 
+    {
+      title: 'New program', 
+      author: 'colekoda29', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6401608557838336/5321613798326272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6401608557838336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_33350906695566252337764'
     }, 
   ];
 };
