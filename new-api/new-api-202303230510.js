@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive voronine', 
       author: 'YokieBob', 
-      votes: 21, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520/6259588280401920.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Top-Down Movement #TT', 
       author: 'Dominic R. [RESUB]', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/4870405975490560.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
+      title: 'I was bored.', 
+      author: 'Wort-Head Productions😐', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6383743440044032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'spring :>', 
       author: 'marci', 
       votes: 53, 
@@ -95,18 +104,9 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5926174062854144.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6723477936848896.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'I was bored.', 
-      author: 'Wort-Head Productions😐', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6383743440044032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Basic British Accents.', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
     }, 
     {
+      title: 'bane of my existence', 
+      author: 'Snowflake', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bane-of-my-existence/6355665625071616/6376078500478976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bane-of-my-existence/6355665625071616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
+    }, 
+    {
       title: 'Smooth', 
       author: 'Kopter Coding', 
       votes: 20, 
@@ -305,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896/6676790129246208.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'bane of my existence', 
-      author: 'Snowflake', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bane-of-my-existence/6355665625071616/6376078500478976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bane-of-my-existence/6355665625071616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
       title: 'Spider-Gwen (PenGwen) & Spider-Man (Aragorn Elessar)', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: '"Project: Design a store database"', 
-      author: 'Aimi Sugiura', 
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'Alyx', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6133228265324544/6445823333548032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6133228265324544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6962259751338418350438911'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5526620808200192/5592927620612096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5526620808200192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063879345218512534038498'
     }, 
   ];
 };
