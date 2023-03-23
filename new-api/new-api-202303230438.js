@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 73, 
-      forks: 25, 
+      votes: 72, 
+      forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6468099950034944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Fibonacci Sequence', 
-      author: 'Joe H', 
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Shraddha Shoraff', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-sequence/5380188931407872/4562624287391744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fibonacci-sequence/5380188931407872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6612519604240384/4600424499036160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6612519604240384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8518458875992800565426067'
     }, 
   ];
 };
