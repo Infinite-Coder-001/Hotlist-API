@@ -829,76 +829,76 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_661694846369502370652273'
     }, 
     {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Mohamed Mahmoud', 
+      title: 'THE END', 
+      author: 'monsimir', 
+      votes: 15, 
+      forks: 17, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216/6044235267883008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-end/6072211913097216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453268912170521928426459'
+    }, 
+    {
+      title: 'my logo lol', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-lol/6093473175617536/5455371763499008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo-lol/6093473175617536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'milosz zarebski obrazki', 
+      author: 'milosz zarębski', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6054234186629120/6384722726141952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6054234186629120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2530594429720032464934028'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/milosz-zarebski-obrazki/5582488833671168/4990309278990336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/milosz-zarebski-obrazki/5582488833671168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1328427108631967931109513'
+    }, 
+    {
+      title: 'Jakub Borzęcki obrazki', 
+      author: 'jakubborzeckizs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jakub-borzcki-obrazki/5266822162333696/6568510953406464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jakub-borzcki-obrazki/5266822162333696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_362927214195186141184891'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'kamilaolenetszs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6018854024429568/4866170298875904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6018854024429568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1206922932862342329045897'
     }, 
     {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'rymarz.piotr_d_2022', 
+      author: 'kaluzny.jakub_d_2022', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4604534547857408/5628689863983104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4604534547857408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1083472277355201074691305'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4949743215362048/6151096436572160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4949743215362048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_972070189888963091618286'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'chretiennetolentino', 
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Blanka Hardek', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6386379744657408/5154966986866688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6386379744657408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_547385538688202379415580'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4506853063311360/5195900457893888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4506853063311360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8348043751156252236047044'
     }, 
     {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Paul Mabena', 
+      title: 'Kacper Tofiło obrazki', 
+      author: 'kacpertofilozs7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6372210613993472/5177112439078912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6372210613993472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_219170520162755744276055'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'jankovic.maksim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6020912857268224/4739425008664576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6020912857268224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_722050723410033657062736'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'sreejanpuri2001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6335268422729728/5515796886634496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6335268422729728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9969880359511869325415535'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'rymarz.piotr_d_2022', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4546105443663872/4888312751112192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4546105443663872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1083472277355201074691305'
-    }, 
-    {
-      title: 'Spin-off z "Rysowanie innych kształtów"', 
-      author: 'lucja wierzba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5816823158456320/4709133426409472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5816823158456320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6937252159207954841238247'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kacper-tofio-obrazki/6264786667225088/6248976526655488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kacper-tofio-obrazki/6264786667225088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1131177318608012603614603'
     }, 
   ];
 };
