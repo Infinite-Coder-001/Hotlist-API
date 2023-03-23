@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6468099950034944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5926174062854144.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Fibonacci Sequence', 
-      author: 'Joe H', 
+      title: '"응용: 시 써보기" 프로젝트', 
+      author: 'kjoonie7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fibonacci-sequence/5380188931407872/4562624287391744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fibonacci-sequence/5380188931407872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6625809474568192/4729608592474112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6625809474568192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4481729338916253530837159'
     }, 
   ];
 };
