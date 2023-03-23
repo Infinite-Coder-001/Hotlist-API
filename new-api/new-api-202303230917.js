@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
-      author: 'Wiktoria Krawczyk', 
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'Obakeng Pitse', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5003145395879936/5345427210944512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5003145395879936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8420574292058625984807390'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5791406531854336/6710030998224896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5791406531854336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_281251194146601130186267'
     }, 
     {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'samanthajulianne', 
+      title: '', 
+      author: 'alejandratrabajos.6', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4970638664318976/6610632734720000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4970638664318976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_33967218614506491464724'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6037016115724288/6662235961475072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6037016115724288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_316415390579610916083335'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Żabka"', 
-      author: 'Daniel Bogusz', 
+      title: 'Spin-off z "Wyzwanie: Eksplodujące słońce"', 
+      author: 'nicolabetian420', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-abka/5504551454294016/4992212791508992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-abka/5504551454294016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3915280970749343396338397'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-eksplodujce-soce/5420321089044480/5195149509705728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-eksplodujce-soce/5420321089044480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770348973380210203832383'
     }, 
     {
-      title: 'kasper, xander og jonatan', 
-      author: 'jonatanhagbarth', 
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Lesego Matsimela', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kasper-xander-og-jonatan/6249845519335424/6495474061459456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kasper-xander-og-jonatan/6249845519335424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7653184057607209020386594'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6516688381329408/5345648368205824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6516688381329408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7028200991515764564613694'
     }, 
     {
-      title: 'Projecte: Enemics amb objectes 2.0', 
-      author: 'pau.cazorla', 
+      title: 'Spin-off z "Projekt: Magiczna ósemka"', 
+      author: 'm.hurskyi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projecte-enemics-amb-objectes-20/5143777654390784/4522455739973632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projecte-enemics-amb-objectes-20/5143777654390784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_259212718268674726904100'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-magiczna-semka/5415199004999680/4627413419212800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-magiczna-semka/5415199004999680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_131412638345724010112613'
     }, 
   ];
 };
