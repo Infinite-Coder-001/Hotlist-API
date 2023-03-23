@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 61, 
+      votes: 60, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5512000370425856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/6293320520482816.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -271,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Merp Merp Merp', 
-      author: 'StuffStash', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/5544646413697024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 87, 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5896510303944704.png', 
       link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
+    }, 
+    {
+      title: 'Merp Merp Merp', 
+      author: 'StuffStash', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/5544646413697024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'My new logo?(in progress)', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Bhanusridevi Prathipati', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'stripathi50', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6399235689070592/4942827680481280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6399235689070592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8077810349207660828817160'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5014156316295168/5130196434075648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5014156316295168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_725935873312486036606738'
     }, 
   ];
 };
