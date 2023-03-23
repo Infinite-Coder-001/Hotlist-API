@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'suorsa.leo', 
+      title: 'Derivado de "Proyecto: Bola 8 mágica" 22222', 
+      author: 'James P. Sullivan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6521603501637632/5947699902070784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6521603501637632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1172943412829669207413064'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160/5963998333026304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
     {
-      title: 'jic de disparar noah', 
-      author: 'noah.vankerkhoven', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Phemelo Motsamai', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jic-de-disparar-noah/5314104111972352/6290259852967936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jic-de-disparar-noah/5314104111972352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1070699240043724459195626'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6689267948765184/6607699577192448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6689267948765184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'Mario Álvarez', 
+      title: 'Spin-off von "Challenge: Schreibe ein Gedicht"_Jetmir', 
+      author: 'Jetmir 5', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5722677103083520/4699610292731904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5722677103083520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_395273416850794590293983'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_jetmir/4566218906583040/4855971261497344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_jetmir/4566218906583040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5276777851779853388168618'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Alejandro Gómez', 
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'majazaorska07', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5005130778066944/5254296561303552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5005130778066944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4689633922564096/5438322753454080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4689633922564096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_983398865696584059273687'
     }, 
   ];
 };
