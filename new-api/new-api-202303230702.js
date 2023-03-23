@@ -291,7 +291,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'natural selection', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 88, 
+      votes: 87, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
@@ -302,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'Kobi', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5915543082418176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5896510303944704.png', 
       link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
@@ -874,30 +874,30 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database" 2023', 
-      author: 'nyna.sabrina29', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-2023/5984782283751424/6309874428592128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-2023/5984782283751424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_802382186558993692169939'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
-      author: 'abhishekanand.8678', 
+      author: 'Katherine Powell', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5684265468870656/6429839579201536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5684265468870656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3627686410468896686085454'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5040063793905664/5341735669776384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5040063793905664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Katherine Powell', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5044933850611712/5636410976813056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5044933850611712', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5178638430683136/6473901984235520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5178638430683136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Katherine Powell', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5804280645992448/6200877285425152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5804280645992448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
     }, 
   ];
