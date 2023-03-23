@@ -874,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
+      title: 'Modal', 
+      author: 'Avinasen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/modal/4968228855267328/5529974402760704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/modal/4968228855267328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'zolainialtagracianovasflorian', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6055258768064512/5506971970355200.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6055258768064512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_199450385359660994727014'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'noemidayanisantos2006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6106869983920128/4971472427991040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6106869983920128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1084774923275385846205925'
     }, 
   ];
 };
