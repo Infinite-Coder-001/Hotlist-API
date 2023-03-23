@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 59, 
+      votes: 60, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive voronine', 
       author: 'YokieBob', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520/6259588280401920.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520', 
@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/4660836066181120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5711258432356352.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Spin-off of "Project: Design a cake store database"', 
-      author: 'samuelagraciada', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Bhanusridevi Prathipati', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-cake-store-database/5359060742619136/4854304394756096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-cake-store-database/5359060742619136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063378907953469495018395'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5723045131239424/4972451408953344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5723045131239424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8077810349207660828817160'
     }, 
   ];
 };
