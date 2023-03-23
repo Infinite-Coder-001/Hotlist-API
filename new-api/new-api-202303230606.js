@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_545501596399865825346370'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'liam', 
+      title: ' "Proyecto: ¿qué hay de cena?" -. PIZZA!', 
+      author: 'monicarox.contre', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6635802722615296/5220461949796352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6635802722615296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639890822490358034215111'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/6346451041173504/5340808711815168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/6346451041173504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'ses22010040', 
+      title: 'Projeto: estrela cadente"', 
+      author: 'Debora Silva', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5585229529268224/6471386240696320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5585229529268224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4098644236061344600257865'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-estrela-cadente/5173475943956480/5632488228831232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projeto-estrela-cadente/5173475943956480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7754604941074288665960407'
     }, 
   ];
 };
