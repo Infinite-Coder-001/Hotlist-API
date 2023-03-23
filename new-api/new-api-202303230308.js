@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Logo/Intro contest!', 
+      author: 'Arwen Undómiel', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
       votes: 7, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
-    }, 
-    {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Jump! Remastered!', 
@@ -293,7 +293,7 @@ var LoadHotlistAPI = function() {
       author: 'The No-Sock Guy(alt)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/5477064066252800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/6473711361507328.png', 
       link: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
     }, 
@@ -343,12 +343,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Warning don\'t upvote!!', 
+      title: ':3', 
       author: 'All Hallow\'s Eve(Online)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/6209214018273280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6177558636052480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3/5449022694539264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_121237126065047383627188'
     }, 
     {
+      title: 'New program', 
+      author: 'calvin.armour77', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5224702726684672/5036238622212096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5224702726684672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
+    }, 
+    {
       title: 'Capy adventure!', 
       author: 'Aleksandra J', 
       votes: 2, 
@@ -611,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256/5431615997394944.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time/5287892966752256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'TAJ remake thingy wip', 
+      author: 'Electric Dolphin ⚡️🐬', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/taj-remake-thingy-wip/6506709662351360/5318971185479680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/taj-remake-thingy-wip/6506709662351360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1188776231699286995947997'
     }, 
     {
       title: 'My Logo (. ❛ ᴗ ❛.)', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/he-now-moves-and-jumps/6690142917279744/5175379691356160.png', 
       link: 'https://www.khanacademy.org/computer-programming/he-now-moves-and-jumps/6690142917279744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: '"Kod ile Çizimler Yapma" uyarlaması', 
-      author: 'mursel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kod-ile-izimler-yapma-uyarlamas/5706080278855680/5154956044976128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kod-ile-izimler-yapma-uyarlamas/5706080278855680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614275906472546043783516'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 's5203510', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5079922902351872/6614351572418560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5079922902351872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6670757970166879429013'
     }, 
   ];
 };
