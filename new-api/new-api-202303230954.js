@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
-      title: 'HZH FISH TANK', 
-      author: 'CIYCLUB USJ', 
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Oliwier Kamiński', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hzh-fish-tank/6616107177000960/5372132277403648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hzh-fish-tank/6616107177000960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_600084207153834715093223'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6464443761606656/5873385495379968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6464443761606656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3574203016822612494292574'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'ks0109161', 
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'Obakeng Pitse', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6257760103874560/6074107067416576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6257760103874560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165735105275900046144572'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6252437364326400/4845062480773120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6252437364326400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_281251194146601130186267'
     }, 
     {
-      title: 'Sub to ColtTheBolt12!', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-to-coltthebolt12/5157519338291200/5185192315895808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub-to-coltthebolt12/5157519338291200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Naina Singh', 
+      title: 'Spin-off of "Making animations"', 
+      author: 'charlesserrano40', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4843072786841600/4684124885663744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4843072786841600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5481997713433993435303588'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6420444170469376/5379417276989440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6420444170469376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1521089121964793752798955'
     }, 
     {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'lajst.luka', 
+      title: 'Stick Fig', 
+      author: '123chaitra321', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5889326467825664/5728524200886272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5889326467825664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_644824150849123051321766'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/stick-fig/6389402160119808/5431894096527360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/stick-fig/6389402160119808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_50913583925032383381262'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'Phemelo Motsamai', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6160389051301888/6336454642155520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6160389051301888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
     }, 
   ];
 };
