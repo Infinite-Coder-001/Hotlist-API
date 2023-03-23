@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'sarasjod', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6209443802169344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6494097490886656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
