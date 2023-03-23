@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'Sara Chbihi', 
+      title: 'Spin-off of "Project: Famous People" Movie Stars', 
+      author: 'Gabrielle Santana', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5501575444611072/5002972624109568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5501575444611072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_227117509008244799905231'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-movie-stars/5210775020158976/6175077822676992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-movie-stars/5210775020158976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4366635497533893240271523'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'William Tull', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Cindy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6100293214584832/5513690842710016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6100293214584832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4881129887309238418368509'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4661915545812992/5991398378881024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4661915545812992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5004032472516214253946151'
     }, 
     {
-      title: 'Challenge: Book list database', 
-      author: 'Courtney Day', 
+      title: 'Spin-off of "Challenge: Optical illusion"', 
+      author: 'Reagan Orkins', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6710975518785536/6281920368656384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6710975518785536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5624633868114375266773462'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/6301974208495616/4735102590697472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/6301974208495616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_148247614121233863862519'
     }, 
     {
       title: 'New program', 
-      author: 'pizza', 
+      author: 'Beigh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6021460261126144/5019054488469504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6021460261126144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8074828596221978114249663'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864/4999496821161984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_121237126065047383627188'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Denielle Gallardo', 
+      title: 'Spin-off of "Project: Animal attack" (Oof)', 
+      author: 'dscales4017', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5420524428902400/4789954560704512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5420524428902400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_789492379442974912926276'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-oof/5229185028374528/6531364150362112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-oof/5229185028374528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546382742744624529997143'
     }, 
   ];
 };
