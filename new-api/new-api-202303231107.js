@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 63, 
+      votes: 64, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
-      votes: 64, 
+      votes: 65, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712/4683412930871296.png', 
       link: 'https://www.khanacademy.org/computer-programming/canvas-api-rasterizer/5761602123251712', 
@@ -802,6 +802,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Derivado de "¡Bucles for! Una nueva clase de bucle"', 
+      author: 'LUCIA AND DAVID', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-bucles-for-una-nueva-clase-de-bucle/5170868801290240/4730761422094336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-bucles-for-una-nueva-clase-de-bucle/5170868801290240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_274938798721518622847419'
+    }, 
+    {
+      title: 'Spin-off of "Intro to Arrays"', 
+      author: 'silkbathroom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-arrays/6689049479004160/4849181723508736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-arrays/6689049479004160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178961764855795444949681'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
+      author: 'dominikaw', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6668266736238592/4935403997282304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/6668266736238592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_735380264783001040788998'
+    }, 
+    {
+      title: 'OVNI', 
+      author: 'Jorge Luiz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ovni/5798534113968128/6015484186378240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ovni/5798534113968128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8561123332204112237580655'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'sahasra', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6372914351095808/5910605212205056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6372914351095808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341301170083481899682591'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Odtwórca aplikacji"', 
+      author: 'Oliwier Kuczmaszewski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-odtwrca-aplikacji/4510806483189760/6523126554083328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-odtwrca-aplikacji/4510806483189760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189658051541344041272599'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Zmiana odzieży"', 
+      author: 'Oliwier Kuczmaszewski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/5488292301946880/6239458677800960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/5488292301946880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189658051541344041272599'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
+      author: 'Aleksandra Nossek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/5412141206388736/6027759471345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/5412141206388736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5831633591682722914405056'
+    }, 
+    {
+      title: 'Spin-off of "Project: Word game (Anandita)"', 
+      author: 'Anandita Nabilla Ramadhani09031282126089', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-anandita/4542401856454656/6348121736265728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-anandita/4542401856454656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1158535700860359733756629'
+    }, 
+    {
       title: 'Wikimedia images on PJS', 
       author: 'Bob Lyon', 
       votes: 32, 
@@ -811,94 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'My Book Shelf Room. Enoy!:)', 
-      author: 'MidnightMay', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-book-shelf-room-enoy/5974336151535616/4663494952927232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-book-shelf-room-enoy/5974336151535616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7573706291484001756676971'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'Mikołaj Wasilewski', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Sebberlinde10', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4705979460796416/5637546442014720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4705979460796416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_289441878202382036602959'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Zmiana odzieży"', 
-      author: 'Paweł Obrzut', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/6388245136195584/6516038062882816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zmiana-odziey/6388245136195584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5611464656491914477040142'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Znane postacie"', 
-      author: 'Michalina', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6301452671959040/4711359561646080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6301452671959040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205072091388685716128535'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'cabrerat.gemma', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5746787978887168/5271970586607616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5746787978887168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_498655155333243811327003'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Znane postacie"', 
-      author: 'Michalina', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5485978119880704/6086057142829056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5485978119880704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205072091388685716128535'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Hobby Roberta "', 
-      author: 'sebastiankudzin123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-hobby-roberta/6479024085057536/4521220235378688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-hobby-roberta/6479024085057536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453898248649416880787417'
-    }, 
-    {
-      title: 'Spin-off of "15 Random Facts You Don\'t Need To Know"', 
-      author: 'Reader ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-15-random-facts-you-dont-need-to-know/4629705099886592/4784901464571904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-15-random-facts-you-dont-need-to-know/4629705099886592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Znane postacie"', 
-      author: 'aleksiwanina', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6577617525587968/5450520463720448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/6577617525587968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_509046159574917245022286'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Data Mining"', 
-      author: 'Piotr  Stefaniak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6171120580739072/5987193974996992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/6171120580739072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4258130882159006027593538'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5335527026114560/6468239237627904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5335527026114560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_23629041401643267238279'
     }, 
   ];
 };
