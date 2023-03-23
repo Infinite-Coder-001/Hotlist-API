@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 47, 
+      votes: 46, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6383743440044032.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: ' a nerd store database', 
-      author: 'Gamemaker', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
-    }, 
-    {
       title: 'Logo/Intro contest!', 
       author: 'Arwen Undómiel', 
       votes: 7, 
@@ -172,13 +163,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Basic British Accents.', 
-      author: 'Phase ✝', 
-      votes: 6, 
+      title: ' a nerd store database', 
+      author: 'Gamemaker', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
       title: 'Cool art!!', 
@@ -215,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720/4815720469020672.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-random-facts-you-dont-need-to-know/5250898722078720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'Basic British Accents.', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Dirt Diggy', 
@@ -467,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/4825544874311680.png', 
       link: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Beigh', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864/4999496821161984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_121237126065047383627188'
     }, 
     {
       title: 'Logo for the Knight_400.', 
@@ -874,31 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'trabalho', 
-      author: 'Gustavo Pierre', 
+      title: 'My new logo?', 
+      author: 'Green Light', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/trabalho/5959882915495936/6542273769947136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/trabalho/5959882915495936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4887229110643246911004579'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/4852742080479232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'austin.bolkcom', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'alejandra.torres', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6740281691258880/4731539549372416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6740281691258880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_666417691103231682011489'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6134649194856448/6678436044390400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6134649194856448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_86314005698059342754833'
     }, 
     {
-      title: 'New program', 
-      author: 'eenangamokosso', 
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'Jesus Manuel Meraz Marrufo ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6278730684350464/5146939555627008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6278730684350464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_935631660263475620374024'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4630817667334144/6303244478627840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4630817667334144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231084613927632435068449'
+    }, 
+    {
+      title: 'move a box \'round the screen controlled by arrow keys', 
+      author: 'Dominic R. [RESUB]', 
+      votes: 73, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456/6733663113101312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-a-box-round-the-screen-controlled-by-arrow-keys/5130588950675456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
   ];
 };
