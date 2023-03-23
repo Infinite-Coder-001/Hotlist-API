@@ -815,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'Jme', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6366061529448448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360/6144838233014272.png', 
       link: 'https://www.khanacademy.org/computer-programming/curve-explorer/6018337487503360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567701916296046823162388'
     }, 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Programa parcial 3', 
-      author: 'Tomas Parreno', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Erika Pimentel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/programa-parcial-3/6285135755657216/5133021448814592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/programa-parcial-3/6285135755657216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2976100719241231094954378'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6710291478134784/6524480928399360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6710291478134784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5063330496166525332333036'
     }, 
     {
-      title: 'Fish Project', 
-      author: 'jparkerstraus', 
+      title: 'Derivado de "Proyecto: diseño de anuncio" TEXT MIO DAN', 
+      author: 'Dan RoLed', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-project/5930369057865728/4842148815224832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-project/5930369057865728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_399107395301547950635007'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio-text-mio-dan/5107938101608448/4876559019458560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio-text-mio-dan/5107938101608448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2279658855971866861498998'
     }, 
     {
-      title: '"Project: Design a store database"', 
-      author: 'courtney.cookej', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'okysi5002', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6228346288783360/4531365954764800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6228346288783360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1119565653775519474329754'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4942533710102528/6506458977189888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4942533710102528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_87198859649069583854497'
     }, 
     {
-      title: 'Challenge: Book list database', 
-      author: 'davis.jaimemarie', 
+      title: 'Spin-off of "Challenge: Balls in yo Jaws"', 
+      author: 'nurulmuhairotin', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4581931141611520/5877740323782656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4581931141611520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3789769398997384635845744'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-balls-in-yo-jaws/4695040313311232/6413931624316928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-balls-in-yo-jaws/4695040313311232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2809967095941550595467979'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'artaisha20', 
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'duvalnovassintia14', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5014878642552832/6178047087919104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5014878642552832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2754899687069401240834706'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6138277603360768/4583463069204480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6138277603360768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8814638763247879033168452'
     }, 
   ];
 };
