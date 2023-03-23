@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5975542466920448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/4660836066181120.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'deliriousvg', 
+      title: 'Spin-off of "Project: Design a cake store database"', 
+      author: 'samuelagraciada', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6133123609051136/5403327430180864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6133123609051136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_726141430704421384485125'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-cake-store-database/5359060742619136/4854304394756096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-cake-store-database/5359060742619136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063378907953469495018395'
     }, 
   ];
 };
