@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Oliwier Kamiński', 
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'ktol9137', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6464443761606656/5873385495379968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6464443761606656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3574203016822612494292574'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6102684571844608/6250176550584320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6102684571844608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1187252111989392526814792'
     }, 
     {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'Obakeng Pitse', 
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Teresa Kierzek', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6252437364326400/4845062480773120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6252437364326400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_281251194146601130186267'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643138737946624/5199081535488000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643138737946624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_758181857040345768176165'
     }, 
     {
-      title: 'Spin-off of "Making animations"', 
-      author: 'charlesserrano40', 
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'yax', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6420444170469376/5379417276989440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6420444170469376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1521089121964793752798955'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4852464135487488/6241134654570496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4852464135487488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_747300242279646499583322'
     }, 
     {
-      title: 'Stick Fig', 
-      author: '123chaitra321', 
+      title: 'Zuzanna Bryda obrazki', 
+      author: 'zuzannabrydazs7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stick-fig/6389402160119808/5431894096527360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stick-fig/6389402160119808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_50913583925032383381262'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zuzanna-bryda-obrazki/5367000009588736/6271063194648576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zuzanna-bryda-obrazki/5367000009588736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_550889031579094792529547'
     }, 
     {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'Phemelo Motsamai', 
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'lhut7647', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6160389051301888/6336454642155520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6160389051301888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6085228043223040/6507942619955200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6085228043223040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_226756307159706396839252'
     }, 
   ];
 };
