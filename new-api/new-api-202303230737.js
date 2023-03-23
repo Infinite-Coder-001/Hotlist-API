@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'ethankim8683', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/4825544874311680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/5834847019122688.png', 
       link: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
@@ -875,30 +875,30 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Ashley Keomanywong', 
+      author: 'Lehlohonolo Moloi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6533637060476928/4553804742967296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6533637060476928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2057714761944407617500822'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6722937811156992/6755087718596608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6722937811156992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6612206636487436247862615'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Barbara Jesiotr', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'rekha m', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6013107593068544/5395058477285376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6013107593068544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4353180751998511016738624'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6568699224178688/6435961266552832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6568699224178688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2459082108518013025026243'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Małgorzata Kirowska', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'mauryarohit004', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4527509711667200/6415327891341312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4527509711667200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4846096874188985761494074'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6439812761698304/5678515514294272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6439812761698304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9131696530665690468467768'
     }, 
   ];
 };
