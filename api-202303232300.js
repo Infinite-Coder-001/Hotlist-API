@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 41, 
+      votes: 42, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5180222434754560.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'NIKO Ψ', 
       votes: 65, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5455035279654912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/6659922822742016.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Ramadan 2023', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4960267361632256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
       votes: 28, 
@@ -48,20 +57,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 91, 
+      votes: 92, 
       forks: 37, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
-    }, 
-    {
-      title: 'Ramadan 2023', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4960267361632256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Logo Tutorial :D', 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5820893344612352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6176326869630976.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
+      title: 'new logo', 
+      author: 'Dominic R.', 
+      votes: 43, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Expired Mario Kart', 
       author: 'urfav.isabela', 
       votes: 21, 
@@ -127,12 +136,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
     {
-      title: 'new logo', 
+      title: 'Top-Down Movement #TT', 
       author: 'Dominic R.', 
-      votes: 42, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
+      votes: 34, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/keys-performance/6236262752370688/6588778031661056.png', 
       link: 'https://www.khanacademy.org/computer-programming/keys-performance/6236262752370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'Top-Down Movement #TT', 
-      author: 'Dominic R.', 
-      votes: 33, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'trying out nikos drawing tool :)', 
@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/4853491303759872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/4994463757025280.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
