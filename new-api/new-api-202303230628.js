@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'zolainialtagracianovasflorian', 
-      votes: 1, 
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'Daniel Cheng', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5967085105889280/4672989515005952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5967085105889280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457601371365195595553296'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5892818813108224/5382199345201152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5892818813108224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_545501596399865825346370'
     }, 
     {
-      title: 'Project: Design a store database', 
-      author: 'Lethe', 
+      title: 'Snickerdoodles', 
+      author: 'cre1324-1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6055258768064512/5506971970355200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6055258768064512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_199450385359660994727014'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snickerdoodles/5557867467030528/5602593307148288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snickerdoodles/5557867467030528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_731794662443539464594061'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'noemidayanisantos2006', 
+      title: 'Spin-off von "Projekt: Reise-Website"_Test', 
+      author: 'lina.mayer98', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6106869983920128/4971472427991040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6106869983920128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1084774923275385846205925'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website_test/5753013668200448/5097740171526144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website_test/5753013668200448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8074842753756485483253719'
     }, 
   ];
 };
