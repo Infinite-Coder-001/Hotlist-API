@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 62, 
+      votes: 61, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 48, 
+      votes: 47, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/5761517703446528.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: 'Chikn Nuggit', 
-      author: 'StuffStash', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/4587071778111488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 64, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840/5367944415854592.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Chikn Nuggit', 
+      author: 'StuffStash', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/4587071778111488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: ' a nerd store database', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_545501596399865825346370'
     }, 
     {
-      title: 'Snickerdoodles', 
-      author: 'cre1324-1', 
+      title: ' "Proyecto: ¿qué hay de cena?" -. PIZZA!', 
+      author: 'monicarox.contre', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snickerdoodles/5557867467030528/5602593307148288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snickerdoodles/5557867467030528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_731794662443539464594061'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/6346451041173504/5340808711815168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/6346451041173504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
     }, 
     {
-      title: 'Spin-off von "Projekt: Reise-Website"_Test', 
-      author: 'lina.mayer98', 
+      title: 'Projeto: estrela cadente"', 
+      author: 'Debora Silva', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website_test/5753013668200448/5097740171526144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website_test/5753013668200448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8074842753756485483253719'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-estrela-cadente/5173475943956480/5632488228831232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projeto-estrela-cadente/5173475943956480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7754604941074288665960407'
     }, 
   ];
 };
