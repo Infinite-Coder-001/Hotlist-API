@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'sarasjod', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6232440197922816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
-    }, 
-    {
       title: 'Cool art!!', 
       author: 'ArcticWolf', 
       votes: 10, 
@@ -865,40 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Derivado de "Proyecto: Bola 8 mágica" 22222', 
-      author: 'James P. Sullivan', 
+      title: 'Spin-off z "Wyzwanie: Królik z ogromnymi ząbkami"', 
+      author: 'Wiktoria Krawczyk', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160/5963998333026304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5003145395879936/5345427210944512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-krlik-z-ogromnymi-zbkami/5003145395879936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8420574292058625984807390'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Phemelo Motsamai', 
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'samanthajulianne', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6689267948765184/6607699577192448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6689267948765184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4970638664318976/6610632734720000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4970638664318976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_33967218614506491464724'
     }, 
     {
-      title: 'Spin-off von "Challenge: Schreibe ein Gedicht"_Jetmir', 
-      author: 'Jetmir 5', 
+      title: 'Spin-off z "Wyzwanie: Żabka"', 
+      author: 'Daniel Bogusz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_jetmir/4566218906583040/4855971261497344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_jetmir/4566218906583040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5276777851779853388168618'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-abka/5504551454294016/4992212791508992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-abka/5504551454294016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3915280970749343396338397'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'majazaorska07', 
+      title: 'kasper, xander og jonatan', 
+      author: 'jonatanhagbarth', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4689633922564096/5438322753454080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4689633922564096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_983398865696584059273687'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kasper-xander-og-jonatan/6249845519335424/6495474061459456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kasper-xander-og-jonatan/6249845519335424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7653184057607209020386594'
+    }, 
+    {
+      title: 'Projecte: Enemics amb objectes 2.0', 
+      author: 'pau.cazorla', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projecte-enemics-amb-objectes-20/5143777654390784/4522455739973632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projecte-enemics-amb-objectes-20/5143777654390784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_259212718268674726904100'
     }, 
   ];
 };
