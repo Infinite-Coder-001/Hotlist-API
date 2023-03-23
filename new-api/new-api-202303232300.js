@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616/6022018761015296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616/5445323687510016.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -407,7 +407,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: ':3', 
-      author: 'All Hallow\'s Eve(Online)', 
+      author: 'Flamer(Online)', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6624117291008000.png', 
@@ -476,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snowman-project-colored-wheel-7-4-coding/5155267517136896/5451706025689088.png', 
       link: 'https://www.khanacademy.org/computer-programming/snowman-project-colored-wheel-7-4-coding/5155267517136896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_637588715567130862084884'
+    }, 
+    {
+      title: 'Logo for the Knight_400.', 
+      author: 'Arwen Undómiel', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816/6703634278825984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: '🍩A Big Donut For Dinner🍩', 
@@ -623,7 +632,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Leave this alone', 
-      author: 'All Hallow\'s Eve(Online)', 
+      author: 'Flamer(Online)', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/6471643032764416.png', 
@@ -677,7 +686,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'It looks soooooo bad :(', 
-      author: 'All Hallow\'s Eve(Online)', 
+      author: 'Flamer(Online)', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/it-looks-soooooo-bad/6360420727439360/5696090788904960.png', 
@@ -737,15 +746,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248/4514136391467008.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinetic-and-potential-energy-example/5472717559349248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
-    }, 
-    {
-      title: 'Logo for the Knight_400.', 
-      author: 'Arwen Undómiel', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816/6703634278825984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Self-Portrait', 
@@ -829,76 +829,76 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
-      title: 'Jose Maria "Desafío: frutas favoritas"', 
-      author: 'jruimes1111', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'geroloriente16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jose-maria-desafo-frutas-favoritas/5575749596921856/4955976957739008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jose-maria-desafo-frutas-favoritas/5575749596921856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_618524390797370045978644'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4968207413985280/5102457921519616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4968207413985280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_477170838678272711920906'
     }, 
     {
-      title: 'Derivado de "Crear una tabla e insertar datos"', 
-      author: 'Thiago Prado', 
+      title: 'SQL NETBALL', 
+      author: 'A.Smales', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5617694247534592/5427545643466752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5617694247534592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187977825438166517583071'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-netball/6365763062775808/5380881092231168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql-netball/6365763062775808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1023975868216669907587825'
     }, 
     {
-      title: 'New program', 
-      author: 'Tom', 
+      title: 'Spin-off of "Challenge: Waving snowman"', 
+      author: 'Kristen Abers', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5847729676009472/5521752513101824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5847729676009472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1068218227103174127032178'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4580325726666752/6662618300596224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/4580325726666752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6334813379460008664246893'
     }, 
     {
-      title: 'New program', 
-      author: 'Chaitra Sri Bodapati', 
+      title: 'Derivado de "Proyecto: librero"', 
+      author: 'Juan Jesús MB', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5950342551617536/4836809600450560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5950342551617536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7631915444345526746431934'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5577442451570688/6517163948294144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5577442451570688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_363305973753068978055534'
     }, 
     {
-      title: 'Spin-off of "Challenge: Favorite Fruits"', 
-      author: 'Olga Kolokoltsova', 
+      title: 'Shotgun test', 
+      author: 'brenohs020', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6594600128266240/4915875082977280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6594600128266240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1103069918369407228017456'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shotgun-test/5620433933352960/5635457628291072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shotgun-test/5620433933352960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179178768191147255141910'
     }, 
     {
-      title: 'CD world "Project: Design a store database"', 
-      author: 'mariagmartinez5.8', 
+      title: 'Nueva página web', 
+      author: 'geroloriente16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cd-world-project-design-a-store-database/5891557300682752/6489869800226816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cd-world-project-design-a-store-database/5891557300682752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_728334568724397787470399'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5590458333184000/4677052688285696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5590458333184000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_477170838678272711920906'
     }, 
     {
-      title: 'Derivado de "Crear una tabla e insertar datos"', 
-      author: 'Thiago Prado', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Zainab Khanacademy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/4825036407226368/6556707242426368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/4825036407226368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187977825438166517583071'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5189422976122880/5971032734482432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5189422976122880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3839709701908721772437661'
     }, 
     {
-      title: 'Derivado de "Crear una tabla e insertar datos"', 
-      author: 'Thiago Prado', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Zainab Khanacademy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5000739828318208/6131819012734976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5000739828318208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187977825438166517583071'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6541828519411712/4738853106925568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6541828519411712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3839709701908721772437661'
     }, 
   ];
 };
