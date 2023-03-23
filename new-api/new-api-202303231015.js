@@ -847,58 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'PokeKhan Battle', 
-      author: '⚡💧🔥lukyluki🔥💧⚡', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pokekhan-battle/6388447905628160/6070586502856704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pokekhan-battle/6388447905628160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'ktol9137', 
+      title: 'milosz zarebski obrazki', 
+      author: 'milosz zarębski', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6102684571844608/6250176550584320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6102684571844608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187252111989392526814792'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/milosz-zarebski-obrazki/5582488833671168/4990309278990336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/milosz-zarebski-obrazki/5582488833671168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1328427108631967931109513'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Teresa Kierzek', 
+      title: 'Jakub Borzęcki obrazki', 
+      author: 'jakubborzeckizs7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643138737946624/5199081535488000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643138737946624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_758181857040345768176165'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jakub-borzcki-obrazki/5266822162333696/6568510953406464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jakub-borzcki-obrazki/5266822162333696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_362927214195186141184891'
     }, 
     {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'yax', 
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'kamilaolenetszs7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4852464135487488/6241134654570496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4852464135487488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_747300242279646499583322'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6018854024429568/4866170298875904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6018854024429568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1206922932862342329045897'
     }, 
     {
-      title: 'Zuzanna Bryda obrazki', 
-      author: 'zuzannabrydazs7', 
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'kaluzny.jakub_d_2022', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zuzanna-bryda-obrazki/5367000009588736/6271063194648576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zuzanna-bryda-obrazki/5367000009588736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550889031579094792529547'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4949743215362048/6151096436572160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4949743215362048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_972070189888963091618286'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'lhut7647', 
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Blanka Hardek', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6085228043223040/6507942619955200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6085228043223040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226756307159706396839252'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4506853063311360/5195900457893888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/4506853063311360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8348043751156252236047044'
+    }, 
+    {
+      title: 'Kacper Tofiło obrazki', 
+      author: 'kacpertofilozs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kacper-tofio-obrazki/6264786667225088/6248976526655488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kacper-tofio-obrazki/6264786667225088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1131177318608012603614603'
     }, 
   ];
 };
