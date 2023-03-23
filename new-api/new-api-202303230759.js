@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Chikn Nuggit', 
+      author: 'StuffStash', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/4587071778111488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Logo/Intro contest!', 
       author: 'Arwen Undómiel', 
       votes: 8, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
       link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'Chikn Nuggit', 
-      author: 'StuffStash', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/4587071778111488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Canvas API Rasterizer', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'Salvador Fernando Murillo Rosales ', 
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'lucia.cazorla', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4873791785451520/4621094364692480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4873791785451520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3636603392765094243367629'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5607075242885120/5956285746167808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5607075242885120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1178089611787240435278929'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Michał Samba', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Alejandro Gómez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6233610056417280/6673476833558528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6233610056417280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3475209406565917548661360'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6237797095882752/6586389023211520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6237797095882752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
     }, 
     {
-      title: 'bucle', 
-      author: 'Edgar Amador', 
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'cabaneromartinezjudith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bucle/6035981548699648/6257141360148480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bucle/6035981548699648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5006239831219475487574501'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6506670168784896/6087712752058368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6506670168784896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_312597069084444643899760'
     }, 
   ];
 };
