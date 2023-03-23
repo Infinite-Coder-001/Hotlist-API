@@ -22,24 +22,24 @@ var LoadHotlistAPI = function() {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
       votes: 72, 
-      forks: 23, 
+      forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'interactive voronoi', 
+      title: 'interactive voronine', 
       author: 'YokieBob', 
       votes: 20, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520/4797753617334272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-voronoi/5891220883947520', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520/6259588280401920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 36, 
+      votes: 37, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Subscribe [NEW]', 
       author: 'Dominic R. [RESUB]', 
-      votes: 44, 
+      votes: 45, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032/5488072366276608.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-new/5721957766316032', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Jibanyanc', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5944812546342912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/4545365769764864.png', 
       link: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'Winston', 
+      author: 'daniel', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6038622279352320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'sarasjod', 
       votes: 8, 
@@ -199,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Basic British Accents.', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Dirt Diggy', 
       author: 'urfav.isabela', 
       votes: 6, 
@@ -208,22 +226,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
     {
-      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
-      author: 'Velvet', 
-      votes: 14, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
       title: 'Flying potatos for dinner!', 
       author: 'proGamer194', 
-      votes: 22, 
+      votes: 23, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
       link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
+    }, 
+    {
+      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
+      author: 'Velvet', 
+      votes: 14, 
+      forks: 10, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Smooth', 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776/6260332383485952.png', 
       link: 'https://www.khanacademy.org/computer-programming/natural-selection/5130840813387776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
-      title: 'Perlin Noise Island', 
-      author: 'Kobi', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080/5896510303944704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/perlin-noise-island/5361185177518080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
-    }, 
-    {
-      title: 'Merp Merp Merp', 
-      author: 'StuffStash', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496/5544646413697024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/merp-merp-merp/6711739757674496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
   ];
 };
