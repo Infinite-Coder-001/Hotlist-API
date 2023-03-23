@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 58, 
+      votes: 59, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 71, 
-      forks: 22, 
+      votes: 72, 
+      forks: 23, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
-      votes: 14, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
@@ -91,11 +91,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
+      title: 'Flame Head', 
+      author: 'Archbirdplus', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5761778085838848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6383743440044032.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -127,13 +136,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Flame Head', 
-      author: 'Archbirdplus', 
+      title: 'Logo/Intro contest!', 
+      author: 'Arwen Undómiel', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5208409030049792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Jump! Remastered!', 
@@ -147,11 +156,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Chikn Nuggit WIP', 
       author: 'StuffStash', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5008447935660032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5975542466920448.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'a nerd store database', 
+      author: 'Gamemaker', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
       title: 'Cool art!!', 
@@ -163,13 +181,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 6, 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'sarasjod', 
+      votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6232440197922816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
       title: '15 Random Facts You Don\'t Need To Know', 
@@ -199,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'sarasjod', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/6232440197922816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
-    }, 
-    {
       title: 'Flying potatos for dinner!', 
       author: 'proGamer194', 
       votes: 22, 
@@ -221,18 +230,9 @@ var LoadHotlistAPI = function() {
       author: 'Kopter Coding', 
       votes: 20, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/4833989216223232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/4907837655662592.png', 
       link: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
-    }, 
-    {
-      title: 'a nerd store database', 
-      author: 'Gamemaker', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
       title: 'a nintendo switch (wip)', 
