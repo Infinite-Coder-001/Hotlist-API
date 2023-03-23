@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_545501596399865825346370'
     }, 
     {
-      title: 'My Logo :P', 
-      author: '▪Dipper98▪', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-p/5913683022888960/5272732973711360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo-p/5913683022888960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'rana.md-makki', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'liam', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5153917337124864/5593979283619840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5153917337124864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2475182497454428798999052'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6635802722615296/5220461949796352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6635802722615296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639890822490358034215111'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'ses22010040', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5585229529268224/6471386240696320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5585229529268224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4098644236061344600257865'
     }, 
   ];
 };
