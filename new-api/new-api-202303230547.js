@@ -104,14 +104,14 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6723477936848896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5088947299729408.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
-      votes: 8, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Food project html', 
-      author: 'lib1500-2', 
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'rana.md-makki', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food-project-html/6328896234766336/5892831060475904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food-project-html/6328896234766336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_633109899466691511110209'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5153917337124864/5593979283619840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5153917337124864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2475182497454428798999052'
     }, 
   ];
 };
