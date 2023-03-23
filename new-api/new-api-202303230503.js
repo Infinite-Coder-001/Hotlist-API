@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
       votes: 73, 
-      forks: 26, 
+      forks: 25, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -163,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
-      title: 'Winston', 
-      author: 'daniel', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6038622279352320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
       title: 'Jump! Remastered!', 
       author: 'Jibanyanc', 
       votes: 17, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208/5101272413028352.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool-art/5635545641566208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
+    }, 
+    {
+      title: 'Winston', 
+      author: 'daniel', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6038622279352320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: '15 Random Facts You Don\'t Need To Know', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: '"Project: Design a store database"', 
-      author: 'Aimi Sugiura', 
+      title: '"응용: 시 써보기" 프로젝트', 
+      author: 'kjoonie7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6133228265324544/6445823333548032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/6133228265324544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6962259751338418350438911'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6625809474568192/4729608592474112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6625809474568192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4481729338916253530837159'
     }, 
   ];
 };
