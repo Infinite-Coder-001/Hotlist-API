@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Basic British Accents.', 
-      author: 'Phase ✝', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 64, 
@@ -179,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776/5975542466920448.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit-wip/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Basic British Accents.', 
+      author: 'Phase ✝', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/5884583683080192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Cool art!!', 
@@ -298,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
-      title: 'trying out nikos drawing tool :)', 
-      author: 'The No-Sock Guy(alt)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/5477064066252800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
-    }, 
-    {
       title: 'Spider-Gwen (PenGwen) & Spider-Man (Aragorn Elessar)', 
       author: 'PenGwen', 
       votes: 4, 
@@ -341,24 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000/6247899228061696.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Warning don\'t upvote!!', 
-      author: 'All Hallow\'s Eve(Online)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/4523157987049472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Leave this alone', 
-      author: 'All Hallow\'s Eve(Online)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/6471643032764416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'snake', 
@@ -478,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'trying out nikos drawing tool :)', 
+      author: 'The No-Sock Guy(alt)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/5477064066252800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
+    }, 
+    {
       title: 'Proof of Concept', 
       author: 'ethankim8683', 
       votes: 2, 
@@ -509,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'cuphead13', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crossy/5825000776187904/4624111310782464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crossy/5825000776187904/6602698722164736.png', 
       link: 'https://www.khanacademy.org/computer-programming/crossy/5825000776187904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_322784419198919758067454'
     }, 
@@ -541,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Warning don\'t upvote!!', 
+      author: 'All Hallow\'s Eve(Online)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/5535590411190272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'Rainbow Snek', 
       author: 'Owen', 
       votes: 2, 
@@ -548,6 +539,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672/4845553513185280.png', 
       link: 'https://www.khanacademy.org/computer-programming/rainbow-snek/5115202163228672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1049380794375551316391249'
+    }, 
+    {
+      title: 'Leave this alone', 
+      author: 'All Hallow\'s Eve(Online)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/5399855418884096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Spin-off of "Project: Blog"', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'HuongN', 
+      title: 'trabalho', 
+      author: 'Gustavo Pierre', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6295232015810560/5808127862947840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6295232015810560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_832343636715086777028208'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/trabalho/5959882915495936/6542273769947136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/trabalho/5959882915495936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4887229110643246911004579'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'ses22010032', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'austin.bolkcom', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5722032119791616/6124861601923072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5722032119791616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_804796556271910452701494'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6740281691258880/4731539549372416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6740281691258880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_666417691103231682011489'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'ses22010076', 
+      title: 'New program', 
+      author: 'eenangamokosso', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4696642567847936/6030165642887168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4696642567847936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_737944794044641784417266'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6278730684350464/5146939555627008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6278730684350464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_935631660263475620374024'
     }, 
   ];
 };
