@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database" 2023', 
-      author: 'nyna.sabrina29', 
+      title: 'Spin-off z "Podstawy HTML"', 
+      author: 'Piotr Ludwiczak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-2023/5984782283751424/6309874428592128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-2023/5984782283751424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_802382186558993692169939'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-podstawy-html/4730763868422144/4850364919889920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-podstawy-html/4730763868422144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1562366159096892655876067'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'abhishekanand.8678', 
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'Piotr Ludwiczak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5684265468870656/6429839579201536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5684265468870656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3627686410468896686085454'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5070114673442816/5131839896600576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5070114673442816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1562366159096892655876067'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Katherine Powell', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'rogielyn.aterado', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5044933850611712/5636410976813056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5044933850611712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6065280087539712/4967652792778752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6065280087539712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_583065274964219582221524'
     }, 
   ];
 };
