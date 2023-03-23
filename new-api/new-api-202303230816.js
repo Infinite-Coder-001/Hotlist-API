@@ -256,7 +256,7 @@ var LoadHotlistAPI = function() {
       title: 'Smooth', 
       author: 'Kopter Coding', 
       votes: 20, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832/4907837655662592.png', 
       link: 'https://www.khanacademy.org/computer-programming/smooth/6709427921272832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693661413396782522804495'
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481932340463582820490306'
     }, 
     {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'lucia.cazorla', 
+      title: 'Derivado de "Proyecto: página web de viajes" TOKIO', 
+      author: 'Fabiola Adrover Yi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5607075242885120/5956285746167808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5607075242885120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1178089611787240435278929'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-tokio/5556479048597504/6218469471469568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes-tokio/5556479048597504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_783004525698369520999659'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Alejandro Gómez', 
+      title: 'enemics amb objectes 2.0', 
+      author: 'Jud', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6237797095882752/6586389023211520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6237797095882752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/enemics-amb-objectes-20/6032909170688000/5399811596795904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/enemics-amb-objectes-20/6032909170688000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_833587328710096900943874'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'cabaneromartinezjudith', 
+      title: 'Hugo Quesada de la Cruz - Enemics amb objectes 2.0', 
+      author: 'HugoQuesada', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6506670168784896/6087712752058368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6506670168784896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_312597069084444643899760'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hugo-quesada-de-la-cruz-enemics-amb-objectes-20/5388182033317888/5596158241325056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hugo-quesada-de-la-cruz-enemics-amb-objectes-20/5388182033317888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278408952141874067849626'
     }, 
   ];
 };
