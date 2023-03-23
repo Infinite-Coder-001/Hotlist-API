@@ -343,20 +343,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Logo for the Knight_400.', 
-      author: 'Arwen Undómiel', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816/6703634278825984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
       title: 'Warning don\'t upvote!!', 
       author: 'All Hallow\'s Eve(Online)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/4839663639773184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264/4523157987049472.png', 
       link: 'https://www.khanacademy.org/computer-programming/warning-dont-upvote/5449022694539264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -503,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864/4999496821161984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4910354103844864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_121237126065047383627188'
+    }, 
+    {
+      title: 'Logo for the Knight_400.', 
+      author: 'Arwen Undómiel', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816/6703634278825984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-for-the-knight_400/5496851551010816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'crossy!!!!!!!!!!!!!!!!!', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people" Athletes', 
-      author: 'brahyun', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'HuongN', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-athletes/5489238248570880/5599139888152576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people-athletes/5489238248570880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_971114337360989171943253'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6295232015810560/5808127862947840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6295232015810560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_832343636715086777028208'
     }, 
     {
-      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
-      author: 'mendozamedranojimmyweimar', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'ses22010032', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/4711228011495424/5074769075814400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/4711228011495424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1074369970416286310914487'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5722032119791616/6124861601923072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5722032119791616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804796556271910452701494'
     }, 
     {
-      title: 'New program', 
-      author: 'colekoda29', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'ses22010076', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6401608557838336/5321613798326272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6401608557838336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_33350906695566252337764'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4696642567847936/6030165642887168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4696642567847936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_737944794044641784417266'
     }, 
   ];
 };
