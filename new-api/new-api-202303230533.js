@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Food project html', 
-      author: 'lib1500-2', 
+      title: '토끼', 
+      author: 'c1_2333060_이여목_SE2023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food-project-html/6328896234766336/5892831060475904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food-project-html/6328896234766336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_633109899466691511110209'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5695365811847168/5755734026665984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5695365811847168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1080933493109327762213383'
     }, 
   ];
 };
