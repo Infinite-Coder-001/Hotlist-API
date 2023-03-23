@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 67, 
+      votes: 68, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'Flame Head', 
+      author: 'Archbirdplus', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5088947299729408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
       votes: 20, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'Flame Head', 
-      author: 'Archbirdplus', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5088947299729408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
       title: 'interactive voronine', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'new logo', 
       author: 'Dominic R. [RESUB]', 
-      votes: 38, 
+      votes: 39, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'My new logo?(in progress)', 
+      author: 'Green Light', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896/6676790129246208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
       title: 'Flying potatos for dinner!', 
       author: 'proGamer194', 
       votes: 24, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dirt-diggy/5620799676661760/5434994391826432.png', 
       link: 'https://www.khanacademy.org/computer-programming/dirt-diggy/5620799676661760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
-    }, 
-    {
-      title: 'My new logo?(in progress)', 
-      author: 'Green Light', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896/6676790129246208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-new-logoin-progress/5605624617680896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'bane of my existence', 
