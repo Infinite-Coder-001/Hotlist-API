@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 55, 
+      votes: 54, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5462674969509888.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 83, 
+      votes: 82, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
-      title: 'New program', 
-      author: 'NIKO Ψ', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
       votes: 95, 
@@ -91,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'cyberpunk cityscape', 
-      author: 'alyanna (aqua217)', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
-    }, 
-    {
       title: 'Flame Head with more levels', 
       author: 'Crystal Coding', 
       votes: 13, 
@@ -107,6 +89,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/4930305451671552.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: 'New program', 
+      author: 'NIKO Ψ', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Cyberpunk Cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'I was bored.', 
@@ -310,7 +310,7 @@ var LoadHotlistAPI = function() {
       title: 'curveVertex drawing tool', 
       author: 'CodingChamp01 🟢', 
       votes: 5, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/curvevertex-drawing-tool/5919366073073664/5553752989024256.png', 
       link: 'https://www.khanacademy.org/computer-programming/curvevertex-drawing-tool/5919366073073664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Lehlohonolo Moloi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5205653338767360/6640444102721536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5205653338767360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6612206636487436247862615'
+      title: 'KASE editor (spin off so I don\'t lose my marbles)', 
+      author: 'noNameCode', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704/4629668209934336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kase-editor-spin-off-so-i-dont-lose-my-marbles/5207776358088704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
-      title: 'Array Reverse Quiz', 
-      author: 'chloetworek', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Nerea Ortega Rodríguez ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/array-reverse-quiz/5423605128413184/6198109870014464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/array-reverse-quiz/5423605128413184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6689816961560323712340528'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5835798575628288/6510048730988544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5835798575628288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9310768419083526642219039'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Luka', 
+      title: 'reverse array', 
+      author: 'akaralekas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6046950727401472/4611460115513344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6046950727401472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_909606741991935782318818'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reverse-array/4677192291500032/6723672787435520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/reverse-array/4677192291500032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6523608967335072326549925'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'olly hayes', 
+      title: 'Carlos "Desafío: frutas favoritas"', 
+      author: 'cmacgra2204', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5763101371973632/5990729790046208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5763101371973632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_671882642264546272581984'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/carlos-desafo-frutas-favoritas/5159723277271040/4572571384463360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/carlos-desafo-frutas-favoritas/5159723277271040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599245551763147597390574'
     }, 
   ];
 };
