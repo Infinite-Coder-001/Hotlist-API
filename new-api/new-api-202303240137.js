@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'ses22010100', 
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 's201002', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4952722177835008/4613173153153024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4952722177835008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_514979021883938575074908'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5031216647815168/5282567193673728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5031216647815168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770048064814679782467687'
     }, 
   ];
 };
