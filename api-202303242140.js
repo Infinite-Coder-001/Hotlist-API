@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 46, 
+      votes: 47, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 35, 
+      votes: 36, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
+      title: 'Tessellated Metaballs', 
+      author: 'daniel', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/5907267972284416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
+    }, 
+    {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
       votes: 22, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
       link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
-      title: 'Tessellated Metaballs', 
-      author: 'daniel', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/5907267972284416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: 'new logo', 
