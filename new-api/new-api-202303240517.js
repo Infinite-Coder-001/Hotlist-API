@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
+      title: 'new logo', 
+      author: 'Dominic R.', 
+      votes: 46, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Golden Knights Roster', 
       author: 'NIKO Ψ', 
       votes: 10, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/golden-knights-roster/5930520905302016/6528998328025088.png', 
       link: 'https://www.khanacademy.org/computer-programming/golden-knights-roster/5930520905302016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'new logo', 
-      author: 'Dominic R.', 
-      votes: 45, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160/5799043671572480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo/5479718389596160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Winston', 
@@ -217,6 +217,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'My new logo', 
+      author: 'Green Light', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6431283325747200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'Logo/Intro contest!', 
+      author: 'Arwen Undómiel', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
       votes: 63, 
@@ -224,24 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5447288095031296.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
-    }, 
-    {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: 'My new logo', 
-      author: 'Green Light', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6431283325747200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: ' a nerd store database', 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/5165309419110400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/5850489645481984.png', 
       link: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
