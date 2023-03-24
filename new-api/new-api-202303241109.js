@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5113663150326557870538261'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'iagorc2005', 
+      title: 'Nueva página web', 
+      author: 'mendiveq.sara', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4723378020990976/6529851080359936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4723378020990976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1058544063992587096462170'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5001340721086464/4666131140100096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5001340721086464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_938993737803715337331689'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'paolarf2019', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: '2009.alexander.roszyk', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6268050593857536/6702164950171648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6268050593857536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_301050054098861133899608'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5925831978565632/6731196597059584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5925831978565632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1588758188956458982468842'
     }, 
   ];
 };
