@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 38, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 42, 
+      votes: 44, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -29,7 +29,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 34, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 66, 
+      votes: 67, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5462674969509888.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
@@ -68,14 +68,14 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Kostenko Productions', 
       votes: 21, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5489093581783040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/6440118526459904.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'Logo Tutorial :D', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/5551857230725120.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
     }, 
     {
+      title: 'Flame Head with more levels', 
+      author: 'Crystal Coding', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/6678446278492160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
       votes: 66, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/4628594065457152.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Flame Head with more levels', 
-      author: 'Crystal Coding', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/6678446278492160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'Wrong is Well in the Right Hands', 
@@ -127,9 +127,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'lol - interactive emoji', 
+      author: 'Captain Longtreader', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
+    }, 
+    {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
-      votes: 28, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5509985443561472.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
@@ -199,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
-      title: 'lol - interactive emoji', 
-      author: 'Captain Longtreader', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
       title: 'Winston', 
       author: 'daniel', 
       votes: 21, 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'Chikn Nuggit', 
+      author: 'StuffStash', 
+      votes: 37, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/5585916016246784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Top-Down Movement #TT', 
       author: 'Dominic R.', 
       votes: 34, 
@@ -235,20 +244,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Chikn Nuggit', 
-      author: 'StuffStash', 
-      votes: 36, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/5585916016246784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'MIGRATION [Game]', 
       author: '▪Dipper98▪', 
-      votes: 37, 
+      votes: 38, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/6267952128376832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/6755260792356864.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
