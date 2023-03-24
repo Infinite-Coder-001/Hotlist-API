@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 37, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4733667152019456.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 27, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
-      title: 'spring :>', 
-      author: 'marci', 
-      votes: 55, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
+      title: 'interesting ripple bug', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
   ];
 };
