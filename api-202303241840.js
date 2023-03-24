@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Kostenko Productions', 
       votes: 21, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/6440118526459904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/4829577596944384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'I was bored.', 
+      author: 'Wort-Head Productions😐', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5509985443561472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'lol - interactive emoji', 
       author: 'Captain Longtreader', 
       votes: 11, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
       link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
-      title: 'I was bored.', 
-      author: 'Wort-Head Productions😐', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5509985443561472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'ST Personality Test w Results 2023', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 12, 
+      title: 'Tessellated Metaballs', 
+      author: 'daniel', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/6022138869104640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
   ];
 };
