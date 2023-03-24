@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
     }, 
     {
-      title: 'em', 
-      author: 'NIKO Ψ', 
-      votes: 3, 
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'carla.gregorio', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/em/4713155378069504/4957553915379712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/em/4713155378069504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5394514489688064/4775467968413696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5394514489688064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_637150729503875984256918'
     }, 
   ];
 };
