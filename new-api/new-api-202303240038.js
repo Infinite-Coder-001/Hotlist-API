@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 46, 
+      votes: 45, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5976818793627648.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 12, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
-      title: ' a nerd store database', 
-      author: 'Gamemaker', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
-    }, 
-    {
       title: 'My new logo', 
       author: 'Green Light', 
       votes: 8, 
@@ -242,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6431283325747200.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'Do NOT hit the button.', 
-      author: 'The Ember Society', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/6434722118156288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'curveVertex drawing tool', 
@@ -271,13 +253,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
-      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
-      author: 'Velvet', 
-      votes: 25, 
-      forks: 18, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+      title: ' a nerd store database', 
+      author: 'Gamemaker', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
       title: 'Jump! Remastered!', 
@@ -287,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920/5168588039438336.png', 
       link: 'https://www.khanacademy.org/computer-programming/jump-remastered/5200903876689920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
+      title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
+      author: 'Velvet', 
+      votes: 24, 
+      forks: 18, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Spider-Man 3D game.', 
@@ -350,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/trig-thingy/6603701398847488/5193990757728256.png', 
       link: 'https://www.khanacademy.org/computer-programming/trig-thingy/6603701398847488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
+      title: 'Do NOT hit the button.', 
+      author: 'The Ember Society', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/6434722118156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Proof of Concept', 
@@ -442,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'miffhreiff', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680/4906136580177920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
-    }, 
-    {
       title: ':3', 
       author: 'Flamerush Rider(Online)', 
       votes: 5, 
@@ -458,6 +449,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6624117291008000.png', 
       link: 'https://www.khanacademy.org/computer-programming/3/5449022694539264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'miffhreiff', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680/4906136580177920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
       title: 'Smooth', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Navaneeth', 
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'celests2', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6508079673032704/6498786018115584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6508079673032704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_774829543921802765407364'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5167418499710976/6363152511188992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5167418499710976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_157690501934776391817344'
     }, 
     {
-      title: 'New program', 
-      author: '🐱', 
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'juan suarez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4541668960550912/5238844359491584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4541668960550912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959631688491450337269512'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5754860051152896/6624675502538752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5754860051152896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3128559307173511045280312'
     }, 
     {
-      title: ' "Desafío: frutas favoritas" Rafa Cruz Mena', 
-      author: 'rcrumen289', 
+      title: 'Derivado de "Desafío: carita sonriente"', 
+      author: 'Juan Jesús MB', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/desafo-frutas-favoritas-rafa-cruz-mena/6663274088415232/6420746294575104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/desafo-frutas-favoritas-rafa-cruz-mena/6663274088415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2113093495271556813679879'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/5807286032580608/4922926832074752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/5807286032580608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_363305973753068978055534'
     }, 
   ];
 };
