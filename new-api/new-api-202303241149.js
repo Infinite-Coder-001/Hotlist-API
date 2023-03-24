@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Winston', 
-      author: 'daniel', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6263601863376896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
       title: 'keys = {} performance', 
       author: 'Archbirdplus', 
       votes: 10, 
@@ -181,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
     {
+      title: 'Winston', 
+      author: 'daniel', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6263601863376896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
+    }, 
+    {
       title: 'Top-Down Movement #TT', 
       author: 'Dominic R.', 
       votes: 34, 
@@ -188,24 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Spider-Man 3D game.', 
-      author: 'Timothy Kostenko Productions', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
-    }, 
-    {
-      title: 'Cyberpunk Cityscape', 
-      author: 'alyanna (aqua217)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'Chikn Nuggit', 
@@ -233,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/6267952128376832.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Spider-Man 3D game.', 
+      author: 'Timothy Kostenko Productions', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'My new logo', 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616/5445323687510016.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Cyberpunk Cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'Triangle Generator', 
@@ -698,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-kart-20/4883355436105728/4818304599638016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-kart-20/4883355436105728/6006567884603392.png', 
       link: 'https://www.khanacademy.org/computer-programming/mario-kart-20/4883355436105728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Mireia Tomas', 
-      votes: 1, 
+      title: 'Projet dérivé de "Projet : attaque animale" ajouter les variables...', 
+      author: 'Elisa Vanc', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5660562165121024/6396023842062336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5660562165121024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9544632105395948815305533'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale-ajouter-les-variables/5344488794144768/5955122095243264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-attaque-animale-ajouter-les-variables/5344488794144768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5113663150326557870538261'
     }, 
     {
-      title: 'maged favoriet books', 
-      author: 'magedgameel9', 
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'gerard cabrera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/maged-favoriet-books/5509249812971520/5549724511027200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/maged-favoriet-books/5509249812971520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116181400031003325331423'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5729154822881280/5051885188071424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5729154822881280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_310094101807631166924779'
     }, 
     {
-      title: 'Novo programa', 
-      author: 'matheus.rodrigues.araujo', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'torres.leon.marcos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/novo-programa/4687759119007744/6011826065424384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/novo-programa/4687759119007744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614824567344113164709758'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5314002126422016/5767309148078080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5314002126422016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_107755391013445870698598'
     }, 
   ];
 };
