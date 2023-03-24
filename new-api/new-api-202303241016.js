@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Cyberpunk Cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
+    }, 
+    {
       title: 'Triangle Generator', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 5, 
@@ -299,7 +308,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'curveVertex drawing tool', 
-      author: 'CodingChamp01 🔴', 
+      author: 'CodingChamp01 🟢', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/curvevertex-drawing-tool/5919366073073664/5553752989024256.png', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/em/4713155378069504/4957553915379712.png', 
       link: 'https://www.khanacademy.org/computer-programming/em/4713155378069504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'HTML Game', 
-      author: 'Arctic (learningwithameer)', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480/6462591322079232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/html-game/6330457794068480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_532204053528121557052555'
     }, 
   ];
 };
