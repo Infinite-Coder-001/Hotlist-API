@@ -694,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_361476661674153455707338'
     }, 
     {
-      title: 'Twenty One Pilots Discography', 
-      author: 'NIKO Ψ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/twenty-one-pilots-discography/6432536952881152/5676403883556864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/twenty-one-pilots-discography/6432536952881152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
       title: 'Spin-off of "Challenge: My Favorite Foods"', 
       author: 'kirthya_k', 
       votes: 2, 
@@ -728,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/4528659504611328/4751036284977152.png', 
       link: 'https://www.khanacademy.org/computer-programming/phone-project/4528659504611328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
-    }, 
-    {
-      title: 'Grilled Cheese Obama Sandwich', 
-      author: 'MadLlama', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880/5163493939789824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271151555299504631854694'
     }, 
     {
       title: 'Leave this alone', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160/5963998333026304.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
+    }, 
+    {
+      title: 'Spin-off of "Changing rows with UPDATE and DELETE"', 
+      author: 'Anju Watanabe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4878409610346496/6631946747953152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4878409610346496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
+    }, 
+    {
+      title: 'Road trip car', 
+      author: 'bpashupalak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512/5002694555385856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2575424688870293397720058'
     }, 
   ];
 };
