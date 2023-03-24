@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 26, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -19,15 +19,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'C', 
-      author: 'KarLlr', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 21, 
@@ -35,6 +26,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'C', 
+      author: 'KarLlr', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Hundreds (demo)', 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Do NOT hit the button.', 
-      author: 'The Ember Society', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5643434624073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'trying out nikos drawing tool :)', 
       author: 'The No-Sock Guy(alt)', 
       votes: 14, 
@@ -215,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/6267952128376832.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Do NOT hit the button.', 
+      author: 'The Ember Society', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/6434722118156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Deja-vu: part 12, The End?', 
@@ -251,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736/4617473858256896.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-nerd-store-database/4763389332340736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
-    }, 
-    {
-      title: 'Spider-Man 3D game.', 
-      author: 'Timothy Kostenko Productions', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'spring :>', 
@@ -332,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840/4558263908876288.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-drawer-tool-v3/6645482907811840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Spider-Man 3D game.', 
+      author: 'Timothy Kostenko Productions', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'ST Personality Test w Results 2023', 
@@ -487,15 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'JavaScript Calculator (w/ React.js)', 
-      author: 'CodeEngineer', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/5165309419110400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'miffhreiff', 
       votes: 13, 
@@ -515,7 +506,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: ':3', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6624117291008000.png', 
@@ -551,7 +542,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Defender team homepage', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/6398635383504896.png', 
@@ -749,7 +740,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Leave this alone', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/6471643032764416.png', 
@@ -812,7 +803,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'It looks soooooo bad :(', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/it-looks-soooooo-bad/6360420727439360/5696090788904960.png', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800/5432796405612544.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake/6720679396556800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1056488327007893789363796'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: Bola 8 mágica" 22222', 
+      author: 'James P. Sullivan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160/5963998333026304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica-22222/6621428909916160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
   ];
 };
