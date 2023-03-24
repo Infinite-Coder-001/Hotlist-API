@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4960267361632256.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Kostenko Productions', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/6230039244095488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
@@ -442,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
+      title: 'Cara ou coroa', 
+      author: 'Iury Rezende', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960/6737182741282816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
+    }, 
+    {
       title: 'utils/functions.pjs', 
       author: 'Lemon', 
       votes: 3, 
@@ -494,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5756133978718208/4660234636541952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5756133978718208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_322938418223662638293326'
+    }, 
+    {
+      title: 'lol', 
+      author: 'Captain Longtreader', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736/5156409441566720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: 'My Battle ', 
@@ -608,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'newseason3', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/opening-crawl/5670416313270272/6579334858194944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opening-crawl/5670416313270272/6403703223664640.png', 
       link: 'https://www.khanacademy.org/computer-programming/opening-crawl/5670416313270272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_414521354983631762359473'
     }, 
@@ -701,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6321593652658176/6293296123265024.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6321593652658176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5892597909400585984254740'
-    }, 
-    {
-      title: 'Cara ou coroa', 
-      author: 'Iury Rezende', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960/6737182741282816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
     }, 
     {
       title: 'Spin-off of "Project: Build-a-House"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800/6269889863270400.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4893720265932800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'ses22010100', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4952722177835008/4613173153153024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4952722177835008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_514979021883938575074908'
     }, 
   ];
 };
