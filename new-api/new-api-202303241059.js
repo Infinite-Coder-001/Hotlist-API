@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 51, 
+      votes: 52, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5462674969509888.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5113663150326557870538261'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'sergiocastroleiras', 
+      title: 'Nueva página web', 
+      author: 'mendiveq.sara', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5354130072977408/4833623389028352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5354130072977408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_711390661025539706849115'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5001340721086464/4666131140100096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/5001340721086464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_938993737803715337331689'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'lucia ruiz', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: '2009.alexander.roszyk', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5702513862164480/4548681903947776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5702513862164480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3987387213508302265648831'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5925831978565632/6731196597059584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5925831978565632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1588758188956458982468842'
     }, 
   ];
 };
