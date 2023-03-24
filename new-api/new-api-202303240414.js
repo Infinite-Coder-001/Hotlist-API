@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
     {
-      title: 'Clicker I guess', 
-      author: 'StuffStash', 
+      title: 'Road trip car', 
+      author: 'bpashupalak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clicker-i-guess/5100953847250944/4880468798652416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clicker-i-guess/5100953847250944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512/5002694555385856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2575424688870293397720058'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'jacpark0', 
+      title: 'Derivado de "Proyecto: invitación a un evento"', 
+      author: '22266298', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5686177618509824/4826130197823488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5686177618509824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_755029579238821959947507'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/6086372084727808/6544596273512448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/6086372084727808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
     }, 
   ];
 };
