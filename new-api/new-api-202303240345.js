@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 50, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5976818793627648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5462674969509888.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
     {
-      title: 'Edmund Knight Subpage', 
-      author: 'Edmund Knight⚔🏹', 
-      votes: 5, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056/6105517200293888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edmund-knight-subpage/5162492373549056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Ng, Jeremiah', 
+      title: '真 · IKUN', 
+      author: '半城烟沙', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6391295217287168/6527821557317632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6391295217287168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_338626480976411607611189'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ikun/5486768373940224/5996590655651840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ikun/5486768373940224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_785755825040040276632272'
+    }, 
+    {
+      title: 'Proyecto: My pet\'s blog', 
+      author: 'manuela_lopez23221', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-my-pets-blog/6409569212612608/6500545260208128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-my-pets-blog/6409569212612608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_687430589469317507003963'
     }, 
   ];
 };
