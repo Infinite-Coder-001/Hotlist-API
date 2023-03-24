@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 48, 
+      votes: 49, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/4559235175464960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/4792195761881088.png', 
       link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Top-Down Movement #TT', 
-      author: 'Dominic R.', 
-      votes: 36, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+      title: 'KhanIMG', 
+      author: 'siknsiknsiknsikn', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanimg/4791757037682688/5680173136789504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khanimg/4791757037682688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1581587762323645119481766'
     }, 
   ];
 };
