@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 35, 
+      votes: 36, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Cyberpunk Cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
+    }, 
+    {
       title: 'Winston', 
       author: 'daniel', 
       votes: 20, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
-    }, 
-    {
-      title: 'Cyberpunk Cityscape', 
-      author: 'alyanna (aqua217)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/5357868254806016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'Chikn Nuggit', 
@@ -361,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'JavaScript Calculator (w/ React.js)', 
+      author: 'CodeEngineer', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/6260501031206912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
+    }, 
+    {
       title: 'Canvas API Rasterizer', 
       author: 'Fifth', 
       votes: 68, 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000/6247899228061696.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempting-buttons-that-actually-look-fine/6523349137408000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'JavaScript Calculator (w/ React.js)', 
-      author: 'CodeEngineer', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/6260501031206912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Mireia Tomas', 
+      title: 'harry potter table', 
+      author: 'Oskar Hansen', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5660562165121024/6396023842062336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5660562165121024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9544632105395948815305533'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-table/6354342123978752/4998402963456000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-table/6354342123978752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1158909395493503243492393'
     }, 
     {
-      title: 'maged favoriet books', 
-      author: 'magedgameel9', 
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'Miłosz M', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/maged-favoriet-books/5509249812971520/5549724511027200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/maged-favoriet-books/5509249812971520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116181400031003325331423'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5170643030294528/5207066634665984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5170643030294528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9092696803700415853074474'
     }, 
     {
-      title: 'Novo programa', 
-      author: 'matheus.rodrigues.araujo', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Maroua', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/novo-programa/4687759119007744/6011826065424384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/novo-programa/4687759119007744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614824567344113164709758'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5623045172805632/6418302978277376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5623045172805632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149036549621201922350065'
     }, 
   ];
 };
