@@ -3,9 +3,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 45, 
+      votes: 43, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5976818793627648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5180222434754560.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
@@ -80,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/4844243450642432.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Flame Head with more levels', 
-      author: 'Crystal Coding', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/6375774950309888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'I was bored.', 
@@ -183,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Chikn Nuggit', 
       author: 'StuffStash', 
-      votes: 32, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/5585916016246784.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
@@ -280,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'Spider-Man 3D game.', 
-      author: 'Timothy Kostenko Productions', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/6230039244095488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
-    }, 
-    {
       title: 'Vertex Drawer Tool V.3', 
       author: 'NIKO Ψ', 
       votes: 19, 
@@ -370,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
+      title: 'Spider-Man 3D game.', 
+      author: 'Timothy Kostenko Productions', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/6230039244095488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
+    }, 
+    {
       title: 'ST Personality Test w Results 2023', 
       author: 'Chris DeNeen', 
       votes: 3, 
@@ -404,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616/5445323687510016.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-goos-subpage/4654657118191616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Triangle Generator', 
-      author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/triangle-generator/4570035541819392/5320065026408448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/triangle-generator/4570035541819392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
       title: 'Proof of Concept', 
@@ -482,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Flamerush Rider(Online)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/6640840752807936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/5923862920609792.png', 
       link: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -685,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Triangle Generator', 
+      author: 'WinstonWinner000 (Parlor Indie)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/triangle-generator/4570035541819392/5320065026408448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/triangle-generator/4570035541819392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Cole Warga', 
       votes: 2, 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
-      title: ' "Proyecto: construye una casa" Rafa Cruz Mena', 
-      author: 'rcrumen289', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Samantha Willett', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-construye-una-casa-rafa-cruz-mena/5015024973430784/6345938433261568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-construye-una-casa-rafa-cruz-mena/5015024973430784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2113093495271556813679879'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5064095226445824/6531293014966272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5064095226445824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_464582822190204139936577'
     }, 
     {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'Nataliia Hatsuk', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Hung, Kendra', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5756133978718208/4660234636541952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5756133978718208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_322938418223662638293326'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5587429877923840/4881209294635008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5587429877923840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_945558521367198508042145'
+    }, 
+    {
+      title: 'fish', 
+      author: 'ChatGPTCodes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fish/4975653326995456/4927562645291008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fish/4975653326995456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_256833268409731122585383'
     }, 
   ];
 };
