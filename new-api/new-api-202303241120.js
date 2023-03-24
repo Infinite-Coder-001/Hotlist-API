@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 31, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5113663150326557870538261'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'iagorc2005', 
+      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
+      author: 'Marcelina Płochocka', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4723378020990976/6529851080359936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4723378020990976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1058544063992587096462170'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4940828725526528/5651056009986048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4940828725526528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276186292293032940130163'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'paolarf2019', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Maria Sedrakyan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6268050593857536/6702164950171648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6268050593857536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_301050054098861133899608'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5835496719958016/5405666257977344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5835496719958016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2431719159229411025231814'
     }, 
   ];
 };
