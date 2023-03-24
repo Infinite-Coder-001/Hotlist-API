@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 27, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
+      title: 'New program', 
+      author: 'Noah Willy', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5769348230987776/5277953274724352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5769348230987776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6364061139598904182992167'
+    }, 
+    {
       title: 'Easy Sliding Block Puzzle with Rotating Mechanism', 
       author: 'Trevor Hoffman', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/self-portrait/6378467072720896/5418828705349632.png', 
       link: 'https://www.khanacademy.org/computer-programming/self-portrait/6378467072720896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135390373166178418179921'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseño de anuncio"', 
-      author: 'a.marta.iniguez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5584426219388928/5687176315846656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5584426219388928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_653542239212661259725406'
     }, 
   ];
 };
