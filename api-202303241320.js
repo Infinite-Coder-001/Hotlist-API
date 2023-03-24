@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 36, 
+      votes: 37, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4733667152019456.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 24, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -44,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
+    }, 
+    {
+      title: 'cyberpunk cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'Hermione', 
@@ -91,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'cyberpunk cityscape', 
-      author: 'alyanna (aqua217)', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
-    }, 
-    {
       title: 'Flame Head with more levels', 
       author: 'Crystal Coding', 
       votes: 13, 
@@ -111,11 +111,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6541625917751296.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Do NOT hit the button.', 
+      author: 'The Ember Society', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5643434624073728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'interactive voronine', 
@@ -127,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'Do NOT hit the button.', 
-      author: 'The Ember Society', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5643434624073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
       votes: 19, 
@@ -145,11 +145,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Expired Mario Kart', 
+      author: 'urfav.isabela', 
+      votes: 23, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5044831962578944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
+    }, 
+    {
       title: 'Winston', 
       author: 'daniel', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/6263601863376896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/5735010322923520.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/golden-knights-roster/5930520905302016/6528998328025088.png', 
       link: 'https://www.khanacademy.org/computer-programming/golden-knights-roster/5930520905302016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Expired Mario Kart', 
-      author: 'urfav.isabela', 
-      votes: 22, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5242312361033728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
     {
       title: 'Spider-Man 3D game.', 
