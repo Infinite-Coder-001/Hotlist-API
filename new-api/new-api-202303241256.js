@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 24, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'urfav.isabela', 
       votes: 22, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5044831962578944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5242312361033728.png', 
       link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
@@ -307,24 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
-      title: 'lol', 
-      author: 'Captain Longtreader', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736/5156409441566720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
-      title: 'My Battle ', 
-      author: 'Phase ✝', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424/5292312675794944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'curveVertex drawing tool', 
       author: 'CodingChamp01 🟢', 
       votes: 5, 
@@ -415,13 +397,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
-      title: 'interesting ripple bug', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 2, 
+      title: 'lol', 
+      author: 'Captain Longtreader', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736/5156409441566720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lol/5838882409332736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
+    }, 
+    {
+      title: 'My Battle ', 
+      author: 'Phase ✝', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424/5292312675794944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Trig thingy', 
@@ -874,31 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
-      title: 'Enemics amb objectes 2.0', 
-      author: 'bernat.diez', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Lehlohonolo Moloi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/enemics-amb-objectes-20/5967236939694080/5585924374446080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/enemics-amb-objectes-20/5967236939694080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_167008427569132126691305'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5205653338767360/6640444102721536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5205653338767360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6612206636487436247862615'
     }, 
     {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Ian Deeter', 
+      title: 'Array Reverse Quiz', 
+      author: 'chloetworek', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6473093204983808/4777109068496896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6473093204983808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063846432444081961659820'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/array-reverse-quiz/5423605128413184/6198109870014464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/array-reverse-quiz/5423605128413184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6689816961560323712340528'
     }, 
     {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Max G.', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Luka', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5984505174474752/6443878501892096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5984505174474752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1044611003631526036203918'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6046950727401472/4611460115513344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6046950727401472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_909606741991935782318818'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'olly hayes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5763101371973632/5990729790046208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5763101371973632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_671882642264546272581984'
     }, 
   ];
 };
