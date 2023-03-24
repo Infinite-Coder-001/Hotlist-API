@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 36, 
+      votes: 37, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4733667152019456.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
     }, 
     {
+      title: 'cyberpunk cityscape', 
+      author: 'alyanna (aqua217)', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
+    }, 
+    {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
       votes: 66, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/4844243450642432.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'cyberpunk cityscape', 
-      author: 'alyanna (aqua217)', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794864070338193862176253'
     }, 
     {
       title: 'Wrong is Well in the Right Hands', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'I was bored.', 
+      author: 'Wort-Head Productions😐', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6541625917751296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
       votes: 10, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5643434624073728.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'I was bored.', 
-      author: 'Wort-Head Productions😐', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6541625917751296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'interactive voronine', 
@@ -824,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: '✨ 🄻🄴🄴 🄳🄸🄽🄾✨', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chinese-wonders-wip/5004715877515264/6464338719457280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chinese-wonders-wip/5004715877515264/4930088773926912.png', 
       link: 'https://www.khanacademy.org/computer-programming/chinese-wonders-wip/5004715877515264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6509490138782120254370531'
     }, 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3187115094099247975358663'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Benjamin Rzygalinski', 
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'Meradith Tinker', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5563591786020864/4918466357542912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5563591786020864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001349926015321617838473'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5669263701753856/6001854543872000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5669263701753856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149028019504211761943817'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'ydubiso', 
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Kacper Piotrkowicz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5810768560046080/5950661855592448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5810768560046080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7271811818254990756485993'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6270545852416000/5446303426592768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6270545852416000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_598557463960194429792694'
     }, 
     {
-      title: 'Spin-off of "Making animations"', 
-      author: 'kate;)', 
+      title: 'circle', 
+      author: 'aiden.gerardot', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/4608766835474432/6308879760932864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/4608766835474432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7081217055047616120887519'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle/5044133980061696/4880070742425600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circle/5044133980061696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_233552948579647550790161'
     }, 
   ];
 };
