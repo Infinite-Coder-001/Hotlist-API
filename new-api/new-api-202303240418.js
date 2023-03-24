@@ -427,7 +427,7 @@ var LoadHotlistAPI = function() {
       title: 'col', 
       author: 'Anson Li', 
       votes: 3, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/col/5177825171914752/6067182758051840.png', 
       link: 'https://www.khanacademy.org/computer-programming/col/5177825171914752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_463626084836471480902727'
@@ -506,7 +506,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: ':3', 
-      author: 'Floofy(Offline)😴', 
+      author: 'Floofy(Online)', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6624117291008000.png', 
@@ -542,7 +542,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Defender team homepage', 
-      author: 'Floofy(Offline)😴', 
+      author: 'Floofy(Online)', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/6398635383504896.png', 
@@ -722,7 +722,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Leave this alone', 
-      author: 'Floofy(Offline)😴', 
+      author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/6471643032764416.png', 
@@ -785,7 +785,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'It looks soooooo bad :(', 
-      author: 'Floofy(Offline)😴', 
+      author: 'Floofy(Online)', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/it-looks-soooooo-bad/6360420727439360/5696090788904960.png', 
@@ -883,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
     {
+      title: 'Spin-off of "Changing rows with UPDATE and DELETE"', 
+      author: 'Anju Watanabe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4878409610346496/6631946747953152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4878409610346496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2728649232297694926297287'
+    }, 
+    {
       title: 'Road trip car', 
       author: 'bpashupalak', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512/5002694555385856.png', 
       link: 'https://www.khanacademy.org/computer-programming/road-trip-car/5041889624768512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2575424688870293397720058'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: invitación a un evento"', 
-      author: '22266298', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/6086372084727808/6544596273512448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/6086372084727808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
     }, 
   ];
 };
