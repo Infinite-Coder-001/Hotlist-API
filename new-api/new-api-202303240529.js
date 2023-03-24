@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/5850489645481984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000/6260501031206912.png', 
       link: 'https://www.khanacademy.org/computer-programming/javascript-calculator-w-reactjs/4856920700928000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
