@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: 'Logo Tutorial :D', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 20, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/5551857230725120.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Crystal Coding', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5128504367955968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/4531044083875840.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'daniel', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/4730620912910336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/5692796767092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -721,6 +721,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'camigotts', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6214710002499584/6032543913918464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6214710002499584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6761472778323454240068203'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alvarer2017', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5866798525497344/6687397795643392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5866798525497344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alvarer2017', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6022576519561216/6083973999804416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6022576519561216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
+    }, 
+    {
+      title: 'Edrick\'s baymax', 
+      author: 'Edrick Espinoza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edricks-baymax/5319800013504512/6301684482752512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edricks-baymax/5319800013504512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_403000913407642836118334'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Adina James', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6381140907966464/5710944295763968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6381140907966464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4525248527137315664749424'
+    }, 
+    {
       title: 'project, p10', 
       author: 'JocelynP', 
       votes: 1, 
@@ -806,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'paschaja2026', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animation-variables-project/5525933509623808/4547149959577600.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animation-variables-project/5525933509623808/5931316383367168.png', 
       link: 'https://www.khanacademy.org/computer-programming/animation-variables-project/5525933509623808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120334768438755845764538'
     }, 
@@ -851,54 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Jack Spencer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/physics1/4990077706223616/5054017152794624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/physics1/4990077706223616/4737657730285568.png', 
       link: 'https://www.khanacademy.org/computer-programming/physics1/4990077706223616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_23392692259606047408651'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'alvarer2017', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5616926069145600/5935443796606976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5616926069145600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
-    }, 
-    {
-      title: 'Boyan Petrov Computer Science P10', 
-      author: 'BoyanP', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boyan-petrov-computer-science-p10/4919168114933760/6395933781966848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boyan-petrov-computer-science-p10/4919168114933760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_995200306787119109668505'
-    }, 
-    {
-      title: 'xavi VP10', 
-      author: 'shu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/xavi-vp10/5610153123823616/6586327668932608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/xavi-vp10/5610153123823616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_775434047289380513069592'
-    }, 
-    {
-      title: 'Yareli B. p10.', 
-      author: 'Yareli B.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yareli-b-p10/6405366603890688/4938438489194496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yareli-b-p10/6405366603890688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_622205180555365240918776'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'alvarer2017', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6396199378927616/5264885165637632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6396199378927616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
     }, 
   ];
 };
