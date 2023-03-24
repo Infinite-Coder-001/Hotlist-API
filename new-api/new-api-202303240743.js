@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135390373166178418179921'
     }, 
     {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'brunai.pablo', 
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'a.marta.iniguez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4911327199150080/5274251415568384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4911327199150080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_692336388546903291672064'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5584426219388928/5687176315846656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5584426219388928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_653542239212661259725406'
     }, 
   ];
 };
