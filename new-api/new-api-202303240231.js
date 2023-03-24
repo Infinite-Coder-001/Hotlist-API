@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 23, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4960267361632256.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
     }, 
     {
+      title: 'New program', 
+      author: 'NIKO Ψ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'MIGRATION [Game]', 
       author: '▪Dipper98▪', 
       votes: 35, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368/6267952128376832.png', 
       link: 'https://www.khanacademy.org/computer-programming/migration-game/6010042761658368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'New program', 
-      author: 'NIKO Ψ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Do NOT hit the button.', 
@@ -361,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
+      title: 'My Battle ', 
+      author: 'Phase ✝', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424/5292312675794944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Trig thingy', 
       author: 'Middleforest20', 
       votes: 6, 
@@ -479,7 +488,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: ':3', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/3/5449022694539264/6624117291008000.png', 
@@ -523,17 +532,8 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
-      title: 'My Battle ', 
-      author: 'Phase ✝', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424/5292312675794944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Defender team homepage', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/6398635383504896.png', 
@@ -713,7 +713,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Leave this alone', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/leave-this-alone/6152619992334336/6471643032764416.png', 
@@ -776,7 +776,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'It looks soooooo bad :(', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/it-looks-soooooo-bad/6360420727439360/5696090788904960.png', 
