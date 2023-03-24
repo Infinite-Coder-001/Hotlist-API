@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'Cookies \'n Scream', 
       votes: 63, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5447288095031296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/6006991992700928.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_193370351906955605297650'
     }, 
     {
-      title: 'Clicker I guess', 
-      author: 'StuffStash', 
+      title: '真 · IKUN', 
+      author: '半城烟沙', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clicker-i-guess/5100953847250944/4880468798652416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clicker-i-guess/5100953847250944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ikun/5486768373940224/5996590655651840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ikun/5486768373940224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_785755825040040276632272'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'jacpark0', 
+      title: 'Proyecto: My pet\'s blog', 
+      author: 'manuela_lopez23221', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5686177618509824/4826130197823488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5686177618509824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_755029579238821959947507'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-my-pets-blog/6409569212612608/6500545260208128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-my-pets-blog/6409569212612608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_687430589469317507003963'
     }, 
   ];
 };
