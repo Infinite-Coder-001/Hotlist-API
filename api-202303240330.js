@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4960267361632256.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 49, 
+      votes: 50, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5976818793627648.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
-      votes: 28, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
@@ -95,14 +95,14 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 25, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6176326869630976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6541625917751296.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'interactive voronine', 
       author: 'YokieBob', 
-      votes: 26, 
+      votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520/6259588280401920.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/4863564746899456.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'New program', 
+      author: 'NIKO Ψ', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'Chikn Nuggit', 
       author: 'StuffStash', 
       votes: 34, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696/6729792176308224.png', 
       link: 'https://www.khanacademy.org/computer-programming/trying-out-nikos-drawing-tool/6073487484829696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_888430478984465976164714'
-    }, 
-    {
-      title: 'New program', 
-      author: 'NIKO Ψ', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936/6092234631200768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4654835711655936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'MIGRATION [Game]', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
+      title: 'Logo/Intro contest!', 
+      author: 'Arwen Undómiel', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
+    }, 
+    {
       title: 'My new logo', 
       author: 'Green Light', 
       votes: 9, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
-      title: 'Logo/Intro contest!', 
-      author: 'Arwen Undómiel', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5423203951624192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
       title: 'Triangle Generator', 
