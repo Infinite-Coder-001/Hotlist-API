@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 36, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/4733667152019456.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
     {
+      title: 'Spider-Man 3D game.', 
+      author: 'Timothy Kostenko Productions', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
+    }, 
+    {
       title: 'Top-Down Movement #TT', 
       author: 'Dominic R.', 
       votes: 34, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Spider-Man 3D game.', 
-      author: 'Timothy Kostenko Productions', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/5287224834048000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
       title: 'Chikn Nuggit', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
-      title: 'Soon to be liquid 😅', 
-      author: '! ℜɅMℙɅGℇ', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Nerea Ortega Rodríguez ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/soon-to-be-liquid/4603572122861568/5192887555112960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/soon-to-be-liquid/4603572122861568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286506355967486363210084'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5835798575628288/6510048730988544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5835798575628288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9310768419083526642219039'
     }, 
     {
-      title: 'Cars', 
-      author: 'Winne', 
+      title: 'reverse array', 
+      author: 'akaralekas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cars/5940568128798720/5021841606623232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cars/5940568128798720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_588754183765900146398259'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reverse-array/4677192291500032/6723672787435520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/reverse-array/4677192291500032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6523608967335072326549925'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'maya.hashimoto3', 
+      title: 'Carlos "Desafío: frutas favoritas"', 
+      author: 'cmacgra2204', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4522743925358592/5033767069859840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4522743925358592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_971623903448441381523770'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/carlos-desafo-frutas-favoritas/5159723277271040/4572571384463360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/carlos-desafo-frutas-favoritas/5159723277271040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599245551763147597390574'
     }, 
   ];
 };
