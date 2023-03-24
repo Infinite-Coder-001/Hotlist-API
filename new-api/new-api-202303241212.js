@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 24, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 95, 
+      votes: 94, 
       forks: 37, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'urfav.isabela', 
       votes: 22, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5242312361033728.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/6596546201436160.png', 
       link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
@@ -237,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My new logo', 
       author: 'Green Light', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6431283325747200.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
-      title: 'Derivado de "Desafío: locura de movimiento con el ratón"', 
-      author: 'laia.pocurull2021', 
+      title: 'harry potter table', 
+      author: 'Oskar Hansen', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/6030692044816384/5538118284656640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/6030692044816384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147725991836925067089474'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-table/6354342123978752/4998402963456000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-table/6354342123978752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1158909395493503243492393'
     }, 
     {
-      title: 'Derivado de "Desafío: locura de movimiento con el ratón"', 
-      author: 'sergio.piza2021', 
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'Miłosz M', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/4553421668794368/4932451408592896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/4553421668794368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_12550683233777064288011'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5170643030294528/5207066634665984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5170643030294528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9092696803700415853074474'
     }, 
     {
-      title: 'Derivado de "Desafío: locura de movimiento con el ratón"', 
-      author: 'gisela.peinado2021', 
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Maroua', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/6370593474920448/6733196894191616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-locura-de-movimiento-con-el-ratn/6370593474920448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_703011340055218699148162'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5623045172805632/6418302978277376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5623045172805632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149036549621201922350065'
     }, 
   ];
 };
