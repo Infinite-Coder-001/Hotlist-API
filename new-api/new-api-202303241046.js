@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ramadan 2023', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632/6158918159220736.png', 
       link: 'https://www.khanacademy.org/computer-programming/ramadan-2023/5816146734661632', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5113663150326557870538261'
     }, 
     {
-      title: 'New program', 
-      author: 'calvin.armour77', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5224702726684672/4853242732527616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5224702726684672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'stanszymon.b', 
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'sergiocastroleiras', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5029825430732800/4552265198518272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5029825430732800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_422392650570290874053648'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5354130072977408/4833623389028352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5354130072977408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_711390661025539706849115'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'lucia ruiz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5702513862164480/4548681903947776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5702513862164480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3987387213508302265648831'
     }, 
   ];
 };
