@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 32, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6640508983361536.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
-      votes: 34, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/4621945850347520.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'T-Rex art _| using curveVertex tool', 
+      author: 'CodingChamp01 🟢', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'banksy rat', 
       author: 'NIKO Ψ', 
       votes: 25, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936/5088508760080384.png', 
       link: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'T-Rex art _| using curveVertex tool', 
-      author: 'CodingChamp01 🟢', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Dodge game?', 
@@ -350,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928/6062124158992384.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement-tt/6090508842876928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
+      title: 'gold angel anime girl with pink hair', 
+      author: 'Jessica Lewis', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136/6278293184888832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125955546141554314985653'
     }, 
     {
       title: 'Shonen the wraith ', 
@@ -676,6 +685,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Pearl Harbor Bike Store Items and Pricing by Tavi', 
+      author: 'tavi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pearl-harbor-bike-store-items-and-pricing-by-tavi/5079405543342080/6573727946162176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pearl-harbor-bike-store-items-and-pricing-by-tavi/5079405543342080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299489239462649913193206'
+    }, 
+    {
+      title: 'Kurt Cobain', 
+      author: 'specialtelefon2018', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kurt-cobain/5862091694325760/4876429214138368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kurt-cobain/5862091694325760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'guy2019', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4768801964212224/5174753548877824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4768801964212224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_425310042574995568253364'
+    }, 
+    {
+      title: 'Derivação de "meus projetos"', 
+      author: 'Marco Figueira', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-meus-projetos/5752259750445056/4916804658184192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-meus-projetos/5752259750445056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9586435040220855787098484'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'Kasia Murawska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4544561117708288/6322557923147776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4544561117708288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2163830650734053366190184'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: '22302056', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5421127167164416/6393458203082752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5421127167164416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_936810186172355299093071'
+    }, 
+    {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
       votes: 1, 
@@ -712,12 +775,14 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8621195315643475747576002'
     }, 
     {
-      title: 'Spin-off of "HTML basics"', 
+      title: '
+        &#60;head> Life after highschool </head>
+    ', 
       author: 'Ebaq  Abdi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5029579225088000/6581083748745216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5029579225088000', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/head-life-after-highschool-head/5029579225088000/5599398576046080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/head-life-after-highschool-head/5029579225088000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1407741859374964811509574'
     }, 
     {
@@ -734,7 +799,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/character-test-for-tater-turf/4697748910948352/4965869190168576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/character-test-for-tater-turf/4697748910948352/5673064647147520.png', 
       link: 'https://www.khanacademy.org/computer-programming/character-test-for-tater-turf/4697748910948352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
@@ -773,15 +838,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-table/5316517567971328/6620439070949376.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-table/5316517567971328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7991097197221155036827466'
-    }, 
-    {
-      title: 'gold angel anime girl with pink hair', 
-      author: 'Jessica Lewis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136/6278293184888832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_125955546141554314985653'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -845,60 +901,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-_lizard/6227902984404992/5910594001879040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-_lizard/6227902984404992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?" idli dosa', 
-      author: 'strawberry killer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-idli-dosa/4663193248251904/5409119646564352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-idli-dosa/4663193248251904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_63827783551425369816913'
-    }, 
-    {
-      title: 'PICO-8 Library that will never get fully finished. Voting up unfinished projects harms creators like me, please just sub to the update thread and I\'ll tell you when to vote. Edit: is this funny? Does hurting people who make awesome things make you happy!?', 
-      author: 'StuffStash', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pico-8-library-that-will-never-get-fully-finished-voting-up-unfinished-projects-harms-creators-like-me-please-just-sub-to-the-update-thread-and-ill-tell-you-when-to-vote-edit-is-this-funny-does-hurting-people-who-make-awesome-things-make-you-happy/6427200338575360/5499016801730560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pico-8-library-that-will-never-get-fully-finished-voting-up-unfinished-projects-harms-creators-like-me-please-just-sub-to-the-update-thread-and-ill-tell-you-when-to-vote-edit-is-this-funny-does-hurting-people-who-make-awesome-things-make-you-happy/6427200338575360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'SEMANA 10 NEFI MONTERROSO', 
-      author: '622542', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/semana-10-nefi-monterroso/4734473632792576/6502778710310912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/semana-10-nefi-monterroso/4734473632792576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736580574382896038002723'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'jlwallien', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5455759199748096/4726013620961280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5455759199748096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_104310202024061116775172'
-    }, 
-    {
-      title: 'Avion', 
-      author: 'specialtelefon2018', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avion/4523451890319360/5658667010801664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avion/4523451890319360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
-    }, 
-    {
-      title: 'Pixel Interactive and Lighted Voronoi', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-interactive-and-lighted-voronoi/5788809385263104/6089035987861504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-interactive-and-lighted-voronoi/5788809385263104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
   ];
 };
