@@ -829,6 +829,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'Gabriel Seguí Blasco', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512/5955067770617856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4632506651573614263631750'
+    }, 
+    {
+      title: 'beehive', 
+      author: 'Sean Byrne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beehive/6731156465958912/6382602740350976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beehive/6731156465958912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
+    }, 
+    {
+      title: 'Favourite Animals', 
+      author: 'audrey', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favourite-animals/5870553887195136/6653160413511680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favourite-animals/5870553887195136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_203360984134979001093692'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Kamso1234', 
       votes: 1, 
@@ -836,6 +863,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6492675537944576/5114043548614656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6492675537944576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_134722729366459015173870'
+    }, 
+    {
+      title: 'SMP_MLS7_jordanmuljana', 
+      author: 'jordanmuljana', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smp_mls7_jordanmuljana/4766675586301952/6132442806403072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smp_mls7_jordanmuljana/4766675586301952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_296753705761444557611796'
     }, 
     {
       title: 'seguir el raton', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tooddooddoododo/6023613905158144/4896490033299456.png', 
       link: 'https://www.khanacademy.org/computer-programming/tooddooddoododo/6023613905158144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280501162539436005915384'
-    }, 
-    {
-      title: 'list', 
-      author: 'sophia.tatu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/list/5024811979161600/6013391413231616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/list/5024811979161600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_447091717365851774080907'
-    }, 
-    {
-      title: 'ceva@ceva', 
-      author: 'coltalex26', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cevaceva/6457906930434048/5515369285730304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cevaceva/6457906930434048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485572497235360344891039'
-    }, 
-    {
-      title: 'Khan20 - ex. 4', 
-      author: 'daria.alexandra.lazar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/4857697251147776/5549728353009664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/4857697251147776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
-    }, 
-    {
-      title: '🐇𝓑ⓤＣᛕｔ𝓞ＯтнⒷυ𝕟𝐧ү 🐇', 
-      author: 'Skoniar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184/4743860015382528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_661694846369502370652273'
     }, 
   ];
 };
