@@ -829,6 +829,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Kamso1234', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6492675537944576/5114043548614656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6492675537944576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_134722729366459015173870'
+    }, 
+    {
+      title: 'seguir el raton', 
+      author: 'Alejandro Pérez-Moneo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/seguir-el-raton/4504125191798784/5228799253069824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/seguir-el-raton/4504125191798784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
+    }, 
+    {
+      title: 'Seans simple car for translate', 
+      author: 'Sean Byrne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/seans-simple-car-for-translate/6157900587515904/6241631880921088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/seans-simple-car-for-translate/6157900587515904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
+    }, 
+    {
       title: 'tooddooddoododo', 
       author: 'victor.voinescu', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184/4743860015382528.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_661694846369502370652273'
-    }, 
-    {
-      title: 'blue2', 
-      author: 'Fabian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue2/4890157271793664/6419204283875328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue2/4890157271793664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_772190556764635369430620'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'dikshagk13', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4819668134313984/4939346928254976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4819668134313984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3307559484321314263172357'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'chbxhn5fvr', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736/5824771112878080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1695267991450392669096917'
     }, 
   ];
 };
