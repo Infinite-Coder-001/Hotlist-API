@@ -802,6 +802,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
+      title: 'final Fish tank', 
+      author: 'Laura Grauwin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/final-fish-tank/4808390288392192/5308113659150336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/final-fish-tank/4808390288392192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2851321412734706813698782'
+    }, 
+    {
+      title: 'Spin-off von "Projekt: Reise-Website"', 
+      author: 'Mel Pfeiffer ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/4633598004346880/5121532151250944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/4633598004346880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3877111385930337361706499'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Sarah Lindinger', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4955644181659648/6647970549514240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4955644181659648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5338504223519446261193622'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'dakota', 
       votes: 2, 
@@ -811,94 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_773302408702846277235707'
     }, 
     {
-      title: 'The Movie | from me 7 years ago', 
-      author: 'CodingChamp01 🟢', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-movie-from-me-7-years-ago/5637367194238976/6167117285343232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-movie-from-me-7-years-ago/5637367194238976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'p.szymanski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6451961865224192/6173301434269696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6451961865224192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516217055599007774486287'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Klaudia Handzlik', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6090305956003840/6595783207206912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6090305956003840', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5699552012451840/5032802866479104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5699552012451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_870079040573738152364496'
     }, 
     {
-      title: 'pink bears eyes', 
-      author: 'Huda', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Janine Stucki', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pink-bears-eyes/6528381614342144/6598423941005312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pink-bears-eyes/6528381614342144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063239105511073987203587'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5052532201406464/6494867648987136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5052532201406464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8729573764516729054230767'
     }, 
     {
-      title: 'rebote diagonal', 
+      title: 'crear circulo aletatorio', 
       author: 'Alejandro Pérez-Moneo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rebote-diagonal/5865411871817728/5748572621684736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rebote-diagonal/5865411871817728', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crear-circulo-aletatorio/5909499174240256/4981456062693376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crear-circulo-aletatorio/5909499174240256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
     }, 
     {
-      title: 'New program', 
-      author: 'Catalin Nemesan', 
+      title: 'Recipe book', 
+      author: 'reijnswart', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4660487720845312/6050534323961856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4660487720845312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5298207154120971170643872'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/recipe-book/5929786922024960/5124216279318528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/recipe-book/5929786922024960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_956559129058138993825195'
     }, 
     {
-      title: 'C1 이현호 2333043 Chick (Proj#1 B finished)', 
-      author: 'C1_2333043_이현호_SE2023', 
+      title: 'Turkey', 
+      author: 'reijnswart', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333043-chick-proj1-b-finished/6091965658873856/4549073651941376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c1-2333043-chick-proj1-b-finished/6091965658873856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_502350854692293694638831'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turkey/6093867289198592/4529561749733376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/turkey/6093867289198592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_956559129058138993825195'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Josephat Mutuku', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Mary-Jo Matea', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6149762798895104/6293698360164352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6149762798895104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8431664324382370935689104'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6429786210877440/6081513084207104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6429786210877440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_667180676802161883874027'
     }, 
     {
-      title: 'Inspirováno programem "Projekt: Co bude k večeři?"', 
-      author: 'katerina.solovska', 
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'robolab', 
       votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-co-bude-k-veei/5634790616514560/5965244628516864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-co-bude-k-veei/5634790616514560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_785747276118934648504160'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: Věštecká koule 8-Ball"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-vteck-koule-8-ball/4791678201544704/4800089223905280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-vteck-koule-8-ball/4791678201544704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6156948849606656/5497758443421696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6156948849606656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804284357842878557762595'
     }, 
   ];
 };
