@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Just the moon and stars, if anyone wants to use part of the program.', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5739532487278592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
       votes: 30, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Just the moon and stars, if anyone wants to use part of the program.', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5739532487278592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Spider-Man 3D game.', 
@@ -820,6 +820,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Saurabh Mandhalkar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243138487926784/6311035498971136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243138487926784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4934099287476198247561100'
+    }, 
+    {
+      title: 'Spin-off Zero-60 pt1', 
+      author: 'colter.la.slikkers', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-zero-60-pt1/5126401226489856/5140154097647616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-zero-60-pt1/5126401226489856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_668463451930502304582536'
+    }, 
+    {
       title: 'Proof of Concept', 
       author: 'ethankim8683', 
       votes: 6, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512/5955067770617856.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4632506651573614263631750'
-    }, 
-    {
-      title: 'beehive', 
-      author: 'Sean Byrne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beehive/6731156465958912/6382602740350976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beehive/6731156465958912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
-    }, 
-    {
-      title: 'Favourite Animals', 
-      author: 'audrey', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favourite-animals/5870553887195136/6653160413511680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favourite-animals/5870553887195136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203360984134979001093692'
     }, 
   ];
 };
