@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Just the Beginning', 
+      author: 'The Chosen One', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
+    }, 
+    {
       title: 'T-Rex art _| using curveVertex tool', 
       author: 'CodingChamp01 🔴', 
       votes: 11, 
@@ -136,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1581587762323645119481766'
     }, 
     {
-      title: 'Just the Beginning', 
-      author: 'The Chosen One', 
-      votes: 7, 
+      title: 'Flag of USA', 
+      author: 'The Goo 🌪', 
+      votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Hundreds (demo)', 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
       link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
-      title: 'Flag of USA', 
-      author: 'The Goo 🌪', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Hermione', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
+      title: 'collision testing', 
+      author: 'jc4003', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616/6436184000872448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520436475008159501952344'
+    }, 
+    {
       title: 'bob velsab (recreated)', 
       author: 'LovelyPetals', 
       votes: 2, 
@@ -527,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'Larry Serflaten', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-line-detector-no-machine-learning-ai/5760664179359744/5789525453619200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-line-detector-no-machine-learning-ai/5760664179359744/6498995045449728.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-line-detector-no-machine-learning-ai/5760664179359744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
@@ -631,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
+      title: 'Definitely a really cool game', 
+      author: '⚡💧🔥lukyluki🔥💧⚡', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/definitely-a-really-cool-game/5599180150325248/5650195640795136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/definitely-a-really-cool-game/5599180150325248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
+    }, 
+    {
       title: 'MineKhan Alpha 0.8.0 [UNOFFICIAL]', 
       author: 'Velvet', 
       votes: 25, 
@@ -638,6 +656,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248/5834452824801280.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-alpha-080-unofficial/5464777741877248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Winston Time!!!!!!!!!!!!!!!!!!!', 
+      author: 'Java The Hutt', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-time/4906741935685632/6306609904271360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-time/4906741935685632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93099697245785953184401'
     }, 
     {
       title: 'col', 
@@ -829,6 +856,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design" Hardy CHen', 
+      author: 'hardy.chen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-hardy-chen/6143649718255616/5899171220733952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-hardy-chen/6143649718255616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8122300368354951425154856'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'geniusempire1110', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6194594791604224/5182114082635776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6194594791604224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_903551288625507001438225'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'miffhreiff', 
       votes: 14, 
@@ -838,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'ARAMIA ISELA APAZA SOLIZ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5140525410992128/4614810072563712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5140525410992128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2560495303237446444707344'
+    }, 
+    {
       title: 'Meatball and peas', 
       author: 'trebakarem', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752/4624355368943616.png', 
       link: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_707181278120448215617518'
-    }, 
-    {
-      title: 'collision testing', 
-      author: 'jc4003', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616/6436184000872448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520436475008159501952344'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" - Alexander Moon Wong', 
-      author: 'Amwong213010', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-alexander-moon-wong/5909784923783168/6357516775899136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-alexander-moon-wong/5909784923783168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2819753993826862919377118'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'hardy.chen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6742102273998848/5528984197840896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6742102273998848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8122300368354951425154856'
-    }, 
-    {
-      title: 'WebDev Dinner', 
-      author: 'mjobrien', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webdev-dinner/4759947486478336/5849695512739840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webdev-dinner/4759947486478336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_872865017884465894089141'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Daniel Herrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6695729042341888/4635907555901440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6695729042341888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_464896571397959974317597'
-    }, 
-    {
-      title: 'stan', 
-      author: 'lexalepore9', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stan/5924569660833792/4749736101068800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stan/5924569660833792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2195635026292663429409847'
     }, 
   ];
 };
