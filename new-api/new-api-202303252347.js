@@ -532,12 +532,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'please don\'t vote yet!! ', 
+      title: 'i\'ll hunt you down if you vote this up >:(', 
       author: 'vw_beetlesultimategreatness', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/please-dont-vote-yet/5674718427660288/5946410861379584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/please-dont-vote-yet/5674718427660288', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ill-hunt-you-down-if-you-vote-this-up/5674718427660288/4932738584199168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ill-hunt-you-down-if-you-vote-this-up/5674718427660288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
@@ -721,6 +721,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
     }, 
     {
+      title: 'My Mr. Snowman', 
+      author: 'Doug McIntosh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-mr-snowman/5767986679169024/5360593294114816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-mr-snowman/5767986679169024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380010401083951208632647'
+    }, 
+    {
       title: 'Spin-off of "HTML basics"', 
       author: 'Teja Vadapalli', 
       votes: 1, 
@@ -746,6 +755,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816/5761332046774272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spring/5080722068258816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
+    }, 
+    {
+      title: 'Estrela', 
+      author: 'gabrieleduardooliveirad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/estrela/4866445294223360/4602433990082560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/estrela/4866445294223360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_616095129920145122650005'
     }, 
     {
       title: 'cool projectile motion thingy', 
@@ -833,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Laasya :)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doggo-create-doggo-move-js-project-fetch/5602264560746496/5136847409037312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doggo-create-doggo-move-js-project-fetch/5602264560746496/6303093332688896.png', 
       link: 'https://www.khanacademy.org/computer-programming/doggo-create-doggo-move-js-project-fetch/5602264560746496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6329621198192640/6502594127380480.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6329621198192640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_720489936126629106132696'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: '22302056', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6323866478886912/4929092358291456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6323866478886912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_936810186172355299093071'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'hojenska.martyna_anna_nd_2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6004114317426688/4505182038966272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6004114317426688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577938167368971587730653'
     }, 
   ];
 };
