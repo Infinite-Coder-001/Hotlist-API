@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
       votes: 27, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'interesting ripple bug', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
       title: 'Tessellated Metaballs', 
       author: 'daniel', 
       votes: 6, 
@@ -237,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Winston', 
       author: 'daniel', 
-      votes: 23, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848/5735010322923520.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston/6336263516110848', 
@@ -271,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'interesting ripple bug', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'new logo', 
       author: 'Dominic R.', 
       votes: 49, 
@@ -302,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952/4721962896375808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952/5423410244272128.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -359,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424/5292312675794944.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-battle/4895368442855424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Just the moon and stars, if anyone wants to use part of the program.', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5051607709696000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'JavaScript Calculator (w/ React.js)', 
@@ -437,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'Noah Willy', 
       votes: 4, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5769348230987776/6560923658797056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5769348230987776/6227519323029504.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5769348230987776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6364061139598904182992167'
     }, 
@@ -476,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880/5163493939789824.png', 
       link: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271151555299504631854694'
+    }, 
+    {
+      title: 'Just the moon and stars, if anyone wants to use part of the program.', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5051607709696000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'curveVertex drawing tool', 
@@ -721,78 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
-      title: 'Star Catcher', 
-      author: 'ferociousgamer2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/star-catcher/5610478098497536/4585140539146240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/star-catcher/5610478098497536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533114291771093412100509'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'lucianoenmanuel2007', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5574951118880768/6700851025723392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5574951118880768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
-    }, 
-    {
-      title: 'Projeto de Mira', 
-      author: 'teteusarmelin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-de-mira/5344650274848768/5557606262554624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projeto-de-mira/5344650274848768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654278070585470362894887'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'GregoryCamposZarate', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6009173906341888/5025417787654144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6009173906341888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577480844805690890258850'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Ricardo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6701513658646528/6481110096986112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6701513658646528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286495719429047816357553'
-    }, 
-    {
-      title: 'New program', 
-      author: 'isaacspicer44', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5377885184770048/6536068683055104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5377885184770048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_178378681960577136401541'
-    }, 
-    {
-      title: '"Do NOT hit the button."的副本', 
-      author: 'crazy__codes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6364598572990464/5588750379040768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6364598572990464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'monedameme', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6500010838769664/6068931380166656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6500010838769664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_385609069265471807133528'
-    }, 
-    {
       title: 'Nuevo script de SQL', 
       author: '622536', 
       votes: 1, 
@@ -899,6 +827,78 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jareds-recipe-book/6640491669274624/5399242899505152.png', 
       link: 'https://www.khanacademy.org/computer-programming/jareds-recipe-book/6640491669274624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5998807475492574622699614'
+    }, 
+    {
+      title: 'Jared\'s Recipe Book', 
+      author: 'Jared Durón', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jareds-recipe-book/5654182729400320/6578337083604992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jareds-recipe-book/5654182729400320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5998807475492574622699614'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'lucianoenmanuel2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4778645324611584/6478590360469504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4778645324611584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
+    }, 
+    {
+      title: 'Derivación de "Proyecto: Diseñar una base de datos de tiendas"', 
+      author: 'lucianoenmanuel2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivacin-de-proyecto-disear-una-base-de-datos-de-tiendas/5577717748908032/4891848717156352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivacin-de-proyecto-disear-una-base-de-datos-de-tiendas/5577717748908032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'lucianoenmanuel2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5142511950807040/6387820538413056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5142511950807040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
+    }, 
+    {
+      title: ' "Desafío: escribe un poema"', 
+      author: 'Oscar Wilde', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/desafo-escribe-un-poema/4632521141960704/5218430681923584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/desafo-escribe-un-poema/4632521141960704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1731252374409215926706010'
+    }, 
+    {
+      title: 'Pizza', 
+      author: 'ArthurN', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/4789740500205568/5032666736148480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza/4789740500205568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276246501777612009296303'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'lucianoenmanuel2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6234662189187072/4718773547614208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6234662189187072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alvarer2017', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4889047056302080/4919529647161344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4889047056302080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
     }, 
   ];
 };
