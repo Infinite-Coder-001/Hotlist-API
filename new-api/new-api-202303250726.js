@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
     }, 
     {
+      title: 'interesting ripple bug', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'lol - interactive emoji', 
       author: 'Captain Longtreader', 
       votes: 15, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/5692796767092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'interesting ripple bug', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'Wrong is Well in the Right Hands', 
@@ -829,6 +829,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Katherine Powell', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6552681935323136/6504146959384576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6552681935323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
+    }, 
+    {
+      title: '- The Seagull Attack -', 
+      author: 'Xiøn 😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5608099810689024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'wilxo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6359171311386624/4968831408979968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6359171311386624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_818133588848968577139901'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '( =  Ayansh Anay  = )', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5235407882338304/4512837616844800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5235407882338304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_169354407836420978101395'
+    }, 
+    {
       title: 'attempting buttons that actually look fine', 
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 8, 
@@ -851,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'JAYDE KHUNG EE JAE', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824/4964981776105472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824/6616514276147200.png', 
       link: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808/5461357857390592.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'wilsonliegunawan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4640965349654528/6013536234160128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4640965349654528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_784497784465279793547719'
-    }, 
-    {
-      title: 'E08 - 4', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-4/5109354786504704/4964871650459648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e08-4/5109354786504704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'Aravind Ravi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6461988969693184/4586316051562496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6461988969693184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7762120565769558170700527'
-    }, 
-    {
-      title: 'E08 - 2', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320/4932339353567232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
   ];
 };
