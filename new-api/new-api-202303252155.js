@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'What is Web-Developement?', 
       author: '21262', 
-      votes: 19, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 27, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
@@ -721,42 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
-      title: 'Derivação de "Desafio: Afastando as Nuvens"', 
-      author: 'alexburdelis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-afastando-as-nuvens/6274182934740992/5649734384795648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-afastando-as-nuvens/6274182934740992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_250576649464261206818725'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Links for learning"', 
-      author: 'busuaf', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4719853295681536/5461490867159040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4719853295681536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7665091995265198032307288'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'jenn edwards', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5645187792814080/6140480099500032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5645187792814080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4264679052898205630416104'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Grzegorz Wódkowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6302216320499712/5543774353932288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6302216320499712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_408066827204243769975485'
-    }, 
-    {
       title: 'Winning Scene - JS Project', 
       author: 'Laasya :)', 
       votes: 2, 
@@ -764,15 +728,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winning-scene-js-project/5179193706201088/4744723706462208.png', 
       link: 'https://www.khanacademy.org/computer-programming/winning-scene-js-project/5179193706201088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
-    }, 
-    {
-      title: 'Projet dérivé de "Défi : base de données de livres"', 
-      author: 'mouangassabryan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/5686653344858112/4709352335523840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/5686653344858112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_712842140632128726832571'
     }, 
     {
       title: 'Spin-off of "line(x1, y1, x2, y2) | ProcessingJS"', 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snowman-practice/5681049125568512/5134261603844096.png', 
       link: 'https://www.khanacademy.org/computer-programming/snowman-practice/5681049125568512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'deannakahanek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6415457428226048/6122112738967552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6415457428226048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830529913885772878588136'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'omar.sabry43', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6631430831783936/6006519062904832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6631430831783936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_654052794892775333800359'
+    }, 
+    {
+      title: 'Big Skies', 
+      author: 'SoofieM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-skies/6119021872463872/5335074913697792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-skies/6119021872463872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7763726074175980420001559'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'lopez.niomar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6752154040975360/5047585271496704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6752154040975360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4969901399841979449605312'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu" - Jakub Zelech', 
+      author: 'Jakub Zelech', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu-jakub-zelech/5050642046697472/4918122810490880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu-jakub-zelech/5050642046697472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5220135926859676689931737'
     }, 
   ];
 };
