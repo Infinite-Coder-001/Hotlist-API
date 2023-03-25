@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 77, 
+      votes: 78, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -784,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
+      title: 'Derivado de "Proyecto: gente famosa"', 
+      author: 'maria.vasqueznj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6453560733908992/5402740613496832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6453560733908992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5391724591716642008550362'
+    }, 
+    {
       title: 'utils/functions.pjs', 
       author: 'Lemon', 
       votes: 4, 
@@ -802,6 +811,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_859950555904851228652001'
     }, 
     {
+      title: 'Spin-off of "Making animations"', 
+      author: 'ammarahmedl', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/4682007587373056/5884525415809024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/4682007587373056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1154257872942477959526062'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Julian Stögmüller', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4902727131119616/5226378317578240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4902727131119616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9757005434228169021122700'
+    }, 
+    {
       title: 'Spider-Gwen (PenGwen) & Spider-Man (Aragorn Elessar)', 
       author: 'PenGwen', 
       votes: 9, 
@@ -815,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784/4734121244147712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784/6633753201131520.png', 
       link: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5487965876043776/6168505801293824.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaproszenie-na-specjaln-okazj/5487965876043776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6864434065299650365619822'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'p.szymanski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5810551147249664/5872320259604480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5810551147249664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516217055599007774486287'
-    }, 
-    {
-      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6228577797586944/6374943874138112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6228577797586944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
-    }, 
-    {
-      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
-      author: 'C2_2333023_이찬우_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5144790716170240/4577342388486144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5144790716170240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_862747922248489940904005'
     }, 
   ];
 };
