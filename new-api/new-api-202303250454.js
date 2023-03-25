@@ -838,6 +838,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
+      title: 'favorite books challenge', 
+      author: 'addyboy017', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-books-challenge/4673339101855744/6561920242204672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-books-challenge/4673339101855744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4088356331260402704538529'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'jaydyhdez111', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5809717353168896/5468871097368576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5809717353168896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1135848814999383359526578'
+    }, 
+    {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'Felipe Perez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4895697309843456/6704980133462016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4895697309843456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1404697817880406622348345'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'PeterZhang', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4710166567370752/6396738585018368.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4710166567370752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866487960976952369494237'
-    }, 
-    {
-      title: 'Flying potatos for dinner!', 
-      author: 'proGamer194', 
-      votes: 27, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928/5256930718433280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flying-potatos-for-dinner/5795548739452928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
-    }, 
-    {
-      title: 'Collectio', 
-      author: 'Johnathan Wintres', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collectio/5785814819979264/4700025176506368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collectio/5785814819979264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226616569303588979232618'
-    }, 
-    {
-      title: 'Final Judgement!!!!!!!', 
-      author: 'JLE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/final-judgement/5849530559152128/5560967477116928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/final-judgement/5849530559152128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
   ];
 };
