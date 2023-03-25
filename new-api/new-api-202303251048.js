@@ -415,15 +415,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
     }, 
     {
-      title: 'Shonen the wraith ', 
-      author: 'LovelyPetals', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896/5126634983440384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Grilled Cheese Obama Sandwich', 
       author: 'MadLlama', 
       votes: 6, 
@@ -449,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224/5324938925096960.png', 
       link: 'https://www.khanacademy.org/computer-programming/logointro-contest/5369608749236224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
-    }, 
-    {
-      title: ' - The Rolling Stones -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-rolling-stones-/6697585642618880/6293143973838848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-rolling-stones-/6697585642618880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'collision testing', 
@@ -820,51 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_405266661114827376411509'
     }, 
     {
-      title: 'Spin-off von "Challenge: Wunschliste"_Lina', 
-      author: 'lina.mayer98', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-wunschliste_lina/5660693295841280/5019106484207616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-wunschliste_lina/5660693295841280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8074842753756485483253719'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game " Final', 
-      author: 'Surya  Sureshkumar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-final/4876099843833856/5410113864384512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-final/4876099843833856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
-    }, 
-    {
-      title: '"გამოწვევა: მზიანი თოვლიანი დღე"-ის სპინ-ოფები', 
-      author: 'mariami.nikolaishvili.1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5232020361101312/5814092783992832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/5232020361101312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247287960719987761739372'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'Erick Herrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6504221886431232/4623905638891520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6504221886431232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_284003643156649221436479'
-    }, 
-    {
-      title: 'gift_for_a_queen.png', 
-      author: 'NL#Midsane', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
       title: '2333005 김범준', 
       author: 'C2_2333005_김범준_SE2023', 
       votes: 1, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912/4800411883323392.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3296284706853297764156493'
+    }, 
+    {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'C1_2333043_이현호_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4865674850910208/5667346300846080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4865674850910208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_502350854692293694638831'
+    }, 
+    {
+      title: 'c1_2333052_정유나_SE2023', 
+      author: 'C1_2333052_정유나_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c1_2333052__se2023/5144965937414144/6080595068502016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c1_2333052__se2023/5144965937414144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_863196903333038227152959'
+    }, 
+    {
+      title: '倒计时', 
+      author: 'infinitesimal', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6624893455351808/5549041225351168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6624893455351808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7497510026477654467775709'
+    }, 
+    {
+      title: 'rebote linea horizontal', 
+      author: 'Alejandro Pérez-Moneo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rebote-linea-horizontal/6181588506558464/5040198355566592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rebote-linea-horizontal/6181588506558464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
+    }, 
+    {
+      title: '"코드로 그림 그리기 2" 프로젝트', 
+      author: 'C1_2333043_이현호_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2/5097051953348608/5346258840764416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2/5097051953348608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_502350854692293694638831'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Cheryl Stewart', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5586035724828672/5625229247561728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5586035724828672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_710555250345278778510226'
+    }, 
+    {
+      title: '김경욱 2133006 Sumin (Proj #1B finished)', 
+      author: 'C1_2133006_김경욱_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2133006-sumin-proj-1b-finished/4841149815898112/5833676794675200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2133006-sumin-proj-1b-finished/4841149815898112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_123216617758906771356356'
     }, 
   ];
 };
