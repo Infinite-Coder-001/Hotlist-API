@@ -838,6 +838,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Spin-off of "Project: Scene change" Final', 
+      author: 'Surya  Sureshkumar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-final/5542445296435200/5681732025368576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change-final/5542445296435200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
+    }, 
+    {
+      title: 'E08-5', 
+      author: 'JAYDE KHUNG EE JAE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824/4964981776105472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
+    }, 
+    {
+      title: 'Spin-off of "Project: Scene change"', 
+      author: 'Surya  Sureshkumar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808/5461357857390592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'wilsonliegunawan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4640965349654528/6013536234160128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4640965349654528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_784497784465279793547719'
+    }, 
+    {
+      title: 'E08 - 4', 
+      author: 'JAYDE KHUNG EE JAE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-4/5109354786504704/4964871650459648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e08-4/5109354786504704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
+    }, 
+    {
       title: 'Spin-off of "HTML basics"', 
       author: 'Aravind Ravi', 
       votes: 1, 
@@ -853,51 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320/4932339353567232.png', 
       link: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Tsungirirai Rock', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6248777397878784/4892232479195136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6248777397878784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
-    }, 
-    {
-      title: 'E08 - 1', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-1/4559489551613952/4752136283144192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e08-1/4559489551613952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'CodeEngineer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872/5700553243148288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'rohitramana000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6082583638360064/6390889242214400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6082583638360064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_751682622118898444582722'
-    }, 
-    {
-      title: 'White Bugs', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344/4667825706024960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
   ];
