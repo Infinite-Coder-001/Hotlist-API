@@ -415,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
     }, 
     {
+      title: 'Grilled Cheese Obama Sandwich', 
+      author: 'MadLlama', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880/5163493939789824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271151555299504631854694'
+    }, 
+    {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
       votes: 66, 
@@ -437,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'jc4003', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616/6436184000872448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616/5105421150109696.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520436475008159501952344'
     }, 
@@ -445,8 +454,8 @@ var LoadHotlistAPI = function() {
       title: 'bob velsab (recreated)', 
       author: 'LovelyPetals', 
       votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bob-velsab-recreated/6072030199070720/5771253328953344.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bob-velsab-recreated/6072030199070720/5918883006693376.png', 
       link: 'https://www.khanacademy.org/computer-programming/bob-velsab-recreated/6072030199070720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -566,15 +575,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-later/5761437810343936/6583389757161472.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-later/5761437810343936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'Grilled Cheese Obama Sandwich', 
-      author: 'MadLlama', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880/5163493939789824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grilled-cheese-obama-sandwich/4614115462266880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271151555299504631854694'
     }, 
     {
       title: 'Help Scene - JS Project Fetch', 
@@ -856,6 +856,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
     }, 
     {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'luisalberto.baca.rebeles2225', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4950700372312064/5092567403511808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4950700372312064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4105217960520722444208245'
+    }, 
+    {
+      title: 'Tes', 
+      author: 'ritchietunggara1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tes/6680523675320320/6240839191019520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tes/6680523675320320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1526874205531211370681210'
+    }, 
+    {
+      title: 'wip shonen ', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-shonen/6229632413384704/6494562068774912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip-shonen/6229632413384704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design" Hardy CHen', 
       author: 'hardy.chen', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6194594791604224/5182114082635776.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6194594791604224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903551288625507001438225'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'miffhreiff', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680/6158036731478016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6157903288647680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'ARAMIA ISELA APAZA SOLIZ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5140525410992128/4614810072563712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5140525410992128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2560495303237446444707344'
-    }, 
-    {
-      title: 'Meatball and peas', 
-      author: 'trebakarem', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752/4624355368943616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_707181278120448215617518'
     }, 
   ];
 };
