@@ -820,15 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_405266661114827376411509'
     }, 
     {
-      title: 'bjr', 
-      author: 'zaynab', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bjr/4636818189631488/5276859643510784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bjr/4636818189631488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_842812367173709061049403'
-    }, 
-    {
       title: 'Spin-off von "Challenge: Wunschliste"_Lina', 
       author: 'lina.mayer98', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6706518100852736/6298422824189952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6706518100852736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5125553861483831983950116'
+    }, 
+    {
+      title: 'Game 1', 
+      author: 'GlowSquid', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912/4800411883323392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3296284706853297764156493'
     }, 
   ];
 };
