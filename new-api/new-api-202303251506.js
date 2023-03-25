@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 53, 
+      votes: 51, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Spider-Man 3D game.', 
       author: 'Timothy Kostenko Productions', 
-      votes: 29, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152/4592739390111744.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-man-3d-game/5869996900401152', 
@@ -192,7 +192,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hermione', 
       author: 'NIKO Ψ', 
-      votes: 70, 
+      votes: 68, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/4628594065457152.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
-      votes: 23, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/4863564746899456.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
@@ -649,6 +649,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
+      title: 'maple leaf', 
+      author: 'The Goo 🌪', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/maple-leaf/4673119320326144/5165064136212480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/maple-leaf/4673119320326144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'Starting Scene - JS Project Fetch ', 
       author: 'Laasya :)', 
       votes: 2, 
@@ -766,42 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Y A', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4747241698148352/6678159136440320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4747241698148352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_309293824175240309639074'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'ovadia.bautista', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4862157574684672/4710543282978816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4862157574684672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1109477427615006299817904'
-    }, 
-    {
-      title: '"Projekt: Odtwórca aplikacji"', 
-      author: 'Konrad Grabowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projekt-odtwrca-aplikacji/5871160115118080/5745407666995200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projekt-odtwrca-aplikacji/5871160115118080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_945842899833817102645687'
-    }, 
-    {
-      title: '.', 
-      author: 'parallelrockstar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5634684014084096/5592239670870016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5634684014084096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1148205086569154468488970'
-    }, 
-    {
       title: 'mario kart 2.0', 
       author: 'LightningCoder', 
       votes: 4, 
@@ -869,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'hassankarbala74', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5864036676976640/5596761155747840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5864036676976640/6713343508529152.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5864036676976640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_886441262060055058629368'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5380679312654336/6436664601001984.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5380679312654336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1100378973236687240721034'
+    }, 
+    {
+      title: 'Lab 5', 
+      author: 'Briley', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5/6662384526868480/4842121887793152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-5/6662384526868480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_571422202266584704627461'
+    }, 
+    {
+      title: 'World!!!', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/world/5406059918573568/5024153322438656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/world/5406059918573568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
+    }, 
+    {
+      title: 'lions!', 
+      author: 'allenokwelume', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lions/5093320432074752/4655961454460928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lions/5093320432074752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8659098061068910773761504'
     }, 
   ];
 };
