@@ -21,52 +21,52 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 34, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6640508983361536.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'What is Web-Developement?', 
-      author: '21262', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 23, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
-      title: 'C', 
-      author: 'KarLlr', 
-      votes: 60, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+      title: 'What is Web-Developement?', 
+      author: '21262', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 26, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5509958365134848.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'C', 
+      author: 'KarLlr', 
+      votes: 61, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 44, 
+      votes: 46, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 79, 
+      votes: 80, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
+      title: 'Flame Head with more levels', 
+      author: 'Crystal Coding', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5503136346456064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Flag of USA', 
       author: 'The Goo 🌪', 
       votes: 20, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152/4524423509229568.png', 
       link: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
-    }, 
-    {
-      title: 'Flame Head with more levels', 
-      author: 'Crystal Coding', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5503136346456064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'interesting ripple bug', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
+      title: 'gold angel anime girl with pink hair', 
+      author: 'Jessica Lewis', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136/6278293184888832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125955546141554314985653'
+    }, 
+    {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
       votes: 33, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672/5941442926395392.png', 
       link: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3550040499775075061747637'
-    }, 
-    {
-      title: 'Expired Mario Kart', 
-      author: 'urfav.isabela', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5703122539560960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
     }, 
   ];
 };
