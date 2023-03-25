@@ -838,6 +838,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'Aravind Ravi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6461988969693184/4586316051562496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6461988969693184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7762120565769558170700527'
+    }, 
+    {
+      title: 'E08 - 2', 
+      author: 'JAYDE KHUNG EE JAE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320/4932339353567232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e08-2/4935107057336320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'Tsungirirai Rock', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6248777397878784/4892232479195136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6248777397878784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
+    }, 
+    {
       title: 'E08 - 1', 
       author: 'JAYDE KHUNG EE JAE', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344/4667825706024960.png', 
       link: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'Raining like Japonase bullet train', 
-      author: 'Thecoderofthenoobs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raining-like-japonase-bullet-train/4960842568482816/5509556139769856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raining-like-japonase-bullet-train/4960842568482816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'sarasjod', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744/4751131898331136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6342468801183744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
-    }, 
-    {
-      title: 'STUFFIES', 
-      author: 'havazhang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872/6710303208554496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_260397395120391249509212'
     }, 
   ];
 };
