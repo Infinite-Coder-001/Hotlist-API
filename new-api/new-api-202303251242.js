@@ -811,24 +811,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Pong [GAME]', 
-      author: 'Hibernia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784/4734121244147712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Girafa → Cachorro que viu coisas', 
-      author: 'mateus.sh.brito', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/girafa-cachorro-que-viu-coisas/4841066802233344/5673883375288320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/girafa-cachorro-que-viu-coisas/4841066802233344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8316989737678082731273563'
-    }, 
-    {
       title: '"Little ice cream" 프로젝트', 
       author: 'C1_2333046_이하은_SE2023', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5144790716170240/4577342388486144.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5144790716170240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_862747922248489940904005'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'josellyjc22', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5241602701574144/6602426481426432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5241602701574144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80767184253993943961868'
+    }, 
+    {
+      title: 'Spin-off of "Project: Interactive slideshow"', 
+      author: 'Surya  Sureshkumar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752/6646983579451392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
   ];
 };
