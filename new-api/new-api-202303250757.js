@@ -829,6 +829,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Tsungirirai Rock', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5704962228404224/5638330474872832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5704962228404224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
+    }, 
+    {
+      title: 'New program', 
+      author: 'bebu.david.junior', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5695351232446464/6440142081671168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5695351232446464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_100686405854933776821231'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'chis423w', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6411263585599488/5951927243554816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6411263585599488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9359422532161002135441259'
+    }, 
+    {
+      title: '"코드로 그림 그리기 2" 프로젝트', 
+      author: 'C1_2333044_김건우_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2/5787577199411200/5227452218785792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2/5787577199411200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_58924800850056409999719'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'Mr B Cheteni', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160/4824907121999872.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Katherine Powell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6552681935323136/6504146959384576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6552681935323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
-    }, 
-    {
-      title: '- The Seagull Attack -', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5608099810689024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'assessment 1 task 1 ', 
-      author: 'Sofia B', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/assessment-1-task-1/5560453154783232/4958757831622656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/assessment-1-task-1/5560453154783232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4853857338941687783130657'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'wilxo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6359171311386624/5887754358800384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6359171311386624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_818133588848968577139901'
     }, 
   ];
 };
