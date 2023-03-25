@@ -326,7 +326,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Team Defender homepage  ~&#60;~', 
-      author: 'Floofy(Offline)', 
+      author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952/6349238830415872.png', 
@@ -802,15 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7221158779781340267344046'
     }, 
     {
-      title: 'Defender team homepage', 
-      author: 'Floofy(Offline)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464/6398635383504896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defender-team-homepage/5564230997950464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'Proof of Concept', 
       author: 'ethankim8683', 
       votes: 6, 
@@ -856,49 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
-      title: 'Derivado de "Proyecto: gente famosa"', 
-      author: 'breydis.gomezma', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Brang Mai', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5643700157071360/6607328247070720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5643700157071360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218128899598631172852180'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4526484875427840/5859393280458752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4526484875427840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8577397152869473369382878'
     }, 
     {
-      title: 'this was hard', 
-      author: 'LovelyPetals', 
+      title: 'Derivado de "Desafío: frutas favoritas"', 
+      author: 'Felipe Perez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-hard/6488294839074816/5116179120439296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-was-hard/6488294839074816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5578029670907904/5591638090235904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5578029670907904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1404697817880406622348345'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'kennychin9000', 
+      title: ' - The Rolling Stones -', 
+      author: 'Xiøn 😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5266156392071168/6334703243411456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5266156392071168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-rolling-stones-/6697585642618880/5113474700328960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-rolling-stones-/6697585642618880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'rendolaber', 
+      title: 'Angelo\'s Spin-off of "Project: Bookshelf"', 
+      author: 'angelo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6601884141142016/6479209607512064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6601884141142016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5067621233065766417825952'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angelos-spin-off-of-project-bookshelf/6665440396099584/5120059891826688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angelos-spin-off-of-project-bookshelf/6665440396099584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_885612513196920831908269'
     }, 
     {
-      title: 'WHEN YOU ALMOST BEAT SANS', 
-      author: 'LovelyPetals', 
+      title: 'Cara ou coroa', 
+      author: 'Iury Rezende', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960/6737182741282816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cara-ou-coroa/4632289465384960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042195465122474668634513'
+    }, 
+    {
+      title: 'Spin-off of "Kingdom Hearts (REFRENCE PHOTOS)"', 
+      author: 'Birdwatcher14', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/when-you-almost-beat-sans/6270685422075904/6241757106061312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/when-you-almost-beat-sans/6270685422075904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-kingdom-hearts-refrence-photos/5759020683280384/5184281866715136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-kingdom-hearts-refrence-photos/5759020683280384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_878258300279935634112710'
     }, 
   ];
 };
