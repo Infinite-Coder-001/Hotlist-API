@@ -802,15 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_405266661114827376411509'
     }, 
     {
-      title: 'rebote pelota', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rebote-pelota/4611567741353984/6586491213234176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rebote-pelota/4611567741353984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
       title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
       author: 'felipe araujo', 
       votes: 2, 
@@ -820,29 +811,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7221158779781340267344046'
     }, 
     {
-      title: 'Spin-off of "egg"', 
-      author: 'abdurrahman.ar237262', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-egg/4647035245740032/6696365569916928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-egg/4647035245740032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3027014240340314095165531'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day",Amir', 
-      author: 'mr.amir.mti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dayamir/5097770823499776/6524979631144960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dayamir/5097770823499776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1038456884331325798371810'
-    }, 
-    {
       title: 'Spin-off of "Booleans"', 
       author: 'ianruien', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6063074118516736/5376907626725376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6063074118516736/6282366021844992.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6063074118516736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6202436109194775102305197'
     }, 
@@ -856,12 +829,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9717350946287704771629971'
     }, 
     {
-      title: 'Spin-off of "Drawing more shapes with', 
+      title: 'Spin-off of "Drawing more shapes with code"', 
       author: 'Ashish Jain', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with/6192979967787008/4958647773085696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with/6192979967787008', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6192979967787008/5268011784388608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6192979967787008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9040424091319666918302236'
     }, 
     {
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243138487926784/6311035498971136.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243138487926784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4934099287476198247561100'
+    }, 
+    {
+      title: 'Spin-off Zero-60 pt1', 
+      author: 'colter.la.slikkers', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-zero-60-pt1/5126401226489856/5140154097647616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-zero-60-pt1/5126401226489856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_668463451930502304582536'
+    }, 
+    {
+      title: 'Proof of Concept', 
+      author: 'ethankim8683', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056/4999425434107904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proof-of-concept/5131882474029056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'colloriley', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5510358669508608/4592242569560064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5510358669508608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4038290366897420772831853'
     }, 
   ];
 };
