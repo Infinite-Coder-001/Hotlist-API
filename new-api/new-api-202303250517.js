@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
-      votes: 30, 
+      votes: 29, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
@@ -838,51 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'Recetas Colombianas', 
-      author: 'ivettesanches.17enero', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/recetas-colombianas/6064918270099456/6343911359692800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/recetas-colombianas/6064918270099456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'ivettesanches.17enero', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4704411478966272/5356469722857472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4704411478966272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
-    }, 
-    {
-      title: 'why did i do this ', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-did-i-do-this/5890699531960320/4934204241788928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-did-i-do-this/5890699531960320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'nubaidrrahman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5262098486837248/4605510998605824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5262098486837248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_809413967787595121983729'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'jaydyhdez111', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5808565429518336/5523853054099456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5808565429518336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1135848814999383359526578'
-    }, 
-    {
       title: 'ready to eat?', 
       author: 'ညီညီ ဝင်း', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5604072641314816/6161379209035776.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5604072641314816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128176148938345199740125'
+    }, 
+    {
+      title: 'Derivado de "Desafío: el menú de la cena"', 
+      author: 'mariorogerruiz123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6588238895824896/6573219596517376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/6588238895824896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128176148938345199740125'
+    }, 
+    {
+      title: 'Ashwin', 
+      author: 'ashwinkrishna815', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ashwin/5264762943619072/5772745502932992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ashwin/5264762943619072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520340269107184375949835'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Puja2025', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6599459296559104/6574231598186496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6599459296559104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7976597529359355753192169'
+    }, 
+    {
+      title: 'favorite books challenge', 
+      author: 'addyboy017', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-books-challenge/4673339101855744/6561920242204672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-books-challenge/4673339101855744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4088356331260402704538529'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'jaydyhdez111', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5809717353168896/5468871097368576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5809717353168896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1135848814999383359526578'
     }, 
   ];
 };
