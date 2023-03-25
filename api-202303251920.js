@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 62, 
+      votes: 63, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6640508983361536.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'C', 
       author: 'KarLlr', 
       votes: 60, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'What is Web-Developement?', 
       author: '21262', 
       votes: 15, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5509958365134848.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 34, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5918527296159744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/4621945850347520.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -121,10 +121,19 @@ var LoadHotlistAPI = function() {
       title: 'T-Rex art _| using curveVertex tool', 
       author: 'CodingChamp01 🟢', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
       link: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
+      title: 'Dodge game?', 
+      author: 'Floofy(Offline)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/4551351561666560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Logo Tutorial :D', 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Dodge game?', 
-      author: 'Floofy(Online)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/4551351561666560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'ST Personality Test w Results 2023', 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Captain Longtreader', 
       votes: 15, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5149985143570432.png', 
       link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 33, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6296429892255744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6238219260968960.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
