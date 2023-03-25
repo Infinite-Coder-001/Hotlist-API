@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Archbirdplus', 
       votes: 76, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6576736285540352.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'managingkvtech', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raindrops-falling/4652152330174464/6061602958000128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raindrops-falling/4652152330174464/5844000369328128.png', 
       link: 'https://www.khanacademy.org/computer-programming/raindrops-falling/4652152330174464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1200785355994841284233587'
     }, 
@@ -838,42 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'New webpage', 
-      author: 'CodeEngineer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872/5105298919702528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'rohitramana000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6082583638360064/6390889242214400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6082583638360064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_751682622118898444582722'
-    }, 
-    {
-      title: 'White Bugs', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344/4667825706024960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-bugs/6416720014393344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'Raining like Japonase bullet train', 
-      author: 'Thecoderofthenoobs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raining-like-japonase-bullet-train/4960842568482816/5509556139769856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raining-like-japonase-bullet-train/4960842568482816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'sarasjod', 
       votes: 9, 
@@ -883,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'STUFFIES', 
-      author: 'havazhang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872/6710303208554496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_260397395120391249509212'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'rendolaber', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744/5915484043395072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5067621233065766417825952'
+    }, 
+    {
+      title: 'Bali-the land of beaches', 
+      author: 'tomin7360', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bali-the-land-of-beaches/4546618943913984/6303251776716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bali-the-land-of-beaches/4546618943913984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8779395781205622786676066'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'sergioabidmartinezanell1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5162666932092928/4827271367278592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5162666932092928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1257265566097497969750086'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 'andre mae', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6246765801291776/6726771119800320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6246765801291776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_111401681933398205297586'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Md Sohan Hossain', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511881557950464/6259315200802816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511881557950464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4940373859086760980704398'
+    }, 
+    {
+      title: 'Planets are movin\'', 
+      author: 'JAYDE KHUNG EE JAE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/planets-are-movin/5502669537198080/6037449169223680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/planets-are-movin/5502669537198080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
     }, 
   ];
 };
