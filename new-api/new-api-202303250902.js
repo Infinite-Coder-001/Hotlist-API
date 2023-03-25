@@ -829,6 +829,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'tooddooddoododo', 
+      author: 'victor.voinescu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tooddooddoododo/6023613905158144/4896490033299456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tooddooddoododo/6023613905158144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280501162539436005915384'
+    }, 
+    {
+      title: 'list', 
+      author: 'sophia.tatu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/list/5024811979161600/6013391413231616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/list/5024811979161600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_447091717365851774080907'
+    }, 
+    {
+      title: 'ceva@ceva', 
+      author: 'coltalex26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cevaceva/6457906930434048/5515369285730304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cevaceva/6457906930434048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485572497235360344891039'
+    }, 
+    {
+      title: 'Khan20 - ex. 4', 
+      author: 'daria.alexandra.lazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/4857697251147776/5549728353009664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/4857697251147776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
+    }, 
+    {
+      title: '🐇𝓑ⓤＣᛕｔ𝓞ＯтнⒷυ𝕟𝐧ү 🐇', 
+      author: 'Skoniar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184/4743860015382528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6677605555421184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_661694846369502370652273'
+    }, 
+    {
+      title: 'blue2', 
+      author: 'Fabian', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue2/4890157271793664/6419204283875328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue2/4890157271793664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_772190556764635369430620'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'dikshagk13', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4819668134313984/4939346928254976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4819668134313984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3307559484321314263172357'
+    }, 
+    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'chbxhn5fvr', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736/5824771112878080.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1695267991450392669096917'
-    }, 
-    {
-      title: 'Hola', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hola/4716463157198848/6254458398097408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hola/4716463157198848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
-      title: 'Khan20 - ex. 4', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/6526434148663296/5533855563169792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/6526434148663296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'Derivado de "Desafío: ilusión óptica"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5125306328596480/5734582201925632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5125306328596480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: 'Spin-off of "Project: Prophets"', 
-      author: 'redisthename', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-prophets/4669734919651328/5606985501556736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-prophets/4669734919651328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_320207614709668270947238'
-    }, 
-    {
-      title: 'Binary Tree practice', 
-      author: '1001programmer1001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480/6491531432476672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
-      title: 'spongebob', 
-      author: 'C2_2333031_김세찬_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spongebob/6603395818635264/5888460478267392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spongebob/6603395818635264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1140846514309718537345394'
-    }, 
-    {
-      title: 'list', 
-      author: 'martin.baraboiu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/list/6549660190949376/4882229869461504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/list/6549660190949376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444374792009460746350279'
     }, 
   ];
 };
