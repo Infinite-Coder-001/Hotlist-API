@@ -829,6 +829,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Mark Maged', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6700918503686144/5396351446990848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6700918503686144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9436501750823427915605832'
+    }, 
+    {
       title: 'Spin-off of "Project: Build-a-House"', 
       author: 'Tsungirirai Rock', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5096782209269760/6577559593861120.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5096782209269760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_602438335763961969263122'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'kennychin9000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160/4824907121999872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
     }, 
   ];
 };
