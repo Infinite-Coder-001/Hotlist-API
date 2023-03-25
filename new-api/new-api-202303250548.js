@@ -586,15 +586,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack" _Lizard', 
-      author: 'Jeremiah Fahmer', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-_lizard/6227902984404992/5910594001879040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-_lizard/6227902984404992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
-    }, 
-    {
       title: 'curveVertex drawing tool', 
       author: 'CodingChamp01 🔴', 
       votes: 5, 
@@ -847,42 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'Derivado de "Desafío: el menú de la cena"', 
-      author: 'cinthiabetancourth98', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/4643747616047104/4662083737403392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cena/4643747616047104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485415501459700665482135'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Kamso1234', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5154298498695168/4632321727971328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5154298498695168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_134722729366459015173870'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Kamso1234', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5662385143857152/4953332415512576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5662385143857152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_134722729366459015173870'
-    }, 
-    {
-      title: 'Shonen the wraith ', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896/5126634983440384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'tiannahayes12', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888/6743301333237760.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101992778019131971855383'
+    }, 
+    {
+      title: 'Spin-off of "MineKhan"', 
+      author: 'Speds', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-minekhan/5546575444361216/6238658723364864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-minekhan/5546575444361216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803653012305180186382020'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'Sulman Farsi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6487951342354432/5034611349700608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6487951342354432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1930174815636020718044090'
+    }, 
+    {
+      title: 'New program', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6182756100128768/5907067014791168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6182756100128768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'alskdjfal;ksjf', 
+      author: 'noNameCode', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/alskdjfalksjf/5789521812963328/5187285256814592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/alskdjfalksjf/5789521812963328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'Puja2025', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4823466831560704/4510330832338944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4823466831560704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7976597529359355753192169'
     }, 
   ];
 };
