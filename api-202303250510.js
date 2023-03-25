@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Just the Beginning', 
+      author: 'The Chosen One', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
+    }, 
+    {
       title: 'Logo Tutorial :D', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 21, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008/5290824268300288.png', 
       link: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Just the Beginning', 
-      author: 'The Chosen One', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
       title: 'T-Rex art _| using curveVertex tool', 
