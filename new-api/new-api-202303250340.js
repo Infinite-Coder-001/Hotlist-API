@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_951978328418682283863632'
     }, 
     {
+      title: 'bob velsab (recreated)', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bob-velsab-recreated/6072030199070720/5771253328953344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bob-velsab-recreated/6072030199070720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Raindrops Falling', 
       author: 'managingkvtech', 
       votes: 2, 
@@ -829,6 +838,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
+      title: 'Meatball and peas', 
+      author: 'trebakarem', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752/4624355368943616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meatball-and-peas/5823938828746752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_707181278120448215617518'
+    }, 
+    {
+      title: 'collision testing', 
+      author: 'jc4003', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616/6436184000872448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-testing/5101843324911616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520436475008159501952344'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" - Alexander Moon Wong', 
+      author: 'Amwong213010', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-alexander-moon-wong/5909784923783168/6357516775899136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-alexander-moon-wong/5909784923783168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2819753993826862919377118'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'hardy.chen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6742102273998848/5528984197840896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6742102273998848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8122300368354951425154856'
+    }, 
+    {
+      title: 'WebDev Dinner', 
+      author: 'mjobrien', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webdev-dinner/4759947486478336/5849695512739840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webdev-dinner/4759947486478336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_872865017884465894089141'
+    }, 
+    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'Daniel Herrera', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/stan/5924569660833792/4749736101068800.png', 
       link: 'https://www.khanacademy.org/computer-programming/stan/5924569660833792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2195635026292663429409847'
-    }, 
-    {
-      title: 'stan', 
-      author: 'lexalepore9', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stan/6510507705286656/6610623057412096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stan/6510507705286656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2195635026292663429409847'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design Taym v2"', 
-      author: 'taym.shehab', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-taym-v2/6625535620071424/5757396229341184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-taym-v2/6625535620071424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610117193380194280345522'
-    }, 
-    {
-      title: 'Spin-off of "Intro to Objects"', 
-      author: 'Miss Kashvi P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-objects/6355784461238272/5054926243020800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-objects/6355784461238272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_336624982135495835235128'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: The dinner table"', 
-      author: 'mjobrien', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table/6698767933030400/6675400291041280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table/6698767933030400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_872865017884465894089141'
-    }, 
-    {
-      title: 'Cannon', 
-      author: 'Avinasen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cannon/6142302440701952/5013420719259648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cannon/6142302440701952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'luisalberto.baca.rebeles2225', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4782029825949696/4553860896309248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4782029825949696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4105217960520722444208245'
     }, 
   ];
 };
