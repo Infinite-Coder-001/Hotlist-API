@@ -829,42 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'chbxhn5fvr', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736/5824771112878080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622754319220736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1695267991450392669096917'
-    }, 
-    {
-      title: 'Hola', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hola/4716463157198848/6254458398097408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hola/4716463157198848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
-      title: 'Khan20 - ex. 4', 
-      author: 'david popescu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/6526434148663296/5533855563169792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan20-ex-4/6526434148663296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036557288231179502835129'
-    }, 
-    {
-      title: 'Derivado de "Desafío: ilusión óptica"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5125306328596480/5734582201925632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5125306328596480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
       title: 'Spin-off of "Project: Prophets"', 
       author: 'redisthename', 
       votes: 1, 
@@ -878,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: '1001programmer1001', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480/6491531432476672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480/6153345137164288.png', 
       link: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/list/6549660190949376/4882229869461504.png', 
       link: 'https://www.khanacademy.org/computer-programming/list/6549660190949376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444374792009460746350279'
+    }, 
+    {
+      title: 'ex4 khan20', 
+      author: 'dani2710', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex4-khan20/6318658931703808/5222315379179520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex4-khan20/6318658931703808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Troaca Andrei', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5903302509510656/5109333378777088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5903302509510656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9162134751568535197204561'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'joelmrobison', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5071815967031296/6257570907209728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5071815967031296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_117427302798426154196499'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'youssef amgad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5992741344690176/6275894714089472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5992741344690176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_228899041089167540737922'
     }, 
   ];
 };
