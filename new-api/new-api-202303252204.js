@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'What is Web-Developement?', 
       author: '21262', 
-      votes: 20, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
-      title: 'C', 
-      author: 'KarLlr', 
-      votes: 62, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 27, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5509958365134848.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
+      title: 'C', 
+      author: 'KarLlr', 
+      votes: 61, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
@@ -721,33 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_481991557407270039866638'
     }, 
     {
-      title: 'Spin-off z "Projekt: Znane postacie"', 
-      author: 'Emilka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5666788089315328/6084443896070144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-znane-postacie/5666788089315328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_70647251920307069874543'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'liedward495', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4566828073664512/6242304982827008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4566828073664512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_712485263402209437224824'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'ivozelic', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6028639822200832/4590227424591872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6028639822200832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1291688644622394439057468'
-    }, 
-    {
       title: 'Derivação de "Desafio: Afastando as Nuvens"', 
       author: 'alexburdelis', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-libro-de-recetas/5340938114482176/5118007971201024.png', 
       link: 'https://www.khanacademy.org/computer-programming/proyecto-libro-de-recetas/5340938114482176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152463736061156403747738'
+    }, 
+    {
+      title: 'thing', 
+      author: 'Repeat', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thing/6376459452334080/4645764707172352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thing/6376459452334080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_730847189850789421961173'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'ivozelic', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5274063930179584/6488433251106816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5274063930179584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1291688644622394439057468'
+    }, 
+    {
+      title: 'snowman practice', 
+      author: 'manningshawnk419', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman-practice/5681049125568512/5134261603844096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snowman-practice/5681049125568512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
     }, 
   ];
 };
