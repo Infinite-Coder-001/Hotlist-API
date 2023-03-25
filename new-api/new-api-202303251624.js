@@ -19,18 +19,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'gift_for_a_queen.png', 
-      author: 'NL#Midsane', 
-      votes: 15, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/5559508261978112.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -44,6 +35,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5739532487278592.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
+      title: 'gift_for_a_queen.png', 
+      author: 'NL#Midsane', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
@@ -649,15 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
-      title: 'PICO-8 Library that will never get fully finished. Voting up unfinished projects harms creators like me, please just sub to the update thread and I\'ll tell you when to vote.', 
-      author: 'StuffStash', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pico-8-library-that-will-never-get-fully-finished-voting-up-unfinished-projects-harms-creators-like-me-please-just-sub-to-the-update-thread-and-ill-tell-you-when-to-vote/6427200338575360/5992831941656576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pico-8-library-that-will-never-get-fully-finished-voting-up-unfinished-projects-harms-creators-like-me-please-just-sub-to-the-update-thread-and-ill-tell-you-when-to-vote/6427200338575360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Starting Scene - JS Project Fetch ', 
       author: 'Laasya :)', 
       votes: 2, 
@@ -730,110 +721,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_93099697245785953184401'
     }, 
     {
-      title: 'PROLLECTO BASE DE DATOS', 
-      author: 'santinoreyesmillan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prollecto-base-de-datos/4909736920399872/6007976029896704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prollecto-base-de-datos/4909736920399872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_288669054063365031864311'
-    }, 
-    {
-      title: '5', 
-      author: 'schooljafar313', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/5/6274943915704320/4871501477363712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/5/6274943915704320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_685146639517266151984868'
-    }, 
-    {
-      title: '"გამოწვევა: მზიანი თოვლიანი დღე"-ის სპინ-ოფები', 
-      author: 'gtabatadze632', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6323698975162368/5206120097693696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6323698975162368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_325918968876548330136997'
-    }, 
-    {
-      title: 'Nuevo programa', 
-      author: 'acostajairo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5047089035001856/6608545232764928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5047089035001856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_510812597585844423371929'
-    }, 
-    {
-      title: '"გამოწვევა: მზიანი თოვლიანი დღე"-ის სპინ-ოფები', 
-      author: 'gtabatadze632', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4646979276947456/4531630682456064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4646979276947456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_325918968876548330136997'
-    }, 
-    {
-      title: 'Spin-off of "Project: Word game " - Galih AD.', 
-      author: 'Galih Ananda Dwisari - 09031282126107', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-galih-ad/5592107667734528/4702010592247808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game-galih-ad/5592107667734528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2901245165309063792883933'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'walterquiroz.asm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5518600845967360/5372989601529856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5518600845967360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223808951790222969682847'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda" 3', 
-      author: 'Raul', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda-3/6587970628141056/6029586661163008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda-3/6587970628141056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278605752144563071460452'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: '23NirwanAs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5897710764081152/6590118044680192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5897710764081152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_274078637007646247435891'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'walterquiroz.asm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5057768269856768/6492706072477696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5057768269856768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223808951790222969682847'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'leonardo57386', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4705400126750720/5381851134083072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4705400126750720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_212434253776155178059067'
-    }, 
-    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'zaid biscuit :)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6592294653575168/6323136871317504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6592294653575168/6084627539476480.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6592294653575168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_616569957136521702665122'
     }, 
@@ -899,6 +791,114 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5880054958833664/6390149098553344.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/5880054958833664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_630014530932770886485290'
+    }, 
+    {
+      title: 'House final project', 
+      author: 'Grady Sullivan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/house-final-project/4689187321462784/6313496884330496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/house-final-project/4689187321462784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9202717339810931827866603'
+    }, 
+    {
+      title: 'Derivado de "Crear una tabla e insertar datos"', 
+      author: 'Thiago', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/6679664086269952/6057867577966592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-crear-una-tabla-e-insertar-datos/6679664086269952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_630014530932770886485290'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz" Adam Moras "Tyle wspomnień"', 
+      author: 'Adam Moras', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz-adam-moras-tyle-wspomnie/6189720993579008/5978526680662016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz-adam-moras-tyle-wspomnie/6189720993579008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_313051451205813997347290'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'zaid biscuit :)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5378196116914176/5532712665661440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5378196116914176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_616569957136521702665122'
+    }, 
+    {
+      title: 'Phone ', 
+      author: 'marfella.bryanna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/5265860542644224/6623210264379392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phone/5265860542644224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_971634160368146507291923'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Oksana Malakhova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5534985810657280/6115964023521280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5534985810657280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211256594454099891369273'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Nur  Azam Aidid', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4506993307205632/5671725187776512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4506993307205632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5876366039594564102535813'
+    }, 
+    {
+      title: 'Spin-off z "Metody obiektu"', 
+      author: 'Renata Skarzynska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-metody-obiektu/5650261860466688/6658339372318720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-metody-obiektu/5650261860466688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8374479633204654488839397'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'zaid biscuit :)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5091817730392064/6451953745051648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5091817730392064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_616569957136521702665122'
+    }, 
+    {
+      title: 'Spin-off of "gift_for_a_queen.png"', 
+      author: 'Jessica Lewis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-gift_for_a_queenpng/4909096735391744/5115461055594496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-gift_for_a_queenpng/4909096735391744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125955546141554314985653'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Co bude k večeři?"', 
+      author: 'klara.nucova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-co-bude-k-veei/5390208972668928/5020413932650496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-co-bude-k-veei/5390208972668928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1198983128282732463182537'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Tsungirirai Rock', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4989630794743808/6217758842077184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4989630794743808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8453672668111803653277939'
     }, 
   ];
 };
