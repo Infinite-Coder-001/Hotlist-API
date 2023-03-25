@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 35, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6640508983361536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
@@ -730,6 +730,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'destinyvasquez1995', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5751222582951936/5937752475746304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5751222582951936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3883543512206177601679722'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'deannakahanek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5861214413701120/5897276066414592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5861214413701120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830529913885772878588136'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'Ebaq  Abdi', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-wow-character-creator/5735932264497152/4768723027410944.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-wow-character-creator/5735932264497152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_318292737729387290297952'
-    }, 
-    {
-      title: 'Japan Webpage', 
-      author: 'KyDeov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/japan-webpage/6101930352099328/5652152099061760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/japan-webpage/6101930352099328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1550999378753579722658451'
-    }, 
-    {
-      title: 'Spin-off of "Nested For Loops"', 
-      author: 'dmatthias28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5747452876734464/6246389396062208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-nested-for-loops/5747452876734464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1083187114296770923692108'
     }, 
   ];
 };
