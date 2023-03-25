@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 16, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5739532487278592.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
+      title: 'gift_for_a_queen.png', 
+      author: 'NL#Midsane', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
       votes: 98, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520/6259588280401920.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-voronine/5891220883947520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'gift_for_a_queen.png', 
-      author: 'NL#Midsane', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
       title: 'keys = {} performance', 
@@ -784,11 +784,56 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1065213098995021368328526'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'voj.anderle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4967061949562880/6216433307795456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4967061949562880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5747283801077256913880510'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'yusufahsan.student', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5026499364438016/5586919347240960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5026499364438016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_947165896866923984531781'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'chetanm0416', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4757666053537792/6065915642036224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4757666053537792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3337338841381170888668489'
+    }, 
+    {
+      title: 'Cubo vermelho', 
+      author: 'Marcelojunqueiraf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cubo-vermelho/5313917535698944/4940015735193600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cubo-vermelho/5313917535698944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164803707211212901325985'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Josephat Mutuku', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5067972340400128/5940666107740160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5067972340400128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8431664324382370935689104'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'aishwarya.s.2020.cse', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5379515712061440/5235775437586432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5379515712061440/6436462737539072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5379515712061440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4970218641217742480158910'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spider-gwen-pengwen-spider-man-aragorn-elessar/6711725664813056/6703555462610944.png', 
       link: 'https://www.khanacademy.org/computer-programming/spider-gwen-pengwen-spider-man-aragorn-elessar/6711725664813056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: 'Pong [GAME]', 
-      author: 'Hibernia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784/5189361806393344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Girafa → Cachorro que viu coisas', 
-      author: 'mateus.sh.brito', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/girafa-cachorro-que-viu-coisas/4841066802233344/5673883375288320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/girafa-cachorro-que-viu-coisas/4841066802233344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8316989737678082731273563'
-    }, 
-    {
-      title: '"Little ice cream" 프로젝트', 
-      author: 'C1_2333046_이하은_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/little-ice-cream/5104922078265344/5102187660492800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/little-ice-cream/5104922078265344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124500324094602621401528'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'C2_2333016_김동현_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5432153522618368/6699851338530816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5432153522618368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_649965990680961905401143'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Blog"', 
-      author: 'wabnic.piotr_nc_2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4750723675111424/6702625920958464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4750723675111424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_995201710024165581539914'
     }, 
   ];
 };
