@@ -23,9 +23,18 @@ var LoadHotlistAPI = function() {
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 35, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6640508983361536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'What is Web-Developement?', 
+      author: '21262', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: 'Just the Beginning', 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
-    }, 
-    {
-      title: 'What is Web-Developement?', 
-      author: '21262', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Floofy(Online)', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/5797462502850560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/5680316900753408.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -154,6 +154,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Lichess TV', 
+      author: 'bravo bravo', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672/5941442926395392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3550040499775075061747637'
+    }, 
+    {
+      title: 'ST Personality Test w Results 2023', 
+      author: 'Chris DeNeen', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152/4524423509229568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
+    }, 
+    {
       title: 'Flame Head with more levels', 
       author: 'Crystal Coding', 
       votes: 22, 
@@ -161,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5503136346456064.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
-      title: 'ST Personality Test w Results 2023', 
-      author: 'Chris DeNeen', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152/4524423509229568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
     }, 
     {
       title: 'interesting ripple bug', 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
-    }, 
-    {
-      title: 'Lichess TV', 
-      author: 'bravo bravo', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672/5941442926395392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3550040499775075061747637'
     }, 
     {
       title: 'IA Logo', 
@@ -244,6 +244,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
+      title: 'Sketch API', 
+      author: 'Infinite coder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/6219494478626816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/5665060673601536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
+    }, 
+    {
       title: 'gold angel anime girl with pink hair', 
       author: 'Jessica Lewis', 
       votes: 3, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136/6278293184888832.png', 
       link: 'https://www.khanacademy.org/computer-programming/gold-angel-anime-girl-with-pink-hair/5887020724699136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_125955546141554314985653'
-    }, 
-    {
-      title: 'I was bored.', 
-      author: 'Wort-Head Productions😐', 
-      votes: 33, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6238219260968960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'KhanéMon 2', 
-      author: 'Paperwad ☢️', 
-      votes: 101, 
-      forks: 41, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
   ];
 };
