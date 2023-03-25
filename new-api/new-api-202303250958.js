@@ -811,6 +811,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7221158779781340267344046'
     }, 
     {
+      title: 'Spin-off of "Booleans"', 
+      author: 'ianruien', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6063074118516736/6282366021844992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6063074118516736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6202436109194775102305197'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'vandervalk.cameron', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5401042021040128/5969000006991872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5401042021040128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9717350946287704771629971'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'Ashish Jain', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6192979967787008/5268011784388608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6192979967787008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9040424091319666918302236'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'Gabriel Seguí Blasco', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5155864685363200/6469067713331200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5155864685363200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4632506651573614263631750'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'colter.la.slikkers', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6586794067148800/5518819218210816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6586794067148800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_668463451930502304582536'
+    }, 
+    {
       title: 'Defender team homepage', 
       author: 'Floofy(Offline)', 
       votes: 3, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5510358669508608/4592242569560064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5510358669508608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4038290366897420772831853'
-    }, 
-    {
-      title: 'mover raton', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mover-raton/4623384135909376/5254704146989056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mover-raton/4623384135909376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'Erick Herrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5573568474955776/4959592313569280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5573568474955776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_284003643156649221436479'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Mikołaj Wieczorek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5717628355395584/5268195578789888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5717628355395584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3367402389983328323936004'
-    }, 
-    {
-      title: 'circulos al click', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circulos-al-click/6136518428377088/6104127328534528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circulos-al-click/6136518428377088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'Gabriel Seguí Blasco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512/5955067770617856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5461070463680512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4632506651573614263631750'
     }, 
   ];
 };
