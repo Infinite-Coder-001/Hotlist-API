@@ -829,6 +829,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
+      title: 'Spin-off of "Project: Prophets"', 
+      author: 'redisthename', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-prophets/4669734919651328/5606985501556736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-prophets/4669734919651328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_320207614709668270947238'
+    }, 
+    {
+      title: 'Binary Tree practice', 
+      author: '1001programmer1001', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480/6153345137164288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/binary-tree-practice/5009199605268480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+    }, 
+    {
       title: 'spongebob', 
       author: 'C2_2333031_김세찬_SE2023', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5992741344690176/6275894714089472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5992741344690176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_228899041089167540737922'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'kennychin9000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6113437207019520/6505637145264128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6113437207019520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'mohamed kamal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5768413726425088/5011568950820864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5768413726425088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8582183724536964338989881'
     }, 
   ];
 };
