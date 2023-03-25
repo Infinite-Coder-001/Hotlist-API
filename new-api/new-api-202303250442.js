@@ -838,15 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'PeterZhang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4872298764222464/6186950672564224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4872298764222464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_406462816135714314184119'
-    }, 
-    {
       title: 'Facts of Tokyo, Japan (wip)', 
       author: 'L0YAL_SCRAT24ER!', 
       votes: 2, 
@@ -854,24 +845,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/facts-of-tokyo-japan-wip/6274824025718784/6632657028169728.png', 
       link: 'https://www.khanacademy.org/computer-programming/facts-of-tokyo-japan-wip/6274824025718784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9670316404473139733739324'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LJE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6164970774773760/5150140500590592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6164970774773760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'zubiya.mehnur07', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4710166567370752/6396738585018368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4710166567370752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866487960976952369494237'
     }, 
     {
       title: 'Flying potatos for dinner!', 
@@ -883,22 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152001697594491596315653'
     }, 
     {
-      title: 'Collectio', 
-      author: 'Johnathan Wintres', 
+      title: 'Derivado de "Proyecto: gente famosa"', 
+      author: 'breydis.gomezma', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collectio/5785814819979264/4700025176506368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collectio/5785814819979264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226616569303588979232618'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5643700157071360/6607328247070720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5643700157071360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218128899598631172852180'
     }, 
     {
-      title: 'Final Judgement!!!!!!!', 
-      author: 'JLE', 
+      title: 'this was hard', 
+      author: 'LovelyPetals', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/final-judgement/5849530559152128/5560967477116928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/final-judgement/5849530559152128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-hard/6488294839074816/5116179120439296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-was-hard/6488294839074816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'kennychin9000', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5266156392071168/6334703243411456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5266156392071168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'rendolaber', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6601884141142016/6479209607512064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6601884141142016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5067621233065766417825952'
+    }, 
+    {
+      title: 'WHEN YOU ALMOST BEAT SANS', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/when-you-almost-beat-sans/6270685422075904/6241757106061312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/when-you-almost-beat-sans/6270685422075904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
