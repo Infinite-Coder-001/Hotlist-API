@@ -811,20 +811,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Nuevo programa', 
-      author: 'jorge', 
+      title: '"Little ice cream" 프로젝트', 
+      author: 'C1_2333046_이하은_SE2023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5198671483551744/5486500159733760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5198671483551744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2543221176841743146387610'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/little-ice-cream/5104922078265344/5102187660492800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/little-ice-cream/5104922078265344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124500324094602621401528'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'C2_2333016_김동현_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5432153522618368/6699851338530816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5432153522618368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_649965990680961905401143'
     }, 
     {
       title: 'Spin-off z "Projekt: Blog"', 
       author: 'wabnic.piotr_nc_2021', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4750723675111424/5154032512712704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4750723675111424/6702625920958464.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4750723675111424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_995201710024165581539914'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752/6646983579451392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Eduard Codeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6538578705563648/6554162021318656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6538578705563648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
     }, 
   ];
 };
