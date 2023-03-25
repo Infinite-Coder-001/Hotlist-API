@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 38, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 75, 
+      votes: 74, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6576736285540352.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Mushord [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/5540471037542400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Flame Head with more levels', 
       author: 'Crystal Coding', 
       votes: 20, 
@@ -109,13 +100,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
     }, 
     {
-      title: 'Facts', 
-      author: '▪Dipper98▪', 
+      title: 'Mushord [GAME]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008/5290824268300288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/5540471037542400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Flag of USA', 
@@ -145,13 +136,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'lol - interactive emoji', 
-      author: 'Captain Longtreader', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
+      title: 'Facts', 
+      author: '▪Dipper98▪', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008/5290824268300288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/facts/4552566701867008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Wrong is Well in the Right Hands', 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
+    }, 
+    {
+      title: 'lol - interactive emoji', 
+      author: 'Captain Longtreader', 
+      votes: 12, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5656798247043072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: 'KhanéMon 2', 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 31, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/4785410166538240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/5702875344060416.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -766,47 +766,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
-      title: 'space invaders', 
-      author: 'tugsoyun', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-invaders/5984576947404800/5892297813442560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space-invaders/5984576947404800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_220389062300420297268969'
-    }, 
-    {
-      title: 'phone', 
-      author: 'Jacob', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/4605042612289536/5828383515918336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phone/4605042612289536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_112466412053444059190339'
-    }, 
-    {
-      title: '', 
-      author: 'Xiøn 😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6454479085158400/6209134480637952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6454479085158400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'alvarer2017', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5045146300497920/4607724097945600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5045146300497920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
-    }, 
-    {
       title: 'Spin-off of "Lamborghini Aventador SVJ Back"', 
       author: 'BlueLightning909', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-lamborghini-aventador-svj-back/6439295704678400/4941848612487168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-lamborghini-aventador-svj-back/6439295704678400/4934219559387136.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-lamborghini-aventador-svj-back/6439295704678400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_20133512319449139786743'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-de-mira/5344650274848768/5557606262554624.png', 
       link: 'https://www.khanacademy.org/computer-programming/projeto-de-mira/5344650274848768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654278070585470362894887'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'GregoryCamposZarate', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6009173906341888/5025417787654144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6009173906341888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_577480844805690890258850'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Ricardo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6701513658646528/6481110096986112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6701513658646528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_286495719429047816357553'
+    }, 
+    {
+      title: 'New program', 
+      author: 'isaacspicer44', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5377885184770048/6536068683055104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5377885184770048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_178378681960577136401541'
+    }, 
+    {
+      title: '"Do NOT hit the button."的副本', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6364598572990464/5588750379040768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6364598572990464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
   ];
 };
