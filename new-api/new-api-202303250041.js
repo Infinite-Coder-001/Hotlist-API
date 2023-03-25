@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 51, 
+      votes: 53, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flame Head', 
       author: 'Archbirdplus', 
-      votes: 72, 
+      votes: 74, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/6576736285540352.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_936620259368561719366955'
     }, 
     {
+      title: 'Flag of USA', 
+      author: 'The Goo 🌪', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'T-Rex art _| using curveVertex tool', 
       author: 'CodingChamp01 🔴', 
       votes: 9, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/4628594065457152.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Flag of USA', 
-      author: 'The Goo 🌪', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Mushord [GAME]', 
@@ -302,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'Floofy(Online)', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952/5087991686283264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952/5423410244272128.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-defender-homepage/5477576559869952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -721,6 +721,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_223714752396041641798995'
     }, 
     {
+      title: 'Nuevo script de SQL', 
+      author: '622536', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/6133527151427584/6296481834516480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/6133527151427584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1131982159146870861264452'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'nathaliaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5253934324432896/5897244105818112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5253934324432896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293310708689372403800936'
+    }, 
+    {
+      title: 'my first game (WIP)', 
+      author: 'matriv782', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-game-wip/5554906036748288/6132881127948288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-first-game-wip/5554906036748288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798508769540946918542823'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
+      author: 'Vitor Coriolano', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6600217794494464/4668596317110272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6600217794494464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2183079343167308937205909'
+    }, 
+    {
+      title: 'wip', 
+      author: 'Mojo1000', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6220907640307712/5409128874033152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6220907640307712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_194923392893158063997634'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'lucianoenmanuel2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5425611616337920/4719340097421312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5425611616337920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1883050632171569779085507'
+    }, 
+    {
+      title: '"응용: 이름을 말하세요" 프로젝트', 
+      author: 'caillou1108', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4665999942270976/5273961018736640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4665999942270976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_550752590925999060464822'
+    }, 
+    {
+      title: 'Curve Explorer', 
+      author: 'Jme', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/curve-explorer/6255191730208768/4934362518044672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/curve-explorer/6255191730208768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567701916296046823162388'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : les liens que vous adorez"', 
+      author: 'Boichon Liege', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-les-liens-que-vous-adorez/4937191576092672/4566773447049216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-les-liens-que-vous-adorez/4937191576092672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_871441159522821397044760'
+    }, 
+    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'lucianoenmanuel2007', 
       votes: 1, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4889047056302080/4919529647161344.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4889047056302080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_478142995132251533686691'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Unknown', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6537549255589888/4809333805465600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6537549255589888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_262902154005113093742430'
-    }, 
-    {
-      title: 'Activity Planner', 
-      author: 'Shreya S', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/activity-planner/6626121883107328/5071215476916224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/activity-planner/6626121883107328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7229623353080686494453163'
-    }, 
-    {
-      title: 'Spin-off of "[TUTORIAL] Page Switching - Webpages"', 
-      author: 'LJE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-tutorial-page-switching-webpages/4732248084758528/6696493580075008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-tutorial-page-switching-webpages/4732248084758528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
-    }, 
-    {
-      title: 'Winning Scene - JS Project', 
-      author: 'Laasya :)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winning-scene-js-project/5179193706201088/4744723706462208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winning-scene-js-project/5179193706201088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda DE PAPITAS"', 
-      author: 'cristianabel126', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda-de-papitas/5469292239044608/4871939329146880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda-de-papitas/5469292239044608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_138340730432520070208470'
-    }, 
-    {
-      title: 'just what I neaded.', 
-      author: 'YokieBob', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-what-i-neaded/4575431849459712/6585059042967552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-what-i-neaded/4575431849459712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: espaguetis', 
-      author: 'monicarox.contre', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-espaguetis/5113831263354880/6140218656997376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-espaguetis/5113831263354880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
-    }, 
-    {
-      title: 'Spin-off of "Line Detector No Machine Learning AI"', 
-      author: 'Larry Serflaten', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-line-detector-no-machine-learning-ai/5760664179359744/5789525453619200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-line-detector-no-machine-learning-ai/5760664179359744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'emilcabrarataveras', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6582468355604480/6371702630301696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6582468355604480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_100582171329389313769178'
     }, 
   ];
 };
