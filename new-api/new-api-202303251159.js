@@ -802,33 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
-      title: 'Spin-off of "Project: Interactive slideshow"', 
-      author: 'Surya  Sureshkumar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752/6646983579451392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-interactive-slideshow/4718987188682752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Eduard Codeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6538578705563648/6554162021318656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6538578705563648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'lucas.vinuela', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5564361105260544/5721564827140096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5564361105260544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019141999501345555887088'
-    }, 
-    {
       title: 'final Fish tank', 
       author: 'Laura Grauwin', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/recipe-book/5929786922024960/5124216279318528.png', 
       link: 'https://www.khanacademy.org/computer-programming/recipe-book/5929786922024960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_956559129058138993825195'
+    }, 
+    {
+      title: 'Turkey', 
+      author: 'reijnswart', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turkey/6093867289198592/4529561749733376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/turkey/6093867289198592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_956559129058138993825195'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Mary-Jo Matea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6429786210877440/6081513084207104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6429786210877440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_667180676802161883874027'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'robolab', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6156948849606656/5497758443421696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6156948849606656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804284357842878557762595'
     }, 
   ];
 };
