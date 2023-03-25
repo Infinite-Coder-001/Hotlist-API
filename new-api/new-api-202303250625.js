@@ -847,6 +847,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'rendolaber', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744/5915484043395072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5067621233065766417825952'
+    }, 
+    {
+      title: 'Bali-the land of beaches', 
+      author: 'tomin7360', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bali-the-land-of-beaches/4546618943913984/6303251776716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bali-the-land-of-beaches/4546618943913984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8779395781205622786676066'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'sergioabidmartinezanell1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5162666932092928/4827271367278592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5162666932092928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1257265566097497969750086'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Favorite Animals"', 
       author: 'andre mae', 
       votes: 1, 
@@ -860,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'Md Sohan Hossain', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511881557950464/6663630973353984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511881557950464/6259315200802816.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6511881557950464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4940373859086760980704398'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/planets-are-movin/5502669537198080/6037449169223680.png', 
       link: 'https://www.khanacademy.org/computer-programming/planets-are-movin/5502669537198080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
-      title: 'Formula 1', 
-      author: 'Thecoderofthenoobs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/formula-1/5933664069533696/4574801982439424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/formula-1/5933664069533696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_544128517064297210040293'
-    }, 
-    {
-      title: 'face with no hair', 
-      author: 'antoniadawes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/face-with-no-hair/5097133356400640/6621076336721920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/face-with-no-hair/5097133356400640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_813558582154701885561402'
-    }, 
-    {
-      title: 'wip', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5811064228069376/6304837223628800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5811064228069376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
   ];
 };
