@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'Mushord [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/5540471037542400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
       votes: 30, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992/5794160360865792.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-hit-the-button/6750949470420992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Mushord [GAME]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/5540471037542400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'Just the Beginning', 
-      author: 'The Chosen One', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
-    }, 
-    {
       title: 'banksy rat', 
       author: 'NIKO Ψ', 
       votes: 24, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936/5088508760080384.png', 
       link: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Just the Beginning', 
+      author: 'The Chosen One', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
       title: 'Logo Tutorial :D', 
@@ -847,33 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'Derivado de "Desafío: ilusión óptica"', 
-      author: '22266298', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/6379692530909184/6403650697347072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/6379692530909184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6501950485663957088353328'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'wilsoncenteno2004', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6753483568234496/4686382883979264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6753483568234496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1321906582984281062764865'
-    }, 
-    {
-      title: 'New program', 
-      author: 'daria.alexandra.lazar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6617555470172160/6051282554241024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6617555470172160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9631535065780226635247267'
-    }, 
-    {
       title: 'Derivado de "Desafío: el menú de la cena"', 
       author: 'cinthiabetancourth98', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5662385143857152/4953332415512576.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5662385143857152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_134722729366459015173870'
+    }, 
+    {
+      title: 'Shonen the wraith ', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896/5126634983440384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shonen-the-wraith/5450336803536896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'tiannahayes12', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4852647242022912/4529526383362048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4852647242022912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1021347763282452781107534'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'KOSHIKA BISHT', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888/6743301333237760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101992778019131971855383'
     }, 
   ];
 };
