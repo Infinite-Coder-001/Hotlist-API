@@ -802,6 +802,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_405266661114827376411509'
     }, 
     {
+      title: '2333005 김범준', 
+      author: 'C2_2333005_김범준_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2333005/5089633202651136/6056922181844992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2333005/5089633202651136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_506017970211522612190870'
+    }, 
+    {
+      title: ' tytuł ', 
+      author: 'p.szymanski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tytu/4561952044269568/4510054914244608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tytu/4561952044269568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_516217055599007774486287'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Lucas Rémond', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6706518100852736/6298422824189952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6706518100852736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5125553861483831983950116'
+    }, 
+    {
+      title: 'Game 1', 
+      author: 'GlowSquid', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912/4800411883323392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-1/4605640485158912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3296284706853297764156493'
+    }, 
+    {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'C1_2333043_이현호_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4865674850910208/5667346300846080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4865674850910208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_502350854692293694638831'
+    }, 
+    {
       title: 'c1_2333052_정유나_SE2023', 
       author: 'C1_2333052_정유나_SE2023', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/2133006-sumin-proj-1b-finished/4841149815898112/5833676794675200.png', 
       link: 'https://www.khanacademy.org/computer-programming/2133006-sumin-proj-1b-finished/4841149815898112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_123216617758906771356356'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'obgeet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4911533995114496/5350277051105280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4911533995114496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1343075570045314600400735'
-    }, 
-    {
-      title: 'rebote pelota', 
-      author: 'Alejandro Pérez-Moneo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rebote-pelota/4611567741353984/6586491213234176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rebote-pelota/4611567741353984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3557547986560740088134115'
-    }, 
-    {
-      title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
-      author: 'felipe araujo', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/5630967760076800/6329001461465088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/5630967760076800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7221158779781340267344046'
-    }, 
-    {
-      title: 'Spin-off of "egg"', 
-      author: 'abdurrahman.ar237262', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-egg/4647035245740032/6696365569916928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-egg/4647035245740032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3027014240340314095165531'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day",Amir', 
-      author: 'mr.amir.mti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dayamir/5097770823499776/6524979631144960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dayamir/5097770823499776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1038456884331325798371810'
     }, 
   ];
 };
