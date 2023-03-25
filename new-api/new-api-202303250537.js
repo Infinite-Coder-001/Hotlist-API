@@ -280,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'Mark Scheifele\'s Subpage', 
-      author: 'Mark scheifele✈', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mark-scheifeles-subpage/5399545745031168/6544348876685312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mark-scheifeles-subpage/5399545745031168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
-    }, 
-    {
       title: 'Golden Knights Roster', 
       author: 'NIKO Ψ', 
       votes: 11, 
@@ -350,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-defenders-homepage-contest-wip/4814545161076736/5356216601853952.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-defenders-homepage-contest-wip/4814545161076736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Mark Scheifele\'s Subpage', 
+      author: 'Mark scheifele✈', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mark-scheifeles-subpage/5399545745031168/6544348876685312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mark-scheifeles-subpage/5399545745031168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
     {
       title: 'MIGRATION [Game]', 
@@ -838,51 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_45150654672037827575404'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'tiannahayes12', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4852647242022912/4529526383362048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4852647242022912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1021347763282452781107534'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'KOSHIKA BISHT', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888/6743301333237760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5238560723877888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101992778019131971855383'
-    }, 
-    {
-      title: 'Spin-off of "MineKhan"', 
-      author: 'Speds', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-minekhan/5546575444361216/6238658723364864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-minekhan/5546575444361216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803653012305180186382020'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'Sulman Farsi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6487951342354432/5034611349700608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6487951342354432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1930174815636020718044090'
-    }, 
-    {
-      title: 'New program', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6182756100128768/5907067014791168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6182756100128768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'alskdjfal;ksjf', 
       author: 'noNameCode', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4823466831560704/4510330832338944.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4823466831560704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7976597529359355753192169'
+    }, 
+    {
+      title: 'Spin-off of "Count"', 
+      author: 'Aditya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-count/6632260666441728/5789435208974336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-count/6632260666441728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1657448193062570164480502'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'cinthiabetancourth98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5491109255233536/6095072967049216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5491109255233536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485415501459700665482135'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'sajan.neupane', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6678959510306816/6074012997566464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6678959510306816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1076673666578924944484240'
+    }, 
+    {
+      title: 'Recetas Colombianas', 
+      author: 'ivettesanches.17enero', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/recetas-colombianas/6064918270099456/6343911359692800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/recetas-colombianas/6064918270099456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'ivettesanches.17enero', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4704411478966272/5356469722857472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4704411478966272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_290068598253301233063352'
     }, 
   ];
 };
