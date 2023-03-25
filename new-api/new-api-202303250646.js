@@ -838,20 +838,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'E08 - 1', 
-      author: 'JAYDE KHUNG EE JAE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e08-1/4559489551613952/4752136283144192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e08-1/4559489551613952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
-    }, 
-    {
       title: 'New webpage', 
       author: 'CodeEngineer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872/5700553243148288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872/5105298919702528.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5159914571087872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872/6710303208554496.png', 
       link: 'https://www.khanacademy.org/computer-programming/stuffies/4955626800463872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_260397395120391249509212'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'rendolaber', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744/5915484043395072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4841769767583744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5067621233065766417825952'
     }, 
   ];
 };
