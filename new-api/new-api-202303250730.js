@@ -829,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_995601170577071973987916'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'kennychin9000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160/4824907121999872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4863594006364160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
-    }, 
-    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'Katherine Powell', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824/6616514276147200.png', 
       link: 'https://www.khanacademy.org/computer-programming/e08-5/4673651661389824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092416619418692328672191'
+    }, 
+    {
+      title: 'Spin-off of "Project: Scene change"', 
+      author: 'Surya  Sureshkumar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808/5461357857390592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/4515007548407808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
   ];
 };
