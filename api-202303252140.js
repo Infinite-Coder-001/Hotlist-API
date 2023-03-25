@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Floofy(Online)', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/5680316900753408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/4726532775133184.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'Sketch API', 
+      author: 'Infinite coder', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/6219494478626816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
       title: 'interesting ripple bug', 
       author: 'HB_the_Pencil (Caela)', 
       votes: 11, 
@@ -190,9 +199,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/5665060673601536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
+    }, 
+    {
       title: 'Hundreds (demo)', 
       author: 'xacer', 
-      votes: 90, 
+      votes: 91, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744/5677307286306816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hundreds-demo/5474235159199744', 
@@ -242,24 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'Sketch API', 
-      author: 'Infinite coder', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/6219494478626816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
-    }, 
-    {
-      title: 'just trying out pjs in html', 
-      author: 'much of Ack', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/5665060673601536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
       title: 'gold angel anime girl with pink hair', 
