@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Infinite coder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/6219494478626816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/4846628742938624.png', 
       link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
@@ -327,8 +327,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 101, 
-      forks: 41, 
+      votes: 102, 
+      forks: 42, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Julian Stögmüller', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4880973625081856/5195262688804864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4880973625081856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9757005434228169021122700'
+    }, 
+    {
       title: 'Spin-off of "Project: Interactive slideshow"', 
       author: 'Surya  Sureshkumar', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/epilepsie/6146810445086720/6160548401299456.png', 
       link: 'https://www.khanacademy.org/computer-programming/epilepsie/6146810445086720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
-    }, 
-    {
-      title: 'Subscribe To Me', 
-      author: 'The Chosen One', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/6233031108247552/5438934655221760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/6233031108247552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
   ];
 };
