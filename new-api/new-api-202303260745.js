@@ -694,11 +694,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Lab 5 - Follow the mouse', 
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'kennychin9000', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4966398108680192/5647912278474752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4966398108680192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_230224025033937022083261'
+    }, 
+    {
+      title: 'THE FIRST ONE ', 
+      author: 'zz-ZOYAAWAN', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-first-one/4625377705377792/5329084239626240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-first-one/4625377705377792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_863751640170417630657503'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'alejandrachavezpaye06', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4755988130611200/6063344567238656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4755988130611200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940727569385215498729968'
+    }, 
+    {
+      title: 'Lab 5 - Follow the Mouse', 
       author: 'Jazalyn Clark', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/5654698385522688/5123891472416768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/5654698385522688/4535074071822336.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/5654698385522688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4606533181459885789482433'
     }, 
@@ -793,12 +820,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5181073368342630901219201'
     }, 
     {
-      title: 'Khan 20 ex4', 
+      title: 'Spin-off of "Khan 20 ex4"', 
       author: 'Iosif Nitu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-20-ex4/5987934026383360/6326778030505984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-20-ex4/5987934026383360', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-khan-20-ex4/5987934026383360/5386834604769280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-khan-20-ex4/5987934026383360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
     }, 
     {
@@ -848,7 +875,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
-      author: 'swapnil.bajpai141', 
+      author: 'swapnil bajpai', 
       votes: 1, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5107831851499520/5538967312449536.png', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4864709724782592/5051257627918336.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4864709724782592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_937242703969668517766779'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'hruedabalderas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6072197233033216/5863891587612672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6072197233033216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121759289630321212325861'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ja7067', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5709666090008576/5231139825696768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5709666090008576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_645269905917367002524416'
-    }, 
-    {
-      title: 'Pig with first drawing', 
-      author: 'nguyenhonganh18082000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pig-with-first-drawing/5337528984190976/4952247567171584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pig-with-first-drawing/5337528984190976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_842586201302747640017538'
     }, 
   ];
 };
