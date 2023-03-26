@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 46, 
+      votes: 47, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -48,29 +48,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'New Sub Page', 
       author: 'Wort-Head Productions😐', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928/5671066078068736.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'just trying out pjs in html', 
-      author: 'much of Ack', 
-      votes: 16, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/6020398518157312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
-    }, 
-    {
       title: 'elliptical spiral', 
       author: 'Bob Lyon', 
-      votes: 13, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/6406174795939840.png', 
       link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 16, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/5854995804372992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
       title: 'C', 
@@ -89,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5483279202697216.png', 
       link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'typing function', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6454642394578944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
@@ -127,13 +136,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'typing function', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 4, 
+      title: 'Orange Soda\'s Intro wip', 
+      author: 'Orange Soda', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6454642394578944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'T-Rex art _| using curveVertex tool', 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Orange Soda\'s Intro wip', 
-      author: 'Orange Soda', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
       title: 'Spider-Man 3D game.', 
       author: 'Timothy Kostenko Productions', 
       votes: 30, 
@@ -179,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/5694124306251776.png', 
       link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
+    }, 
+    {
+      title: 'sad ghost', 
+      author: 'BaNana48', 
+      votes: 6, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
       title: 'Facts', 
@@ -217,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'ak45621', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6389118641946624/5603961039273984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6389118641946624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_552824542972521813385477'
+    }, 
+    {
       title: 'Flag of USA', 
       author: 'The Goo 🌪', 
       votes: 24, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256/6382504123875328.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Logo Tutorial :D', 
-      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
-      votes: 22, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/5551857230725120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'sad ghost', 
-      author: 'BaNana48', 
-      votes: 5, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
   ];
 };
