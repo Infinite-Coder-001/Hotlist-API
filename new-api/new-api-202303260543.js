@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dodge game?', 
       author: 'Floofy(Offline)', 
-      votes: 8, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/4554648989253632.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
@@ -685,6 +685,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_666824373203661508188782'
     }, 
     {
+      title: 'Vote up please!', 
+      author: 'Kindle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vote-up-please/5178990970322944/6128326751338496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vote-up-please/5178990970322944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112515097512951062828574'
+    }, 
+    {
+      title: 'Spin-off of "If/Else - Part 2"', 
+      author: 'Angel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6114439041695744/5692369182965760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6114439041695744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'Mariana Solís Alfonso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/4813778056429568/4599252493058048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/4813778056429568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Aravind Ravi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5938019602579456/5114359799136256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5938019602579456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7762120565769558170700527'
+    }, 
+    {
       title: 'Spin-off of "Terrific Text: Part Two"', 
       author: 'foxygaming', 
       votes: 1, 
@@ -788,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928/6629539536224256.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928/5671066078068736.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/edited-program-of-balloon-rat-lesson-15-x-and-y/5381814727524352/6277812853194752.png', 
       link: 'https://www.khanacademy.org/computer-programming/edited-program-of-balloon-rat-lesson-15-x-and-y/5381814727524352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18628906582129934175457'
-    }, 
-    {
-      title: '¬_¬', 
-      author: 'camila angueta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/_/5790749099868160/4876693220409344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/_/5790749099868160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3427735057122186752595666'
-    }, 
-    {
-      title: 'Easy Sliding Block Puzzle with Rotating Mechanism', 
-      author: 'Trevor Hoffman', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easy-sliding-block-puzzle-with-rotating-mechanism/4730616701829120/4555538933530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easy-sliding-block-puzzle-with-rotating-mechanism/4730616701829120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'zhu31', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5291960656248832/4679654851264512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5291960656248832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1045096577650360946367326'
-    }, 
-    {
-      title: 'Day 262', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-262/5823772767862784/6433295836692480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-262/5823772767862784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
     }, 
   ];
 };
