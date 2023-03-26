@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
+    }, 
+    {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 46, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696/4798735017361408.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-2-im-to-lazy-to-finished-it-so-here-you-go/6050637047709696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'just trying out pjs in html', 
-      author: 'much of Ack', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
       title: 'Do NOT hit the button.', 
@@ -676,6 +676,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Ava Lourdes Manio', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6366297735872512/6296498074861568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6366297735872512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5103478205840166687154352'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'leonggsh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128/5314207311773696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'leonggsh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5794508639092736/6091519351373824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5794508639092736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'kamilajednorozec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6297064104574976/4624015261220864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6297064104574976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1087353193862795148330385'
+    }, 
+    {
       title: 'Timer Thing', 
       author: 'IAFrancy', 
       votes: 1, 
@@ -734,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4751383992778752/6653219939074048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4751383992778752/6433028240097280.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4751383992778752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6074704822845440/6318037939830784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6074704822845440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_550454429562167079441201'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Eduard Codeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5365879392223232/6103497176301568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5365879392223232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
-    }, 
-    {
-      title: 'Khan 20 ex Bonus', 
-      author: 'Iosif Nitu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-20-ex-bonus/5935978956242944/6182271809011712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-20-ex-bonus/5935978956242944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'marie.amelie.madignier', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6474027192598528/6070497499725824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6474027192598528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550454429562167079441201'
-    }, 
-    {
-      title: 'porj-1', 
-      author: 'c2_2333007_한영탁_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672/6523816466759680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_924559101194304549919980'
     }, 
   ];
 };
