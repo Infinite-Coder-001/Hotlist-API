@@ -685,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
+      title: 'porj-1', 
+      author: 'c2_2333007_한영탁_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672/6523816466759680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_924559101194304549919980'
+    }, 
+    {
       title: 'Derivado de "Desafío: vínculos que te encantan"', 
       author: 'Marieta Pérez-Magdalena', 
       votes: 1, 
@@ -824,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'isbasoiuluca39', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5094151332085760/5823450846642176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5094151332085760/4904277245214720.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5094151332085760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
     }, 
@@ -887,18 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Iosif Nitu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-khan-20-ex4/5987934026383360/5386834604769280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-khan-20-ex4/5987934026383360/5871372715999232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-khan-20-ex4/5987934026383360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Lance Villamor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5592834993602560/5504726423879680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5592834993602560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2801929396168742741191788'
     }, 
   ];
 };
