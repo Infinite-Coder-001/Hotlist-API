@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'Unit Circle - Anna Lettiere', 
+      author: 'anna.lettiere', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
+    }, 
+    {
       title: 'Basic British Accents.', 
       author: 'Phase ✝', 
       votes: 24, 
@@ -532,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Unit Circle - Anna Lettiere', 
-      author: 'anna.lettiere', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
-    }, 
-    {
       title: ' - The Rolling Stones -', 
       author: 'Xiøn 😋🤩', 
       votes: 3, 
@@ -721,6 +721,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'alejandrachavezpaye06', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6076379323219968/4859009732755456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6076379323219968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940727569385215498729968'
+    }, 
+    {
       title: 'Deja-vu: part 12, The End?', 
       author: 'Cookies \'n Scream', 
       votes: 67, 
@@ -728,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312/5447288095031296.png', 
       link: 'https://www.khanacademy.org/computer-programming/deja-vu-part-12-the-end/4504025632653312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'tbertolotti08', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6645564428304384/5666948479500288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6645564428304384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_718562284043038648817855'
     }, 
     {
       title: 'New program', 
@@ -752,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'Ash.Roach02', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5663922406604800/4674388114063360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5663922406604800/6216192118538240.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5663922406604800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1002421900118176950382787'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4867363880353792/4904113029824512.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4867363880353792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_718562284043038648817855'
-    }, 
-    {
-      title: '𝗝𝗘𝗥𝗘𝗠𝗬 𝗖𝗔𝗠𝗣 (graphic)', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/graphic/6488863754469376/5277555839254528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/graphic/6488863754469376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Benny', 
-      author: 'Fenris', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/benny/5099080117436416/4991152756670464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/benny/5099080117436416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
     }, 
   ];
 };
