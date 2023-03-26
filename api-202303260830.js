@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'T-Rex art _| using curveVertex tool', 
       author: 'CodingChamp01 🟢', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
       link: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352', 
