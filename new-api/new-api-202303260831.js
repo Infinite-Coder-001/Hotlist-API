@@ -676,33 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
     {
-      title: 'try { x = this.externals } catch(){}', 
-      author: 'Archbirdplus', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472/6376894091280384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'Khan 21 ex 1', 
-      author: 'Iosif Nitu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-21-ex-1/6508921788612608/6466481136386048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-21-ex-1/6508921788612608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Jef', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4846205764157440/4746169936035840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4846205764157440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2975358139385507904162788'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Alana Marshall', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-first-one/4625377705377792/5329084239626240.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-first-one/4625377705377792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_863751640170417630657503'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'alejandrachavezpaye06', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4755988130611200/6063344567238656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4755988130611200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940727569385215498729968'
+    }, 
+    {
+      title: 'Lab 5 - Follow the Mouse', 
+      author: 'Jazalyn Clark', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/5654698385522688/4535074071822336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/5654698385522688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4606533181459885789482433'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Sandra Lipczyńska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6439220509196288/5695710701076480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6439220509196288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_400291837413133700981943'
     }, 
   ];
 };
