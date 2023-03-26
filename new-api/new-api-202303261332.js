@@ -640,6 +640,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'supersonjulia27', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6312753385226240/4743155036766208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/6312753385226240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_407455341011584084874997'
+    }, 
+    {
+      title: 'Spin-off von "Challenge: Eine traumhafte Reise"', 
+      author: 'Leon Chinellato', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-eine-traumhafte-reise/4634839115677696/5648979544293376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-eine-traumhafte-reise/4634839115677696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_136095532191801339983653'
+    }, 
+    {
       title: 'Fitbit_logs(4)', 
       author: 'Chaitra Arvapally', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6033876729511936/4929524975583232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6033876729511936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1146998852420495651523386'
-    }, 
-    {
-      title: 'Birthday wip', 
-      author: 'Orange Soda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-wip/4907976822669312/6085585250074624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/birthday-wip/4907976822669312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Igor Kozioł', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5132946295275520/6732072048967680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5132946295275520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2238685811768355316213328'
     }, 
   ];
 };
