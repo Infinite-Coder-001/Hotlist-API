@@ -730,6 +730,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Aguilera.Cindy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4807770605142016/6341688277909504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4807770605142016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3820876438026558270867972'
+    }, 
+    {
+      title: 'rosterTest', 
+      author: 'mtkoshy420', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rostertest/5896136960557056/5737530629865472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rostertest/5896136960557056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_463886865885207684751114'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Mateus Henrique', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5862944379551744/5435410852659200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5862944379551744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673486192162994281208908'
+    }, 
+    {
+      title: 'HTML', 
+      author: 'Real_Mine300', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html/6316371760955392/5978570603413504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html/6316371760955392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346330657930767355356676'
+    }, 
+    {
       title: 'Derivado de "Desafío: un viaje de ensueño"', 
       author: 'Maria Isabel Madero Garcia', 
       votes: 1, 
@@ -766,12 +802,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_210325102347367173628048'
     }, 
     {
-      title: 'Spin-off of "Chicken of minecraft"', 
+      title: 'take it of bro people', 
       author: 'san.edwards2021', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-chicken-of-minecraft/4513987015524352/6319259254046720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-chicken-of-minecraft/4513987015524352', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/take-it-of-bro-people/4513987015524352/4677329453629440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/take-it-of-bro-people/4513987015524352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_387771975220720225384364'
     }, 
     {
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5373336260755456/5655131011203072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5373336260755456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865218775755089758831665'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Maria Isabel Madero Garcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5272039121534976/4582516012138496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5272039121534976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: 'why did i do this ', 
-      author: 'LovelyPetals', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-did-i-do-this/5890699531960320/4934204241788928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-did-i-do-this/5890699531960320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'tatia1226', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5876266126589952/6609775942221824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5876266126589952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_928531961137120844677273'
-    }, 
-    {
-      title: 'hous (not done yet)', 
-      author: 'emla2029', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hous-not-done-yet/4576270290829312/6173717341454336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hous-not-done-yet/4576270290829312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_130367270938849901973639'
     }, 
   ];
 };
