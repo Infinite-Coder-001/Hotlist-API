@@ -658,6 +658,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'C1_2333046_이하은_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4667563109040128/5578505573416960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4667563109040128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124500324094602621401528'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'lovelytsanchez18', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5538091407556608/6201445012783104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5538091407556608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_579790504466924352484032'
+    }, 
+    {
       title: 'Losing Scene - JS Project Fetch', 
       author: 'Laasya :)', 
       votes: 3, 
@@ -665,6 +683,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184/4821000815689728.png', 
       link: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'Spin-off of "Neck"', 
+      author: 'Peter Collingridge', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-neck/5994492953149440/6086384248209408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-neck/5994492953149440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128810778687926889052316'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472/6376894091280384.png', 
       link: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'Khan 21 ex 1', 
-      author: 'Iosif Nitu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-21-ex-1/6508921788612608/5496036698406912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-21-ex-1/6508921788612608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Jef', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4846205764157440/4746169936035840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4846205764157440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2975358139385507904162788'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Alana Marshall', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5526968448892928/5607964686991360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5526968448892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_958020594694915227996061'
     }, 
   ];
 };
