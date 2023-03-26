@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'NL#Midsane', 
       votes: 42, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6590088013463552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4959314096996352.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 40, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -57,8 +57,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
-      votes: 11, 
-      forks: 3, 
+      votes: 10, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
@@ -658,42 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'HOUSEYYYY', 
-      author: 'flynn.engwicht', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/houseyyyy/5597682803720192/4753023126781952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/houseyyyy/5597682803720192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5449397507326373638440517'
-    }, 
-    {
-      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
-      author: 'C1_2333072_서유진_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4729854160584704/4984568773132288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/4729854160584704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_182735590298024260626442'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : Blog"', 
-      author: 'lary carlos ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/6753712375906304/4966452634632192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/6753712375906304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3855727630887939501811435'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'lauribadeo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4763126164930560/6549309110927360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4763126164930560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341842169119320197812609'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'ahmadsndm10', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4624936061943808/4810886671024128.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4624936061943808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654052794892775333800359'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'mshawaizashraf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4522582528540672/4700088023957504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4522582528540672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_532586077328615102245358'
+    }, 
+    {
+      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
+      author: 'C1_2333046_이하은_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4667563109040128/5578505573416960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4667563109040128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124500324094602621401528'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'lovelytsanchez18', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5538091407556608/6201445012783104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5538091407556608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_579790504466924352484032'
+    }, 
+    {
+      title: 'Losing Scene - JS Project Fetch', 
+      author: 'Laasya :)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184/4821000815689728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
   ];
 };
