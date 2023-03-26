@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Mushord [GAME] with more levels', 
+      author: 'Crystal Coding', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440/5462627926196224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Raindrops Falling', 
       author: 'managingkvtech', 
       votes: 3, 
@@ -721,6 +730,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'hous (not done yet)', 
+      author: 'emla2029', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hous-not-done-yet/4576270290829312/6173717341454336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hous-not-done-yet/4576270290829312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_130367270938849901973639'
+    }, 
+    {
+      title: 'Microbe Feast for the Amoeba that ate Chicago', 
+      author: 'Middleforest20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/microbe-feast-for-the-amoeba-that-ate-chicago/6342703937011712/6739387116470272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/microbe-feast-for-the-amoeba-that-ate-chicago/6342703937011712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'Balkrishna Ghimire', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5623183031189504/4568857848365056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5623183031189504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_912791567662782777106560'
+    }, 
+    {
+      title: 'How the microbes got eaten', 
+      author: 'Middleforest20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-the-microbes-got-eaten/6205692601221120/4934599714324480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-the-microbes-got-eaten/6205692601221120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
+      title: 'Lab 5 2.0', 
+      author: 'izzyvigg', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5-20/5919952252223488/6042516425326592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-5-20/5919952252223488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_354467810965470239787967'
+    }, 
+    {
+      title: 'Derivado de "Desafío: tarjeta de receta"', 
+      author: '21328304', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tarjeta-de-receta/4829819792834560/6617113424084992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tarjeta-de-receta/4829819792834560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_957802916114408015800883'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'ianruien', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6645070809055232/5071097264652288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6645070809055232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6202436109194775102305197'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'alejandrachavezpaye06', 
       votes: 1, 
@@ -746,15 +818,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6645564428304384/5666948479500288.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6645564428304384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_718562284043038648817855'
-    }, 
-    {
-      title: 'New program', 
-      author: 'manningshawnk419', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5645221808619520/5423954698485760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5645221808619520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
     }, 
     {
       title: 'Spin-off of "Project: Data dig"', 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fight-game/6708763798323200/5768814768996352.png', 
       link: 'https://www.khanacademy.org/computer-programming/fight-game/6708763798323200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_720882784048547940412838'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseño de anuncio"', 
-      author: 'Lissette Gutierrez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5368146195431424/5619997440524288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5368146195431424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6429397390183266695110574'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Ames023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4805952558907392/6558164930838528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4805952558907392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_498353421178873189347985'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Mukul', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255463861272576/6405849720602624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255463861272576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1108673796679815403306750'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'venmunchies', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5732131721756672/6225240876433408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5732131721756672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4531432374847600881525124'
-    }, 
-    {
-      title: 'Spin-off of "draw() | Proorzoao\\O4WO4WJI4W', 
-      author: 'kl kl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-draw-proorzoaoo4wo4wji4w/4537470764236800/4623580529999872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-draw-proorzoaoo4wo4wji4w/4537470764236800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173939961281825531994937'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'fer45mayda67', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5345463667834880/6713868098519040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5345463667834880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619320967648285352063196'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'tbertolotti08', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4867363880353792/4904113029824512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4867363880353792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_718562284043038648817855'
     }, 
   ];
 };
