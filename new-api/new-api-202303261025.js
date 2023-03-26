@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'mshawaizashraf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4522582528540672/4700088023957504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4522582528540672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_532586077328615102245358'
+    }, 
+    {
       title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
       author: 'C1_2333046_이하은_SE2023', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4815120569253888/6292372792328192.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4815120569253888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
-    }, 
-    {
-      title: 'try { x = this.externals } catch(){}', 
-      author: 'Archbirdplus', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472/6376894091280384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/try-x-thisexternals-catch/4820504780521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
   ];
 };
