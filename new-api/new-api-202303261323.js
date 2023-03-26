@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'elliptical spiral', 
-      author: 'Bob Lyon', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/6406174795939840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: 'Dodge game?', 
       author: 'Floofy(Offline)', 
       votes: 9, 
@@ -118,13 +109,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Da Biggest Bird &#60;{\'}', 
-      author: 'Com', 
-      votes: 5, 
+      title: 'elliptical spiral', 
+      author: 'Bob Lyon', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5483279202697216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/6406174795939840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
       title: 'Spider-Man 3D game.', 
@@ -163,13 +154,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'New Sub Page', 
-      author: 'Wort-Head Productions😐', 
+      title: 'Da Biggest Bird &#60;{\'}', 
+      author: 'Com', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928/5671066078068736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5483279202697216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Flag of USA', 
@@ -235,13 +226,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: '- The Seagull Attack -', 
-      author: 'Xiøn😋🤩', 
-      votes: 6, 
+      title: 'New Sub Page', 
+      author: 'Wort-Head Productions😐', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928/5671066078068736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-sub-page/6417385633660928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'interesting ripple bug', 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/1/6186691531685888/6287632549330944.png', 
       link: 'https://www.khanacademy.org/computer-programming/1/6186691531685888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_486706332439999043516008'
+    }, 
+    {
+      title: '- The Seagull Attack -', 
+      author: 'Xiøn😋🤩', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'but hey, it knows how to make a simple three.js project', 
@@ -640,60 +640,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'Fitbit_logs(4)', 
-      author: 'Chaitra Arvapally', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fitbit_logs4/6246537874423808/6258583311532032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fitbit_logs4/6246537874423808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_749225949384194215130838'
-    }, 
-    {
-      title: 'Travel to Spain', 
-      author: 'zosia.dolzynska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/travel-to-spain/4958617808977920/6571571402817536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/travel-to-spain/4958617808977920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_52818136499288734874041'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'ညီညီ ဝင်း', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5648938742104064/4610505173155840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5648938742104064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5931659681511994614010597'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'zosia.dolzynska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4709662613356544/5236762407649280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4709662613356544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_52818136499288734874041'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'wickens2010oct1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5266627664068608/6224499558367232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5266627664068608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_829145417853215559441540'
-    }, 
-    {
-      title: 'The most random program part 1.', 
-      author: 'windawine', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-most-random-program-part-1/4834049094107136/6162212566908928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-most-random-program-part-1/4834049094107136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_316582545582561029284805'
-    }, 
-    {
       title: 'Derivado de "Proyecto: libro de recetas"', 
       author: 'carlostm2812', 
       votes: 1, 
@@ -716,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Chaitra Arvapally', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fitbit_logs3/5544656164405248/6320362590879744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fitbit_logs3/5544656164405248/4564915068387328.png', 
       link: 'https://www.khanacademy.org/computer-programming/fitbit_logs3/5544656164405248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_749225949384194215130838'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5132946295275520/6732072048967680.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5132946295275520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2238685811768355316213328'
+    }, 
+    {
+      title: 'C1 전영욱 2333057 human Proj#1', 
+      author: 'C1_2333057_전영욱_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333057-human-proj1/4646580348305408/6383804249063424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c1-2333057-human-proj1/4646580348305408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_650969398901395904599436'
+    }, 
+    {
+      title: '"프로젝트: 슈팅스타" 프로젝트', 
+      author: 'k01086927114', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4950678931030016/6592304015261696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4950678931030016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Imitace aplikace"', 
+      author: 'lucie.graciasova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-imitace-aplikace/5895521974927360/6404935798538240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-imitace-aplikace/5895521974927360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063881087028771131149456'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'velascojefferson139', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6707828099432448/5658220661358592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6707828099432448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_462263702469236642745784'
+    }, 
+    {
+      title: 'Inspirováno programem "Výzva: Změny oblečení"', 
+      author: 'lucie.graciasova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-zmny-obleen/4833577788555264/5487101488709632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-zmny-obleen/4833577788555264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063881087028771131149456'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: hloubkový průzkum dat"', 
+      author: 'lucie.graciasova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-hloubkov-przkum-dat/5821967371649024/5673673727197184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-hloubkov-przkum-dat/5821967371649024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063881087028771131149456'
     }, 
   ];
 };
