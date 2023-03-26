@@ -676,6 +676,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
     {
+      title: 'Spin-off of "Vertex Drawer Tool"', 
+      author: 'nick legend', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-vertex-drawer-tool/5042226628706304/6150322285494272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-vertex-drawer-tool/5042226628706304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2352839528246560759130696'
+    }, 
+    {
+      title: 'Robot Face', 
+      author: 'adithyamanoj.capitol', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/robot-face/4965220549443584/5464388518854656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/robot-face/4965220549443584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5831581614695908666083540'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'eyobh348', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5700191996133376/4578569876717568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5700191996133376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_394280542110011450065734'
+    }, 
+    {
+      title: 'jQuery source code( to be downloaded and used only on your PC.)', 
+      author: 'Atharva Ranjan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jquery-source-code-to-be-downloaded-and-used-only-on-your-pc/5599663119187968/4744745349070848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jquery-source-code-to-be-downloaded-and-used-only-on-your-pc/5599663119187968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_22283180377178813838075'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Ava Lourdes Manio', 
       votes: 1, 
@@ -689,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'leonggsh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128/5314207311773696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128/5774902306324480.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/6233031108247552/5438934655221760.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/6233031108247552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
-    }, 
-    {
-      title: 'New program', 
-      author: 'lineartdesign64', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5895326990123008/5147978991190016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5895326990123008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118461749771902034968890'
-    }, 
-    {
-      title: 'Ceva cu disco', 
-      author: 'specialtelefon2018', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ceva-cu-disco/5372495218917376/6292772895375360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ceva-cu-disco/5372495218917376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'marie.amelie.madignier', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4996013116145664/5250125560856576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4996013116145664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550454429562167079441201'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'marie.amelie.madignier', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6074704822845440/6318037939830784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6074704822845440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550454429562167079441201'
     }, 
   ];
 };
