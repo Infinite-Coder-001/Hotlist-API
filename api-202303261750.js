@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
-      votes: 15, 
+      votes: 16, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
     {
+      title: 'typing function', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6454642394578944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Facts', 
       author: '▪Dipper98▪', 
       votes: 13, 
@@ -188,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Spin-off of "Contest: What\'s Cooking?"', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640/5709775074803712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: '- The Seagull Attack -', 
@@ -235,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'Orange Soda\'s Intro wip', 
+      author: 'Orange Soda', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
       title: 'Flame Head with more levels', 
       author: 'Crystal Coding', 
       votes: 23, 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5503136346456064.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
-      title: 'Unit Circle - Anna Lettiere', 
-      author: 'anna.lettiere', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
-    }, 
-    {
-      title: 'ST Personality Test w Results 2023', 
-      author: 'Chris DeNeen', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152/4524423509229568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
-    }, 
-    {
-      title: 'IA Logo', 
-      author: 'NIKO Ψ', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392/5013592635392000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
   ];
 };
