@@ -658,42 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
-      title: 'Derivado de "Desafío: rastreador del ratón"', 
-      author: 'forcena.alejandra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-rastreador-del-ratn/6016982744088576/6175494619054080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-rastreador-del-ratn/6016982744088576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_763600464918517341425905'
-    }, 
-    {
-      title: 'chatgpt isn\'t as smart as i want it to be', 
-      author: 'ski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-isnt-as-smart-as-i-want-it-to-be/6024555065032704/5768237188169728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chatgpt-isnt-as-smart-as-i-want-it-to-be/6024555065032704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'jonathan.robert.lobo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4973515137925120/6456969595764736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4973515137925120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_949640638423911379842373'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'ahmadsndm10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5283931575599104/5758195865010176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5283931575599104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9002893923998457451769417'
-    }, 
-    {
       title: 'Spin-off of "Project: Event invite"', 
       author: 'Aiko Iguchi', 
       votes: 1, 
@@ -710,15 +674,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/water-slide/5314373674647552/5315600248520704.png', 
       link: 'https://www.khanacademy.org/computer-programming/water-slide/5314373674647552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_966177322417451426944767'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'alphablastoidgaming', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168/5066347861295104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_486794069582692660733631'
     }, 
     {
       title: '"Projekt: databáze obchodu"', 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128/5774902306324480.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'leonggsh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5794508639092736/6091519351373824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5794508639092736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'kamilajednorozec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6297064104574976/4624015261220864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6297064104574976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1087353193862795148330385'
+    }, 
+    {
+      title: 'Timer Thing', 
+      author: 'IAFrancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/timer-thing/5400146117705728/4995919256010752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/timer-thing/5400146117705728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'zb7846', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5985099557683200/5224626935611392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5985099557683200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862375609354773711968087'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Daniel Han', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6744943998844928/5539699671482368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6744943998844928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_472068180840645674308824'
     }, 
   ];
 };
