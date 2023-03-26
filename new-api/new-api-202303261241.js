@@ -658,15 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'carlostm2812', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5676886161408000/4530424501288960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5676886161408000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1195813424313714680001143'
-    }, 
-    {
       title: 'My new logo', 
       author: 'Green Light', 
       votes: 14, 
@@ -674,33 +665,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6074631506411520.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'sohailnaeem96', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5431038173298688/4736029182705664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5431038173298688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_712211706676735933267438'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Igor Kozioł', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6166254936440832/5465869787643904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6166254936440832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2238685811768355316213328'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Julian Stögmüller', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6480690901467136/6250669767180288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6480690901467136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9757005434228169021122700'
     }, 
     {
       title: 'Fitbit logs', 
@@ -716,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: '徐 晨源', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6277393322131456/6583387193393152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6277393322131456/6512813389692928.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6277393322131456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7595889823046537987853700'
     }, 
@@ -761,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'C1_2333057_전영욱_SE2023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333057-human-proj1/4646580348305408/6383804249063424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333057-human-proj1/4646580348305408/5657259435933696.png', 
       link: 'https://www.khanacademy.org/computer-programming/c1-2333057-human-proj1/4646580348305408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_650969398901395904599436'
     }, 
@@ -838,20 +802,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
     }, 
     {
-      title: 'Pizza Time!!!', 
-      author: 'six5', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-time/5335033205538816/5874256551657472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-time/5335033205538816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_48663725463968154897284'
-    }, 
-    {
       title: 'The most random program ever. Part 1.', 
       author: 'windawine', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-most-random-program-ever-part-1/6304661868167168/5227320895127552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-most-random-program-ever-part-1/6304661868167168/5032671769313280.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-most-random-program-ever-part-1/6304661868167168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_316582545582561029284805'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-bcher-datenbank/5698975379537920/6338746820902912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-bcher-datenbank/5698975379537920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2256897761508946536490384'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'augustliu88', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6565107569311744/6439063809998848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6565107569311744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_15477450702857145424903'
+    }, 
+    {
+      title: 'HOUSEYYYY', 
+      author: 'flynn.engwicht', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/houseyyyy/5597682803720192/4753023126781952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/houseyyyy/5597682803720192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5449397507326373638440517'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : Blog"', 
+      author: 'lary carlos ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/6753712375906304/4966452634632192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-blog/6753712375906304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3855727630887939501811435'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'lauribadeo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4763126164930560/6549309110927360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4763126164930560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341842169119320197812609'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'ahmadsndm10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5290482247974912/5744475860418560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5290482247974912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9002893923998457451769417'
     }, 
   ];
 };
