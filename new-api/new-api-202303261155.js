@@ -658,6 +658,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'ash.', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5587584396083200/6685226932944896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5587584396083200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1146998852420495651523386'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : qu\'avons-nous pour dîner ce soir ?" Fromage', 
+      author: 'Angélo Dormeuil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir-fromage/5725288161132544/6149200116236288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir-fromage/5725288161132544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_697829013040304887712695'
+    }, 
+    {
+      title: 'Spin-off von "Challenge: Bücher-Datenbank"', 
+      author: 'Daniela Frühwirth', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-bcher-datenbank/5698975379537920/6338746820902912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-bcher-datenbank/5698975379537920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2256897761508946536490384'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'augustliu88', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6565107569311744/6439063809998848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6565107569311744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_15477450702857145424903'
+    }, 
+    {
       title: 'HOUSEYYYY', 
       author: 'flynn.engwicht', 
       votes: 1, 
@@ -752,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: '✝︎ Volatile ✝︎', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/graphic/5734659377119232/5883707224539136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/graphic/5734659377119232/5042494149804032.png', 
       link: 'https://www.khanacademy.org/computer-programming/graphic/5734659377119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6575724669747200/5585275649835008.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6575724669747200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5908836033187849414145309'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Murillo, Isis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5664361927720960/5582526468112384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5664361927720960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_632733558889904935648131'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Lance Villamor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6086478569717760/5420144089415680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6086478569717760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2801929396168742741191788'
-    }, 
-    {
-      title: 'Spin-off von "Projekt: Reise-Website"', 
-      author: 'Mel Pfeiffer ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5770481618960384/6533710225915904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5770481618960384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3877111385930337361706499'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'omar.sabry43', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4624936061943808/4810886671024128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4624936061943808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654052794892775333800359'
     }, 
   ];
 };
