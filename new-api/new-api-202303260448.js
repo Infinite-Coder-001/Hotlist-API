@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
     }, 
     {
+      title: 'IA Logo', 
+      author: 'NIKO Ψ', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392/5013592635392000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'interesting ripple bug', 
       author: 'HB_the_Pencil (Caela)', 
       votes: 11, 
@@ -241,15 +250,6 @@ var LoadHotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968/4628594065457152.png', 
       link: 'https://www.khanacademy.org/computer-programming/hermione/5193715309395968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'IA Logo', 
-      author: 'NIKO Ψ', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392/5013592635392000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
@@ -326,7 +326,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: '- The Seagull Attack -', 
-      author: 'Xiøn 😋🤩', 
+      author: 'Xiøn😋🤩', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
@@ -542,7 +542,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: ' - The Rolling Stones -', 
-      author: 'Xiøn 😋🤩', 
+      author: 'Xiøn😋🤩', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-rolling-stones-/6697585642618880/6502624561250304.png', 
@@ -694,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
     }, 
     {
+      title: '¬_¬', 
+      author: 'camila angueta', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/_/5790749099868160/4876693220409344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/_/5790749099868160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3427735057122186752595666'
+    }, 
+    {
       title: 'Easy Sliding Block Puzzle with Rotating Mechanism', 
       author: 'Trevor Hoffman', 
       votes: 5, 
@@ -701,6 +710,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easy-sliding-block-puzzle-with-rotating-mechanism/4730616701829120/4555538933530624.png', 
       link: 'https://www.khanacademy.org/computer-programming/easy-sliding-block-puzzle-with-rotating-mechanism/4730616701829120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'zhu31', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5291960656248832/4679654851264512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5291960656248832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1045096577650360946367326'
+    }, 
+    {
+      title: 'Day 262', 
+      author: 'Sarai Marte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/day-262/5823772767862784/6433295836692480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/day-262/5823772767862784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
     }, 
     {
       title: 'Logo/Intro contest!', 
@@ -869,36 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Pratyush Verma', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696/6599505098358784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696/4838738929958912.png', 
       link: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9040188061869191656909274'
-    }, 
-    {
-      title: 'mario kart 2.0', 
-      author: 'LightningCoder', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-kart-20/4883355436105728/5976481454145536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario-kart-20/4883355436105728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Cristina Silva', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6024797671964672/5712618745806848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6024797671964672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7208424478691466505480863'
-    }, 
-    {
-      title: 'Project: Animal attack"', 
-      author: 'Huda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5746757897338880/5207737823969280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5746757897338880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063239105511073987203587'
     }, 
   ];
 };
