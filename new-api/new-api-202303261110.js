@@ -649,15 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271151555299504631854694'
     }, 
     {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'lauribadeo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6329314108030976/4946426603028480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6329314108030976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341842169119320197812609'
-    }, 
-    {
       title: 'Triangle Generator', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 8, 
@@ -728,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168/5066347861295104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_486794069582692660733631'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'miguel peragon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760/5845051008925696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490289778792431530274466'
     }, 
     {
       title: '"Projekt: databáze obchodu"', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jquery-source-code-to-be-downloaded-and-used-only-on-your-pc/5599663119187968/4744745349070848.png', 
       link: 'https://www.khanacademy.org/computer-programming/jquery-source-code-to-be-downloaded-and-used-only-on-your-pc/5599663119187968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_22283180377178813838075'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Ava Lourdes Manio', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6366297735872512/6296498074861568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6366297735872512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5103478205840166687154352'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'leonggsh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128/5774902306324480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5450895518384128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7846765287563284238737119'
     }, 
   ];
 };
