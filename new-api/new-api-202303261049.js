@@ -101,7 +101,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'T-Rex art _| using curveVertex tool', 
-      author: 'CodingChamp01 🟢', 
+      author: 'CodingChamp01 🔴', 
       votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
@@ -667,12 +667,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7600763878519034273179227'
     }, 
     {
-      title: 'Roller Coaster', 
+      title: 'water slide', 
       author: 'neil.kanwar29', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/roller-coaster/5314373674647552/4964695691018240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/roller-coaster/5314373674647552', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/water-slide/5314373674647552/5315600248520704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/water-slide/5314373674647552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_966177322417451426944767'
     }, 
     {
