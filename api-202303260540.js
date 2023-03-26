@@ -175,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'Lichess TV', 
       author: 'bravo bravo', 
       votes: 5, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672/5941442926395392.png', 
       link: 'https://www.khanacademy.org/computer-programming/lichess-tv/6345104085532672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3550040499775075061747637'
