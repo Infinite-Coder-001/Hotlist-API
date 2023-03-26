@@ -721,6 +721,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'nabinaneupane88', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5558677387132928/5220622457421824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5558677387132928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2515317889435561270130398'
+    }, 
+    {
+      title: 'Main to game', 
+      author: 'Pratyush Verma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696/6397450744283136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9040188061869191656909274'
+    }, 
+    {
       title: 'mario kart 2.0', 
       author: 'LightningCoder', 
       votes: 6, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6573372604727296/5241851943895040.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6573372604727296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1092170667159727439594764'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Links for learning"', 
-      author: '🥶🥶FREEZE🥶🥶', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5048124315058176/5812830130716672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5048124315058176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47675053524137712827479'
-    }, 
-    {
-      title: 'Carinha sorridente', 
-      author: 'Paulo_Gottardo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/carinha-sorridente/5454800717398016/5413162485858304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/carinha-sorridente/5454800717398016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_173088962985769651094423'
     }, 
   ];
 };
