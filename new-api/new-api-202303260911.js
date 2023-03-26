@@ -676,6 +676,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
     {
+      title: 'Timer Thing', 
+      author: 'IAFrancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/timer-thing/5400146117705728/4995919256010752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/timer-thing/5400146117705728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'zb7846', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5985099557683200/5224626935611392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5985099557683200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_862375609354773711968087'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Daniel Han', 
       votes: 1, 
@@ -707,9 +725,18 @@ var LoadHotlistAPI = function() {
       author: 'Chaitra Arvapally', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-sql22632023/5780786721898496/6411923936821248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-sql22632023/5780786721898496/6176674996862976.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-sql22632023/5780786721898496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_749225949384194215130838'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Xiøn😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4751383992778752/6653219939074048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4751383992778752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672/6523816466759680.png', 
       link: 'https://www.khanacademy.org/computer-programming/porj-1/5790289941020672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_924559101194304549919980'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'Marieta Pérez-Magdalena', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5657857375911936/6439708793290752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5657857375911936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7186710047453001944057518'
-    }, 
-    {
-      title: 'C1 방민석 2333041 Cyclops Proj#1', 
-      author: 'C1_2333041_방민석_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333041-cyclops-proj1/4835136559693824/5426747668742144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c1-2333041-cyclops-proj1/4835136559693824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1066412139881376657876887'
-    }, 
-    {
-      title: 'Benny', 
-      author: 'Fenris', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/benny/6116717320519680/4984213498806272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/benny/6116717320519680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
     }, 
   ];
 };
