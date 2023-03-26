@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 36, 
+      votes: 37, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4703804546400256.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'A Game', 
+      author: 'Wort-Head Productions😐', 
+      votes: 35, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944/6615518212833280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
       votes: 32, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352/6283240551006208.png', 
       link: 'https://www.khanacademy.org/computer-programming/wrong-is-well-in-the-right-hands/6563897520996352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'A Game', 
-      author: 'Wort-Head Productions😐', 
-      votes: 34, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944/6615518212833280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'NEED BONESS SCENE - JS Project Fetch', 
@@ -359,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/keys-performance/6236262752370688/6588778031661056.png', 
       link: 'https://www.khanacademy.org/computer-programming/keys-performance/6236262752370688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Spin-off of "O.O"', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-oo/5250989285490688/5168116784218112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-oo/5250989285490688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Golden Knights Roster', 
@@ -721,6 +730,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_985312794443966623537699'
     }, 
     {
+      title: 'Cats ', 
+      author: 'Kendra', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cats/6230363363131392/5820034804137984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cats/6230363363131392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_226836321143458275933674'
+    }, 
+    {
+      title: 'Spin-off of "Terrific Text: Part One"', 
+      author: 'Dragon Legend', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/5928608490373120/5010805344223232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/5928608490373120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4264783066397908303881651'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'malangen.chelsea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5630652516188160/6530767166685184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5630652516188160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1074773212322138423863907'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'a02819', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5921165882474496/5132432685973504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5921165882474496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8386288145148961637996522'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sara LeCrone', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5595800198758400/6019642234814464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5595800198758400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8051787691893474503108457'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'Sara LeCrone', 
       votes: 1, 
@@ -728,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243361356464128/5639762141822976.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5243361356464128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8051787691893474503108457'
-    }, 
-    {
-      title: 'Spin-off of "O.O"', 
-      author: 'StuffStash', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-oo/5250989285490688/4585160571142144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-oo/5250989285490688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Mi Hola Mundo en SQL "Desafío: base de datos de libros"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5935734981967872/5391665704779776.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5935734981967872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_157690501934776391817344'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'bcastellanos.learn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5807945008070656/5810217448423424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5807945008070656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_962986020441827636232103'
-    }, 
-    {
-      title: 'Derivação de "Desafio: boneco de neve simples"', 
-      author: 'Shawn Felipe Elai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-simples/5108884454031360/6363754175709184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-simples/5108884454031360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5247495933257905352801710'
-    }, 
-    {
-      title: 'Stickman drawing', 
-      author: '29schaer.audrey', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stickman-drawing/5662326893363200/5997841173757952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stickman-drawing/5662326893363200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_404387893418516839829073'
-    }, 
-    {
-      title: 'Greta\'s Recipie book', 
-      author: 'tomin7360', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gretas-recipie-book/4669485710884864/6252653974962176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gretas-recipie-book/4669485710884864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8779395781205622786676066'
-    }, 
-    {
-      title: 'Derivado de "El DOM (Document Object Model)"', 
-      author: 'valeria.martinez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-el-dom-document-object-model/5696640964149248/6513402177699840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-el-dom-document-object-model/5696640964149248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_924093205542841173846294'
     }, 
   ];
 };
