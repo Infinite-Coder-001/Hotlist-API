@@ -536,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/6167169261158400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/6641803681120256.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -631,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Samantha Willett', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5737792354435072/6059729278517248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5737792354435072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_464582822190204139936577'
+    }, 
+    {
       title: 'Little Big Snake', 
       author: 'hassankarbala74', 
       votes: 1, 
@@ -665,6 +674,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-9/5123377485627392/5959039273189376.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-9/5123377485627392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_371965188022180808390770'
+    }, 
+    {
+      title: 'Yeni Program', 
+      author: 'Ahmed  KADI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yeni-program/6534079207227392/5500753814011904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yeni-program/6534079207227392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1154878729310267382150913'
     }, 
     {
       title: 'New program', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5676886161408000/6006266263814144.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5676886161408000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1195813424313714680001143'
-    }, 
-    {
-      title: 'My new logo', 
-      author: 'Green Light', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896/6074631506411520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-new-logo/5605624617680896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'sohailnaeem96', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5431038173298688/4736029182705664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5431038173298688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_712211706676735933267438'
     }, 
   ];
 };
