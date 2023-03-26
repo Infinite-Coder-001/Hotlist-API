@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Floofy(Offline)', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/4554648989253632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/5881178495434752.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -134,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
+      title: 'Orange Soda\'s Intro wip', 
+      author: 'Orange Soda', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'T-Rex art _| using curveVertex tool', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768/5534628086857728.png', 
       link: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Orange Soda\'s Intro wip', 
-      author: 'Orange Soda', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'Spider-Man 3D game.', 
@@ -595,11 +595,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'LennixDavis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5838726191431680/5094447525445632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5838726191431680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_488550456490547556521255'
+    }, 
+    {
+      title: 'Spin-off of "Project 1 "', 
+      author: 'shrabonik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-1/6514119059750912/6447047751548928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-1/6514119059750912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7344370784911113583127825'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'IgorG8a', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4995249509548032/5528102924238848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4995249509548032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4207899895094668564168207'
+    }, 
+    {
+      title: 'Base Converter', 
+      author: 'BouncyHouse', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/base-converter/4971073650343936/4622597611634688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/base-converter/4971073650343936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_106614308187669987832067'
+    }, 
+    {
       title: 'Pokemon 🐉', 
       author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pokemon/5871528643444736/5393257090826240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pokemon/5871528643444736/4948708514119680.png', 
       link: 'https://www.khanacademy.org/computer-programming/pokemon/5871528643444736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
@@ -617,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'taniaxiomara2005', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto/5549171483656192/5249583589670912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto/5549171483656192/4511555703324672.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto/5549171483656192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_349003175080183463106795'
     }, 
@@ -829,6 +865,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9657659408611613040774720'
     }, 
     {
+      title: 'Logical Operators: the 4 Rectangles My practice', 
+      author: 'Danel Hommeus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logical-operators-the-4-rectangles-my-practice/6730784095649792/5066161843912704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logical-operators-the-4-rectangles-my-practice/6730784095649792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_788850747115326938244759'
+    }, 
+    {
       title: 'Bubble Blaster', 
       author: 'Zayan_Hassan', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gus-the-thing/5640689384996864/6003091007913984.png', 
       link: 'https://www.khanacademy.org/computer-programming/gus-the-thing/5640689384996864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_881486923046146256937028'
-    }, 
-    {
-      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
-      author: 'Panecito 260', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5850148833116160/5938672202727424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5850148833116160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3542946150331923335044700'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Eva B', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5933140251295744/5049098240835584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5933140251295744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7326998691500785263113501'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Nina Kaczmarek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6260554030432256/6342950461423616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6260554030432256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7579500363987119111888219'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'jesucafabe', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4585265260969984/5861342625185792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/4585265260969984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6006563590505871438608760'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'Panecito 260', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6535337884303360/5655169397473280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/6535337884303360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3542946150331923335044700'
     }, 
   ];
 };
