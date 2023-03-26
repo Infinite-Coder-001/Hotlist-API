@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 71, 
+      votes: 72, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 31, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
-      votes: 14, 
+      votes: 15, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256/5006313320136704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256/6030620070559744.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -622,6 +622,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
+      author: 'Miłosz Duch', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/5546612421345280/4911351794548736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/5546612421345280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5344458070907392478398354'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'kevin.cifuentes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4764450088599552/5099282417106944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4764450088599552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198055293744414520605728'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem" my schitt poem', 
+      author: 'Jen Fox', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem-my-schitt-poem/6346293858582528/5016404043808768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem-my-schitt-poem/6346293858582528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3813677432527361555347198'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6294262175285248/4644857529548800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6294262175285248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
+    }, 
+    {
+      title: 'zoo', 
+      author: 'πceratops', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zoo/5905152029802496/4704729734365184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zoo/5905152029802496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_821032474273651489642088'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'karlis.naglis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6006100974682112/4607738408910848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6006100974682112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1014630825022432528033991'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Sara Affleck', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/c1__2333051_whitetiger_proj1/4770387209797632/5995727991128064.png', 
       link: 'https://www.khanacademy.org/computer-programming/c1__2333051_whitetiger_proj1/4770387209797632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_557325238741934483396606'
-    }, 
-    {
-      title: 'Cycle 9_HOA_Katigbac_14C', 
-      author: 'Amia Lucille', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cycle-9_hoa_katigbac_14c/4570952215347200/6266226373607424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cycle-9_hoa_katigbac_14c/4570952215347200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6664631275088743970808211'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Data Mining"', 
-      author: 'wera.kilian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5166424164450304/5485199489286144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5166424164450304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_930746721094188959627607'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Renata Skarzynska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4665220372152320/5330405512495104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4665220372152320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8374479633204654488839397'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Claire', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5162450950602752/6103070649139200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5162450950602752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_595892779936673325952057'
-    }, 
-    {
-      title: 'SKLEP Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'Zofia koper', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sklep-spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/4594338446491648/5368907813928960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sklep-spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/4594338446491648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4548960360245531436047934'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Olivia Liu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6381274655932416/4871570263949312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6381274655932416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4026983203239109604346295'
     }, 
   ];
 };
