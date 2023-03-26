@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256/4550319091793920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256/5308489737224192.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts-wip/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
+      title: 'Unit Circle - Anna Lettiere', 
+      author: 'anna.lettiere', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
+    }, 
+    {
       title: 'ST Personality Test w Results 2023', 
       author: 'Chris DeNeen', 
       votes: 22, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392/5013592635392000.png', 
       link: 'https://www.khanacademy.org/computer-programming/ia-logo/5876701878075392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'lol - interactive emoji', 
-      author: 'Captain Longtreader', 
-      votes: 17, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736/5149985143570432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lol-interactive-emoji/5838882409332736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
   ];
 };
