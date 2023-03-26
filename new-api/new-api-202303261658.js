@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: '- The Seagull Attack -', 
-      author: 'Xiøn😋🤩', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Logo Tutorial :D', 
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 22, 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864/5503136346456064.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head-with-more-levels/4836939103780864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: '- The Seagull Attack -', 
+      author: 'Xiøn😋🤩', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'ST Personality Test w Results 2023', 
@@ -296,15 +296,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240/5955529009840128.png', 
       link: 'https://www.khanacademy.org/computer-programming/tessellated-metaballs/6744888332042240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'Unit Circle - Anna Lettiere', 
-      author: 'anna.lettiere', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -395,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ill-hunt-you-down-if-you-vote-this-up/5674718427660288/4932738584199168.png', 
       link: 'https://www.khanacademy.org/computer-programming/ill-hunt-you-down-if-you-vote-this-up/5674718427660288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Unit Circle - Anna Lettiere', 
+      author: 'anna.lettiere', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984/5273601281671168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unit-circle-anna-lettiere/6475470301609984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_313065100071082531835846'
     }, 
     {
       title: 'Basic British Accents.', 
@@ -622,24 +622,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'New program', 
-      author: 'LJE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4886859844206592/6051014152339456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4886859844206592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
-    }, 
-    {
-      title: 'CUBO DE RUBIKC 5*5 EN MOVIMIENTO', 
-      author: 'JS ULI', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cubo-de-rubikc-55-en-movimiento/6062107146895360/5448188682354688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cubo-de-rubikc-55-en-movimiento/6062107146895360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
       author: 'Miłosz Duch', 
       votes: 1, 
@@ -671,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6294262175285248/4591180462735360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6294262175285248/4644857529548800.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6294262175285248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5573530994655232/6031501344161792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5573530994655232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_476919727789069293771998'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '23NirwanAs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4790899067633664/6396731832188928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4790899067633664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_274078637007646247435891'
+    }, 
+    {
+      title: 'C1_전정하_2333051_whitetiger_Proj#1', 
+      author: 'C1_2333051_전정하_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c1__2333051_whitetiger_proj1/4770387209797632/5995727991128064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c1__2333051_whitetiger_proj1/4770387209797632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_557325238741934483396606'
     }, 
   ];
 };
