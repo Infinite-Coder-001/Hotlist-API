@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 41, 
+      votes: 42, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4703804546400256.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -694,6 +694,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Lab #5- Follow the Mouse', 
+      author: 'Juan Santos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/6630601701769216/4991350123839488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-5-follow-the-mouse/6630601701769216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3730440850672475328651444'
+    }, 
+    {
+      title: 'New program', 
+      author: 'manningshawnk419', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6235472025403392/5073382959005696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6235472025403392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
+    }, 
+    {
+      title: 'Coming Soon (Will have many levels)', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon-will-have-many-levels/4599703531732992/4899896378572800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/coming-soon-will-have-many-levels/4599703531732992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Coin', 
+      author: 'Avinasen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coin/4915357321314304/5255767369498624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/coin/4915357321314304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Nueva página web', 
+      author: 'Monserrat  Martínez ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/4841111966498816/5915778349318144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nueva-pgina-web/4841111966498816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5181073368342630901219201'
+    }, 
+    {
+      title: 'Khan 20 ex4', 
+      author: 'Iosif Nitu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-20-ex4/5987934026383360/5153855513083904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-20-ex4/5987934026383360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6632009352217466247053463'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Lance Villamor', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6303373310869504/6512982545973248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6303373310869504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_395147263082420291416496'
-    }, 
-    {
-      title: 'Spin-off of "C2 2333050이민준 proj1 "Native Bear"', 
-      author: 'C1_2333050_이민준_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-c2-2333050-proj1-native-bear/5051292524527616/6424938358816768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-c2-2333050-proj1-native-bear/5051292524527616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683956941624335563136369'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'la7185', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5337209076236288/5128779044536320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5337209076236288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_170076689622994786516838'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'vaishaliarya18', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6337524676214784/4654278364151808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6337524676214784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6513794082184738656145839'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Daniel Al Koheji', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4987789394624512/5674239186485248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4987789394624512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_914137503226674468398993'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'eyelovejoey', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4538977727332352/6229427555188736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4538977727332352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_872732101975282067505801'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'aa7812', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5926914259992576/6024655233400832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5926914259992576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_25486811412854614288442'
     }, 
   ];
 };
