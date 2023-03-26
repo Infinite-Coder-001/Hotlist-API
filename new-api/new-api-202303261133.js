@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'NL#Midsane', 
       votes: 42, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4959314096996352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4703804546400256.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
@@ -658,33 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'ahmadsndm10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5290482247974912/5744475860418560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5290482247974912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9002893923998457451769417'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'alex', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4770196519960576/5542120489533440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4770196519960576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1055371418853818326367339'
-    }, 
-    {
-      title: 'kosiii ', 
-      author: 'Andelina Jonuzi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kosiii/6355343556001792/6746447640051712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kosiii/6355343556001792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_835432620525640102578955'
-    }, 
-    {
       title: 'Grilled Cheese Obama Sandwich', 
       author: 'MadLlama', 
       votes: 8, 
@@ -806,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'miguel peragon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760/5316241716985856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760/5994312765849600.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490289778792431530274466'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184/4821000815689728.png', 
       link: 'https://www.khanacademy.org/computer-programming/losing-scene-js-project-fetch/4891507334365184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'Spin-off of "Neck"', 
+      author: 'Peter Collingridge', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-neck/5994492953149440/6086384248209408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-neck/5994492953149440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128810778687926889052316'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'dikshagk13', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4569646209744896/5759346849136640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4569646209744896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3307559484321314263172357'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Julian Stögmüller', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4880973625081856/5195262688804864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4880973625081856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9757005434228169021122700'
     }, 
   ];
 };
