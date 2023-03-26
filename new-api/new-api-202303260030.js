@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 29, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 34, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6679977652436992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6238219260968960.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5288644631117824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5894950979158016.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -694,24 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'paolowtf10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5549956154048512/6605697669447680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5549956154048512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_563247060076278322779692'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'hruedabalderas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6240795570257920/5886824993308672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6240795570257920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121759289630321212325861'
-    }, 
-    {
       title: 'curveVertex drawing tool', 
       author: 'CodingChamp01 🟢', 
       votes: 6, 
@@ -719,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/curvevertex-drawing-tool/5919366073073664/5553752989024256.png', 
       link: 'https://www.khanacademy.org/computer-programming/curvevertex-drawing-tool/5919366073073664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'yo', 
-      author: 'sebastian.ortega', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yo/6513906727305216/6239631768338432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yo/6513906727305216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_831619957779059333810270'
     }, 
     {
       title: 'Art', 
@@ -743,9 +716,18 @@ var LoadHotlistAPI = function() {
       author: 'Laasya :)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test/6384500478361600/6537624652398592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test/6384500478361600/4672294049071104.png', 
       link: 'https://www.khanacademy.org/computer-programming/test/6384500478361600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'no program', 
+      author: 'mr. mustache', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-program/6654392330928128/6203449151897600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-program/6654392330928128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: ' Bugs that move across the screen in different ways', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dado-scale-rotate/6658992844881920/5953538586099712.png', 
       link: 'https://www.khanacademy.org/computer-programming/dado-scale-rotate/6658992844881920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_616095129920145122650005'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: gente famosa"', 
+      author: 'luifa07', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6096822964895744/6504055791992832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6096822964895744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_875330320564145511363187'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Bob Lyon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4808595775733760/5951453958291456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/4808595775733760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
   ];
 };
