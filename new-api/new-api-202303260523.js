@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'doof kcooc', 
+      author: 'Real_Mine300', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doof-kcooc/6316371760955392/6575905494581248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/doof-kcooc/6316371760955392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346330657930767355356676'
+    }, 
+    {
       title: 'Microbe Feast for the Amoeba that ate Chicago', 
       author: 'Middleforest20', 
       votes: 2, 
@@ -685,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6364061139598904182992167'
     }, 
     {
+      title: 'VelPen', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/velpen/5679084043812864/5613860938891264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/velpen/5679084043812864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'Ethan\'s  Project: Ad design', 
       author: 'eefan', 
       votes: 6, 
@@ -692,6 +710,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ethans-project-ad-design/4955146183557120/5928983628922880.png', 
       link: 'https://www.khanacademy.org/computer-programming/ethans-project-ad-design/4955146183557120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
+    }, 
+    {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'Andy Shen Si Eht Tseb', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/5975339345166336/6320314641596416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/5975339345166336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042700679548832302141073'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'rosalesgio245', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6566715204091904/6060130623078400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6566715204091904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794609258970101605606433'
+    }, 
+    {
+      title: 'Tetris in progress', 
+      author: 'CG Animation', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tetris-in-progress/5869974335045632/4561266359451648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tetris-in-progress/5869974335045632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319353706324730269103981'
     }, 
     {
       title: 'Spin-off of "Project: Magic 8-Ball"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5089644342722560/6725105242914816.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5089644342722560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_940727569385215498729968'
-    }, 
-    {
-      title: 'Spin-off of "Resizing shapes with variable expressions"', 
-      author: 'foxygaming', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5019163929395200/6188446629806080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5019163929395200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_395147263082420291416496'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'vyshnavireddy955', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5676831836782592/5609301025800192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5676831836782592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8751940581230753005478831'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'manningshawnk419', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4641098292314112/4652952066506752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4641098292314112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Oscar Martinez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5252723244318720/5679149944717312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5252723244318720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8883716437719378920913061'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'nabinaneupane88', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5039849297199104/6115880036777984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5039849297199104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2515317889435561270130398'
     }, 
   ];
 };
