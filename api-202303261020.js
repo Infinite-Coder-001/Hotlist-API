@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Infinite coder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/6219494478626816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800/4846628742938624.png', 
       link: 'https://www.khanacademy.org/computer-programming/sketch-api/5783330047180800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_643015938786727315236008'
     }, 
