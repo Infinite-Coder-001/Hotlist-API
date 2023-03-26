@@ -694,6 +694,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Lance Villamor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5592834993602560/5504726423879680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5592834993602560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2801929396168742741191788'
+    }, 
+    {
+      title: 'The Legend Of Zelda Game WIP', 
+      author: 'The Ember Society', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-legend-of-zelda-game-wip/5858475659018240/5029885040181248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-legend-of-zelda-game-wip/5858475659018240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'FIRST PROGRAM', 
       author: 'ikamaris19', 
       votes: 3, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5926914259992576/6024655233400832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5926914259992576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_25486811412854614288442'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'elizlaney10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6542199396548608/6092980470726656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6542199396548608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28182190556359512842274'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Iman Sheikh', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4760618575118336/6530340387864576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4760618575118336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_680712071671624061579447'
     }, 
   ];
 };
