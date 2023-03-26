@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 33, 
+      votes: 34, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the moon and stars, if anyone wants to use part of the program.', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408/5509958365134848.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-moon-and-stars-if-anyone-wants-to-use-part-of-the-program/6239354709393408', 
@@ -264,11 +264,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'I was bored.', 
       author: 'Wort-Head Productions😐', 
-      votes: 33, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944/6238219260968960.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4798020240850944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'NEED BONESS SCENE - JS Project Fetch', 
+      author: 'Laasya :)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160/5597772830261248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
       title: 'KhanéMon 2', 
@@ -278,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
+    }, 
+    {
+      title: 'Basic British Accents.', 
+      author: 'Phase ✝', 
+      votes: 24, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/4863564746899456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Expired Mario Kart', 
@@ -296,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-home-page-of-the-defenders-coding-team/6529255455637504/4525041464426496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-home-page-of-the-defenders-coding-team/6529255455637504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Basic British Accents.', 
-      author: 'Phase ✝', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208/4863564746899456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-british-accents/4830121833054208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Winston', 
@@ -401,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'HoarseHorse', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4869691215757312/5333241231097856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4869691215757312/5056982190178304.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4869691215757312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
@@ -419,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5132585828401152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5894950979158016.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -458,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776/5585916016246784.png', 
       link: 'https://www.khanacademy.org/computer-programming/chikn-nuggit/6344500424523776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'NEED BONESS SCENE - JS Project Fetch', 
-      author: 'Laasya :)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160/5597772830261248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
       title: 'Shonen the wraith ', 
@@ -703,6 +703,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Art', 
+      author: 'Doug McIntosh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/art/5960856673501184/4733678996733952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/art/5960856673501184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380010401083951208632647'
+    }, 
+    {
+      title: 'test', 
+      author: 'Laasya :)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test/6384500478361600/4672294049071104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test/6384500478361600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'no program', 
+      author: 'mr. mustache', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-program/6654392330928128/6203449151897600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-program/6654392330928128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: ' Bugs that move across the screen in different ways', 
       author: 'm-11198398', 
       votes: 2, 
@@ -737,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5125154553511936/5940393612197888.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5125154553511936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_920967723668258661119491'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Nonit', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5917646525874176/5067172335632384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5917646525874176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_848691065824416900211039'
     }, 
     {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4808595775733760/5951453958291456.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4808595775733760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'rabendavid02', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5481858776481792/4629859906404352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5481858776481792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_852872539217879391146793'
-    }, 
-    {
-      title: 'Mohammed Makes Canada', 
-      author: 'madenally', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mohammed-makes-canada/5866673652678656/5913498124337152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mohammed-makes-canada/5866673652678656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_601701714657761379643196'
-    }, 
-    {
-      title: 'planocartesiano', 
-      author: 'gabrieleduardooliveirad', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/planocartesiano/5497451655249920/4856662499573760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/planocartesiano/5497451655249920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_616095129920145122650005'
-    }, 
-    {
-      title: 'Derivado de "Desafío: poema noche"', 
-      author: 'jimena_mb0702', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-poema-noche/5513053358833664/6176978932908032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-poema-noche/5513053358833664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8417032850240303843579553'
     }, 
   ];
 };
