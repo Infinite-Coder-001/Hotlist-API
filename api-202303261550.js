@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: 'elliptical spiral', 
       author: 'Bob Lyon', 
       votes: 9, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/6406174795939840.png', 
       link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
@@ -174,11 +174,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Flag of USA', 
       author: 'The Goo 🌪', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528/5288384441663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/flag-of-usa/4953002692886528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Logo Tutorial :D', 
+      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/5551857230725120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
       title: 'sad ghost', 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
       link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
-      title: 'Logo Tutorial :D', 
-      author: 'Jăř-Jăř Bìñķś (Offline) ✝', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392/5551857230725120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-tutorial-d/6147035125563392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
       title: 'Flame Head with more levels', 
