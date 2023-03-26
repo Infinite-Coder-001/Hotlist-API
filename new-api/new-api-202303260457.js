@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
-      title: 'sad ghost', 
-      author: 'BaNana48', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
       title: 'lol - interactive emoji', 
       author: 'Captain Longtreader', 
       votes: 16, 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160/5597772830261248.png', 
       link: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'sad ghost', 
+      author: 'BaNana48', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
       title: 'KhanéMon 2', 
@@ -694,33 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
     }, 
     {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Elikia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5026191603187712/5030206323867648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5026191603187712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1080614886094773675154105'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Say Your Name"', 
-      author: 'ညီညီ ဝင်း', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6404606965104640/5079842455601152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6404606965104640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5931659681511994614010597'
-    }, 
-    {
-      title: 'Edited program of Balloon rat (lesson 15); x AND y', 
-      author: 'Alanna Chapman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edited-program-of-balloon-rat-lesson-15-x-and-y/5381814727524352/6277812853194752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edited-program-of-balloon-rat-lesson-15-x-and-y/5381814727524352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18628906582129934175457'
-    }, 
-    {
       title: '¬_¬', 
       author: 'camila angueta', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6403000177573888/6377681949343744.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6403000177573888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989258727140013591340288'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'nabinaneupane88', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5558677387132928/5220622457421824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5558677387132928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2515317889435561270130398'
+    }, 
+    {
+      title: 'Bucktooth Bunny', 
+      author: 'CJ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bucktooth-bunny/4994299289976832/6454224776118272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bucktooth-bunny/4994299289976832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1110116104450875677839441'
+    }, 
+    {
+      title: 'Main to game', 
+      author: 'Pratyush Verma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696/4838738929958912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/main-to-game/5538694850461696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9040188061869191656909274'
     }, 
   ];
 };
