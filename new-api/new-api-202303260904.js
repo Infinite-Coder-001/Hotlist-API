@@ -175,7 +175,7 @@ var LoadHotlistAPI = function() {
       title: 'sad ghost', 
       author: 'BaNana48', 
       votes: 5, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
       link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
@@ -676,39 +676,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_804287232334361424043920'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Daniel Han', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6744943998844928/5539699671482368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6744943998844928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_472068180840645674308824'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'eyobh348', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4830048868941824/6493184718061568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4830048868941824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_394280542110011450065734'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Marieta Pérez-Magdalena', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5923056372727808/5430850805350400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5923056372727808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7186710047453001944057518'
-    }, 
-    {
-      title: 'First SQL(2)(26/3/2023)', 
+      title: 'First SQL(26/3/2023)', 
       author: 'Chaitra Arvapally', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-sql22632023/5780786721898496/6411923936821248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-sql22632023/5780786721898496', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-sql2632023/5780786721898496/6608305788338176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-sql2632023/5780786721898496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_749225949384194215130838'
     }, 
     {
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/benny/6116717320519680/4984213498806272.png', 
       link: 'https://www.khanacademy.org/computer-programming/benny/6116717320519680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866889757145481113891632'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'sandyylee26', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6518355684278272/6734792642314240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6518355684278272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8195576745722303270579183'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Sandra Lipczyńska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6296962333982720/5411711994871808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6296962333982720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_400291837413133700981943'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Sandra Lipczyńska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6398491468546048/4632100872699904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6398491468546048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_400291837413133700981943'
     }, 
   ];
 };
