@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 41, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
-      votes: 13, 
+      votes: 12, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
@@ -604,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Khaing Maw', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6625839287681024/5724899466592256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6625839287681024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6848814426932201631441039'
-    }, 
-    {
       title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
       author: 'Maria  Janik', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6707973121687552/5515293184278528.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6707973121687552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1069352896952758533074138'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'lauribadeo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5940347172864000/4908326090752000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5940347172864000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341842169119320197812609'
     }, 
   ];
 };
