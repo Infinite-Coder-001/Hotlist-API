@@ -298,12 +298,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Orange Soda\'s Intro wip', 
+      title: 'Orange Soda\'s Intro', 
       author: 'Orange Soda', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro/6032738227634176/6137492110884864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro/6032738227634176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
@@ -658,33 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Inspirováno programem "Výzva: Oblíbené ovoce"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-oblben-ovoce/6227729541545984/4843380380319744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-oblben-ovoce/6227729541545984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: '"프로젝트: 저녁식사를 만들어 볼까요?" 프로젝트', 
-      author: 'C1_2333072_서유진_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5101829634703360/4567243846631424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5101829634703360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_182735590298024260626442'
-    }, 
-    {
-      title: ' Beautiful destinations to go to', 
-      author: 'Aiko Iguchi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beautiful-destinations-to-go-to/5277249051082752/6438984688648192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beautiful-destinations-to-go-to/5277249051082752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7600763878519034273179227'
-    }, 
-    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'ash.', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168/5066347861295104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6204334116487168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_486794069582692660733631'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'miguel peragon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760/5316241716985856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4767676145909760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490289778792431530274466'
+    }, 
+    {
+      title: '"Projekt: databáze obchodu"', 
+      author: 'Aqalexor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projekt-databze-obchodu/4555432183250944/6034692035100672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projekt-databze-obchodu/4555432183250944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5772702846177099755809647'
+    }, 
+    {
+      title: 'სახლი', 
+      author: 'elene veshapidze', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6575724669747200/5585275649835008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6575724669747200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5908836033187849414145309'
     }, 
   ];
 };
