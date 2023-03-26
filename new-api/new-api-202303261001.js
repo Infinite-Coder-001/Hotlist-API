@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'dikshagk13', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4569646209744896/5759346849136640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4569646209744896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3307559484321314263172357'
+    }, 
+    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'Julian Stögmüller', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5526968448892928/5607964686991360.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5526968448892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_958020594694915227996061'
-    }, 
-    {
-      title: 'epilepsie', 
-      author: 'isbasoiuluca39', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/epilepsie/6146810445086720/6160548401299456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/epilepsie/6146810445086720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_109396299240152561709877'
     }, 
   ];
 };
