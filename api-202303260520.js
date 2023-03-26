@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 69, 
+      votes: 70, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 38, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152/6289289710452736.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game/5767739768881152', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
+    }, 
+    {
       title: 'Do NOT hit the button.', 
       author: 'The Ember Society', 
       votes: 36, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'just trying out pjs in html', 
-      author: 'much of Ack', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4767515822833664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
       title: 'Dodge game?', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: 'sad ghost', 
+      author: 'BaNana48', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104/6634886938279936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-ghost/6745190389039104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
       title: 'lol - interactive emoji', 
       author: 'Captain Longtreader', 
       votes: 16, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640/5709775074803712.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'A Game', 
-      author: 'Wort-Head Productions😐', 
-      votes: 35, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944/6615518212833280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-game/4798020240850944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
   ];
 };
