@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 33, 
+      votes: 32, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/6439031262199808.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'What is Web-Developement?', 
       author: '21262', 
-      votes: 23, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
@@ -419,7 +419,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5132585828401152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256/5300669197369344.png', 
       link: 'https://www.khanacademy.org/computer-programming/shorts/6068547181920256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -712,33 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_321334158259201803218134'
     }, 
     {
-      title: 'Derivado de "Proyecto: app imitadora"', 
-      author: 'cristian.sanmartinru', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6435124452573184/5417166334902272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6435124452573184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_920967723668258661119491'
-    }, 
-    {
-      title: '"Proyecto: Bola 8 mágica cristiana"', 
-      author: 'Guillermo Cuart', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-bola-8-mgica-cristiana/4721324858851328/5032747099013120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-bola-8-mgica-cristiana/4721324858851328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3145421116697751558025549'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: gente famosa"', 
-      author: 'cristian.sanmartinru', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5125154553511936/5940393612197888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/5125154553511936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_920967723668258661119491'
-    }, 
-    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'cristian.sanmartinru', 
       votes: 1, 
@@ -788,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'Doug McIntosh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-mr-snowman/5767986679169024/4934984952758272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-mr-snowman/5767986679169024/5360593294114816.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-mr-snowman/5767986679169024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380010401083951208632647'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-poema-noche/5513053358833664/6176978932908032.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-poema-noche/5513053358833664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8417032850240303843579553'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'abdiwali warsame', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6153171526533120/5224255194447872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6153171526533120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5784648936642371616662637'
+    }, 
+    {
+      title: 'Doggo Create + Doggo Move -- JS Project Fetch', 
+      author: 'Laasya :)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doggo-create-doggo-move-js-project-fetch/5602264560746496/6303093332688896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/doggo-create-doggo-move-js-project-fetch/5602264560746496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'madenally', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4770845060022272/5298910718640128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4770845060022272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_601701714657761379643196'
     }, 
   ];
 };
