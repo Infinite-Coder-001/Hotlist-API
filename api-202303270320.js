@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'Wooter', 
+      author: 'Wort-Head Productions😐', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/6181564036988928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'What is Web-Developement?', 
       author: '21262', 
       votes: 35, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: 'Wooter', 
-      author: 'Wort-Head Productions😐', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5786963522404352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'cyberpunk cityscape', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Just the Beginning', 
       author: 'The Chosen One', 
-      votes: 38, 
+      votes: 39, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'standard deviation curve', 
+      author: 'i exist', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328/5384720340008960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
+    }, 
+    {
       title: 'sad ghost', 
       author: 'BaNana48', 
       votes: 10, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'standard deviation curve', 
-      author: 'i exist', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328/5384720340008960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
     }, 
     {
       title: 'but hey, it knows how to make a simple three.js project', 
