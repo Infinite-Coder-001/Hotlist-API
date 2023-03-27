@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'Wooter', 
+      author: 'Wort-Head Productions😐', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5786963522404352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'What is Web-Developement?', 
       author: '21262', 
       votes: 35, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: 'Wooter', 
-      author: 'Wort-Head Productions😐', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5786963522404352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'cyberpunk cityscape', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'standard deviation curve', 
+      author: 'i exist', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328/5384720340008960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
+    }, 
+    {
       title: 'sad ghost', 
       author: 'BaNana48', 
       votes: 10, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840/5369399352803328.png', 
       link: 'https://www.khanacademy.org/computer-programming/flame-head/5967477860515840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'standard deviation curve', 
-      author: 'i exist', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328/5384720340008960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
     }, 
     {
       title: 'but hey, it knows how to make a simple three.js project', 
@@ -526,7 +526,7 @@ var LoadHotlistAPI = function() {
       title: 'ST Personality Test w Results 2023', 
       author: 'Chris DeNeen', 
       votes: 22, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152/4524423509229568.png', 
       link: 'https://www.khanacademy.org/computer-programming/st-personality-test-w-results-2023/5564731260977152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1125294896752811232272204'
@@ -694,6 +694,78 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'alaroestefania', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4511495708000256/6260871656685568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4511495708000256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18648338654112676513732'
+    }, 
+    {
+      title: 'Power school', 
+      author: 'Charlie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/power-school/4898562086584320/6360497718083584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/power-school/4898562086584320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_339194526072516209758475'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Mariana Solís Alfonso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4566675099009024/6188453030313984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4566675099009024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cenar?"', 
+      author: 'alaroestefania', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cenar/4610804143144960/5286056988819456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cenar/4610804143144960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18648338654112676513732'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'mduman456', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6346518941712384/5582463318671360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6346518941712384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_677805767432418965599417'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Mariana Solís Alfonso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5705931750162432/5845844906786816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5705931750162432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'neim.mlga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6657136781475840/6599503319973888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6657136781475840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_732881301256955141475631'
+    }, 
+    {
+      title: 'Cursor, ', 
+      author: 'Zander, the Great', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cursor/6695847892140032/5105405060759552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cursor/6695847892140032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
+    }, 
+    {
       title: 'Spin-off of "Project: Build-a-House"', 
       author: 'Coding Is The Best!!!', 
       votes: 1, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario-la-ezperanza-de-una-felicidad/5776088765874176/5315101268951040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario-la-ezperanza-de-una-felicidad/5776088765874176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412049771750247079326976'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'alaroestefania', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6481979089666048/5876047955673088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6481979089666048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18648338654112676513732'
-    }, 
-    {
-      title: 'ab Lesson #5 – Follow the mouse!', 
-      author: 'Austin Gibbs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ab-lesson-5-follow-the-mouse/4618196754939904/6754004769226752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ab-lesson-5-follow-the-mouse/4618196754939904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8978152159804885656451590'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'HannaReyna', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5421901737672704/4875092405567488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5421901737672704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1163463234378046549020703'
-    }, 
-    {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'Zak E', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5012310168223744/5959910077808640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5012310168223744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7236049077774288427716734'
-    }, 
-    {
-      title: 'Poemario La Esperanza de una felicidad ', 
-      author: 'elsisandino9', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/poemario-la-esperanza-de-una-felicidad/5788792004067328/4642689980350464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/poemario-la-esperanza-de-una-felicidad/5788792004067328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412049771750247079326976'
-    }, 
-    {
-      title: '"Proyecto: ¿qué hay de cena?" Pizza', 
-      author: 'Palmira Sánchez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/5134479908978688/6023816674590720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-pizza/5134479908978688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919820775234366717513603'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Escrever um poema"', 
-      author: 'micaeli.n', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5153318273073152/4854181015109632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5153318273073152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_972891308665988310169315'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'dayararodriguezgonzalez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6272758582657024/5339842058960896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/6272758582657024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_559479590722798998324047'
     }, 
   ];
 };
