@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/player-sprite/4563521183727616/5628148281819136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/player-sprite/4563521183727616/4524872719187968.png', 
       link: 'https://www.khanacademy.org/computer-programming/player-sprite/4563521183727616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -694,60 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Khan academy skiped soo much in its LEARN JavaScript', 
-      author: 'Awesome Coder ( Online )', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academy-skiped-soo-much-in-its-learn-javascript/5812330974986240/5103276258541568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academy-skiped-soo-much-in-its-learn-javascript/5812330974986240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6109239283637082382054227'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'namanrattan3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5924963002662912/5855736887558144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5924963002662912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_88046437163366810408885'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'AI', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5283705158680576/6122099652739072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5283705158680576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_549695564760898932408298'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'susana_rego', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6479257791676416/6147686752632832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6479257791676416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig" Pokemon', 
-      author: 'atiyyah.ali96', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6499268581179392/6174169923633152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6499268581179392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_512142916664414806439827'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Olivia Iwinski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5855388860989440/4690898538774528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5855388860989440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7518497455050771416053156'
-    }, 
-    {
       title: 'panda4.0', 
       author: 'BryanF', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bolitas/5725749433909248/4559673027248128.png', 
       link: 'https://www.khanacademy.org/computer-programming/bolitas/5725749433909248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
+    }, 
+    {
+      title: 'Spin-off of "poemario"', 
+      author: 'elsisandino9', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario/5739344884449280/6665180080816128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario/5739344884449280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412049771750247079326976'
+    }, 
+    {
+      title: 'Expired Mario Kart', 
+      author: 'urfav.isabela', 
+      votes: 30, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760/5375770995507200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/expired-mario-kart/5620799676661760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_643713433859020033951294'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'bymbaa.seas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5948784837443584/5476825376800768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5948784837443584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5584034760023956526787319'
+    }, 
+    {
+      title: 'Spin-off of "Poemario"', 
+      author: 'elsisandino9', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario/5102397610573824/5063656930066432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario/5102397610573824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412049771750247079326976'
+    }, 
+    {
+      title: 'Spin-off of "More complex queries with AND/OR"', 
+      author: 'fauzan talib', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5992756309966848/5277371013054464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5992756309966848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
+    }, 
+    {
+      title: 'Spin-off of "Assessment 1"', 
+      author: 'carlie wang', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-assessment-1/4766593277280256/6354545094737920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-assessment-1/4766593277280256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5279262479537981709164641'
     }, 
   ];
 };
