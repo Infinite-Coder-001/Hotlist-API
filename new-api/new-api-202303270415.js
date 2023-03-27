@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 58, 
+      votes: 57, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -721,47 +721,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Spin-off of "Project: Word game "', 
-      author: '09010582226042 Muhammad Ali Royan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4591570071633920/6356407902584832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4591570071633920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1537354528832569994160614'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Story teller" #2', 
-      author: 'Oscar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller-2/6064656176431104/5526428826517504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-story-teller-2/6064656176431104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3968668206819550031914812'
-    }, 
-    {
-      title: 'Aryan', 
-      author: 'patelar2026', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688/5783760181444608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_469205637935776981207797'
-    }, 
-    {
-      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4563094841114624/5704110986018816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4563094841114624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
-    }, 
-    {
       title: 'Derivado de "Proyecto: página web de viajes"', 
       author: 'Mariana Solís Alfonso', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6072185790971904/5475980341985280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6072185790971904/5184924903849984.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6072185790971904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
     }, 
@@ -788,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'eaton.gregory', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896/6225380328652800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896/6399291037106176.png', 
       link: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_692538257148780854211008'
     }, 
@@ -842,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6479275139317760/5100157013377024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6479275139317760/5608384889143296.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6479275139317760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6609990355042304/6737299829473280.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6609990355042304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'ata merchant', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5922531010985984/6466080999784448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5922531010985984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964498875034988073872961'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'Mariana Solís Alfonso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6395650079244288/4537881571147776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6395650079244288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
+    }, 
+    {
+      title: 'Spin-off of "New program"', 
+      author: 'Elmo Quezon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5661472530415616/6470067400523776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/5661472530415616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'maria.sanchez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4972581653626880/6283073751924736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4972581653626880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_473230822144849757168089'
     }, 
   ];
 };
