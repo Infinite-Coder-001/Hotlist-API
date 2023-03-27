@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 39, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5454353168384000.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'do not click', 
       author: 'LovelyPetals', 
-      votes: 22, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
@@ -784,24 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Derivado de "Desafío: mis comidas favoritas"', 
-      author: 'Esthefanny Aruquipa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5110309401706496/4778409034301440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritas/5110309401706496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1153454443184345089583032'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Jeraldin Islas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5601217360478208/5256049386110976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5601217360478208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2264976209589135271260480'
-    }, 
-    {
       title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
       author: 'Victor Santana', 
       votes: 1, 
@@ -824,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'JD', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/juega-con-tus-amigos/6496977081909248/5552286903615488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/juega-con-tus-amigos/6496977081909248/5861727695847424.png', 
       link: 'https://www.khanacademy.org/computer-programming/juega-con-tus-amigos/6496977081909248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
@@ -833,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/making-this-cat-sit/4759288074780672/4731567215001600.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/making-this-cat-sit/4759288074780672/5677251325902848.png', 
       link: 'https://www.khanacademy.org/computer-programming/making-this-cat-sit/4759288074780672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/line-face/4765917491019776/6059582805032960.png', 
       link: 'https://www.khanacademy.org/computer-programming/line-face/4765917491019776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_782072446486544128088084'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Jeraldin Islas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4858564054401024/5196434074025984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4858564054401024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2264976209589135271260480'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Cody Johnson', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4575281408163840/6264379034353664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4575281408163840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8658031891706957135254664'
     }, 
   ];
 };
