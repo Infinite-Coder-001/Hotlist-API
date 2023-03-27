@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'New program', 
-      author: 'TheLegoMango', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/6427039713509376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
-    }, 
-    {
       title: 'Functions and for() loops TT', 
       author: 'Phase ✝', 
       votes: 5, 
@@ -244,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'New program', 
+      author: 'TheLegoMango', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/6427039713509376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
+    }, 
+    {
       title: '- The Seagull Attack -', 
       author: 'Xiøn😋🤩', 
       votes: 11, 
@@ -251,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200/5139178502537216.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-seagull-attack-/4804080020275200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'My logo', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/6164250294009856/5453935348596736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo/6164250294009856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'T-Rex art _| using curveVertex tool', 
@@ -451,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3862544569865138479099123'
     }, 
     {
+      title: 'My logo', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/6164250294009856/5453935348596736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo/6164250294009856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'player sprite', 
       author: 'mr. mustache', 
       votes: 2, 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544/4585840383934464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544/5630819709534208.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -676,60 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Spin-off of "Challenge: Optical illusion"', 
-      author: 'kubashevn2309', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/4575058573180928/4906834025824256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/4575058573180928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_347261003866672709258502'
-    }, 
-    {
-      title: 'New program', 
-      author: 'charles.sperbeck.iii', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5471810700492800/6529278121656320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5471810700492800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088605812207731134487092'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6524531645923328/6491579985739776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6524531645923328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'hruedabalderas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5268918660022272/5040980417101824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5268918660022272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121759289630321212325861'
-    }, 
-    {
-      title: 'gun rage', 
-      author: 'BryanF', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gun-rage/5599543531192320/6193269945188352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gun-rage/5599543531192320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3172297298106194402908534'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'Mariana Solís Alfonso', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5494250159783936/5483654643236864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5494250159783936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
-    }, 
-    {
       title: 'New program', 
       author: 'Elmo Quezon', 
       votes: 1, 
@@ -869,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'Elmo Quezon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5385833810280448/6711717796298752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5385833810280448/6653202985697280.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5385833810280448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5924963002662912/5855736887558144.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5924963002662912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_88046437163366810408885'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'AI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5283705158680576/6122099652739072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5283705158680576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_549695564760898932408298'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'susana_rego', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6479257791676416/6147686752632832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6479257791676416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig" Pokemon', 
+      author: 'atiyyah.ali96', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6499268581179392/6174169923633152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-pokemon/6499268581179392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_512142916664414806439827'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Olivia Iwinski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5855388860989440/4690898538774528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5855388860989440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7518497455050771416053156'
+    }, 
+    {
+      title: 'panda4.0', 
+      author: 'BryanF', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/panda40/5999359889293312/5535684548149248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/panda40/5999359889293312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3172297298106194402908534'
+    }, 
+    {
+      title: 'Spin-off of "Discussion App"', 
+      author: 'Zenti Valenzuela', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-discussion-app/6172163100164096/6599172875927552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-discussion-app/6172163100164096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1193262056495755257040288'
     }, 
   ];
 };
