@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/6181564036988928.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
@@ -721,33 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Reyna_axr180124_Lab05', 
-      author: 'AloveraJuice', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reyna_axr180124_lab05/5387279972745216/5139607026188288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/reyna_axr180124_lab05/5387279972745216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4080740134606469240657248'
-    }, 
-    {
-      title: 'Lab 5', 
-      author: 'dayval', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5/4659617318879232/5294280072806400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-5/4659617318879232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8690619608050814478981459'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'alaroestefania', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5699206099812352/4621411806396416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5699206099812352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18648338654112676513732'
-    }, 
-    {
       title: 'CAT BUTTON', 
       author: 'JD', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688/6358504014397440.png', 
       link: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_469205637935776981207797'
+    }, 
+    {
+      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
+      author: 'Angel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4563094841114624/5704110986018816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4563094841114624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Mariana Solís Alfonso', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6072185790971904/5475980341985280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6072185790971904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387077641715924610660892'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Zac.Cheung', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4695387215806464/5220172895141888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4695387215806464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_267292744797703995603214'
     }, 
   ];
 };
