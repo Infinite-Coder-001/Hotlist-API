@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'TheLegoMango', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/5351636475363328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/5038000884203520.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
