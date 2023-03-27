@@ -119,6 +119,15 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
+      author: 'TheLegoMango', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/6427039713509376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
+    }, 
+    {
+      title: 'New program', 
       author: 'StuffStash', 
       votes: 7, 
       forks: 1, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
-      title: 'New program', 
-      author: 'TheLegoMango', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464/6427039713509376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4953534044094464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
     {
       title: 'Functions and for() loops TT', 
