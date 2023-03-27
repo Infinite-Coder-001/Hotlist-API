@@ -667,51 +667,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
-      title: 'Spin-off z "Projekt: Odtwórca aplikacji"', 
-      author: 'Dawid Markowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-odtwrca-aplikacji/5959957657993216/5175592543895552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-odtwrca-aplikacji/5959957657993216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5688123347268332300103921'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'meonimat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6414946494889984/4713735047659520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6414946494889984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8385005365278863392281293'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'tomislavdronjic', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5481742879473664/5470640154132480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5481742879473664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'szczepaniak.martyna_nd_2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4949582061813760/6077647571697664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4949582061813760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_913271788420742939150411'
-    }, 
-    {
-      title: 'Goofy ah ball', 
-      author: 'jamonnapat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/goofy-ah-ball/5431048969437184/6746034316558336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/goofy-ah-ball/5431048969437184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6321558865003068347026622'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Colorful creature"', 
       author: 'arezoo.nabizada10', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-planning-with-pseudo-code/6463619580870656/6267207505199104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-planning-with-pseudo-code/6463619580870656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'joseignacioestrada090', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5633158159843328/4872931768582144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5633158159843328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_768689428854334010214128'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'alexjulian', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6141825699332096/5783862757343232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6141825699332096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1098926658841325037495321'
+    }, 
+    {
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'lingmackinder65', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5848567614062592/5284692430733312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5848567614062592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3434436360488099055694661'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"completed ....', 
+      author: 'lukerodcahill', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creaturecompleted/5125288007876608/4899958051618816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creaturecompleted/5125288007876608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_656803934458764300445490'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Moje ulubione jedzenie"', 
+      author: 'Zuzanna Górecka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moje-ulubione-jedzenie/4624612161011712/4729956400939008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-moje-ulubione-jedzenie/4624612161011712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5313268123132555226341369'
     }, 
   ];
 };
