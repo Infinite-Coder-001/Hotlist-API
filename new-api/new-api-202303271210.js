@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
-      votes: 21, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/6181564036988928.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'HB_the_Pencil (Caela)', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/6539326357028864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224/4854532363567104.png', 
       link: 'https://www.khanacademy.org/computer-programming/interesting-ripple-bug/5429635530932224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
@@ -676,204 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'mateusz.pesta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4856594920947712/6618288097640448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4856594920947712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_637173991451643290242448'
-    }, 
-    {
-      title: 'Function 2', 
-      author: 'Mr. Earl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/function-2/5002884090740736/5867242198974464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/function-2/5002884090740736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567392973855469426668479'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'julia.jasz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5734586631110656/5912206144487424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5734586631110656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9459653776317808867530133'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'chepkemoingeno', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5680386022883328/6479591054295040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5680386022883328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1714837786774437650318768'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'josephogbeiwi1🌠', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5029634589900800/4544149497102336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5029634589900800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_170405918591417842292234'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Maja Stasiak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4943697956618240/5759725812891648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4943697956618240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8459606084960864444239655'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Grzegorz Wódkowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5006426868334592/5294464823508992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5006426868334592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_408066827204243769975485'
-    }, 
-    {
-      title: 'Triangle', 
-      author: 'ColeF', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/triangle/4681711796666368/6413374268424192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/triangle/4681711796666368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_670717547874492910706984'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : qu\'avons-nous pour dîner ce soir ?"', 
-      author: 'motheronpauline.pm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir/6479475182452736/6242655786024960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir/6479475182452736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_219630935384540042910816'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Blueberrybir', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5444686740504576/5124915453018112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5444686740504576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_424843200111820235625646'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'kaldanirati', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5665128352890880/5804587710988288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5665128352890880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_343953760210703989263141'
-    }, 
-    {
-      title: '"პროექტი: ვარვსკლავთცვენა"-ის სპინ-ოფები', 
-      author: 'iraklipotskhverashvili', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6511299145285632/6676338204524544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6511299145285632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5278117711767170560962400'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'zoey.wilson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6232179555483648/6577241497845760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6232179555483648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_786664840920406059729554'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'linac7684', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5624435450363904/5038181105057792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5624435450363904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1062846505068226382183691'
-    }, 
-    {
-      title: 'Derivado de "Cambiar el tamaño de las figuras con expresiones variables"', 
-      author: 'Alejandro Casas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variables/5430623172083712/5953956674322432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variables/5430623172083712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4516123227356387913310577'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Kora Miś', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5877352174501888/6435671725359104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5877352174501888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3813070170351534964698201'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Liliia Spivak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5115092023951360/5323659620433920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5115092023951360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5412956112172636602931743'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'blazej.gocal', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5701316874911744/6547825904369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5701316874911744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_529765524197032904964759'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Oleksii Zhurenko', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5435604830830592/4808651971018752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5435604830830592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_526041135838783470400558'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Wiktoria Studenna', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4778198580903936/4899147603034112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4778198580903936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9812347775794856265739630'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Wiktoria  Wojtasik', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6076866156085248/6360191567446016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6076866156085248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2344961340374175846500650'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'gabriela  tapia millan ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4509150345478144/4861691033862144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4509150345478144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_743236558103106082598088'
-    }, 
-    {
       title: 'Nueva página web', 
       author: 'Breo Garcia', 
       votes: 1, 
@@ -899,6 +701,204 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-and-snowman/4746116416716800/6201834881728512.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-and-snowman/4746116416716800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_232775193125561200750721'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Kacper Łaskarzewski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6741995528962048/5253252892639232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6741995528962048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7910155760635677445529399'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: '26jfrantz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6242931108528128/6379152799481856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/6242931108528128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_350369252554551171832260'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Alina Sushanava', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5873590831726592/6720589411958784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5873590831726592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6511639571190947874021986'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Weronika Fibik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5909403544109056/5365085695688704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5909403544109056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1774286200414659771638318'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Yuliia Sokolovska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6708033720991744/6570919708639232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6708033720991744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7840580155880050758004711'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Michał Olearczyk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4527089215913984/6217825346961408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4527089215913984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6364521442778315816319551'
+    }, 
+    {
+      title: 'Derivado de "Cambiar el tamaño de las figuras con expresiones variables"Macarena Vicent', 
+      author: 'Macarena Vicent', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variablesmacarena-vicent/5658517794242560/6135178901897216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-cambiar-el-tamao-de-las-figuras-con-expresiones-variablesmacarena-vicent/5658517794242560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1170458567579763701297660'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Maksymilian Taradaj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5515995612758016/6173730150858752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5515995612758016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4014963419935177948676233'
+    }, 
+    {
+      title: 'Build-a-House (for loops and %)', 
+      author: 'Karoline Løveng', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/build-a-house-for-loops-and/6234279735771136/5724743908245504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/build-a-house-for-loops-and/6234279735771136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8787179087369348720916234'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : base de données de livres"', 
+      author: 'Constantin Van', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/5818678869540864/5932268372934656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/5818678869540864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5259830971202721485471608'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'KOSIK Maja', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6111710865047552/5849386837131264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6111710865047552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160912654366990033071192'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Yuliia Sokolovska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4766648734367744/5726275399630848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4766648734367744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7840580155880050758004711'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'alayelawson', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5624735728975872/6486328717131776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5624735728975872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_334507401735102149925454'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Dominik Zimnicki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4934289788813312/5595377882677248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4934289788813312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662682506575439962184155'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Zapętlona Linijka"', 
+      author: 'stas k', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zaptlona-linijka/5630968867373056/5378219068145664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zaptlona-linijka/5630968867373056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337304719960731391101108'
+    }, 
+    {
+      title: 'Penguin with Clarifying with Comments"', 
+      author: 'flynn.engwicht', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-with-clarifying-with-comments/6329459398721536/6041233035411456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/penguin-with-clarifying-with-comments/6329459398721536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5449397507326373638440517'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: '26jfrantz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5892544522403840/6224622870904832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5892544522403840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_350369252554551171832260'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Zapętlona Linijka"', 
+      author: 'zuzia.soszkaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zaptlona-linijka/6268607765200896/6271563239571456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-zaptlona-linijka/6268607765200896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223327738378617731312734'
+    }, 
+    {
+      title: 'New program', 
+      author: 'reinaldopizarro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5098983346454528/5878258454544384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5098983346454528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_338803873277011370050279'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Anúncio Publicitário"', 
+      author: 'augusto.rajao', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/6504266346053632/6474966314041344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-anncio-publicitrio/6504266346053632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_92578371270051973287686'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler" chloe', 
+      author: 'Chloe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler-chloe/6108602248249344/5163092310016000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler-chloe/6108602248249344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_547051961584523553464490'
+    }, 
+    {
+      title: 'Spin-off z "Pętla While: Balonowy Skoczek"', 
+      author: 'kwiatkowskazuzz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-ptla-while-balonowy-skoczek/6733833656647680/4521029629427712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-ptla-while-balonowy-skoczek/6733833656647680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_780340188239837161253652'
     }, 
   ];
 };
