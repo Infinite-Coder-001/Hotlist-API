@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
