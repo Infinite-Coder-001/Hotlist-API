@@ -685,24 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_486706332439999043516008'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Sergio Chaparro Tapia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5005302157328384/4944271913566208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5005302157328384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3909122819168707184766977'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Kamil Jawdoczenko', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5970834595561472/5687024029057024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5970834595561472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_180108883649592209465584'
-    }, 
-    {
       title: 'Wrong is Well in the Right Hands', 
       author: 'AGnawKneeMouse Coder', 
       votes: 33, 
@@ -712,193 +694,211 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: '20jackdeegan', 
+      title: 'Spin-off of "Challenge 1: Book list database"', 
+      author: 'olivervestorplarsen', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5699035710406656/4866574814330880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5699035710406656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_996282059150974805966882'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Roman Nagochevskiy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6580387259400192/4787656769978368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6580387259400192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1939606146965568051839660'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: '20josephmoran', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6510138002554880/6006962115624960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6510138002554880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203653251637480115650243'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'mariaalejandraidali', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5135078788481024/5519858063425536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5135078788481024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_583043835652107010215168'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'natashaonline1111', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4517625901400064/5786492518842368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4517625901400064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2522004967813934927653085'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Amelia Misiak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6028713105080320/6013425705861120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6028713105080320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_60148268646017541575783'
-    }, 
-    {
-      title: 'Spin-off z "Rysowanie innych kształtów"', 
-      author: '22lyczakkacper', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5333765753978880/4736670240129024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5333765753978880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162746152141407851897912'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Michał Lapatneu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5757989933072384/5010346965516288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5757989933072384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_483014143129971272975570'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'siana ivanova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4875724235522048/5920815003779072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/4875724235522048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_62031136774795102555886'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'Paula Frontera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4702849117503488/5928103731052544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4702849117503488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3508510755079362033538205'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Zofia Gurdak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6292236561334272/6687053141295104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6292236561334272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7927985171877311002647067'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: '22szymczykmilosz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5207116488163328/4688408590204928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5207116488163328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7766776964931973537365608'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Wiktoria Łącka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5338225339318272/5623659403460608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5338225339318272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9111368300482174057072423'
-    }, 
-    {
-      title: 'Spin-off z "Rysowanie innych kształtów"', 
-      author: '22chaberkakacper', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5512399718498304/6484072139636736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-innych-ksztatw/5512399718498304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_731314948142891305988749'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'gallego.martos.david', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5529043958284288/6351646797119488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5529043958284288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_550454744643127652132310'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Natalia Bąkiewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4900794362281984/4582197916123136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4900794362281984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8422976195057665840061605'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Sandra Lipczyńska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4610029404864512/5259972008263680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4610029404864512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_400291837413133700981943'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Filip Hojda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4874951233683456/5778542869921792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4874951233683456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1104941582922714670269704'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-1-book-list-database/6366293910667264/5773681000497152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-1-book-list-database/6366293910667264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1172746066590134658305153'
     }, 
     {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Veronika Kvashnina', 
+      author: 'Kinga Jaskot', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6305483414880256/5693902083637248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6305483414880256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_701733202012319055918288'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5626605482590208/6644080282222592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5626605482590208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1132943092806758596063799'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Laura Marek', 
+      author: 'Julia Leonowicz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5257002508140544/5646906551484416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5257002508140544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_307403282451230122620341'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4956652056133632/6401504488767488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4956652056133632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_196653267721150853428764'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Mikołaj  Bogda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6730105893470208/4715693351419904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6730105893470208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1553217405804083030438998'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Maria Goles', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5420448293896192/5076363162992640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5420448293896192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6246366841439183438659930'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Anna Faliszewska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6571644283043840/5686470112493568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6571644283043840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3053389888429733596665411'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Tomasz Bednarek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6564641473085440/5347891800752128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6564641473085440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6773356601583982047083021'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Aleksandra Czyżak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4644166534742016/5646628754341888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4644166534742016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2842509991527821772301939'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Wiktoria Chruma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5172179689062400/5346052346789888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5172179689062400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_883721728945973210242922'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Mohammed A', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6712954436501504/4784941847330816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6712954436501504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29532172717654850077314'
+    }, 
+    {
+      title: 'Pong [GAME]', 
+      author: 'Hibernia', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784/6348128145162240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pong-game/5399359534710784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'Konrad Gniadzik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5577048908414976/5121995143692288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5577048908414976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1965003138950371452974941'
+    }, 
+    {
+      title: 'ola', 
+      author: 'karlinastivka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ola/5595501161660416/6145428908457984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ola/5595501161660416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_819123812266718508863986'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'olszewssadrian', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5746988282068992/5535973250482176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/5746988282068992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_940661243693867594857651'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Mouse Tracker"', 
+      author: 'Jagoda P', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5139844759339008/6516975657598976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-tracker/5139844759339008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_431767087247684769203568'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Łukasz M.', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5184327400079360/5264102659506176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5184327400079360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1319353079047865060168793'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'qianqian12242004', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6464943202549760/5447562489544704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6464943202549760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9160905556319582409259288'
     }, 
     {
       title: 'Derivado de "Proyecto: pecera"', 
       author: 'martos.lopez.marcos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/5412010897752064/6102133960392704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/5412010897752064', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6043685696618496/5861692866347008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pecera/6043685696618496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830073313431611608476249'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'Hania Karchut', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5619106637463552/5637115166900224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5619106637463552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4103084816237494335741645'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: '20ruairiocasaide', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227464394424320/6519454726144000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227464394424320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1017975621108444143234966'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'steenbergdaniel11', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6311155355402240/5945989417713664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6311155355402240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_173324235262507486070528'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'acnavarro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5386339811115008/5185742893793280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5386339811115008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_277088161742405145641871'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '20seanhayes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5299965804199936/5740959691489280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5299965804199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_531419343700527103213421'
     }, 
   ];
 };
