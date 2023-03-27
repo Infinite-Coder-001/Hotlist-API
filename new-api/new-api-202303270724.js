@@ -712,6 +712,78 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Derivado de "Desafío: vínculos que te encantan"Gustavo Perez Iniesta1BAHB', 
+      author: 'gustavopereziniesta', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantangustavo-perez-iniesta1bahb/6486448540008448/4738259109593088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantangustavo-perez-iniesta1bahb/6486448540008448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_626156053651310794507318'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'prasanth.k99y', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5975449705693184/5867388999614464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5975449705693184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2715714821795966769288039'
+    }, 
+    {
+      title: 'Book list database', 
+      author: 'ruchimath7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/book-list-database/4844372048003072/5962580272398336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/book-list-database/4844372048003072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1192209223076186172357564'
+    }, 
+    {
+      title: 'Travel to nilgiri', 
+      author: 'maitri.h.bhanderi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/travel-to-nilgiri/5925104904355840/6210144334823424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/travel-to-nilgiri/5925104904355840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1187850044353916635418119'
+    }, 
+    {
+      title: 'Spin-off of "mock exam"', 
+      author: 'youssef.eldesouky1042', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-mock-exam/4667770374766592/5359514854670336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-mock-exam/4667770374766592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820004741646341651499252'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'arijus.vainoris', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5253612638093312/4787776592855040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5253612638093312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1115673624739180312456893'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : le guide de styles"', 
+      author: 'Chris Emmanuelle Tansion', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-le-guide-de-styles/5271227238498304/5544002289188864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-le-guide-de-styles/5271227238498304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1517404873486541945305609'
+    }, 
+    {
+      title: 'A(z) "Projekt: Utazási weboldalka', 
+      author: 'Kozma Kinga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/az-projekt-utazsi-weboldalka/4514878128963584/6694850654420992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/az-projekt-utazsi-weboldalka/4514878128963584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_224011559447320433058002'
+    }, 
+    {
       title: 'Spin-off of "Project: Make it rain" Roberto Martínez Reina', 
       author: 'Roberto Martínez Reina', 
       votes: 1, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-me-i-was-bored/6716898265055232/6081176365481984.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-me-i-was-bored/6716898265055232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Marianna Bobrova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6372206436466688/4891480356601856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6372206436466688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4724276299396336215957733'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Lesego Matsimela', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4524683304419328/6523741875257344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4524683304419328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7028200991515764564613694'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Phemelo Motsamai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6497327423733760/5479355582300160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6497327423733760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Fabiola Adrover Yi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6325600370606080/4714790200328192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6325600370606080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_783004525698369520999659'
-    }, 
-    {
-      title: 'Derivado de "Desafío: criatura colorida"', 
-      author: 'eugeni giner', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6597679233941504/6432311517429760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6597679233941504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_572877704714961277044754'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'Sara Sixto ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4641184023887872/6637502237818880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4641184023887872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8252669047708531089521980'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: invitación a un evento"', 
-      author: 'hruedabalderas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5918486091317248/4620448693534720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5918486091317248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121759289630321212325861'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'stanver11', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5684850238734336/4720228870438912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5684850238734336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_428818845687116318850675'
     }, 
   ];
 };
