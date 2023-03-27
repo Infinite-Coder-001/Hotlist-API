@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
+      title: ';-;', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 4, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4724154705428480/4723781580144640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/4724154705428480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Sketch API', 
       author: 'Infinite coder', 
       votes: 9, 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352/6640704753549312.png', 
       link: 'https://www.khanacademy.org/computer-programming/t-rex-art-_-using-curvevertex-tool/5691285156708352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: ';-;', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 3, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4724154705428480/4723781580144640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4724154705428480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Spider-Man 3D game.', 
@@ -721,6 +721,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'veruscaorellanarodas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4979921350082560/5580141150650368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4979921350082560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1010452904254305999027467'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'hugomdaza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6641380526178304/5379668250509312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6641380526178304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2614561790097617100244995'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Elkin José Rivera Gáleas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6592315692204032/6641948829204480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6592315692204032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_237403838291072411752416'
+    }, 
+    {
+      title: 'Dumb Shooting Star Project Failure', 
+      author: 'No.1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dumb-shooting-star-project-failure/5209688410210304/5929611096801280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dumb-shooting-star-project-failure/5209688410210304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1066411471768564365723114'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'tenzinpelzang21', 
       votes: 1, 
@@ -770,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'patelar2026', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688/5783760181444608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688/6358504014397440.png', 
       link: 'https://www.khanacademy.org/computer-programming/aryan/6310327869554688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_469205637935776981207797'
     }, 
@@ -815,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'eaton.gregory', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896/5333041246683136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896/4647104938295296.png', 
       link: 'https://www.khanacademy.org/computer-programming/advanced-money-game-100/4540697123536896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_692538257148780854211008'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/4575058573180928/4906834025824256.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/4575058573180928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_347261003866672709258502'
-    }, 
-    {
-      title: '', 
-      author: 'Xiøn😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6479275139317760/5849149347250176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6479275139317760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'New program', 
-      author: 'charles.sperbeck.iii', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5471810700492800/6529278121656320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5471810700492800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088605812207731134487092'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6524531645923328/6491579985739776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6524531645923328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'hruedabalderas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5268918660022272/5040980417101824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5268918660022272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121759289630321212325861'
     }, 
   ];
 };
