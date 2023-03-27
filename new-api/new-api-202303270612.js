@@ -730,15 +730,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161636173501911064328685'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'magzhan.akhmet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5465154675589120/5139083476385792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5465154675589120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1184373236282429648042132'
-    }, 
-    {
       title: 'Challenge: My Favorite Foods"', 
       author: 'Huda', 
       votes: 1, 
@@ -755,15 +746,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6350563324510208/5885175868473344.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6350563324510208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_216806227280168244438856'
-    }, 
-    {
-      title: 'Spin-off of "Coloring with code"', 
-      author: 'sourabhagarwal24nov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/6668988307521536/6569136223469568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/6668988307521536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_863627490187477814143707'
     }, 
     {
       title: 'Spin-off of "Challenge: My Favorite Foods"', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4978233058836480/5937215604834304.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-word-game/4978233058836480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1131679817884111754109006'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Jef', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6546369298087936/5635924320108544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6546369298087936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2975358139385507904162788'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'yera.baibolat', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6229306331414528/4602479489892352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6229306331414528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_202314907435000771714949'
     }, 
   ];
 };
