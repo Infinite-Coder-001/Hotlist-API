@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 45, 
+      votes: 46, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5903673680248832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Taking a break from KA (Please read for more info)', 
       author: 'Animation Guy', 
-      votes: 25, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/taking-a-break-from-ka-please-read-for-more-info/5054825713942528/5247848590655488.png', 
       link: 'https://www.khanacademy.org/computer-programming/taking-a-break-from-ka-please-read-for-more-info/5054825713942528', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
-      votes: 21, 
+      votes: 22, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
@@ -84,9 +84,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'do not click', 
       author: 'LovelyPetals', 
-      votes: 14, 
+      votes: 15, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5295831797514240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -98,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'lets not forget IA', 
+      author: 'Akbaba©', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/6530699286069248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_174146774543611492255686'
     }, 
     {
       title: 'just trying out pjs in html', 
@@ -129,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 90, 
+      votes: 91, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -154,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Just the Beginning', 
+      author: 'The Chosen One', 
+      votes: 52, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
+    }, 
+    {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 7, 
@@ -161,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Just the Beginning', 
-      author: 'The Chosen One', 
-      votes: 51, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
     {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
-      title: 'lets not forget IA', 
-      author: 'Akbaba©', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/6530699286069248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174146774543611492255686'
-    }, 
-    {
       title: ';-;', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 10, 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lemonjs-v001/4678549266284544/6006539396890624.png', 
       link: 'https://www.khanacademy.org/computer-programming/lemonjs-v001/4678549266284544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
+    }, 
+    {
+      title: 'ICL HOMEPAGE', 
+      author: 'Edmund Knight⚔🏹', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440/5199641030475776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
       title: 'Login Screen', 
@@ -235,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'Orange Soda\'s Intro wip', 
+      author: 'Orange Soda', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
       title: 'standard deviation curve', 
       author: 'i exist', 
       votes: 9, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768/4964520268447744.png', 
       link: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Orange Soda\'s Intro wip', 
-      author: 'Orange Soda', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'Dodge game?', 
-      author: 'Floofy(Online)', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424/6463420837969920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dodge-game/5378288022503424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
   ];
 };
