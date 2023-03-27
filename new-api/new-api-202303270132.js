@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 56, 
+      votes: 55, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -669,7 +669,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KhanéMon 2', 
       author: 'Paperwad ☢️', 
-      votes: 104, 
+      votes: 103, 
       forks: 42, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136/6078975781945344.png', 
       link: 'https://www.khanacademy.org/computer-programming/khanmon-2/5676238074331136', 
@@ -737,42 +737,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pengwen-mc-skin/6156194092990464/5458715660828672.png', 
       link: 'https://www.khanacademy.org/computer-programming/pengwen-mc-skin/6156194092990464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'ariana_vm0622', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5275638438346752/5997575397490688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5275638438346752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_709401202131741035901780'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'fauzan talib', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6210140274737152/4617441713111040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6210140274737152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
-    }, 
-    {
-      title: 'Dedsadsa', 
-      author: 'willibarb2502', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dedsadsa/5511677023141888/5831726778859520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dedsadsa/5511677023141888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_250897798975953910463867'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'sofia.avila', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5566194754306048/4904831027560448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5566194754306048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_91474169211160231106336'
     }, 
     {
       title: 'coded dinner', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6561140000997376/5887041327120384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-aggregating-data/6561140000997376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
+    }, 
+    {
+      title: 'Assessment 1', 
+      author: 'Chloe De Marchi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/assessment-1/5209649789059072/5342564053204992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/assessment-1/5209649789059072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6136329785420111833794063'
+    }, 
+    {
+      title: 'Derivado de "Desafío: puedes aprender etiquetas de texto"', 
+      author: 'primerosegundomarisela31', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-puedes-aprender-etiquetas-de-texto/6349525787918336/4714551359881216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-puedes-aprender-etiquetas-de-texto/6349525787918336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4125473887888165933981943'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'twhite', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5673264161800192/5616997003214848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5673264161800192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379244425989030861277402'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Kim Albin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5343617167441920/5600811418959872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5343617167441920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_406614445308030980717128'
     }, 
   ];
 };
