@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/6181564036988928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5786963522404352.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544/5048525802225664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544/6216202319085568.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-wanted-trying-to-make-a-cat-walk/5961997901676544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -694,60 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'panda4.0', 
-      author: 'BryanF', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/panda40/5999359889293312/5535684548149248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/panda40/5999359889293312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3172297298106194402908534'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Zenti Valenzuela', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5419630471725056/5874966529884160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5419630471725056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1193262056495755257040288'
-    }, 
-    {
-      title: 'My first code', 
-      author: 'jeremiahokai1455', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-code/4859310346911744/5088588619628544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-first-code/4859310346911744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_427790432198390269446490'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'aresc97', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4789659130707968/5322293661450240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4789659130707968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341033307783954578881296'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'bac0197', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5711782166708224/5773483020959744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5711782166708224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520346576948366507208222'
-    }, 
-    {
-      title: 'Failed attempt at player rotation (I figured it out in a different program.)', 
-      author: 'The Ember Society', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/failed-attempt-at-player-rotation-i-figured-it-out-in-a-different-program/6236244783972352/5767228114124800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/failed-attempt-at-player-rotation-i-figured-it-out-in-a-different-program/6236244783972352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'alaroestefania', 
       votes: 1, 
@@ -811,11 +757,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_732881301256955141475631'
     }, 
     {
-      title: 'Cursor', 
+      title: 'Cursor, ', 
       author: 'Zander, the Great', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cursor/6695847892140032/5132979757432832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cursor/6695847892140032/5105405060759552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cursor/6695847892140032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-assessment-1/4766593277280256/6354545094737920.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-assessment-1/4766593277280256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5279262479537981709164641'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'austin.bolkcom', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5175226968358912/4739871693651968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5175226968358912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_666417691103231682011489'
+    }, 
+    {
+      title: 'Team Home page of THE DEFENDERS CODING TEAM!!!!!', 
+      author: 'Edmund Knight⚔🏹', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-home-page-of-the-defenders-coding-team/6529255455637504/4525041464426496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-home-page-of-the-defenders-coding-team/6529255455637504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'jeremiahokai1455', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5853950416044032/6451218366119936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5853950416044032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_427790432198390269446490'
+    }, 
+    {
+      title: 'liliflower tree', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/liliflower-tree/6118444367134720/5922888399241216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/liliflower-tree/6118444367134720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Platformer by ChatGPT [WIP]', 
+      author: 'Potato', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt-wip/4901880410193920/5990639360851968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt-wip/4901880410193920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
+    }, 
+    {
+      title: 'Spin-off of "Poemario La Ezperanza  de una Felicidad"', 
+      author: 'elsisandino9', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario-la-ezperanza-de-una-felicidad/5776088765874176/5315101268951040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-poemario-la-ezperanza-de-una-felicidad/5776088765874176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412049771750247079326976'
     }, 
   ];
 };
