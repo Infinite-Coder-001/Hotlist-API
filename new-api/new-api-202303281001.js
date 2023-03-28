@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 48, 
       forks: 10, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/6261779463454720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -739,11 +739,83 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'garboojoit', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5292479407767552/6502180032135168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5292479407767552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4492440116405908361895480'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'Mateusz Cytryna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6637961564438528/5884121185566720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6637961564438528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6571811109838013001394668'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'Gael Pont', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5699378468929536/4931764297711616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5699378468929536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1108556794961744465353624'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'Leonard Markiewicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4617201564041216/4676761553256448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/4617201564041216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4337597099131751915743784'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'Iza Stasiek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6087636432502784/5874774095216640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6087636432502784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6944889564371442762163504'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa way', 
+      author: 'jesucafabe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-way/5516284810018816/5658345148301312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa-way/5516284810018816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6006563590505871438608760'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"Manon Dangotte 1baaa', 
+      author: 'manondangotte', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetasmanon-dangotte-1baaa/5846881470300160/4863768388747264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetasmanon-dangotte-1baaa/5846881470300160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_897361265217259845745470'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
+      author: 'patrykwyszomirski2009', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5535568986685440/6448098240151552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5535568986685440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162460419094518044424738'
+    }, 
+    {
       title: 'Derivado de "Proyecto: blog"', 
       author: 'Filip J', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5206239316590592/5205267580239872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5206239316590592/5433216896122880.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5206239316590592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6811734861383387677793571'
     }, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5628086608773120/4711723191025664.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5628086608773120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2119503308693464744979024'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Marcelina Goncerzewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4870266942701568/6000583753646080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4870266942701568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4635374689888500782723718'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog" irene', 
-      author: 'Irene', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog-irene/6292103182467072/5605444816257024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog-irene/6292103182467072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_48865292994046371827260'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : qu\'avons-nous pour dîner ce soir ?"', 
-      author: 'Luke tasende', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir/6005011084787712/6683929852821504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-quavons-nous-pour-dner-ce-soir/6005011084787712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_729653852120948916762988'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'fynn crone', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5553836715720704/5219229411622912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5553836715720704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1523477852252088107017279'
-    }, 
-    {
-      title: 'Spin-off von "Challenge: Schreibe ein Gedicht"_Vanessa', 
-      author: 'Vanessa 18', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_vanessa/6154544607444992/5124790462758912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-schreibe-ein-gedicht_vanessa/6154544607444992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8039269182084784112578580'
-    }, 
-    {
-      title: '"코드로 그림 그리기 1" 프로젝트', 
-      author: 'C1_2333047_이해민_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1/5326137791397888/4970672607772672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1/5326137791397888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643164516459235814401922'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'adam.nieslanczyk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643717437603840/6487651130851328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5643717437603840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7285616669779121709882919'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Alejandro Gómez', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5854277101993984/5119841486028800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5854277101993984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
     }, 
   ];
 };
