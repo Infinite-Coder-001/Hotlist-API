@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
-      title: 'just trying out pjs in html', 
-      author: 'much of Ack', 
-      votes: 37, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4729358595178496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
-    }, 
-    {
       title: 'typing function', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 18, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
       link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'just trying out pjs in html', 
+      author: 'much of Ack', 
+      votes: 36, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4729358595178496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
       title: 'Da Biggest Bird &#60;{\'}', 
@@ -415,12 +415,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'make a cat walk/sit', 
+      title: 'make a cat walk', 
       author: 'the Knight_400', 
       votes: 6, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walksit/5961997901676544/6202204349579264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/make-a-cat-walksit/5961997901676544', 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544/6238173090070528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
@@ -794,33 +794,6 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Project: Data dig"', 
-      author: 'mishraabhijay1011', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5686220735954944/4650386989563904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5686220735954944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1086670703608930982005043'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'generalaojunnale19', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6437211630518272/5625400912035840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6437211630518272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1059326491112806288347443'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Kiril Stoyanov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4664006104367104/5631617206108160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4664006104367104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9010209770157372360766169'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
       author: 'tricha924', 
       votes: 1, 
       forks: 0, 
@@ -851,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/5336521613033472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/6588205173620736.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
@@ -878,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Likes2Program', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768/4656200840167424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768/5196963294527488.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_238236219414250541109455'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488/6385415272841216.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6059100816027949792430439'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'DAVIDM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5539793691000832/5935651968303104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5539793691000832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_166232522368558401050966'
+    }, 
+    {
+      title: 'JavaScript!!!', 
+      author: 'velosiraptor1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript/5021507505143808/4945213543202816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/javascript/5021507505143808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_171967594196591976293023'
+    }, 
+    {
+      title: 'Mushord [GAME] with more levels', 
+      author: 'Crystal Coding', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440/6469292796461056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
   ];
 };
