@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
-      votes: 37, 
-      forks: 5, 
+      votes: 38, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'lets not forget IA', 
       author: 'Akbaba©', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
@@ -48,11 +48,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 15, 
+      votes: 18, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6694799114813440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5644730378797056.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Ataraxy', 
+      author: 'The No-Sock Guy', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
       title: '', 
@@ -73,18 +82,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Ataraxy', 
-      author: 'The No-Sock Guy', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
-    }, 
-    {
       title: 'do not click', 
       author: 'LovelyPetals', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
@@ -98,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5574214162890752.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'copy of tomb', 
+      author: 'Khyra', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328/6666325796896768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292596035230272262564512'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'copy of tomb', 
-      author: 'Khyra', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328/6666325796896768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292596035230272262564512'
     }, 
     {
       title: 'New program', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
+      title: 'overly satisfying ripple thing that will eventually become a game', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888/6720800939098112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 88, 
@@ -181,19 +190,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
-      title: 'overly satisfying ripple thing that will eventually become a game', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888/6720800939098112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
       title: 'typing function', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 18, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
       link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'carina.quiles', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5987688584101888/5091720019886080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5987688584101888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_420097022801497194429547'
+      title: 'Raising T1D awareness!', 
+      author: 'Blake Meloche (T1)[On,ButStillSick]', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-t1d-awareness/4697075943260160/6382194953338880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-t1d-awareness/4697075943260160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
   ];
 };
