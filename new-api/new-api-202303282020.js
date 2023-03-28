@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 63, 
+      votes: 64, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -35,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'lets not forget IA', 
-      author: 'Akbaba©', 
-      votes: 36, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174146774543611492255686'
     }, 
     {
       title: 'Wooter', 
@@ -100,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'Is it PRIME???', 
+      author: 'InvisibleCat123', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: '', 
       author: 'S. M. V.', 
       votes: 31, 
@@ -118,18 +118,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'guys... Can you vote up one of my decent projects for once??', 
       author: 'TheLegoMango', 
-      votes: 27, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/guys-can-you-vote-up-one-of-my-decent-projects-for-once/4953534044094464/6455569771970560.png', 
       link: 'https://www.khanacademy.org/computer-programming/guys-can-you-vote-up-one-of-my-decent-projects-for-once/4953534044094464', 
@@ -149,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 7, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5244185948241920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6353980474310656.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -271,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Phone Project', 
+      author: 'remington.claire', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360/5344300025298944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
+    }, 
+    {
       title: 'WIP', 
       author: 'Addy💠', 
       votes: 4, 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: ';-;', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 13, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4724154705428480/5154971801927680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/4724154705428480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'ICL HOMEPAGE', 
       author: 'Edmund Knight⚔🏹', 
       votes: 7, 
@@ -343,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: ';-;', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 12, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4724154705428480/5154971801927680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4724154705428480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Favorite Song', 
       author: 'Madden Valentine', 
       votes: 3, 
@@ -370,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_93618388421478606033405'
     }, 
     {
-      title: 'Phone Project', 
-      author: 'remington.claire', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360/5344300025298944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
-    }, 
-    {
       title: 'hehe', 
       author: 'SarahCTK', 
       votes: 3, 
@@ -386,6 +377,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344/6173877228322816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1041330959814388689157990'
+    }, 
+    {
+      title: 'my subpage! :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104/4824182212050944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'New program', 
@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'my subpage! :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104/4824182212050944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Dodge game?', 
       author: 'Duskpin', 
       votes: 23, 
@@ -485,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5654123438718976.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'but hey, it knows how to make a simple three.js project', 
+      author: 'ski', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768/4964520268447744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Team Cinis Homepage', 
@@ -595,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'but hey, it knows how to make a simple three.js project', 
-      author: 'ski', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768/4964520268447744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/but-hey-it-knows-how-to-make-a-simple-threejs-project/6245481916448768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
       title: 'The Digital Ninjas Home Page (D.N.H.P)', 
       author: 'ninjack', 
       votes: 8, 
@@ -689,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Tellus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/6585385384984576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5052381676224512.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'portal game (part 8)', 
-      author: 'MarkSuperMario111', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/portal-game-part-8/5135312797089792/6503905669464064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/portal-game-part-8/5135312797089792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_707585133685972468239933'
-    }, 
-    {
-      title: 'york_cky200000_lab6', 
-      author: 'courtney york', 
+      title: 'Flowers Are The Best!!', 
+      author: 'Angel Glinsey', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/york_cky200000_lab6/5309410504392704/5974329356763136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/york_cky200000_lab6/5309410504392704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6840526404237307456355679'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flowers-are-the-best/5017429869903872/5513470507532288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flowers-are-the-best/5017429869903872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1169143924416033829796390'
+    }, 
+    {
+      title: '1', 
+      author: 'Andrew Wright', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1/4944572963930112/5617247856148480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1/4944572963930112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6448660682545878800817855'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: '26savroops5143', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6324033915502592/4966371600678912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6324033915502592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4894300395934692115088384'
     }, 
   ];
 };
