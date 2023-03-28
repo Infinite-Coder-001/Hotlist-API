@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Triforce Puzzle', 
       author: 'The Ember Society', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640/5217970851987456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640/4944457939337216.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6208354432368640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -784,69 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'rocha_roster', 
-      author: 'lucas_rocha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rocha_roster/6009563657846784/4784927989350400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rocha_roster/6009563657846784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5470183066238226399321289'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Mark scheifele✈', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360/4957278584487936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'mathushan.sriharan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5186239860097024/4894392268931072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5186239860097024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_22501202044084190725666'
-    }, 
-    {
-      title: 'Virtus Homepage (maybe)', 
-      author: '笨人2.0', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-maybe/4630371368222720/5118191807545344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-maybe/4630371368222720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_708743935980106201881873'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'fasiha.fatima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6393487026339840/5775423649923072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6393487026339840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6452617654053206208624959'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'priyankablr97', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6345693972447232/4964515369500672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6345693972447232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2713731624391380008970656'
-    }, 
-    {
-      title: 'Spin-off of "Terrific Text: Part One"', 
-      author: 'Sara Goodgasell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/6613069645266944/5334917073649664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/6613069645266944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2864800910901593856011809'
-    }, 
-    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'bbartwilliams', 
       votes: 1, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6611816815050752/4686460461826048.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6611816815050752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6697618855027614874575697'
+    }, 
+    {
+      title: 'Derivado de "Desafío: guía de estilo"', 
+      author: 'Felipe Perez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-gua-de-estilo/5479189848571904/5881300725841920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-gua-de-estilo/5479189848571904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1404697817880406622348345'
+    }, 
+    {
+      title: 'Angel Montiel"Challenge: A Loopy Ruler"', 
+      author: '26amontielgonzales', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angel-montielchallenge-a-loopy-ruler/4781411216441344/5607393078853632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angel-montielchallenge-a-loopy-ruler/4781411216441344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387446937889773916572154'
+    }, 
+    {
+      title: 'Angel Montiel"Challenge: A Loopy Ruler"', 
+      author: '26amontielgonzales', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angel-montielchallenge-a-loopy-ruler/5411254446637056/5273906257903616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angel-montielchallenge-a-loopy-ruler/5411254446637056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387446937889773916572154'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: '26amontielgonzales', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4739760502652928/4676820843937792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4739760502652928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387446937889773916572154'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'alaroestefania', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5411171231645696/5175326213980160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5411171231645696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18648338654112676513732'
+    }, 
+    {
+      title: 'page 1 i guess?', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/page-1-i-guess/5674718427660288/5971767979196416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/page-1-i-guess/5674718427660288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Jackson Reanna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6714504592539648/5933297747410944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6714504592539648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_210008137037554013600280'
     }, 
   ];
 };
