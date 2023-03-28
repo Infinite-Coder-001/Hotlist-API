@@ -19,9 +19,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'Taking a break from KA (Please read for more info)', 
+      author: 'Animation Guy', 
+      votes: 35, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/taking-a-break-from-ka-please-read-for-more-info/5054825713942528/5247848590655488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/taking-a-break-from-ka-please-read-for-more-info/5054825713942528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
-      votes: 35, 
+      votes: 34, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
@@ -802,60 +811,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: '4 quadrent lines hw', 
-      author: 'Paige Kelley', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/4-quadrent-lines-hw/6579703252303872/6190789064704000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/4-quadrent-lines-hw/6579703252303872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5044877709066055466018608'
-    }, 
-    {
-      title: 'Lab05', 
-      author: 'kimhcatherine', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab05/4935224833392640/5804189394714624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab05/4935224833392640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211806678327709658932205'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'xuxuan_chen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5254625713504256/4593806474526720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5254625713504256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1926960616510758764420169'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'alyvia_caruso', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5692483268034560/4668758519234560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5692483268034560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4712868577595764547526979'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'Victor Santana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6576390389678080/5604284805988352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6576390389678080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7870668657548383956694'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'veruscaorellanarodas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5053141482782720/5676499882786816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5053141482782720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1010452904254305999027467'
-    }, 
-    {
       title: 'Digit Recognition', 
       author: 'reumarks', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5996877129760768/5102057939058688.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5996877129760768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_320112322776218465428939'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Riya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5104466501353472/5626526084415488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5104466501353472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_766307958386092623320072'
+    }, 
+    {
+      title: 'mock midsemester exam', 
+      author: 'lailamarzouk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mock-midsemester-exam/4785135724838912/6621885359243264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mock-midsemester-exam/4785135724838912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124898501828544313631395'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
+      author: 'Victor Santana', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6014732474826752/5701054034657280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6014732474826752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7870668657548383956694'
+    }, 
+    {
+      title: 'Riddle :D', 
+      author: 'Valenzuela, Riley', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/riddle-d/5813973867085824/6181081431982080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/riddle-d/5813973867085824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_208727149604799195794994'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Alain Mérida Durán', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6393032699330560/6406076816998400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6393032699330560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_349291895094519687678706'
     }, 
   ];
 };
