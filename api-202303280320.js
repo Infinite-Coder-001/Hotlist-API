@@ -154,11 +154,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
     }, 
     {
+      title: 'Platformer by ChatGPT', 
+      author: 'Potato', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920/6566562757918720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
+    }, 
+    {
       title: 'typing function', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 17, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6454642394578944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
       link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784/6099908060037120.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-web-developement/5227669894774784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: 'Platformer by ChatGPT', 
-      author: 'Potato', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920/6566562757918720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
       title: 'Da Biggest Bird &#60;{\'}', 
@@ -248,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5956216405934080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/4720451059499008.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
