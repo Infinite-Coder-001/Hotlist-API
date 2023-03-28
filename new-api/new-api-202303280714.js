@@ -766,114 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
-      title: 'Inspirováno programem "Výzva: Řekni své jméno"', 
-      author: 'xzeman00', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-ekni-sv-jmno/6339794901975040/5380404132757504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-ekni-sv-jmno/6339794901975040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088913962704222558606804'
-    }, 
-    {
-      title: 'Spin-off von "Challenge: Das farbenfrohe Viech"', 
-      author: 'cglaser', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-das-farbenfrohe-viech/6290870795288576/6098725736071168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-challenge-das-farbenfrohe-viech/6290870795288576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721909729401495657184446'
-    }, 
-    {
-      title: 'Text Editor 2', 
-      author: 'Avinasen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/text-editor-2/4602975114018816/5335517890920448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/text-editor-2/4602975114018816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'briquelmep', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6490661869371392/5758328740560896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6490661869371392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_233995449993297309134550'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: exploración de datos"', 
-      author: 'jgonort226', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/6699089183162368/6126764188549120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/6699089183162368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_23340744960841353008823'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Siyana Ninova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5100120539709440/6136332234833920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5100120539709440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5610686945672494374270574'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'hdahal11', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6255935959121920/6451769153732608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6255935959121920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7869232656084319869527032'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'maitri.h.bhanderi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4771448804917248/4897432443076608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4771448804917248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187850044353916635418119'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'amilser2411', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5188833483472896/5975614793498624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5188833483472896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_600800926043162208487252'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'Wiktor Cioek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6309244866707456/4872935954497536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6309244866707456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6619300909519056364955654'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'danijuandjs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4753104085237760/4799400720515072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4753104085237760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147837915260129398798165'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: haz que llueva"', 
-      author: 'sergioperezmoreno2006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6296498544623616/6464766739791872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-haz-que-llueva/6296498544623616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_43664087408171693843389'
-    }, 
-    {
       title: 'Версия на "Предизвикателство: Цветно същество"', 
       author: 'Lyubena Peeva', 
       votes: 1, 
@@ -899,6 +791,114 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5372389891555328/5874074518863872.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5372389891555328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195660021302759049079796'
+    }, 
+    {
+      title: 'Spin-off von "Projekt: Reise-Website"', 
+      author: 'ffleck', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5011246249459712/4873691063435264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-reise-website/5011246249459712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_788016400407178460334939'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: exploración de datos"', 
+      author: 'Miguel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/6364720845340672/4536326960758784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/6364720845340672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1096203370920911100490916'
+    }, 
+    {
+      title: 'HOPPY BEAVER WILL COME TO YOOOOOUUU', 
+      author: 'Andy Shen Si Eht Tseb', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hoppy-beaver-will-come-to-yooooouuu/6193217398947840/4703659591254016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hoppy-beaver-will-come-to-yooooouuu/6193217398947840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042700679548832302141073'
+    }, 
+    {
+      title: 'midsemester', 
+      author: 'lailamarzouk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/midsemester/5114982133186560/5792592714579968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/midsemester/5114982133186560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124898501828544313631395'
+    }, 
+    {
+      title: 'Solar Bodies Computer Test', 
+      author: 'Hesham.Alsharfa86', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/solar-bodies-computer-test/5707642246053888/5499345970708480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/solar-bodies-computer-test/5707642246053888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1082745118586097194902683'
+    }, 
+    {
+      title: 'Новая программа', 
+      author: 'Алина Вдовенко', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6442645032583168/6588313277612032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6442645032583168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3207206883430595637820940'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'karina stefanova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5625717498101760/5927526829703168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5625717498101760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3117306374712001185510316'
+    }, 
+    {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'sergioperezmoreno2006', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/6441327954018304/6240028314615808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/6441327954018304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_43664087408171693843389'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Dominika D', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4761187121414144/5743229581705216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4761187121414144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3468814704429391457343880'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'Curro Toledo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5637442658156544/6696438349479936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5637442658156544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706725332219818872463502'
+    }, 
+    {
+      title: 'Derivado de "Consultas más complicadas con AND/OR"', 
+      author: 'ljuagon1502', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-consultas-ms-complicadas-con-andor/5671941211209728/5485207433297920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-consultas-ms-complicadas-con-andor/5671941211209728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_146542704030280568345077'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'vikyulmih2008', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6377965350076416/6529131623006208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6377965350076416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_707678793053733624624512'
     }, 
   ];
 };
