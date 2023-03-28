@@ -757,6 +757,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9913465641276024695237297'
     }, 
     {
+      title: 'żaba', 
+      author: 'denis andrejko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aba/5341803550392320/6073878779838464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aba/5341803550392320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3152122501862734320812054'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage."', 
+      author: '1malachy.aoife', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5870679137501184/4863030015082496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5870679137501184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879443056608109756629106'
+    }, 
+    {
+      title: 'Spin-off of "Functions"', 
+      author: 'sehrishwaseem1997', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/4995529026355200/5088365549764608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/4995529026355200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1111339210896449639690013'
+    }, 
+    {
+      title: 'Spin-off z "Rysowanie z kodem"', 
+      author: 'Oliwia Chrzanowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5134172105785344/5172933355159552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5134172105785344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5086533585877232563651399'
+    }, 
+    {
+      title: 'Spin-off z "Obraz domu"', 
+      author: 'Emilia Kruszyna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-obraz-domu/5725005532151808/6404295781302272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-obraz-domu/5725005532151808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1138510013214535321618957'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'tushar44sharma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6190978848571392/5975933527048192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6190978848571392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7728471830416409085656815'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: '1moon.frederick', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5879568419569664/6440998524993536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5879568419569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1031609992022988932680984'
+    }, 
+    {
+      title: 'rysowanie z kodem żabka', 
+      author: 'Aleksandra Sobczyszyn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rysowanie-z-kodem-abka/4589108476559360/4873945884180480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rysowanie-z-kodem-abka/4589108476559360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8659355563759710383631891'
+    }, 
+    {
+      title: 'Sub Page', 
+      author: 'Deathly Hallows', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page/5159911618297856/5197910225764352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub-page/5159911618297856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
       title: 'NEED BONESS SCENE - JS Project Fetch', 
       author: 'Laasya :)', 
       votes: 7, 
@@ -764,6 +845,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160/5597772830261248.png', 
       link: 'https://www.khanacademy.org/computer-programming/need-boness-scene-js-project-fetch/4600502093660160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Matylda Krzyżanowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340473117163520/4869057808744448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5340473117163520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_226636478629515313117670'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: '1joyce.eva', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6523771772256256/5290450706808832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6523771772256256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2534978286753590678929166'
+    }, 
+    {
+      title: 'Dune Raiders', 
+      author: 'Deathly Hallows', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6506126167556096/6409881008783360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6506126167556096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
@@ -791,114 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-zmiana-rozmiaru-ksztatw-za-pomoc-wyrae-matematycznych/5587796728528896/4870310462799872.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-zmiana-rozmiaru-ksztatw-za-pomoc-wyrae-matematycznych/5587796728528896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5760857949990080031522761'
-    }, 
-    {
-      title: '"项目: 活动邀请"的副本', 
-      author: '文静 罗', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4914751529598976/5825458810961920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4914751529598976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_183976970037284191639167'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'allison.insti2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5958337213808640/6039014449922048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5958337213808640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_908699860841509364520935'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Brunner Julian', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5579735074914304/4834232972394496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5579735074914304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_382311405061979644504868'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Emilia Gardeła', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4964901782339584/4665946959822848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/4964901782339584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8847121807115364464101337'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: Akvárium"', 
-      author: 'xzadra01', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-akvrium/6125773124845568/6119867209269248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-akvrium/6125773124845568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1029671940509216532358498'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'rudrakshpu8', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4663781717491712/5656019398344704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4663781717491712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_273900047673858930702018'
-    }, 
-    {
-      title: 'Steam kivánságlista', 
-      author: 'Péter  Lukács', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steam-kivnsglista/6267742362845184/5121764490526720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steam-kivnsglista/6267742362845184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3820651860668424561184440'
-    }, 
-    {
-      title: '"გამოწვევა: საოცნებო მოგზაურობა"-ის სპინ-ოფები', 
-      author: 'a.chkhaidze', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6636779072700416/5556682668425216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6636779072700416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_559575746552010569617493'
-    }, 
-    {
-      title: '"პროექტი: რეკლამის დიზაინი"-ის სპინ-ოფები', 
-      author: 'iraklipotskhverashvili', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6162764268879872/5144783065759744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6162764268879872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5278117711767170560962400'
-    }, 
-    {
-      title: 'A(z) "Feladat: Linkek a tanuláshoz"változata', 
-      author: 'Farkas Dezső Tamás', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/az-feladat-linkek-a-tanulshozvltozata/6510634272604160/5757659530969088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/az-feladat-linkek-a-tanulshozvltozata/6510634272604160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_911602816584959283779127'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: Akvárium"', 
-      author: 'Denča Šlégrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-akvrium/6664608313294848/6432114510970880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-akvrium/6664608313294848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1107170446211636479908407'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: '20jackhoyne', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5661748280737792/5005473586921472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5661748280737792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_818788646855367191422961'
     }, 
   ];
 };
