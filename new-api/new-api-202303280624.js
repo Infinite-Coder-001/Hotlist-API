@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'lets not forget IA', 
       author: 'Akbaba©', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
@@ -793,112 +793,112 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Manogna', 
+      title: 'Inh5d1_2223_PO3_Keean_Chalmers', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5923793295163392/5171412022378496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5923793295163392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_462714339429174223716884'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_keean_chalmers/6521229621379072/5065953437335552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_keean_chalmers/6521229621379072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Hardworker28ethanc', 
+      title: 'Inh5d1_2223_PO3_Safouane_el_Idrissi', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6195677609902080/5831976994258944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6195677609902080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1112553809000758936634537'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_safouane_el_idrissi/4640693651030016/6029582164869120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_safouane_el_idrissi/4640693651030016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Orange Flame\'s Logo', 
-      author: 'Orange Flame', 
+      title: 'Inh5d1_2223_PO3_Shahzaib_Bhatti', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360/6669838308392960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_shahzaib_bhatti/6238541744226304/6521022389207040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_shahzaib_bhatti/6238541744226304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
-      author: 'Силвия Цанкова', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Marc Kjerulf', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5061178306117632/5617646684127232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5061178306117632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4661142527197184/4989274044022784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4661142527197184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8774784419829488151912506'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Цветно същество"Kotka', 
-      author: 'Мария  Пенкова', 
+      title: 'Inh5d1_2223_PO3_Sterre_Gangelhof', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kotka/6625994577592320/6216226344058880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kotka/6625994577592320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2070728576330805901037098'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_sterre_gangelhof/6062006886252544/4738147037790208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_po3_sterre_gangelhof/6062006886252544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
-      author: 'mihail kateliev', 
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'sam du', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6319462661013504/5878606917320704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6319462661013504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_886794966808161941494561'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5384930189426688/5043671180558336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5384930189426688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7085026758138018544099624'
     }, 
     {
-      title: 'Leafers Life : A Story', 
-      author: 'realsaisarah', 
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'rita.jylanki', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848/6164749181304832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_627603240489866621896365'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6098922801250304/5365294874017792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6098922801250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_548659472610906394514612'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
-      author: 'Силвия Цанкова', 
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'karina stefanova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5676011732910080/4549944926322688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5676011732910080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5651388920283136/5125552551018496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5651388920283136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3117306374712001185510316'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Phillemon Selolo', 
+      title: 'Inh5d1_2223_Pharrell_Reding', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5223889182703616/4665980380037120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5223889182703616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_pharrell_reding/5612682062643200/4973022894407680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_pharrell_reding/5612682062643200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Spin-off of "Restricting grouped results with HAVING"', 
-      author: 'fauzan talib', 
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'gomezdestinie62', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-restricting-grouped-results-with-having/4944396694110208/6269622954541056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-restricting-grouped-results-with-having/4944396694110208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6410532879122432/5567764061536256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6410532879122432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1100533911382325007840239'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Maria Apanassenko', 
+      title: 'Inh5d1_2223_Ebe_Proost', 
+      author: 'Rieuwert Blok', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6423355571093504/5470647737434112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6423355571093504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8764285877798468516414979'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_ebe_proost/6397937753309184/6613238424059904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inh5d1_2223_ebe_proost/6397937753309184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1162649617018636329418945'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Phillemon Selolo', 
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'amilser2411', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6400290355200000/6397618474500096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6400290355200000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5741240810520576/5809488805543936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5741240810520576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_600800926043162208487252'
     }, 
   ];
 };
