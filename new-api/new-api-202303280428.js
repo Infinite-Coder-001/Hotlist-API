@@ -392,7 +392,7 @@ var LoadHotlistAPI = function() {
       author: 'ninjack', 
       votes: 7, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-digital-ninjas-home-page-dnhp/4703790319321088/5549766001082368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-digital-ninjas-home-page-dnhp/4703790319321088/6692115968212992.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-digital-ninjas-home-page-dnhp/4703790319321088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174448919638207448979533'
     }, 
@@ -802,11 +802,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Hjkdc ', 
+      author: 'ZOE308jgi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hjkdc/6244849583177728/5814069765652480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hjkdc/6244849583177728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2630506397486513114178206'
+    }, 
+    {
+      title: 'Shooting Star Project. (Maybe Add Moon Craters?)', 
+      author: 'Ezra', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star-project-maybe-add-moon-craters/6681196953387008/5475915481268224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shooting-star-project-maybe-add-moon-craters/6681196953387008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6581938482617652531738848'
+    }, 
+    {
+      title: 'tank', 
+      author: '129904', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tank/4959249202724864/5361622911860736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tank/4959249202724864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379769634364626719189168'
+    }, 
+    {
+      title: 'Lab 5', 
+      author: 'kavya.vmony', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5/4941788038348800/6707388427321344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-5/4941788038348800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1019248783767648656172850'
+    }, 
+    {
       title: 'Derivado de "Proyecto: página web de viajes"', 
       author: 'HannaReyna', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4994546586140672/5262424392646656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4994546586140672/5062376400666624.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4994546586140672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1163463234378046549020703'
     }, 
@@ -829,12 +865,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_421942248854581993760208'
     }, 
     {
-      title: 'Spin-off of "Challenge: Bucktooth Bunny"', 
+      title: 'unicorn', 
       author: 'julianna sunneke', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/4980202703994880/6086624967704576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/4980202703994880', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn/4980202703994880/6017938911182848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unicorn/4980202703994880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7858461092416695326877602'
     }, 
     {
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5285916932620288/5016524302893056.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5285916932620288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_429265865246345972032906'
-    }, 
-    {
-      title: 'Derivado de "Desafío: frutas favoritas"', 
-      author: 'krIsthiam.criollo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6142033694867456/5237751525195776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6142033694867456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
-    }, 
-    {
-      title: 'TANK!!!!!!', 
-      author: 'luca g', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tank/6240952135237632/6605772596494336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tank/6240952135237632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_544204298020008916809925'
-    }, 
-    {
-      title: 'Derivado de "Desafío: frutas favoritas"', 
-      author: 'krIsthiam.criollo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5738884416978944/4617822992121856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5738884416978944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'clairemcmillinalbin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5159312361308160/4917468163522560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5159312361308160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1126641196374210888253902'
     }, 
   ];
 };
