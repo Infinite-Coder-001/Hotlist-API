@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'do not click', 
+      author: 'LovelyPetals', 
+      votes: 24, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 15, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'do not click', 
-      author: 'LovelyPetals', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Ataraxy', 
@@ -323,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4932631168073728.png', 
       link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
+      title: 'star wars pixel art', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5574214162890752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'standard deviation curve', 
@@ -784,6 +793,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Orange Flame\'s Logo', 
+      author: 'Orange Flame', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360/4679599746498560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Силвия Цанкова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5061178306117632/5617646684127232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5061178306117632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"Kotka', 
+      author: 'Мария  Пенкова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kotka/6625994577592320/6216226344058880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kotka/6625994577592320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2070728576330805901037098'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'mihail kateliev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6319462661013504/5878606917320704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6319462661013504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_886794966808161941494561'
+    }, 
+    {
+      title: 'Leafers Life : A Story', 
+      author: 'realsaisarah', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848/5094017156300800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_627603240489866621896365'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Силвия Цанкова', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5676011732910080/4549944926322688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5676011732910080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Phillemon Selolo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5223889182703616/4665980380037120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5223889182703616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
+    }, 
+    {
       title: 'Версия на "Предизвикателство: Цветно същество"', 
       author: 'Maria Apanassenko', 
       votes: 1, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-recipe-book/5766819119153152/5690124458573824.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-recipe-book/5766819119153152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9640208463468847159597379'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
-      author: 'Силвия Цанкова', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5723951889432576/6438529220788224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5723951889432576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_721803176638746101970165'
-    }, 
-    {
-      title: 'Day 264', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-264/5804248685395968/5583803415576576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-264/5804248685395968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Kremena Dimitrova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5865900290129920/5220535249453056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5865900290129920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6586464902274086660110412'
-    }, 
-    {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'chudy.maria_nb_2021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6010045499490304/5972478662066176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6010045499490304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_390423943979906173836748'
-    }, 
-    {
-      title: 'CSS 1', 
-      author: 'Stoyan Metodiev', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/css-1/4991116987645952/4513130974855168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/css-1/4991116987645952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5855240764155103589070243'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'generalaojunnale19', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4542815146393600/4733919246467072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4542815146393600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1059326491112806288347443'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'kanmadhiyan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5740976300933120/5953279755599872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5740976300933120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088362982717738474307188'
-    }, 
-    {
-      title: 'New SQL script', 
-      author: 'tricha924', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/4630376309112832/6287893443428352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4630376309112832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_579902439816609112463490'
     }, 
   ];
 };
