@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 66, 
+      votes: 67, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 35, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6662205950181376.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -39,16 +39,16 @@ var LoadHotlistAPI = function() {
     {
       title: 'What is it?', 
       author: 'Phase ✝', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232/5728439056515072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232/6522371747135488.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
-      votes: 52, 
+      votes: 53, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Vine Generator', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488/5634856550973440.png', 
       link: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488', 
@@ -131,18 +131,27 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5405296756572160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6546797528137728.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 88, 
+      votes: 89, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
+      author: 'Jeremiah Fahmer', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
       title: 'BOO YAH', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
       link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
-      author: 'Jeremiah Fahmer', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
       title: 'overly satisfying ripple thing that will eventually become a game', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'Defenders HomePage', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Join-Page', 
       author: 'Arrow.programming', 
       votes: 6, 
@@ -188,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'blobby!!!!!!!!!', 
+      author: 'LovelyPetals', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5654123438718976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'WIP', 
@@ -219,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 97, 
+      votes: 98, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4729358595178496.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
-    }, 
-    {
-      title: 'Defenders HomePage', 
-      author: 'Arrow.programming', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/5231417958383616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'blobby!!!!!!!!!', 
-      author: 'LovelyPetals', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5654123438718976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
