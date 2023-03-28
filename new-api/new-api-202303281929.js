@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 63, 
+      votes: 62, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'lets not forget IA', 
       author: 'Akbaba©', 
-      votes: 36, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
@@ -49,7 +49,7 @@ var LoadHotlistAPI = function() {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 51, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
@@ -201,7 +201,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 94, 
+      votes: 93, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -242,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624/5271761425055744.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Just the Beginning', 
@@ -325,8 +316,17 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'Is it PRIME???', 
+      author: 'InvisibleCat123', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'Raising T1D awareness!', 
-      author: 'Blake Meloche (T1)[Offline]', 
+      author: 'Blake Meloche (T1)[On,ButStillSick]', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-t1d-awareness/4697075943260160/6382194953338880.png', 
@@ -689,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Tellus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5290307093839872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5336926313037824.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -851,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'BananaDroid', 
       votes: 2, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-2/5997150329946112/5273692214181888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-2/5997150329946112/6579290465681408.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-for-2/5997150329946112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
