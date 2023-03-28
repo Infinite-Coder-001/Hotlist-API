@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 31, 
+      votes: 32, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5557110084780032.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
-      votes: 44, 
+      votes: 45, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'lets not forget IA', 
       author: 'Akbaba©', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
-      votes: 50, 
+      votes: 51, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'copy of tomb', 
+      author: 'Khyra', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328/5092607601721344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292596035230272262564512'
+    }, 
+    {
       title: 'do not click', 
       author: 'LovelyPetals', 
       votes: 36, 
@@ -91,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'copy of tomb', 
-      author: 'Khyra', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328/5092607601721344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/copy-of-tomb/5806684904931328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292596035230272262564512'
-    }, 
-    {
       title: 'Vine Generator', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 32, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488/5634856550973440.png', 
       link: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488', 
@@ -138,11 +138,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'guys... Can you vote up one of my decent projects for once??', 
       author: 'TheLegoMango', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/guys-can-you-vote-up-one-of-my-decent-projects-for-once/4953534044094464/6455569771970560.png', 
       link: 'https://www.khanacademy.org/computer-programming/guys-can-you-vote-up-one-of-my-decent-projects-for-once/4953534044094464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
+      author: 'Jeremiah Fahmer', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
+      title: 'BOO YAH', 
+      author: 'Wort-Head Productions😐', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Triforce Puzzle', 
@@ -172,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
-      author: 'Jeremiah Fahmer', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
-    }, 
-    {
       title: 'Platformer by ChatGPT', 
       author: 'Potato', 
       votes: 17, 
@@ -190,28 +199,28 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
-      title: 'BOO YAH', 
-      author: 'Wort-Head Productions😐', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 92, 
+      votes: 93, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Join-Page', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
       votes: 40, 
-      forks: 16, 
+      forks: 17, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4729358595178496.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5234316113395712.png', 
       link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Join-Page', 
-      author: 'Arrow.programming', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
