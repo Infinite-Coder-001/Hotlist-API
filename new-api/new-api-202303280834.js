@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 85, 
+      votes: 84, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -766,42 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'Wasiluk Ala 7C', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4912233672130560/5084161984741376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/4912233672130560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2205644545301739292753188'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: '1stainer.phillippa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4775958923231232/5191901608460288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4775958923231232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_328395543282567869264755'
-    }, 
-    {
-      title: 'Spin-off z "Zmiana rozmiaru kształtów za pomocą wyrażeń matematycznych"', 
-      author: 'oliwia.samson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-zmiana-rozmiaru-ksztatw-za-pomoc-wyrae-matematycznych/5587796728528896/4870310462799872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-zmiana-rozmiaru-ksztatw-za-pomoc-wyrae-matematycznych/5587796728528896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5760857949990080031522761'
-    }, 
-    {
-      title: '"项目: 活动邀请"的副本', 
-      author: '文静 罗', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4914751529598976/5825458810961920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4914751529598976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_183976970037284191639167'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'allison.insti2021', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5661748280737792/5005473586921472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5661748280737792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_818788646855367191422961'
+    }, 
+    {
+      title: 'Hân\'s favorite food', 
+      author: 'shandarren97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hns-favorite-food/5194589519790080/5160527610560512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hns-favorite-food/5194589519790080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_635560529169633915722686'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Zvířata útočí"', 
+      author: 'xsteff01', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-zvata-to/4875214208155648/6748033221181440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-zvata-to/4875214208155648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_372509991160068092765228'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Kumar Aman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4957442162343936/4865392725245952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4957442162343936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1142917433004525473314656'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Nokuthula Mahlangu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6141659034468352/6213951152242688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6141659034468352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3589938284303745029619533'
     }, 
   ];
 };
