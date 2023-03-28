@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'do not click', 
       author: 'LovelyPetals', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/5242301036412928.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/4720451059499008.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
+      title: 'typing function', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'just trying out pjs in html', 
       author: 'much of Ack', 
       votes: 36, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824/4729358595178496.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-trying-out-pjs-in-html/5827664075341824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_659616453204107513847815'
-    }, 
-    {
-      title: 'typing function', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Da Biggest Bird &#60;{\'}', 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'New program', 
+      author: 'Mark scheifele✈', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360/4957278584487936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
+    }, 
+    {
       title: 'My logo', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 7, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wfh-in-progress/5136615673741312/6412989466198016.png', 
       link: 'https://www.khanacademy.org/computer-programming/wfh-in-progress/5136615673741312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_502471394584396803889609'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Mark scheifele✈', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360/4957278584487936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
@@ -793,6 +793,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Cat Petting Simulator', 
+      author: 'Likes2Program', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-petting-simulator/5756765808672768/4963437399818240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cat-petting-simulator/5756765808672768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_238236219414250541109455'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Martin Kyosev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5701268657192960/5117106095177728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5701268657192960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Цветан  Шипков', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488/6385415272841216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6059100816027949792430439'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'DAVIDM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5539793691000832/5935651968303104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5539793691000832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_166232522368558401050966'
+    }, 
+    {
+      title: 'JavaScript!!!', 
+      author: 'velosiraptor1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/javascript/5021507505143808/4945213543202816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/javascript/5021507505143808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_171967594196591976293023'
+    }, 
+    {
       title: 'Mushord [GAME] with more levels', 
       author: 'Crystal Coding', 
       votes: 7, 
@@ -800,6 +845,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440/6469292796461056.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
+      author: 'Martin Kyosev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6498808684134400/6150993575460864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6498808684134400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
     }, 
     {
       title: 'microphone', 
@@ -838,15 +892,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
     }, 
     {
-      title: 'Stuff about Jisoo', 
-      author: 'anushaa.rams', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuff-about-jisoo/5031731943227392/6311042646065152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuff-about-jisoo/5031731943227392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520217884263011259123676'
-    }, 
-    {
       title: 'Derivado de "Desafío: lista de deseos"', 
       author: 'Diana Laura Escalante Arena ', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5746343969865728/5247777388150784.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5746343969865728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_952699920090704615579167'
-    }, 
-    {
-      title: 'Derivado de "Desafío: animales favoritos"', 
-      author: 'krIsthiam.criollo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4902843330117632/5296844772261888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4902843330117632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
-    }, 
-    {
-      title: 'Titanic', 
-      author: 'ZOE308jgi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/titanic/6244849583177728/4781931410800640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/titanic/6244849583177728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2630506397486513114178206'
-    }, 
-    {
-      title: 'Shooting Star Project. (Maybe Add Moon Craters?)', 
-      author: 'Ezra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star-project-maybe-add-moon-craters/6681196953387008/5475915481268224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-star-project-maybe-add-moon-craters/6681196953387008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6581938482617652531738848'
-    }, 
-    {
-      title: 'tank', 
-      author: '129904', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tank/4959249202724864/5361622911860736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tank/4959249202724864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_379769634364626719189168'
-    }, 
-    {
-      title: 'Lab 5', 
-      author: 'kavya.vmony', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-5/4941788038348800/6707388427321344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-5/4941788038348800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019248783767648656172850'
     }, 
   ];
 };
