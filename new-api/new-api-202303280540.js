@@ -415,15 +415,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'make a cat walk/sit', 
-      author: 'the Knight_400', 
-      votes: 6, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walksit/5961997901676544/6202204349579264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/make-a-cat-walksit/5961997901676544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'sad ghost', 
       author: 'BaNana48', 
       votes: 14, 
@@ -793,6 +784,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'CSS 1', 
+      author: 'Stoyan Metodiev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/css-1/4991116987645952/4513130974855168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/css-1/4991116987645952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5855240764155103589070243'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'generalaojunnale19', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4542815146393600/4733919246467072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4542815146393600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1059326491112806288347443'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'kanmadhiyan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5740976300933120/5953279755599872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5740976300933120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1088362982717738474307188'
+    }, 
+    {
       title: 'New SQL script', 
       author: 'tricha924', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/6254972921757696.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Diana Laura Escalante Arena ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5066388462157824/4609476595597312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5066388462157824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952699920090704615579167'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Lilla Lovash', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368/5673818111918080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1343119010406026394344161'
     }, 
   ];
 };
