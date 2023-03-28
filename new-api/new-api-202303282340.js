@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 58, 
+      votes: 57, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/6165984957480960.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
-    }, 
-    {
       title: 'WIP', 
       author: 'Addy💠', 
       votes: 6, 
@@ -280,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
     }, 
     {
-      title: 'Subpage Contest for JLE (pls enter!)', 
-      author: 'JLE', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5334198371270656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 9, 
@@ -296,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Crab on a beach', 
+      author: 'sanjay.ramnauth', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'just trying out pjs in html', 
@@ -341,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5234316113395712.png', 
       link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Subpage Contest for JLE (pls enter!)', 
+      author: 'JLE', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5334198371270656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'cyberpunk cityscape', 
