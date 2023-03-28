@@ -426,7 +426,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 72, 
+      votes: 71, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -748,96 +748,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_89762729095028357607883'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Alejandro Gómez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5854277101993984/6743539435487232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5854277101993984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500550281064155390642462'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'keniaasan2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5043372940378112/6185837932101632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5043372940378112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_499263427760014771931174'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas" Oleg Samaruk', 
-      author: 'Oleg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-oleg-samaruk/6397299078250496/5131224457986048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas-oleg-samaruk/6397299078250496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3293094064589156966156'
-    }, 
-    {
-      title: '"응용 : 가장 좋아하는 음식" 프로젝트', 
-      author: 'k01086927114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6113179433484288/5315145426583552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6113179433484288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_411618641336953277702084'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'olivervestorplarsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5774875706048512/5937183795232768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5774875706048512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1172746066590134658305153'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'Noyo Subba', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5003481695174656/5118192856121344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5003481695174656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4718734024444577636373200'
-    }, 
-    {
-      title: 'Projet dérivé de "Créer une table et insérer des données"', 
-      author: 'luc.dnf19', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/5577238323183616/5493550449213440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/5577238323183616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292355630016626871528229'
-    }, 
-    {
-      title: 'amandaleal página web de viajes', 
-      author: 'amandaaleall24', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/amandaleal-pgina-web-de-viajes/4643250272256000/5086584111415296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/amandaleal-pgina-web-de-viajes/4643250272256000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_994127924302701162780718'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'ramazanmuhambetzan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5848495572697088/5618095508209664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5848495572697088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_41231440360810470694201'
-    }, 
-    {
-      title: 'Derivado de "Desafío: el menú de la cena"Gustavo Perez Iniesta 1BAHB', 
-      author: 'gustavopereziniesta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cenagustavo-perez-iniesta-1bahb/4657467956183040/6089337105334272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-el-men-de-la-cenagustavo-perez-iniesta-1bahb/4657467956183040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_626156053651310794507318'
-    }, 
-    {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
       author: 'paulaczaja1', 
       votes: 1, 
@@ -869,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'kara.martinez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-group-the-groupers-kara-martinez/5938140364980224/6543192364466176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-group-the-groupers-kara-martinez/5938140364980224/6386410329522176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-group-the-groupers-kara-martinez/5938140364980224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_694660796904365711844317'
     }, 
@@ -878,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'edhantsinghee', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/brother-vs-sister/6499051584667648/5781201656004608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/brother-vs-sister/6499051584667648/4965608405123072.png', 
       link: 'https://www.khanacademy.org/computer-programming/brother-vs-sister/6499051584667648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5914326565799675002359146'
     }, 
@@ -899,6 +809,96 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4655119313715200/5202288215113728.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/4655119313715200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_57641970664586002649839'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'wbaranska79', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6465592145264640/5085387694587904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6465592145264640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_663974687889275633452261'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Lucas Whitcher', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5616958717607936/5363034983022592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5616958717607936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8110988561497415290671437'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
+      author: 'jankowiakwanesa4', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6020220008579072/5699768698585088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6020220008579072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_409311964573939625589993'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Antoni  Szczypiorski ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5638301542563840/6242860241567744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5638301542563840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2066852328955951864181919'
+    }, 
+    {
+      title: 'Projet dérivé de "Créer une table et insérer des données"', 
+      author: 'luc.dnf19', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4759431184433152/4634313921708032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4759431184433152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292355630016626871528229'
+    }, 
+    {
+      title: 'Projet dérivé de "Créer une table et insérer des données"', 
+      author: 'luc.dnf19', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4605374566285312/6627061373648896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4605374566285312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292355630016626871528229'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
+      author: 'Nikola Cudziło', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6668228702289920/6722459266236416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/6668228702289920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8995665832939443006236502'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Saravana krishna Sivakumar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5760872367833088/6166615269097472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5760872367833088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9450057539377300489929084'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"  Maciek Szaruga', 
+      author: 'Maciek Szaruga', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach-maciek-szaruga/6330160485023744/4740741223202816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach-maciek-szaruga/6330160485023744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1785079431804304590017460'
+    }, 
+    {
+      title: 'Spin-off z "Kolorowanie z kodem"', 
+      author: 'Maja Kowalkowska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-kolorowanie-z-kodem/5975240024047616/4680877507657728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-kolorowanie-z-kodem/5975240024047616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5581042045587197017192831'
     }, 
   ];
 };
