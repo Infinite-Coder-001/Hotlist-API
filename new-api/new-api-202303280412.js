@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 83, 
+      votes: 84, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -802,6 +802,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Derivado de "Desafío: frutas favoritas"', 
+      author: 'krIsthiam.criollo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6142033694867456/5237751525195776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/6142033694867456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
+    }, 
+    {
+      title: 'TANK!!!!!!', 
+      author: 'luca g', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tank/6240952135237632/6605772596494336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tank/6240952135237632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_544204298020008916809925'
+    }, 
+    {
+      title: 'Derivado de "Desafío: frutas favoritas"', 
+      author: 'krIsthiam.criollo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5738884416978944/4617822992121856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-frutas-favoritas/5738884416978944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'clairemcmillinalbin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5159312361308160/4917468163522560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5159312361308160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1126641196374210888253902'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Duskpin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4815535637577728/5034484245512192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/4815535637577728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'dariolimachi043', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5401204692926464/5197039664414720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5401204692926464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_71680131079836862536290'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'veruscaorellanarodas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5990383365701632/6085751478730752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5990383365701632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1010452904254305999027467'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?" Rectangle Pizza', 
       author: 'Jazmin Perez', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab05/4935224833392640/5804189394714624.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab05/4935224833392640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211806678327709658932205'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'xuxuan_chen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5254625713504256/4593806474526720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5254625713504256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1926960616510758764420169'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'alyvia_caruso', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5692483268034560/4668758519234560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5692483268034560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4712868577595764547526979'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'Victor Santana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6576390389678080/5604284805988352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6576390389678080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7870668657548383956694'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'veruscaorellanarodas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5053141482782720/5676499882786816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5053141482782720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1010452904254305999027467'
-    }, 
-    {
-      title: 'Digit Recognition', 
-      author: 'reumarks', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/digit-recognition/5139578303594496/6145447027851264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/digit-recognition/5139578303594496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'Pedro Augusto Furtado', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5647283392921600/5476132544888832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5647283392921600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2519513549637008265425260'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'munfawad01', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6662394349928448/5936490896211968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6662394349928448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1570074761144262591889096'
     }, 
   ];
 };
