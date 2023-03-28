@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: '', 
       author: 'S. M. V.', 
-      votes: 30, 
+      votes: 31, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944/5444227715874816.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 6, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544/5826953728016384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544/4939818233806848.png', 
       link: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -802,11 +802,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Derivado de "Desafío: animales favoritos"', 
+      author: 'krIsthiam.criollo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4902843330117632/5296844772261888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-animales-favoritos/4902843330117632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703802368446452423845103'
+    }, 
+    {
       title: 'Hjkdc ', 
       author: 'ZOE308jgi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hjkdc/6244849583177728/5814069765652480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hjkdc/6244849583177728/5310989039091712.png', 
       link: 'https://www.khanacademy.org/computer-programming/hjkdc/6244849583177728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2630506397486513114178206'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-ms-acerca-de-variables/4765841322459136/5939887342927872.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-ms-acerca-de-variables/4765841322459136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_812814951427805303256447'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: '2024-eyip', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5285916932620288/5016524302893056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5285916932620288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_429265865246345972032906'
     }, 
   ];
 };
