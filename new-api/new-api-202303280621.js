@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'lets not forget IA', 
       author: 'Akbaba©', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904/5669589011972096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lets-not-forget-ia/5930544144891904', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
-      votes: 86, 
+      votes: 87, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/4720451059499008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6694799114813440.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
-      votes: 91, 
+      votes: 92, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528/6640121865879552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cyberpunk-cityscape/4818613129494528', 
@@ -793,11 +793,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Manogna', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5923793295163392/5171412022378496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5923793295163392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_462714339429174223716884'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Hardworker28ethanc', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6195677609902080/5831976994258944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6195677609902080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112553809000758936634537'
+    }, 
+    {
       title: 'Orange Flame\'s Logo', 
       author: 'Orange Flame', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360/4679599746498560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360/6669838308392960.png', 
       link: 'https://www.khanacademy.org/computer-programming/orange-flames-logo/4832521763471360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
     }, 
@@ -833,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'realsaisarah', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848/5094017156300800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848/6164749181304832.png', 
       link: 'https://www.khanacademy.org/computer-programming/leafers-life-a-story/6006613241806848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_627603240489866621896365'
     }, 
@@ -856,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
     }, 
     {
+      title: 'Spin-off of "Restricting grouped results with HAVING"', 
+      author: 'fauzan talib', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-restricting-grouped-results-with-having/4944396694110208/6269622954541056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-restricting-grouped-results-with-having/4944396694110208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
+    }, 
+    {
       title: 'Версия на "Предизвикателство: Цветно същество"', 
       author: 'Maria Apanassenko', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6400290355200000/6397618474500096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6400290355200000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
-      author: 'Samuil Kalusov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5225871670820864/6162904794841088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/5225871670820864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9375029124283283070723876'
-    }, 
-    {
-      title: 'Testing Webpage', 
-      author: 'Robin Robinson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/testing-webpage/5136683227201536/5883100090646528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/testing-webpage/5136683227201536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_899196855757873103126974'
-    }, 
-    {
-      title: 'Project: Recipe book', 
-      author: 'Harpal Kaur', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-recipe-book/5766819119153152/5690124458573824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-recipe-book/5766819119153152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9640208463468847159597379'
     }, 
   ];
 };
