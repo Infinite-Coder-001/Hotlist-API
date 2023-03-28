@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 39, 
+      votes: 38, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6662205950181376.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
     {
-      title: 'Defenders HomePage', 
-      author: 'Arrow.programming', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
       votes: 8, 
@@ -172,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
+      title: 'Defenders HomePage', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
       votes: 6, 
@@ -201,7 +201,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Triforce Puzzle', 
       author: 'The Ember Society', 
-      votes: 27, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/5619397822824448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/5398728979824640.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -341,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/5652591309799424.png', 
       link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'Couple of songs', 
@@ -419,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'dalia :)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768/6039397398265856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768/6742800231350272.png', 
       link: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2423488658008161492283209'
     }, 
@@ -530,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4682112746962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
+      title: 'Crab on a beach', 
+      author: 'sanjay.ramnauth', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'Dodge game?', 
@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432/5888096781778944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432/6375514827964416.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
