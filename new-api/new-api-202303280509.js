@@ -419,7 +419,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 6, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544/5040625075666944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544/6238173090070528.png', 
       link: 'https://www.khanacademy.org/computer-programming/make-a-cat-walk/5961997901676544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -793,12 +793,66 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Cat Petting Simulator', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'tricha924', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5536419591536640/6281240908185600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5536419591536640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_579902439816609112463490'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Phillemon Selolo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5426892783271936/4816875759648768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5426892783271936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Afastando as Nuvens"', 
+      author: 'alexburdelis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-afastando-as-nuvens/6388148071612416/5195100042084352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-afastando-as-nuvens/6388148071612416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_250576649464261206818725'
+    }, 
+    {
+      title: 'program for a friend', 
+      author: 'CodeEngineer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/6588205173620736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'Diana Laura Escalante Arena ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5066388462157824/4609476595597312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5066388462157824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_952699920090704615579167'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'Lilla Lovash', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368/5673818111918080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1343119010406026394344161'
+    }, 
+    {
+      title: 'Blobsitting Simulator', 
       author: 'Likes2Program', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-petting-simulator/5756765808672768/4963437399818240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-petting-simulator/5756765808672768', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768/5196963294527488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_238236219414250541109455'
     }, 
     {
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440/6469292796461056.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-game-with-more-levels/5765593006653440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
-      author: 'Martin Kyosev', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6498808684134400/6150993575460864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6498808684134400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
-    }, 
-    {
-      title: 'microphone', 
-      author: 'georgielewis123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/microphone/5827565291094016/6660774652329984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/microphone/5827565291094016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8328342513243062917869730'
-    }, 
-    {
-      title: 'banksy rat', 
-      author: 'NIKO Ψ', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936/5088508760080384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/banksy-rat/4654835711655936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Vickie', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6620341964423168/5333151070339072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6620341964423168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1208740849025338462438274'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Твоят списък за учене"', 
-      author: 'Martin Kyosev', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6225063172161536/4797121233731584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/6225063172161536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'Diana Laura Escalante Arena ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5746343969865728/5247777388150784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5746343969865728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_952699920090704615579167'
     }, 
   ];
 };
