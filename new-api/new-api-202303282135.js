@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6662205950181376.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -39,9 +39,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'What is it?', 
       author: 'Phase ✝', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232/5728439056515072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232/6522371747135488.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-it/5532284209119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
+      author: 'Jeremiah Fahmer', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
       votes: 7, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
       link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
-      author: 'Jeremiah Fahmer', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
       title: 'overly satisfying ripple thing that will eventually become a game', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 97, 
+      votes: 98, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Couple of songs', 
+      author: 'PseudoName', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776/5078631979466752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
       title: 'My backwards Day', 
       author: 'cailee', 
       votes: 7, 
@@ -386,6 +395,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-t1d-awareness/4697075943260160/6382194953338880.png', 
       link: 'https://www.khanacademy.org/computer-programming/raising-t1d-awareness/4697075943260160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'piceratops', 
+      author: 'dalia :)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768/6742800231350272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2423488658008161492283209'
     }, 
     {
       title: 'Favorite Song', 
@@ -505,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Couple of songs', 
-      author: 'PseudoName', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776/5078631979466752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
       title: 'guy', 
       author: 'Masqueet', 
       votes: 2, 
@@ -604,15 +613,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
     }, 
     {
-      title: 'piceratops', 
-      author: 'dalia :)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768/6742800231350272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/piceratops/5047781632032768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2423488658008161492283209'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'Susan (katy)', 
       votes: 2, 
@@ -638,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984/5048877922435072.png', 
       link: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_775127584887147227399259'
+    }, 
+    {
+      title: 'Something?', 
+      author: 'Duskpin', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5883227060617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Defenders coding team homepage & joining thing', 
@@ -777,7 +786,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'C', 
       author: 'KarLlr', 
-      votes: 74, 
+      votes: 75, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/c/6214009953239040/4987807262359552.png', 
       link: 'https://www.khanacademy.org/computer-programming/c/6214009953239040', 
@@ -872,15 +881,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/liliflower-seed/4800382590304256/6094527942410240.png', 
       link: 'https://www.khanacademy.org/computer-programming/liliflower-seed/4800382590304256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Something?', 
-      author: 'Duskpin', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5883227060617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Reckless Racer 2 [I\'m to lazy to finished it so here you go]', 
