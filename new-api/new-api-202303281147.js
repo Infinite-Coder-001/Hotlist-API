@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'star wars pixel art', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5574214162890752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Platformer by ChatGPT', 
       author: 'Potato', 
       votes: 15, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'star wars pixel art', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5574214162890752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'just trying out pjs in html', 
@@ -712,6 +712,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6509490138782120254370531'
     }, 
     {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'neamt.markina.daria', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4512483080716288/6636332060557312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4512483080716288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_447339861617969241717374'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'manaswinidevarakonda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4551230765711360/5309805775601664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4551230765711360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_481763705957345068808578'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'sofi201009', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6142651943665664/6337141820145664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6142651943665664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3310095343151816669563414'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Paul Mabena', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6365333742206976/5915547629043712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6365333742206976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_219170520162755744276055'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'Nicolás del Cura', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5042598411812864/5656962680537088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5042598411812864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6538754246677353258283644'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Blog"', 
+      author: 'pietras.hanna_nb_2021', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4724242014060544/4906128644554752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-blog/4724242014060544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_291109467290034725519688'
+    }, 
+    {
       title: 'T-Rex art _| using curveVertex tool', 
       author: 'CodingChamp01 🔴', 
       votes: 20, 
@@ -728,6 +782,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/top-down-movement/6525578166714368/5483013912969216.png', 
       link: 'https://www.khanacademy.org/computer-programming/top-down-movement/6525578166714368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
+      title: 'Spin-off of "If/Else - Part 2"', 
+      author: 'almeidac.2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6193739640127488/5001331183239168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6193739640127488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1101797510657186305739356'
     }, 
     {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5226762113171456/5790608909451264.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/5226762113171456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2532552699690700828436930'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Lorena Gómez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6037972811300864/5604072507097088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6037972811300864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7877621455900308490371699'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'vikamarusak642', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5262922583687168/6620381114056704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5262922583687168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1091504833806668530780776'
-    }, 
-    {
-      title: 'Spin-off of "Functions"', 
-      author: 'clodagh breheny', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5974620030418944/5380362156163072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5974620030418944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8969664944762977078526222'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Sasha_Spaikes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5036502712369152/4710577206509568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5036502712369152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
-    }, 
-    {
-      title: 'Derivado de "Desafío: mis comidas favoritas"Pablo Aguila', 
-      author: 'aguila.sansegundo.pablo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritaspablo-aguila/5534267947139072/6224302090534912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mis-comidas-favoritaspablo-aguila/5534267947139072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1040335775421703824518538'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"  candela', 
-      author: 'Candela y Guillermo :)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-candela/5645268759658496/5725430700359680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-candela/5645268759658496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3779321892741602465588662'
-    }, 
-    {
-      title: 'Spin-off of "Making animations"', 
-      author: 'sohaib.ahmed049', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/5308792096210944/6669790820483072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/5308792096210944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4975760180318554063138834'
     }, 
   ];
 };
