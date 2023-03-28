@@ -793,33 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'New SQL script', 
-      author: 'tricha924', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/4630376309112832/6287893443428352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4630376309112832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_579902439816609112463490'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'Alex Lindholm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6181228333285376/6225492769554432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6181228333285376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6867313164193118222403045'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'mzahak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5732494948483072/6313107384483840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5732494948483072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_232200825797077089760914'
-    }, 
-    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'mishraabhijay1011', 
       votes: 1, 
@@ -878,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/6254972921757696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752/5336521613033472.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-for-a-friend/4708736309706752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368/5673818111918080.png', 
       link: 'https://www.khanacademy.org/computer-programming/webpage/5276075082170368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1343119010406026394344161'
+    }, 
+    {
+      title: 'Blobsitting Simulator', 
+      author: 'Likes2Program', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768/4656200840167424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blobsitting-simulator/5756765808672768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_238236219414250541109455'
+    }, 
+    {
+      title: 'Версия на "Предизвикателсво: Напиши поема"', 
+      author: 'Martin Kyosev', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5701268657192960/5117106095177728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5701268657192960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2578699722406950630468241'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Цветан  Шипков', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488/6385415272841216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6451159805247488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6059100816027949792430439'
     }, 
   ];
 };
