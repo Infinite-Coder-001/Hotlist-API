@@ -766,6 +766,114 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'hdahal11', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4830731567415296/5323878034620416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4830731567415296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7869232656084319869527032'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'Ralica Zlatkova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5745782872653824/5029861149425664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5745782872653824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2989769189198890755436709'
+    }, 
+    {
+      title: 'Derivado de "Desafío: una regla de bucles"', 
+      author: 'Esthefanny Aruquipa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-una-regla-de-bucles/4714358086352896/4982818330689536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-una-regla-de-bucles/4714358086352896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153454443184345089583032'
+    }, 
+    {
+      title: 'A(z) "Projekt: Szakácskönyv"változata', 
+      author: 'Nikl Sara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/az-projekt-szakcsknyvvltozata/5826424775950336/5110177130135552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/az-projekt-szakcsknyvvltozata/5826424775950336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_889494009785354124978189'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Návrh reklamy"', 
+      author: 'Denča Šlégrová', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-reklamy/4882687946178560/4808425755426816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-reklamy/4882687946178560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1107170446211636479908407'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Aidar Zholdas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5244667093630976/6492116655325184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5244667093630976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8980505574015821373442245'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ely shahar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5400701535830016/6107353117409280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5400701535830016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5649049281163254173926087'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'Momchil Pisarov', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5664625908826112/4802806730244096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5664625908826112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3997748893896274500318850'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'javi.gonzaprofe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4724056013455360/6657249851523072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/4724056013455360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_563638139249656104105435'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'Mikaela Yordanova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5467811003809792/5810104839749632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5467811003809792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1765599541210417275067514'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Цветно същество"', 
+      author: 'Magdalena Samardzhieva', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5763556185522176/5072132720869376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5763556185522176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7877579919195789912349156'
+    }, 
+    {
+      title: 'New SQL script', 
+      author: 'herman_tkachenko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/5390847781945344/6499509569110016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/5390847781945344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_773205942735452118088906'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Anastazja  Jaśkowiak', 
       votes: 1, 
@@ -808,114 +916,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4780405757886464/6662796373966848.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/4780405757886464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1166449195167803951787074'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'wojtek hyzyk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5566024062910464/5753125287018496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5566024062910464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166449195167803951787074'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'wojtek hyzyk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5617409387184128/6355622326222848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5617409387184128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1166449195167803951787074'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Цветно същество"', 
-      author: 'Lora Martinova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/4950256682057728/5276276442316800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/webpage/4950256682057728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3305358466547642855940992'
-    }, 
-    {
-      title: 'New SQL script', 
-      author: 'jmhall2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/4819348830339072/4688237370327040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4819348830339072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841997757723850292999224'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'shakarim shaimerden', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5939517908631552/6184113343348736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5939517908631552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7628068489472884224782741'
-    }, 
-    {
-      title: '"გამოწვევა: ჩემი საყვარელი საჭმელი"-ის სპინ-ოფები', 
-      author: 'iraklipotskhverashvili', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6184838488178688/4972174571257856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6184838488178688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5278117711767170560962400'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Phillemon Selolo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6165493183725568/6092598529015808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6165493183725568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2714300472953027551432741'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'eryk izydorek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6135962355941376/6460525920960512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6135962355941376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1395722787348362157413776'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'eryk izydorek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5296578618507264/4882609000988672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5296578618507264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1395722787348362157413776'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'eryk izydorek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6027863171317760/6071482859175936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6027863171317760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1395722787348362157413776'
-    }, 
-    {
-      title: 'A(z) "Feladat: Linkek a tanuláshoz"változata', 
-      author: 'Katica Bedő', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/az-feladat-linkek-a-tanulshozvltozata/6427033136840704/6012578146074624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/az-feladat-linkek-a-tanulshozvltozata/6427033136840704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1708156460549693912807075'
-    }, 
-    {
-      title: 'Projet dérivé de "Créer une table et insérer des données"', 
-      author: 'Emma Searle', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4982592886849536/5586320627122176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-crer-une-table-et-insrer-des-donnes/4982592886849536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2654782673745094421009823'
     }, 
   ];
 };
