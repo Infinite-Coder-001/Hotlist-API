@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'Crab on a beach', 
+      author: 'sanjay.ramnauth', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 54, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'Vine Generator', 
@@ -134,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Subpage Contest for JLE (pls enter!)', 
+      author: 'JLE', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944/5444227715874816.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Subpage Contest for JLE (pls enter!)', 
-      author: 'JLE', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'Labyrin [GAME]', 
