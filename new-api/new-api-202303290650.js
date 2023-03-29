@@ -577,15 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'Fractal', 
-      author: 'Loaf', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512/5781001537372160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
       title: 'Favorite Song', 
       author: 'Madden Valentine', 
       votes: 3, 
@@ -602,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344/6173877228322816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1041330959814388689157990'
-    }, 
-    {
-      title: 'Captain AI', 
-      author: 'Cobra >:)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464/4689001429909504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'Duolingo', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4702179261988864/5471428817502208.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4702179261988864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_353467927624953875917188'
+    }, 
+    {
+      title: 'team magus homepage', 
+      author: 'the Knight_400', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/5092873554149376/5974179066462208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/5092873554149376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: '[PROJECT] Choose a season', 
+      author: 'Lemon', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-choose-a-season/5476117881602048/6412606207475712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-choose-a-season/5476117881602048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_284431660086288177818329'
     }, 
   ];
 };
