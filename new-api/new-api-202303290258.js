@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 43, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6244616077885440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5255779046440960.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6728736771981312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5449095885144064.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'when the 30 min. animation gets the most votes', 
+      author: 'TheLegoMango', 
+      votes: 32, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5721850845118464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
+    }, 
+    {
       title: '', 
       author: 'S. M. V.', 
       votes: 31, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'when the 30 min. animation gets the most votes', 
-      author: 'TheLegoMango', 
-      votes: 31, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5721850845118464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
     {
       title: 'Labyrin [GAME]', 
@@ -244,9 +244,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
       title: 'Triforce Puzzle', 
       author: 'The Ember Society', 
-      votes: 28, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
@@ -260,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624/5271761425055744.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
+      title: 'Platformer by ChatGPT', 
+      author: 'Potato', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920/4692652688982016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
     }, 
     {
       title: 'UK Flag', 
@@ -280,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Platformer by ChatGPT', 
-      author: 'Potato', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920/6566562757918720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer-by-chatgpt/4901880410193920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_870099779222696605177318'
-    }, 
-    {
       title: 'Team Opes Homepage', 
       author: 'The Ember Society', 
       votes: 5, 
@@ -298,18 +307,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 101, 
+      votes: 102, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
+      title: 'Da Biggest Bird &#60;{\'}', 
+      author: 'Com', 
+      votes: 27, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5234316113395712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'typing function', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 18, 
@@ -404,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840/6340526388592640.png', 
       link: 'https://www.khanacademy.org/computer-programming/typing-function/6079484651683840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Da Biggest Bird &#60;{\'}', 
-      author: 'Com', 
-      votes: 26, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5234316113395712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Altum Homepage Editing I guess', 
