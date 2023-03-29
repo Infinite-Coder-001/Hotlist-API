@@ -559,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'LOGO CONTEST', 
+      author: 'Aa Kk', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest/5477884992208896/5483547537489920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest/5477884992208896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Raising T1D awareness!', 
       author: 'Blake Meloche (T1)[Offline]', 
       votes: 7, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game-30/5030156587810816/6230380232622080.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game-30/5030156587810816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_431667340093906214714575'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'Polar', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6064914176458752/6201608288649216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6064914176458752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
   ];
 };
