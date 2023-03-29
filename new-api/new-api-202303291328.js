@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'InvisibleCat123', 
       votes: 28, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/6026755162030080.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
+      title: 'WIP', 
+      author: 'Addy💠', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/6645411017441280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
       votes: 9, 
@@ -212,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'TheLegoMango', 
       votes: 32, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5721850845118464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5906832326705152.png', 
       link: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Addy💠', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/6645411017441280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
       title: 'gift_for_a_queen.png', 
@@ -305,6 +305,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336/4925231954444288.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'Bee Swarm Test Release', 
+      author: 'Dat', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/4565055988613120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
       title: 'DEFENDERS CODING TEAM LOGO', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/block-jump/6714155391565824/5703977498099712.png', 
       link: 'https://www.khanacademy.org/computer-programming/block-jump/6714155391565824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
-    }, 
-    {
-      title: 'Team Cinis Homepage', 
-      author: '🍕TheGreatPizzaMan🍕', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage/6357830207848448/5662078724784128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage/6357830207848448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1024760169357761846944546'
     }, 
   ];
 };
