@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 63, 
+      votes: 62, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4883732336263168.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 74, 
+      votes: 73, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 23, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Ataraxy', 
-      author: 'The No-Sock Guy', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
-    }, 
-    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
       votes: 13, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Ataraxy', 
+      author: 'The No-Sock Guy', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
       title: 'Defenders HomePage', 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
-      title: 'Aequor Team Homepage ', 
-      author: '▪Dipper98▪', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'overly satisfying ripple thing that will eventually become a game', 
       author: 'HB_the_Pencil (Caela)', 
       votes: 13, 
@@ -251,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Aequor Team Homepage ', 
+      author: '▪Dipper98▪', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'UK Flag', 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432/6212403084967936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432/6528109286572032.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/5046770662162432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/6723251863863296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4985370858274816.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -440,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/5652591309799424.png', 
       link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Team Aequor Homepage', 
-      author: 'LightningCoder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/6429195745148928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Couple of songs', 
@@ -575,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104/4824182212050944.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Team Aequor Homepage', 
+      author: 'LightningCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/6429195745148928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Cat wants food', 
@@ -784,15 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_431667340093906214714575'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Polar', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6064914176458752/6201608288649216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6064914176458752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Waving snowman"', 
       author: '001436308', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/whats-for-dinner-cake/5837551719202816/4556894812553216.png', 
       link: 'https://www.khanacademy.org/computer-programming/whats-for-dinner-cake/5837551719202816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7161843662182140259246156'
+    }, 
+    {
+      title: ' "Project: What\'s for dinner?"', 
+      author: 'houghtalingtyler36', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400/5370876276293632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
     }, 
   ];
 };
