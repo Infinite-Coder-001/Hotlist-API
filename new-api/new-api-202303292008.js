@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 82, 
+      votes: 81, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 22, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6057754356924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Titus Payton(Online)', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5028348171698176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/6087034835091456.png', 
       link: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
-      title: 'Aequor Team Homepage ', 
-      author: '▪Dipper98▪', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'Steph curry triangle art ', 
       author: 'Cobra >:)', 
       votes: 5, 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6303932696805376.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'Aequor Team Homepage ', 
+      author: '▪Dipper98▪', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -553,7 +553,7 @@ var LoadHotlistAPI = function() {
       title: 'Duolingo', 
       author: 'Cobra >:)', 
       votes: 4, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo/5456234028515328/4682532672290816.png', 
       link: 'https://www.khanacademy.org/computer-programming/duolingo/5456234028515328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
@@ -878,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Tellus', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5108621890600960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/4607368630681600.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
