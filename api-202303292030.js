@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 38, 
+      votes: 39, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 44, 
+      votes: 45, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 52, 
+      votes: 53, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5139610851393536.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -84,11 +84,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 16, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Is it PRIME??? v2.0', 
+      author: 'InvisibleCat123', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'star wars pixel art', 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Is it PRIME??? v2.0', 
-      author: 'InvisibleCat123', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'HTML Canvas Tutorial', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 19, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6731863407509504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5724525024296960.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
