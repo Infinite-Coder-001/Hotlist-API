@@ -1,22 +1,31 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Is it PRIME???', 
+      author: 'InvisibleCat123', 
+      votes: 39, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 73, 
+      votes: 77, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 33, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+      title: 'Bee Swarm Test Release', 
+      author: 'Dat', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -30,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 47, 
+      votes: 49, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6618273602125824.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -39,29 +48,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 22, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'HTML Canvas Tutorial', 
-      author: 'Dominic R.', 
-      votes: 49, 
-      forks: 8, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
-      votes: 17, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
+    }, 
+    {
+      title: 'HTML Canvas Tutorial', 
+      author: 'Dominic R.', 
+      votes: 49, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'star wars pixel art', 
@@ -77,32 +86,50 @@ var LoadHotlistAPI = function() {
       author: 'Phase ✝', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/5637294582448128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/4628396085919744.png', 
       link: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Bee Swarm Test Release', 
-      author: 'Dat', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/4910301272391680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
       title: 'Defenders HomePage', 
       author: 'Arrow.programming', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/5124756639891456.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: '- Cartoon cat -', 
+      author: 'Xiøn😋🤩', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Altum Homepage', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 18, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6588517288558592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Angry Emoji', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Ataraxy', 
       author: 'The No-Sock Guy', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
@@ -118,36 +145,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Altum Homepage', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 16, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6588517288558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: '- Cartoon cat -', 
-      author: 'Xiøn😋🤩', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Angry Emoji', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 9, 
+      votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 22, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
@@ -181,6 +181,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'CJcool\'s minecraft skin', 
+      author: 'Addy💠', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064/5754866057396224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'Join-Page', 
+      author: 'Arrow.programming', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
       author: 'Jeremiah Fahmer', 
       votes: 20, 
@@ -190,22 +208,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
-      title: 'WIP', 
-      author: 'Addy💠', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/6645411017441280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'Join-Page', 
-      author: 'Arrow.programming', 
+      title: 'BOO YAH', 
+      author: 'Wort-Head Productions😐', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -217,18 +226,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
-      title: 'BOO YAH', 
-      author: 'Wort-Head Productions😐', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
       title: 'when the 30 min. animation gets the most votes', 
       author: 'TheLegoMango', 
-      votes: 32, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5906832326705152.png', 
       link: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464', 
@@ -253,22 +253,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'gift_for_a_queen.png', 
-      author: 'NL#Midsane', 
-      votes: 91, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+      title: 'Is it PRIME??? v2.0', 
+      author: 'InvisibleCat123', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/6099527821213696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'overly satisfying ripple thing that will eventually become a game', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 14, 
+      title: 'Rotating 3D Shape', 
+      author: 'Loaf', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888/6519012008968192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
   ];
 };
