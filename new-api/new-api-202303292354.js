@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 26, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6338677270953984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
       votes: 30, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 25, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6338677270953984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'Crab on a beach', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+    }, 
+    {
       title: 'owo', 
       author: 'Wort-Head Productions😐', 
       votes: 11, 
@@ -260,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/6507490423652352.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Steph curry triangle art ', 
+      author: 'Cobra >:)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
@@ -307,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'do not  touch ohnoes 2', 
+      author: 'LovelyPetals', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408/4878071737139200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Join-Page', 
       author: 'Arrow.programming', 
       votes: 12, 
@@ -314,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'Yellow Chu Chu', 
@@ -352,31 +370,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
-      title: 'Steph curry triangle art ', 
-      author: 'Cobra >:)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
-    }, 
-    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
       link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'do not  touch ohnoes 2', 
-      author: 'LovelyPetals', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408/4878071737139200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'when the 30 min. animation gets the most votes', 
@@ -689,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5452168036663296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5326405077614592.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -820,15 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'New program', 
-      author: 'Hurtin', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992/6331640059314176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
       title: 'Couple of songs', 
       author: 'AlleviatingAltercations', 
       votes: 4, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage-wip/5575429235982336/6601564300296192.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-homepage-wip/5575429235982336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8331329882355092498854782'
+    }, 
+    {
+      title: 'Ice Cream help', 
+      author: 'FakeCxrpss', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ice-cream-help/5564099481354240/5817107607764992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ice-cream-help/5564099481354240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
     }, 
   ];
 };
