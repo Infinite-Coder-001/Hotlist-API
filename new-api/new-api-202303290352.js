@@ -30,8 +30,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 24, 
-      forks: 0, 
+      votes: 25, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/5395758674395136.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: '- Cartoon cat -', 
+      author: 'Xiøn😋🤩', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 20, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944/5444227715874816.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6747253818834944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: '- Cartoon cat -', 
-      author: 'Xiøn😋🤩', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -635,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/memories/4830829168869376/6085353321840640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memories/4830829168869376/6246379598168064.png', 
       link: 'https://www.khanacademy.org/computer-programming/memories/4830829168869376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
