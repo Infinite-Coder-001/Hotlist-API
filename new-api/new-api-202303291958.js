@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 29, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -163,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
-      title: 'blue Chu chu', 
-      author: 'kylerohearn', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
+    }, 
+    {
+      title: 'blue Chu chu', 
+      author: 'kylerohearn', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
       title: 'CJcool\'s minecraft skin', 
@@ -370,20 +370,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
       title: 'Team Aequor Homepage', 
       author: 'LightningCoder', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5672586563600384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/4537667426762752.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -419,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Captain', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5724072844771328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5956367266660352.png', 
       link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
@@ -427,7 +418,7 @@ var LoadHotlistAPI = function() {
       title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
       author: 'HB_the_Pencil (Caela)', 
       votes: 4, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/5800338822316032.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
@@ -449,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Anúncio Publicitário', 
-      author: 'jw.fernandes27', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
     }, 
     {
       title: 'Contest: Team Logo', 
@@ -503,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
+    }, 
+    {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'UK Flag', 
@@ -631,15 +622,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
-      title: 'ski.js flaws', 
-      author: 'S. M. V.', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/4737719713710080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: '15 Puzzle', 
       author: '✝︎ Volatile ✝︎', 
       votes: 3, 
@@ -647,6 +629,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992/4822272453165056.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Anúncio Publicitário', 
+      author: 'jw.fernandes27', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
     }, 
     {
       title: 'New program', 
@@ -820,15 +811,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
     }, 
     {
-      title: 'don\'t ask ', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-ask/6069795004137472/6660515243016192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-ask/6069795004137472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Team Aequor', 
       author: 'KarLlr', 
       votes: 3, 
@@ -874,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
-      title: 'Magus Webpage', 
-      author: 'RedSus#Tellus', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/4607368630681600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
       title: 'cyberpunk cityscape', 
       author: 'alyanna (aqua217)', 
       votes: 96, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056/5652591309799424.png', 
       link: 'https://www.khanacademy.org/computer-programming/elliptical-spiral/5414777661997056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
+      title: 'Couple of songs', 
+      author: 'AlleviatingAltercations', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776/5078631979466752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: ';-;', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 13, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4724154705428480/5154971801927680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/4724154705428480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'ICL HOMEPAGE', 
+      author: 'Edmund Knight⚔🏹', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440/5199641030475776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
   ];
 };
