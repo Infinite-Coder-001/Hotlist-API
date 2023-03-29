@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 22, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'InvisibleCat123', 
       votes: 40, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6121313162018816.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 18, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/4673300212269056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5753882467942400.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -163,6 +163,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Subpage Contest for JLE (pls enter!)', 
+      author: 'JLE', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
+    }, 
+    {
+      title: 'Is it PRIME??? v2.0', 
+      author: 'InvisibleCat123', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'CJcool\'s minecraft skin', 
       author: 'Addy💠', 
       votes: 13, 
@@ -181,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Subpage Contest for JLE (pls enter!)', 
-      author: 'JLE', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
       title: 'Vine Generator', 
       author: '✝︎ Volatile ✝︎', 
       votes: 39, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488/5634856550973440.png', 
       link: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Is it PRIME??? v2.0', 
-      author: 'InvisibleCat123', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/6131706655719424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'quick and easy gradient ', 
+      author: 'Reader ✔', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336/4925231954444288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
       votes: 93, 
@@ -296,15 +305,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/6049296400302080.png', 
       link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
-      title: 'quick and easy gradient ', 
-      author: 'Reader ✔', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336/4925231954444288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'owo', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'New program', 
+      author: 'Titus Payton(Offline)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5262573911195648/5894953084698624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5262573911195648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
       title: 'do not  touch ohnoes 2', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -359,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5100246066839552.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Steph curry triangle art ', 
+      author: 'Cobra >:)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'no', 
@@ -523,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
-      title: 'New program', 
-      author: 'Titus Payton(Offline)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5262573911195648/5894953084698624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5262573911195648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
       title: 'Da Biggest Bird &#60;{\'}', 
       author: 'Com', 
       votes: 27, 
@@ -541,13 +550,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'Steph curry triangle art ', 
-      author: 'Cobra >:)', 
+      title: 'Simon (Memory Game)', 
+      author: 'Logan', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simon-memory-game/6676161238450176/5673170771427328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/simon-memory-game/6676161238450176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_402417430803656802787843'
     }, 
     {
       title: 'typing function', 
@@ -635,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Snowflake #AltumFTW', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776/5770303906299904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776/4519641683902464.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
@@ -797,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'Jack', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376/5412154812710912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376/5351721904947200.png', 
       link: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_867324693135074280424950'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5821831845298176/6116834056388608.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5821831845298176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Dune Raiders', 
-      author: 'Deathly Hallows', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dune-raiders/6506126167556096/6409881008783360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dune-raiders/6506126167556096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
   ];
 };
