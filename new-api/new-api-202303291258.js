@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Crab on a beach', 
+      author: 'sanjay.ramnauth', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
+    }, 
+    {
       title: 'Defenders HomePage', 
       author: 'Arrow.programming', 
       votes: 15, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'Ataraxy', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
+      author: 'Jeremiah Fahmer', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 19, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
-      author: 'Jeremiah Fahmer', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
       title: 'BOO YAH', 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5319414246588416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/6339947440422912.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'remington.claire', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360/5344300025298944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360/6277821443129344.png', 
       link: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
     }, 
@@ -611,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/6641853610115072/6491002748846080.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-song/6641853610115072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_801394358253336234495090'
+    }, 
+    {
+      title: ' "Project: What\'s for dinner?"', 
+      author: 'houghtalingtyler36', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400/5370876276293632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
     }, 
     {
       title: 'hehe', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage/6357830207848448/5662078724784128.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage/6357830207848448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1024760169357761846944546'
-    }, 
-    {
-      title: 'Snake Game 3.0', 
-      author: 'terrykids3', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game-30/5030156587810816/6230380232622080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game-30/5030156587810816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_431667340093906214714575'
     }, 
   ];
 };
