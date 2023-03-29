@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 75, 
+      votes: 76, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'Angry Emoji', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 55, 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Angry Emoji', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Subpage Contest for JLE (pls enter!)', 
       author: 'JLE', 
       votes: 9, 
@@ -181,12 +181,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'WIP', 
+      title: 'CJcool\'s minecraft skin', 
       author: 'Addy💠', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/5026789266341888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064/5754866057396224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
     }, 
     {
+      title: 'BOO YAH', 
+      author: 'Wort-Head Productions😐', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 20, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'BOO YAH', 
-      author: 'Wort-Head Productions😐', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608/4770662087704576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boo-yah/5364958927044608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'when the 30 min. animation gets the most votes', 
