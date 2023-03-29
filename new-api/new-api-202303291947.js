@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
-      votes: 25, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
@@ -80,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Angry Emoji', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'star wars pixel art', 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Angry Emoji', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'PG3D Prototype', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'The Outlier: Level 1', 
+      author: 'InvisibleCat123', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6303932696805376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'Aequor Team Homepage ', 
       author: '▪Dipper98▪', 
       votes: 8, 
@@ -314,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/4700027726643200.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'White Chu Chu', 
+      author: 'kylerohearn', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600/5281952174489600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
       title: 'Proof that KSI is smart O.o', 
@@ -356,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5940763314929664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/4537667426762752.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -415,15 +433,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'The Outlier: Level 1', 
-      author: 'InvisibleCat123', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6303932696805376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Triforce Puzzle', 
       author: 'The Ember Society', 
       votes: 31, 
@@ -449,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5223863773609984.png', 
       link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'White Chu Chu', 
-      author: 'kylerohearn', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600/5281952174489600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
       title: 'Philadelphia Flyers', 
@@ -570,7 +570,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 103, 
+      votes: 104, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
@@ -629,6 +629,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992/4822272453165056.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Anúncio Publicitário', 
+      author: 'jw.fernandes27', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
+    }, 
+    {
+      title: 'New program', 
+      author: 'lochlanm69', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4950101014659072/4804511421218816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4950101014659072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_50039192534255322604253'
     }, 
     {
       title: 'New program', 
@@ -793,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
     }, 
     {
+      title: 'Team Aequor', 
+      author: 'KarLlr', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor/6465772433227776/4872512069746688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-aequor/6465772433227776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'fun stuff', 
       author: 'TheLegoMango', 
       votes: 8, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440/5199641030475776.png', 
       link: 'https://www.khanacademy.org/computer-programming/icl-homepage/5067107172925440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Pixel Art editor', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-editor/6181376601931776/5649599789580288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-editor/6181376601931776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'i do not exist', 
-      author: 'Snowflake #AltumFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776/4529436314877952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Mark scheifele✈', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360/4957278584487936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4640363920015360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
   ];
 };
