@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 71, 
+      votes: 72, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4883732336263168.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'blobby!!!!!!!!!', 
+      author: 'LovelyPetals', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 27, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'blobby!!!!!!!!!', 
-      author: 'LovelyPetals', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'What is it?', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -235,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
       votes: 91, 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Something?', 
+      author: 'Duskpin', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5223863773609984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'quick and easy gradient ', 
       author: 'Reader ✔', 
       votes: 6, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Something?', 
-      author: 'Duskpin', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5223863773609984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Team Opes Homepage', 
