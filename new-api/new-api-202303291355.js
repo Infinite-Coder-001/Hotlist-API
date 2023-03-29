@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 72, 
+      votes: 73, 
       forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4883732336263168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
+      title: 'Is it PRIME???', 
+      author: 'InvisibleCat123', 
+      votes: 33, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -19,18 +28,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 31, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 46, 
+      votes: 47, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6618273602125824.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Cartoon cat -', 
       author: 'Xiøn😋🤩', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Altum Homepage', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 14, 
+      votes: 15, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6588517288558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
@@ -134,6 +134,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Bee Swarm Test Release', 
+      author: 'Dat', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/4910301272391680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
+      title: 'Labyrin [GAME]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -152,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488/5634856550973440.png', 
       link: 'https://www.khanacademy.org/computer-programming/vine-generator/6453258005823488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Labyrin [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'No-Name-Snek :) | WCC', 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/6645411017441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'Bee Swarm Test Release', 
-      author: 'Dat', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/4565055988613120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
       title: 'Join-Page', 
@@ -415,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
+      title: 'My backwards Day', 
+      author: 'cailee', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048/5484183259758592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93618388421478606033405'
+    }, 
+    {
       title: 'owo', 
       author: 'Wort-Head Productions😐', 
       votes: 4, 
@@ -469,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'My backwards Day', 
-      author: 'cailee', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048/5484183259758592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93618388421478606033405'
-    }, 
-    {
       title: 'Altum Homepage Editing I guess', 
       author: 'StuffStash', 
       votes: 4, 
@@ -485,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552/5985850338099200.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'That\'s a long title.', 
+      author: 'TheDark', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
     }, 
     {
       title: 'Cat wants food', 
@@ -692,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104/4824182212050944.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-subpage-p/4686659540271104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'That\'s a long title.', 
-      author: 'TheDark', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
     }, 
     {
       title: 'don\'t ask ', 
