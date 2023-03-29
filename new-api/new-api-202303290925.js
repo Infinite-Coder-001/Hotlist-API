@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'Trevor Hoffman', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/6369337658359808.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
