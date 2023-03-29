@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Defenders HomePage', 
       author: 'Arrow.programming', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
