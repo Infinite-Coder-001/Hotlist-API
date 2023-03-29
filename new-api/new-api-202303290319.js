@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6663235970580480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/4532949673623552.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -202,7 +202,7 @@ var LoadHotlistAPI = function() {
       title: 'WIP', 
       author: 'Addy💠', 
       votes: 9, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/4532832501547008.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1041330959814388689157990'
     }, 
     {
+      title: 'objects vs classes', 
+      author: 'Archbirdplus', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/objects-vs-classes/5826797834125312/5021723461468160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/objects-vs-classes/5826797834125312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
+    }, 
+    {
       title: 'Lemon.js v0.0.1', 
       author: 'Lemon Games', 
       votes: 10, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704/5681997868744704.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5131751730240740709455429'
-    }, 
-    {
-      title: 'Arco iris', 
-      author: 'Gloriatrevia_454', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984/5048877922435072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_775127584887147227399259'
     }, 
   ];
 };
