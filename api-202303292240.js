@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 44, 
+      votes: 45, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 47, 
+      votes: 48, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 82, 
+      votes: 83, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
       votes: 25, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6338677270953984.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'My homepage for Team Aequor', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/6707504659873792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
       votes: 50, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'My homepage for Team Aequor', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/6707504659873792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Defenders HomePage', 
@@ -192,7 +192,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ataraxy', 
       author: 'The No-Sock Guy', 
-      votes: 32, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
