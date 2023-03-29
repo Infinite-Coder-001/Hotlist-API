@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Cartoon cat -', 
       author: 'Xiøn😋🤩', 
-      votes: 14, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
@@ -111,8 +111,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Altum Homepage', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 18, 
-      forks: 4, 
+      votes: 17, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6588517288558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 27, 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5512971846729728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -185,18 +185,9 @@ var LoadHotlistAPI = function() {
       author: 'Addy💠', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/5026789266341888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/4871092918599680.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'Join-Page', 
-      author: 'Arrow.programming', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
+      title: 'Join-Page', 
+      author: 'Arrow.programming', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -264,20 +264,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'overly satisfying ripple thing that will eventually become a game', 
       author: 'HB_the_Pencil (Caela)', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888/6519012008968192.png', 
       link: 'https://www.khanacademy.org/computer-programming/overly-satisfying-ripple-thing-that-will-eventually-become-a-game/5377954223013888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
-      title: 'Flickering Stone Map', 
-      author: 'Captain', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/4954888670068736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: 'quick and easy gradient ', 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'Flickering Stone Map', 
+      author: 'Captain Longtreader', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/4954888670068736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: 'Something?', 
@@ -415,15 +415,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Cat wants food', 
-      author: 'Weller’s creek', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
-    }, 
-    {
       title: 'Login Screen', 
       author: 'sakarthick587', 
       votes: 15, 
@@ -487,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
-      title: 'Captain AI', 
-      author: 'Cobra >:)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464/4689001429909504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
-    }, 
-    {
       title: 'Da Biggest Bird &#60;{\'}', 
       author: 'Com', 
       votes: 27, 
@@ -514,15 +496,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'no', 
-      author: 'Phase ✝', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no/4800395299045376/6077680698310656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no/4800395299045376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Altum Homepage Editing I guess', 
       author: 'StuffStash', 
       votes: 4, 
@@ -530,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552/5985850338099200.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Cat wants food', 
+      author: 'Weller’s creek', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
     }, 
     {
       title: 'fun stuff', 
@@ -683,6 +665,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344/6173877228322816.png', 
       link: 'https://www.khanacademy.org/computer-programming/hehe/4951501777977344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1041330959814388689157990'
+    }, 
+    {
+      title: 'Captain AI', 
+      author: 'Cobra >:)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464/4689001429909504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/captain-ai/5901080795070464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: 'Duolingo', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6494737524899840/6145765593628672.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6494737524899840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287550130977565809654790'
+    }, 
+    {
+      title: 'i do not exist', 
+      author: 'Snowflake #AltumFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776/5629061096587264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-do-not-exist/5422770663243776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
   ];
 };
