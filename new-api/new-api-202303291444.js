@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 38, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Primavera 2023', 
       author: 'Astro', 
       votes: 75, 
@@ -17,6 +8,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5120631726456832.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
+      title: 'Is it PRIME???', 
+      author: 'InvisibleCat123', 
+      votes: 36, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/4649312979304448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -28,27 +28,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Bee Swarm Test Release', 
-      author: 'Dat', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 49, 
+      votes: 47, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6618273602125824.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Bee Swarm Test Release', 
+      author: 'Dat', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -85,7 +85,7 @@ var LoadHotlistAPI = function() {
       title: 'PG3D Prototype', 
       author: 'Phase ✝', 
       votes: 19, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/4628396085919744.png', 
       link: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
@@ -98,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/5124756639891456.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: '- Cartoon cat -', 
-      author: 'Xiøn😋🤩', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Altum Homepage', 
@@ -136,9 +127,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: '- Cartoon cat -', 
+      author: 'Xiøn😋🤩', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5355036881502208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 27, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'WIP', 
-      author: 'Addy💠', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/4871092918599680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design" -FREE MONEY!', 
       author: 'Jeremiah Fahmer', 
       votes: 20, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968/5822585410732032.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-free-money/6535184800595968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6855207147899961892917015'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Addy💠', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/6645411017441280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
       title: 'Join-Page', 
@@ -352,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/5800338822316032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
       title: 'Platformer by ChatGPT', 
       author: 'Potato', 
       votes: 19, 
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
       link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
+    }, 
+    {
+      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/5800338822316032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'fun stuff', 
