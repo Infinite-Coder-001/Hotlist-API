@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 11, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/4936522987257856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6438978741125120.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -577,24 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1041330959814388689157990'
     }, 
     {
-      title: 'Duolingo', 
-      author: 'Cobra >:)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/duolingo/5456234028515328/4682532672290816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/duolingo/5456234028515328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
-    }, 
-    {
-      title: 'Rotating 3D Shape', 
-      author: 'Loaf', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
       title: 'objects vs classes', 
       author: 'Archbirdplus', 
       votes: 2, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328/5384720340008960.png', 
       link: 'https://www.khanacademy.org/computer-programming/standard-deviation-curve/6099304717795328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Susan (katy)', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5327881615228928/5398455578312704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5327881615228928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_189037426556212567941867'
+    }, 
+    {
+      title: 'Easter egg  project', 
+      author: 'julia1.bonfligoli1', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704/5681997868744704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5131751730240740709455429'
     }, 
   ];
 };
