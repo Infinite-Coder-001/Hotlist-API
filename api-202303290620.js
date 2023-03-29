@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 69, 
+      votes: 71, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4883732336263168.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Defenders HomePage', 
+      author: 'Arrow.programming', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Ataraxy', 
       author: 'The No-Sock Guy', 
       votes: 29, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
-    }, 
-    {
-      title: 'Defenders HomePage', 
-      author: 'Arrow.programming', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4847983335358464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Wooter', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Join-Page', 
+      author: 'Arrow.programming', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Aequor Team Homepage', 
       author: '▪Dipper98▪', 
       votes: 7, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'Join-Page', 
-      author: 'Arrow.programming', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'overly satisfying ripple thing that will eventually become a game', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'DEFENDERS CODING TEAM LOGO', 
-      author: 'Edmund Knight⚔🏹', 
-      votes: 12, 
+      title: 'UK Flag', 
+      author: 'The Goo 🌪', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624/5271761425055744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-coding-team-logo/6617683044122624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/uk-flag/6660082357288960/5917071495184384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/uk-flag/6660082357288960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
   ];
 };
