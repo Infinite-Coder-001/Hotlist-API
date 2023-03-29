@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'My homepage for Team Aequor', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/6707504659873792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
       votes: 30, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6338677270953984.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
-      title: 'My homepage for Team Aequor', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/6707504659873792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Crab on a beach', 
@@ -91,21 +91,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Is it PRIME??? v2.0', 
+      author: 'InvisibleCat123', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'The Outlier: Level 1', 
       author: 'InvisibleCat123', 
       votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/4747183472820224.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Is it PRIME??? v2.0', 
-      author: 'InvisibleCat123', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'S. M. V.', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/6239121363484672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
       link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'Team Opes Homepage 2 (Still working on it)', 
+      author: 'The Ember Society', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/5076537033670656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'Cat wants food', 
       author: 'Weller’s creek', 
       votes: 5, 
@@ -680,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5013784642240512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/4533875734003712.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -728,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-ask/6069795004137472/6660515243016192.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-ask/6069795004137472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Primavera 2023"', 
+      author: 'Astro', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-primavera-2023/4994139302445056/6085681006034944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-primavera-2023/4994139302445056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'New webpage', 
@@ -806,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Hurtin', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992/5078533732089856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992/5328379294564352.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
@@ -827,6 +845,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992/4822272453165056.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Aequor Homepage', 
+      author: '♢ Waves ♢', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344/5911592131936256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'New program', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage-wip/5575429235982336/6601564300296192.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-homepage-wip/5575429235982336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8331329882355092498854782'
-    }, 
-    {
-      title: 'Ice Cream help', 
-      author: 'FakeCxrpss', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ice-cream-help/5564099481354240/5817107607764992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ice-cream-help/5564099481354240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
-    }, 
-    {
-      title: 'Airplane', 
-      author: 'Lisa', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/airplane/5072482391605248/5154707418169344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/airplane/5072482391605248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_508082236382982088493730'
-    }, 
-    {
-      title: 'Good thins, seaweed, and smoked salmon', 
-      author: 'leilaledbetter99', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-thins-seaweed-and-smoked-salmon/6411213228785664/6009189626593280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-thins-seaweed-and-smoked-salmon/6411213228785664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8687049692494900877121663'
     }, 
   ];
 };
