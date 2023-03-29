@@ -183,20 +183,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'gift_for_a_queen.png', 
-      author: 'NL#Midsane', 
-      votes: 90, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
       title: 'Join-Page', 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'gift_for_a_queen.png', 
+      author: 'NL#Midsane', 
+      votes: 89, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -237,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Triforce Puzzle', 
       author: 'The Ember Society', 
-      votes: 28, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880/4959623468859392.png', 
       link: 'https://www.khanacademy.org/computer-programming/triforce-puzzle/5726348414074880', 
@@ -395,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fun-stuff/5637204287471616/4762589495345152.png', 
       link: 'https://www.khanacademy.org/computer-programming/fun-stuff/5637204287471616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
-    }, 
-    {
-      title: '- Cartoon cat -', 
-      author: 'Xiøn😋🤩', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4985370858274816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'do not  touch ohnoes 2', 
@@ -604,22 +595,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
     {
-      title: 'Derivado de "trabajo del libro"', 
-      author: 'evelinpelayo.colpat', 
+      title: '- Cartoon cat -', 
+      author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-trabajo-del-libro/5208624868933632/5492638104207360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-trabajo-del-libro/5208624868933632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_399621147648348719337211'
-    }, 
-    {
-      title: 'shape creator', 
-      author: 'Jack', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376/5232865496580096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_867324693135074280424950'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4547689128968192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'A mountain', 
@@ -629,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136/4517538458550272.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
-      title: 'Stuffed Lightning Turtle!', 
-      author: 'tarn.miller', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuffed-lightning-turtle/4694563186065408/5974851757326336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuffed-lightning-turtle/4694563186065408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2334877598542429873854828'
     }, 
     {
       title: 'My logo', 
@@ -665,15 +638,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176/4682112746962944.png', 
       link: 'https://www.khanacademy.org/computer-programming/orange-sodas-intro-wip/6032738227634176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'New program', 
-      author: 'njgreenowl', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5662056109096960/5620928441794560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5662056109096960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
     }, 
     {
       title: 'Dodge game?', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400/5370876276293632.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
+    }, 
+    {
+      title: 'Team Opes Homepage', 
+      author: 'WinstonWinner000 (Parlor Indie)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/6204874342842368/6315278222016512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/6204874342842368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'player sprite', 
+      author: 'mr. mustache', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/player-sprite/4563521183727616/5904645953470464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/player-sprite/4563521183727616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'Bouncing Ball ', 
+      author: 'Maia Poon', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-ball/5904096575143936/6166991682715648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncing-ball/5904096575143936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_935320174399885901599835'
+    }, 
+    {
+      title: 'gem for loop', 
+      author: 'meredith frazier', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gem-for-loop/5362891193892864/5924392266940416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gem-for-loop/5362891193892864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2243859821461553075012528'
     }, 
   ];
 };
