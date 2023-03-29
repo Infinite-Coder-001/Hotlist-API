@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 83, 
+      votes: 84, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
@@ -154,22 +154,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'PG3D Prototype', 
-      author: 'Phase ✝', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/4628396085919744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Coming Soon!', 
       author: 'Titus Payton(Online)', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5028348171698176.png', 
       link: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'PG3D Prototype', 
+      author: 'Phase ✝', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/4628396085919744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Labyrin [GAME]', 
@@ -388,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
     {
+      title: 'Team Aqeuor Homepage', 
+      author: 'LightningCoder', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/6383600640770048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'The amazing character for units has finally arrived!', 
       author: 'WinstonWinner000 (Parlor Indie)', 
       votes: 21, 
@@ -440,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
       link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Team Aqeuor Homepage', 
-      author: 'LightningCoder', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/6383600640770048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'quick and easy gradient ', 
@@ -622,11 +622,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_402417430803656802787843'
     }, 
     {
+      title: 'A mountain', 
+      author: 'HoarseHorse', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136/4517538458550272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
       title: 'no', 
       author: 'Phase ✝', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no/4800395299045376/6077680698310656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no/4800395299045376/5937315957751808.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/4800395299045376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -667,6 +676,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'altum homepage', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/6161542241632256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
       title: 'Login Screen', 
       author: 'sakarthick587', 
       votes: 16, 
@@ -683,6 +701,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: '2023 JOKE', 
+      author: 'BananaDroid', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2023-joke/5886024292286464/6260085098856448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2023-joke/5886024292286464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
       title: 'just trying out pjs in html', 
@@ -757,15 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'A mountain', 
-      author: 'HoarseHorse', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136/4517538458550272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'project 2', 
       author: 'lraymond24', 
       votes: 2, 
@@ -773,15 +791,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176/6464049916461056.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_353467927624953875917188'
-    }, 
-    {
-      title: '2023 JOKE', 
-      author: 'BananaDroid', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/2023-joke/5886024292286464/6260085098856448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/2023-joke/5886024292286464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
       title: 'team magus homepage', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/good-thins-seaweed-and-smoked-salmon/6411213228785664/6009189626593280.png', 
       link: 'https://www.khanacademy.org/computer-programming/good-thins-seaweed-and-smoked-salmon/6411213228785664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8687049692494900877121663'
-    }, 
-    {
-      title: 'Stuart Ly - Animation - Mode of Transport', 
-      author: 'Stuart Ly', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuart-ly-animation-mode-of-transport/5489544813395968/6125583601025024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuart-ly-animation-mode-of-transport/5489544813395968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6930902839058359083815903'
     }, 
   ];
 };
