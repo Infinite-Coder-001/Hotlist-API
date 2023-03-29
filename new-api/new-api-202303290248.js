@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 43, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/6244616077885440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/4571526600114176.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
-      votes: 54, 
+      votes: 53, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
+      title: 'do not click', 
+      author: 'LovelyPetals', 
+      votes: 40, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736/4746254929412096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-click/5803044047732736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Vine Generator', 
       author: '✝︎ Volatile ✝︎', 
       votes: 38, 
@@ -122,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6728736771981312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/4570635427954688.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -176,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'JLE', 
       votes: 7, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/4833150397366272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5659178413899776.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
     }, 
     {
-      title: 'Labyrin [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'WIP', 
       author: 'Addy💠', 
       votes: 9, 
@@ -206,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064/4532832501547008.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'Labyrin [GAME]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'gift_for_a_queen.png', 
@@ -356,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/5777328467918848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/5182319670640640.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -413,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176/5234316113395712.png', 
       link: 'https://www.khanacademy.org/computer-programming/da-biggest-bird/6242654754226176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Altum Homepage Editing I guess', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552/5985850338099200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Flickering Stone Map', 
@@ -566,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/6641853610115072/6491002748846080.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-song/6641853610115072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_801394358253336234495090'
+    }, 
+    {
+      title: 'Altum Homepage Editing I guess', 
+      author: 'StuffStash', 
+      votes: 3, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552/5985850338099200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'hehe', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704/5681997868744704.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5131751730240740709455429'
-    }, 
-    {
-      title: 'Arco iris', 
-      author: 'Gloriatrevia_454', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984/5048877922435072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_775127584887147227399259'
     }, 
   ];
 };
