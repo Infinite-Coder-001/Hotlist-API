@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
       votes: 74, 
-      forks: 13, 
+      forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_801394358253336234495090'
     }, 
     {
+      title: 'Altum Homepage Editing I guess', 
+      author: 'StuffStash', 
+      votes: 3, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552/5985850338099200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum-homepage-editing-i-guess/6454876235415552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'hehe', 
       author: 'SarahCTK', 
       votes: 3, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704/5681997868744704.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-egg-project/6665813814984704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5131751730240740709455429'
-    }, 
-    {
-      title: 'Arco iris', 
-      author: 'Gloriatrevia_454', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984/5048877922435072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arco-iris/6501851425193984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_775127584887147227399259'
     }, 
   ];
 };
