@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 27, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
-      votes: 25, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 21, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6057754356924416.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -82,21 +82,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Angry Emoji', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Angry Emoji', 
-      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
-      votes: 15, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'blue Chu chu', 
+      author: 'kylerohearn', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -176,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Titus Payton(Online)', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/6087034835091456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5028348171698176.png', 
       link: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'blue Chu chu', 
-      author: 'kylerohearn', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
       title: 'CJcool\'s minecraft skin', 
@@ -262,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
-      title: 'Steph curry triangle art', 
-      author: 'Cobra >:)', 
-      votes: 5, 
+      title: 'Aequor Team Homepage', 
+      author: '▪Dipper98▪', 
+      votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
   ];
 };
