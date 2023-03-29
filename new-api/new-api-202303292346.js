@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 49, 
+      votes: 48, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'Titus Payton(Online)', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/4912601495814144.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5028348171698176.png', 
       link: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
@@ -689,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5452168036663296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/4533875734003712.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -824,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Hurtin', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992/6331640059314176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992/5328379294564352.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5713752617172992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
     }, 
