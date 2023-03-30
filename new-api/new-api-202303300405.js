@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -274,7 +274,7 @@ var LoadHotlistAPI = function() {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
       author: '♢ Waves ♢', 
       votes: 8, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
