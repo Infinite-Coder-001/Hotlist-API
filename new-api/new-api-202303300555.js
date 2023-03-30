@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -48,20 +48,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 86, 
+      votes: 85, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'The Outlier: Level 1', 
-      author: 'InvisibleCat123', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Pizza Maker', 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'The Outlier: Level 1', 
+      author: 'InvisibleCat123', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Crab on a beach', 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: '♢ LOGO CONTEST - ONGOING ♢', 
-      author: '♢ Waves ♢', 
-      votes: 9, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
       title: 'CJcool\'s minecraft skin', 
       author: 'Addy💠', 
       votes: 14, 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064/5754866057396224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: '♢ LOGO CONTEST - ONGOING ♢', 
+      author: '♢ Waves ♢', 
+      votes: 8, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'owo', 
