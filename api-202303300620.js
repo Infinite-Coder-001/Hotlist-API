@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: '♢ LOGO CONTEST - ONGOING ♢', 
+      author: '♢ Waves ♢', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -256,19 +265,10 @@ var LoadHotlistAPI = function() {
       title: 'Subpage Contest for JLE (pls enter!)', 
       author: 'JLE', 
       votes: 12, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: '♢ LOGO CONTEST - ONGOING ♢', 
-      author: '♢ Waves ♢', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
   ];
 };
