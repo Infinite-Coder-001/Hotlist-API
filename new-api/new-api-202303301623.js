@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 27, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
       title: 'Coming Soon!', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 14, 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5317228510887936.png', 
       link: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'Angry Emoji', 
@@ -235,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Contest: Team Logo', 
-      author: 'Arrow.programming', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Rotating 3D Shape', 
       author: 'Loaf', 
       votes: 15, 
@@ -253,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'ski.js flaws', 
-      author: 'S. M. V.', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: 'Ataraxy', 
       author: 'The No-Sock Guy', 
       votes: 34, 
@@ -269,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Contest: Team Logo', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Altum Homepage', 
@@ -307,13 +298,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
-      title: 'Steph curry triangle art ', 
-      author: 'Cobra >:)', 
-      votes: 8, 
+      title: 'ski.js flaws', 
+      author: 'S. M. V.', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'Wooter', 
@@ -343,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: 'Nice flowers', 
-      author: 'Mattomatic', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
-    }, 
-    {
       title: 'owo', 
       author: 'Wort-Head Productions😐', 
       votes: 13, 
@@ -359,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/4921006839087104.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Steph curry triangle art ', 
+      author: 'Cobra >:)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
       title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
@@ -478,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
+      title: 'Nice flowers', 
+      author: 'Mattomatic', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
+    }, 
+    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
       votes: 11, 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/4552693529231360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/5098948777000960.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -887,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/4782592760266752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/5228719477407744.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
