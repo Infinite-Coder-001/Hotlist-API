@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'friends sometimes...', 
-      author: 'Com', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: '- Cartoon cat -', 
       author: 'Xiøn😋🤩', 
       votes: 25, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4880879337127936.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'friends sometimes...', 
+      author: 'Com', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Angry Emoji', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/4859350410903552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/5879100024864768.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Oofus334', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544/5533411931635712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544/5291203466936320.png', 
       link: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_848201974917891649351222'
     }, 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Evan lopez', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200/4641251636068352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200/5373794404581376.png', 
       link: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155181765892783569669987'
     }, 
