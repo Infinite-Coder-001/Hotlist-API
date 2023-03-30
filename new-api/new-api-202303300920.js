@@ -659,7 +659,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Team Opes Homepage', 
-      author: '🥞PaNcAkEs🥞 #Opes', 
+      author: '🥞PaNcAkEs🥞', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/6178630146506752/5710919180271616.png', 
