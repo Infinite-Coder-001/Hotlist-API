@@ -94,7 +94,7 @@ var LoadHotlistAPI = function() {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
       votes: 30, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 14, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
