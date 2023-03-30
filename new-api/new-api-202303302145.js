@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 57, 
-      forks: 12, 
+      forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ski.js flaws', 
       author: 'S. M. V.', 
-      votes: 19, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
       link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
@@ -604,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Asteroid dodge v4', 
-      author: 'notzachariadahhan', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976/5403009107673088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
-    }, 
-    {
       title: 'Aequor homepage', 
       author: 'skylands JS', 
       votes: 2, 
@@ -806,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/6160525877886976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/5112664285298688.png', 
       link: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5299810069692416.png', 
       link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Spin-off of thuh bestest platformer in ka', 
+      author: 'WarmSausageTea‭', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-thuh-bestest-platformer-in-ka/6500764731359232/5382425007144960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-thuh-bestest-platformer-in-ka/6500764731359232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_883679079692011435969430'
     }, 
   ];
 };
