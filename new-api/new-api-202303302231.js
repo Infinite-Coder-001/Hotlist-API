@@ -100,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase ✝', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/4536612399923200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 35, 
+      votes: 34, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -131,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Loaf', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5926421940977664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/6236482911387648.png', 
       link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440/4566870385803264.png', 
       link: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/4536612399923200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Defenders Team Logo', 
@@ -329,7 +329,7 @@ var LoadHotlistAPI = function() {
       author: 'skylands JS', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/6544502530818048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/5753753660866560.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
     }, 
@@ -359,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6478532881727488.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" Sides', 
-      author: 'Cayleigh Sides', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
     }, 
     {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
@@ -467,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" Sides', 
+      author: 'Cayleigh Sides', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
     }, 
     {
       title: 'Team Magnus HOMEPAGE', 
@@ -689,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'BestM.alt', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808/6365843937345536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808/6489401556516864.png', 
       link: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_536117158981552296139289'
     }, 
@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Loaf', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mandelbrot/6099428231659520/5193534190960640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mandelbrot/6099428231659520/5788290793127936.png', 
       link: 'https://www.khanacademy.org/computer-programming/mandelbrot/6099428231659520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
