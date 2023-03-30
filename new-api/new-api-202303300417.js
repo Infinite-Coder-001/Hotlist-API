@@ -581,7 +581,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/5392678268485632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4556345794936832.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
