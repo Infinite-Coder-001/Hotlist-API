@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 20, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -55,22 +55,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 36, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6001399285727232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
       title: 'The Outlier: Level 1', 
       author: 'InvisibleCat123', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 37, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6001399285727232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -85,7 +85,7 @@ var LoadHotlistAPI = function() {
       title: 'ski.js flaws', 
       author: 'S. M. V.', 
       votes: 17, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
       link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Defenders Team Logo', 
+      author: 'Orange Soda', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
       title: 'Coming Soon!', 
       author: 'Titus Payton(Online)', 
       votes: 16, 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Defenders Team Logo', 
-      author: 'Orange Soda', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
@@ -206,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'I ♡ Books', 
+      author: 'JLE', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
@@ -226,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6713695964282880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 12, 
@@ -235,13 +253,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
-      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 13, 
+      title: 'Funny Fractal', 
+      author: 'Loaf', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6713695964282880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/6236482911387648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'Rotating 3D Shape', 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Labyrin [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 45, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'I ♡ Books', 
-      author: 'JLE', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
   ];
 };
