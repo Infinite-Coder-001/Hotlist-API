@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 16, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -314,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064/5754866057396224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'Defenders Team Logo by Orange Soda', 
-      author: 'Orange Soda', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960/6755083443552256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'Steph curry triangle art ', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4857143493967872/6730015522996224.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/4857143493967872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'My backwards Day', 
+      author: 'cailee', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048/5484183259758592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93618388421478606033405'
     }, 
   ];
 };
