@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 36, 
+      votes: 37, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 27, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+    }, 
+    {
       title: 'The Outlier: Level 1', 
       author: 'InvisibleCat123', 
       votes: 18, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 26, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Nameless Cat', 
+      author: 'MostAwesomePerson', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
+    }, 
+    {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 13, 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Nameless Cat', 
-      author: 'MostAwesomePerson', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
-    }, 
-    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 12, 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5008292184375296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
@@ -280,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Altum', 
+      author: 'Fire Wolf #Altum', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6478532881727488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
       author: '♢ Waves ♢', 
       votes: 13, 
@@ -298,22 +316,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'bruh.', 
-      author: 'mr. mustache', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176/6538731982209024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
       title: 'A PVP platformer.', 
       author: 'Wort-Head Productions😐', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008/5155992754241536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'bruh.', 
+      author: 'mr. mustache', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176/4693168252829696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'I ♡ Books', 
+      author: 'JLE', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'Ataraxy', 
@@ -352,13 +379,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Altum', 
-      author: 'Fire Wolf #Altum', 
-      votes: 6, 
+      title: 'New program', 
+      author: 'apex', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6478532881727488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5503803937046528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
@@ -415,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase ✝', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5008292184375296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'New program', 
       author: 'BananaDroid', 
       votes: 3, 
@@ -431,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040/4911772734898176.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
-    }, 
-    {
-      title: 'I ♡ Books', 
-      author: 'JLE', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'The Goo minecraft skin', 
@@ -476,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656/4764776397062144.png', 
       link: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
-      title: 'New program', 
-      author: 'apex', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5503803937046528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'CJcool\'s minecraft skin', 
@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136/5195218690555904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136/6198177540915200.png', 
       link: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
