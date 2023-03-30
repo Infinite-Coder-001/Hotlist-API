@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Oofus334', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544/5533411931635712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544/5933456996745216.png', 
       link: 'https://www.khanacademy.org/computer-programming/dice/4994790350700544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_848201974917891649351222'
     }, 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Evan lopez', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200/4641251636068352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200/5782669930840064.png', 
       link: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155181765892783569669987'
     }, 
