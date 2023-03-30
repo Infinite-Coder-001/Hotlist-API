@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 45, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
       votes: 53, 
-      forks: 4, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'Contest: Team Logo', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Altum Homepage', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/4701659134738432.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
-      title: 'Contest: Team Logo', 
-      author: 'Arrow.programming', 
-      votes: 7, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'Orange Soda', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960/6755083443552256.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960/5965720262590464.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
@@ -332,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240/4578850593095680.png', 
       link: 'https://www.khanacademy.org/computer-programming/steph-curry-triangle-art/5230337740554240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" Sides', 
+      author: 'Cayleigh Sides', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
     }, 
     {
       title: 'That\'s a long title.', 
@@ -437,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'Classic Kid', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5888561611325440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5555238150127616.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
@@ -523,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design" Sides', 
-      author: 'Cayleigh Sides', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
-    }, 
-    {
       title: 'Philadelphia Flyers', 
       author: 'Edmund Knight⚔🏹', 
       votes: 4, 
@@ -608,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'Captain', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5724072844771328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/6227585718861824.png', 
       link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
