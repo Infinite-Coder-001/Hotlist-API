@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Anúncio Publicitário', 
+      author: 'jw.fernandes27', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
+    }, 
+    {
       title: 'Defenders Team Logo', 
       author: 'Orange Soda', 
       votes: 7, 
@@ -181,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Nameless Cat', 
+      author: 'MostAwesomePerson', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
+    }, 
+    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 12, 
@@ -188,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
       link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
-      title: 'Anúncio Publicitário', 
-      author: 'jw.fernandes27', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
     }, 
     {
       title: 'Rotating 3D Shape', 
@@ -230,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'HB_the_Pencil (Caela)', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/4701659134738432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6713695964282880.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
@@ -253,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Nameless Cat', 
-      author: 'MostAwesomePerson', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
-    }, 
-    {
       title: 'Defenders HomePage', 
       author: 'Arrow.programming', 
       votes: 19, 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: '♢ LOGO CONTEST - ONGOING ♢', 
+      author: '♢ Waves ♢', 
+      votes: 13, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Contest: Team Logo', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -293,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176/4590053235146752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176/6538731982209024.png', 
       link: 'https://www.khanacademy.org/computer-programming/bruh/5919412327858176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -307,18 +316,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: '♢ LOGO CONTEST - ONGOING ♢', 
-      author: '♢ Waves ♢', 
-      votes: 12, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
       title: 'Ataraxy', 
       author: 'The No-Sock Guy', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
     }, 
     {
+      title: 'WIP', 
+      author: 'Timothy', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496/6037539732635648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
+    }, 
+    {
       title: 'Vine Generator', 
       author: '✝︎ Volatile ✝︎', 
       votes: 41, 
@@ -707,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136/6544778482466816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136/5195218690555904.png', 
       link: 'https://www.khanacademy.org/computer-programming/splatoon-stuf/5346814292443136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -773,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/something/4815535637577728/5299810069692416.png', 
       link: 'https://www.khanacademy.org/computer-programming/something/4815535637577728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Timothy', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496/6037539732635648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
     }, 
     {
       title: 'Spin-off of thuh bestest platformer in ka', 
