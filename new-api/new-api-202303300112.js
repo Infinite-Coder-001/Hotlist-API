@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Astro', 
       votes: 84, 
       forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5306772253622272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/6185075751567360.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'No-Name-Snek :) | WCC', 
-      author: 'Eryn #TeamUmbra', 
-      votes: 27, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
       title: 'Pizza Maker', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 54, 
@@ -64,9 +55,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'No-Name-Snek :) | WCC', 
+      author: 'Eryn #TeamUmbra', 
+      votes: 26, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 37, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
@@ -217,24 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Rotating 3D Shape', 
-      author: 'Loaf', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
       title: 'Aequor Team Homepage ', 
       author: '▪Dipper98▪', 
       votes: 12, 
@@ -242,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Rotating 3D Shape', 
+      author: 'Loaf', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064/5754866057396224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cjcools-minecraft-skin/6132549333336064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'owo', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/6330912506953728.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920/6567152619667456.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aqeuor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -712,15 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Virtus Homepage (W.I.P)', 
-      author: 'Classic Kid', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5860348910682112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
       title: '2023 JOKE', 
       author: 'BananaDroid', 
       votes: 11, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512/6382042146455552.png', 
       link: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'Just the Beginning', 
+      author: 'The Chosen One', 
+      votes: 73, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160/5657078124560384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/just-the-beginning/5375626250076160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4834805632374623104854400'
     }, 
   ];
 };
