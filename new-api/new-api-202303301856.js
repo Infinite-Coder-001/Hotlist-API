@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'im literally so good at naming variables...', 
-      author: 'marci', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
       votes: 34, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/6001399285727232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
+      title: 'im literally so good at naming variables...', 
+      author: 'marci', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'The Outlier: Level 1', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
-      votes: 34, 
+      votes: 33, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
@@ -164,7 +164,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Coming Soon!', 
-      author: 'Titus Payton(Online)', 
+      author: 'Titus Payton(Offline-ish)', 
       votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/coming-soon/5262573911195648/5317228510887936.png', 
@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Team Opes Hompage (NEW) (Let\'s see Aequor top this!)', 
-      author: 'The Ember Society', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152/4511189288927232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 3, 
@@ -541,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
-      title: 'Proof that KSI is smart O.o', 
-      author: 'Blake Meloche (T1)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
       title: 'BOO YAH', 
       author: 'Wort-Head Productions😐', 
       votes: 11, 
@@ -593,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680/6086371765960704.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
+      title: 'Team Opes Hompage (NEW) (Let\'s see Aequor top this!)', 
+      author: 'The Ember Society', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152/4511189288927232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Team Aqeuor Homepage', 
@@ -701,6 +692,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/philadelphia-flyers/4941136746823680/5892346911965184.png', 
       link: 'https://www.khanacademy.org/computer-programming/philadelphia-flyers/4941136746823680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
+      title: 'Proof that KSI is smart O.o', 
+      author: 'Blake Meloche (T1)', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'quick and easy gradient ', 
