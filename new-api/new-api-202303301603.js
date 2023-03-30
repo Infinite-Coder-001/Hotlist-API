@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 49, 
+      votes: 48, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 27, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -640,42 +640,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
     }, 
     {
-      title: 'Flickering Stone Map', 
-      author: 'Captain Longtreader', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/6227585718861824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
-      title: 'New program', 
-      author: 'apex', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5503803937046528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Spin-off of thuh bestest platformer in ka', 
-      author: 'WarmSausageTea‭', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-thuh-bestest-platformer-in-ka/6500764731359232/5382425007144960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-thuh-bestest-platformer-in-ka/6500764731359232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_883679079692011435969430'
-    }, 
-    {
-      title: 'New program', 
-      author: 'YokieBob', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608/5691665613635584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
       title: 'Spin-off of "3/30 - Draw a Spaceship"', 
       author: 'alsayemo2026', 
       votes: 2, 
@@ -701,15 +665,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-330-draw-a-spaceship/5835019164893184/5889964815728640.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-330-draw-a-spaceship/5835019164893184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_888773619521680097579151'
-    }, 
-    {
-      title: 'golf 2', 
-      author: 'kahn.addison', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/golf-2/5777238231662592/4591880039088128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/golf-2/5777238231662592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165067239294621981506373'
     }, 
     {
       title: 'Spin-off of "3/3 - Draw a Spaceship"', 
@@ -739,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_606086105022558016719631'
     }, 
     {
-      title: 'Mars rover', 
-      author: 'NW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mars-rover/5518933462663168/6066356069122048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mars-rover/5518933462663168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_44208025549996624196935'
-    }, 
-    {
       title: '- Cartoon cat - | part 2 |', 
       author: 'Xiøn😋🤩', 
       votes: 3, 
@@ -775,15 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Fireball my dear sir', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6219283177979904/5177070281080832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6219283177979904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
       title: 'Cat wants food', 
       author: 'Weller’s creek', 
       votes: 6, 
@@ -800,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664/4984096628719616.png', 
       link: 'https://www.khanacademy.org/computer-programming/gift_for_a_queenpng/6690889419505664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'Flickering Stone Map', 
+      author: 'Captain Longtreader', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/6227585718861824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: 'DEFENDERS CODING TEAM LOGO', 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-logo/5945971096993792/5071509950611456.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-logo/5945971096993792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'KarLlr', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776/5106004980449280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'UK Flag', 
+      author: 'The Goo 🌪', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/uk-flag/6660082357288960/5917071495184384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/uk-flag/6660082357288960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'shape creator', 
+      author: 'Jack', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376/5351721904947200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shape-creator/5860116613349376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_867324693135074280424950'
+    }, 
+    {
+      title: 'Simon (Memory Game)', 
+      author: 'Logan', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simon-memory-game/6676161238450176/5673170771427328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/simon-memory-game/6676161238450176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_402417430803656802787843'
+    }, 
+    {
+      title: 'A mountain', 
+      author: 'HoarseHorse', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136/4517538458550272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-mountain/5778378813915136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'Aequor Homepage', 
+      author: '♢ Waves ♢', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344/4777050985775104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
   ];
 };
