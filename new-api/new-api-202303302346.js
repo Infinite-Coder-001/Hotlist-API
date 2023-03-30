@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 30, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'MostAwesomePerson', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/5069603849158656.png', 
       link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
@@ -182,7 +182,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'It\'s here! The link's at the top!', 
-      author: 'Titus Payton(Online)', 
+      author: 'Titus Payton(Offline-ish)', 
       votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-here-the-links-at-the-top/5262573911195648/6396839776796672.png', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4532153821216768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/6320925323870208.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5007079795638272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5363201136181248.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -611,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
       link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
+    }, 
+    {
+      title: '🗿', 
+      author: 'mr. mustache', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/6613857125842944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Vine Generator', 
@@ -851,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/6685804782206976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/6578329122816000.png', 
       link: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test/6747253818834944/6658132442136576.png', 
       link: 'https://www.khanacademy.org/computer-programming/test/6747253818834944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Jibril', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4650529235189760/6236590285570048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4650529235189760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1205030498684771730246733'
     }, 
   ];
 };
