@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 51, 
-      forks: 11, 
+      forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 30, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -154,12 +154,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Defenders Team Logo', 
+      title: 'Defenders Team Logo by Orange Soda', 
       author: 'Orange Soda', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960/5965720262590464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo-by-orange-soda/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
@@ -343,12 +343,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
     }, 
     {
-      title: 'A PVP platformer.', 
+      title: 'owo', 
       author: 'Wort-Head Productions😐', 
       votes: 13, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008/5155992754241536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/4921006839087104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
@@ -386,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-imageimage-x-y-width-height-processingjs/5571013799886848/5611383313186816.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-imageimage-x-y-width-height-processingjs/5571013799886848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1050652641114675570817837'
-    }, 
-    {
-      title: 'Join-Page', 
-      author: 'Arrow.programming', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" Sides', 
@@ -449,6 +440,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408/4878071737139200.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Join-Page', 
+      author: 'Arrow.programming', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232/5051695521644544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-page/5127634536415232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'White Chu Chu', 
