@@ -23,14 +23,14 @@ var LoadHotlistAPI = function() {
       author: 'Astro', 
       votes: 84, 
       forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5306772253622272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5357757944610816.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 25, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5835937256095744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/5796793687523328.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'HTML Canvas Tutorial', 
+      author: 'Dominic R.', 
+      votes: 51, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 10, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
       link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
-      title: 'HTML Canvas Tutorial', 
-      author: 'Dominic R.', 
-      votes: 50, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Defenders HomePage', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'Rotating 3D Shape', 
+      author: 'Loaf', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 7, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Rotating 3D Shape', 
-      author: 'Loaf', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Cat wants food', 
+      author: 'Weller’s creek', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
+    }, 
+    {
       title: 'gift_for_a_queen.png', 
       author: 'NL#Midsane', 
       votes: 93, 
@@ -584,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/5076537033670656.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Cat wants food', 
-      author: 'Weller’s creek', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160/5558586655948800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-wants-food/5366855960412160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1086301074291868640446012'
     }, 
     {
       title: 'Team Opes Homepage', 
@@ -685,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Mushord [NEW LEVELS]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 106, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'altum homepage', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
@@ -701,15 +710,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/login-screen/6593781819555840/5242391566270464.png', 
       link: 'https://www.khanacademy.org/computer-programming/login-screen/6593781819555840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3353389917869666402303119'
-    }, 
-    {
-      title: 'Mushord [NEW LEVELS]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 105, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Virtus Homepage (W.I.P)', 
