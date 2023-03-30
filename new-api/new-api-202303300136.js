@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 45, 
-      forks: 7, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -21,9 +21,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 85, 
+      votes: 84, 
       forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/5357757944610816.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Subpage Contest for JLE (pls enter!)', 
-      author: 'JLE', 
-      votes: 12, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 9, 
@@ -251,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Subpage Contest for JLE (pls enter!)', 
+      author: 'JLE', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Virtus Homepage (W.I.P)', 
-      author: 'Classic Kid', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5860348910682112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
       title: 'Cat wants food', 
       author: 'Weller’s creek', 
       votes: 6, 
@@ -697,7 +688,7 @@ var LoadHotlistAPI = function() {
       title: 'Mushord [NEW LEVELS]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 106, 
-      forks: 7, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152/5424100760928256.png', 
       link: 'https://www.khanacademy.org/computer-programming/mushord-new-levels/5767739768881152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
@@ -707,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5951045290475520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5239845791514624.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -719,6 +710,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/login-screen/6593781819555840/5242391566270464.png', 
       link: 'https://www.khanacademy.org/computer-programming/login-screen/6593781819555840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3353389917869666402303119'
+    }, 
+    {
+      title: 'Virtus Homepage (W.I.P)', 
+      author: 'Classic Kid', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5860348910682112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
       title: '2023 JOKE', 
