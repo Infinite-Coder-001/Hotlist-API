@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 86, 
+      votes: 85, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 32, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -397,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
-      title: 'That\'s a long title.', 
-      author: 'TheDark', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
-    }, 
-    {
       title: 'friends sometimes...', 
       author: 'Com', 
       votes: 3, 
@@ -467,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4950101014659072/4804511421218816.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4950101014659072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_50039192534255322604253'
+    }, 
+    {
+      title: 'That\'s a long title.', 
+      author: 'TheDark', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
     }, 
     {
       title: 'test', 
