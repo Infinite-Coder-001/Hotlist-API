@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: '♢ LOGO CONTEST - ONGOING ♢', 
+      author: '♢ Waves ♢', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -256,19 +265,10 @@ var LoadHotlistAPI = function() {
       title: 'Subpage Contest for JLE (pls enter!)', 
       author: 'JLE', 
       votes: 12, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
       link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: '♢ LOGO CONTEST - ONGOING ♢', 
-      author: '♢ Waves ♢', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'Contest: Team Logo', 
@@ -278,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'friends sometimes...', 
+      author: 'Com', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'CJcool\'s minecraft skin', 
@@ -404,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024/5590562846851072.png', 
       link: 'https://www.khanacademy.org/computer-programming/thats-a-long-title/5570001898881024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1007444411542956194078854'
-    }, 
-    {
-      title: 'friends sometimes...', 
-      author: 'Com', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'when the 30 min. animation gets the most votes', 
