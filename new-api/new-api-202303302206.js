@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 40, 
+      votes: 41, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 94, 
+      votes: 95, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
+      title: 'customized (and working) button function cuz i\'m bored :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440/4566870385803264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 7, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4880879337127936.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'customized (and working) button function cuz i\'m bored :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440/4566870385803264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Angry Emoji', 
@@ -316,6 +316,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'New program', 
+      author: 'apex', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5503803937046528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Aequor homepage', 
+      author: 'skylands JS', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/5753753660866560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
+    }, 
+    {
       title: 'A PVP platformer.', 
       author: 'Wort-Head Productions😐', 
       votes: 19, 
@@ -388,15 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'New program', 
-      author: 'apex', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5503803937046528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
       author: 'Addy💠', 
       votes: 4, 
@@ -458,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
+    }, 
+    {
+      title: 'Team Magnus HOMEPAGE', 
+      author: 'Conqueror', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680/6086371765960704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'WIP', 
@@ -622,15 +640,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
-      title: 'Aequor homepage', 
-      author: 'skylands JS', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/5753753660866560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
-    }, 
-    {
       title: 'Virtus Homepage (W.I.P)', 
       author: 'Classic Kid', 
       votes: 4, 
@@ -680,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'BestM.alt', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808/5553502681350144.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808/6489401556516864.png', 
       link: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_536117158981552296139289'
     }, 
@@ -766,20 +775,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Team Magnus HOMEPAGE', 
-      author: 'Conqueror', 
+      title: 'ninjack(#OverComplicated)', 
+      author: 'ninjack', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680/6086371765960704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magnus-homepage/5184394844487680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ninjackovercomplicated/6472798018256896/5613422810284032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ninjackovercomplicated/6472798018256896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1174448919638207448979533'
     }, 
     {
       title: 'Team Aequor Homepage', 
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5504099492872192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/4818694107873280.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -791,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/6178630146506752/6418474936352768.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage/6178630146506752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'Ciris page', 
+      author: 'Jme', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ciris-page/6203597353435136/5454288341221376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ciris-page/6203597353435136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_567701916296046823162388'
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
@@ -815,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/4568484043603968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/6685804782206976.png', 
       link: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/philadelphia-flyers/4941136746823680/5892346911965184.png', 
       link: 'https://www.khanacademy.org/computer-programming/philadelphia-flyers/4941136746823680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'quick and easy gradient ', 
-      author: 'Reader ✔', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336/4925231954444288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick-and-easy-gradient/5352711693582336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'Fade', 
-      author: 'omeragic.merjema', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fade/6244449639514112/6132051687555072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fade/6244449639514112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_359839737184869838322154'
     }, 
   ];
 };
