@@ -694,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Waves\' Subpage Entry', 
+      author: '♢ Waves ♢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632/5417132604309504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'shape creator', 
       author: 'Jack', 
       votes: 5, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048/5484183259758592.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-backwards-day/4571423286018048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_93618388421478606033405'
-    }, 
-    {
-      title: 'Phone Project', 
-      author: 'remington.claire', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360/6277821443129344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phone-project/5333506210447360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_548041579281985850205991'
     }, 
   ];
 };
