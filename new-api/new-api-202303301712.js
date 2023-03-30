@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'im literally so good at naming variables...', 
-      author: 'marci', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5203229978968064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
       title: 'Defenders Team Logo', 
       author: 'Orange Soda', 
       votes: 6, 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4532153821216768.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'im literally so good at naming variables...', 
+      author: 'marci', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5203229978968064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'PG3D Prototype', 
@@ -350,24 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
-    }, 
-    {
-      title: 'The Goo minecraft skin', 
-      author: 'Addy💠', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944/4605589876686848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'For the Defenders logo contest', 
-      author: 'Velvet Faith', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'Nameless Cat', 
@@ -577,13 +559,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
-      title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
+      title: 'The Goo minecraft skin', 
       author: 'Addy💠', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368/6283451071512576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944/4605589876686848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'For the Defenders logo contest', 
+      author: 'Velvet Faith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'Bouncing Ball_James', 
@@ -689,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608/5651274432561152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608/5785689485787136.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/connor-mcdavid/5974208292372480/6243072104251392.png', 
       link: 'https://www.khanacademy.org/computer-programming/connor-mcdavid/5974208292372480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
+      title: 'Team Opes Homepage 2 (Still working on it)', 
+      author: 'The Ember Society', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/6608733062086656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
   ];
 };
