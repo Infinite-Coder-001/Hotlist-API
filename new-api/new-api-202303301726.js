@@ -76,7 +76,7 @@ var LoadHotlistAPI = function() {
       title: 'blobby!!!!!!!!!', 
       author: 'LovelyPetals', 
       votes: 33, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'ski.js flaws', 
+      author: 'S. M. V.', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
       title: 'PG3D Prototype', 
       author: 'Phase ✝', 
       votes: 21, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'ski.js flaws', 
-      author: 'S. M. V.', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'Ataraxy', 
@@ -689,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608/5651274432561152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608/5722793657548800.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6504277645508608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -752,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'transe2026', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-33-draw-a-spaceship/4804042573529088/4571844687740928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-33-draw-a-spaceship/4804042573529088/6178533476188160.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-33-draw-a-spaceship/4804042573529088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_606086105022558016719631'
     }, 
