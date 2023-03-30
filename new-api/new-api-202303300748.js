@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'My homepage for Team Aequor', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
       votes: 51, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'My homepage for Team Aequor', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Primavera 2023', 
