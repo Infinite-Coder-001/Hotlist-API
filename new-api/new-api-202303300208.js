@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 27, 
+      votes: 28, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Anúncio Publicitário', 
+      author: 'jw.fernandes27', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
+    }, 
+    {
       title: 'Altum Homepage', 
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 19, 
@@ -208,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Anúncio Publicitário', 
-      author: 'jw.fernandes27', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
-    }, 
-    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -224,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Aequor Team Homepage ', 
+      author: '▪Dipper98▪', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5174185975660544.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
-      title: 'Aequor Team Homepage ', 
-      author: '▪Dipper98▪', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264/6529209402179584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-team-homepage/6503300850827264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
@@ -571,7 +571,7 @@ var LoadHotlistAPI = function() {
       title: 'altum homepage', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 5, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104/5951045290475520.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/4964091778351104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
@@ -694,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'WIP', 
+      author: 'Timothy', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496/5862041262014464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
+    }, 
+    {
       title: 'Captain AI', 
       author: 'Cobra >:)', 
       votes: 4, 
@@ -703,6 +712,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
+      title: 'Cinis (For Primavera)', 
+      author: 'Avinasen', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-for-primavera/5004979195920384/5761263646064640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cinis-for-primavera/5004979195920384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'phone', 
+      author: 'Evan lopez', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200/4938579605504000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phone/6699997702963200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155181765892783569669987'
+    }, 
+    {
+      title: '- Cartoon cat - | part 2 |', 
+      author: 'Xiøn😋🤩', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-part-2/5443892465156096/6646643303956480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-part-2/5443892465156096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Testing my custom pixel art editor', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 5, 
@@ -710,6 +746,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/testing-my-custom-pixel-art-editor/4616058565869568/5964966764265472.png', 
       link: 'https://www.khanacademy.org/computer-programming/testing-my-custom-pixel-art-editor/4616058565869568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'spookymonth lila wip', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spookymonth-lila-wip/4783082218766336/4540666312179712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spookymonth-lila-wip/4783082218766336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Mushord [NEW LEVELS]', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992/4822272453165056.png', 
       link: 'https://www.khanacademy.org/computer-programming/15-puzzle/5191392948436992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Aequor Homepage', 
-      author: '♢ Waves ♢', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344/5911592131936256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/6299795401785344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Sara Chbihi', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6082081051688960/6299802473381888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6082081051688960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_227117509008244799905231'
-    }, 
-    {
-      title: 'Magus Webpage', 
-      author: 'RedSus#Tellus', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5702131333251072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'Just writing  🖤💜💚', 
-      author: 'PenguinPuffin2020', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-writing/6355922369953792/6664636457074688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-writing/6355922369953792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_243591479887332770148440'
-    }, 
-    {
-      title: 'Fractal', 
-      author: 'Loaf', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512/6382042146455552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fractal/5794245001920512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
   ];
 };
