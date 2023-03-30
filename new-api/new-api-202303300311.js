@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
       votes: 29, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5415671778557952.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head Productions😐', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/5577457232297984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008/4921006839087104.png', 
       link: 'https://www.khanacademy.org/computer-programming/owo/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -487,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'WIP', 
+      author: 'Timothy', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496/6037539732635648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
+    }, 
+    {
       title: 'Team Opes Homepage', 
       author: 'The Ember Society', 
       votes: 8, 
@@ -509,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Classic Kid', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5507748201807872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/6117304414027776.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
@@ -568,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3085016935544135791384186'
     }, 
     {
+      title: 'team magus homepage', 
+      author: 'the Knight_400', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4556345794936832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'altum homepage', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 5, 
@@ -608,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/6340471829086208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/4783852133597184.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -692,15 +710,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4599856808378368/6371264454508544.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4599856808378368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Timothy', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496/6037539732635648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5056770159722496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_580436051254509721948310'
     }, 
     {
       title: 'Captain AI', 
@@ -881,15 +890,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176/6464049916461056.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_353467927624953875917188'
-    }, 
-    {
-      title: 'team magus homepage', 
-      author: 'the Knight_400', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4556345794936832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Couple of songs', 
