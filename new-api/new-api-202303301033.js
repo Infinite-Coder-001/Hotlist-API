@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Waves\' Subpage Entry', 
-      author: '♢ Waves ♢', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632/5417132604309504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
       title: 'New program', 
       author: 'lochlanm69', 
       votes: 4, 
@@ -703,6 +694,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Waves\' Subpage Entry', 
+      author: '♢ Waves ♢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632/5417132604309504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waves-subpage-entry/6556640620101632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'shape creator', 
       author: 'Jack', 
       votes: 5, 
@@ -806,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Tellus', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/6294832097312768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5702131333251072.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
