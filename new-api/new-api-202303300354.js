@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 19, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6491725410648064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/4732556995248128.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -734,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-for-primavera/5004979195920384/6485122426912768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-for-primavera/5004979195920384/6731028640350208.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-for-primavera/5004979195920384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -752,18 +752,9 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-part-2/5443892465156096/6646643303956480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-part-2/5443892465156096/5255475269779456.png', 
       link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-part-2/5443892465156096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Color picker I guess lol', 
-      author: 'Duskpin', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/color-picker-i-guess-lol/6401659241807872/4581458468716544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/color-picker-i-guess-lol/6401659241807872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Testing my custom pixel art editor', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400/5370876276293632.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
+    }, 
+    {
+      title: 'project 2', 
+      author: 'lraymond24', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176/6464049916461056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_353467927624953875917188'
     }, 
   ];
 };
