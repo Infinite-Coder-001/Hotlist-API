@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 50, 
+      votes: 51, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -274,7 +274,7 @@ var LoadHotlistAPI = function() {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
       author: '♢ Waves ♢', 
       votes: 8, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'New webpage', 
+      author: 'KarLlr', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776/5106004980449280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'UK Flag', 
       author: 'The Goo 🌪', 
       votes: 7, 
@@ -845,15 +854,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-primavera-2023/4994139302445056/6067473943412736.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-primavera-2023/4994139302445056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'KarLlr', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776/5106004980449280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6465772433227776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'New webpage', 
