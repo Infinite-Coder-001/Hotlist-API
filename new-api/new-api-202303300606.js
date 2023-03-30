@@ -65,7 +65,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Pizza Maker', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 54, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5139610851393536.png', 
@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Angry Emoji', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
@@ -119,7 +119,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'star wars pixel art', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/5982187402084352.png', 
@@ -200,7 +200,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Altum Homepage', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      author: 'ŁĄŻĒŖŴŌŁF (read bio)', 
       votes: 19, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5432674815885312.png', 
@@ -265,19 +265,10 @@ var LoadHotlistAPI = function() {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
       author: '♢ Waves ♢', 
       votes: 9, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'Contest: Team Logo', 
-      author: 'Arrow.programming', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'CJcool\'s minecraft skin', 
@@ -343,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_236573507149240289749047'
     }, 
     {
+      title: 'Contest: Team Logo', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'do not  touch ohnoes 2', 
       author: 'LovelyPetals', 
       votes: 9, 
@@ -395,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5888561611325440.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
-      title: 'friends sometimes...', 
-      author: 'Com', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'when the 30 min. animation gets the most votes', 
@@ -656,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/5463280861888512.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'friends sometimes...', 
+      author: 'Com', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Team Opes Homepage', 
