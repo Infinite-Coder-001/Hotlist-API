@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 54, 
+      votes: 55, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Nameless Cat', 
+      author: 'MostAwesomePerson', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
+    }, 
+    {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 13, 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Nameless Cat', 
-      author: 'MostAwesomePerson', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688/4667003916042240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nameless-cat/5239705559154688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
-    }, 
-    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 12, 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5008292184375296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024/5392279910268928.png', 
       link: 'https://www.khanacademy.org/computer-programming/html-canvas-tutorial/5966934052225024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Defenders HomePage', 
-      author: 'Arrow.programming', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/4532153821216768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
