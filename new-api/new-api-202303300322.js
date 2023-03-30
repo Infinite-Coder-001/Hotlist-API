@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/5050554268303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -388,15 +388,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Virtus Homepage (W.I.P)', 
-      author: 'Classic Kid', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5888561611325440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
       title: 'when the 30 min. animation gets the most votes', 
       author: 'TheLegoMango', 
       votes: 35, 
@@ -523,6 +514,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: 'Virtus Homepage (W.I.P)', 
+      author: 'Classic Kid', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/6117304414027776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
+    }, 
+    {
       title: 'Cat wants food', 
       author: 'Weller’s creek', 
       votes: 6, 
@@ -604,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_848201974917891649351222'
     }, 
     {
-      title: 'DEFINETLY NOT A SCAM', 
-      author: 'Conqueror', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/definetly-not-a-scam/5451474131009536/5792198810714112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/definetly-not-a-scam/5451474131009536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'Mark Scheifele', 
       author: 'Edmund Knight⚔🏹', 
       votes: 3, 
@@ -635,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/5927781440733184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584/4783852133597184.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2-still-working-on-it/5617095082819584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -775,21 +766,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Magus Webpage', 
-      author: 'RedSus#Tellus', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960/5702131333251072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-webpage/4988706739240960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'spookymonth lila ', 
+      title: 'spookymonth lila wip', 
       author: 'LovelyPetals', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spookymonth-lila/4783082218766336/6402644299268096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spookymonth-lila/4783082218766336', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spookymonth-lila-wip/4783082218766336/4540666312179712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spookymonth-lila-wip/4783082218766336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400/5370876276293632.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-whats-for-dinner/5283482885734400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_137908020516824860256651'
+    }, 
+    {
+      title: 'project 2', 
+      author: 'lraymond24', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176/6464049916461056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-2/5276538770866176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_353467927624953875917188'
+    }, 
+    {
+      title: 'Couple of songs', 
+      author: 'AlleviatingAltercations', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776/5078631979466752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/couple-of-songs/5708720484171776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
   ];
 };
