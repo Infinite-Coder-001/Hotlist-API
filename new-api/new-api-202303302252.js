@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 60, 
+      votes: 58, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase ✝', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/6009742427471872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/4536612399923200.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Orange Fractal', 
-      author: 'Loaf', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-fractal/6524221661691904/6229541136941056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/orange-fractal/6524221661691904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
       title: 'Aequor Team Homepage ', 
       author: '▪Dipper98▪', 
       votes: 13, 
@@ -658,15 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
-      title: 'Flickering Stone Map', 
-      author: 'Captain Longtreader', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5158716040331264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
-    }, 
-    {
       title: 'Team Opes Homepage (OLD)', 
       author: 'The Ember Society #Opes', 
       votes: 10, 
@@ -710,6 +692,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808/6365843937345536.png', 
       link: 'https://www.khanacademy.org/computer-programming/me-attempting-to-noise/4574243703799808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_536117158981552296139289'
+    }, 
+    {
+      title: 'Orange Fractal', 
+      author: 'Loaf', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/orange-fractal/6524221661691904/6229541136941056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/orange-fractal/6524221661691904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" - The Black Sphere', 
@@ -797,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5265255346520064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/4818694107873280.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -827,6 +818,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'Flickering Stone Map', 
+      author: 'Captain Longtreader', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5158716040331264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
       title: '🍙🍡🍥omuchan & fwends🍣🍘🍜 (WIP)', 
