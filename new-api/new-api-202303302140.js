@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'The Outlier: Level 1', 
       author: 'InvisibleCat123', 
       votes: 21, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
@@ -424,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'How to make a watermark', 
+      author: 'CodingChamp01 🔴', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/5553543416430592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -458,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040/4911772734898176.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
+    }, 
+    {
+      title: 'team magus homepage', 
+      author: 'the Knight_400', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4806091398758400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'The Goo minecraft skin', 
@@ -541,15 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'team magus homepage', 
-      author: 'the Knight_400', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4806091398758400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'That\'s a long title.', 
       author: 'TheDark', 
       votes: 9, 
@@ -602,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/5753753660866560.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
-    }, 
-    {
-      title: 'How to make a watermark', 
-      author: 'CodingChamp01 🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/5553543416430592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Virtus Homepage (W.I.P)', 
@@ -776,7 +776,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The amazing character for units has finally arrived!', 
-      author: 'WinstonWinner000 (Parlor Indie)', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-amazing-character-for-units-has-finally-arrived/6228272787800064/6416350076780544.png', 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/6656412534226944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064/5112664285298688.png', 
       link: 'https://www.khanacademy.org/computer-programming/omuchan-fwends-wip/5386190762328064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
