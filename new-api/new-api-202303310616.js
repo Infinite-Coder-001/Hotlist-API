@@ -595,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
     {
-      title: 'circle drawing algorithm', 
-      author: 'Archbirdplus', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-drawing-algorithm/5880003545055232/4837771916394496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circle-drawing-algorithm/5880003545055232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
       title: 'Logical Operator ', 
       author: 'Darin Gillenwater', 
       votes: 3, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6676845404930048/5433111837196288.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6676845404930048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_748332415476665004739895'
+    }, 
+    {
+      title: 'Operation Topos Phase I', 
+      author: 'Jake K.', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/operation-topos-phase-i/5058544685858816/5932609856389120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/operation-topos-phase-i/5058544685858816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
   ];
 };
