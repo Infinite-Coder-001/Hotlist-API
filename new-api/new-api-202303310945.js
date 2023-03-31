@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 39, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
       votes: 58, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 38, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'ski.js flaws', 
@@ -300,7 +300,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 39, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/4931482734084096.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
