@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
-      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
-      author: 'The Ember Society #OpesFTW', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/5494224650027008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
       title: 'Watermelonz', 
       author: 'Michael Weachock', 
       votes: 10, 
@@ -289,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'New program', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5918768577691648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'For the Defenders logo contest', 
       author: 'Velvet Faith', 
       votes: 10, 
@@ -305,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
+      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
+      author: 'The Ember Society #OpesFTW', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/5494224650027008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'customizable (and working) button function cuz i\'m bored :P', 
@@ -395,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5918768577691648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'organized chaos background for platformer', 
@@ -595,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Heather', 
-      author: 'LIL SHIVYA 🍧 Δ—Δ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
       votes: 54, 
@@ -620,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200/5873161871867904.png', 
       link: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
-    }, 
-    {
-      title: 'Asteroid Rush', 
-      author: 'Cool Guy', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asteroid-rush/5742773837021184/6272917722939392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/asteroid-rush/5742773837021184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987560906344880926681555'
     }, 
     {
       title: 'Defenders HomePage', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4806091398758400.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'My version of the Defenders logo', 
+      author: 'Cesar', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904/6254395986853888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_969151739535826808615246'
+    }, 
+    {
+      title: 'clock', 
+      author: 'john lighson', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432/4531629340278784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
     }, 
   ];
 };
