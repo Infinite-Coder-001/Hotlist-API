@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'marci', 
       votes: 43, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase ✝', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5680108150243328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
+      title: '🗿', 
+      author: 'mr. mustache', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
@@ -352,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design" Sides', 
+      author: 'Cayleigh Sides', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
+    }, 
+    {
       title: 'Volcanic Escape 2', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 4, 
@@ -368,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
       link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
-    }, 
-    {
-      title: '🗿', 
-      author: 'mr. mustache', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5189203991511040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'HTML Canvas Tutorial', 
@@ -458,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/5553543416430592.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design" Sides', 
-      author: 'Cayleigh Sides', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
     }, 
     {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
