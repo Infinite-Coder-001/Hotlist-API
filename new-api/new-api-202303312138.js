@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 28, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'Into the Forest', 
       author: 'Reflex', 
       votes: 29, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'Reckless Racer 3D', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 20, 
+      votes: 19, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: 'Primavera 2023', 
-      author: 'Astro', 
-      votes: 107, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
-    }, 
-    {
       title: 'New program', 
       author: 'apex', 
       votes: 13, 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Primavera 2023', 
+      author: 'Astro', 
+      votes: 106, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'No-Name-Snek :) | WCC', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'Defenders Team Logo', 
-      author: 'Orange Soda', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5772723046629376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
       title: 'Watermelonz', 
       author: 'Michael Weachock', 
       votes: 10, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
       link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
+    }, 
+    {
+      title: 'Defenders Team Logo', 
+      author: 'Orange Soda', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5772723046629376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'For the Defenders logo contest', 
@@ -406,24 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
-      title: 'No more fake jordans', 
-      author: 'MYLESR', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no-more-fake-jordans/5582501428117504/6004459550588928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no-more-fake-jordans/5582501428117504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
-    }, 
-    {
-      title: 'blue Chu chu', 
-      author: 'kylerohearn', 
-      votes: 15, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
       title: 'It\'s here! The link's at the top!', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 16, 
@@ -478,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'blue Chu chu', 
+      author: 'kylerohearn', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 20, 
@@ -509,18 +500,9 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/4903838646845440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6201999524937728.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'g', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264/5254811563114496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_454597122686642457572137'
     }, 
     {
       title: 'circle drawing algorithm', 
@@ -620,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232/4628396085919744.png', 
       link: 'https://www.khanacademy.org/computer-programming/pg3d-prototype/5532284209119232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'No more fake jordans', 
+      author: 'MYLESR', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-more-fake-jordans/5582501428117504/6004459550588928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-more-fake-jordans/5582501428117504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
     }, 
     {
       title: 'Basic HTML Editor', 
@@ -793,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_475346833406024805243341'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'g', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264/5254811563114496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454597122686642457572137'
+    }, 
+    {
       title: 'New program', 
       author: 'BananaDroid', 
       votes: 4, 
@@ -809,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6729381780439040.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'White Chu Chu', 
-      author: 'kylerohearn', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600/5281952174489600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
       title: 'Proof that KSI is smart O.o', 
@@ -892,13 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
     }, 
     {
-      title: 'New program', 
-      author: '🥞PaNcAkEs🥞 #Opes', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'donghyeop_han', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6634110312562688/5490094871199744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6634110312562688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5169484420923392/6519807844597760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5169484420923392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280169284428640517767850'
+    }, 
+    {
+      title: 'coding quiz', 
+      author: 'bensowa', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coding-quiz/6001939352698880/5759327412731904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/coding-quiz/6001939352698880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_12138953528307160323180'
     }, 
   ];
 };
