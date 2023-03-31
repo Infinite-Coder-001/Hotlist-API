@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
+      title: 'Into the Forest', 
+      author: 'Reflex', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
       title: 'I ♡ Books', 
       author: 'JLE', 
       votes: 9, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'Into the Forest', 
-      author: 'Reflex', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -307,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'Labyrin [GAME]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 46, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Rotating 3D Shape', 
       author: 'Loaf', 
       votes: 18, 
@@ -316,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Labyrin [GAME]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 45, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Altum', 
       author: 'Fire Wolf #Altum', 
       votes: 8, 
@@ -332,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5086812575154176.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
+      title: '🗿', 
+      author: 'mr. mustache', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/6613857125842944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'HTML Canvas Tutorial', 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
-      title: '🗿', 
-      author: 'mr. mustache', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/6613857125842944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'do not  touch ohnoes 2', 
@@ -752,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'Classic Kid', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5256370174869504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5542612925988864.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
