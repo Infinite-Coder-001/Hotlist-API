@@ -443,7 +443,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'How to make a watermark', 
-      author: 'CodingChamp01 🔴', 
+      author: 'CodingChamp01 🟢', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/5553543416430592.png', 
@@ -548,15 +548,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904/6254395986853888.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_969151739535826808615246'
-    }, 
-    {
-      title: 'clock', 
-      author: 'john lighson', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432/4531629340278784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
     }, 
     {
       title: 'Wooter', 
@@ -685,15 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_475346833406024805243341'
     }, 
     {
-      title: 'this is a rickroll but in the thingy', 
-      author: 'YokieBob', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608/4943265842642944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
       title: 'CJcool\'s minecraft skin', 
       author: 'Addy💠', 
       votes: 14, 
@@ -766,15 +748,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Team Aequor Homepage', 
-      author: 'LightningCoder', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5265255346520064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'sprt', 
       author: 'Loki', 
       votes: 5, 
@@ -791,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/non-interchangeable-game-child/5336807656177664/5298788471455744.png', 
       link: 'https://www.khanacademy.org/computer-programming/non-interchangeable-game-child/5336807656177664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_885875291155663856175483'
+    }, 
+    {
+      title: 'clock', 
+      author: 'john lighson', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432/4531629340278784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
     }, 
     {
       title: 'BOO YAH', 
@@ -818,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5559938631122944.png', 
       link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
+    }, 
+    {
+      title: 'Team Aequor Homepage', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5265255346520064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'coding quiz', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/emoji-cat-but-a-bunny/5463569455169536/6272344713904128.png', 
       link: 'https://www.khanacademy.org/computer-programming/emoji-cat-but-a-bunny/5463569455169536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_534703522039535487909643'
+    }, 
+    {
+      title: 'New program', 
+      author: 'HobbesProgrammer', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6676845404930048/5433111837196288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6676845404930048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_748332415476665004739895'
     }, 
   ];
 };
