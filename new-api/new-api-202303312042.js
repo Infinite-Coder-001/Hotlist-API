@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -80,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
-      title: '🗿', 
-      author: 'mr. mustache', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Fake Pistol Pg3d', 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: '🗿', 
+      author: 'mr. mustache', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Funny Fractal', 
@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
     {
-      title: 'Pixel Gun 3D - FULL RELEASE', 
-      author: 'Phase ✝', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/5292246338682880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'New Aries Graphic', 
       author: 'Wort-Head Productions😐', 
       votes: 6, 
@@ -242,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Pixel Gun 3D - FULL RELEASE', 
+      author: 'Phase ✝', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/5292246338682880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -388,15 +388,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
-      title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
-      author: 'Addy💠', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368/6283451071512576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
       title: 'Asteroid dodge v4', 
       author: 'notzachariadahhan', 
       votes: 6, 
@@ -460,13 +451,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
-      title: 'Altum', 
-      author: 'Fire Wolf #Altum', 
-      votes: 10, 
+      title: 'Blocky Cat', 
+      author: 'JD', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6345952870055936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168/5114742378381312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -478,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_751030309628735436104959'
     }, 
     {
+      title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
+      author: 'Addy💠', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368/6283451071512576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/f-altumftw-minecraft-skin/4933870207418368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 39, 
@@ -485,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/4931482734084096.png', 
       link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Altum', 
+      author: 'Fire Wolf #Altum', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6345952870055936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
       title: 'Special', 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
-      author: 'Addy💠', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688/4759356559376384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
       title: 'A PVP platformer.', 
@@ -586,15 +586,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
     }, 
     {
-      title: 'Basic HTML Editor', 
-      author: 'IAFrancy', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-html-editor/5540596707278848/5867976629993472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/basic-html-editor/5540596707278848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
-    }, 
-    {
       title: 'Flashing lights', 
       author: 'Escobar, Gabriel', 
       votes: 2, 
@@ -604,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_25864889168071615577484'
     }, 
     {
+      title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
+      author: 'Addy💠', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688/4759356559376384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
       title: 'Aequor homepage', 
       author: 'skylands JS', 
       votes: 4, 
@@ -611,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472/6544502530818048.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-homepage/4588882730729472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
-    }, 
-    {
-      title: 'this is a rickroll but in the thingy', 
-      author: 'YokieBob', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608/4943265842642944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'vertex() and curveVertex() tool', 
@@ -766,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Colored Tile Puzzle', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/colored-tile-puzzle/6429017571115008/5923422711627776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/colored-tile-puzzle/6429017571115008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'Proof that KSI is smart O.o', 
       author: 'Blake Meloche (T1)', 
       votes: 8, 
@@ -802,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1066782984291020343327923'
     }, 
     {
+      title: 'this is a rickroll but in the thingy', 
+      author: 'YokieBob', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608/4943265842642944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
       title: 'Non-Interchangeable Game Child', 
       author: 'verycreepyjavascriptthings', 
       votes: 3, 
@@ -836,15 +845,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432/4531629340278784.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/6341654018834432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9074835677730234482216471'
-    }, 
-    {
-      title: 'Testing', 
-      author: 'Noah H.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/5753561083592704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Spin-off of "Project: Shooting star"', 
