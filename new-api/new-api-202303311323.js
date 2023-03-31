@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 67, 
+      votes: 66, 
       forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
-      votes: 15, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'Loaf', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/6678625903755264.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
@@ -229,7 +229,7 @@ var LoadHotlistAPI = function() {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
       votes: 31, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
@@ -283,7 +283,7 @@ var LoadHotlistAPI = function() {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 14, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
       link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
@@ -382,7 +382,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: Ad design" Sides', 
       author: 'Cayleigh Sides', 
       votes: 8, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
@@ -532,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Special', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/special/4968715369365504/4793321966059520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/special/4968715369365504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'Colored Tile Puzzle', 
       author: '✝︎ Volatile ✝︎', 
       votes: 2, 
@@ -565,15 +556,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/abnormal/5849444525588480/6022843587674112.png', 
       link: 'https://www.khanacademy.org/computer-programming/abnormal/5849444525588480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'Super Weird', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-weird/5690365471670272/5866989861257216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-weird/5690365471670272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
@@ -622,33 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_280169284428640517767850'
     }, 
     {
-      title: 'White Chu Chu', 
-      author: 'kylerohearn', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600/5281952174489600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
-      title: 'Yellow Chu Chu', 
-      author: 'kylerohearn', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yellow-chu-chu/5369179269283840/5700040028110848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yellow-chu-chu/5369179269283840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
-      title: 'Red Chu Chu', 
-      author: 'kylerohearn', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656/4764776397062144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
-    }, 
-    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -656,15 +611,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608/5797454181351424.png', 
       link: 'https://www.khanacademy.org/computer-programming/wooter/4760207399108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Proof that KSI is smart O.o', 
-      author: 'Blake Meloche (T1)', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Orange Fractal', 
@@ -739,13 +685,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
-      title: 'organized chaos background for platformer', 
-      author: 'sgh07', 
-      votes: 2, 
+      title: 'White Chu Chu', 
+      author: 'kylerohearn', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/organized-chaos-background-for-platformer/5285573461065728/6005953125466112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/organized-chaos-background-for-platformer/5285573461065728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600/5281952174489600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/white-chu-chu/6370399228313600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
+      title: 'Yellow Chu Chu', 
+      author: 'kylerohearn', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yellow-chu-chu/5369179269283840/5700040028110848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yellow-chu-chu/5369179269283840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
+      title: 'Red Chu Chu', 
+      author: 'kylerohearn', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656/4764776397062144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/red-chu-chu/5945978504134656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
+      title: 'Proof that KSI is smart O.o', 
+      author: 'Blake Meloche (T1)', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'Spin-off of thuh bestest platformer in ka', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/coding-quiz/6001939352698880/5759327412731904.png', 
       link: 'https://www.khanacademy.org/computer-programming/coding-quiz/6001939352698880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_12138953528307160323180'
+    }, 
+    {
+      title: 'How to lag test', 
+      author: 'BestM.alt', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-lag-test/5941087006146560/5208058126188544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/how-to-lag-test/5941087006146560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_536117158981552296139289'
+    }, 
+    {
+      title: 'Custom Fonts in Webpages', 
+      author: 'Bimum', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-fonts-in-webpages/5122222273642496/5862614598205440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/custom-fonts-in-webpages/5122222273642496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6318969090244505259591687'
+    }, 
+    {
+      title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5977874474778624/5786262696148992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5977874474778624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
   ];
 };
