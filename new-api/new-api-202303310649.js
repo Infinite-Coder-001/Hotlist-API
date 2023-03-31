@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 35, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/4679994589888512.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -397,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Nice flowers', 
-      author: 'Mattomatic', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
-    }, 
-    {
       title: 'Asteroid dodge v4', 
       author: 'notzachariadahhan', 
       votes: 4, 
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
       link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
+    }, 
+    {
+      title: 'Nice flowers', 
+      author: 'Mattomatic', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
     }, 
     {
       title: 'Altum Homepage', 
