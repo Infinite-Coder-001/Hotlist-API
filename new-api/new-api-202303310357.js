@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ski.js flaws', 
       author: 'S. M. V.', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
       link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
@@ -254,10 +254,10 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Team Opes Hompage (NEW) (Let\'s see Aequor top this!)', 
-      author: 'The Ember Society #Opes', 
+      author: 'The Ember Society #OpesFTW', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152/5384886199566336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152/6116135318896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-aequor-top-this/6692618403889152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
@@ -368,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256/6320925323870208.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-homepage/6061035183456256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Asteroid dodge v4', 
+      author: 'notzachariadahhan', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976/5092376101306368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
       title: 'PG3D Prototype', 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408/4878071737139200.png', 
       link: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Asteroid dodge v4', 
-      author: 'notzachariadahhan', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976/5092376101306368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/asteroid-dodge-v4/6372606665342976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
       title: 'Wooter', 
@@ -767,7 +767,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Team Opes Homepage (OLD)', 
-      author: 'The Ember Society #Opes', 
+      author: 'The Ember Society #OpesFTW', 
       votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-old/5046770662162432/6042602291118080.png', 
