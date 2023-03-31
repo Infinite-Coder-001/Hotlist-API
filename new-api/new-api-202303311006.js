@@ -481,7 +481,7 @@ var LoadHotlistAPI = function() {
       title: 'Contest: Team Logo', 
       author: 'Arrow.programming', 
       votes: 9, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048/5505791198281728.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-team-logo/6203649270530048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
