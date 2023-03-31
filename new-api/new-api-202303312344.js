@@ -66,9 +66,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 25, 
+      votes: 26, 
       forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/6376938911612928.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'New program', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5918768577691648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
       title: 'Tutorials For All', 
       author: '▪Dipper98▪', 
       votes: 7, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792/4868571227537408.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5918768577691648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'No-Name-Snek :) | WCC', 
@@ -415,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Folgers Coffee', 
+      author: 'Kiovo', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200/5873161871867904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
+    }, 
+    {
       title: 'Is it PRIME??? v2.0', 
       author: 'InvisibleCat123', 
       votes: 17, 
@@ -464,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6692083915341824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5328779825430528.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -577,6 +586,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Testing', 
+      author: 'Noah H.', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/5390410190209024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Special', 
       author: 'Dojo Cat', 
       votes: 3, 
@@ -631,15 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
-      title: 'Folgers Coffee', 
-      author: 'Kiovo', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200/5873161871867904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
-    }, 
-    {
       title: 'Asteroid Rush', 
       author: 'Cool Guy', 
       votes: 2, 
@@ -692,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840/6441517704331264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9909201172302273259757851'
-    }, 
-    {
-      title: 'Testing', 
-      author: 'Noah H.', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/5390410190209024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Aequor homepage', 
