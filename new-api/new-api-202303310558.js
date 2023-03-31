@@ -793,6 +793,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
     {
+      title: 'Team Aequor Homepage', 
+      author: 'LightningCoder', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920/5265255346520064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-aequor-homepage/6036280258641920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'coding quiz', 
       author: 'bensowa', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/operation-topos-phase-i/5058544685858816/5932609856389120.png', 
       link: 'https://www.khanacademy.org/computer-programming/operation-topos-phase-i/5058544685858816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'New program', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5294303326027776/5430487981277184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5294303326027776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
   ];
 };
