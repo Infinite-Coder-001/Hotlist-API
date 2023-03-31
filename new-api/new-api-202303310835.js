@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'Spin-off of ""Winking Winston""', 
+      author: 'anikapandey014', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-winking-winston/4941959031734272/5600434233589760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-winking-winston/4941959031734272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1195901681468872846994248'
+    }, 
+    {
       title: 'Aequor Team Homepage ', 
       author: '▪Dipper98▪', 
       votes: 13, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464/5906832326705152.png', 
       link: 'https://www.khanacademy.org/computer-programming/when-the-30-min-animation-gets-the-most-votes/4953534044094464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896083158936784155307828'
-    }, 
-    {
-      title: 'emoji cat but a bunny :]', 
-      author: 'kiwikiki🥝', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/emoji-cat-but-a-bunny/5463569455169536/6272344713904128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/emoji-cat-but-a-bunny/5463569455169536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_534703522039535487909643'
     }, 
   ];
 };
