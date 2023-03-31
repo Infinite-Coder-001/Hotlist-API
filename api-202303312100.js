@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'New Aries Graphic', 
+      author: 'Wort-Head Productions😐', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Team Virtus', 
       author: 'Deathly Hallows', 
       votes: 10, 
@@ -190,13 +199,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'New Aries Graphic', 
-      author: 'Wort-Head Productions😐', 
-      votes: 6, 
+      title: 'New program', 
+      author: 'apex', 
+      votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Primavera 2023', 
@@ -235,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'New program', 
-      author: 'apex', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'Watermelonz', 
       author: 'Michael Weachock', 
       votes: 10, 
@@ -253,22 +253,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
-      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
-      author: 'The Ember Society #OpesFTW', 
-      votes: 9, 
+      title: 'Defenders Team Logo', 
+      author: 'Orange Soda', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/5494224650027008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5772723046629376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
-      title: 'Virtus Homepage', 
-      author: 'Reflex', 
-      votes: 4, 
+      title: 'For the Defenders logo contest', 
+      author: 'Velvet Faith', 
+      votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672/5756718488535040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
   ];
 };
