@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Forest', 
       author: 'Reflex', 
-      votes: 13, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
@@ -523,24 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'team magus homepage', 
-      author: 'the Knight_400', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4806091398758400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'My version of the Defenders logo', 
-      author: 'Cesar', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904/6254395986853888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_969151739535826808615246'
-    }, 
-    {
       title: 'Wooter', 
       author: 'Wort-Head Productions😐', 
       votes: 56, 
@@ -584,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040/4911772734898176.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
+    }, 
+    {
+      title: 'team magus homepage', 
+      author: 'the Knight_400', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104/4806091398758400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage/4681815119151104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Watermelonz', 
@@ -746,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/non-interchangeable-game-child/5336807656177664/5298788471455744.png', 
       link: 'https://www.khanacademy.org/computer-programming/non-interchangeable-game-child/5336807656177664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_885875291155663856175483'
+    }, 
+    {
+      title: 'My version of the Defenders logo', 
+      author: 'Cesar', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904/6254395986853888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-version-of-the-defenders-logo/6273122312699904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_969151739535826808615246'
     }, 
     {
       title: 'clock', 
