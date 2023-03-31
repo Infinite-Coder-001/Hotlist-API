@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
       votes: 31, 
@@ -251,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'Angry Emoji', 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5173716708540416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5363201136181248.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
