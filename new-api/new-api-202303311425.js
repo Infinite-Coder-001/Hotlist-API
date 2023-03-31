@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Forest', 
       author: 'Reflex', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Animation Guy', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/5633233246273536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6744648912781312.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
     {
+      title: 'Volcanic Escape 2', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
       title: 'KA\'s Avatars [vertex() only]', 
       author: 'ChickCoder', 
       votes: 5, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
       link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Volcanic Escape 2', 
-      author: 'Titus Payton(Offline-ish)', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
       title: '🗿', 
@@ -325,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
     }, 
     {
+      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/4781176125702144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'Angry Emoji', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
       link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/4781176125702144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
@@ -422,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
+    }, 
+    {
+      title: 'Snake Game', 
+      author: 'Sspidercat', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
       title: 'Watermelonz', 
@@ -566,15 +575,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/colored-tile-puzzle/6429017571115008/5497706165616640.png', 
       link: 'https://www.khanacademy.org/computer-programming/colored-tile-puzzle/6429017571115008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
       title: 'Abnormal', 
