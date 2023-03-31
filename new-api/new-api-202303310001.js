@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 44, 
+      votes: 45, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 30, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+    }, 
+    {
       title: 'ski.js flaws', 
       author: 'S. M. V.', 
       votes: 20, 
@@ -82,13 +91,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 29, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+      title: 'Defenders Team Logo', 
+      author: 'Orange Soda', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'Funny Fractal', 
@@ -136,22 +145,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'customized (and working) button function cuz i\'m bored :P', 
+      title: 'I ♡ Books', 
+      author: 'JLE', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
+    }, 
+    {
+      title: 'customizable (and working) button function cuz i\'m bored :P', 
       author: 'vw_beetlesultimategreatness', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440/4566870385803264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/customized-and-working-button-function-cuz-im-bored-p/5915789984317440', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Defenders Team Logo', 
-      author: 'Orange Soda', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/4563797496086528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'Pizza Maker', 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
-    }, 
-    {
-      title: 'I ♡ Books', 
-      author: 'JLE', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'It\'s here! The link's at the top!', 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
+      title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
+      author: 'Addy💠', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688/4759356559376384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
       title: 'Aequor homepage', 
       author: 'skylands JS', 
       votes: 4, 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5363201136181248.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
-      author: 'Addy💠', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688/4759356559376384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
       title: 'Subpage Contest for JLE (pls enter!)', 
