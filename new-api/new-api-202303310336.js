@@ -752,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'Classic Kid', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/6738478823161856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016/5533277445472256.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage-wip/6512796075606016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
