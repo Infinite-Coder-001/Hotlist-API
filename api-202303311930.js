@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 34, 
-      forks: 1, 
+      votes: 37, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4583192402378752.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 58, 
-      forks: 1, 
+      votes: 62, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 52, 
+      votes: 55, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -64,22 +64,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 38, 
+      votes: 39, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/4679994589888512.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase ✝', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      title: 'Snake Game', 
+      author: 'Sspidercat', 
+      votes: 15, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
       title: 'Funny Fractal', 
@@ -91,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 13, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
       title: 'Rotating Hyperboloid (3d shape)', 
       author: 'Loaf', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
@@ -121,7 +121,7 @@ var LoadHotlistAPI = function() {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 44, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
@@ -134,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6457551219900416.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'Reckless Racer 3D', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Is it PRIME???', 
@@ -172,10 +181,19 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Team Virtus', 
+      author: 'Deathly Hallows', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
       title: 'Primavera 2023', 
       author: 'Astro', 
       votes: 105, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
@@ -183,11 +201,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
-      votes: 40, 
+      votes: 41, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/5290185249308672.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
+      title: 'I ♡ Books', 
+      author: 'JLE', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
       title: 'The Outlier: Level 1', 
@@ -208,33 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'Team Virtus', 
-      author: 'Deathly Hallows', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'I ♡ Books', 
-      author: 'JLE', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'Reckless Racer 3D', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'Defenders Team Logo', 
       author: 'Orange Soda', 
       votes: 10, 
@@ -242,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5772723046629376.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
+      title: 'Watermelonz', 
+      author: 'Michael Weachock', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
       title: 'customizable (and working) button function cuz i\'m bored :P', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
-      title: 'Primavera Avatars', 
-      author: 'S. M. V.', 
-      votes: 90, 
-      forks: 14, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
   ];
 };
