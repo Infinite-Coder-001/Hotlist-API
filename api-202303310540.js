@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 38, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/5842364238446592.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Forest', 
       author: 'Reflex', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'Funny Fractal', 
+      author: 'Loaf', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5926421940977664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 11, 
@@ -82,18 +91,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Funny Fractal', 
-      author: 'Loaf', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5926421940977664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 96, 
+      votes: 97, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
