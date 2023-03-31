@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Deathly Hallows', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6044219144978432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/5976790633070592.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
@@ -359,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
-      title: 'Watermelonz', 
-      author: 'Michael Weachock', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
       title: '🗿', 
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
       link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Watermelonz', 
+      author: 'Michael Weachock', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
       title: 'Altum Homepage', 
