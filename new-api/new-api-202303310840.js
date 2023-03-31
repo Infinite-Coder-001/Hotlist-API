@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Deathly Hallows', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6044219144978432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/4542241927643136.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
