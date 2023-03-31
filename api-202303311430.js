@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 45, 
+      votes: 47, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'friends sometimes...', 
       author: 'Com', 
       votes: 48, 
-      forks: 4, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
-      votes: 67, 
-      forks: 13, 
+      votes: 68, 
+      forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Forest', 
       author: 'Reflex', 
-      votes: 16, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 36, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/4679994589888512.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -48,11 +48,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'SUPER MARIO BROS!', 
+      author: 'Animation Guy', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6744648912781312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -91,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'Primavera 2023', 
       author: 'Astro', 
       votes: 100, 
@@ -107,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
+      title: 'The Outlier: Level 1', 
+      author: 'InvisibleCat123', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'No-Name-Snek :) | WCC', 
@@ -118,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
-      title: 'The Outlier: Level 1', 
-      author: 'InvisibleCat123', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Nameless Cat (1)', 
       author: 'MostAwesomePerson', 
       votes: 11, 
@@ -136,6 +145,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
     {
+      title: 'Volcanic Escape 2', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'KA\'s Avatars [vertex() only]', 
+      author: 'ChickCoder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
+    }, 
+    {
       title: 'Team Virtus', 
       author: 'Deathly Hallows', 
       votes: 7, 
@@ -143,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'SUPER MARIO BROS!', 
-      author: 'Animation Guy', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4865320541274112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
       title: 'New program', 
@@ -181,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
+      title: 'customizable (and working) button function cuz i\'m bored :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: '🗿', 
       author: 'mr. mustache', 
       votes: 7, 
@@ -208,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'customizable (and working) button function cuz i\'m bored :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Rotating Hyperboloid (3d shape)', 
       author: 'Loaf', 
       votes: 6, 
@@ -224,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'For the Defenders logo contest', 
+      author: 'Velvet Faith', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'Crab on a beach', 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5139610851393536.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Volcanic Escape 2', 
-      author: 'Titus Payton(Offline-ish)', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128/4792813910016000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2/5485233236656128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
-      title: 'Is it PRIME??? v2.0', 
-      author: 'InvisibleCat123', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: '- Cartoon cat -', 
-      author: 'Xiøn😋🤩', 
-      votes: 28, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704/4880879337127936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-cartoon-cat-/4785037569736704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
