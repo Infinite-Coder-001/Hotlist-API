@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 49, 
+      votes: 50, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 16, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/5633401454641152.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 36, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184/4679994589888512.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-homepage-for-team-aequor/6372871544029184', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
-      votes: 39, 
+      votes: 40, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Titus Payton(Offline-ish)', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/5510930428641280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/5997903786328064.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
@@ -163,6 +163,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
     {
+      title: 'Rotating Hyperboloid (3d shape)', 
+      author: 'Loaf', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'New Aries Graphic', 
+      author: 'Wort-Head Productions😐', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'I ♡ Books', 
       author: 'JLE', 
       votes: 10, 
@@ -188,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Rotating Hyperboloid (3d shape)', 
-      author: 'Loaf', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'Defenders Team Logo', 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'New Aries Graphic', 
-      author: 'Wort-Head Productions😐', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
   ];
 };
