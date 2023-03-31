@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 47, 
+      votes: 48, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -46,31 +46,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase ✝', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 8, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6744648912781312.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'KA\'s Avatars [vertex() only]', 
+      author: 'ChickCoder', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
-      title: 'KA\'s Avatars [vertex() only]', 
-      author: 'ChickCoder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
-    }, 
-    {
       title: 'Team Virtus', 
       author: 'Deathly Hallows', 
       votes: 7, 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 89, 
+      votes: 90, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
