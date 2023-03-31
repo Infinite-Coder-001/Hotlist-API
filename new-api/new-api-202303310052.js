@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Altum', 
+      author: 'Fire Wolf #Altum', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5086812575154176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
+    }, 
+    {
       title: 'HTML Canvas Tutorial', 
       author: 'Dominic R.', 
       votes: 51, 
@@ -377,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/5553543416430592.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Altum', 
-      author: 'Fire Wolf #Altum', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5086812575154176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
       title: 'Spin-off of "Project: Ad design" Sides', 
@@ -725,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'Captain Longtreader', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5158716040331264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336/5559938631122944.png', 
       link: 'https://www.khanacademy.org/computer-programming/flickering-stone-map/4539049223438336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_460330406411328152379375'
     }, 
