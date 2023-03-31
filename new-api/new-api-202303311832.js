@@ -91,24 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Rotating Hyperboloid (3d shape)', 
-      author: 'Loaf', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 12, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
       title: '🗿', 
       author: 'mr. mustache', 
       votes: 12, 
@@ -127,11 +109,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'Rotating Hyperboloid (3d shape)', 
+      author: 'Loaf', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'Snake Game', 
+      author: 'Sspidercat', 
+      votes: 11, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4845609971662848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
+    }, 
+    {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6457551219900416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/5904344676614144.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
@@ -370,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
-      title: 'Blocky Cat', 
-      author: 'JD', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168/5212201528115200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
       title: 'Pixel Gun 3D - FULL RELEASE', 
       author: 'Phase ✝', 
       votes: 3, 
@@ -462,20 +453,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Labyrin [GAME]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 48, 
+      votes: 47, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Nice flowers', 
-      author: 'Mattomatic', 
-      votes: 7, 
+      title: 'Blocky Cat', 
+      author: 'JD', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168/5212201528115200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blocky-cat/6217932050055168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
     {
       title: 'New webpage', 
@@ -532,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Nice flowers', 
+      author: 'Mattomatic', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
+    }, 
+    {
       title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
       author: 'Addy💠', 
       votes: 5, 
@@ -557,15 +557,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/circle-drawing-algorithm/5880003545055232/4837771916394496.png', 
       link: 'https://www.khanacademy.org/computer-programming/circle-drawing-algorithm/5880003545055232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'Bubble Tea Ad', 
-      author: 'DillPickleMaster', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bubble-tea-ad/6151893228503040/6054479645687808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bubble-tea-ad/6151893228503040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_79115848273881174879316'
     }, 
     {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logical-operator/6232999692910592/5230093824999424.png', 
       link: 'https://www.khanacademy.org/computer-programming/logical-operator/6232999692910592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_831939783457955176286859'
+    }, 
+    {
+      title: 'The Goo minecraft skin', 
+      author: 'Addy💠', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944/4605589876686848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-goo-minecraft-skin/4880800073170944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
   ];
 };
