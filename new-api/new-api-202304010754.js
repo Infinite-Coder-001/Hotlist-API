@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'New program', 
+      author: 'apex', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'Heather', 
       author: 'LIL SHIVYA 🍧 Δ—Δ', 
       votes: 7, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
       link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
-      title: 'New program', 
-      author: 'apex', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/6546050304491520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'New Aries Graphic', 
