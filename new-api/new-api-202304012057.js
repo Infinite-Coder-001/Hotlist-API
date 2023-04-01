@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/4724053975023616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -388,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
     {
+      title: 'Primavera 2023', 
+      author: 'Astro', 
+      votes: 110, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
       votes: 44, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336/4607717663883264.png', 
       link: 'https://www.khanacademy.org/computer-programming/no-name-snek-wcc/6480392267022336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
-      title: 'Primavera 2023', 
-      author: 'Astro', 
-      votes: 109, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'The Outlier: Level 1', 
@@ -440,6 +440,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/4791207843905536.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
+      title: 'Mole in Holes Loop', 
+      author: 'Sophia Smith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mole-in-holes-loop/4589974013132800/5438231966695424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mole-in-holes-loop/4589974013132800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8915653908275121539516353'
+    }, 
+    {
+      title: 'Press a Key', 
+      author: 'KHAN BOI', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/press-a-key/4539663437316096/4536820009582592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/press-a-key/4539663437316096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
       title: 'Spin-off of "Testing"', 
@@ -874,31 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Alakazam', 
-      author: 'Xander', 
+      title: 'Loop with Fish Tank', 
+      author: 'Madeline Olson', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/alakazam/5431698960728064/4949054149935104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/alakazam/5431698960728064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
-    }, 
-    {
-      title: 'Brooks\' "Project: What's for dinner?"', 
-      author: 'brooks.prevost', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/brooks-project-whats-for-dinner/5847568220471296/4815150021656576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/brooks-project-whats-for-dinner/5847568220471296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1926118185353147963604976'
-    }, 
-    {
-      title: 'Proyecto 1 fish', 
-      author: 'Yeison Lopez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-1-fish/5635461336055808/5781395156025344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-1-fish/5635461336055808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7057597398261722027112151'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loop-with-fish-tank/5189230306574336/5444300998754304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loop-with-fish-tank/5189230306574336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3326683614184688839852930'
     }, 
   ];
 };
