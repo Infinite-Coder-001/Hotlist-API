@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6675997417324544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6308314393919488.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Noah H.', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056/5347043636985856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056/5120706007580672.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
