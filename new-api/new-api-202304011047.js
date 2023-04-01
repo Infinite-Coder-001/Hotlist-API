@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 27, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet #AltumFTW', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5887054539177984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/4721081413058560.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
