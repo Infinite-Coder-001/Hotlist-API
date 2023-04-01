@@ -228,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 61, 
+      votes: 60, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
