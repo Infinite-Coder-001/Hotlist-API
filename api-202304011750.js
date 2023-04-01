@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
+      title: 'Pixel Gun 3D - FULL RELEASE', 
+      author: 'Phase ✝', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
@@ -127,13 +136,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Pixel Gun 3D - FULL RELEASE', 
-      author: 'Phase ✝', 
-      votes: 14, 
+      title: 'Fighters! Full release! (light and dark)', 
+      author: 'Jibanyanc', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/5419381086797824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6619965877960704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Fake Pistol Pg3d', 
@@ -199,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6619965877960704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'virtus homepage', 
       author: 'sugar ♡', 
       votes: 7, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'ski.js flaws', 
-      author: 'S. M. V.', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
   ];
 };
