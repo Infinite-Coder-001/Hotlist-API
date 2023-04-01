@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 40, 
+      votes: 39, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4583192402378752.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 29, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -94,7 +94,7 @@ var LoadHotlistAPI = function() {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
-      forks: 16, 
+      forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Pixel Gun 3D - FULL RELEASE', 
-      author: 'Phase ✝', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
       votes: 7, 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4627870791286784.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'Pixel Gun 3D - FULL RELEASE', 
+      author: 'Phase ✝', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Fake Pistol Pg3d', 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Heather', 
       author: 'LIL SHIVYA 🍧 Δ—Δ', 
       votes: 8, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
       link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'aresc97', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376/5751080437989376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341033307783954578881296'
-    }, 
-    {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
       votes: 92, 
@@ -422,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animation-guy-minecraft-skin/5413511074463744/6667932810919936.png', 
       link: 'https://www.khanacademy.org/computer-programming/animation-guy-minecraft-skin/5413511074463744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: '- Cartoon cat -', 
@@ -485,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648/5010808271847424.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime-v20/4757895330971648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'victordanielblandon', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4749816153554944/6507894377070592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4749816153554944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019931593897170957367576'
     }, 
     {
       title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
@@ -595,15 +568,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Spin-off of "Testing"', 
-      author: 'Noah H.', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056/5460730716667904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'Ninjack\'s letter (contest)', 
       author: 'ninjack', 
       votes: 3, 
@@ -656,24 +620,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
-    }, 
-    {
-      title: 'table', 
-      author: 'Com', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Spin-off of "Project: Memory++"', 
-      author: 'AH944863', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-memory/5791766193422336/6037739238899712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-memory/5791766193422336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5814742478645403149744537'
     }, 
     {
       title: 'Nice flowers', 
@@ -865,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'aresc97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376/5751080437989376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341033307783954578881296'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'mariianasotogomez47', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5796624908730368/6648494292254720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5796624908730368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4654336915791430617644956'
+    }, 
+    {
+      title: 'Bubble Tea Ad', 
+      author: 'DillPickleMaster', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bubble-tea-ad/6151893228503040/6054479645687808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bubble-tea-ad/6151893228503040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_79115848273881174879316'
+    }, 
+    {
+      title: 'Barakoa 1: The Grass Tribe', 
+      author: 'njgreenowl', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/barakoa-1-the-grass-tribe/5310551145365504/4539163409170432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/barakoa-1-the-grass-tribe/5310551145365504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
+    }, 
+    {
+      title: 'drag and drop algorithm', 
+      author: 'Paco van der Vliet', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/drag-and-drop-algorithm/6223484863954944/6338169080692736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/drag-and-drop-algorithm/6223484863954944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838352115978973475388107'
+    }, 
+    {
+      title: '"Uygulama: Bir şiir yaz" uyarlaması', 
+      author: 'sunkaralisir', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4719993712590848/5608932891738112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4719993712590848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_475184811700091940063268'
+    }, 
+    {
+      title: 'Khan royal battle 9.32', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160/5713745025482752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
   ];
 };
