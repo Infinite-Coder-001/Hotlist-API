@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 72, 
+      votes: 73, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'NithinP', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/5603508859748352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4695331716775936.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
