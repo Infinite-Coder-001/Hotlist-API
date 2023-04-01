@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 38, 
+      votes: 37, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4583192402378752.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4627870791286784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6741393235296256.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -275,7 +275,7 @@ var LoadHotlistAPI = function() {
       author: 'MostAwesomePerson', 
       votes: 13, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat-1/5239705559154688/6372120964939776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat-1/5239705559154688/6014596545822720.png', 
       link: 'https://www.khanacademy.org/computer-programming/nameless-cat-1/5239705559154688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
     }, 
@@ -820,24 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_79115848273881174879316'
     }, 
     {
-      title: 'Khan royal battle 9.32', 
-      author: 'crazy__codes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160/5713745025482752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
-      title: 'Spin-off of "Project: Make it rain"', 
-      author: 'tdwalu1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5792132540710912/4653368435064832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5792132540710912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_678542786634037599683739'
-    }, 
-    {
       title: '♢ LOGO CONTEST - ONGOING ♢', 
       author: '♢ Waves ♢', 
       votes: 13, 
@@ -845,15 +827,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896/6200920959664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-contest-ongoing/5477884992208896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'Projet dérivé de "Défi : I will succeed"', 
-      author: 'ruth.atse4', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-i-will-succeed/4950463503187968/4688697057656832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-i-will-succeed/4950463503187968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2126312783236068173293867'
     }, 
     {
       title: 'climbing dyno animation', 
@@ -874,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'New program', 
-      author: 'Zander, the Great', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4933623305519104/5380956396765184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4933623305519104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
-    }, 
-    {
       title: '"Project: Blog"', 
       author: 'Super Student', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984/5157476229234688.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_725255719424551057605142'
+    }, 
+    {
+      title: 'Khan royal battle', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-royal-battle/5747375290499072/4965683021791232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-royal-battle/5747375290499072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
+    }, 
+    {
+      title: 'Grass', 
+      author: 'Jaguar37Studios', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grass/4762616598937600/4637172818034688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grass/4762616598937600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341633893859921599661698'
+    }, 
+    {
+      title: 'idk', 
+      author: 'andreijavait', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/idk/5646680855986176/5319878237274112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/idk/5646680855986176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_255350902301266078332228'
+    }, 
+    {
+      title: 'move keys', 
+      author: 'Sean Byrne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-keys/4668397775536128/4814103064657920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-keys/4668397775536128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
     }, 
   ];
 };
