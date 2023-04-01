@@ -164,6 +164,15 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5167861896364032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'New program', 
       author: 'apex', 
       votes: 18, 
       forks: 0, 
@@ -869,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/5893550048067584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176/6729381780439040.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum-homepage/5478099195314176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816/6394706553782272.png', 
       link: 'https://www.khanacademy.org/computer-programming/proof-that-ksi-is-smart-oo/4880235385634816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'Abnormal', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/abnormal/5849444525588480/6022843587674112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/abnormal/5849444525588480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
   ];
 };
