@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 78, 
+      votes: 77, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6400302795505664.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'Funny Fractal', 
       author: 'Loaf', 
       votes: 19, 
@@ -199,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/5556728856100864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'New program', 
       author: 'apex', 
       votes: 20, 
@@ -226,13 +208,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
-      title: 'Watermelonz', 
-      author: 'Michael Weachock', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
+      title: 'QR code test', 
+      author: 'CodingChamp01 🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -244,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/4508963682172928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Team Virtus', 
       author: 'Deathly Hallows', 
       votes: 12, 
@@ -251,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
+      title: 'Watermelonz', 
+      author: 'Michael Weachock', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
       title: 'I ♡ Books', 
@@ -395,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
       link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'LES GO BOISSSS', 
-      author: 'AshDockTheCodeKing (Offline)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656/6013657927696384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5410924796153169259418763'
     }, 
     {
       title: 'Flashing lights', 
@@ -887,18 +878,27 @@ var LoadHotlistAPI = function() {
       author: 'rebeka.walicova', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ict-obchudek/5739317764079616/5556158615306240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ict-obchudek/5739317764079616', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ict-obchudek/5276292540055552/6197690800324608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ict-obchudek/5276292540055552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_158888980631328541180587'
     }, 
     {
-      title: 'ICT - obchudek', 
-      author: 'rebeka.walicova', 
+      title: 'Kawaii Cats', 
+      author: 'Katite', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ict-obchudek/6283349409972224/5341751062872064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ict-obchudek/6283349409972224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_158888980631328541180587'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kawaii-cats/6033066851352576/5170452030078976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kawaii-cats/6033066851352576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 'Coding Is The Best!!!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4779037869522944/5944318264393728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4779037869522944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
     }, 
   ];
 };
