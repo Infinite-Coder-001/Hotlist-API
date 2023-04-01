@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 36, 
+      votes: 35, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4906638495760384.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'messichez28', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'arinkarnik', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6687055884369920/6586723971940352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6687055884369920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577757852145376524677338'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5490134230548480/4658618529267712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5490134230548480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_515814009231890698404448'
     }, 
     {
-      title: 'Derivado de "Hacer animaciones"', 
-      author: 'eliaszamora2008chechita', 
+      title: 'continue if you want just add 8 when your doing the little dizine on the book', 
+      author: 'kiwikiki🥝', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5438771253526528/5771571861176320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/5438771253526528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673676564468749057090717'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/continue-if-you-want-just-add-8-when-your-doing-the-little-dizine-on-the-book/4730654995824640/5761672800419840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/continue-if-you-want-just-add-8-when-your-doing-the-little-dizine-on-the-book/4730654995824640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_534703522039535487909643'
     }, 
   ];
 };
