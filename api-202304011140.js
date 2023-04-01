@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 25, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 30, 
+      votes: 31, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4906638495760384.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
