@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_475346833406024805243341'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Magdalena Skowyra', 
+      title: 'Մարտահրավեր․ գրիր բանաստեղծություն-ի ճյուղավորում', 
+      author: 'Անի Բալդրյան', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4767393609203712/6209563700543488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4767393609203712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_993714017759741329472306'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6114813366550528/4505643471126528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/6114813366550528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
     }, 
   ];
 };
