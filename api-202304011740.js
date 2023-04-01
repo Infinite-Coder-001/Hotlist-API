@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 35, 
+      votes: 36, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4906638495760384.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4862749399367680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'New program', 
       author: 'apex', 
       votes: 20, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5437328991764480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4862749399367680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Watermelonz', 
