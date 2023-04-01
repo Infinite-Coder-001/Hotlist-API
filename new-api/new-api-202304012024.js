@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
+      title: 'table', 
+      author: 'Com', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'Nameless Cat (1)', 
       author: 'MostAwesomePerson', 
       votes: 13, 
@@ -379,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
+      title: 'The Outlier: Level 1', 
+      author: 'InvisibleCat123', 
+      votes: 24, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'Defenders Team Logo', 
       author: 'Orange Soda', 
       votes: 13, 
@@ -386,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5312230813122560.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'The Outlier: Level 1', 
-      author: 'InvisibleCat123', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
@@ -415,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
+      title: 'Primavera 2023 Team Data!', 
+      author: 'Polar', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/4791207843905536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
       title: 'Spin-off of "Testing"', 
       author: 'Noah H.', 
       votes: 3, 
@@ -431,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840/6441517704331264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9909201172302273259757851'
-    }, 
-    {
-      title: 'table', 
-      author: 'Com', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Testing', 
@@ -874,31 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'tadeodev97', 
+      title: 'Nathan Davis - House & Tree Functions', 
+      author: 'davisna2026', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6687077493424128/5757188619681792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6687077493424128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_255394737137230538873773'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nathan-davis-house-tree-functions/5382765148422144/4967909459017728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nathan-davis-house-tree-functions/5382765148422144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4263907639655806989044837'
     }, 
     {
-      title: 'Primavera 2023 Team Data!', 
-      author: 'Polar', 
+      title: 'Loop Fish Functions', 
+      author: 'Sophia Smith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/4749129839591424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
-    }, 
-    {
-      title: 'Spin-off of "A beginners guide to basketball"', 
-      author: 'Geoffrey Mah', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-a-beginners-guide-to-basketball/5452758586277888/5155227142766592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-a-beginners-guide-to-basketball/5452758586277888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_695798733972040318551597'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loop-fish-functions/5072599353966592/4568716475154432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loop-fish-functions/5072599353966592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8915653908275121539516353'
     }, 
   ];
 };
