@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/legind-of-zelda-not-april-fools-dfay-joke/5975677775167488/4517564521955328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/legind-of-zelda-not-april-fools-dfay-joke/5975677775167488/5548409789661184.png', 
       link: 'https://www.khanacademy.org/computer-programming/legind-of-zelda-not-april-fools-dfay-joke/5975677775167488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Cataclysmic Code 🌩‮', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/5918768577691648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688/4541470007934976.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5416700993650688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
