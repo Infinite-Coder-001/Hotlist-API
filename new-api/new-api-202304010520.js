@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'Loaf', 
       votes: 18, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5630193248288768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5926421940977664.png', 
       link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Velvet', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5997449526427648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
       title: 'For the Defenders logo contest', 
       author: 'Velvet Faith', 
       votes: 10, 
@@ -350,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
       link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Velvet', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5997449526427648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Primavera Avatars', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5164942123909120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5752960199213056.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 56, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5905284863410176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664/5139610851393536.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker/4830925310705664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
