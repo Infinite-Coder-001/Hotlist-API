@@ -784,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5814742478645403149744537'
     }, 
     {
+      title: 'star wars pixel art', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 41, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/4931482734084096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Nice flowers', 
       author: 'Mattomatic', 
       votes: 8, 
@@ -791,15 +800,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888/5727214118420480.png', 
       link: 'https://www.khanacademy.org/computer-programming/nice-flowers/6444838359973888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
-    }, 
-    {
-      title: 'star wars pixel art', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 40, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488/4931482734084096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/star-wars-pixel-art/4690241039679488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'JS PROJECT - Doggo Run ', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1130750204935731904659226'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
-      author: 'Mateusz Podgórski', 
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'Coding Is The Best!!!', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6668978467684352/5232153026936832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6668978467684352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_647069175117079621182370'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4817887996198912/4951305618767872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4817887996198912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
     }, 
     {
-      title: 'MINECRAFT 3D [FULL GAME]', 
-      author: 'ASBackup', 
+      title: 'Spin-off of "Coloring with code"', 
+      author: 'RUMIW', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-3d-full-game/5328854014279680/6729799197573120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minecraft-3d-full-game/5328854014279680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714780036830891967670231'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5909513560702976/5260320731086848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5909513560702976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7274089549307660658570811'
     }, 
   ];
 };
