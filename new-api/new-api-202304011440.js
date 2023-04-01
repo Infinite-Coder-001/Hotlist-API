@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 73, 
+      votes: 74, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Pixel Gun 3D - FULL RELEASE', 
+      author: 'Phase ✝', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 23, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Pixel Gun 3D - FULL RELEASE', 
-      author: 'Phase ✝', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'My homepage for Team Aequor', 
@@ -829,6 +829,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Team Virtus Homepage', 
+      author: 'Classic Kid', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus-homepage/6704094623612928/4889376887980032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-virtus-homepage/6704094623612928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
+    }, 
+    {
+      title: 'Spin-off of redo "Challenge: A picture-perfect trip"', 
+      author: 'MallamH', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984/5157476229234688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_725255719424551057605142'
+    }, 
+    {
+      title: '新程序', 
+      author: 'crazy__codes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5747375290499072/6040138984767488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5747375290499072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
+    }, 
+    {
+      title: 'Grass', 
+      author: 'Jaguar37Studios', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grass/4762616598937600/4637172818034688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grass/4762616598937600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341633893859921599661698'
+    }, 
+    {
+      title: 'idk', 
+      author: 'andreijavait', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/idk/5646680855986176/5319878237274112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/idk/5646680855986176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_255350902301266078332228'
+    }, 
+    {
+      title: 'move keys', 
+      author: 'Sean Byrne', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-keys/4668397775536128/4814103064657920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-keys/4668397775536128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_433333473049737106873907'
+    }, 
+    {
       title: '𝔻𝕚𝕤𝕔𝕠 ℂ𝕦𝕓𝕖', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 2, 
@@ -839,66 +893,12 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'dariusjavait', 
+      author: 'radujavait', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5668600053809152/5733490667864064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5668600053809152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_464996721107530137532105'
-    }, 
-    {
-      title: 'guy', 
-      author: 'yangja', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guy/4958254775189504/5123763554533376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/guy/4958254775189504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1143180880540814215882275'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'S. M. V.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4554296021794816/6458053127094272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4554296021794816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Jakub Olszewski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6621878279258112/6188342065807360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6621878279258112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1016329924268398276724450'
-    }, 
-    {
-      title: 'Sushi Maker 1.0', 
-      author: 'KyDeov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sushi-maker-10/5438619956592640/5676074471309312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sushi-maker-10/5438619956592640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1550999378753579722658451'
-    }, 
-    {
-      title: 'Mouse Game Template', 
-      author: 'njgreenowl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mouse-game-template/5830558673584128/6664211725074432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mouse-game-template/5830558673584128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1046556440147590438290274'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Julia Wawrzyszczuk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6077105634066432/6055092987150336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6077105634066432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2222111708262180443054853'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5764086270050304/5658426014482432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5764086270050304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_143544874372392454456998'
     }, 
   ];
 };
