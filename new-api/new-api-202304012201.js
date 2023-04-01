@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
-      title: 'Tutorials For All', 
-      author: '▪Dipper98▪', 
-      votes: 15, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/4617440328990720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'Pixel Gun 3D - FULL RELEASE', 
       author: 'Phase ✝', 
       votes: 15, 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672/5756718488535040.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Tutorials For All', 
+      author: '▪Dipper98▪', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/4617440328990720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'QR code test', 
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5443504039051264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/6475254856990720.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -865,24 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1106348626461908753703687'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Amulya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5301925894733824/4782841197281280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5301925894733824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_894600661739635362978212'
-    }, 
-    {
-      title: 'BikeTest', 
-      author: 'QuasarBlast', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/biketest/5982106493960192/5138721189183488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/biketest/5982106493960192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
-    }, 
-    {
       title: 'Karlson? Get it before it\'s gone!', 
       author: 'The Tech Guy 💻', 
       votes: 2, 
@@ -892,13 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'estherhf020218', 
+      title: 'WARNING: Flashes', 
+      author: 'KennethB', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/warning-flashes/6388559482503168/5024279193501696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/warning-flashes/6388559482503168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1130750204935731904659226'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'Coding Is The Best!!!', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4715859773014016/6558536705556480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4715859773014016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593340519648958909026656'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4817887996198912/4951305618767872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4817887996198912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
+    }, 
+    {
+      title: 'Spin-off of "Coloring with code"', 
+      author: 'RUMIW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5909513560702976/5260320731086848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5909513560702976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7274089549307660658570811'
     }, 
   ];
 };
