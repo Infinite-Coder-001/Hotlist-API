@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 32, 
+      votes: 33, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 31, 
+      votes: 32, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4906638495760384.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
