@@ -381,7 +381,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
-      votes: 91, 
+      votes: 92, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800/5330487183982592.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-avatars/5093278958796800', 
