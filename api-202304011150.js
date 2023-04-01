@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 25, 
+      votes: 26, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Fake Pistol Pg3d', 
+      author: 'Phase ✝', 
+      votes: 23, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Rotating Hyperboloid (3d shape)', 
       author: 'Loaf', 
       votes: 18, 
@@ -133,15 +142,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase ✝', 
-      votes: 22, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
