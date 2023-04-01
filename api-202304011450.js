@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 73, 
+      votes: 74, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Pixel Gun 3D - FULL RELEASE', 
+      author: 'Phase ✝', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 23, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Pixel Gun 3D - FULL RELEASE', 
-      author: 'Phase ✝', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'My homepage for Team Aequor', 
