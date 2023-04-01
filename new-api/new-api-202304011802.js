@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 29, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -98,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'Fighters! Full release! (light and dark)', 
+      author: 'Jibanyanc', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/4697408291520512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'Pixel Gun 3D - FULL RELEASE', 
@@ -136,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Fighters! Full release! (light and dark)', 
-      author: 'Jibanyanc', 
+      title: 'QR code test', 
+      author: 'CodingChamp01 🔴', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/4697408291520512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Football [GAME]', 
@@ -172,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4862749399367680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'New Aries Graphic', 
       author: 'Wort-Head Productions😐', 
       votes: 11, 
@@ -179,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Funny Fractal', 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
       link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4862749399367680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'New program', 
@@ -305,6 +305,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'LES GO BOISSSS', 
+      author: 'AshDockTheCodeKing (Offline)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656/6013657927696384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5410924796153169259418763'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -413,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
       link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'LES GO BOISSSS', 
-      author: 'AshDockTheCodeKing (Offline)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656/6013657927696384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/les-go-boissss/6385323459526656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5410924796153169259418763'
     }, 
     {
       title: 'Flashing lights', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: '212107322', 
+      title: 'My Favorite Foods', 
+      author: 'BlueSean1371', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5278926462304256/6126007158620160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5278926462304256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_64984546267006040534352'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/6648003357360128/6622729588752384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-favorite-foods/6648003357360128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_356571459760133809705181'
     }, 
   ];
 };
