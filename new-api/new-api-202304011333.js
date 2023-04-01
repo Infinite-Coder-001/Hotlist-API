@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 28, 
+      votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Heather', 
-      author: 'LIL SHIVYA 🍧 Δ—Δ', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
       title: 'Funny Fractal', 
       author: 'Loaf', 
       votes: 18, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Heather', 
+      author: 'LIL SHIVYA 🍧 Δ—Δ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'For the Defenders logo contest', 
-      author: 'Velvet Faith', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
       title: 'New webpage', 
       author: 'Velvet #AltumFTW', 
       votes: 6, 
@@ -341,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5008871837188096.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'For the Defenders logo contest', 
+      author: 'Velvet Faith', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'No more fake jordans', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: 'Kółko i Krzyżyk', 
-      author: 'Maks Strzelecki', 
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Oliwia Szeląg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kko-i-krzyyk/6743911789019136/6557114937163776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kko-i-krzyyk/6743911789019136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9630996938109225367006220'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5651998704975872/6001715804684288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5651998704975872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5347396283317940263034534'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Julia Wawrzyszczuk', 
+      author: 'Karolina Szemiel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5136159232802816/5145683289227264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5136159232802816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2222111708262180443054853'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6012349858496512/6568707590766592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6012349858496512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5193498491110153573031739'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Zuzanna Sopiarz', 
-      votes: 1, 
+      title: 'Ataraxy', 
+      author: 'The No-Sock Guy', 
+      votes: 36, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6132720226058240/5064413079191552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6132720226058240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5117298726026327610514153'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952/6635064978096128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ataraxy/6728204766461952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
   ];
 };
