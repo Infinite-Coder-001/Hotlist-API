@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KA\'s Avatars [vertex() only]', 
       author: 'ChickCoder', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
       link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'Heather', 
+      author: 'LIL SHIVYA 🍧 Δ—Δ', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
+    }, 
+    {
       title: 'Watermelonz', 
       author: 'Michael Weachock', 
       votes: 14, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096/6134318700478464.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-books/4635700416004096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'Heather', 
-      author: 'LIL SHIVYA 🍧 Δ—Δ', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
       title: 'Nameless Cat (1)', 
