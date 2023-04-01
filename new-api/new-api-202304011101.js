@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet #AltumFTW', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5738050178301952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/4720918573400064.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
