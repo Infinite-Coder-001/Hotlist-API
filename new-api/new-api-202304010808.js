@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/6225170235965440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5997449526427648.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
@@ -433,15 +433,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
-      author: 'HB_the_Pencil (Caela)', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6134695944568832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
-    }, 
-    {
       title: 'Crab on a beach', 
       author: 'sanjay.ramnauth', 
       votes: 31, 
@@ -476,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200/5873161871867904.png', 
       link: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
+    }, 
+    {
+      title: 'Interactive Sketchbook! (WCC 2023 No I in Team Part 3)', 
+      author: 'HB_the_Pencil (Caela)', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6134695944568832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'organized chaos background for platformer', 
