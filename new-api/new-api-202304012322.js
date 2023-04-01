@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 14, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
@@ -163,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'New Aries Graphic', 
       author: 'Wort-Head Productions😐', 
       votes: 13, 
@@ -190,9 +181,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
-      votes: 24, 
+      votes: 23, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
@@ -305,15 +305,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
       link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5795875504046080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
       title: 'Team Virtus', 
@@ -460,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
+      title: 'Free Form Tower Defense', 
+      author: 'Larry Serflaten', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5795875504046080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
       title: 'For the Defenders logo contest', 
       author: 'Velvet Faith', 
       votes: 11, 
@@ -521,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/4939838223859712.png', 
       link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'JS PROJECT - Doggo Run ', 
-      author: 'Laasya :)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/5297809663508480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
       title: 'customizable (and working) button function cuz i\'m bored :P', 
@@ -670,7 +661,7 @@ var LoadHotlistAPI = function() {
       title: 'Folgers Coffee', 
       author: 'Kiovo', 
       votes: 3, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200/5873161871867904.png', 
       link: 'https://www.khanacademy.org/computer-programming/folgers-coffee/6178292345651200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
@@ -820,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
     }, 
     {
+      title: 'JS PROJECT - Doggo Run ', 
+      author: 'Laasya :)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/5297809663508480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
       title: 'circle drawing algorithm', 
       author: 'Archbirdplus', 
       votes: 4, 
@@ -847,33 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_97719499954127829985670'
     }, 
     {
-      title: 'Tic_Tac_Toe', 
-      author: 'sofia_sierra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic_tac_toe/6745116158246912/6101931820105728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic_tac_toe/6745116158246912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_543199124353016358630392'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'Bob Lyon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5060567573512192/5924891623997440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5060567573512192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Brandon Guerrero', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4508695229939712/4759147121000448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4508695229939712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6733122503055217740288963'
-    }, 
-    {
       title: 'Special', 
       author: 'Dojo Cat', 
       votes: 3, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384/4911470510129152.png', 
       link: 'https://www.khanacademy.org/computer-programming/labyrin-game/5405858189328384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Angela', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4810649164365824/5296762287079424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4810649164365824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_506597832261624889160522'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Josline Dennis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636344668635136/6256700530409472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636344668635136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6020695405607405686241'
+    }, 
+    {
+      title: 'The UN-Magical 8-Ball', 
+      author: 'Sumayyah Soofi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-un-magical-8-ball/4628828166340608/5243137137360896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-un-magical-8-ball/4628828166340608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485722498966916711203722'
     }, 
   ];
 };
