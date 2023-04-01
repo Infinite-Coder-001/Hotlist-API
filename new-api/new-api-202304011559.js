@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 74, 
+      votes: 76, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'Funny Fractal', 
+      author: 'Loaf', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5630193248288768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 39, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
       link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
-      title: 'Funny Fractal', 
-      author: 'Loaf', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240/5630193248288768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/funny-fractal/6399947722506240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
       title: 'New program', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'g', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264/5254811563114496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454597122686642457572137'
+    }, 
+    {
       title: '- Cartoon cat -', 
       author: 'Xiøn😋🤩', 
       votes: 31, 
@@ -449,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/6448646788005888.png', 
       link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'wip', 
+      author: 'LightningCoder', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5483740869738496/5892267991941120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -509,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/4821756092399616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5943562752802816.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -685,15 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'g', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264/5254811563114496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6319032493195264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_454597122686642457572137'
-    }, 
-    {
       title: 'star wars pixel art', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 40, 
@@ -829,6 +838,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_562429632421250047779104'
     }, 
     {
+      title: 'Infinity Clicker', 
+      author: 'ThriftyPiano', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-clicker/4991161002672128/5882315755798528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinity-clicker/4991161002672128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_612170788949678741616671'
+    }, 
+    {
       title: 'PG3D Prototype', 
       author: 'Phase ✝', 
       votes: 23, 
@@ -865,40 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'mariianasotogomez47', 
+      title: 'Spin-off of "Making drawings with code" bmy butifful faCE', 
+      author: 'H 0', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5572318203265024/6036522429366272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5572318203265024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_591704012582280137337647'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code-bmy-butifful-face/5679488030785536/6141620606255104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code-bmy-butifful-face/5679488030785536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1173692423838637423229858'
     }, 
     {
-      title: 'Spin-off of "Challenge: Favorite Fruits"', 
-      author: 'Coding Is The Best!!!', 
+      title: 'Rect and line function', 
+      author: 'sara2006marques', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5555492224286720/6169730798108672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5555492224286720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Emily Heppner', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6085657048170496/4788195108896768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6085657048170496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5092617827010801371265672'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Leon P', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5796624908730368/6648494292254720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5796624908730368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4654336915791430617644956'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rect-and-line-function/4987048437268480/5364661861269504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rect-and-line-function/4987048437268480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1475369157761908561741372'
     }, 
   ];
 };
