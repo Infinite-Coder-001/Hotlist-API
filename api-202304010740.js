@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: '🗿', 
       author: 'mr. mustache', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'Origami Game (Folds)', 
+      author: 'Trevor Hoffman', 
+      votes: 48, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
+    }, 
+    {
       title: 'Team Virtus', 
       author: 'Deathly Hallows', 
       votes: 12, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 47, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
       title: 'Watermelonz', 
