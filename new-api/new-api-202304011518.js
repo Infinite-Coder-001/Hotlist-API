@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 39, 
-      forks: 4, 
+      votes: 38, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4583192402378752.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Into the Forest', 
       author: 'Reflex', 
-      votes: 32, 
+      votes: 31, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
@@ -388,15 +388,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'blobby!!!!!!!!!', 
-      author: 'LovelyPetals', 
-      votes: 37, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Virtus Homepage', 
       author: 'Classic Kid', 
       votes: 2, 
@@ -413,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animation-guy-minecraft-skin/5413511074463744/6667932810919936.png', 
       link: 'https://www.khanacademy.org/computer-programming/animation-guy-minecraft-skin/5413511074463744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'blobby!!!!!!!!!', 
+      author: 'LovelyPetals', 
+      votes: 36, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: '- Cartoon cat -', 
@@ -482,7 +482,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/4821756092399616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5417713028874240.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -820,24 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_79115848273881174879316'
     }, 
     {
-      title: 'drag and drop algorithm', 
-      author: 'Paco van der Vliet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/drag-and-drop-algorithm/6223484863954944/6338169080692736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drag-and-drop-algorithm/6223484863954944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838352115978973475388107'
-    }, 
-    {
-      title: '"Uygulama: Bir şiir yaz" uyarlaması', 
-      author: 'sunkaralisir', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4719993712590848/5608932891738112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4719993712590848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_475184811700091940063268'
-    }, 
-    {
       title: 'Khan royal battle 9.32', 
       author: 'crazy__codes', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4933623305519104/5380956396765184.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4933623305519104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
+    }, 
+    {
+      title: '"Project: Blog"', 
+      author: 'Super Student', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-blog/5739384067637248/6185191304642560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-blog/5739384067637248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_504189230123785308866214'
+    }, 
+    {
+      title: 'Spin-off of redo "Challenge: A picture-perfect trip"', 
+      author: 'MallamH', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984/5157476229234688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-redo-challenge-a-picture-perfect-trip/6212129876393984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_725255719424551057605142'
     }, 
   ];
 };
