@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 40, 
+      votes: 41, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/4583192402378752.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 76, 
+      votes: 77, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KA\'s Avatars [vertex() only]', 
       author: 'ChickCoder', 
-      votes: 27, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
       link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 34, 
+      votes: 35, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'Team Magus 🐴 [Primavera 2023]', 
+      author: '21262', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5180335655796736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
@@ -127,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Team Magus 🐴 [Primavera 2023]', 
-      author: '21262', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4627870791286784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 23, 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
+      title: 'New Aries Graphic', 
+      author: 'Wort-Head Productions😐', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 39, 
@@ -184,19 +193,10 @@ var LoadHotlistAPI = function() {
       title: 'New program', 
       author: 'apex', 
       votes: 20, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560/5437328991764480.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5261174599106560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'New Aries Graphic', 
-      author: 'Wort-Head Productions😐', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'virtus homepage', 
@@ -206,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
+      title: 'QR code test', 
+      author: 'CodingChamp01 🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -244,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
+      title: 'ski.js flaws', 
+      author: 'S. M. V.', 
+      votes: 30, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
       title: 'Team Aequor Hompage - Primavera 2023', 
       author: 'Samurai Warrior ✝', 
       votes: 6, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792/4868571227537408.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'ski.js flaws', 
-      author: 'S. M. V.', 
-      votes: 29, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928/5659968511721472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skijs-flaws/4727953536892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'Is it PRIME???', 
-      author: 'InvisibleCat123', 
-      votes: 62, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
   ];
 };
