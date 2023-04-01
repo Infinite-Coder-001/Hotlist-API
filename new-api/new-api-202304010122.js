@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 72, 
+      votes: 71, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'KA\'s Avatars [vertex() only]', 
       author: 'ChickCoder', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
       link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 21, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -192,7 +192,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
-      votes: 45, 
+      votes: 44, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
       link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
