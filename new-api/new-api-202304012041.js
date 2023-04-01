@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
+      title: 'Team Magus 🐴 [Primavera 2023]', 
+      author: '21262', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
       votes: 36, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4906638495760384.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
-      title: 'Team Magus 🐴 [Primavera 2023]', 
-      author: '21262', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: 'friends sometimes...', 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Football [GAME]', 
       author: 'LightningCoder', 
       votes: 6, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/4724053975023616.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
+      author: 'The Ember Society #OpesFTW', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/4530435867852800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
       title: 'Nameless Cat (1)', 
       author: 'MostAwesomePerson', 
       votes: 13, 
@@ -413,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960/5312230813122560.png', 
       link: 'https://www.khanacademy.org/computer-programming/defenders-team-logo/6273957876776960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
-      author: 'The Ember Society #OpesFTW', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/4530435867852800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'For the Defenders logo contest', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'son.matthewx', 
+      title: 'Alakazam', 
+      author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5621749174812672/6454504813019136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5621749174812672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_858325920250575044501898'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/alakazam/5431698960728064/4949054149935104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/alakazam/5431698960728064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'agnez friberg', 
+      title: 'Brooks\' "Project: What's for dinner?"', 
+      author: 'brooks.prevost', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6367317580890112/4815772372484096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6367317580890112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7594129918194495206382466'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/brooks-project-whats-for-dinner/5847568220471296/4815150021656576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/brooks-project-whats-for-dinner/5847568220471296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1926118185353147963604976'
     }, 
     {
-      title: 'Jaylen Nyatwori Spin-off of "Challenge: Wishlist"', 
-      author: 'Jaylen Nyatwori', 
+      title: 'Proyecto 1 fish', 
+      author: 'Yeison Lopez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jaylen-nyatwori-spin-off-of-challenge-wishlist/4824015941451776/6280506292617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jaylen-nyatwori-spin-off-of-challenge-wishlist/4824015941451776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_214970472515090092226530'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-1-fish/5635461336055808/5781395156025344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-1-fish/5635461336055808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7057597398261722027112151'
     }, 
   ];
 };
