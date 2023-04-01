@@ -433,15 +433,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_751030309628735436104959'
     }, 
     {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 32, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
-    }, 
-    {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 16, 
@@ -467,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664/6134695944568832.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-sketchbook-wcc-2023-no-i-in-team-part-3/4944448342769664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
+      title: 'Crab on a beach', 
+      author: 'sanjay.ramnauth', 
+      votes: 31, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
       title: 'Altum', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Martyna Drab', 
-      votes: 1, 
+      title: 'do not  touch ohnoes 2', 
+      author: 'LovelyPetals', 
+      votes: 16, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6397877749596160/4728322191048704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6397877749596160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5538410251266621802099885'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408/4878071737139200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/do-not-touch-ohnoes-2/6232601879953408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Julia  Rusin', 
+      title: 'Derivação de "Desafio: mouse maluco"', 
+      author: 'Leto', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6635119596322816/5389916268969984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6635119596322816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9429941256979398358233151'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-mouse-maluco/4868456202944512/5830146331557888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-mouse-maluco/4868456202944512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1045179403602843886642439'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Julia Salikov', 
+      title: 'Մարտահրավեր․ ճանապարհորդություն նկարների մեջ-ի ճյուղավորում', 
+      author: 'Անի Բալդրյան', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5589948968517632/6650966549250048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5589948968517632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_699021263220744856471702'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6606831473704960/5092295000244224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/6606831473704960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Magdalena Skowyra', 
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Kacper Woźniak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6463435467702272/5664020142276608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6463435467702272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_993714017759741329472306'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4837286417317888/6033366827974656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4837286417317888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_26739697426997736157344'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Oliwia Szeląg', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Feliz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6294436549279744/5769449350414336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/6294436549279744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5347396283317940263034534'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5438013527343104/6547197320806400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5438013527343104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8469046531531919932823765'
     }, 
   ];
 };
