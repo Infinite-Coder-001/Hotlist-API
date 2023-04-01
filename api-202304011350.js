@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 48, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792/4868571227537408.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Is it PRIME???', 
