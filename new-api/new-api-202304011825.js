@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/5947076447092736.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Volcanic Escape 2 GAME', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 31, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
       votes: 8, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/4697408291520512.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
-      title: 'Volcanic Escape 2 GAME', 
-      author: 'Titus Payton(Offline-ish)', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/4699510577348608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6619965877960704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6308314393919488.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -237,11 +237,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Watermelonz', 
       author: 'Michael Weachock', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
       link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
+    }, 
+    {
+      title: 'Virtus Homepage', 
+      author: 'Classic Kid', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6368572449538048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
       title: 'Origami Game (Folds)', 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160/5713745025482752.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-royal-battle-932/6068893321052160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
-      title: 'Virtus Homepage', 
-      author: 'Classic Kid', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6368572449538048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
       title: 'Nameless Cat (1)', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Testing', 
+      author: 'Noah H.', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/6448646788005888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Kawaii Cats', 
       author: 'Katite', 
       votes: 2, 
@@ -532,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Testing', 
-      author: 'Noah H.', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648/6448646788005888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/testing/5840725163163648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'josephephraim.dumapis', 
       votes: 4, 
@@ -590,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5671205689671680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5187779706535936.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -766,6 +766,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'JS PROJECT - Doggo Run ', 
+      author: 'Laasya :)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/5297809663508480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
       title: 'circle drawing algorithm', 
       author: 'Archbirdplus', 
       votes: 4, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ball-game/4817695192432640/6393691632877568.png', 
       link: 'https://www.khanacademy.org/computer-programming/ball-game/4817695192432640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_562429632421250047779104'
-    }, 
-    {
-      title: 'Infinity Clicker', 
-      author: 'ThriftyPiano', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity-clicker/4991161002672128/5882315755798528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/infinity-clicker/4991161002672128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_612170788949678741616671'
     }, 
   ];
 };
