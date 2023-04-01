@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
       votes: 71, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
@@ -335,7 +335,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'customizable (and working) button function cuz i\'m bored :P', 
-      author: 'vw_beetlesultimategreatness', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6634954911170560.png', 
@@ -404,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
+    }, 
+    {
+      title: 'Altum', 
+      author: 'Fire Wolf #Altum', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5530166815408128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
       title: 'Heather', 
@@ -476,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-here-the-links-at-the-top/5262573911195648/6211228772122624.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-here-the-links-at-the-top/5262573911195648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
-      title: 'Altum', 
-      author: 'Fire Wolf #Altum', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/5530166815408128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
     {
       title: 'ŁĄŻĒŖŴŌŁF #AltumFTW Minecraft Skin', 
