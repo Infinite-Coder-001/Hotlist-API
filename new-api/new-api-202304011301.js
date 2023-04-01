@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
       votes: 62, 
@@ -314,6 +305,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_475346833406024805243341'
     }, 
     {
-      title: 'Մարտահրավեր․ գրիր բանաստեղծություն-ի ճյուղավորում', 
-      author: 'Անի Բալդրյան', 
-      votes: 1, 
+      title: 'New program', 
+      author: 'BananaDroid', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6114813366550528/4505643471126528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/6114813366550528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040/4911772734898176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4774458629079040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114806436770110145526410'
     }, 
   ];
 };
