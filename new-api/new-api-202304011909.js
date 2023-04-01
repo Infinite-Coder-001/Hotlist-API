@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 30, 
+      votes: 31, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/5121549507280896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/5950354018844672.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987560906344880926681555'
     }, 
     {
-      title: 'all about lapis (lazuli).', 
-      author: 'bharathnayak', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'k78arefeh', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/all-about-lapis-lazuli/4535300002201600/6721486087045120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/all-about-lapis-lazuli/4535300002201600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_981475202541749376646491'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5235812573954048/4611510925312000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5235812573954048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3037963376741778450990604'
     }, 
     {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'dantemendieta28', 
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'Dubstepper', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/6181947731918848/6353165663649792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/6181947731918848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_491451918909207812125484'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5153338967769088/4939446006104064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5153338967769088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_843099984950061236049660'
     }, 
   ];
 };
