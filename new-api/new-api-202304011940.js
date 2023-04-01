@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Jibanyanc', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6238436886626304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
@@ -404,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
+      title: 'Dragon Adventure 2 0_0', 
+      author: 'Jibanyanc', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'Spin-off of "Testing"', 
@@ -865,40 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: '"Kod ile daha fazla şekil çizme" uyarlaması', 
-      author: 'fatma cagla capar', 
+      title: 'Catcher', 
+      author: 'supertyper', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kod-ile-daha-fazla-ekil-izme-uyarlamas/5653324868403200/4506955415863296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kod-ile-daha-fazla-ekil-izme-uyarlamas/5653324868403200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4976124385288955651788496'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/catcher/6422661455724544/5509875879952384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/catcher/6422661455724544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457220835531690247558177'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'watts913', 
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'carlos.valenzp', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6505562654425088/5469938925223936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6505562654425088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1148814343499586749805094'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4944672528318464/4746462455185408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/4944672528318464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_609072822976735709665253'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'evy.joy.roberts', 
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'Omar', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5461551189639168/5931936980975616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5461551189639168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_984181902948602799403723'
-    }, 
-    {
-      title: 'Մարտահրավեր․ գունավոր արարած-ի ճյուղավորում', 
-      author: 'Անի Բալդրյան', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4843380313210880/5884768307953664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4843380313210880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6484301417070592/4833740250726400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6484301417070592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_805813807583838473444702'
     }, 
   ];
 };
