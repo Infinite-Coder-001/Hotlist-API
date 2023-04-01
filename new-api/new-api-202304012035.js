@@ -3,29 +3,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 43, 
+      votes: 44, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'im literally so good at naming variables...', 
-      author: 'marci', 
-      votes: 80, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 32, 
+      votes: 34, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'im literally so good at naming variables...', 
+      author: 'marci', 
+      votes: 81, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
       title: 'KA\'s Avatars [vertex() only]', 
@@ -316,9 +316,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
     }, 
     {
+      title: 'New program', 
+      author: 'Karthik King', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840/6441517704331264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9909201172302273259757851'
+    }, 
+    {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
-      votes: 62, 
+      votes: 63, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
@@ -440,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056/5865904778035200.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-testing/5027193563693056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Karthik King', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840/6441517704331264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6103493896355840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9909201172302273259757851'
     }, 
     {
       title: 'Testing', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Rotating 3D Shape', 
-      author: 'Loaf', 
-      votes: 18, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352/5207309895909376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-3d-shape/5317004342116352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Nathan Davis - House & Tree Functions', 
-      author: 'davisna2026', 
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'son.matthewx', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nathan-davis-house-tree-functions/5382765148422144/4967909459017728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nathan-davis-house-tree-functions/5382765148422144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4263907639655806989044837'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5621749174812672/6454504813019136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5621749174812672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_858325920250575044501898'
     }, 
     {
-      title: 'Loop Fish Functions', 
-      author: 'Sophia Smith', 
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'agnez friberg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loop-fish-functions/5072599353966592/4568716475154432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loop-fish-functions/5072599353966592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8915653908275121539516353'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6367317580890112/4815772372484096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6367317580890112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7594129918194495206382466'
+    }, 
+    {
+      title: 'Jaylen Nyatwori Spin-off of "Challenge: Wishlist"', 
+      author: 'Jaylen Nyatwori', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jaylen-nyatwori-spin-off-of-challenge-wishlist/4824015941451776/6280506292617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jaylen-nyatwori-spin-off-of-challenge-wishlist/4824015941451776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_214970472515090092226530'
     }, 
   ];
 };
