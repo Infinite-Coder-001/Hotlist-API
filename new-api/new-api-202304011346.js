@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 48, 
@@ -244,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/4796066987032576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
       title: 'Is it PRIME???', 
       author: 'InvisibleCat123', 
       votes: 62, 
@@ -287,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Velvet #AltumFTW', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5008871837188096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'No-Name-Snek :) | WCC', 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616/5958466834579456.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-defenders-logo-contest/5470139916271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'Velvet #AltumFTW', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5008871837188096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'No more fake jordans', 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Subpage Contest for JLE (pls enter!)', 
-      author: 'JLE', 
-      votes: 16, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232/5561393484185600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-contest-for-jle-pls-enter/5197099550687232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
-    }, 
-    {
-      title: 'Kółko i Krzyżyk', 
-      author: 'Maks Strzelecki', 
+      title: 'Derivação de "Desafio: mouse maluco"', 
+      author: 'Leto', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kko-i-krzyyk/6743911789019136/6557114937163776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kko-i-krzyyk/6743911789019136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9630996938109225367006220'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-mouse-maluco/4868456202944512/5830146331557888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-mouse-maluco/4868456202944512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1045179403602843886642439'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Julia Wawrzyszczuk', 
+      title: 'Մարտահրավեր․ ճանապարհորդություն նկարների մեջ-ի ճյուղավորում', 
+      author: 'Անի Բալդրյան', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5136159232802816/5145683289227264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5136159232802816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2222111708262180443054853'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6606831473704960/5092295000244224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/6606831473704960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Zuzanna Sopiarz', 
+      author: 'Kacper Woźniak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6132720226058240/5064413079191552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/6132720226058240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5117298726026327610514153'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4837286417317888/6033366827974656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4837286417317888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_26739697426997736157344'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Feliz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5438013527343104/6547197320806400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5438013527343104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8469046531531919932823765'
     }, 
   ];
 };
