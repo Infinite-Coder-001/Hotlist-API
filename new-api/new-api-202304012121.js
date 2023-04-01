@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1130750204935731904659226'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Chidera Alinnor', 
+      title: 'Boooom!!!!', 
+      author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5814169481035776/4944763746041856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5814169481035776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_402334123685619012449269'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boooom/6267796209319936/5556495132704768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boooom/6267796209319936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'Kaleb Howell', 
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'kamil talko', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6683998236753920/6485389989953536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6683998236753920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718902604833382359496915'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5935479691460608/6094812752429056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5935479691460608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247790543657725569223497'
     }, 
   ];
 };
