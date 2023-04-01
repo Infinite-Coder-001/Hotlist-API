@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
     }, 
     {
-      title: '"Kod ile daha fazla şekil çizme" uyarlaması', 
-      author: 'fatma cagla capar', 
+      title: 'Spin-off of "Challenge: Wishlist"Gonzalo Vargas Zuñiga', 
+      author: 'gonzalo.vargaszuniga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kod-ile-daha-fazla-ekil-izme-uyarlamas/5653324868403200/4506955415863296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kod-ile-daha-fazla-ekil-izme-uyarlamas/5653324868403200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4976124385288955651788496'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlistgonzalo-vargas-zuiga/4641350982352896/5773366452862976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlistgonzalo-vargas-zuiga/4641350982352896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1113249454868299510912124'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'watts913', 
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'polekate68', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6505562654425088/5469938925223936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6505562654425088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1148814343499586749805094'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4963709081665536/5958665434873856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4963709081665536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_156389735119623429750754'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'evy.joy.roberts', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'codeMaster', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5461551189639168/5931936980975616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5461551189639168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_984181902948602799403723'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6466865561124864/5190383329132544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6466865561124864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
-      title: 'Մարտահրավեր․ գունավոր արարած-ի ճյուղավորում', 
-      author: 'Անի Բալդրյան', 
-      votes: 1, 
+      title: 'poop doo', 
+      author: 'KHAN BOI', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4843380313210880/5884768307953664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4843380313210880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/poop-doo/5976329125412864/5265971532316672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/poop-doo/5976329125412864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
   ];
 };
