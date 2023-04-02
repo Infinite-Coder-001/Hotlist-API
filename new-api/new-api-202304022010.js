@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: 'Primavera 2023 Team Data!', 
       author: 'Polar', 
       votes: 12, 
@@ -118,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
+      title: 'Dad\'s Periodic Table with Data in println', 
+      author: 'bob.engwicht', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
       title: 'flamin\' pancake's subpage', 
       author: 'flamin\' pancakes', 
       votes: 5, 
@@ -143,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Dad\'s Periodic Table with Data in println', 
-      author: 'bob.engwicht', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
       title: 'Volcanic Escape 2 GAME', 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
       link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: 'My gratitude to KA for their excellent videos', 
@@ -302,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'Classic Kid', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/4684665693978624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6094667218468864.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
@@ -383,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792/5678692824301568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792/5131586476752896.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-aequor-hompage-primavera-2023/5419320655265792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
@@ -478,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'table', 
+      author: 'Com', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/6395286072377344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'Spin-off of "The Force Ad"', 
       author: '✧ℕ𝕠𝕧𝕒✧ {offline}', 
       votes: 2, 
@@ -521,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6171740071051264.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'table', 
-      author: 'Com', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/6395286072377344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'New webpage', 
@@ -624,7 +624,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023', 
       author: 'Astro', 
-      votes: 113, 
+      votes: 114, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128/4733163063787520.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023/5528901184176128', 
@@ -692,6 +692,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4992567336026112/5172865935917056.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4992567336026112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1066819179610607291696079'
+    }, 
+    {
+      title: 'Derivado de "Desafío: ilusión óptica"', 
+      author: 'matias.treimun', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5782454008070144/6300606336909312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ilusin-ptica/5782454008070144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_360478241676960405848815'
+    }, 
+    {
+      title: 'Lab 6', 
+      author: 'Sarah Wolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6/5390899279609856/5672861835771904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-6/5390899279609856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6035790550006849579704113'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'luke hemmings', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5618444801458176/5557009639587840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5618444801458176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_23427197287259957871687'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Richard Yang', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4526432924778496/5536398544519168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4526432924778496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7876727534216150223599141'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Richard Yang', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6310634045358080/4714835725303808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6310634045358080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7876727534216150223599141'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Michelle.Mohabir1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6278619233304576/5921643689197568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6278619233304576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_131173332537945017669721'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'maripd', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5870435976921088/5354716596060160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5870435976921088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_390755896956450466908922'
     }, 
     {
       title: 'Spin-off of "Project: App impersonator"', 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5949486720663552/6313495567319040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5949486720663552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_257499808214746998782400'
-    }, 
-    {
-      title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
-      author: 'João Pedro Braga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4870914383855616/6329404126183424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4870914383855616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_741448694925731275501268'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Classes of elements"', 
-      author: 'messichez28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-classes-of-elements/6740289252540416/5711778534440960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-classes-of-elements/6740289252540416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577757852145376524677338'
-    }, 
-    {
-      title: 'Sunset BLUTOWHITE', 
-      author: 'TrinityR', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunset-blutowhite/4508858354810880/5003785119514624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunset-blutowhite/4508858354810880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8902289808929575794168644'
-    }, 
-    {
-      title: ' "Défi : écrire un poème"', 
-      author: 'obedmundele12', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dfi-crire-un-pome/5714304310755328/4894809887391744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dfi-crire-un-pome/5714304310755328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_474667091860334614323640'
-    }, 
-    {
-      title: 'Lab Lesson #6 - Falling Stars', 
-      author: 'Cinthia Cuevas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-6-falling-stars/6727403344019456/5511373783351296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-6-falling-stars/6727403344019456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4595924575583579881017140'
-    }, 
-    {
-      title: 'Parabox Wip', 
-      author: 'Pixel GP ✝', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/parabox-wip/6305012839137280/6277215273926656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/parabox-wip/6305012839137280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1186600655527645004712210'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Fiona Froelich', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4997649960058880/4947214662418432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4997649960058880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1181577025463351520296218'
     }, 
   ];
 };
