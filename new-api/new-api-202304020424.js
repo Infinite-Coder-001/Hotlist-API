@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4820852396048384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4838868609449984.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -224,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
       link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6382145418608640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Rotating Hyperboloid (3d shape)', 
@@ -476,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016/6430286507458560.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-outlier-level-1/5206183347798016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6382145418608640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Defenders Team Logo', 
@@ -775,6 +775,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'Elah Jiménez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/6536220760129536/4944063431491584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/6536220760129536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
+    }, 
+    {
+      title: ' my own pixel art character', 
+      author: 'Xiøn😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-own-pixel-art-character/5371573235400704/4539423036588032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-own-pixel-art-character/5371573235400704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'pepito', 
+      author: 'Elah Jiménez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pepito/5672423480672256/4939099690811392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pepito/5672423480672256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Hamza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264/5660694931619840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_582399759948890334961762'
+    }, 
+    {
       title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
       author: 'jadeM', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ninjacks-letter-contest/5306002305236992/5950091774181376.png', 
       link: 'https://www.khanacademy.org/computer-programming/ninjacks-letter-contest/5306002305236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174448919638207448979533'
-    }, 
-    {
-      title: 'Spin-off of "JAVASCRIPT  PROJECT"', 
-      author: 'Danel Hommeus', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-javascript-project/6431331149201408/4769978441318400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-javascript-project/6431331149201408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_788850747115326938244759'
-    }, 
-    {
-      title: 'C1 2333072 서유진 Project1 partB', 
-      author: 'C1_2333072_서유진_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333072-project1-partb/4991853868138496/5931712384385024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c1-2333072-project1-partb/4991853868138496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_182735590298024260626442'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'aguirrenicolas798', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4829959270219776/4884530151604224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4829959270219776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_39875027030419749179915'
-    }, 
-    {
-      title: 'Guessing Game', 
-      author: 'jingpu7162', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808/5273476182360064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8931555479270445693191194'
     }, 
   ];
 };
