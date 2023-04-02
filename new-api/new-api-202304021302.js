@@ -676,24 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_341033307783954578881296'
     }, 
     {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'danieal568', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4898942082138112/4797995788058624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4898942082138112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_562150138567565560789910'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Maciek Frelek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5900936175468544/4930050731589632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5900936175468544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_289333376519004425971528'
-    }, 
-    {
       title: 'Primavera Avatars', 
       author: 'S. M. V.', 
       votes: 93, 
@@ -707,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'Wilghinah Mathurin', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5318199911694336/4937078011117568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5318199911694336/5282672898523136.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5318199911694336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5236566386803905314230027'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368/5373376517685248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1525571983578413243685398'
+    }, 
+    {
+      title: 'Puffed Puffs Ad', 
+      author: 'eghcvg.bus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/puffed-puffs-ad/5821928339456000/4583205379555328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/puffed-puffs-ad/5821928339456000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5316367966024113631911465'
+    }, 
+    {
+      title: 'Neues SQL-Skript', 
+      author: 'beyzaoeren99', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/neues-sql-skript/6300949263204352/6498999407525888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/neues-sql-skript/6300949263204352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948137494838105718192180'
     }, 
   ];
 };
