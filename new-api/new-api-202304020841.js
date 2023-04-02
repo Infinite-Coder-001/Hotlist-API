@@ -748,6 +748,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'elladarcy13', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6420851596771328/6303083039866880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6420851596771328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6326817206472746664505837'
+    }, 
+    {
       title: 'Altum', 
       author: 'Fire Wolf #Altum', 
       votes: 12, 
@@ -815,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'Monika Wodejko', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5732219927969792/6268120479350784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5732219927969792/4572730591854592.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5732219927969792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1180245153043247717971461'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6661730005729280/5922989263863808.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6661730005729280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1062262709265759135050094'
-    }, 
-    {
-      title: 'Shooting logic test', 
-      author: 'Dark Flame', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-logic-test/6621609642475520/5386618774274048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-logic-test/6621609642475520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
     }, 
   ];
 };
