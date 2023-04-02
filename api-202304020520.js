@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 50, 
+      votes: 51, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6396795753381888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5169767586775040.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 🔴', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/4773446426083328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5338838101966848.png', 
       link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
