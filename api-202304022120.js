@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sewer Art', 
       author: 'Liam K.', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
       link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
+      title: 'Apex Games Demo', 
+      author: 'apex', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
       votes: 21, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
       link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Apex Games Demo', 
-      author: 'apex', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Primavera 2023 Team Data!', 
