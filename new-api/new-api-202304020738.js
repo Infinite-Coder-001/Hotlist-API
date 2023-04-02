@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 53, 
+      votes: 52, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
       votes: 20, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
-      title: 'Sewer Art', 
-      author: 'Liam K.', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
@@ -244,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
+      title: 'Sewer Art', 
+      author: 'Liam K.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+    }, 
+    {
       title: 'Fake Pistol Pg3d', 
       author: 'Phase ✝', 
       votes: 24, 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/4790623040487424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6323414425190400.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -766,51 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lauram.southam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6020390725140480/5396159440142336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6020390725140480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9312056307362715679166643'
-    }, 
-    {
-      title: 'Մարտահրավեր․ գրքերի ցուցակ-ի ճյուղավորում', 
-      author: 'Անի Բալդրյան', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4888390689669120/6258456635162624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4888390689669120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2542183705176187051663505'
-    }, 
-    {
-      title: ':P', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/p/6122185006825472/6337366794223616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/p/6122185006825472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'agatagosciniakece', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6348457305751552/5678133471920128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/6348457305751552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333144791883583731957109'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'mateusz.wiktorzak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4718288241475584/4661990682574848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/4718288241475584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237126121006749393760883'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'Luxmi  Acharya', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6734974532501504/5949016086200320.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6734974532501504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_237126121006749393760883'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'mateusz.wiktorzak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5737738424074240/5112828869787648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5737738424074240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_237126121006749393760883'
+    }, 
+    {
+      title: 'organized chaos background for platformer', 
+      author: 'sgh07', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/organized-chaos-background-for-platformer/5285573461065728/6099828435369984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/organized-chaos-background-for-platformer/5285573461065728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
+      title: '- fire -', 
+      author: 'Xiøn😋🤩', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-fire-/6146420970405888/5779386965213184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-fire-/6146420970405888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Logo Animation', 
+      author: 'DovidMathBoy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-animation/6620188813606912/5794818371665920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-animation/6620188813606912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
+    }, 
+    {
+      title: 'Aquario spin off', 
+      author: 'Martin Nicol', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184/5990505000517632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746973620985336282195084'
     }, 
   ];
 };
