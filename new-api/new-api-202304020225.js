@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6221769930489856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 10, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -563,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 11, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6096630823829504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/4692563937509376.png', 
       link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -820,51 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5814742478645403149744537'
     }, 
     {
-      title: 'Lab Lesson #6 - Falling Stars', 
-      author: 'Akane Eguchi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-6-falling-stars/5020564600438784/6453880734138368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-6-falling-stars/5020564600438784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830303997163485598040397'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Avinasen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5748041748627456/5120283859271680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5748041748627456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'fauzan talib', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5656816811032576/4855384872632320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5656816811032576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'breannasabbatini', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5065766732087296/6027650931146752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5065766732087296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6553629790346617200074648'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'penguinkid305', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4793193117040640/6297765417369600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4793193117040640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6741260429319517011246293'
-    }, 
-    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'breannasabbatini', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5117607759101952/5194587363917824.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5117607759101952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6553629790346617200074648'
+    }, 
+    {
+      title: 'Spin-off of "Project: Computational creatures"', 
+      author: 'i exist', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/6456908585418752/6054950917685248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/6456908585418752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Archimedes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5589487871901696/5376914161451008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5589487871901696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_759495834228469267090225'
+    }, 
+    {
+      title: 'SpaceScript version 1.5.4', 
+      author: 'CG Animation', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spacescript-version-154/6274736213770240/6228381495771136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spacescript-version-154/6274736213770240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319353706324730269103981'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'kk kk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6227374980251648/5924194639724544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6227374980251648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_762018058243937677793157'
+    }, 
+    {
+      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
+      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4842393133432832/5862976851853312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4842393133432832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
     }, 
   ];
 };
