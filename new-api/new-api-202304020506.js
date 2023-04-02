@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'CodingChamp01 🔴', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/4773446426083328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5338838101966848.png', 
       link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
@@ -496,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
+      title: 'fish and shark natural simulation', 
+      author: 'i exist', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-and-shark-natural-simulation/6456908585418752/6061382069174272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fish-and-shark-natural-simulation/6456908585418752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
+    }, 
+    {
       title: 'No-Name-Snek :) | WCC', 
       author: 'Eryn #TeamUmbra', 
       votes: 44, 
@@ -802,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
+      title: '"Proyecto: estrella fugaz" Noche estrellada', 
+      author: 'monicarox.contre', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-estrella-fugaz-noche-estrellada/6223841178468352/6531815834959872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-estrella-fugaz-noche-estrellada/6223841178468352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'Fiona Froelich', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/6536220760129536/4944063431491584.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/6536220760129536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
-    }, 
-    {
-      title: 'pepito', 
-      author: 'Elah Jiménez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pepito/5672423480672256/4939099690811392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pepito/5672423480672256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Hamza', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264/5660694931619840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_582399759948890334961762'
     }, 
   ];
 };
