@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 50, 
+      votes: 49, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: '▪Dipper98▪', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
       link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
@@ -793,24 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'chair', 
-      author: 'Com', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'New program', 
-      author: 'bodhirose333', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5875368939798528/5701686703472640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5875368939798528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2908636456254211122134485'
-    }, 
-    {
       title: 'P: panda-movimiento-colores-duocolor-text-mouseY-mouseX', 
       author: 'ary.lopez', 
       votes: 1, 
@@ -820,11 +802,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714859780060938425061234'
     }, 
     {
-      title: ' "pollo muerto con papas c:"', 
+      title: 'pollo muerto con papas c:', 
       author: 'Elah Jiménez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pollo-muerto-con-papas-c/6346485882208256/4812655316746240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pollo-muerto-con-papas-c/6346485882208256/6480042185244672.png', 
       link: 'https://www.khanacademy.org/computer-programming/pollo-muerto-con-papas-c/6346485882208256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6283467739676672/6189147707719680.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6283467739676672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7665468254290851579828077'
+    }, 
+    {
+      title: 'New program', 
+      author: 'F4stB01', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6122419988512768/5947440202301440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6122419988512768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_114585470331020100763556'
+    }, 
+    {
+      title: 'this is a rickroll but in the thingy', 
+      author: 'YokieBob', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608/4943265842642944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
   ];
 };
