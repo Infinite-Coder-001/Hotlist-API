@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
-      votes: 21, 
+      votes: 20, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 18, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -730,15 +730,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
     }, 
     {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'Suhana.jha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5394981813796864/5913001778790400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5394981813796864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019107932742413457872135'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
       author: 'Julia Bugajska', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5582839765843968/5362073849872384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5582839765843968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4221238928221131325890602'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Bartosz Szczepankiewicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4749120771506176/5208710155911168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/4749120771506176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5310611881507511474009804'
     }, 
   ];
 };
