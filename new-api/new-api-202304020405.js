@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
       votes: 17, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6103369501687808.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'Free Form Tower Defense', 
+      author: 'Larry Serflaten', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
       title: 'KA\'s Avatars [vertex() only]', 
@@ -775,33 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Derivado de "Proyecto: exploración de datos"', 
-      author: 'carlos.valenzp', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/5008360182431744/4561313629257728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-exploracin-de-datos/5008360182431744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_609072822976735709665253'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Links for learning"', 
-      author: 'kl kl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6500030526832640/4919608894341120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/6500030526832640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173939961281825531994937'
-    }, 
-    {
-      title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
-      author: 'jeanprog93', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/6311517097345024/6728973959872512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/6311517097345024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3304256598518237844754014'
-    }, 
-    {
       title: 'Ninjack\'s letter (contest)', 
       author: 'ninjack', 
       votes: 3, 
@@ -836,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4829959270219776/4884530151604224.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4829959270219776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_39875027030419749179915'
-    }, 
-    {
-      title: 'Guessing Game', 
-      author: 'jingpu7162', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808/6477265438556160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8931555479270445693191194'
     }, 
     {
       title: 'New webpage', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raycasting-attempt/5331951155462144/5972791464869888.png', 
       link: 'https://www.khanacademy.org/computer-programming/raycasting-attempt/5331951155462144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_594977800467193704360854'
+    }, 
+    {
+      title: 'about page', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/about-page/6175550688509952/5099168357203968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/about-page/6175550688509952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Integral Estimation Testing', 
+      author: 'beito', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/integral-estimation-testing/4930228603633664/5332345352929280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/integral-estimation-testing/4930228603633664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9745176125568065980584514'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'wertyqwerty52525', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5565014384885760/5257903973122048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5565014384885760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'jesuscasillas214', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6460788752826368/4628210748014592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6460788752826368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3478083279315514232219268'
     }, 
   ];
 };
