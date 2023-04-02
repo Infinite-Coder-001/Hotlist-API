@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6645204649295872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/4790623040487424.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -712,15 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'C1_2333038_김민서_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5609545562112000/4896128341688320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5609545562112000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_164809470036976728541308'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Colorful creature"', 
       author: 'rifahtamannajim', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5092251555643392/4577389264027648.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5092251555643392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_538184131355567179715224'
+    }, 
+    {
+      title: 'Projet dérivé de "Défi : une règle en boucle"', 
+      author: 'bououdenmahar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-rgle-en-boucle/5985448347615232/6263508489781248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-rgle-en-boucle/5985448347615232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_254478832632177883832730'
     }, 
   ];
 };
