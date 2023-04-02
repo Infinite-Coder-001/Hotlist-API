@@ -613,51 +613,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8915653908275121539516353'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Hurtin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5733650923831296/4854022092931072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5733650923831296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_567782721025930693177898'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'Muhammad', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4767411091062784/5942778283737088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4767411091062784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_814881734578869213722557'
-    }, 
-    {
-      title: 'Creating Table_Script', 
-      author: 'Michelle.Mohabir1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creating-table_script/4998017649524736/6381391651848192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/creating-table_script/4998017649524736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_131173332537945017669721'
-    }, 
-    {
-      title: 'New program', 
-      author: 'btblacksmithing', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6222365320331264/6588092120350720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6222365320331264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173052974552301962358386'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'kevinpunongbayan97', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4563032220155904/5826379804622848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4563032220155904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5893587036977391057093623'
-    }, 
-    {
       title: 'Anúncio Publicitário', 
       author: 'jw.fernandes27', 
       votes: 19, 
@@ -665,24 +620,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176/5883106600206336.png', 
       link: 'https://www.khanacademy.org/computer-programming/anncio-publicitrio/5343722083762176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
-    }, 
-    {
-      title: 'drawing project', 
-      author: 'robinsco2026', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/drawing-project/5311253976498176/5558859445092352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drawing-project/5311253976498176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_731445281937039329620072'
-    }, 
-    {
-      title: 'Spin-off of "Making animations"', 
-      author: 'ameliehsmith', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6042764417744896/5625117637132288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6042764417744896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
     }, 
     {
       title: 'Spin-off of "Making animations"', 
@@ -698,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'Zachary Thomas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5173607706968064/5640904091418624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5173607706968064/6173811855900672.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5173607706968064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7498438946092092897749983'
     }, 
@@ -716,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'InvisibleCat123', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6304281352519680/5748950134210560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6304281352519680/4991774679678976.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6304281352519680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4837382047449088/6467056452288512.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4837382047449088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1035228411433236744496534'
+    }, 
+    {
+      title: 'New program', 
+      author: 'yanlygor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6005612346654720/5800851391430656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6005612346654720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594399793802246404204159'
+    }, 
+    {
+      title: '"응용: 첫 jQuery" 프로젝트', 
+      author: 'choihh050301', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jquery/5369313478623232/4571928506712064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jquery/5369313478623232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703026398740242748167572'
+    }, 
+    {
+      title: '"AND/OR를 이용해 심화된 쿼리 사용하기" 프로젝트', 
+      author: 'itsudemo97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/andor/4913202245976064/5139595475075072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/andor/4913202245976064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7609106666416378010706634'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'n.wu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6617541771575296/6268304693182464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6617541771575296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1086311031483686597188499'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Minhas Comidas Favoritas"', 
+      author: 'KauePonce', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5251328915062784/5472172819922944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5251328915062784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1176349627366530904007793'
+    }, 
+    {
+      title: 'customizable (and working) button function cuz i\'m bored :P', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6096630823829504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
+      author: 'Tymoteusz Cybulski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672/5974580167753728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1933802901359016971210515'
     }, 
   ];
 };
