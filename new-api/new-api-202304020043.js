@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'QR code test', 
+      author: 'CodingChamp01 🔴', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Tutorials For All', 
       author: '▪Dipper98▪', 
       votes: 17, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/5529826674130944.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'Larry Serflaten', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5795875504046080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
@@ -545,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'Laasya :)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/5297809663508480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/4810956657180672.png', 
       link: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
@@ -599,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'NithinP', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4695331716775936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
@@ -847,11 +847,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
+      title: 'I finally done it!', 
+      author: 'mh6558', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-finally-done-it/4634925677723648/4692999121715200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-finally-done-it/4634925677723648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1069750211018385772201548'
+    }, 
+    {
+      title: 'My Cookie clicker but not bad', 
+      author: 'SpongeBobert (Offline)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-cookie-clicker-but-not-bad/5913354310041600/5430562170126336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-cookie-clicker-but-not-bad/5913354310041600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: app imitadora"', 
+      author: 'matias.treimun', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/4841230614970368/6710859062886400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/4841230614970368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_360478241676960405848815'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Mouse movement mania"', 
+      author: 'esarangunj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5315168436535296/5172351244484608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5315168436535296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8954740043879256029167766'
+    }, 
+    {
       title: 'Bouncy Number', 
       author: 'tlimpaecher', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352/4770739665551360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352/6649137471995904.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_563799281938092251938604'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480/5861436300771328.png', 
       link: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
-    }, 
-    {
-      title: 'Colored Circle', 
-      author: 'ansongan0325', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/colored-circle/5417062374883328/6439934983716864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/colored-circle/5417062374883328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1003870435544286551005356'
-    }, 
-    {
-      title: 'HTML librarby', 
-      author: 'GrahamTeeg', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/html-librarby/6271035889729536/6456892143747072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/html-librarby/6271035889729536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'jerdol34', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6324695801839616/5425605433933824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6324695801839616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_216096399811134183967820'
-    }, 
-    {
-      title: 'New program', 
-      author: 'lwagoner28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4511353462374400/5382505302900736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4511353462374400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1095117923037519183917207'
     }, 
   ];
 };
