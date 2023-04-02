@@ -482,7 +482,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/members-page/6175550688509952/5532082874138624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/members-page/6175550688509952/6135530309074944.png', 
       link: 'https://www.khanacademy.org/computer-programming/members-page/6175550688509952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -775,6 +775,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'Logo Animation', 
+      author: 'DovidMathBoy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-animation/6620188813606912/5794818371665920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-animation/6620188813606912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
+    }, 
+    {
+      title: 'Aquario spin off', 
+      author: 'Martin Nicol', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184/5990505000517632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746973620985336282195084'
+    }, 
+    {
       title: 'Basic HTML Editor', 
       author: 'IAFrancy', 
       votes: 3, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/walnut-pie/5826292328218624/6342535183384576.png', 
       link: 'https://www.khanacademy.org/computer-programming/walnut-pie/5826292328218624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_679946256657396994113352'
-    }, 
-    {
-      title: 'New program', 
-      author: 'winnie', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5849408546848768/4590251340513280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5849408546848768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358152134525631735709905'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'baajwaa.g', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5401416312340480/5428863267291136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5401416312340480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490218008542342598366379'
     }, 
   ];
 };
