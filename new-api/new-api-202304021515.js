@@ -613,6 +613,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8915653908275121539516353'
     }, 
     {
+      title: 'Computer shall die', 
+      author: 'Amogus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-shall-die/5796443748352000/6064454539460608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/computer-shall-die/5796443748352000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411768230911808742674003'
+    }, 
+    {
+      title: 'Astronaut', 
+      author: 'Epic Coder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6683953408032768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'Johnson_Games', 
+      author: 'collin.johnson', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/johnson_games/5211703681007616/6409981034545152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/johnson_games/5211703681007616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9047232518041222502096964'
+    }, 
+    {
+      title: 'Why?', 
+      author: 'KHAN BOI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why/5102482998214656/5932584279523328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why/5102482998214656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'cahitalpdemir', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6214182870761472/5807258207567872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6214182870761472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_994990228815141253694222'
+    }, 
+    {
       title: 'The eyes', 
       author: 'HOPPER', 
       votes: 1, 
@@ -730,6 +775,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
     }, 
     {
+      title: 'I tried to make a game :(', 
+      author: 'Amogus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-tried-to-make-a-game/6327623056932864/5083990278324224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-tried-to-make-a-game/6327623056932864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411768230911808742674003'
+    }, 
+    {
       title: 'Functions Prg - Toby', 
       author: 'Toby', 
       votes: 1, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4946308357210112/5754212878434304.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4946308357210112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1024278378744792263932337'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Mateusz Szarek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6131631351185408/4868319535742976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6131631351185408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2335193077811285716890069'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Julia Dorożała', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5377344631259136/4520141233897472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5377344631259136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1525571983578413243685398'
-    }, 
-    {
-      title: 'Flashing lights', 
-      author: 'Escobar, Gabriel', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashing-lights/6254334540300288/4588989056335872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashing-lights/6254334540300288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_25864889168071615577484'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'David david.palma.p@gmail.com', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5301924904878080/4947274892623872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5301924904878080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7832557225120713061210627'
-    }, 
-    {
-      title: 'How to make a watermark', 
-      author: 'CodingChamp01 🔴', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/4939838223859712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Random blobber"', 
-      author: 'Mariam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-random-blobber/6713751018717184/4532470424059904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-random-blobber/6713751018717184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
     }, 
   ];
 };
