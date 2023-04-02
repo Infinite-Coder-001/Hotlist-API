@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 29, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
+      title: 'Fighters! Full release! (light and dark)', 
+      author: 'Jibanyanc', 
+      votes: 22, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'SUPER MARIO BROS!', 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'Fighters! Full release! (light and dark)', 
-      author: 'Jibanyanc', 
-      votes: 21, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'Reckless Racer 3D', 
@@ -64,6 +64,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
+      title: 'Sewer Art', 
+      author: 'Liam K.', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+    }, 
+    {
+      title: 'chair', 
+      author: 'Com', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Snake Game', 
+      author: 'Sspidercat', 
+      votes: 41, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
+    }, 
+    {
       title: 'QR code test', 
       author: 'CodingChamp01 🔴', 
       votes: 12, 
@@ -73,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 40, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 38, 
+      votes: 39, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -109,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
-      title: 'chair', 
-      author: 'Com', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'friends sometimes...', 
       author: 'Com', 
       votes: 63, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Sewer Art', 
-      author: 'Liam K.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
       title: '🗿', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5338242041036800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'LES GO BOISSSS', 
       author: 'AshDockTheCodeKing (Offline)', 
       votes: 8, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
       link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5338242041036800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
+      title: 'Further development', 
+      author: 'Noah H.', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5553466308345856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
@@ -253,22 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
-      title: 'New Aries Graphic', 
-      author: 'Wort-Head Productions😐', 
-      votes: 13, 
+      title: 'Astronaut', 
+      author: 'Epic Coder', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440/4840955359576064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-aries-graphic/5980260631101440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Further development', 
-      author: 'Noah H.', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5553466308345856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6683953408032768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
   ];
 };
