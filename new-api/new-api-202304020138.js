@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'Free Form Tower Defense', 
+      author: 'Larry Serflaten', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
       title: 'QR code test', 
       author: 'CodingChamp01 🟢', 
       votes: 9, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/5529826674130944.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
     {
+      title: 'Primavera 2023 Team Data!', 
+      author: 'Polar', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
       title: 'My homepage for Team Aequor', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 39, 
@@ -338,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'Com', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/4991683243851776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/6395286072377344.png', 
       link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
@@ -350,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5008871837188096.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'Primavera 2023 Team Data!', 
-      author: 'Polar', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
       title: 'I ♡ Books', 
@@ -670,7 +670,7 @@ var LoadHotlistAPI = function() {
       title: 'Altum', 
       author: 'Fire Wolf #Altum', 
       votes: 12, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624/4566462900781056.png', 
       link: 'https://www.khanacademy.org/computer-programming/altum/6297182643994624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
@@ -838,6 +838,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_966917164819078768947220'
     }, 
     {
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'Alessa Salazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5379890607341568/5479627633246208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5379890607341568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_991680490098024477922877'
+    }, 
+    {
+      title: 'Code Cleaned :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/code-cleaned/6340985748766720/6579910861963264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/code-cleaned/6340985748766720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'beach defence save', 
       author: 'Will', 
       votes: 1, 
@@ -851,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5370149395021824/5775444344619008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5370149395021824/6715532868108288.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5370149395021824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-mi-sushi/6302598706806784/6077104627433472.png', 
       link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena-mi-sushi/6302598706806784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_203493507153849150898747'
-    }, 
-    {
-      title: 'Spin-off of "green eggs and ham, rushed version"', 
-      author: 'wertyqwerty52525', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-green-eggs-and-ham-rushed-version/4876790452764672/6713138650333184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-green-eggs-and-ham-rushed-version/4876790452764672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
-    }, 
-    {
-      title: 'New program', 
-      author: 'calvin.armour77', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6232593592008704/5029568110182400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6232593592008704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
     }, 
   ];
 };
