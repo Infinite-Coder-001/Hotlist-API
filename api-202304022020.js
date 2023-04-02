@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 41, 
+      votes: 42, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: 'Snake Game', 
       author: 'Sspidercat', 
       votes: 43, 
@@ -116,6 +125,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
+    }, 
+    {
+      title: 'Dad\'s Periodic Table with Data in println', 
+      author: 'bob.engwicht', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
+      title: 'flamin\' pancake\'s subpage', 
+      author: 'flamin\' pancakes', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
     }, 
     {
       title: 'Introducing Khanmigo', 
@@ -127,13 +154,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'Dad\'s Periodic Table with Data in println', 
-      author: 'bob.engwicht', 
-      votes: 7, 
+      title: 'Apex Games Demo', 
+      author: 'apex', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Volcanic Escape 2 GAME', 
@@ -154,6 +181,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'Minimalistic Dodge Game', 
+      author: 'Epic Coder', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/4707328231522304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'friends sometimes...', 
+      author: 'Com', 
+      votes: 64, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'pushMatrix(); and popMatrix(); Tutorial', 
       author: '▪Dipper98▪', 
       votes: 8, 
@@ -161,24 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
       link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'friends sometimes...', 
-      author: 'Com', 
-      votes: 63, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'flamin\' pancake\'s subpage', 
-      author: 'flamin\' pancakes', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
     }, 
     {
       title: 'My gratitude to KA for their excellent videos', 
@@ -208,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Apex Games Demo', 
-      author: 'apex', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: '🗿', 
       author: 'mr. mustache', 
       votes: 32, 
@@ -235,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: 'Minimalistic Dodge Game', 
-      author: 'Epic Coder', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/4707328231522304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
       title: 'Tutorials For All', 
       author: '▪Dipper98▪', 
       votes: 18, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
-      title: 'Dragon Adventure 2 0_0', 
-      author: 'Jibanyanc', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
   ];
 };
