@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sewer Art', 
       author: 'Liam K.', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
       link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 41, 
@@ -44,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Astronaut', 
+      author: 'Epic Coder', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/4759407788605440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -64,27 +82,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
-    }, 
-    {
-      title: 'Astronaut', 
-      author: 'Epic Coder', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/4759407788605440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
       title: 'chair', 
       author: 'Com', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
       link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 41, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
       title: 'flamin\' pancake\'s subpage', 
       author: 'flamin\' pancakes', 
       votes: 5, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
       link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
-    }, 
-    {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 40, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'My gratitude to KA for their excellent videos', 
