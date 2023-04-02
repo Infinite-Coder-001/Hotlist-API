@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 17, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
-      votes: 38, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 39, 
+      votes: 38, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 37, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
@@ -478,12 +478,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
-      title: 'members page', 
+      title: 'about page', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/members-page/6175550688509952/5532082874138624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/members-page/6175550688509952', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/about-page/6175550688509952/6709060947984384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/about-page/6175550688509952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
@@ -784,24 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1060378049393131994459876'
     }, 
     {
-      title: 'house', 
-      author: 'FallenAngel1234', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/house/5656272121937920/5136695029972992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/house/5656272121937920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7401410479420648669406677'
-    }, 
-    {
-      title: 'Derivação de "Projeto: estrela cadente"', 
-      author: 'jeanprog93', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/5260058167656448/5513446071517184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/5260058167656448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3304256598518237844754014'
-    }, 
-    {
       title: 'blue Chu chu', 
       author: 'kylerohearn', 
       votes: 15, 
@@ -836,15 +818,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pancakes-recipe-practice-with-objects/6152164088266752/6256517432262656.png', 
       link: 'https://www.khanacademy.org/computer-programming/pancakes-recipe-practice-with-objects/6152164088266752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
-    }, 
-    {
-      title: 'Spin-off of "Joining related tables with left outer joins"', 
-      author: 'fauzan talib', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables-with-left-outer-joins/6693224069775360/6407289465782272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables-with-left-outer-joins/6693224069775360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4995664393322496/6344426420224000.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4995664393322496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1155173773138601651030122'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'dantemendieta28', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6462531838459904/6500981929197568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6462531838459904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_491451918909207812125484'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'choisowon7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4557643076386816/6730890857463808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4557643076386816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4356093072714509434771705'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'dantemendieta28', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5912098090827776/5996270255915008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5912098090827776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_491451918909207812125484'
     }, 
   ];
 };
