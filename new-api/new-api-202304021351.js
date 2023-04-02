@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: '"Proyecto: estrella fugaz" Noche estrellada', 
+      author: 'monicarox.contre', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-estrella-fugaz-noche-estrellada/6223841178468352/6531815834959872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-estrella-fugaz-noche-estrellada/6223841178468352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
+    }, 
+    {
       title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
       author: 'The Ember Society #OpesFTW', 
       votes: 13, 
@@ -658,6 +667,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'evis18', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4837382047449088/6467056452288512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4837382047449088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1035228411433236744496534'
+    }, 
+    {
+      title: 'New program', 
+      author: 'yanlygor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6005612346654720/5800851391430656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6005612346654720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594399793802246404204159'
+    }, 
+    {
+      title: '"응용: 첫 jQuery" 프로젝트', 
+      author: 'choihh050301', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jquery/5369313478623232/4571928506712064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jquery/5369313478623232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_703026398740242748167572'
+    }, 
+    {
       title: '"AND/OR를 이용해 심화된 쿼리 사용하기" 프로젝트', 
       author: 'itsudemo97', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/5380330807934976/4818992540991488.png', 
       link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/5380330807934976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'EP290', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5477830793412608/5729415414988800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5477830793412608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979778007307439935846322'
-    }, 
-    {
-      title: 'Inspirováno programem "Výzva: Jídelní stůl"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/6650458400931840/4982713741524992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/6650458400931840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Rahime Bulut', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4992738203582464/5324115390283776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4992738203582464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4929489128994809805790127'
-    }, 
-    {
-      title: 'Derivação de "Desafio: boneco de neve acenando"', 
-      author: 'João Pedro Braga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-acenando/5668422886408192/5574731530289152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-acenando/5668422886408192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_741448694925731275501268'
     }, 
   ];
 };
