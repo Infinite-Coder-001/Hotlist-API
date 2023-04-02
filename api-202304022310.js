@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
+      title: 'Sewer Art', 
+      author: 'Liam K.', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+    }, 
+    {
       title: 'vertex() and curveVertex() tool', 
       author: 'Promise', 
       votes: 11, 
@@ -28,13 +37,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'Sewer Art', 
-      author: 'Liam K.', 
-      votes: 19, 
+      title: 'Astronaut', 
+      author: 'Epic Coder', 
+      votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528/5706236751560704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sewer-art/6619237142806528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6666202878623744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
       title: 'SUPER MARIO BROS!', 
@@ -46,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Astronaut', 
-      author: 'Epic Coder', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/4759407788605440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 41, 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Apex Games Demo', 
+      author: 'apex', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'chair', 
       author: 'Com', 
       votes: 13, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
       link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Apex Games Demo', 
-      author: 'apex', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/6273250079588352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: 'Team Virtus', 
       author: 'ChickCoder', 
       votes: 4, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: '🗿', 
