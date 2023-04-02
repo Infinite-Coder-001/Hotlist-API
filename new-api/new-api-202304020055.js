@@ -110,7 +110,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'QR code test', 
-      author: 'CodingChamp01 🟢', 
+      author: 'CodingChamp01 🔴', 
       votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5120582896369664.png', 
@@ -533,7 +533,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'How to make a watermark', 
-      author: 'CodingChamp01 🟢', 
+      author: 'CodingChamp01 🔴', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/how-to-make-a-watermark/6335343529082880/4939838223859712.png', 
@@ -847,24 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
-      title: 'Face', 
-      author: 'Cameron Lynch', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/face/6079302358843392/6194192113254400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/face/6079302358843392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9857060357815633807037927'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'riya.singh190097', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6092790317760512/6572483001237504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6092790317760512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5094545639358386862698229'
-    }, 
-    {
       title: 'I finally done it!', 
       author: 'mh6558', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5315168436535296/5172351244484608.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5315168436535296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8954740043879256029167766'
+    }, 
+    {
+      title: 'Bouncy Number', 
+      author: 'tlimpaecher', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352/6649137471995904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_563799281938092251938604'
+    }, 
+    {
+      title: 'CTC (dont copy pls!)', 
+      author: 'wertyqwerty52525', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480/5861436300771328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
     }, 
   ];
 };
