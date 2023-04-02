@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5946299661991936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6103369501687808.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -131,8 +131,17 @@ var LoadHotlistAPI = function() {
       author: '▪Dipper98▪', 
       votes: 17, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/5529826674130944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/6302286944190464.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'pushMatrix(); and popMatrix(); Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'pushMatrix(); and popMatrix(); Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'New Aries Graphic', 
