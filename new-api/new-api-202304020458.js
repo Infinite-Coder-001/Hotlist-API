@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5816231048560640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6634472398438400.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -230,7 +230,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6382145418608640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5641611519508480.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'bob.engwicht', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/4842098424856576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/6679595660394496.png', 
       link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
@@ -802,11 +802,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'Fiona Froelich', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6751449590841344/6631574033711104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6751449590841344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1181577025463351520296218'
+    }, 
+    {
+      title: 'Project: Store Database', 
+      author: 'Olivia Mauws', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-store-database/5808808220999680/4963053797163008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-store-database/5808808220999680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1132026154071343292309199'
+    }, 
+    {
+      title: 'Cbat', 
+      author: 'JerryBob Studio', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cbat/5681420631851008/5188899149496320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cbat/5681420631851008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
+    }, 
+    {
       title: 'Lab #6-Falling Stars', 
       author: 'angelawang9670', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5094407620837376/5176137358819328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5094407620837376/4554345481027584.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5094407620837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903428546870053479959235'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264/5660694931619840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4995598509195264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_582399759948890334961762'
-    }, 
-    {
-      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
-      author: 'jadeM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5825234860294144/5825066752589824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5825234860294144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150904352647196526174705'
-    }, 
-    {
-      title: 'A PVP platformer.', 
-      author: 'Wort-Head Productions😐', 
-      votes: 28, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008/5155992754241536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Cbat', 
-      author: 'JerryBob Studio', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cbat/5279043399499776/6107861894873088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cbat/5279043399499776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
     }, 
   ];
 };
