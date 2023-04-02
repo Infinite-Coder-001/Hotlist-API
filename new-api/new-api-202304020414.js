@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4820852396048384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6103369501687808.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -478,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6382145418608640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Defenders Team Logo', 
       author: 'Orange Soda', 
       votes: 13, 
@@ -775,15 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_373244422585874115507487'
     }, 
     {
-      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
-      author: 'jadeM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5825234860294144/5825066752589824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5825234860294144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_150904352647196526174705'
-    }, 
-    {
       title: 'A PVP platformer.', 
       author: 'Wort-Head Productions😐', 
       votes: 28, 
@@ -791,42 +773,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008/5155992754241536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-pvp-platformer/6587001274155008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Cbat', 
-      author: 'JerryBob Studio', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cbat/5279043399499776/6107861894873088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cbat/5279043399499776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'dejah.n.reed', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6576696213159936/6167123853623296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6576696213159936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_179197561506915461878713'
-    }, 
-    {
-      title: 'New program', 
-      author: 'George Tskhvaradze', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6216516380180480/4609298211848192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6216516380180480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_599136956838328044525271'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'jesuscasillas214', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4713464657657856/4782559574933504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4713464657657856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3478083279315514232219268'
     }, 
     {
       title: 'Derivado de "Proyecto: exploración de datos"', 
@@ -896,9 +842,63 @@ var LoadHotlistAPI = function() {
       author: 'jingpu7162', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808/5273476182360064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808/6477265438556160.png', 
       link: 'https://www.khanacademy.org/computer-programming/guessing-game/6008967252983808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8931555479270445693191194'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'jingpu7162', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5048158641242112/4695411819593728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5048158641242112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8931555479270445693191194'
+    }, 
+    {
+      title: 'Contest: moving and grooving.', 
+      author: 'Xander', 
+      votes: 3, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-moving-and-grooving/5286081273839616/5342690452750336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-moving-and-grooving/5286081273839616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'mutungap23', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6633692593438720/6094209569570816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6633692593438720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1048793195421741799342972'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'sasoracire', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5331263021170688/5509126844366848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5331263021170688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101121973037350979729760'
+    }, 
+    {
+      title: 'Angry Emoji', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 20, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952/5389570566045696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/angry-emoji/4740002958589952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Raycasting Attempt', 
+      author: 'Lone Wolf', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raycasting-attempt/5331951155462144/5972791464869888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raycasting-attempt/5331951155462144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594977800467193704360854'
     }, 
   ];
 };
