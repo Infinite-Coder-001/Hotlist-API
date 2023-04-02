@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4765332326891520.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
@@ -275,7 +275,7 @@ var LoadHotlistAPI = function() {
       author: 'Noah H.', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5808101866651648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5896471523409920.png', 
       link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
@@ -847,6 +847,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
+      title: 'Bouncy Number', 
+      author: 'tlimpaecher', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352/4770739665551360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncy-number/4986438660964352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_563799281938092251938604'
+    }, 
+    {
+      title: 'CTC (dont copy pls!)', 
+      author: 'wertyqwerty52525', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480/5861436300771328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ctc-dont-copy-pls/5953327998484480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
+    }, 
+    {
       title: 'Colored Circle', 
       author: 'ansongan0325', 
       votes: 1, 
@@ -854,6 +872,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/colored-circle/5417062374883328/6439934983716864.png', 
       link: 'https://www.khanacademy.org/computer-programming/colored-circle/5417062374883328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1003870435544286551005356'
+    }, 
+    {
+      title: 'HTML librarby', 
+      author: 'GrahamTeeg', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/html-librarby/6271035889729536/6456892143747072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/html-librarby/6271035889729536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4511353462374400/5382505302900736.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4511353462374400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1095117923037519183917207'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'Eyob Legese', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5433226886955008/5823541435219968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5433226886955008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_238898542067236746552177'
-    }, 
-    {
-      title: 'New program', 
-      author: 'winnie', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5800026254393344/4643286032891904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5800026254393344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358152134525631735709905'
-    }, 
-    {
-      title: 'LOADING...', 
-      author: 'Xiøn😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading/5805378689613824/5111970480308224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading/5805378689613824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
