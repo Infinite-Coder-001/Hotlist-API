@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
-      votes: 83, 
+      votes: 84, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
+      title: 'chair', 
+      author: 'Com', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'friends sometimes...', 
       author: 'Com', 
       votes: 63, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'chair', 
-      author: 'Com', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Into the Forest', 
@@ -622,6 +622,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2558734274600387066853686'
     }, 
     {
+      title: 'Spin-off of "Making animations"', 
+      author: 'ameliehsmith', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6312264354545664/6749082459881472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6312264354545664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
+    }, 
+    {
+      title: 'Lab 6 - Falling Stars', 
+      author: 'Zachary Thomas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5173607706968064/6173811855900672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-6-falling-stars/5173607706968064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7498438946092092897749983'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Amogus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5637102206500864/4605547161894912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5637102206500864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_411768230911808742674003'
+    }, 
+    {
+      title: 'New program', 
+      author: 'InvisibleCat123', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6304281352519680/4991774679678976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6304281352519680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'Testing', 
       author: 'Noah H.', 
       votes: 8, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672/5974580167753728.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1933802901359016971210515'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Karaoke song selector"', 
-      author: 'danieal568', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-karaoke-song-selector/6004614806945792/5095007372754944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-karaoke-song-selector/6004614806945792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_562150138567565560789910'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'aresc97', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376/5751080437989376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6525768386789376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341033307783954578881296'
-    }, 
-    {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'danieal568', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4898942082138112/4797995788058624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4898942082138112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_562150138567565560789910'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Maciek Frelek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5900936175468544/4930050731589632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5900936175468544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_289333376519004425971528'
     }, 
   ];
 };
