@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6103369501687808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/4838868609449984.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6382145418608640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Rotating Hyperboloid (3d shape)', 
       author: 'Loaf', 
       votes: 18, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6368572449538048.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
-      title: 'Watermelonz', 
-      author: 'Michael Weachock', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224/5785344890159104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/watermelonz/5711613345972224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_978227951466105765008720'
     }, 
   ];
 };
