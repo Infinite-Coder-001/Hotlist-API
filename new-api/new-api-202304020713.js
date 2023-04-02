@@ -766,47 +766,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_795610299636994284264803'
     }, 
     {
-      title: 'New program', 
-      author: 'Eduard Codeup', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5968193350057984/4919294858412032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5968193350057984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9091282263422502084931460'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Shishi Tang', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6538540411568128/4659607445487616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6538540411568128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_588602572898698086885626'
-    }, 
-    {
-      title: '- fire 2 -', 
-      author: 'Xiøn😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-fire-2-/4981520445259776/5582889921331200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-fire-2-/4981520445259776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'mateusz.wiktorzak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6734974532501504/5949016086200320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6734974532501504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237126121006749393760883'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'mateusz.wiktorzak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5737738424074240/5112828869787648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5737738424074240/5464159576965120.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5737738424074240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_237126121006749393760883'
     }, 
@@ -824,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-fire-/6146420970405888/5779386965213184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-fire-/6146420970405888/6224943584165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/-fire-/6146420970405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -845,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184/5990505000517632.png', 
       link: 'https://www.khanacademy.org/computer-programming/aquario-spin-off/4836007255261184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746973620985336282195084'
-    }, 
-    {
-      title: 'Exercitiu 3 lectia 21', 
-      author: 'specialtelefon2018', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/exercitiu-3-lectia-21/5906937284968448/5453560788860928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/exercitiu-3-lectia-21/5906937284968448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964615274438685769967191'
     }, 
     {
       title: 'Basic HTML Editor', 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/5260058167656448/5513446071517184.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/5260058167656448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3304256598518237844754014'
+    }, 
+    {
+      title: 'blue Chu chu', 
+      author: 'kylerohearn', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872/6496829132029952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-chu-chu/5530010518863872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_830400815676954944725994'
+    }, 
+    {
+      title: 'Նոր վեբկայք', 
+      author: 'Ashot Eghiazaryan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/5937772230918144/5240012213108736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/5937772230918144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9043384786510132480582208'
+    }, 
+    {
+      title: 'It\'s here! The link's at the top!', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-here-the-links-at-the-top/5262573911195648/6211228772122624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-here-the-links-at-the-top/5262573911195648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'Pancakes recipe (practice with objects)', 
+      author: 'manningshawnk419', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pancakes-recipe-practice-with-objects/6152164088266752/6256517432262656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pancakes-recipe-practice-with-objects/6152164088266752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_676574204204270005228379'
+    }, 
+    {
+      title: 'Spin-off of "Joining related tables with left outer joins"', 
+      author: 'fauzan talib', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables-with-left-outer-joins/6693224069775360/6407289465782272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables-with-left-outer-joins/6693224069775360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
     }, 
   ];
 };
