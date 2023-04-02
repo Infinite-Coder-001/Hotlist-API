@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 21, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'chair', 
+      author: 'Com', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'Into the Forest', 
       author: 'Reflex', 
       votes: 32, 
@@ -208,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Dad\'s Periodic Table with Data in println', 
+      author: 'bob.engwicht', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
       title: 'Pixel Gun 3D - FULL RELEASE', 
       author: 'Phase ✝', 
       votes: 16, 
@@ -215,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216/4659757299580928.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-gun-3d-full-release/6441777281417216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'chair', 
-      author: 'Com', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
-    }, 
-    {
-      title: 'Dad\'s Periodic Table with Data in println', 
-      author: 'bob.engwicht', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
       title: 'New Aries Graphic', 
@@ -496,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'NithinP', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
+    }, 
+    {
       title: 'Minimalistic Dodge Game', 
       author: 'Epic Coder', 
       votes: 2, 
@@ -586,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'NithinP', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
-    }, 
-    {
       title: 'Mole in Holes Loop', 
       author: 'Sophia Smith', 
       votes: 2, 
@@ -656,6 +656,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864/4810956657180672.png', 
       link: 'https://www.khanacademy.org/computer-programming/js-project-doggo-run/6129077288484864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
+    }, 
+    {
+      title: '"AND/OR를 이용해 심화된 쿼리 사용하기" 프로젝트', 
+      author: 'itsudemo97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/andor/4913202245976064/5139595475075072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/andor/4913202245976064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7609106666416378010706634'
     }, 
     {
       title: 'Derivação de "Desafio: Minhas Comidas Favoritas"', 
@@ -827,15 +836,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248/6401036672876544.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
-    }, 
-    {
-      title: 'Programmeeropdrachten eenvoudige algoritmen', 
-      author: 'Sander van Geest', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/programmeeropdrachten-eenvoudige-algoritmen/4985968966025216/5233302132015104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/programmeeropdrachten-eenvoudige-algoritmen/4985968966025216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_179571538635210685166674'
     }, 
     {
       title: 'Spin-off of "Project: Famous people"', 
