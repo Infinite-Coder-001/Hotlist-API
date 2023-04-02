@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'flamin\' pancake\'s subpage', 
+      author: 'flamin\' pancakes', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
+    }, 
+    {
       title: 'Primavera 2023 Team Data!', 
       author: 'Polar', 
       votes: 12, 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'flamin\' pancake\'s subpage', 
-      author: 'flamin\' pancakes', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
-    }, 
-    {
       title: 'My gratitude to KA for their excellent videos', 
       author: 'InvisibleCat123', 
       votes: 5, 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'Cinis Homepage', 
+      author: 'YokieBob', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/6701063450443776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 38, 
@@ -197,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
+      title: 'Team Opes Homepage 2023', 
+      author: 'ⱠeaferStudios', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/5983014745325568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
       title: 'friends sometimes...', 
@@ -235,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'virtus homepage', 
+      author: 'sugar ♡', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
+    }, 
+    {
       title: '🗿', 
       author: 'mr. mustache', 
       votes: 32, 
@@ -242,33 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Into the Forest', 
-      author: 'Reflex', 
-      votes: 32, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
-      title: 'Tutorials For All', 
-      author: '▪Dipper98▪', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/6302286944190464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
   ];
 };
