@@ -131,36 +131,9 @@ var LoadHotlistAPI = function() {
       author: '▪Dipper98▪', 
       votes: 17, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/6302286944190464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/5529826674130944.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Dragon Adventure 2 0_0', 
-      author: 'Jibanyanc', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
-      title: 'pushMatrix(); and popMatrix(); Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -190,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Dragon Adventure 2 0_0', 
+      author: 'Jibanyanc', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
       title: 'Bee Swarm Test Release', 
       author: 'Dat', 
       votes: 72, 
@@ -197,6 +179,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560/5663036032729088.png', 
       link: 'https://www.khanacademy.org/computer-programming/bee-swarm-test-release/5009750191554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
+    }, 
+    {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'pushMatrix(); and popMatrix(); Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/4964622466859008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'New Aries Graphic', 
@@ -770,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'ninjack', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ninjacks-letter-contest/5306002305236992/5950091774181376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ninjacks-letter-contest/5306002305236992/5638382006091776.png', 
       link: 'https://www.khanacademy.org/computer-programming/ninjacks-letter-contest/5306002305236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1174448919638207448979533'
     }, 
@@ -793,33 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'P: panda-movimiento-colores-duocolor-text-mouseY-mouseX', 
-      author: 'ary.lopez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/p-panda-movimiento-colores-duocolor-text-mousey-mousex/5546086388514816/6551251442778112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/p-panda-movimiento-colores-duocolor-text-mousey-mousex/5546086388514816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714859780060938425061234'
-    }, 
-    {
-      title: 'pollo muerto con papas c:', 
-      author: 'Elah Jiménez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pollo-muerto-con-papas-c/6346485882208256/6480042185244672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pollo-muerto-con-papas-c/6346485882208256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4753813435381566093117299'
-    }, 
-    {
-      title: 'penguins and mountains', 
-      author: 'kl kl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/penguins-and-mountains/5928524998557696/5250022104154112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/penguins-and-mountains/5928524998557696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1173939961281825531994937'
-    }, 
-    {
       title: '≁⋆Ţἷƒƒ⋆≁  minecraft skin', 
       author: 'Addy💠', 
       votes: 7, 
@@ -827,15 +800,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688/4759356559376384.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-skin/5381590474866688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
-      title: 'Derivado de "Pizza para la cena"', 
-      author: 'MIguel Abreu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-pizza-para-la-cena/6200024376852480/6096416109019136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-pizza-para-la-cena/6200024376852480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8053710952023592842716170'
     }, 
     {
       title: 'Painting', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608/4943265842642944.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-is-a-rickroll-but-in-the-thingy/6504277645508608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Minimalistic Dodge Game', 
+      author: 'Epic Coder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/6349718751068160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design" Sides', 
+      author: 'Cayleigh Sides', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672/6398541120716800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design-sides/5589650166300672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365409167068429531352702'
+    }, 
+    {
+      title: 'Spin-off of "Project: Memory++"', 
+      author: 'AH944863', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-memory/5791766193422336/6037739238899712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-memory/5791766193422336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5814742478645403149744537'
+    }, 
+    {
+      title: 'Spin-off of "Looping through Arrays"', 
+      author: 'devsu128', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/6172691674742784/4739174734544896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/6172691674742784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4550449786115969747262598'
     }, 
   ];
 };
