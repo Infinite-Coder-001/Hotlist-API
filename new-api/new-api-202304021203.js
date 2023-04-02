@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
+      title: 'QR code test', 
+      author: 'CodingChamp01 🔴', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5338838101966848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+    }, 
+    {
       title: 'Snake Game', 
       author: 'Sspidercat', 
       votes: 40, 
@@ -82,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5338838101966848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
-    }, 
-    {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 37, 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'friends sometimes...', 
       author: 'Com', 
-      votes: 62, 
+      votes: 63, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864/5482467084779520.png', 
       link: 'https://www.khanacademy.org/computer-programming/friends-sometimes/5330947374628864', 
@@ -685,6 +685,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Thingy 3.0', 
+      author: 'KHAN BOI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thingy-30/6739419119009792/4511502393720832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thingy-30/6739419119009792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'ameliehsmith', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6377005416497152/5394054100860928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6377005416497152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
       author: 'Julia Dorożała', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5558074271383552/5323051714789376.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5558074271383552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_419138274765175835107954'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'charlesserrano40', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6364481233141760/6285360578740224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6364481233141760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1521089121964793752798955'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Anonymous', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5314939133935616/5105237624143872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5314939133935616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_199887879082679355699492'
     }, 
   ];
 };
