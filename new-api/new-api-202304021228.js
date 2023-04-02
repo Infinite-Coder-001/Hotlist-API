@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: 'Dad\'s Periodic Table with Data in println', 
+      author: 'bob.engwicht', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
       title: 'New Aries Graphic', 
       author: 'Wort-Head Productions😐', 
       votes: 13, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304/5698847092555776.png', 
       link: 'https://www.khanacademy.org/computer-programming/heather/5624839571554304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
-    }, 
-    {
-      title: 'Dad\'s Periodic Table with Data in println', 
-      author: 'bob.engwicht', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
       title: 'Team Aequor Hompage - Primavera 2023', 
@@ -586,6 +586,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
     {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'NithinP', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
+    }, 
+    {
       title: 'Mole in Holes Loop', 
       author: 'Sophia Smith', 
       votes: 2, 
@@ -685,6 +694,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Winston', 
+      author: 'KHAN BOI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248/5462212463607808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'buelkenm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5728714269966336/5047686110953472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5728714269966336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6093126881618812396537251'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'Kristen WANG', 
       votes: 1, 
@@ -755,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368/5373376517685248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1525571983578413243685398'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'NithinP', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
       title: 'Puffed Puffs Ad', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-aleatorio/6166676405272576/4812946569216000.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-aleatorio/6166676405272576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_332777015355963858776179'
-    }, 
-    {
-      title: '"挑战：最喜欢的动物"的副本', 
-      author: 'li2227876951', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6230580519026688/4734727966998528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6230580519026688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3376482155666644033256034'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'rifahtamannajim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4526824303673344/6115770741604352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4526824303673344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_146036537686968764138925'
     }, 
   ];
 };
