@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Epic Coder', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/6349718751068160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/4707328231522304.png', 
       link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
@@ -685,6 +685,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Wilghinah Mathurin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5318199911694336/5282672898523136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5318199911694336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5236566386803905314230027'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'danieal568', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5433958558121984/6302018517123072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5433958558121984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_562150138567565560789910'
+    }, 
+    {
       title: 'LCD graph plot', 
       author: 'Pham An', 
       votes: 1, 
@@ -743,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'ameliehsmith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6414973070000128/6195025504681984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6414973070000128/4896319786500096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6414973070000128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/neues-sql-skript/6300949263204352/6498999407525888.png', 
       link: 'https://www.khanacademy.org/computer-programming/neues-sql-skript/6300949263204352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948137494838105718192180'
-    }, 
-    {
-      title: 'Inspirováno programem "Výzva: Tvé oblíbené odkazy"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-tv-oblben-odkazy/5359977368961024/5452495519531008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-tv-oblben-odkazy/5359977368961024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'fnmaina24', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5095676280356864/4725006979612672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5095676280356864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_202298577275355947844854'
     }, 
   ];
 };
