@@ -694,6 +694,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Priyanka C', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5558074271383552/5323051714789376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5558074271383552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_419138274765175835107954'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'charlesserrano40', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6364481233141760/6285360578740224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6364481233141760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1521089121964793752798955'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Anonymous', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5314939133935616/5105237624143872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5314939133935616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_199887879082679355699492'
+    }, 
+    {
+      title: 'New program', 
+      author: 'advittandon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5778330134822912/4588354810462208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5778330134822912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_20905266422837862560481'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'g', 
       votes: 4, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5844710859259904/5086717045686272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5844710859259904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_164809470036976728541308'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'Suhana.jha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5394981813796864/5913001778790400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5394981813796864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019107932742413457872135'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Julia Bugajska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5573334701228032/5740945657348096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5573334701228032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9534618956430848667841286'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'jlfeatherer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6036356334927872/5271391185453056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6036356334927872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1162148492349907274120912'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Paulina Zaród', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5092251555643392/4577389264027648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5092251555643392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_538184131355567179715224'
     }, 
   ];
 };
