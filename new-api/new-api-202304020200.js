@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
+      title: 'Free Form Tower Defense', 
+      author: 'Larry Serflaten', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
       votes: 37, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
       title: 'QR code test', 
@@ -829,6 +829,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'SpaceScript version 1.5.4', 
+      author: 'CG Animation', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spacescript-version-154/6274736213770240/6228381495771136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spacescript-version-154/6274736213770240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319353706324730269103981'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'kk kk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6227374980251648/4691752591343616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6227374980251648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_762018058243937677793157'
+    }, 
+    {
+      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
+      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4842393133432832/5862976851853312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/4842393133432832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
+    }, 
+    {
       title: 'Nice flowers', 
       author: 'Mattomatic', 
       votes: 8, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5379890607341568/5479627633246208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5379890607341568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_991680490098024477922877'
-    }, 
-    {
-      title: 'Code Cleaned :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/code-cleaned/6340985748766720/6579910861963264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/code-cleaned/6340985748766720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'beach defence save', 
-      author: 'Will', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beach-defence-save/6355187569836032/5542726943948800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beach-defence-save/6355187569836032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175625324432585634717608'
-    }, 
-    {
-      title: 'Spin-off of "Logical Operators"', 
-      author: '🍌 𝓁𝒾𝑒𝒻𝒾𝑒 🍌', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5370149395021824/6715532868108288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5370149395021824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042050679658351766127525'
     }, 
   ];
 };
