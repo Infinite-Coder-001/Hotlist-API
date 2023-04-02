@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -658,6 +658,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'buelkenm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4514191529787392/6179338740613120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4514191529787392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6093126881618812396537251'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
+      author: 'Julia Dorożała', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5620754353012736/5909589427273728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5620754353012736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1525571983578413243685398'
+    }, 
+    {
+      title: 'FirstProgram', 
+      author: 'Suday Kukreja', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/firstprogram/4583661216514048/5677243910373376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/firstprogram/4583661216514048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_409414293742307095959429'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'dikshyant', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6460813717323776/6705253325258752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6460813717323776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7993274495849036744585279'
+    }, 
+    {
       title: 'JS PROJECT - Doggo Run ', 
       author: 'Laasya :)', 
       votes: 3, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456/5236199498498048.png', 
       link: 'https://www.khanacademy.org/computer-programming/blobby/4638590668947456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Winston', 
-      author: 'KHAN BOI', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248/6401036672876544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston/5467958072885248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'buelkenm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5728714269966336/5047686110953472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5728714269966336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6093126881618812396537251'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Kristen WANG', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6134039653433344/4806561026588672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6134039653433344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1134188608691645814335838'
-    }, 
-    {
-      title: 'Inspirováno programem "Výzva: Jídelní stůl"', 
-      author: 'Týna Alexandrová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/5380330807934976/4818992540991488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-jdeln-stl/5380330807934976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3491594103864700329396224'
     }, 
   ];
 };
