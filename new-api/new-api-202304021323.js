@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -94,7 +94,7 @@ var LoadHotlistAPI = function() {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 37, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
+      title: 'Derivação de "Desafio: Minhas Comidas Favoritas"', 
+      author: 'KauePonce', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5251328915062784/5472172819922944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-minhas-comidas-favoritas/5251328915062784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1176349627366530904007793'
+    }, 
+    {
       title: 'customizable (and working) button function cuz i\'m bored :P', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 11, 
@@ -665,6 +674,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440/6096630823829504.png', 
       link: 'https://www.khanacademy.org/computer-programming/customizable-and-working-button-function-cuz-im-bored-p/5915789984317440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
+      author: 'Tymoteusz Cybulski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672/5974580167753728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6720066474524672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1933802901359016971210515'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Karaoke song selector"', 
+      author: 'danieal568', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-karaoke-song-selector/6004614806945792/5095007372754944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-karaoke-song-selector/6004614806945792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_562150138567565560789910'
     }, 
     {
       title: 'Derivado de "Desafío: escribe un poema"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-acenando/5668422886408192/5574731530289152.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-boneco-de-neve-acenando/5668422886408192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_741448694925731275501268'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'ameliehsmith', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6377005416497152/5394054100860928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6377005416497152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5787982801677152444032483'
-    }, 
-    {
-      title: 'Doors - Khan edition', 
-      author: 'Waterbolt Games', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doors-khan-edition/6716274890817536/6123289283182592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/doors-khan-edition/6716274890817536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_534951778916163176571040'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Julia Dorożała', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368/5373376517685248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6550597190074368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1525571983578413243685398'
     }, 
   ];
 };
