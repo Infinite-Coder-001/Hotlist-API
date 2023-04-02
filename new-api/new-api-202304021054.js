@@ -694,6 +694,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'smdluv88', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6130422485663744/5918145169899520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6130422485663744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_445065207662234303408613'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Zbuduj dom"', 
+      author: 'Dominika Grzelczak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zbuduj-dom/5069370595524608/4711258369867776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zbuduj-dom/5069370595524608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_704890086792122773003436'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'jakubkotrbanec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5424511525896192/6485179234566144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5424511525896192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_778507392696050153357183'
+    }, 
+    {
+      title: 'Carlos "Proyecto: haz que llueva"', 
+      author: 'cmacgra2204', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/carlos-proyecto-haz-que-llueva/6660862187454464/5463424734904320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/carlos-proyecto-haz-que-llueva/6660862187454464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599245551763147597390574'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'Priyanka C', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/simple/4742072763727872/5074132153974784.png', 
       link: 'https://www.khanacademy.org/computer-programming/simple/4742072763727872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7240836323252567068821794'
-    }, 
-    {
-      title: 'Crab on a beach', 
-      author: 'sanjay.ramnauth', 
-      votes: 32, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384/5497843604570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crab-on-a-beach/6069359333392384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280574960429198222540745'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'sudheerraj4u', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6152587603918848/5102823307264000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6152587603918848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_513477753872449752236467'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Luxmi  Acharya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5653832479850496/4520287967428608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5653832479850496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3748732664308411830367567'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'C1_2333038_김민서_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5844710859259904/5086717045686272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5844710859259904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_164809470036976728541308'
     }, 
   ];
 };
