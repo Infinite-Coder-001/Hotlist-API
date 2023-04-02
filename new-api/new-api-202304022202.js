@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'Promise', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6456819968163840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/5864584075591680.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
@@ -98,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
       link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'flamin\' pancake's subpage', 
+      author: 'flamin\' pancakes', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112/6274676411383808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flamin-pancakes-subpage/6034029796442112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6291610014605619912955757'
     }, 
     {
       title: 'Primavera 2023 Team Data!', 
@@ -289,24 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Opes Flag', 
-      author: 'codeMaster - Opes FTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296/5555701905932288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
-    }, 
-    {
       title: 'Virtus Homepage', 
       author: 'Reflex', 
       votes: 15, 
@@ -379,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'vuckovic.teodora', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5716081152147456/4649515178311680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5716081152147456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_816005870118824687077346'
-    }, 
-    {
       title: 'Rotating Hyperboloid (3d shape)', 
       author: 'Loaf', 
       votes: 18, 
@@ -395,6 +377,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352/5586220542640128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-hyperboloid-3d-shape/4651899925348352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
+    }, 
+    {
+      title: 'shelf', 
+      author: 'Com', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/4922138999177216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Opes Flag', 
+      author: 'codeMaster - Opes FTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296/4781743497592832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
       title: 'Shooter', 
@@ -703,51 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5249411735696699380128415'
     }, 
     {
-      title: 'Spin-off of "Defining your own functions | JavaScript"', 
-      author: 'ayaan.kokate', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-defining-your-own-functions-javascript/6312387834855424/6061250997174272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-defining-your-own-functions-javascript/6312387834855424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
-    }, 
-    {
-      title: 'Spin-off of "Hamburger [Interactive]"', 
-      author: 'wertyqwerty52525', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-hamburger-interactive/4953819332263936/5693308296019968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-hamburger-interactive/4953819332263936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
-    }, 
-    {
-      title: 'Loops with Say your Name', 
-      author: 'Mollie', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loops-with-say-your-name/5161534688116736/6547948268994560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loops-with-say-your-name/5161534688116736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_696310516202730402300759'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'demar.bell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4862699571036160/5879925145124864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4862699571036160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_727547362619203893850048'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Caroline Reid', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6431933686136832/4578006422306816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6431933686136832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6832759540954104863650362'
-    }, 
-    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'victordanielblandon', 
       votes: 3, 
@@ -815,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'Shipment22', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bubble/5778364284846080/5069340648194048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bubble/5778364284846080/5808830702469120.png', 
       link: 'https://www.khanacademy.org/computer-programming/bubble/5778364284846080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_129428899791640004323186'
     }, 
@@ -896,9 +851,54 @@ var LoadHotlistAPI = function() {
       author: 'Jack', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harrison-syled-pixel-art-generator/6632487318241280/6382490928594944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harrison-syled-pixel-art-generator/6632487318241280/5097767224786944.png', 
       link: 'https://www.khanacademy.org/computer-programming/harrison-syled-pixel-art-generator/6632487318241280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_867324693135074280424950'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Corey Samsel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6722848363429888/4571151285403648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6722848363429888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3465015983534144909929888'
+    }, 
+    {
+      title: 'Spin-off of "ellipse(x, y, w, h) | ProcessingJS"', 
+      author: 'Jenn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ellipsex-y-w-h-processingjs/5019849270280192/5482827820089344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ellipsex-y-w-h-processingjs/5019849270280192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7989486284064240726171026'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'carolinesanvieira', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622778201587712/5229838576435200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4622778201587712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_821165395060564452858593'
+    }, 
+    {
+      title: 'The Voice (short story) --- reupload', 
+      author: 'CorruptXFan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-voice-short-story-reupload/6606118769180672/5980703146950656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-voice-short-story-reupload/6606118769180672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_988991806130286159094506'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'marwa.dawwas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5896325611962368/4638776786993152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5896325611962368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1187991352742831629352464'
     }, 
   ];
 };
