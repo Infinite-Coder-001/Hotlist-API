@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5871935700647936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6504819935461376.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6569613602373632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5911856507305984.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -417,7 +417,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Snake Game', 
       author: 'Sspidercat', 
-      votes: 47, 
+      votes: 46, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'LemonSaur', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/4824567282712576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/6366677077114880.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Derivado de "Proyecto: estrella fugaz esta si funciona"', 
-      author: 'josemondragon641', 
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'jorgeneropaiva', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz-esta-si-funciona/5187469160267776/4903133483679744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz-esta-si-funciona/5187469160267776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_143020822109161316060676'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4996190744920064/5252727564451840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4996190744920064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_799855014165015498171736'
     }, 
   ];
 };
