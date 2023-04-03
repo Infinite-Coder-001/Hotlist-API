@@ -694,6 +694,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: 'Loops with Say your Name', 
+      author: 'Nate', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loops-with-say-your-name/6738917715132416/6181164571475968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loops-with-say-your-name/6738917715132416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6661602949289993450574130'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'Sharon G', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5783587300622336/6124816278274048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5783587300622336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_924495539530716706051783'
+    }, 
+    {
       title: 'Derivação de "Projeto: Aquário"', 
       author: 'alexburdelis', 
       votes: 2, 
@@ -707,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'Heather Thervil', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464/6302231889756160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464/4843568947838976.png', 
       link: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2217184586636897176337696'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-excited-snowman/4987391631998976/5946744501485568.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-excited-snowman/4987391631998976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5449506424825991863927291'
-    }, 
-    {
-      title: 'Nameless Cat (1)', 
-      author: 'MostAwesomePerson', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nameless-cat-1/5239705559154688/6372120964939776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nameless-cat-1/5239705559154688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'HT', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227044955635712/6410444219924480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227044955635712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4381490600494802174498185'
     }, 
   ];
 };
