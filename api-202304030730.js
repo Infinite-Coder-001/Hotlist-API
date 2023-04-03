@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
+      title: 'Snake Game', 
+      author: 'Sspidercat', 
+      votes: 44, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
+    }, 
+    {
       title: 'QR code test', 
       author: 'CodingChamp01 🔴', 
       votes: 13, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 43, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
       title: 'team altum homepage', 
