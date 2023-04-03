@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 51, 
+      votes: 50, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -221,7 +221,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6504819935461376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5634150205014016.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -658,33 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
-      title: 'Bartosz Ostrysz Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'bartoszostryszzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bartosz-ostrysz-spin-off-z-wyzwanie-kolorowe-stworzenie/6093230157643776/5816654664876032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bartosz-ostrysz-spin-off-z-wyzwanie-kolorowe-stworzenie/6093230157643776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_585436667463368112072297'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'alba.duran.canalis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6592449977040896/5270833208803328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6592449977040896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_276593143638403205297388'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Arman Choudhary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5678596632133632/5089654450995200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5678596632133632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
-    }, 
-    {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
       author: 'biboandlelo', 
       votes: 1, 
@@ -707,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'huwaemachina', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224/6572893153837056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224/4738267691139072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9516763287364327675832629'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project-summative/5001419540447232/5858592965312512.png', 
       link: 'https://www.khanacademy.org/computer-programming/phone-project-summative/5001419540447232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_864138234796139801245370'
+    }, 
+    {
+      title: 'roman l', 
+      author: 'romanl2025', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/roman-l/5158211406839808/5066790914015232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/roman-l/5158211406839808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9758951033306802949226072'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'natalia.skrundz.sz7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5227381259550720/5624315459715072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5227381259550720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1026883649956811041894478'
+    }, 
+    {
+      title: 'mirela first program', 
+      author: 'mirelab2025', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mirela-first-program/6681750937059328/6599664817455104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mirela-first-program/6681750937059328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101559706696868976150833'
     }, 
   ];
 };
