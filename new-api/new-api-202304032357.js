@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 40, 
+      votes: 41, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 28, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5097866143252480.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: '- Campfire -', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6175638072639488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
       author: 'Jolanta Namięta', 
       votes: 4, 
@@ -374,18 +383,9 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/4899304738439168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/4870778085752832.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6175638072639488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'New program', 
@@ -743,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'gioftate927', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6213575199997952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6275070793400320.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
     }, 
