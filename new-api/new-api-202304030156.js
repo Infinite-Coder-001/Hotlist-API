@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
       votes: 27, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
+      title: 'shelf', 
+      author: 'Com', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Team Opes Homepage 2023', 
@@ -226,24 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
-      title: 'Volcanic Escape 2 GAME', 
-      author: 'Titus Payton(Offline-ish)', 
-      votes: 40, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
-      title: '~ Planet ~', 
-      author: '♢ Waves ♢', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/4819579877769216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
       title: 'virtus homepage', 
       author: 'sugar ♡', 
       votes: 17, 
@@ -253,22 +235,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
+      title: 'Volcanic Escape 2 GAME', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 39, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
+    }, 
+    {
       title: 'Football [GAME]', 
       author: 'LightningCoder', 
-      votes: 12, 
+      votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Opes Flag ', 
-      author: 'codeMaster - Opes FTW', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296/4750761331572736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
       title: 'friends sometimes...', 
@@ -343,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: '~ Planet ~', 
+      author: '♢ Waves ♢', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/4819579877769216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Dragon Adventure 2 0_0', 
       author: 'Jibanyanc', 
       votes: 7, 
@@ -359,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5836016352280576.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'Opes Flag ', 
+      author: 'codeMaster - Opes FTW', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296/4750761331572736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/opes-flag/6444585451831296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/6023463103152128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/4850189975470080.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'The Ember Society #OpesFTW', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/5611005431562240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/4731656998273024.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
