@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/5407747731668992.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'Epic Coder', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/5601658391543808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/4707328231522304.png', 
       link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5479836484419584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5950484830797824.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -712,33 +712,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_35328039264631494100746'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'ZahrahISiddiqui', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6293490247188480/6655122534088704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6293490247188480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1010592005101129496488567'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'abswaim16', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4672331218993152/4965670908641280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4672331218993152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5449506424825991863927291'
-    }, 
-    {
-      title: 'Ap create performance task', 
-      author: 'r0nning', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ap-create-performance-task/5354325032615936/5104481600847872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ap-create-performance-task/5354325032615936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_823538844755603254934795'
-    }, 
-    {
       title: 'Spin-off of "Project: Build-a-House"', 
       author: 'samgold2025', 
       votes: 1, 
@@ -833,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'jigme.dorji3', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096/5732357937348608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096/4947641894223872.png', 
       link: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4601371448098598893515536'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4886839132733440/6720808623063040.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4886839132733440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8157144841353698985358773'
+    }, 
+    {
+      title: 'SpaceScript version 1.5.5', 
+      author: 'CG Animation', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spacescript-version-155/4994716698722304/6017121181286400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spacescript-version-155/4994716698722304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319353706324730269103981'
+    }, 
+    {
+      title: 'Point drawing', 
+      author: 'Jay Parker', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/point-drawing/6249803450466304/6245827787145216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/point-drawing/6249803450466304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_15611362018663423799670'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Asia Malone', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4881238629597184/6431521268613120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4881238629597184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_726166116419820947074915'
     }, 
   ];
 };
