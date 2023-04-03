@@ -424,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4164356982737975081215128'
     }, 
     {
+      title: '- Campfire -', 
+      author: 'Xiøn😋🤩', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5090697792503808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Spin-off of "The Force Ad"', 
       author: '✧ℕ𝕠𝕧𝕒✧ {offline}', 
       votes: 3, 
@@ -685,6 +694,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'JialiangAlice', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6411363074490368/6166102490267648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6411363074490368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3831813471151957149800327'
+    }, 
+    {
+      title: 'unfinished', 
+      author: 'wmdanddnd', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unfinished/5483449214615552/6378643208323072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unfinished/5483449214615552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979507268426677526681583'
+    }, 
+    {
+      title: 'lab6 ', 
+      author: 'Austin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab6/5899659328667648/4983031099342848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab6/5899659328667648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_773156386607220454697515'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Favorite Fruits"', 
       author: 'no.name.com69420', 
       votes: 1, 
@@ -730,22 +766,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'New program', 
+      title: 'Terraria tile test WIP', 
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5795420673720320/5631330475098112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5795420673720320', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5085668385800192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: '- Campfire -', 
-      author: 'Xiøn😋🤩', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5490288757096448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Spin-off of "Challenge: Simple snowman"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boxingglove-store-table/6526428201140224/6394846979080192.png', 
       link: 'https://www.khanacademy.org/computer-programming/boxingglove-store-table/6526428201140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_514657132213619424785823'
-    }, 
-    {
-      title: 'star lab 6', 
-      author: 'Austin Gibbs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/star-lab-6/6358730783637504/5347161295601664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/star-lab-6/6358730783637504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8978152159804885656451590'
-    }, 
-    {
-      title: 'Still Noob', 
-      author: 'udbhavdalmia123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/still-noob/6365882524942336/5774338474426368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/still-noob/6365882524942336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6109965810251083206566038'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Niamh Sass', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5586253048496128/4506301540646912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5586253048496128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4773399966616495587781015'
     }, 
   ];
 };
