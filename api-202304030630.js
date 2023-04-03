@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Team Magus 🐴 [Primavera 2023]', 
+      author: '21262', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 8, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
-      title: 'Team Magus 🐴 [Primavera 2023]', 
-      author: '21262', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: 'im literally so good at naming variables...', 
@@ -138,11 +138,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dad\'s Periodic Table with Data in println', 
       author: 'bob.engwicht', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
       link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
+      title: 'Primavera 2023 Team Data!', 
+      author: 'Polar', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
       title: 'Cinis Homepage', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Primavera 2023 Team Data!', 
-      author: 'Polar', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
       title: 'Further development', 
