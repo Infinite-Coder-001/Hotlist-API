@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 52, 
+      votes: 51, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_813381521096073568944791'
     }, 
     {
-      title: 'door', 
-      author: 'Com', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Country limit', 
       author: 'Heather Thervil', 
       votes: 2, 
@@ -668,51 +659,6 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'saheedadewale950', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6345618944737280/6587149039484928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6345618944737280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337108630719276338856556'
-    }, 
-    {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'telgueben465', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6676448397279232/5081932787662848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/6676448397279232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_193792535062525576662688'
-    }, 
-    {
-      title: 'New program cool', 
-      author: 'Everyman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program-cool/4959478236889088/5155991361732608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program-cool/4959478236889088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8804196929887655285710941'
-    }, 
-    {
-      title: 'stuiterbal', 
-      author: 'jdpgeenen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stuiterbal/5164783109455872/5234484858634240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stuiterbal/5164783109455872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_310798484364424718481338'
-    }, 
-    {
-      title: 'Logan gromSpin-off of "Challenge: Sunny snowy day"', 
-      author: 'logan-grom', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logan-gromspin-off-of-challenge-sunny-snowy-day/4884868044734464/5454822972375040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logan-gromspin-off-of-challenge-sunny-snowy-day/4884868044734464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_72339709465924755309860'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'rashahawot116', 
       votes: 1, 
       forks: 0, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944/6216988054831104.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-virtus/6075170080210944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'aayushisolanki99', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6217452783714304/6472633903529984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6217452783714304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_268963986738138638241856'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Bongumusa Cele', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5399224578785280/5810660098490368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5399224578785280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8453328084416829777935481'
+    }, 
+    {
+      title: 'Big Guy Gryphon by S.M.V.', 
+      author: 'Velvet #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-gryphon-by-smv/4674633455681536/4872331102306304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-guy-gryphon-by-smv/4674633455681536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'fabian łuczko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5989254535888896/5708495610757120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5989254535888896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18484977084442162145970'
+    }, 
+    {
+      title: 'Big Guy Phoenix by S.M.V.', 
+      author: 'Velvet #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-phoenix-by-smv/5072883367067648/6326439860551680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-guy-phoenix-by-smv/5072883367067648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'KodeHustle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4844331715575808/5622590417977344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4844331715575808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7074341530918875403830894'
     }, 
   ];
 };
