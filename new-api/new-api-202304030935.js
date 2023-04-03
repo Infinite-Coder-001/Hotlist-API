@@ -569,7 +569,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Shooter', 
-      author: 'Avinasen', 
+      author: 'Avinasen #CinisFTW', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5796140013633536.png', 
@@ -667,6 +667,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Becky Dong', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4997904311042048/6342567001374720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4997904311042048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3371652598929184736753380'
+    }, 
+    {
+      title: 'Версия на "Предизвикателство: Перфектното пътуване"', 
+      author: 'Daniela Popova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/webpage/6271584706019328/6135177928818688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/webpage/6271584706019328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9818718404582292803608314'
+    }, 
+    {
+      title: 'Magic 8-Ball #1', 
+      author: 'Titan who?', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magic-8-ball-1/5282380840747008/4938238449205248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magic-8-ball-1/5282380840747008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_354728518707487115651964'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'aelitas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4927460228775936/4719085536722944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4927460228775936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_23788610021320080959976'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'rajanipoojary05', 
       votes: 1, 
@@ -683,6 +719,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6532412231434240/5250113825193984.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6532412231434240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_306224772012805203950331'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'amihanb', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6484338360500224/5398368596836352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6484338360500224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_991827372504654001355976'
     }, 
     {
       title: 'No more fake jordans', 
@@ -788,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'abyanghassan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840/5313941418065920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840/5844985443565568.png', 
       link: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_213433748836658895698687'
     }, 
@@ -797,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'mihaly.nikolett0520', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328/5022844842196992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328/6376071999307776.png', 
       link: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_591700359679883224094761'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128/6338151296843776.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2068337964462771461248164'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Lena Živković', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4628836336844800/4904309549744128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4628836336844800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2637544428700567176027023'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'nina.sitdikova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5315372548145152/6508493894107136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5315372548145152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841192510663334820167356'
-    }, 
-    {
-      title: 'komputer  Maria Katlewska 8D', 
-      author: 'Maria Katlewska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/komputer-maria-katlewska-8d/4827335045201920/6391540928004096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/komputer-maria-katlewska-8d/4827335045201920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2239231524362207868354836'
-    }, 
-    {
-      title: ',,Komputer" - Ola Wójcik', 
-      author: 'Aleksandra Wójcik', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/komputer-ola-wjcik/6248238001995776/6053535021318144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/komputer-ola-wjcik/6248238001995776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9307857238777900715315783'
-    }, 
-    {
-      title: 'Origami Game (Folds)', 
-      author: 'Trevor Hoffman', 
-      votes: 49, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248/5559861749530624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/origami-game-folds/5266333685301248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
   ];
 };
