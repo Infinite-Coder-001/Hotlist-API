@@ -320,7 +320,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056/5552581821906944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056/5224725149433856.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6726410367713280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5370064661692416.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -694,6 +694,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
+      title: 'temp', 
+      author: 'JerryBob Studio', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/temp/5329420547309568/4911397889949696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/temp/5329420547309568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'zymzalabim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6113104573546496/5707549233168384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6113104573546496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'raygorleslie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6270084487364608/6350388631748608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6270084487364608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966351827349148804780047'
+    }, 
+    {
+      title: 'Lab 6', 
+      author: 'kavya.vmony', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6/5792548078796800/4537734527238144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-6/5792548078796800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1019248783767648656172850'
+    }, 
+    {
+      title: 'Songs', 
+      author: 's.khemka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/songs/5004069593989120/5600830670815232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/songs/5004069593989120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_811287788546679612396563'
+    }, 
+    {
       title: 'New program', 
       author: 'StuffStash', 
       votes: 1, 
@@ -707,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'no.name.com69420', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5291993933856768/5671298199240704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5291993933856768/5087101579476992.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5291993933856768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_754071463689371323950277'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6319814235963392/4971543773102080.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6319814235963392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2359778209978339794650617'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'billyflowers001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5159424265338880/5534923458134016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5159424265338880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1194018907418886734432113'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'GingerJustin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6318544200712192/6630843151073280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6318544200712192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683299038335343268318501'
-    }, 
-    {
-      title: 'Spin-off of "Loops with Say your name"', 
-      author: 'Niamh Sass', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-loops-with-say-your-name/5603039156420608/6541058856239104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-loops-with-say-your-name/5603039156420608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4773399966616495587781015'
-    }, 
-    {
-      title: 'Spin-off of "ellipse(x, y, w, h) | ProcessingJS"', 
-      author: 'godaranirmala1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ellipsex-y-w-h-processingjs/5487478145597440/6601933256441856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ellipsex-y-w-h-processingjs/5487478145597440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_362200004645221660970820'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Bucktooth Bunny"', 
-      author: 'abswaim16', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/6552188106358784/6089790752866304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/6552188106358784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5449506424825991863927291'
     }, 
   ];
 };
