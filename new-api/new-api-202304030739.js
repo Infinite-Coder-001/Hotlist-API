@@ -676,6 +676,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'Maksymilian Widuliński', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5499715396616192/5977300727545856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5499715396616192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'k78arefeh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5708467450200064/5642615317118976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5708467450200064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3037963376741778450990604'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Eksplodujące słońce"', 
+      author: 'Olivier benclowicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-eksplodujce-soce/4758090508713984/4551187908313088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-eksplodujce-soce/4758090508713984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3809621766757486628288404'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Phemelo Motsamai', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5754621839851520/6563091518373888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5754621839851520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Loki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4512229904138240/6130312225800192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4512229904138240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1113121319899276404796293'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Mkululi Manina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4908443808088064/6752392470380544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4908443808088064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8235914202907202370014728'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'maisie rivera', 
       votes: 1, 
@@ -707,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'Surányi Domonkos Márk', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/az-projekt-utazsi-weboldalvltozata/4529659586068480/5506497653293056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/az-projekt-utazsi-weboldalvltozata/4529659586068480/4652862266458112.png', 
       link: 'https://www.khanacademy.org/computer-programming/az-projekt-utazsi-weboldalvltozata/4529659586068480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_829584649545380454481486'
     }, 
@@ -844,60 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5588517519671296/4531179870273536.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5588517519671296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Recipe Card" by Anu', 
-      author: 'anikapandey014', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card-by-anu/5538886085558272/6753362696781824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card-by-anu/5538886085558272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1195901681468872846994248'
-    }, 
-    {
-      title: 'Function Prg - Davin', 
-      author: 'davin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/function-prg-davin/4700128113115136/5055401398943744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/function-prg-davin/4700128113115136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6446031580146156011044511'
-    }, 
-    {
-      title: 'b', 
-      author: 'acikek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/b/6409952446169088/5161886019796992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/b/6409952446169088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_738558605401990683762684'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'wilkola978e', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5045804269355008/5548077500121088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5045804269355008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841785576125614254275597'
-    }, 
-    {
-      title: 'Spin-off of "Changing rows with UPDATE and DELETE"', 
-      author: 'fauzan talib', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/5480242333663232/6283162243350528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/5480242333663232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Flower Grower"', 
-      author: 'tomislavdronjic', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5443710944067584/5505571584524288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5443710944067584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
     }, 
   ];
