@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Opes Homepage 2023', 
       author: 'ⱠeaferStudios', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/5983014745325568.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
@@ -111,11 +111,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'Cinis Homepage', 
+      author: 'YokieBob', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Cookie Clicker', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
-    }, 
-    {
-      title: 'Cinis Homepage', 
-      author: 'YokieBob', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Further development', 
