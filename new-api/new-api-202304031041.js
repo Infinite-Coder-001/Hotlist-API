@@ -658,6 +658,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'huwaemachina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224/6052379339571200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9516763287364327675832629'
+    }, 
+    {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'tmanimasaun', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6725533120643072/5021950155210752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6725533120643072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1050372582624882276061838'
+    }, 
+    {
+      title: 'Spin-off of " Tourist Department Cuba Minee Richardson"', 
+      author: 'minee.richardson3130', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-tourist-department-cuba-minee-richardson/4771708348448768/6011755005526016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-tourist-department-cuba-minee-richardson/4771708348448768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_598523490634861728966407'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'belen.pm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4637989465800704/5565464576311296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4637989465800704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125690724570690138548242'
+    }, 
+    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'Obakeng Pitse', 
       votes: 1, 
@@ -671,17 +707,17 @@ var LoadHotlistAPI = function() {
       author: 'jesucafabe', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5473348223287296/5492568512315392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5473348223287296/5090240571424768.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5473348223287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6006563590505871438608760'
     }, 
     {
-      title: 'An Incident', 
+      title: 'Spin-off of "An Incident"', 
       author: 'Sizzly69mathwiz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/an-incident/4523046217236480/4506323023872000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/an-incident/4523046217236480', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-an-incident/4523046217236480/4934388380123136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-an-incident/4523046217236480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8946460792937539412960464'
     }, 
     {
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/micha-car-1tcspin-off-z-wyzwanie-kolorowe-stworzenie/6286548372078592/4596757586821120.png', 
       link: 'https://www.khanacademy.org/computer-programming/micha-car-1tcspin-off-z-wyzwanie-kolorowe-stworzenie/6286548372078592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_555886058582719601796854'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
-      author: 'Natalia Piksa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5511802751598592/5532571837710336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5511802751598592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3702225046501734476683274'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'lorenasomavillacasares', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4663841008173056/4812718038368256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4663841008173056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_682120770936331826771206'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Phemelo Motsamai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5926260217004032/4612845636730880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5926260217004032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'natalia.pd', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5804662805807104/4780801557577728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5804662805807104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_16755565585707011509273'
     }, 
   ];
 };
