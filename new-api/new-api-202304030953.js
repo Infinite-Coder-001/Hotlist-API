@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
+      title: 'Team Virtus', 
+      author: 'ChickCoder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688/5927252144734208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
+    }, 
+    {
       title: 'Minimalistic Dodge Game', 
       author: 'Epic Coder', 
       votes: 8, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992/5628244507541504.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/6022330708180992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Team Virtus', 
-      author: 'ChickCoder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688/5927252144734208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
       title: 'Primavera 2023 Altum Backstory', 
@@ -667,6 +667,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ramadhantirizkika', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5152609494417408/6378081079312384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5152609494417408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_800489005344788163752263'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Valentina Palmisano', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6206740480966656/6502280854814720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6206740480966656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8362252831721046889385684'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'Becky Dong', 
       votes: 1, 
@@ -698,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'aelitas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4927460228775936/4719085536722944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4927460228775936/4540507473887232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4927460228775936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_23788610021320080959976'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024/6101892360093696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6209496057623608414251959'
-    }, 
-    {
-      title: ' "Projekt: Co jest na obiad?" Stella Gazda', 
-      author: 'Stella Gazda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projekt-co-jest-na-obiad-stella-gazda/4758640868507648/6060866564046848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projekt-co-jest-na-obiad-stella-gazda/4758640868507648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4362092795276294708451702'
-    }, 
-    {
-      title: 'Spin-off z "blok w słoneczny dzień" Oskar', 
-      author: 'Oskar  krakowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128/6338151296843776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2068337964462771461248164'
     }, 
   ];
 };
