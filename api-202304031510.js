@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 61, 
+      votes: 65, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -12,16 +12,25 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
     }, 
     {
+      title: 'april fools!', 
+      author: 'levi\'s ghost', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5874410960764928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
+    }, 
+    {
       title: 'Astronaut', 
       author: 'Epic Coder', 
-      votes: 27, 
+      votes: 28, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6666202878623744.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
@@ -48,11 +57,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'shelf', 
       author: 'Com', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Emma', 
+      author: 'NIKO Ψ', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/5181477513117696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Apex Games Demo', 
+      author: 'apex', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Team Opes Homepage 2023', 
@@ -64,13 +91,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
-      title: 'Apex Games Demo', 
-      author: 'apex', 
-      votes: 15, 
+      title: 'Cookie Clicker', 
+      author: 'Cat Lady', 
+      votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
       title: 'Fighters! Full release! (light and dark)', 
@@ -82,18 +109,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'Cookie Clicker', 
-      author: 'Cat Lady', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 60, 
+      votes: 62, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -118,18 +136,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
-      title: 'april fools!', 
-      author: 'levi\'s ghost', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5874410960764928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
-    }, 
-    {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 43, 
+      votes: 44, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
@@ -138,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
@@ -199,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
+      title: 'Further development', 
+      author: 'Noah H.', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/6540152618139648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Football [GAME]', 
       author: 'LightningCoder', 
       votes: 16, 
@@ -226,13 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
-      title: 'Further development', 
-      author: 'Noah H.', 
-      votes: 12, 
+      title: 'My gratitude to KA for their excellent videos (eval example obfuscated)', 
+      author: 'InvisibleCat123', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/6438456332173312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos-eval-example-obfuscated/6551987887063040/5741640905179136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos-eval-example-obfuscated/6551987887063040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'Introducing Khanmigo', 
@@ -244,31 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'Snake Game', 
-      author: 'Sspidercat', 
-      votes: 45, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
-      title: 'Eric cartman from south park', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 3, 
+      title: '- Campfire -', 
+      author: 'Xiøn😋🤩', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'QR code test', 
-      author: 'CodingChamp01 🔴', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616/5422882592440320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/qr-code-test/5370643685359616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
