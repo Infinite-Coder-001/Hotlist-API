@@ -694,24 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Emilia Ułasewicz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5910544520626176/6235550609883136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5910544520626176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_259901913602878737152110'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel India"', 
-      author: 'Arman Choudhary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/6169938164498432/5509718241230848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/6169938164498432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
-    }, 
-    {
       title: 'I ♡ Books', 
       author: 'JLE', 
       votes: 15, 
@@ -734,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Trevor Hoffman', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416/4764734294638592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416/5638699665899520.png', 
       link: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
@@ -770,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'DovidMathBoy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296/5818693289558016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296/5606835437748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aarana-hw/4856995082715136/5415328147619840.png', 
       link: 'https://www.khanacademy.org/computer-programming/aarana-hw/4856995082715136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5217405931709498611310435'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'camille valasquez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4711204213014528/5986423103864832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/4711204213014528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7450681630685745545679408'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'tom.dymock', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5345957161254912/6686861637763072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5345957161254912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_501393226392794053751412'
     }, 
   ];
 };
