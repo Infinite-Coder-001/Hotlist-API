@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'No Name', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/5407747731668992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
     }, 
@@ -608,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'NithinP', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/5053257891495936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4796624418422784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
@@ -692,6 +692,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840/6435994007289856.png', 
       link: 'https://www.khanacademy.org/computer-programming/is-it-prime/5412766476451840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'billyflowers001', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5819538861244416/6549030802079744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5819538861244416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1194018907418886734432113'
+    }, 
+    {
+      title: 'Stars', 
+      author: 'Brett Bender', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/stars/5072391316488192/6658073445056512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/stars/5072391316488192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_190686735349950455065308'
+    }, 
+    {
+      title: 'This excuse of a program from Chat GPT', 
+      author: 'Diamond', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-excuse-of-a-program-from-chat-gpt/6299251392167936/4802818885337088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-excuse-of-a-program-from-chat-gpt/6299251392167936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9206851861148273613085676'
+    }, 
+    {
+      title: 'loop with fish tank', 
+      author: 'Nate', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loop-with-fish-tank/6514249418719232/6687089371693056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loop-with-fish-tank/6514249418719232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6661602949289993450574130'
+    }, 
+    {
+      title: 'Projeto: Anúncio Publicitário"', 
+      author: 'Debora Silva', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-anncio-publicitrio/5950382934376448/6231536216358912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projeto-anncio-publicitrio/5950382934376448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7754604941074288665960407'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'Alex Alb', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4929062083805184/6571126999531520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4929062083805184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6676857733911112359327719'
     }, 
     {
       title: 'Loops with Say your Name', 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/5527574265774080/5587714813771776.png', 
       link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/5527574265774080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5442235629163081776736755'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Elmo Quezon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5687603371491328/4575208116895744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5687603371491328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
-    }, 
-    {
-      title: 'Team Opes Hompage (NEW) (Let\'s see Altum top this!)', 
-      author: 'The Ember Society #OpesFTW', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/6530415172304896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Ripple Effect', 
-      author: 'Loaf', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ripple-effect/5838756289757184/6497149929177088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ripple-effect/5838756289757184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120945900993246597167984'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'Simon Pacaje', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5693631265816576/4695221834399744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5693631265816576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_138371370288397580307762'
-    }, 
-    {
-      title: 'blue submarine', 
-      author: 'jigme.dorji3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096/5732357937348608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4601371448098598893515536'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: excited snowman"', 
-      author: 'abswaim16', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-excited-snowman/4987391631998976/5946744501485568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-excited-snowman/4987391631998976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5449506424825991863927291'
     }, 
   ];
 };
