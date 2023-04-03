@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Opes Homepage 2023', 
       author: 'ⱠeaferStudios', 
-      votes: 12, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/5983014745325568.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
@@ -111,20 +111,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
-      title: 'Cinis Homepage', 
-      author: 'YokieBob', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Cookie Clicker', 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
+      title: 'Cinis Homepage', 
+      author: 'YokieBob', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'Further development', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6641335017979904.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -685,15 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'b', 
-      author: 'acikek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/b/6409952446169088/5161886019796992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/b/6409952446169088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_738558605401990683762684'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
       author: 'wilkola978e', 
       votes: 1, 
@@ -707,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'fauzan talib', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/5480242333663232/6283162243350528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/5480242333663232/6080420879056896.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/5480242333663232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6256686196110035528776270'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064/5298995250642944.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
+    }, 
+    {
+      title: 'Riemmen sums', 
+      author: 'DovidMathBoy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296/5818693289558016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
     }, 
   ];
 };
