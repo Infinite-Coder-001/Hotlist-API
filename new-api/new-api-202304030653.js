@@ -676,6 +676,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'David Funke Berrios', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/4521416335867904/5563573289140224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/4521416335867904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3899805366867445049515727'
+    }, 
+    {
+      title: 'Projet dérivé de "Projet : faites pleuvoir"', 
+      author: 'bououdenmahar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-faites-pleuvoir/4553334167224320/5751445812199424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-faites-pleuvoir/4553334167224320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_254478832632177883832730'
+    }, 
+    {
       title: 'New webpage', 
       author: 'Velvet #AltumFTW', 
       votes: 9, 
@@ -683,6 +701,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936/5721500998221824.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6403515498151936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Spin-off of "Project: Make it rain"', 
+      author: 'tomislavdronjic', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5588517519671296/4531179870273536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/5588517519671296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5989052396538111362174870'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Recipe Card" by Anu', 
+      author: 'anikapandey014', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card-by-anu/5538886085558272/6753362696781824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-recipe-card-by-anu/5538886085558272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1195901681468872846994248'
     }, 
     {
       title: 'b', 
@@ -862,42 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/5288959120031744/5785233011294208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/5288959120031744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
-    }, 
-    {
-      title: 'Toilet Papers', 
-      author: 'Trevor Hoffman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416/4764734294638592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
-      title: 'ilk animasyon çalışmam', 
-      author: 'mavimsisi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ilk-animasyon-almam/4835103038816256/6417862635077632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ilk-animasyon-almam/4835103038816256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1295215462145314221965194'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Erbol NadiroV', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5534273441677312/5795296924975104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5534273441677312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1185200268233118457774222'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Arman Choudhary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064/5298995250642944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
     }, 
   ];
