@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 36, 
+      votes: 37, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 41, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'THE KA MOVIE 2', 
+      author: 'obsta07', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
       title: ' "Lyrics"', 
       author: 'cjcool', 
       votes: 11, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'THE KA MOVIE 2', 
-      author: 'obsta07', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
       title: 'Apex Games Demo', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'MYmycopy', 
+      author: 'pathumanithi.thavasingam', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mymycopy/4621057362542592/6644128743211008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mymycopy/4621057362542592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1084464612198912946140463'
+    }, 
+    {
       title: 'pushMatrix(); and popMatrix(); Tutorial', 
       author: '▪Dipper98▪', 
       votes: 9, 
@@ -539,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424/6320254855987200.png', 
       link: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
+    }, 
+    {
+      title: 'Grove Street', 
+      author: 'thisiselonmuskjr', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grove-street/6081330657148928/5106745400934400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grove-street/6081330657148928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7598721162528727154215312'
     }, 
     {
       title: 'Aequor', 
@@ -766,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1026621397061357136656445'
     }, 
     {
+      title: 'Tutorials For All', 
+      author: '▪Dipper98▪', 
+      votes: 19, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/6302286944190464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Couple of Fruits :)', 
       author: 'LemonSaur', 
       votes: 6, 
@@ -773,15 +800,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/couple-of-fruits/4883970631450624/6132874039574528.png', 
       link: 'https://www.khanacademy.org/computer-programming/couple-of-fruits/4883970631450624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: 'Tutorials For All', 
-      author: '▪Dipper98▪', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616/6302286944190464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorials-for-all/6404819591151616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'April Fools Joke PG3D', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464/4843568947838976.png', 
       link: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2217184586636897176337696'
-    }, 
-    {
-      title: 'Fake Pistol Pg3d', 
-      author: 'Phase', 
-      votes: 26, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072/5765399624073216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fake-pistol-pg3d/6083766859907072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'So.....', 
-      author: 'nn167 #altumftw', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/so/4950029157842944/4713476804362240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/so/4950029157842944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_638716116182033578893156'
     }, 
   ];
 };
