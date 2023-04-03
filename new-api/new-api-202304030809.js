@@ -676,177 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
     }, 
     {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Amelia Misiak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6358045417586688/5144004795875328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6358045417586688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_60148268646017541575783'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Maksymilian Widuliński', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6375731656704000/4726455490887680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6375731656704000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
-    }, 
-    {
-      title: 'Spin-off z dominika pakuła"Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'dominikapakulazs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-dominika-pakuawyzwanie-doskonaa-wycieczka-w-obrazkach/4906064010330112/4770258218172416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-dominika-pakuawyzwanie-doskonaa-wycieczka-w-obrazkach/4906064010330112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_294261242476575455927914'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'krmanasvi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5958818753462272/4585121941602304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5958818753462272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7864440740600796673199261'
-    }, 
-    {
-      title: 'Challenge: Colorful creature ', 
-      author: 'Laura Marek', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/4989870104952832/6178510952775680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/4989870104952832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_307403282451230122620341'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Ruqaya Sadiqzade', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4980345067061248/5204736438747136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4980345067061248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9783097642819658272053407'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Obakeng Pitse', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5787594505109504/6062865569333248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5787594505109504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_281251194146601130186267'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Marya Limorova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6582927086632960/4946493611229184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6582927086632960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_362700625739953414205742'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Marya Limorova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6459985929486336/6604380716711936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6459985929486336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_362700625739953414205742'
-    }, 
-    {
-      title: 'Click Click', 
-      author: 'arun0147', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-click/6420586952966144/5591945624993792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-click/6420586952966144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_201012532451409136237993'
-    }, 
-    {
-      title: 'Spin-off Redo of "Project: Recipe book"', 
-      author: 'MallamH', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-redo-of-project-recipe-book/6296423223312384/5326207844663296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-redo-of-project-recipe-book/6296423223312384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_725255719424551057605142'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'czarekchmielewskizs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4571172928012288/6678638067236864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4571172928012288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982195104559740194050038'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Książka kucharska"', 
-      author: 'Maksymilian Widuliński', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6656217280987136/6071580225748992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6656217280987136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Maria Goles', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6744490737188864/5364501605302272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6744490737188864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6246366841439183438659930'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Wiktoria Chruma', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6160673752268800/6004532799913984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6160673752268800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_883721728945973210242922'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'dominikapakulazs7', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5249831749861376/6053424123920384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/5249831749861376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_294261242476575455927914'
-    }, 
-    {
-      title: 'Challenge: Colorful creature', 
-      author: 'Wiktoria Łącka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/6075046046253056/5782158955560960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/6075046046253056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9111368300482174057072423'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Maksymilian Widuliński', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6402344851128320/5812781703282688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6402344851128320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
-      author: 'Amelia Misiak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6736169472933888/5762386603851776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6736169472933888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_60148268646017541575783'
-    }, 
-    {
       title: '29 Bola Seguidora 2 ', 
       author: 'Sergi Ramos', 
       votes: 1, 
@@ -887,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Filip Hojda', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5912399678062592/5382818399305728.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5912399678062592/6207990232563712.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5912399678062592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1104941582922714670269704'
     }, 
@@ -899,6 +728,177 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5726818738159616/5866251059773440.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5726818738159616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2608662634694107972794083'
+    }, 
+    {
+      title: 'Línea que va al centro de la pantalla dependiendo de "h"', 
+      author: 'Ruben Rosell Chaparro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lnea-que-va-al-centro-de-la-pantalla-dependiendo-de-h/4753298868715520/5547129151209472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lnea-que-va-al-centro-de-la-pantalla-dependiendo-de-h/4753298868715520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3610465658902055718716283'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Julia Leonowicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5106702098939904/5550307796107264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5106702098939904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_196653267721150853428764'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Aleksandra Czyżak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6570978688942080/5465368207605760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6570978688942080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2842509991527821772301939'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Kamil Jawdoczenko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5305575023099904/6059780138647552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5305575023099904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_180108883649592209465584'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Tomasz Bednarek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6282247398539264/5861520555950080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6282247398539264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6773356601583982047083021'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Juliusz Królikowski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5707304050933760/6337676266749952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5707304050933760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5298654026780318185925402'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Mateusz Horbas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6435944648720384/5717390982955008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6435944648720384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_313221822894606012134471'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Remmy Michael', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5774726313328640/4572126209425408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5774726313328640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6881658746490054812802712'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Mikołaj  Bogda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4551646664507392/5756001161887744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/4551646664507392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1553217405804083030438998'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
+      author: 'David Rosado', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/6578002067767296/6323170333474816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/6578002067767296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9148069302748075864129829'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'sumanthkommri', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5266579135971328/6328997178032128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5266579135971328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_682443960688327052005820'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Natalia Bąkiewicz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5770742194290688/5203097271189504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5770742194290688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8422976195057665840061605'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Bucktooth Bunny"', 
+      author: 'cant leave empty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/5283956305215488/4957214621351936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/5283956305215488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_494660542831733247439040'
+    }, 
+    {
+      title: 'Spin-off of "Coloring with code"', 
+      author: 'Ferdinand', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5757496649367552/6545441887141888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5757496649367552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_883004422997853104991855'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'chethanam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6320828720660480/4688173205864448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6320828720660480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1054140071648207709660431'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Konrad Gniadzik', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5834063400452096/5515588974985216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5834063400452096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1965003138950371452974941'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Cestovatelská stránka"', 
+      author: 'skala21090', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-cestovatelsk-strnka/5030050824241152/4641197739261952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-cestovatelsk-strnka/5030050824241152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_942895164928046686089471'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'Arman Choudhary', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5779219822198784/6314970653704192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5779219822198784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'Maksymilian Widuliński', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5499715396616192/5977300727545856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/5499715396616192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
     }, 
   ];
 };
