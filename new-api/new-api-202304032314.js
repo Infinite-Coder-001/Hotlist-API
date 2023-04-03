@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: '- Campfire -', 
       author: 'Xiøn😋🤩', 
       votes: 19, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 24, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: 'shelf', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
+      title: 'Primavera 2023 Team Data!', 
+      author: 'Polar', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
       votes: 26, 
@@ -262,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
+      title: 'New program', 
+      author: 'Velvet Faith', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
       title: 'Favorite song', 
       author: 'LemonSaur', 
       votes: 8, 
@@ -269,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5313519605301248.png', 
       link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: 'Primavera 2023 Team Data!', 
-      author: 'Polar', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
       title: 'Cinis Homepage', 
@@ -325,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
     }, 
     {
-      title: 'New program', 
-      author: 'Velvet Faith', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
       author: 'Jolanta Namięta', 
       votes: 4, 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'Epic Coder', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/6325720352866304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/5900747566006272.png', 
       link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
@@ -487,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
+      title: 'Team Cinis Homepage | Primavera', 
+      author: 'Fireball my dear sir #CinisFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/6708726242525184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
       title: 'My gratitude to KA for their excellent videos', 
       author: 'InvisibleCat123', 
       votes: 5, 
@@ -521,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056/5320735083249664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: '* our intro', 
+      author: 'LightningCoder', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/6511577043091456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'pushMatrix(); and popMatrix(); Tutorial', 
@@ -725,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'gioftate927', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/5987708154724352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6427772785573888.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5796140013633536.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'table', 
-      author: 'Com', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/table/5813586170789888/6395286072377344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/table/5813586170789888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Country limit', 
-      author: 'Heather Thervil', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464/4843568947838976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2217184586636897176337696'
     }, 
   ];
 };
