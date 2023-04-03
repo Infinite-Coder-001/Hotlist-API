@@ -658,24 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
-      author: 'bontar1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6275772097806336/5624825378029568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6275772097806336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7915300625330740669459872'
-    }, 
-    {
-      title: 'Bartosz Ostrysz niedokonczone Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'bartoszostryszzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bartosz-ostrysz-niedokonczone-spin-off-z-projekt-strona-o-podrach/4856930725314560/4553733347524608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bartosz-ostrysz-niedokonczone-spin-off-z-projekt-strona-o-podrach/4856930725314560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_585436667463368112072297'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'alba.duran.canalis', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-css-basics/5698712044355584/5832310760194048.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-css-basics/5698712044355584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_718163467729767009584906'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'rajanipoojary05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5667485744676864/4999390738825216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5667485744676864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_306224772012805203950331'
+    }, 
+    {
+      title: 'Big Guy Sea Monster by S.M.V.', 
+      author: 'Velvet #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-sea-monster-by-smv/5468435091079168/6441055466864640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-guy-sea-monster-by-smv/5468435091079168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
   ];
 };
