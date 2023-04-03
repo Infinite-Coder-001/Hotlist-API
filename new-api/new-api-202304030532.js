@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Cookie Clicker', 
+      author: 'Cat Lady', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
+    }, 
+    {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
       votes: 22, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208/6101954469347328.png', 
       link: 'https://www.khanacademy.org/computer-programming/im-literally-so-good-at-naming-variables/6479882105438208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520381678003086805717516'
-    }, 
-    {
-      title: 'Cookie Clicker', 
-      author: 'Cat Lady', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
       title: 'Dad\'s Periodic Table with Data in println', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5634150205014016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Football [GAME]', 
       author: 'LightningCoder', 
       votes: 13, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/5240604515942400.png', 
       link: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5634150205014016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Opes Flag ', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6636702056890368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6137013985394688.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -712,6 +712,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'Luke Kim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5848537205358592/6130343968292864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5848537205358592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_755085320888823753136622'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'LJE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5165188178558976/5525498152402944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5165188178558976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1034761647362147362261181'
+    }, 
+    {
       title: 'Lab 6', 
       author: 'dayval', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4549830027558912/4582435707994112.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4549830027558912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_39875027030419749179915'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Angel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4577057704296448/6452607041454080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4577057704296448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
-    }, 
-    {
-      title: 'Spin-off of "Making animations"', 
-      author: 'prasanth.k99y', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6303266297397248/4973028925816832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6303266297397248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2715714821795966769288039'
     }, 
   ];
 };
