@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'vertex() and curveVertex() tool', 
       author: 'Promise', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6456819968163840.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5479836484419584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568/5157735118454784.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooter/6221873018093568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -703,6 +703,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_250576649464261206818725'
     }, 
     {
+      title: 'Country limit', 
+      author: 'Heather Thervil', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464/6302231889756160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/country-limit/6510500583358464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2217184586636897176337696'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'phankhaclocvk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5080776241889280/5445297288560640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5080776241889280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4202001139918734827583498'
+    }, 
+    {
+      title: 'Spin-off of "HTML basics"', 
+      author: 'Jon Poff', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5458858245144576/5352361309814784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5458858245144576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4956578812849178135549743'
+    }, 
+    {
+      title: 'HoMM movement system', 
+      author: 'Middleforest20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/homm-movement-system/5137076996849664/5896472093835264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/homm-movement-system/5137076996849664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
       title: '"Proyecto: estrella fugaz" Noche estrellada', 
       author: 'monicarox.contre', 
       votes: 2, 
@@ -734,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'r0nning', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ap-create-performance-task/5354325032615936/5104481600847872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ap-create-performance-task/5354325032615936/6751642730151936.png', 
       link: 'https://www.khanacademy.org/computer-programming/ap-create-performance-task/5354325032615936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_823538844755603254934795'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227044955635712/6410444219924480.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6227044955635712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4381490600494802174498185'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'kayley.macdonald', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4931911509393408/4942266860093440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4931911509393408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1108006821367327555207918'
-    }, 
-    {
-      title: 'Bookshelf', 
-      author: 'Alanna Chapman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bookshelf/6561880874467328/5462738865537024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bookshelf/6561880874467328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18628906582129934175457'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'harryjrangi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5939814722748416/5131126068002816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5939814722748416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6121136437404125272879453'
-    }, 
-    {
-      title: 'Derivação de "Projeto: estrela cadente"', 
-      author: 'Vitoria  Francisco do Nascimento', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4886839132733440/6720808623063040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estrela-cadente/4886839132733440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8157144841353698985358773'
     }, 
   ];
 };
