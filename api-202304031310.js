@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Opes Homepage 2023', 
       author: 'ⱠeaferStudios', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/5983014745325568.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 56, 
+      votes: 57, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -103,7 +103,7 @@ var LoadHotlistAPI = function() {
       title: 'Reckless Racer 3D', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 43, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
       link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
+    }, 
+    {
+      title: 'Cookie Clicker', 
+      author: 'Cat Lady', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -136,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'Cookie Clicker', 
-      author: 'Cat Lady', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5620831024889856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
       votes: 85, 
@@ -156,11 +156,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera 2023 Team Data!', 
       author: 'Polar', 
-      votes: 13, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Further development', 
@@ -181,13 +190,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+      title: 'Favorite song', 
+      author: 'LemonSaur', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5836016352280576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 44, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'Minimalistic Dodge Game', 
+      author: 'Epic Coder', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/5601658391543808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
       title: 'Snake Game', 
@@ -199,13 +226,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 43, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+      title: 'door', 
+      author: 'Com', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'QR code test', 
@@ -226,49 +253,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'My gratitude to KA for their excellent videos', 
-      author: 'InvisibleCat123', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos/4631193888014336/4585289143336960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos/4631193888014336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'virtus homepage', 
-      author: 'sugar ♡', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
-      votes: 41, 
+      votes: 42, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
-      title: 'Team Virtus', 
-      author: 'ChickCoder', 
-      votes: 5, 
+      title: 'Guess the song', 
+      author: 'LemonSaur', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688/5927252144734208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-virtus/5821851885682688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
-    }, 
-    {
-      title: 'Minimalistic Dodge Game', 
-      author: 'Epic Coder', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/5601658391543808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-the-song/6553410158772224/5175456304513024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/guess-the-song/6553410158772224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
   ];
 };
