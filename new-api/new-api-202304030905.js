@@ -667,42 +667,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
     }, 
     {
-      title: 'Spin-off of "Functions"', 
-      author: 'garoldharwood', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5125979338227712/5444921076269056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5125979338227712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6954224936365075855103405'
-    }, 
-    {
-      title: 'Types of coding languages', 
-      author: 'dhakshini.a', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/types-of-coding-languages/6548732536733696/5817984552845312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/types-of-coding-languages/6548732536733696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9306735016091726779702612'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'nina.sitdikova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4616331589894144/5376084561674240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4616331589894144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841192510663334820167356'
-    }, 
-    {
-      title: 'Milestone Abyan', 
-      author: 'abyanghassan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840/5313941418065920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_213433748836658895698687'
-    }, 
-    {
       title: 'Ciprus utazás', 
       author: 'mihaly.nikolett0520', 
       votes: 1, 
@@ -764,6 +728,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128/6338151296843776.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2068337964462771461248164'
+    }, 
+    {
+      title: 'Building Canvas', 
+      author: 'Dark Flame', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/building-canvas/6650995003408384/5395772087779328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/building-canvas/6650995003408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
     }, 
     {
       title: 'Spin-off of "Project: Travel webpage"', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6332175822929920/5599719348027392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6332175822929920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_782869765815734873464217'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Remmy Michael', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5542943068045312/6672233885122560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5542943068045312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6881658746490054812802712'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Karolina Kupiec', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6231543128571904/6344725448933376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6231543128571904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149370548816341799579051'
+    }, 
+    {
+      title: 'utazás 1', 
+      author: 'mihaly.nikolett0520', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/utazs-1/6606365067100160/6600458371383296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/utazs-1/6606365067100160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_591700359679883224094761'
     }, 
   ];
 };
