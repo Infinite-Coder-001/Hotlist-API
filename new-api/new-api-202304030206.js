@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Astronaut', 
       author: 'Epic Coder', 
       votes: 18, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6666202878623744.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'Liam K.', 
-      votes: 23, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 55, 
+      votes: 56, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
@@ -262,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/4946005067087872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Opes Flag ', 
       author: 'codeMaster - Opes FTW', 
       votes: 4, 
@@ -287,15 +296,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
       link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/5205340686958592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: '🗿', 
@@ -608,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'NithinP', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4650467654418432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080/4991652273111040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5560072781742080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
@@ -719,6 +719,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152/5611005431562240.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-hompage-new-lets-see-altum-top-this/6692618403889152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'Simon Pacaje', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5693631265816576/4695221834399744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5693631265816576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_138371370288397580307762'
+    }, 
+    {
+      title: 'blue submarine', 
+      author: 'jigme.dorji3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096/5629313065205760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-submarine/5956740500996096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4601371448098598893515536'
     }, 
     {
       title: 'Nameless Cat (1)', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6139264816693248/5231166576967680.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6139264816693248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
-    }, 
-    {
-      title: 'Map', 
-      author: 'DES', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/map/4815250617843712/6400485667160064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/map/4815250617843712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
-    }, 
-    {
-      title: 'New webpage tourist department (sint maarten) Shayanza Martina ', 
-      author: 'shayanza.martina3329', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage-tourist-department-sint-maarten-shayanza-martina/6070777201082368/4607106537013248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage-tourist-department-sint-maarten-shayanza-martina/6070777201082368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1090849007136609768628032'
     }, 
   ];
 };
