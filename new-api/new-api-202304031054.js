@@ -658,29 +658,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'biboandlelo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5112137749151744/5416335283896320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5112137749151744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8632493540637590042410684'
-    }, 
-    {
-      title: 'Example By Teacher', 
-      author: 'William Garcia Franks', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/example-by-teacher/5812086220570624/6119167238651904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/example-by-teacher/5812086220570624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_555430956208811655352793'
-    }, 
-    {
       title: 'Spin-off of "Drawing more shapes with code"', 
       author: 'huwaemachina', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224/4738267691139072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224/6052379339571200.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5257757147316224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9516763287364327675832629'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mirela-first-program/6681750937059328/6599664817455104.png', 
       link: 'https://www.khanacademy.org/computer-programming/mirela-first-program/6681750937059328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101559706696868976150833'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Mkululi Manina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4985676606259200/5692588335349760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4985676606259200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8235914202907202370014728'
+    }, 
+    {
+      title: 'Michał CAR 1TCSpin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'michalcarzs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/micha-car-1tcspin-off-z-wyzwanie-kolorowe-stworzenie/6286548372078592/4596757586821120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/micha-car-1tcspin-off-z-wyzwanie-kolorowe-stworzenie/6286548372078592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_555886058582719601796854'
     }, 
   ];
 };
