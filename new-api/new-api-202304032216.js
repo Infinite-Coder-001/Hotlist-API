@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 76, 
-      forks: 5, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'New program', 
+      author: 'AppleSaur', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'chair', 
       author: 'Com', 
       votes: 20, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
       link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
-    }, 
-    {
-      title: 'New program', 
-      author: 'AppleSaur', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Eric cartman from south park', 
@@ -325,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
+      title: 'Logo for Full Party', 
+      author: 'LemonSaur', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
       title: 'team altum homepage', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 12, 
@@ -347,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5278661482954752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6650809564839936.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -494,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056/5320735083249664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Logo for Full Party', 
-      author: 'LemonSaur', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
       title: 'esquiando att tadeo ', 
@@ -671,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Magus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/5953241579044864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/5706940304113664.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book List database"', 
-      author: 'Jasmin Castillo', 
+      title: 'Spin-off of "Challenge: Tasty Tomato"', 
+      author: 'ozan.eren.eryilmaz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4788195545104384/4764130759458816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4788195545104384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2301206373443659763974183'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5037294588575744/6013577816489984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5037294588575744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_157847512777129047807863'
     }, 
   ];
 };
