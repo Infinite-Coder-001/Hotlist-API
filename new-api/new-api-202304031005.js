@@ -667,6 +667,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Phemelo Motsamai', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5926260217004032/4755605316485120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5926260217004032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'natalia.pd', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5804662805807104/4780801557577728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5804662805807104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_16755565585707011509273'
+    }, 
+    {
+      title: 'Big Guy Dragon by S.M.V.', 
+      author: 'Velvet #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-dragon-by-smv/6316013391233024/5928042687152128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-guy-dragon-by-smv/6316013391233024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods" Amir', 
+      author: 'mr.amir.mti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods-amir/6429029214502912/6081867343511552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods-amir/6429029214502912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1038456884331325798371810'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Krystian Pienko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5848853556543488/5543489367752704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5848853556543488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2851358784971258121854953'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'krishnan.shanti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5843166281646080/5195436744032256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5843166281646080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1149447619344415007470432'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'natalia.skrundz.sz7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6266328907563008/5484408401608704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6266328907563008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1026883649956811041894478'
+    }, 
+    {
       title: 'Derivado de "Desafío: vínculos que te encantan"', 
       author: 'pablogomezconde', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5125979338227712/5444921076269056.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-functions/5125979338227712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6954224936365075855103405'
-    }, 
-    {
-      title: 'Types of coding languages', 
-      author: 'dhakshini.a', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/types-of-coding-languages/6548732536733696/5817984552845312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/types-of-coding-languages/6548732536733696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9306735016091726779702612'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'nina.sitdikova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4616331589894144/5376084561674240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4616331589894144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841192510663334820167356'
-    }, 
-    {
-      title: 'Milestone Abyan', 
-      author: 'abyanghassan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840/5844985443565568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/milestone-abyan/6372938082467840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_213433748836658895698687'
-    }, 
-    {
-      title: 'Ciprus utazás', 
-      author: 'mihaly.nikolett0520', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328/6376071999307776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_591700359679883224094761'
-    }, 
-    {
-      title: 'dominik cholody ', 
-      author: 'dominikcholzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dominik-cholody/5735940678270976/4846944456589312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dominik-cholody/5735940678270976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8932427625096573815069019'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'dominikcholzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6537187832414208/6302533300830208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6537187832414208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8932427625096573815069019'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'laura.hair333', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992/4681942718267392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
     }, 
   ];
 };
