@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 37, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -21,11 +21,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 42, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
+    }, 
+    {
+      title: 'Team Cinis | Primavera 2023', 
+      author: 'Lemon Games', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
       title: 'Free Form Tower Defense', 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
-      title: 'Team Cinis | Primavera 2023', 
-      author: 'Lemon Games', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
       title: 'Astronaut', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: '- Campfire -', 
       author: 'Xiøn😋🤩', 
       votes: 19, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 24, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: 'shelf', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -244,30 +244,30 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Logo for Full Party', 
-      author: 'LemonSaur', 
+      title: 'Team Cinis Homepage | Primavera', 
+      author: 'Fireball my dear sir #CinisFTW', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/6708726242525184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
-      title: 'Favorite song', 
+      title: 'Logo for Full Party', 
       author: 'LemonSaur', 
-      votes: 8, 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5313519605301248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
   ];
