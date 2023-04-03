@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'rashahawot116', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6595472484777984/4854855182368768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6595472484777984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_661183552797239190990192'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
       author: 'bontar1', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4844331715575808/5622590417977344.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4844331715575808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7074341530918875403830894'
-    }, 
-    {
-      title: 'Spin-off z "CSS Basics"', 
-      author: 'kacpersteczs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-css-basics/5698712044355584/5832310760194048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-css-basics/5698712044355584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_718163467729767009584906'
     }, 
   ];
 };
