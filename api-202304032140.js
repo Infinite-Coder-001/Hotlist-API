@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 34, 
-      forks: 0, 
+      votes: 36, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -39,16 +39,16 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/5108745513517056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/4750820806803456.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
       title: 'Astronaut', 
       author: 'Epic Coder', 
-      votes: 33, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6666202878623744.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Cookie Clicker', 
+      author: 'Cat Lady', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5097866143252480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
+    }, 
+    {
       title: 'vertex() and curveVertex() tool', 
       author: 'Promise', 
       votes: 24, 
@@ -73,18 +82,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
-      title: 'Cookie Clicker', 
-      author: 'Cat Lady', 
-      votes: 25, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5097866143252480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
       title: 'shelf', 
       author: 'Com', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Campfire -', 
       author: 'Xiøn😋🤩', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -163,6 +163,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: '432 practice 1.0 finally finished', 
+      author: '1001programmer1001', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/5446213089673216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+    }, 
+    {
+      title: 'door', 
+      author: 'Com', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'Screen Static', 
       author: 'Chickenfarmer2009', 
       votes: 6, 
@@ -199,24 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
-      title: '432 practice 1.0 finally finished', 
-      author: '1001programmer1001', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/5446213089673216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
-      title: 'door', 
-      author: 'Com', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Eric cartman from south park', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 6, 
@@ -244,6 +244,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
+      title: 'Favorite song', 
+      author: 'LemonSaur', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5313519605301248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'Primavera 2023 Team Data!', 
+      author: 'Polar', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
+    }, 
+    {
       title: 'Cinis Homepage', 
       author: 'YokieBob', 
       votes: 9, 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Primavera 2023 Team Data!', 
-      author: 'Polar', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336/5128427150819328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-2023-team-data/6547253667086336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
-    }, 
-    {
-      title: 'Favorite song', 
-      author: 'LemonSaur', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5313519605301248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
   ];
 };
