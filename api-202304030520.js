@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'Liam K.', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: '♢ Waves ♢', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/4819579877769216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/5240604515942400.png', 
       link: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
