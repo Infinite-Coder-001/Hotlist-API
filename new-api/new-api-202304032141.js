@@ -41,14 +41,14 @@ var LoadHotlistAPI = function() {
       author: 'Lemon Games', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/4750820806803456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/5437229897138176.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
       title: 'Astronaut', 
       author: 'Epic Coder', 
-      votes: 34, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6666202878623744.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: '- Campfire -', 
       author: 'Xiøn😋🤩', 
       votes: 18, 
@@ -98,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'shelf', 
+      author: 'Com', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: ' "Lyrics"', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/5519859044892672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/6280223495864320.png', 
       link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -424,15 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
     }, 
     {
-      title: 'New program', 
-      author: 'Velvet Faith', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
       title: 'QR code test', 
       author: 'CodingChamp01 🔴', 
       votes: 13, 
@@ -500,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'LemonSaur', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/6366677077114880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5851466154950656.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
@@ -566,15 +557,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/studyhall-boredom/5428376509923328/5373995596955648.png', 
       link: 'https://www.khanacademy.org/computer-programming/studyhall-boredom/5428376509923328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_136176693135406506335043'
-    }, 
-    {
-      title: 'Princess Addie', 
-      author: 'cjcool', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'Mountains...', 
@@ -775,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
+      title: 'New program', 
+      author: 'Velvet Faith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
       title: 'Tutorials For All', 
       author: '▪Dipper98▪', 
       votes: 18, 
@@ -892,13 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'jorgeneropaiva', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'MarshallG', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4996190744920064/5252727564451840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/4996190744920064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_799855014165015498171736'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6398176518258688/6356108253118464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6398176518258688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5537973261753109233872749'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Kyeu Lanza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6097140792475648/5064046379581440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6097140792475648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8566244005289477357369080'
     }, 
   ];
 };
