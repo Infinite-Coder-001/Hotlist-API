@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dad\'s Periodic Table with Data in println', 
       author: 'bob.engwicht', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736/5950383093760000.png', 
       link: 'https://www.khanacademy.org/computer-programming/dads-periodic-table-with-data-in-println/6272859573108736', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5448500327530496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6137013985394688.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -703,69 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: 'ilk animasyon çalışmam', 
-      author: 'mavimsisi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ilk-animasyon-almam/4835103038816256/6417862635077632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ilk-animasyon-almam/4835103038816256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1295215462145314221965194'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Erbol NadiroV', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5534273441677312/5795296924975104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5534273441677312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1185200268233118457774222'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Arman Choudhary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064/5298995250642944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6604354007384064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
-    }, 
-    {
-      title: 'Riemmen sums', 
-      author: 'DovidMathBoy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296/5606835437748224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/riemmen-sums/5727921504567296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'prole.andrija', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6503249873256448/6159899181760512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6503249873256448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_453163789674231108407385'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'zymzalabim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6718628658724864/5914532733304832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6718628658724864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
-    }, 
-    {
-      title: 'Project: Data dig for Pokemon Stats', 
-      author: 'danielhyokunchoi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-data-dig-for-pokemon-stats/5510007883087872/4857456556818432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-data-dig-for-pokemon-stats/5510007883087872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_782939150724077766414028'
-    }, 
-    {
       title: 'Press a Key', 
       author: 'KHAN BOI', 
       votes: 3, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5514246613155840/4855405340835840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5514246613155840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
+    }, 
+    {
+      title: 'temp', 
+      author: 'JerryBob Studio', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/temp/5329420547309568/4911397889949696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/temp/5329420547309568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'zymzalabim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6113104573546496/5707549233168384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6113104573546496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'raygorleslie', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6270084487364608/6350388631748608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6270084487364608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_966351827349148804780047'
+    }, 
+    {
+      title: 'Lab 6', 
+      author: 'kavya.vmony', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6/5792548078796800/5903148586942464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-6/5792548078796800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1019248783767648656172850'
+    }, 
+    {
+      title: 'Songs', 
+      author: 's.khemka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/songs/5004069593989120/6400490566107136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/songs/5004069593989120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_811287788546679612396563'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 'no.name.com69420', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5291993933856768/5087101579476992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/5291993933856768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_754071463689371323950277'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'aguirrenicolas798', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4549830027558912/4582435707994112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4549830027558912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_39875027030419749179915'
     }, 
   ];
 };
