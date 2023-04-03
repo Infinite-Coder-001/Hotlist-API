@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/6708726242525184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/5671276590186496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/5363240982069248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/4899304738439168.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -743,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'gioftate927', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6427772785573888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6213575199997952.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
     }, 
