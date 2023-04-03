@@ -667,114 +667,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_761115913809632965094223'
     }, 
     {
-      title: 'Ciprus utazás', 
-      author: 'mihaly.nikolett0520', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328/6086443731828736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ciprus-utazs/6715996380643328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_591700359679883224094761'
-    }, 
-    {
-      title: 'dominik cholody ', 
-      author: 'dominikcholzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dominik-cholody/5735940678270976/4846944456589312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dominik-cholody/5735940678270976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8932427625096573815069019'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'dominikcholzs7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6537187832414208/6302533300830208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6537187832414208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8932427625096573815069019'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'laura.hair333', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992/4681942718267392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
-    }, 
-    {
-      title: 'Spin-off z "Rysowanie z kodem"', 
-      author: 'Zuzia Łakomiak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024/6101892360093696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6209496057623608414251959'
-    }, 
-    {
-      title: ' "Projekt: Co jest na obiad?" Stella Gazda', 
-      author: 'Stella Gazda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projekt-co-jest-na-obiad-stella-gazda/4758640868507648/6060866564046848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projekt-co-jest-na-obiad-stella-gazda/4758640868507648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4362092795276294708451702'
-    }, 
-    {
-      title: 'Spin-off z "blok w słoneczny dzień" Oskar', 
-      author: 'Oskar  krakowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128/6338151296843776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-blok-w-soneczny-dzie-oskar/4610301422256128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2068337964462771461248164'
-    }, 
-    {
-      title: 'Building Canvas', 
-      author: 'Dark Flame', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/building-canvas/6650995003408384/5395772087779328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/building-canvas/6650995003408384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Lena Živković', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4628836336844800/4904309549744128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4628836336844800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2637544428700567176027023'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'nina.sitdikova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5315372548145152/6508493894107136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5315372548145152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841192510663334820167356'
-    }, 
-    {
-      title: 'komputer  Maria Katlewska 8D', 
-      author: 'Maria Katlewska', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/komputer-maria-katlewska-8d/4827335045201920/6391540928004096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/komputer-maria-katlewska-8d/4827335045201920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2239231524362207868354836'
-    }, 
-    {
-      title: ',,Komputer" - Ola Wójcik', 
-      author: 'Aleksandra Wójcik', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/komputer-ola-wjcik/6248238001995776/6053535021318144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/komputer-ola-wjcik/6248238001995776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9307857238777900715315783'
-    }, 
-    {
       title: 'Origami Game (Folds)', 
       author: 'Trevor Hoffman', 
       votes: 49, 
@@ -788,18 +680,9 @@ var LoadHotlistAPI = function() {
       author: 'Phemelo Motsamai', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5211964499607552/5845823658442752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5211964499607552/4880301789855744.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5211964499607552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6894215113495975904112759'
-    }, 
-    {
-      title: 'tokeletes utazaaas:D', 
-      author: 'KollerBence', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tokeletes-utazaaasd/5847692237651968/5940727134863360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tokeletes-utazaaasd/5847692237651968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_413604378218408891130251'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
@@ -899,6 +782,123 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/utazs-1/6606365067100160/6600458371383296.png', 
       link: 'https://www.khanacademy.org/computer-programming/utazs-1/6606365067100160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_591700359679883224094761'
+    }, 
+    {
+      title: 'Olaszország 2023', 
+      author: 'Szabó Larissza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/olaszorszg-2023/5736153883131904/4747942004310016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/olaszorszg-2023/5736153883131904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_534015755134290859001464'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: gente famosa"', 
+      author: 'vicbotsan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6596909419773952/4900704100859904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6596909419773952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_442817421018366673561710'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'czarekchmielewskizs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5249745489805312/4746636166479872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5249745489805312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982195104559740194050038'
+    }, 
+    {
+      title: 'Tökéletes utazás', 
+      author: 'Hornyák Hunor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tkletes-utazs/6330259470598144/6136783936208896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tkletes-utazs/6330259470598144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_994941247101755626782845'
+    }, 
+    {
+      title: 'Spin-off dominika pakułaz "Wyzwanie: Twoja lista do nauki"', 
+      author: 'dominikapakulazs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-dominika-pakuaz-wyzwanie-twoja-lista-do-nauki/5064237723729920/5680160461602816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-dominika-pakuaz-wyzwanie-twoja-lista-do-nauki/5064237723729920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_294261242476575455927914'
+    }, 
+    {
+      title: 'Poor OHNOES has too much work', 
+      author: 'anikapandey014', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/poor-ohnoes-has-too-much-work/6751117745897472/5663313116839936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/poor-ohnoes-has-too-much-work/6751117745897472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1195901681468872846994248'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Roman Nagochevskiy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5338278481149952/6736890230521856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/5338278481149952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1939606146965568051839660'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'silverbv120', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5830434522185728/4743643950006272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5830434522185728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3415472588041387855943716'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'Amelia Misiak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6358045417586688/5144004795875328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/6358045417586688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_60148268646017541575783'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
+      author: 'Maksymilian Widuliński', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6375731656704000/4726455490887680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-kolorowe-stworzenie/6375731656704000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1495950468292091128009514'
+    }, 
+    {
+      title: 'Spin-off z dominika pakuła"Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'dominikapakulazs7', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-dominika-pakuawyzwanie-doskonaa-wycieczka-w-obrazkach/4906064010330112/4770258218172416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-dominika-pakuawyzwanie-doskonaa-wycieczka-w-obrazkach/4906064010330112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_294261242476575455927914'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'krmanasvi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5958818753462272/4585121941602304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5958818753462272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7864440740600796673199261'
+    }, 
+    {
+      title: 'Challenge: Colorful creature ', 
+      author: 'Laura Marek', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/4989870104952832/6178510952775680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-colorful-creature/4989870104952832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_307403282451230122620341'
     }, 
   ];
 };
