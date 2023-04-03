@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6726410367713280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5090697792503808.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -694,24 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Natasha  Parker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5905661679681536/5416672405274624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5905661679681536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4079304020669911111342141'
-    }, 
-    {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: 'Tristan Monaco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5087201471021056/4863128832884736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5087201471021056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_251390425385440902617013'
-    }, 
-    {
       title: 'Spin-off of "Project: Build-a-House"', 
       author: 'JialiangAlice', 
       votes: 1, 
@@ -788,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/4964876339691520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5085668385800192.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4655142424330240/5534458829914112.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4655142424330240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5449506424825991863927291'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Jules Cruz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6608295646511104/6646768017391616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6608295646511104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5155263296444006168651884'
+    }, 
+    {
+      title: 'BoxingGlove Store Table', 
+      author: 'Daniel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boxingglove-store-table/6526428201140224/6394846979080192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boxingglove-store-table/6526428201140224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_514657132213619424785823'
     }, 
   ];
 };
