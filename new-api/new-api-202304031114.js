@@ -658,42 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_603622868838156310374381'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'alba.duran.canalis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6355357892132864/5921723448082432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6355357892132864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_276593143638403205297388'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'aitana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6356724044054528/6346444761251840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6356724044054528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_524329061256688559984079'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'belen.pm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4798760879439872/4648291532062720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4798760879439872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_125690724570690138548242'
-    }, 
-    {
-      title: 'Derivado de "Desafío: lista de deseos"', 
-      author: 'telgueben465', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4873757383770112/6562615649419264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4873757383770112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_193792535062525576662688'
-    }, 
-    {
       title: 'Bartosz Ostrysz Spin-off z "Wyzwanie: Kolorowe stworzenie"', 
       author: 'bartoszostryszzs7', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-sea-monster-by-smv/5468435091079168/6441055466864640.png', 
       link: 'https://www.khanacademy.org/computer-programming/big-guy-sea-monster-by-smv/5468435091079168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: '"გამოწვევა: სმაილი"-ის სპინ-ოფები', 
+      author: 'iraklipotskhverashvili', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5701604436393984/6144011233705984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/5701604436393984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5278117711767170560962400'
+    }, 
+    {
+      title: 'Spin-off z "Projekt: Strona o podróżach"', 
+      author: 'kacpersteczs7', 
+      votes: 1, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5843815668957184/5995053773537280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5843815668957184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_718163467729767009584906'
+    }, 
+    {
+      title: 'Big Guy Unicorn by S.M.V.', 
+      author: 'Velvet #AltumFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/big-guy-unicorn-by-smv/6749775191130112/5385475650273280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/big-guy-unicorn-by-smv/6749775191130112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'Phone Project summative ', 
+      author: 'cdavies', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phone-project-summative/5001419540447232/5858592965312512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phone-project-summative/5001419540447232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_864138234796139801245370'
     }, 
   ];
 };
