@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/4959129539231744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6636702056890368.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -712,6 +712,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_155927431112014253485175'
     }, 
     {
+      title: 'Lab 6', 
+      author: 'dayval', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-6/4935687137968128/5813885006561280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-6/4935687137968128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8690619608050814478981459'
+    }, 
+    {
+      title: 'Lab Assignment 06- Falling Stars', 
+      author: 'AloveraJuice', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-assignment-06-falling-stars/6515723129372672/6670392048795648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-assignment-06-falling-stars/6515723129372672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4080740134606469240657248'
+    }, 
+    {
       title: 'Spin-off of "Nested For Loops"', 
       author: 'Angel', 
       votes: 1, 
@@ -743,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'amromero', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aiyannas-spin-off-of-html-tables/6596136258551808/5927271572750336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aiyannas-spin-off-of-html-tables/6596136258551808/6356682403004416.png', 
       link: 'https://www.khanacademy.org/computer-programming/aiyannas-spin-off-of-html-tables/6596136258551808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_930482303970220742501236'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6303266297397248/4973028925816832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6303266297397248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2715714821795966769288039'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ataque animal"', 
-      author: 'estherhf020218', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4961995893030912/5051492878041088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/4961995893030912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593340519648958909026656'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Natasha  Parker', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5905661679681536/5416672405274624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5905661679681536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4079304020669911111342141'
     }, 
   ];
 };
