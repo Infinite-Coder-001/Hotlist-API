@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/6486487622533120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5448500327530496.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -703,24 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_344949764307318233637518'
     }, 
     {
-      title: 'Spin-off of "Project: Travel India"', 
-      author: 'Arman Choudhary', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/5288959120031744/5785233011294208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-india/5288959120031744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
-    }, 
-    {
-      title: 'Toilet Papers', 
-      author: 'Trevor Hoffman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416/5638699665899520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/toilet-papers/5843584806076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315633474168079403523785'
-    }, 
-    {
       title: 'ilk animasyon çalışmam', 
       author: 'mavimsisi', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5345957161254912/6686861637763072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5345957161254912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_501393226392794053751412'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: '142658', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4687711429771264/6633766815842304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4687711429771264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_175018609846818494286181'
+    }, 
+    {
+      title: 'Spin-off of "Readable Code"', 
+      author: 'Angel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5514246613155840/4855405340835840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5514246613155840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_128948540437513058755328'
     }, 
   ];
 };
