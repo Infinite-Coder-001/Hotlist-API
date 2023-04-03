@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'Snake Game', 
       author: 'Sspidercat', 
       votes: 45, 
@@ -226,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'Football [GAME]', 
+      author: 'LightningCoder', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'My gratitude to KA for their excellent videos', 
       author: 'InvisibleCat123', 
       votes: 5, 
@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
-      title: 'Volcanic Escape 2 GAME', 
-      author: 'Titus Payton(Offline-ish)', 
-      votes: 41, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
-    }, 
-    {
       title: 'Team Virtus', 
       author: 'ChickCoder', 
       votes: 5, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680/5601658391543808.png', 
       link: 'https://www.khanacademy.org/computer-programming/minimalistic-dodge-game/5110418856263680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'Volcanic Escape 2 GAME', 
+      author: 'Titus Payton(Offline-ish)', 
+      votes: 40, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
     }, 
     {
       title: '~ Planet ~', 
@@ -667,15 +667,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: 'pablogomezconde', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5704837045207040/4721993061810176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5704837045207040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1041361228060301805260747'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'ramadhantirizkika', 
       votes: 1, 
@@ -716,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'Titan who?', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magic-8-ball-1/5282380840747008/5889305102041088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magic-8-ball-1/5282380840747008/4938238449205248.png', 
       link: 'https://www.khanacademy.org/computer-programming/magic-8-ball-1/5282380840747008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_354728518707487115651964'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992/4681942718267392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6105843495124992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
+    }, 
+    {
+      title: 'Spin-off z "Rysowanie z kodem"', 
+      author: 'Zuzia Łakomiak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024/6101892360093696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodem/5513657716097024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6209496057623608414251959'
     }, 
   ];
 };
