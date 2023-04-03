@@ -39,9 +39,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/4750820806803456.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'SUPER MARIO BROS!', 
-      author: 'Animation Guy', 
-      votes: 66, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
       title: 'Screen Static', 
       author: 'Chickenfarmer2009', 
       votes: 6, 
@@ -215,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4613627589214208.png', 
       link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
+      title: 'SUPER MARIO BROS!', 
+      author: 'Animation Guy', 
+      votes: 65, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
       title: 'Dad\'s Periodic Table with Data in println', 
@@ -278,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/5672114251415552.png', 
       link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Terraria Tile Test WIP', 
-      author: 'StuffStash', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6298496820101120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'My gratitude to KA for their excellent videos (eval example obfuscated)', 
@@ -359,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/5574901349269504.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
+      title: 'Terraria Tile Test WIP', 
+      author: 'StuffStash', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6650809564839936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'e', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'pushMatrix(); and popMatrix(); Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: 'esquiando att tadeo ', 
       author: 'tadeo natanael ahumada gomez', 
       votes: 2, 
@@ -629,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yuaniman-studios/4640286132453376/5637196679004160.png', 
       link: 'https://www.khanacademy.org/computer-programming/yuaniman-studios/4640286132453376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_26665952199350081608562'
+    }, 
+    {
+      title: 'pushMatrix(); and popMatrix(); Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Spin-off of "Emoji Template "', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'So.....', 
-      author: 'nn167 #altumftw', 
+      title: 'Spin-off of "Challenge: Tasty Tomato"', 
+      author: 'ozan.eren.eryilmaz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/so/4950029157842944/4713476804362240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/so/4950029157842944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_638716116182033578893156'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5037294588575744/6013577816489984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5037294588575744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_157847512777129047807863'
     }, 
   ];
 };
