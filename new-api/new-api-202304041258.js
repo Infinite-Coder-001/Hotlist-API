@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'Epic Coder', 
       votes: 36, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/5167022247034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
-      title: 'primavera storyline', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 10, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Apex Games Demo', 
       author: 'apex', 
       votes: 26, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848/6698505579315200.png', 
       link: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'primavera storyline', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 9, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'New program', 
@@ -451,15 +451,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'My Entry For Wave\'s Logo Contest', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/5970629989023744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'im literally so good at naming variables...', 
       author: 'marci', 
       votes: 88, 
@@ -487,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/4659956596129792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'Further development', 
       author: 'Noah H.', 
       votes: 16, 
@@ -512,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760/6000312071798784.png', 
       link: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Easter Egg', 
-      author: 'Lisa Monteleone', 
-      votes: 2, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg/6240517143969792/4746482906611712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-egg/6240517143969792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_715446276956117281446382'
     }, 
     {
       title: 'team altum homepage', 
@@ -806,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'Annabanana07 †', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-emma/5800438671917056/6735514607861760.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-emma/5800438671917056/5984242552324096.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-emma/5800438671917056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_441689230806964707466345'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008/5708374672195584.png', 
       link: 'https://www.khanacademy.org/computer-programming/into-the-forest/5957783322411008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'KHANMIGO!!!!', 
+      author: 'xandercla11_15', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khanmigo/6672654842249216/6466736930209792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khanmigo/6672654842249216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
+      title: 'Some nice drawings', 
+      author: 'gioftate927', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/5276980053590016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
+    }, 
+    {
+      title: 'JaelynnG WIP Minecraft skin', 
+      author: 'Addy💠', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jaelynng-wip-minecraft-skin/6528357966856192/6576688294313984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jaelynng-wip-minecraft-skin/6528357966856192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
     }, 
   ];
 };
