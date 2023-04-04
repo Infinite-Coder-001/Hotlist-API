@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 46, 
+      votes: 48, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -12,8 +12,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 45, 
-      forks: 4, 
+      votes: 47, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
+      title: 'THE KA MOVIE 2', 
+      author: 'obsta07', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 28, 
@@ -55,22 +64,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'story', 
+      title: 'A Short Story', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/story/6099949298434048/4736874108469248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/story/6099949298434048', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-short-story/6099949298434048/6409216278708224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-short-story/6099949298434048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'THE KA MOVIE 2', 
-      author: 'obsta07', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Astronaut', 
@@ -82,20 +91,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 31, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6405818288488448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5477650656444416.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
@@ -103,7 +103,7 @@ var LoadHotlistAPI = function() {
       title: '"Lyrics"', 
       author: 'cjcool', 
       votes: 16, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
+      title: 'Computer Programming Tip: eval()???', 
+      author: 'InvisibleCat123', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/5292180647493632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'I coded something I guess', 
       author: 'Darth Pastry', 
       votes: 7, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
-      title: 'Computer Programming Tip: eval()???', 
-      author: 'InvisibleCat123', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/5292180647493632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'New program', 
