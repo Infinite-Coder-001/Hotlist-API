@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 48, 
+      votes: 49, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'story', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/story/6099949298434048/4736874108469248.png', 
       link: 'https://www.khanacademy.org/computer-programming/story/6099949298434048', 
@@ -64,9 +64,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
+      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
+      author: 'Xiøn😋🤩', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 29, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5097866143252480.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
-      author: 'Xiøn😋🤩', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'vertex() and curveVertex() tool', 
@@ -671,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'Sizzly69mathwiz', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4621314792144896/5833505490911232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4621314792144896/6419289520521216.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4621314792144896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8946460792937539412960464'
     }, 
