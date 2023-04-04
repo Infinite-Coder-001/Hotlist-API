@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 11, 
+      votes: 10, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/6644869658624000.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/4870778085752832.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'LemonSaur', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5471328456196096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5966744855560192.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'mira.hocevar', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-3-summative-transportation/5234645332705280/4906401316257792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-3-summative-transportation/5234645332705280/6199161105203200.png', 
       link: 'https://www.khanacademy.org/computer-programming/unit-3-summative-transportation/5234645332705280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1071822392433155521312250'
     }, 
@@ -494,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/4911690165829632.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'Chat for my friends', 
-      author: 'JaelynnG', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chat-for-my-friends/6185437912940544/5571878178832384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chat-for-my-friends/6185437912940544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_656385342917586753387567'
     }, 
     {
       title: 'My gratitude to KA for their excellent videos (eval example obfuscated)', 
@@ -617,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Magus', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6091080769781760.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/4716217882689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -725,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'arya.bari', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928/4771597325221888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928/5022701648658432.png', 
       link: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6282121684277354075984836'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5494359404625920/5067631620308992.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5494359404625920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5944013061668864/6218596058710016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5944013061668864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
   ];
 };
