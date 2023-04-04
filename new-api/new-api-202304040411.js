@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5045873534091264.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -130,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 8, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
@@ -541,6 +541,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
+      title: 'Team Altum Homepage', 
+      author: 'Eryn #TeamAltum2023', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/5493741474594816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
       title: 'Introducing Khanmigo', 
       author: 'Joe H', 
       votes: 47, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
       link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
-      title: 'Python to JavaScript Translation', 
-      author: 'sarge1072', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/python-to-javascript-translation/5877189133516800/5321003686477824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/python-to-javascript-translation/5877189133516800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1026621397061357136656445'
     }, 
   ];
 };
