@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'shelf', 
       author: 'Com', 
-      votes: 23, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
@@ -163,24 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
-      title: 'Eric cartman from south park', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Screen Static', 
-      author: 'Chickenfarmer2009', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4613627589214208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
-    }, 
-    {
       title: 'Spin-off of "Free Draw"', 
       author: '271884mccreery.g', 
       votes: 7, 
@@ -220,10 +202,19 @@ var LoadHotlistAPI = function() {
       title: 'Team Cinis Homepage | Primavera', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 5, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/5671276590186496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Eric cartman from south park', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
       title: 'chair', 
@@ -242,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
+      title: 'Screen Static', 
+      author: 'Chickenfarmer2009', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4613627589214208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
     {
       title: 'New program', 
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
     }, 
     {
-      title: 'The Peaceful Jungle of Scripting (PJS)', 
-      author: 'RedSus#Magus', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192/5930049963606016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
       title: 'Terraria Tile Test WIP', 
       author: 'StuffStash', 
       votes: 6, 
@@ -343,12 +334,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Computer Programming Tip: eval()???', 
+      title: 'C.P. Tip: The EVIL(?) eval()', 
       author: 'InvisibleCat123', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/4950834598428672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cp-tip-the-evil-eval/4605930017964032/6660457806217216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cp-tip-the-evil-eval/4605930017964032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
@@ -469,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'The Peaceful Jungle of Scripting (PJS)', 
+      author: 'RedSus#Magus', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192/5930049963606016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
+    }, 
+    {
       title: '~ Planet ~', 
       author: '♢ Waves ♢', 
       votes: 5, 
@@ -487,15 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
-      title: 'Introducing Khanmigo', 
-      author: 'Joe H', 
-      votes: 47, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'KA\'s Avatars [vertex() only]', 
       author: 'ChickCoder', 
       votes: 31, 
@@ -505,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
+      title: 'Introducing Khanmigo', 
+      author: 'Joe H', 
+      votes: 46, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
       title: 'Snake Game', 
       author: 'Sspidercat', 
       votes: 47, 
@@ -512,15 +512,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'QR code test', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672/5756718488535040.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'interactive natural sim - fishes and shark', 
+      author: 'i exist', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-natural-sim-fishes-and-shark/6456908585418752/5880914061344768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-natural-sim-fishes-and-shark/6456908585418752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_605157299110889234701722'
     }, 
   ];
 };
