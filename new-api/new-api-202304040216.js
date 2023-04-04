@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 46, 
+      votes: 45, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: '21262', 
       votes: 28, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6637795612606464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
@@ -503,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
       link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'The Peaceful Jungle of Scripting (PJS)', 
-      author: 'RedSus#Magus', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6338818241511424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
       title: '~ Planet ~', 
@@ -773,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6094667218468864.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
+    }, 
+    {
+      title: 'The Peaceful Jungle of Scripting (PJS)', 
+      author: 'RedSus#Magus', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6338818241511424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
       title: 'Into the Forest', 
