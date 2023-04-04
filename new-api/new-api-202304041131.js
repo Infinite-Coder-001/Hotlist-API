@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 81, 
+      votes: 82, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -138,11 +138,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'e', 
       author: 'mr. mustache', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/4865969366548480.png', 
       link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'New program', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Spin-off of "Free Draw"', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'I coded something I guess', 
+      author: 'Darth Pastry', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
+    }, 
+    {
       title: 'New program', 
       author: 'xandercla11_15', 
       votes: 5, 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/5749918162796544.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
-      title: 'I coded something I guess', 
-      author: 'Darth Pastry', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
       title: 'henwy the stickman : BTB [GAME]', 
