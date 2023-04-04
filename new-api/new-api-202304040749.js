@@ -289,15 +289,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
-      title: 'esquiando att tadeo ', 
-      author: 'tadeo natanael ahumada gomez', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
-    }, 
-    {
       title: 'Dad\'s Periodic Table with Data in println', 
       author: 'bob.engwicht', 
       votes: 18, 
@@ -350,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/4870778085752832.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'esquiando att tadeo ', 
+      author: 'tadeo natanael ahumada gomez', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
     }, 
     {
       title: 'Cinis Homepage', 
