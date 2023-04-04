@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 27, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -149,18 +149,9 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848/6213669102075904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848/6698505579315200.png', 
       link: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Team Altum Homepage', 
-      author: 'Eryn #TeamAltum2023', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/6738991375499264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'I coded something I guess', 
@@ -199,13 +190,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
-      title: '432 practice 1.0 finally finished', 
-      author: '1001programmer1001', 
-      votes: 15, 
+      title: 'Team Altum Homepage', 
+      author: 'Eryn #TeamAltum2023', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/6330450126880768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/6738991375499264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'Screen Static', 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: '432 practice 1.0 finally finished', 
+      author: '1001programmer1001', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/6330450126880768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
       title: 'Fighters! Full release! (light and dark)', 
@@ -271,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'Team Cinis Homepage | Primavera', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 6, 
@@ -307,18 +298,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'Smart Page', 
-      author: 'Falcon Jumper', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
-    }, 
-    {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
-      votes: 71, 
+      votes: 70, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168/6684267116806144.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario-bros/6720425397895168', 
@@ -370,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Fears List', 
+      author: 'Dojo Cat', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
       author: 'jfsh', 
       votes: 5, 
@@ -377,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5597055059017728.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
-    }, 
-    {
-      title: 'Project: Ad design', 
-      author: 'AngelL', 
-      votes: 4, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -413,6 +395,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Smart Page', 
+      author: 'Falcon Jumper', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
       title: 'SIMPLE PLATFORMER', 
@@ -613,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
-      title: 'KA\'s Avatars [vertex() only]', 
-      author: 'ChickCoder', 
-      votes: 32, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
-    }, 
-    {
       title: 'My gratitude to KA for their excellent videos', 
       author: 'InvisibleCat123', 
       votes: 6, 
@@ -638,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856/4504223380455424.png', 
       link: 'https://www.khanacademy.org/computer-programming/introducing-khanmigo/6224919852793856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'KA\'s Avatars [vertex() only]', 
+      author: 'ChickCoder', 
+      votes: 31, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808/5571973389533184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kas-avatars-vertex-only/6749594307575808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
       title: 'Snake Game', 
@@ -674,6 +665,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/5659768644747264.png', 
       link: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_868912012767464983970096'
+    }, 
+    {
+      title: 'Project: Ad design', 
+      author: 'AngelL', 
+      votes: 2, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
       title: 'QR code test', 
@@ -829,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
-      title: 'Dragon Adventure 2 0_0', 
-      author: 'Jibanyanc', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368/4675891579109376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dragon-adventure-2-0_0/5470601658810368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
       title: 'friends sometimes...', 
       author: 'Com', 
       votes: 65, 
@@ -892,13 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'Hektor Lajqi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5944013061668864/6218596058710016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5944013061668864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5042242005024768/5990627088318464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5042242005024768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_750602699428146288730330'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'demian olivos', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5533349033852928/5592120149983232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5533349033852928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_210940212012303179114484'
     }, 
   ];
 };
