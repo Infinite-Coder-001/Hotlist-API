@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5889258947919872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/4532435728777216.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Eryn #TeamAltum2023', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/6289745673240576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/6663545652822016.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
