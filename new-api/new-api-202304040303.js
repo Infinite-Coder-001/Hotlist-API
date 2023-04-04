@@ -685,15 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
     }, 
     {
-      title: 'Virtus Homepage', 
-      author: 'Classic Kid', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6094667218468864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
-    }, 
-    {
       title: 'Grove Street', 
       author: 'thisiselonmuskjr', 
       votes: 2, 
@@ -800,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5494359404625920/5067631620308992.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5494359404625920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Virtus Homepage', 
+      author: 'Classic Kid', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928/6094667218468864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6704094623612928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1168774361013512472344293'
     }, 
     {
       title: 'Into the Forest', 
