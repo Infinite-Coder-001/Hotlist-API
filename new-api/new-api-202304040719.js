@@ -607,7 +607,7 @@ var LoadHotlistAPI = function() {
       title: 'Project: Ad design', 
       author: 'AngelL', 
       votes: 2, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
