@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 78, 
-      forks: 6, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
@@ -73,12 +73,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
-      title: '- Campfire -', 
+      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936/5994247267598336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-campfire-/5768548204199936', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5189916268216320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
@@ -130,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 8, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
@@ -143,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+    }, 
+    {
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Spin-off of "Free Draw"', 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
       link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Fighters! Full release! (light and dark)', 
