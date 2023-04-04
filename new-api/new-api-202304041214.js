@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 82, 
+      votes: 83, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848/5756222503698432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848/6698505579315200.png', 
       link: 'https://www.khanacademy.org/computer-programming/e-wip/6538906070990848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
+      title: 'I coded something I guess', 
+      author: 'Darth Pastry', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
+    }, 
+    {
       title: 'chair', 
       author: 'Com', 
       votes: 21, 
@@ -350,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'I coded something I guess', 
-      author: 'Darth Pastry', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
       title: 'New program', 
@@ -476,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5475469777747968.png', 
       link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'horribly drawn pixel art.', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760/6000312071798784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
       title: 'team altum homepage', 
@@ -640,6 +649,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_987747824768899590269539'
     }, 
     {
+      title: 'pushMatrix(); and popMatrix(); Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 44, 
@@ -701,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056/5320735083249664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-2023-altum-backstory/5774316546605056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'pushMatrix(); and popMatrix(); Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920/6521031692173312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pushmatrix-and-popmatrix-tutorial/4798289490001920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'The Blue Screen of Death', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5026522844151808/5723927168204800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5026522844151808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_656382324631306036019767'
-    }, 
-    {
-      title: 'not my program', 
-      author: 'morganeli2010', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-my-program/5189177584173056/6714014773329920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-my-program/5189177584173056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
     }, 
   ];
 };
