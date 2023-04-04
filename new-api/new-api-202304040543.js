@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/4532435728777216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5534529847869440.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'esquiando att tadeo ', 
+      author: 'tadeo natanael ahumada gomez', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
+    }, 
+    {
       title: 'Cinis Homepage', 
       author: 'YokieBob', 
       votes: 10, 
@@ -494,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mymycopy/4621057362542592/6644128743211008.png', 
       link: 'https://www.khanacademy.org/computer-programming/mymycopy/4621057362542592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1084464612198912946140463'
-    }, 
-    {
-      title: 'esquiando att tadeo ', 
-      author: 'tadeo natanael ahumada gomez', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
     }, 
     {
       title: 'New program', 
