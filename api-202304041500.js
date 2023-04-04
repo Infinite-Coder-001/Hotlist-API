@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'Smart Page', 
+      author: 'Falcon Jumper', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
+    }, 
+    {
       title: 'New program', 
       author: 'Liam K.', 
       votes: 32, 
@@ -203,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'Chickenfarmer2009', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4570071000465408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
       link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Smart Page', 
-      author: 'Falcon Jumper', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
       title: 'Fighters! Full release! (light and dark)', 
