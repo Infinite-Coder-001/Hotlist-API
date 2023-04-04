@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 77, 
+      votes: 76, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: ' "Lyrics"', 
-      author: 'cjcool', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
       votes: 13, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
+      title: ' "Lyrics"', 
+      author: 'cjcool', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'Apex Games Demo', 
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'New program', 
-      author: 'Velvet Faith', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
       title: 'Team Cinis Homepage | Primavera', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 5, 
@@ -253,13 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Logo for Full Party', 
-      author: 'LemonSaur', 
-      votes: 5, 
+      title: 'New program', 
+      author: 'Velvet Faith', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'Dad\'s Periodic Table with Data in println', 
@@ -287,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
+    }, 
+    {
+      title: 'Logo for Full Party', 
+      author: 'LemonSaur', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5058944654688256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
       title: 'Primavera 2023 Team Data!', 
@@ -521,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072/4730532035608576.png', 
       link: 'https://www.khanacademy.org/computer-programming/snake-game/6638237071491072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683141889982519338383233'
-    }, 
-    {
-      title: 'Project: Ad design', 
-      author: 'AngelL', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
       title: 'fridge (final small project)', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design-part-2/5740093307666432/6691486277353472.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-ad-design-part-2/5740093307666432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_86004256905026581719869'
+    }, 
+    {
+      title: 'Virtus Homepage', 
+      author: 'Reflex', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672/5756718488535040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/6210855948828672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
   ];
 };
