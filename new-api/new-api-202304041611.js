@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
-      title: 'THE KA MOVIE 2', 
-      author: 'obsta07', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
-    }, 
-    {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 28, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/story/6099949298434048/4736874108469248.png', 
       link: 'https://www.khanacademy.org/computer-programming/story/6099949298434048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'THE KA MOVIE 2', 
+      author: 'obsta07', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
       title: 'Astronaut', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Cat Lady', 
       votes: 31, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5477650656444416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6405818288488448.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
@@ -316,15 +316,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'Project: Ad design', 
-      author: 'AngelL', 
-      votes: 5, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
-    }, 
-    {
       title: 'SUPER MARIO BROS!', 
       author: 'Animation Guy', 
       votes: 71, 
@@ -377,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5232378160398336.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
+    }, 
+    {
+      title: 'Project: Ad design', 
+      author: 'AngelL', 
+      votes: 4, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776/6317888899432448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-ad-design/4810948587339776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
@@ -476,15 +476,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056/6384043072733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'JonerMcBem1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6363519370182656/5224100315578368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6363519370182656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_589635719724866468765668'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'lab 7 not gltiched', 
-      author: 'tyler.driski', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'm.tzemanakis', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-not-gltiched/6669170516475904/4559119286845440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-7-not-gltiched/6669170516475904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_505556824989594134210399'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6029250319925248/6063290754318336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6029250319925248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_99587885509252792042083'
     }, 
     {
-      title: 'Flying Text', 
-      author: 'fpzamora7', 
+      title: 'Derivado de "Desafío: tarjeta de receta"', 
+      author: 'LucianoOga', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flying-text/4700251677310976/6050082488369152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flying-text/4700251677310976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_911442126722833424222296'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tarjeta-de-receta/6386752874135552/6640387390488576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tarjeta-de-receta/6386752874135552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_277831183566260320850075'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'm.tzemanakis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4579569102536704/4863651493494784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4579569102536704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_99587885509252792042083'
     }, 
   ];
 };
