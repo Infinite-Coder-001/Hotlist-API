@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
+      title: 'e', 
+      author: 'mr. mustache', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/4865969366548480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'Screen Static', 
       author: 'Chickenfarmer2009', 
       votes: 8, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/6012160359841792.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
-    }, 
-    {
-      title: 'e', 
-      author: 'mr. mustache', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/4865969366548480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'door', 
@@ -581,7 +581,7 @@ var LoadHotlistAPI = function() {
       author: 'Heisenburger', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/4802792444444672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/6186028873596928.png', 
       link: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_868912012767464983970096'
     }, 
