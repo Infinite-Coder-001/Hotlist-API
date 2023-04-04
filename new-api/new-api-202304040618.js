@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Apex Games Demo', 
       author: 'apex', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
       link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
@@ -152,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'e', 
-      author: 'mr. mustache', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/4865969366548480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Spin-off of "Free Draw"', 
@@ -199,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'Computer Programming Tip: eval()???', 
-      author: 'InvisibleCat123', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/5292180647493632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
       votes: 35, 
@@ -215,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
+      title: 'e', 
+      author: 'mr. mustache', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/e/6538906070990848/4865969366548480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/e/6538906070990848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'Screen Static', 
@@ -226,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
     {
-      title: 'door', 
-      author: 'Com', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Team Opes Homepage 2023', 
       author: 'ⱠeaferStudios', 
       votes: 13, 
@@ -244,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
+      title: 'door', 
+      author: 'Com', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: '432 practice 1.0 finally finished', 
       author: '1001programmer1001', 
       votes: 11, 
@@ -251,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/6330450126880768.png', 
       link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+    }, 
+    {
+      title: 'Computer Programming Tip: eval()???', 
+      author: 'InvisibleCat123', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/5292180647493632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'chair', 
@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
     }, 
     {
-      title: 'Team Magus 🐴 [Primavera 2023]', 
-      author: '21262', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6637795612606464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
-    }, 
-    {
       title: 'Primavera 2023 Team Data!', 
       author: 'Polar', 
       votes: 21, 
@@ -332,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880/5309922838626304.png', 
       link: 'https://www.khanacademy.org/computer-programming/reckless-racer-3d/6157639257210880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'Team Magus 🐴 [Primavera 2023]', 
+      author: '21262', 
+      votes: 28, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/6637795612606464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_19721081897200672399859'
     }, 
     {
       title: '* our intro', 
@@ -856,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
     }, 
     {
-      title: 'JaelynnG WIP Minecraft skin', 
-      author: 'Addy💠', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jaelynng-wip-minecraft-skin/6528357966856192/6576688294313984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jaelynng-wip-minecraft-skin/6528357966856192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
-    }, 
-    {
       title: 'Spin-off of "Coloring with code"+', 
       author: 'Leno Huynh', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5714756674830336/5069695670861824.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5714756674830336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_89482235465627004392729'
+    }, 
+    {
+      title: 'Spin-off z "Rysowanie z kodem"KOT-Nikola Cudziło8d', 
+      author: 'Nikola Cudziło', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodemkot-nikola-cudzio8d/4659997213769728/4978972405579776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-rysowanie-z-kodemkot-nikola-cudzio8d/4659997213769728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8995665832939443006236502'
     }, 
   ];
 };
