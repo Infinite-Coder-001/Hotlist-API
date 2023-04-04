@@ -1,22 +1,22 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'Emma', 
-      author: 'NIKO Ψ', 
-      votes: 48, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 47, 
-      forks: 5, 
+      votes: 51, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
+    }, 
+    {
+      title: 'Emma', 
+      author: 'NIKO Ψ', 
+      votes: 49, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 28, 
@@ -73,18 +82,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Astronaut', 
       author: 'Epic Coder', 
-      votes: 36, 
+      votes: 37, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 31, 
+      votes: 33, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/5477650656444416.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'Smart Page', 
+      author: 'Falcon Jumper', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
       title: 'shelf', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Smart Page', 
-      author: 'Falcon Jumper', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
       title: 'Apex Games Demo', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
+      title: 'Fears List', 
+      author: 'Dojo Cat', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: 'Screen Static', 
       author: 'Chickenfarmer2009', 
       votes: 10, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
       link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
-    }, 
-    {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'New program', 
