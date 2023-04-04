@@ -136,6 +136,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
+      title: 'New program', 
+      author: 'AppleSaur', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Eric cartman from south park', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
+      title: 'Screen Static', 
+      author: 'Chickenfarmer2009', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4613627589214208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
       title: 'Fighters! Full release! (light and dark)', 
       author: 'Jibanyanc', 
       votes: 34, 
@@ -145,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'New program', 
-      author: 'AppleSaur', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912/4804902347128832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4603161651494912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'Team Opes Homepage 2023', 
       author: 'ⱠeaferStudios', 
       votes: 13, 
@@ -161,24 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008/6012160359841792.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
-    }, 
-    {
-      title: 'Eric cartman from south park', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Screen Static', 
-      author: 'Chickenfarmer2009', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/4613627589214208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
     {
       title: 'Spin-off of "Free Draw"', 
@@ -282,7 +282,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Magus 🐴 [Primavera 2023]', 
       author: '21262', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368/5860184150032384.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-primavera-2023/6010614104506368', 
