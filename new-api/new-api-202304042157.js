@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 60, 
+      votes: 58, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 53, 
+      votes: 52, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 14, 
+      votes: 13, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Astronaut', 
       author: 'Epic Coder', 
-      votes: 38, 
+      votes: 37, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
@@ -264,20 +264,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'Liam K.', 
-      votes: 34, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
-      title: 'Putting the clues together', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/5922690738470912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'horribly drawn pixel art.', 
@@ -307,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_98800953463021872579121'
     }, 
     {
-      title: 'Easter Competition (Team i-Create)', 
-      author: 'MaXX🐟', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
       title: 'Cookie Clicker', 
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 4, 
@@ -343,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Putting the clues together', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/5922690738470912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: '* our intro', 
       author: 'LightningCoder', 
       votes: 7, 
@@ -359,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: '"Shooting star"', 
-      author: 'LoganP', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
     {
       title: 'door', 
@@ -413,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5797728027459584.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/6744468440268800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'Team Cinis Homepage | Primavera', 
@@ -487,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
+      title: 'Easter Competition (Team i-Create)', 
+      author: 'MaXX🐟', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: 'MOON WALK', 
       author: 'xandercla11_15', 
       votes: 3, 
@@ -503,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192/5930049963606016.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
+    }, 
+    {
+      title: '"Shooting star"', 
+      author: 'LoganP', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
     {
       title: 'SIMPLE PLATFORMER', 
@@ -559,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/6747260034793472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: 'The Peaceful Jungle of Scripting (PJS)', 
       author: 'RedSus#Magus', 
       votes: 5, 
@@ -566,15 +566,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6681349915459584.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'Just a normal Netflix ad that goes on for 102948203985230 years', 
-      author: '2024-swu', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184/4572861470916608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_874952043447890186955301'
     }, 
     {
       title: 'Color World [GAME]', 
@@ -689,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5632319240323072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6034025786687488.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5664856335499264/6727847587921920.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5664856335499264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_210008137037554013600280'
+    }, 
+    {
+      title: 'crosshair', 
+      author: 'Heisenburger', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/5038575042478080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_868912012767464983970096'
     }, 
   ];
 };
