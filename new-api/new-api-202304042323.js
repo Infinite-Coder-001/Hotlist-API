@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 39, 
+      votes: 40, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6314705120706560.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
@@ -158,7 +158,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/5799095739662336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/5846304208240640.png', 
       link: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5955130123141120.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'i see london', 
+      author: 'NIKO Ψ', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/4927833068847104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Princess Addie', 
@@ -433,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
     }, 
     {
-      title: 'yeet', 
-      author: 'NIKO Ψ', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yeet/5596929850654720/5006307422945280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yeet/5596929850654720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
       title: 'Team Cinis Homepage | Primavera', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 6, 
@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_645140352316543849903461'
     }, 
     {
+      title: 'Hug for Macknus UwU', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
       author: 'pedrohenrique64edf2018', 
       votes: 2, 
@@ -613,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
     }, 
     {
+      title: 'Spin-off of "New program"', 
+      author: 'mjpen152', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/6552406226944000/6054631496269824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/6552406226944000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_877980313175343635975379'
+    }, 
+    {
       title: 'Primavera 2023 Team Data!', 
       author: 'Polar', 
       votes: 21, 
@@ -629,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6681349915459584.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
+    }, 
+    {
+      title: 'New Logo', 
+      author: 'Arrow.programming', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912/4974095805759488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Just a normal Netflix ad that goes on for 102948203985230 years', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352/5240604515942400.png', 
       link: 'https://www.khanacademy.org/computer-programming/planet/5597151343460352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'Football [GAME]', 
-      author: 'LightningCoder', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496/6502466880585728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/football-game/5483740869738496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Crossbow Mini-Game - Ayaan Kokate', 
-      author: 'ayaan.kokate', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424/6320254855987200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
-    }, 
-    {
-      title: 'New program', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/6668506541375488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
   ];
 };
