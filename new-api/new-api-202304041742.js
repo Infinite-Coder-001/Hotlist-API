@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 90, 
+      votes: 91, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 29, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'Fears List', 
+      author: 'Dojo Cat', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: ' "Lyrics"', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Apex Games Demo', 
@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX🐟', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/4580949364097024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/4574965468020736.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 2, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008/4927833639272448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008/5361996683067392.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
@@ -613,6 +613,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Arya Bari - Skyline and Vehicle Loop Animation', 
+      author: 'arya.bari', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928/4771597325221888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6282121684277354075984836'
+    }, 
+    {
       title: 'Chat for my friends', 
       author: 'JaelynnG', 
       votes: 2, 
@@ -698,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/4686015370674176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/4774064884596736.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -787,7 +796,7 @@ var LoadHotlistAPI = function() {
       title: 'Volcanic Escape 2 GAME', 
       author: 'Titus Payton(Offline-ish)', 
       votes: 44, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128/6623004684763136.png', 
       link: 'https://www.khanacademy.org/computer-programming/volcanic-escape-2-game/5485233236656128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997144299072021618248193'
@@ -800,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152/5911330432532480.png', 
       link: 'https://www.khanacademy.org/computer-programming/virtus-homepage/5842144624689152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
-      title: 'Arya Bari - Skyline and Vehicle Loop Animation', 
-      author: 'arya.bari', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928/4771597325221888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arya-bari-skyline-and-vehicle-loop-animation/4739449075580928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6282121684277354075984836'
     }, 
     {
       title: 'Virtus Homepage', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
     {
-      title: 'Grove Street', 
-      author: 'thisiselonmuskjr', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grove-street/6081330657148928/5106745400934400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grove-street/6081330657148928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7598721162528727154215312'
-    }, 
-    {
-      title: 'aula do iallen', 
-      author: 'capir.2022116isinf0342', 
+      title: 'Spin-off of "Project: Paint splatter"', 
+      author: '25parker_la', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aula-do-iallen/4955187497451520/4836290404335616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aula-do-iallen/4955187497451520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295754322714734745124718'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-paint-splatter/4605146203209728/5645192767258624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-paint-splatter/4605146203209728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_445534767703924280915881'
     }, 
     {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'kjklimczak', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'tristan.harlan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5210837926330368/4933999299706880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/5210837926330368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859787630171242123221081'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6451452261482496/6128311135944704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6451452261482496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1133041452862838634686857'
     }, 
     {
-      title: 'Fish Tank', 
-      author: 'Athena Cat', 
+      title: 'Spaceship', 
+      author: 'John Wick (Real)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-tank/4911299726458880/6352662363947008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-tank/4911299726458880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_928156183942947006093581'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spaceship/4606253331693568/6273451724947456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spaceship/4606253331693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_743234655387692475492825'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Daniksha Sivamani', 
+      title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
+      author: 'pereira.katia', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5579504564355072/6239499773591552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5579504564355072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3628278809616621101809187'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/4527356057534464/6094659685498880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/4527356057534464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_10115623142063664632438'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: '464892', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6385863031570432/6667469977862144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6385863031570432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1167977696823016913976689'
     }, 
   ];
 };
