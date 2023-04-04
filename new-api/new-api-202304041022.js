@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Falcon Jumper', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/6020447146917888.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
