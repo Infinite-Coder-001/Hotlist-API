@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 55, 
+      votes: 56, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 94, 
+      votes: 96, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/o/5637000855339008/5597113863159808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/o/5637000855339008/6248100714037248.png', 
       link: 'https://www.khanacademy.org/computer-programming/o/5637000855339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_792051107275272696342973'
     }, 
     {
-      title: 'I was bored', 
-      author: 'Sizzly69mathwiz', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-was-bored/4621314792144896/6419289520521216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-was-bored/4621314792144896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8946460792937539412960464'
-    }, 
-    {
-      title: 'Derivação de "Projeto: página web sobre viagens"', 
-      author: 'Deli', 
+      title: 'filipau_frogger', 
+      author: 'kiryl.filipau400', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5289886665195520/6525237404680192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/5289886665195520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_487700903373349393637214'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/filipau_frogger/5248462980694016/6201811167133696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/filipau_frogger/5248462980694016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_429157785535252945279830'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'BRODYA', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'm.tzemanakis', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6109646202126336/5987210844487680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6109646202126336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_809627491258774810166507'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4792433620860928/5655191316905984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4792433620860928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_99587885509252792042083'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'shamalydey46', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646094764490752/4729412236132352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646094764490752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9263968879044236071256024'
     }, 
   ];
 };
