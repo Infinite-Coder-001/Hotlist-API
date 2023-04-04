@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 86, 
+      votes: 85, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5547245861912576.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'New program', 
       author: 'Liam K.', 
       votes: 32, 
@@ -247,19 +238,10 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Free Draw"', 
       author: '271884mccreery.g', 
       votes: 9, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-free-draw/5067086075576320/5357680022831104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-free-draw/5067086075576320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_98800953463021872579121'
-    }, 
-    {
-      title: 'Fighters! Full release! (light and dark)', 
-      author: 'Jibanyanc', 
-      votes: 38, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'New program', 
@@ -271,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'Fighters! Full release! (light and dark)', 
+      author: 'Jibanyanc', 
+      votes: 37, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
       title: 'door', 
       author: 'Com', 
       votes: 12, 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/door/6704351851888640/5961192503033856.png', 
       link: 'https://www.khanacademy.org/computer-programming/door/6704351851888640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Fears List', 
+      author: 'Dojo Cat', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5525618193383424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Team Cinis Homepage | Primavera', 
@@ -365,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'jfsh', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5790758335725568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5903268862803968.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
     }, 
@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6175638072639488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Unit 3 Summative transportation', 
       author: 'mira.hocevar', 
       votes: 2, 
@@ -539,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-egg/6240517143969792/4746482906611712.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-egg/6240517143969792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_715446276956117281446382'
+    }, 
+    {
+      title: 'team altum homepage', 
+      author: 'vw_beetlesultimategreatness #altumftw!', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6175638072639488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
@@ -788,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: '✧ℕ𝕠𝕧𝕒✧ {offline}', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-the-force-ad/6224854018998272/4932650713530368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-the-force-ad/6224854018998272/4915917655162880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-the-force-ad/6224854018998272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_813381521096073568944791'
     }, 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_26665952199350081608562'
     }, 
     {
-      title: 'Lab Lesson #7 - Flying Text', 
-      author: 'eilaboldt01', 
-      votes: 1, 
+      title: 'Spin-off of "Emoji Template "', 
+      author: 'halabyma2026', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4552838366937088/6582329666748416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4552838366937088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465064889555683881821929'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-emoji-template/5869268005863424/4892045782335488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-emoji-template/5869268005863424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271422632561867616270046'
     }, 
     {
-      title: 'Button Engine', 
-      author: 'Peter', 
-      votes: 1, 
+      title: 'Monster program', 
+      author: 'bearthegoat28', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-engine/6568597112799232/5152742386745344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button-engine/6568597112799232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_678430895752882629315799'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/monster-program/4715964261515264/5274764521553920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/monster-program/4715964261515264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9435216110603195067458983'
     }, 
     {
-      title: 'stickman', 
-      author: 'mmjasjas', 
+      title: 'Derivado de "Hacer animaciones"', 
+      author: 'j.sebastian', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/stickman/6160653267288064/6027829759492096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/stickman/6160653267288064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_873340875097757324547460'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4655690552754176/6358912883539968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-animaciones/4655690552754176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1135205048184359317695485'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'markellos.ratsikas', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Kenny Tran', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6699469220659200/5906811858501632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6699469220659200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8263705555459073810118506'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6490739120062464/6532821209628672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6490739120062464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933953018955395101426233'
     }, 
   ];
 };
