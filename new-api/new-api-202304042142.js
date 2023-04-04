@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
       votes: 58, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/6747260034793472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: 'The Peaceful Jungle of Scripting (PJS)', 
       author: 'RedSus#Magus', 
       votes: 5, 
@@ -671,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6483288157110272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6034025786687488.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -802,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Crossbow Mini-Game - Ayaan Kokate', 
+      author: 'ayaan.kokate', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424/6320254855987200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
+    }, 
+    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 3, 
@@ -856,15 +874,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'Crossbow Mini-Game - Ayaan Kokate', 
-      author: 'ayaan.kokate', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424/6320254855987200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crossbow-mini-game-ayaan-kokate/5406611108839424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_57067666436522431024347'
-    }, 
-    {
       title: 'Snake Game', 
       author: 'Sspidercat', 
       votes: 47, 
@@ -887,18 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Heisenburger', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/4696005800148992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424/5038575042478080.png', 
       link: 'https://www.khanacademy.org/computer-programming/crosshair/4964632130535424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_868912012767464983970096'
-    }, 
-    {
-      title: 'Graphic for Duskpin :)', 
-      author: '✨ 🄻🄴🄴 🄳🄸🄽🄾 ✨', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/graphic-for-duskpin/6033488831889408/5658190378483712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/graphic-for-duskpin/6033488831889408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6509490138782120254370531'
     }, 
   ];
 };
