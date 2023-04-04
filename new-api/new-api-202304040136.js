@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
+      title: 'story', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/story/6099949298434048/4736874108469248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/story/6099949298434048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Astronaut', 
       author: 'Epic Coder', 
       votes: 35, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/5167022247034880.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
-      title: 'story', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/story/6099949298434048/4736874108469248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/story/6099949298434048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'vertex() and curveVertex() tool', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'shelf', 
+      author: 'Com', 
+      votes: 24, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
       votes: 14, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
-    }, 
-    {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: ' "Lyrics"', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'chair', 
+      author: 'Com', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'New program', 
       author: 'Velvet Faith', 
       votes: 7, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872/5671276590186496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-homepage-primavera/5213562864975872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
-      title: 'chair', 
-      author: 'Com', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'SUPER MARIO BROS!', 
@@ -361,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'New program', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 3, 
@@ -442,11 +451,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'esquiando att tadeo ', 
+      author: 'tadeo natanael ahumada gomez', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
+    }, 
+    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/5574901349269504.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/5478999091625984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -458,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor/6683199523831808/5045546948804608.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor/6683199523831808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
+    }, 
+    {
+      title: 'henwy the stickman : BTB [GAME]', 
+      author: 'Zenghao the chicken', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/5551114813751296/4701588519436288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/5551114813751296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
       title: 'Princess Addie', 
@@ -532,15 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'QR code test', 
       author: 'CodingChamp01 🔴', 
       votes: 13, 
@@ -613,15 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'esquiando att tadeo ', 
-      author: 'tadeo natanael ahumada gomez', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120/4954387744342016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/esquiando-att-tadeo/5448529503109120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853742768146739681091610'
-    }, 
-    {
       title: 'The Blue Screen of Death', 
       author: 'The Tech Guy 💻', 
       votes: 2, 
@@ -665,15 +674,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-emma/5800438671917056/6286872759549952.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-emma/5800438671917056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_441689230806964707466345'
-    }, 
-    {
-      title: 'henwy the stickman : BTB [GAME]', 
-      author: 'Zenghao the chicken', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/5551114813751296/4701588519436288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/5551114813751296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
       title: 'studyhall boredom', 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'gioftate927', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/6275070793400320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592/5276980053590016.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-nice-drawings/6297232312942592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206256435625001718903551'
     }, 
