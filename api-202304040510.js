@@ -73,11 +73,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
+      title: '"Lyrics"', 
+      author: 'cjcool', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/4936278987816960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/4532435728777216.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: '"Lyrics"', 
-      author: 'cjcool', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'THE KA MOVIE 2', 
