@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
@@ -46,22 +46,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'fridge (final small project)', 
-      author: 'Com', 
-      votes: 33, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'fridge (final small project)', 
+      author: 'Com', 
+      votes: 33, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'Fears List', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Button', 
+      author: 'MyGuy!', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
       votes: 34, 
@@ -121,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'Tutorial: Text Gradient', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 7, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -134,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5128898204712960.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'THE KA MOVIE 2', 
@@ -152,24 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -217,10 +217,19 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'my version that has a secret at the bottom', 
+      author: 'Anyka', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
+    }, 
+    {
       title: 'Harry Potter Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 9, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/6579969414447104.png', 
       link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: '"Lyrics"', 
-      author: 'cjcool', 
-      votes: 21, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
   ];
 };
