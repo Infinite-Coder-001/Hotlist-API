@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'my version that has a secret at the bottom', 
+      author: 'Anyka', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
+    }, 
+    {
       title: 'Harry Potter Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 9, 
@@ -271,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'my version that has a secret at the bottom', 
-      author: 'Anyka', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
-    }, 
-    {
       title: 'tik tok', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 10, 
@@ -300,7 +300,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'shelf', 
       author: 'Com', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
     {
+      title: 'Apex Games Demo', 
+      author: 'apex', 
+      votes: 33, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'stacking 3d cubes', 
       author: 'Peter_B. #MysteryMettle', 
       votes: 6, 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
       link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Apex Games Demo', 
-      author: 'apex', 
-      votes: 32, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432/5563321916112896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apex-games-demo/5718719134482432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'New program', 
