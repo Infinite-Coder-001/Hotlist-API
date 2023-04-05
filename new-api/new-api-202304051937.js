@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 110, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5128898204712960.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'THE KA MOVIE 2', 
@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Pull LemonSaur\'s Leg!', 
+      author: 'StuffStash', 
+      votes: 5, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/4922493384310784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'New program', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 6, 
@@ -532,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Pull LemonSaur\'s Leg!', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/4922493384310784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: '432 practice 1.0 finally finished', 
       author: '1001programmer1001', 
       votes: 20, 
@@ -593,6 +593,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+    }, 
+    {
+      title: 'New program', 
+      author: 'bill nye the russian spy', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
       title: 'Just a normal Netflix ad that goes on for 102948203985230 years', 
@@ -752,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Magus', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192/5930049963606016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192/5774317515489280.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6064039076872192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -854,15 +863,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864/4816014165721088.png', 
       link: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'The Peaceful Jungle of Scripting (PJS)', 
-      author: 'RedSus#Magus', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6589504858406912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
       title: 'Terraria (WIP)', 
