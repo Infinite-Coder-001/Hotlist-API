@@ -442,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Leafers story(with a twist at the end)', 
+      author: 'Crystal Coding # Go Cinis!', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'Apex Games Demo', 
       author: 'apex', 
       votes: 33, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'Leafers story(with a twist at the end)', 
-      author: 'Crystal Coding # Go Cinis!', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'New program', 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'aieman27', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3/4879704147673088/4915629456146432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3/4879704147673088/5064226801762304.png', 
       link: 'https://www.khanacademy.org/computer-programming/3/4879704147673088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'SirNeetNoit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/5302830958428160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/4984570929004544.png', 
       link: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
@@ -662,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Lukey', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/4584128076103680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6378602368385024.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
