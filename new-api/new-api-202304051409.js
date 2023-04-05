@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 76, 
+      votes: 75, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'its my b-day!', 
-      author: 'the Knight_400', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'Fears List', 
       author: 'Dojo Cat', 
       votes: 20, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5508122409222144.png', 
       link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'its my b-day!', 
+      author: 'the Knight_400', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Putting the clues together', 
@@ -433,15 +433,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
-      title: 'First step-Beemo', 
-      author: 'C2_2333001_안새빈_SE2023', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
-    }, 
-    {
       title: 'Spin-off of "Free Draw"', 
       author: '271884mccreery.g', 
       votes: 10, 
@@ -494,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984/5173611280515072.png', 
       link: 'https://www.khanacademy.org/computer-programming/eric-cartman-from-south-park/6732313749929984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'Easter Competition (Team i-Create)', 
@@ -703,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
+      title: 'First step-Beemo', 
+      author: 'C2_2333001_안새빈_SE2023', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
+    }, 
+    {
       title: '- A Blue Jay in the Snow -', 
       author: 'Xiøn😋🤩', 
       votes: 4, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wippy-wip-a-wip-roo/6172960798064640/5658257957109760.png', 
       link: 'https://www.khanacademy.org/computer-programming/wippy-wip-a-wip-roo/6172960798064640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
+    }, 
+    {
+      title: 'Animal themed Characters ', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animal-themed-characters/6314651903377408/6053189393891328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animal-themed-characters/6314651903377408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
   ];
 };
