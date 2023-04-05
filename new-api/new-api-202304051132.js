@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 71, 
+      votes: 72, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -604,11 +604,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'not a snow man', 
+      author: 'C2_2333010_이지훈_SE2023', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944/5918429828923392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_420338076111379447895856'
+    }, 
+    {
       title: 'Tic Tac Toe', 
       author: 'Pastelicon', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5530648673828864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/4527967855493120.png', 
       link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
@@ -620,6 +629,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392/6255473360945152.png', 
       link: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'First step-Beemo', 
+      author: 'C2_2333001_안새빈_SE2023', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
       title: '- A Blue Jay in the Snow -', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/6121171780419584/5772202701275136.png', 
       link: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/6121171780419584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_549106510417859343371572'
-    }, 
-    {
-      title: 'Favorite song', 
-      author: 'LemonSaur', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416/5313519605301248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/favorite-song/5580497087676416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'JonerMcBem1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6363519370182656/5224100315578368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6363519370182656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_589635719724866468765668'
     }, 
   ];
 };
