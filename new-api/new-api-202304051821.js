@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'Putting the clues together', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 31, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Fears List', 
       author: 'Dojo Cat', 
       votes: 22, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5508122409222144.png', 
       link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Putting the clues together', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Smart Page', 
@@ -111,20 +111,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'I coded something I guess', 
       author: 'Darth Pastry', 
-      votes: 19, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
-      title: 'Tutorial: Text Gradient', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Free Form Tower Defense', 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
+      title: 'Tutorial: Text Gradient', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
@@ -170,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
-      author: 'Xiøn😋🤩', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Ukraine Flag', 
@@ -217,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Harry Potter Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/6579969414447104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 17, 
@@ -253,31 +235,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'jtimlin', 
-      votes: 10, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: ' "Lyrics"', 
-      author: 'cjcool', 
-      votes: 21, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'my version that has a secret at the bottom', 
-      author: 'Anyka', 
+      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
+      author: 'Xiøn😋🤩', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Harry Potter Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/6579969414447104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'tik tok', 
@@ -289,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: ' "Lyrics"', 
+      author: 'cjcool', 
+      votes: 20, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
       author: 'StuffStash', 
       votes: 4, 
@@ -296,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944/5383864173510656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'jtimlin', 
+      votes: 9, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
     }, 
     {
       title: 'shelf', 
@@ -406,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'my version that has a secret at the bottom', 
+      author: 'Anyka', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
+    }, 
+    {
       title: 'Very Clunky Proof of Concept', 
       author: 'TheDoughSmith', 
       votes: 3, 
@@ -478,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'New program', 
-      author: 'Velvet Faith', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
-    }, 
-    {
       title: 'kirby riding on a star ', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 3, 
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/6330450126880768.png', 
       link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Velvet Faith', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: ':O #ItWORKS!', 
@@ -599,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'TheLastPanda', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-skills/6141090362343424/5579586537832448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-skills/6141090362343424/6638559022071808.png', 
       link: 'https://www.khanacademy.org/computer-programming/chess-skills/6141090362343424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2601838657807012559202844'
     }, 
@@ -757,15 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_676559143315698523893803'
     }, 
     {
-      title: 'Continuum', 
-      author: 'Orange Soda', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/continuum/5618191213838336/5923379275415552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/continuum/5618191213838336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
       title: 'Team Cinis Homepage | Primavera', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 6, 
@@ -881,6 +872,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624/5471328456196096.png', 
       link: 'https://www.khanacademy.org/computer-programming/logo-for-full-party/5744111232794624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'Continuum', 
+      author: 'Orange Soda', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/continuum/5618191213838336/5923379275415552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/continuum/5618191213838336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
     {
       title: 'Dad\'s Periodic Table with Data in println', 
