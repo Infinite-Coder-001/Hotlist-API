@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 28, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/5428290308587520.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 43, 
-      forks: 5, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6314705120706560.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
@@ -392,7 +392,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008/4509318570622976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008/6154798421557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
+      title: 'Tic Tac Toe', 
+      author: 'Pastelicon', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5568299799986176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
+    }, 
+    {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
       author: 'jfsh', 
       votes: 8, 
@@ -554,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'xandercla11_15', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/4764929656930304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/6673300966391808.png', 
       link: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
@@ -685,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_420338076111379447895856'
     }, 
     {
-      title: 'Tic Tac Toe', 
-      author: 'Pastelicon', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5568299799986176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
-    }, 
-    {
       title: 'Complicated version of substring', 
       author: 'LemonSaur', 
       votes: 3, 
@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5590937901514752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/6024960452902912.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
