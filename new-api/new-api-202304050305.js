@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i see london', 
       author: 'NIKO Ψ', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Pull LemonSaur\'s Leg!', 
+      author: 'StuffStash', 
+      votes: 3, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/4557115718156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Promotion Day i guess', 
       author: 'Edmund Knight.Studios⚔🏹', 
       votes: 4, 
@@ -617,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864/6194592333742080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864/4816014165721088.png', 
       link: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -793,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
+      title: 'New program', 
+      author: 'LemonSaur', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5468475499003904/4630921308585984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5468475499003904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
       title: 'Leafers story(with a twist at the end)', 
       author: 'Crystal Coding # Go Cinis!', 
       votes: 4, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-build-a-house/6600810957160448/6010655661670400.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-build-a-house/6600810957160448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6226602146865293078814629'
-    }, 
-    {
-      title: 'team altum homepage', 
-      author: 'vw_beetlesultimategreatness #altumftw!', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512/6175638072639488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6493119857344512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Unit 3 Summative transportation', 
-      author: 'mira.hocevar', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unit-3-summative-transportation/5234645332705280/4906401316257792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unit-3-summative-transportation/5234645332705280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1071822392433155521312250'
     }, 
   ];
 };
