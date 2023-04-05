@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 64, 
+      votes: 65, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
+      title: 'i see london', 
+      author: 'NIKO Ψ', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'HTTPS POST request tutorial for custom canvas size', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 7, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'i see london', 
-      author: 'NIKO Ψ', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Astronaut', 
@@ -487,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295281823076839467274774'
     }, 
     {
+      title: 'Harry Potter Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/5697609017901056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
       title: 'The Peaceful Jungle of Scripting (PJS)', 
       author: 'RedSus#Magus', 
       votes: 7, 
@@ -649,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'stacking 3d cubes', 
+      author: 'Peter_B. #MysteryMettle', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/stacking-3d-cubes/6225216893403136/5882167587815424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/stacking-3d-cubes/6225216893403136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1029232876836541365226967'
+    }, 
+    {
       title: 'Nuevo programa', 
       author: 'JS ULI', 
       votes: 2, 
@@ -719,15 +737,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wippy-wip-a-wip-roo/6172960798064640/5658257957109760.png', 
       link: 'https://www.khanacademy.org/computer-programming/wippy-wip-a-wip-roo/6172960798064640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'Harry Potter Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/5697609017901056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Leafers story(with a twist at the end)', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos-eval-example-obfuscated/6551987887063040/5741640905179136.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-gratitude-to-ka-for-their-excellent-videos-eval-example-obfuscated/6551987887063040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Further development', 
-      author: 'Noah H.', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616/5475469777747968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/further-development/4852906139631616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
   ];
 };
