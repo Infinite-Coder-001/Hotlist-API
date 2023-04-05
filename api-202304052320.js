@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 29, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 80, 
+      votes: 81, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 12, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -66,11 +66,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'chicken.', 
       author: 'bredd', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
+      author: 'Xiøn😋🤩', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Fears List', 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
-      author: 'Xiøn😋🤩', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Tutorial: Text Gradient', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'First step-Beemo', 
+      author: 'C2_2333001_안새빈_SE2023', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
+    }, 
+    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 7, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
       link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'First step-Beemo', 
-      author: 'C2_2333001_안새빈_SE2023', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
       title: 'Percy Jackson Quiz', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
+      title: 'THE KA MOVIE 2', 
+      author: 'obsta07', 
+      votes: 31, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 110, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5128898204712960.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
-      title: 'THE KA MOVIE 2', 
-      author: 'obsta07', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 51, 
+      votes: 52, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
