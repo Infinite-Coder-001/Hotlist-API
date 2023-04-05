@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 32, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 81, 
+      votes: 80, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 13, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -435,7 +435,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'vertex() and curveVertex() tool', 
       author: 'Promise', 
-      votes: 33, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
       link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Ⓩ', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/4945015488167936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/6205876219461632.png', 
       link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
@@ -650,7 +650,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'RAINBOW WINSTON!!', 
-      author: 'NosyrainE', 
+      author: 'Autumn Raine Silva', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208/5188215243063296.png', 
@@ -662,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Lukey', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/5111228038168576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6593885007822848.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
