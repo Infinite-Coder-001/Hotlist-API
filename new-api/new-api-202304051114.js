@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'fridge (final small project)', 
       author: 'Com', 
-      votes: 28, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
