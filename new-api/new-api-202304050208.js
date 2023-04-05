@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Player Rotation #TT', 
       author: 'Dominic R.', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960/6524595743277056.png', 
       link: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960', 
