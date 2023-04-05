@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'chicken.', 
-      author: 'bredd', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
       title: 'Button', 
       author: 'MyGuy!', 
       votes: 14, 
@@ -73,13 +64,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
-      author: 'Xiøn😋🤩', 
-      votes: 16, 
+      title: 'chicken.', 
+      author: 'bredd', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'Fears List', 
@@ -98,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
+      author: 'Xiøn😋🤩', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Tutorial: Text Gradient', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
-      title: 'I coded something I guess', 
-      author: 'Darth Pastry', 
-      votes: 22, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
       title: 'Doom N Gloom', 
       author: 'No Name', 
       votes: 62, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
+    }, 
+    {
+      title: 'I coded something I guess', 
+      author: 'Darth Pastry', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
       title: 'First step-Beemo', 
@@ -237,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
-      votes: 41, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5988183532945408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5458352831512576.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
@@ -671,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'SirNeetNoit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/5673171996164096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/4984570929004544.png', 
       link: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
