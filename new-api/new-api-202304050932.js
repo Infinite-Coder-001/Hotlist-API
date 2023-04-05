@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
-      votes: 36, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
