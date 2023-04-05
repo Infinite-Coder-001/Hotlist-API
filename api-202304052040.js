@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'London', 
       author: 'NIKO Ψ', 
       votes: 49, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Conqueror#MagusFTW', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/6579969414447104.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/5998039195238400.png', 
       link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
