@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 75, 
+      votes: 74, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
-      votes: 34, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 107, 
+      votes: 106, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6242084282744832.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
       title: 'New Logo', 
       author: 'Arrow.programming', 
       votes: 8, 
@@ -230,9 +221,18 @@ var LoadHotlistAPI = function() {
       author: 'cjcool', 
       votes: 19, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6711365449596928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'Astronaut', 
@@ -298,24 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
     }, 
     {
-      title: 'Promotion Day i guess', 
-      author: 'Edmund Knight.Studios⚔🏹', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488/5798563365044224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'Hug for Macknus UwU', 
-      author: 'StuffStash', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
       title: 'Princess Addie', 
       author: 'cjcool', 
       votes: 12, 
@@ -361,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
-      title: '"Shooting star"', 
-      author: 'LoganP', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
-    }, 
-    {
       title: 'New program', 
       author: 'Velvet Faith', 
       votes: 13, 
@@ -406,6 +379,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Promotion Day i guess', 
+      author: 'Edmund Knight.Studios⚔🏹', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488/5798563365044224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
       title: 'Numbers!', 
       author: 'Ⓩ', 
       votes: 5, 
@@ -415,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
+      title: 'Hug for Macknus UwU', 
+      author: 'StuffStash', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Screen Static', 
       author: 'Chickenfarmer2009', 
       votes: 11, 
@@ -422,6 +413,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
       link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
+      title: '"Shooting star"', 
+      author: 'LoganP', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
     {
       title: 'New program', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Leafers story(with a twist at the end)', 
-      author: 'Crystal Coding # Go Cinis!', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
       title: 'Percy Jackson Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 2, 
@@ -530,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/4764929656930304.png', 
       link: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'jose cerrato', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5966906218823680/4865112789008384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5966906218823680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6734603370457029910774372'
     }, 
     {
       title: '* our intro', 
@@ -613,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295281823076839467274774'
     }, 
     {
+      title: 'Leafers story(with a twist at the end)', 
+      author: 'Crystal Coding # Go Cinis!', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'The Peaceful Jungle of Scripting (PJS)', 
       author: 'RedSus#Magus', 
       votes: 7, 
@@ -656,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392/6255473360945152.png', 
       link: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: 'wip PICO-8 imitation graphics', 
-      author: 'Archbirdplus', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-pico-8-imitation-graphics/5457189700681728/4824061692919808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip-pico-8-imitation-graphics/5457189700681728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
     }, 
     {
       title: 'First step-Beemo', 
@@ -746,15 +728,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056/6384043072733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
-    }, 
-    {
-      title: 'Terraria Tile Test WIP', 
-      author: 'StuffStash', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5027014601129984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
@@ -883,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Terraria Tile Test WIP', 
+      author: 'StuffStash', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320/5027014601129984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terraria-tile-test-wip/5795420673720320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
       author: 'Jolanta Namięta', 
       votes: 5, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/4526520451514368.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
+      title: 'Cinis Homepage', 
+      author: 'YokieBob', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088/6370847372918784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cinis-homepage/4911914829529088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Aequor', 
+      author: 'Jăř-Jăř Bìñķś (Online) ✝', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor/6683199523831808/5045546948804608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor/6683199523831808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
   ];
 };
