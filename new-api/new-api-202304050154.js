@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Player Rotation #TT', 
       author: 'Dominic R.', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960/6524595743277056.png', 
       link: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i see london', 
       author: 'NIKO Ψ', 
-      votes: 17, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
@@ -94,7 +94,7 @@ var LoadHotlistAPI = function() {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
       votes: 27, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
@@ -307,15 +307,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
-      title: 'South African Flag', 
-      author: 'The Goo 🌪', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: '432 practice 1.0 finally finished', 
       author: '1001programmer1001', 
       votes: 19, 
@@ -325,15 +316,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
-      title: 'Russian Flag', 
-      author: 'The Goo 🌪', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992/5775953315020800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: 'Ukraine Flag', 
       author: 'The Goo 🌪', 
       votes: 4, 
@@ -341,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
       link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Hug for Macknus UwU', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Cookie Clicker', 
@@ -397,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
+      title: 'South African Flag', 
+      author: 'The Goo 🌪', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'horribly drawn pixel art.', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 5, 
@@ -404,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760/6000312071798784.png', 
       link: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Promotion Day i guess', 
-      author: 'Edmund Knight.Studios⚔🏹', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488/5798563365044224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
@@ -485,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/6644869658624000.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Russian Flag', 
+      author: 'The Goo 🌪', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992/5775953315020800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'door', 
@@ -577,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
+      title: 'Promotion Day i guess', 
+      author: 'Edmund Knight.Studios⚔🏹', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488/5798563365044224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
+    }, 
+    {
       title: 'chair', 
       author: 'Com', 
       votes: 22, 
@@ -611,24 +602,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392/6255473360945152.png', 
       link: 'https://www.khanacademy.org/computer-programming/complicated-version-of-substring/5923001095995392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: '- A Blue Jay in the Snow -', 
-      author: 'Xiøn😋🤩', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864/6194592333742080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'The Peaceful Jungle of Scripting (PJS)', 
-      author: 'RedSus#Magus', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6681349915459584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
       title: 'SIMPLE PLATFORMER', 
@@ -674,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056/6384043072733184.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
+      title: 'Hug for Macknus UwU', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
@@ -766,6 +748,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_80710011086149831327935'
     }, 
     {
+      title: 'The Peaceful Jungle of Scripting (PJS)', 
+      author: 'RedSus#Magus', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880/6681349915459584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-peaceful-jungle-of-scripting-pjs/6003509070970880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
+    }, 
+    {
       title: 'Color World [GAME]', 
       author: 'HAMBURGER RiDER', 
       votes: 2, 
@@ -809,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animal-themed-characters/6314651903377408/6053189393891328.png', 
       link: 'https://www.khanacademy.org/computer-programming/animal-themed-characters/6314651903377408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: '- A Blue Jay in the Snow -', 
+      author: 'Xiøn😋🤩', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864/6194592333742080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-a-blue-jay-in-the-snow-/5933675150884864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
