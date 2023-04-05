@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i see london', 
       author: 'NIKO Ψ', 
-      votes: 27, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 69, 
+      votes: 70, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
