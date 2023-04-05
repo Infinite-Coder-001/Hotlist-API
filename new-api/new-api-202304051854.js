@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Button', 
+      author: 'MyGuy!', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
       votes: 34, 
@@ -127,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 110, 
@@ -143,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/5128898204712960.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'THE KA MOVIE 2', 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5763430314459136.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -361,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
+      title: 'kirby riding on a star ', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby-riding-on-a-star/5506590997528576/6028150908960768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kirby-riding-on-a-star/5506590997528576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
       title: '"Shooting star"', 
       author: 'LoganP', 
       votes: 8, 
@@ -487,15 +496,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
-      title: 'kirby riding on a star ', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby-riding-on-a-star/5506590997528576/6028150908960768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kirby-riding-on-a-star/5506590997528576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
       title: 'Pull LemonSaur\'s Leg!', 
       author: 'StuffStash', 
       votes: 4, 
@@ -593,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/panda-attack/4750819212967936/5615977661513728.png', 
       link: 'https://www.khanacademy.org/computer-programming/panda-attack/4750819212967936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1101771403199869140102026'
-    }, 
-    {
-      title: 'Chess Skills', 
-      author: 'TheLastPanda', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-skills/6141090362343424/5579586537832448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chess-skills/6141090362343424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2601838657807012559202844'
     }, 
     {
       title: 'Spin-off of "Free Draw"', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-avatars/5055867956543488/6245805188235264.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-avatars/5055867956543488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
+    }, 
+    {
+      title: 'A lerpColor Test', 
+      author: 'Chickenfarmer2009', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056/6384043072733184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-lerpcolor-test/4689084426797056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
   ];
 };
