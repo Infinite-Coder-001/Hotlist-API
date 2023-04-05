@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i see london', 
       author: 'NIKO Ψ', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
-      votes: 28, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
       title: 'Astronaut', 
       author: 'Epic Coder', 
       votes: 38, 
@@ -224,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 30, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
       title: 'vertex() and curveVertex() tool', 
@@ -253,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'shelf', 
+      author: 'Com', 
+      votes: 29, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
       title: 'South African Flag', 
       author: 'The Goo 🌪', 
       votes: 8, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
       link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'New program', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Dojo Cat', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/5796451851747328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/6280105333932032.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
