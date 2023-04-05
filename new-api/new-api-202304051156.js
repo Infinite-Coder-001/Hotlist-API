@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Doom N Gloom', 
       author: 'No Name', 
-      votes: 59, 
+      votes: 58, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
@@ -58,8 +58,8 @@ var LoadHotlistAPI = function() {
       title: 'Fears List', 
       author: 'Dojo Cat', 
       votes: 17, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5508122409222144.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5540078744289280.png', 
       link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
@@ -361,15 +361,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
-      title: 'Numbers!', 
-      author: 'Ⓩ', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5620562908200960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
-    }, 
-    {
       title: 'Hug for Macknus UwU', 
       author: 'StuffStash', 
       votes: 4, 
@@ -458,6 +449,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/6392196262838272.png', 
       link: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Numbers!', 
+      author: 'Ⓩ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5620562908200960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
