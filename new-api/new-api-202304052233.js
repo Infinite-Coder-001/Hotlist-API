@@ -190,21 +190,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
+      title: 'Harry Potter Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/5993839052767232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/5998039195238400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
+    }, 
+    {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
@@ -415,15 +415,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1029232876836541365226967'
     }, 
     {
-      title: 'Clock (Strange)', 
-      author: 'Liam Gregor Hoel', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5080994555412480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
-    }, 
-    {
       title: '"Shooting star"', 
       author: 'LoganP', 
       votes: 9, 
@@ -499,7 +490,7 @@ var LoadHotlistAPI = function() {
       title: 'Easter Competition (Team i-Create)', 
       author: 'MaXX🐟', 
       votes: 7, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
+      title: 'Clock (Strange)', 
+      author: 'Liam Gregor Hoel', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5080994555412480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
     }, 
     {
       title: 'Promotion Day i guess', 
@@ -649,12 +649,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
     {
-      title: 'RAINBOW WINSTON!!', 
+      title: 'Spin-off of "Resizing shapes with variable expressions"', 
       author: 'Autumn Raine Silva', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208/6382191270739968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6619402482270208/5630271413338112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6619402482270208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
     }, 
     {
@@ -662,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Lukey', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6223282593644544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6378602368385024.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
