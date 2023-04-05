@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i see london', 
       author: 'NIKO Ψ', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720/6657210106298368.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-see-london/5596929850654720', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 62, 
+      votes: 60, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -352,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'My Entry For Wave\'s Logo Contest', 
-      author: 'Dojo Cat', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/6365710071939072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: '432 practice 1.0 finally finished', 
       author: '1001programmer1001', 
       votes: 19, 
@@ -428,7 +419,7 @@ var LoadHotlistAPI = function() {
       author: 'Conqueror#MagusFTW', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/6579969414447104.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856/5318041933234176.png', 
       link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz/6369847736057856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
@@ -440,6 +431,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-free-draw/5067086075576320/5357680022831104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-free-draw/5067086075576320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_98800953463021872579121'
+    }, 
+    {
+      title: 'My Entry For Wave\'s Logo Contest', 
+      author: 'Dojo Cat', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/6365710071939072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'horribly drawn pixel art.', 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'xandercla11_15', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/4764929656930304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/6689259957567488.png', 
       link: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Pastelicon', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5568299799986176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5822053078056960.png', 
       link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
@@ -680,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'xandercla11_15', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-platformer/5399972398022656/5050868815937536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-platformer/5399972398022656/6620472969314304.png', 
       link: 'https://www.khanacademy.org/computer-programming/simple-platformer/5399972398022656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
