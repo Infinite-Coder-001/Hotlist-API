@@ -112,7 +112,7 @@ var LoadHotlistAPI = function() {
       title: 'HTTPS POST request tutorial for custom canvas size', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/5846304208240640.png', 
       link: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
