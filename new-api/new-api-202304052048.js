@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'London', 
       author: 'NIKO Ψ', 
       votes: 49, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
       title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
       author: 'Xiøn😋🤩', 
       votes: 40, 
@@ -239,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944/5383864173510656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944/4602432220086272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
       link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: 'Congrats! Velvet Faith!!!', 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Liam Gregor Hoel', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5514480772759552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5080994555412480.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
     }, 
