@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'fridge (final small project)', 
       author: 'Com', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 31, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
+    }, 
+    {
       title: 'shelf', 
       author: 'Com', 
       votes: 28, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 30, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: 'South African Flag', 
