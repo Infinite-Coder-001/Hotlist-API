@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 56, 
+      votes: 57, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Team Altum Homepage', 
+      author: 'Eryn #TeamAltum2023', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/5520382091378688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
+    }, 
+    {
       title: 'Join team i-Create now :D', 
       author: 'MaXX🐟', 
       votes: 5, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008/4509318570622976.png', 
       link: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Team Altum Homepage', 
-      author: 'Eryn #TeamAltum2023', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/5520382091378688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
     }, 
     {
       title: 'South African Flag', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/4557115718156288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072/5519955950092288.png', 
       link: 'https://www.khanacademy.org/computer-programming/pull-lemonsaurs-leg/6301772101763072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -640,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
+      title: 'Leafers story(with a twist at the end)', 
+      author: 'Crystal Coding # Go Cinis!', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'SIMPLE PLATFORMER', 
       author: 'xandercla11_15', 
       votes: 6, 
@@ -802,24 +811,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'New program', 
-      author: 'LemonSaur', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5468475499003904/4630921308585984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5468475499003904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
-    }, 
-    {
-      title: 'Leafers story(with a twist at the end)', 
-      author: 'Crystal Coding # Go Cinis!', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
-    }, 
-    {
       title: 'Animal themed Characters ', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 2, 
@@ -836,6 +827,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6168199189282816/5097871260303360.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/6168199189282816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6824449048953623937910210'
+    }, 
+    {
+      title: 'New program', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792/4526520451514368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6552879545761792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Cinis Homepage', 
