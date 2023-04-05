@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 44, 
+      votes: 45, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
+      title: 'its my b-day!', 
+      author: 'the Knight_400', 
+      votes: 29, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/6635230074290176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 64, 
@@ -37,18 +46,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'its my b-day!', 
-      author: 'the Knight_400', 
-      votes: 28, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/6635230074290176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'fridge (final small project)', 
       author: 'Com', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Smart Page', 
+      author: 'Falcon Jumper', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
+    }, 
+    {
       title: 'Doom N Gloom', 
       author: 'No Name', 
       votes: 62, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
-    }, 
-    {
-      title: 'Smart Page', 
-      author: 'Falcon Jumper', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New Logo', 
       author: 'Arrow.programming', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912/6233239758094336.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912', 
@@ -154,6 +154,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Join team i-Create now :D', 
+      author: 'MaXX🐟', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
+      title: 'South African Flag', 
+      author: 'The Goo 🌪', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 47, 
@@ -161,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'Congrats! Velvet Faith!!!', 
@@ -217,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Ukraine Flag', 
+      author: 'The Goo 🌪', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
       votes: 7, 
@@ -224,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'South African Flag', 
-      author: 'The Goo 🌪', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'tik tok', 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Ukraine Flag', 
-      author: 'The Goo 🌪', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
+      title: 'Princess Addie', 
+      author: 'cjcool', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'Apex Games Demo', 
       author: 'apex', 
       votes: 32, 
@@ -368,15 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/4690003449135104.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Princess Addie', 
-      author: 'cjcool', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: '"Shooting star"', 
