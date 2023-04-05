@@ -113,9 +113,18 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/5846304208240640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/4596800209338368.png', 
       link: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'its my b-day!', 
+      author: 'the Knight_400', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Putting the clues together', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
-      title: 'its my b-day!', 
-      author: 'the Knight_400', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'A Short Story', 
