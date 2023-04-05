@@ -39,9 +39,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4976225404895232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/5220273029955584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Doom N Gloom', 
+      author: 'No Name', 
+      votes: 61, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
+    }, 
+    {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
       votes: 21, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
-    }, 
-    {
-      title: 'Doom N Gloom', 
-      author: 'No Name', 
-      votes: 60, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 107, 
+      votes: 108, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6242084282744832.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Cookie Clicker', 
+      author: 'Cat Lady', 
+      votes: 44, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6314705120706560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
+    }, 
+    {
       title: 'A Short Story', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 22, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
       link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Cookie Clicker', 
-      author: 'Cat Lady', 
-      votes: 43, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6314705120706560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
     }, 
     {
       title: 'Join team i-Create now :D', 
@@ -229,10 +229,28 @@ var LoadHotlistAPI = function() {
       title: '"Lyrics"', 
       author: 'cjcool', 
       votes: 19, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6711365449596928.png', 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'Gradient text tutorial', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-text-tutorial/5696982154002432/5193956758700032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gradient-text-tutorial/5696982154002432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Astronaut', 
+      author: 'Epic Coder', 
+      votes: 39, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
     {
       title: 'Button', 
@@ -251,24 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Astronaut', 
-      author: 'Epic Coder', 
-      votes: 38, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
-    }, 
-    {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 32, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
   ];
 };
