@@ -21,11 +21,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 21, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'april fools!', 
+      author: 'levi\'s ghost', 
+      votes: 79, 
+      forks: 13, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
       title: 'its my b-day!', 
@@ -37,22 +46,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'april fools!', 
-      author: 'levi\'s ghost', 
-      votes: 78, 
-      forks: 13, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
-    }, 
-    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 64, 
+      votes: 65, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Button', 
+      author: 'MyGuy!', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'Putting the clues together', 
@@ -82,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
       votes: 14, 
@@ -98,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5896845013598208.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Tutorial: Text Gradient', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'New Logo || [WIP]', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'Tutorial: Text Gradient', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'India Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696/6626540550144000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Astronaut', 
       author: 'Epic Coder', 
       votes: 41, 
@@ -469,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'India Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696/6626540550144000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'Very Clunky Proof of Concept', 
       author: 'TheDoughSmith', 
       votes: 3, 
@@ -533,7 +533,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Team Altum Homepage', 
-      author: 'Eryn #TeamAltum2023', 
+      author: 'Eryn #AltumFTW2023', 
       votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/5520382091378688.png', 
@@ -586,11 +586,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Chess pieces', 
+      author: 'SirNeetNoit', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/5616664164220928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
+    }, 
+    {
       title: 'To be chess', 
       author: 'Lukey', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6261860916838400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/6409657787924480.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
@@ -887,18 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-wip/5795420673720320/6396525120110592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-wip/5795420673720320/5257314237202432.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-wip/5795420673720320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'SIMPLE PLATFORMER', 
-      author: 'xandercla11_15', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-platformer/5399972398022656/4746786708439040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/simple-platformer/5399972398022656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
   ];
 };
