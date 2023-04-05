@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 57, 
+      votes: 58, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'Numbers!', 
+      author: 'Ⓩ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5620562908200960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
+    }, 
+    {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
       author: 'jfsh', 
       votes: 8, 
@@ -593,15 +602,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960/5656378699202560.png', 
       link: 'https://www.khanacademy.org/computer-programming/chair/4590603326504960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Numbers!', 
-      author: 'Ⓩ', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5620562908200960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
       title: 'Tic Tac Toe', 
