@@ -112,7 +112,7 @@ var LoadHotlistAPI = function() {
       title: 'HTTPS POST request tutorial for custom canvas size', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840/5846304208240640.png', 
       link: 'https://www.khanacademy.org/computer-programming/https-post-request-tutorial-for-custom-canvas-size/5312527853731840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
     }, 
     {
+      title: 'Russian Flag', 
+      author: 'The Goo 🌪', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992/5775953315020800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/russian-flag/4838532444372992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'Princess Addie', 
       author: 'cjcool', 
       votes: 12, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
       link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'New Logo', 
-      author: 'Arrow.programming', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912/4886878219452416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
