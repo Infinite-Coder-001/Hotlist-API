@@ -12,11 +12,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 55, 
+      votes: 56, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Player Rotation #TT', 
+      author: 'Dominic R.', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960/6524595743277056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Doom N Gloom', 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6601393902501888.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
-    }, 
-    {
-      title: 'Player Rotation #TT', 
-      author: 'Dominic R.', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960/6524595743277056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/player-rotation-tt/4634528175144960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Smart Page', 
@@ -183,7 +183,7 @@ var LoadHotlistAPI = function() {
     {
       title: ' "Lyrics"', 
       author: 'cjcool', 
-      votes: 18, 
+      votes: 19, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/5715349111881728.png', 
       link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Princess Addie', 
       author: 'cjcool', 
-      votes: 11, 
+      votes: 12, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
       link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
@@ -379,6 +379,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Fighters! Full release! (light and dark)', 
+      author: 'Jibanyanc', 
+      votes: 39, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
       title: 'Spin-off of "Free Draw"', 
       author: '271884mccreery.g', 
       votes: 9, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'Fighters! Full release! (light and dark)', 
-      author: 'Jibanyanc', 
-      votes: 38, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424/6691913895034880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fighters-full-release-light-and-dark/6552633373671424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'New program', 
