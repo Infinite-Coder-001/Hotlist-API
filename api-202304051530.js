@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/5220273029955584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'fridge (final small project)', 
       author: 'Com', 
-      votes: 31, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'New Logo', 
+      author: 'Arrow.programming', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912/4571173313888256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 44, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'New Logo', 
-      author: 'Arrow.programming', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912/4886878219452416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo/6399962687782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'primavera storyline', 
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-text-tutorial/5696982154002432/5193956758700032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-text-tutorial/5696982154002432/6523141896847360.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-text-tutorial/5696982154002432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
