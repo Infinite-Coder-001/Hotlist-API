@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: '7', 
       author: 'aieman27', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: '3', 
+      author: 'aieman27', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3/4879704147673088/5291464126152704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3/4879704147673088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
       title: 'convolution', 
       author: 'daniel', 
       votes: 3, 
@@ -878,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/6370140599140352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/5179009010024448.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5845559937384448.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
-    }, 
-    {
-      title: 'Charlotte ^U^', 
-      author: 'NosyrainE', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/charlotte-u/6376609457422336/4641004046303232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/charlotte-u/6376609457422336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
     }, 
   ];
 };
