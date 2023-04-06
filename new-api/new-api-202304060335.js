@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 41, 
+      votes: 40, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 68, 
+      votes: 67, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -334,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
     }, 
     {
-      title: '7', 
-      author: 'aieman27', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
       title: 'my version that has a secret at the bottom', 
       author: 'Anyka', 
       votes: 8, 
@@ -481,7 +472,7 @@ var LoadHotlistAPI = function() {
       title: 'New program', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 7, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5614582032023552.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: '7', 
+      author: 'aieman27', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
     {
       title: 'Princess Addie', 
