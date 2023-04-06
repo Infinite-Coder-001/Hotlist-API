@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
       votes: 47, 
-      forks: 6, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5293562096041984.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
-      title: 'Congrats! Velvet Faith!!!', 
-      author: 'Arrow.programming', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336/6130934622765056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Doom N Gloom', 
       author: 'No Name', 
       votes: 62, 
@@ -242,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
       link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
+      title: 'Congrats! Velvet Faith!!!', 
+      author: 'Arrow.programming', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336/6130934622765056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'THE KA MOVIE 2', 
