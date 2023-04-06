@@ -325,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'quick', 
+      author: 'NIKO Ψ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'Congrats! Velvet Faith!!!', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5698735016558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'quick', 
-      author: 'NIKO Ψ', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Tic Tac Toe', 
