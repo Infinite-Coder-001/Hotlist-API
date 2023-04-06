@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 35, 
+      votes: 34, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 51, 
+      votes: 50, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 25, 
+      votes: 24, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -57,20 +57,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'chicken.', 
       author: 'bredd', 
-      votes: 22, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: '🚧NOT DONE🚧', 
-      author: 'MyGuy!', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'its a game', 
@@ -91,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: '🚧NOT DONE🚧', 
+      author: 'MyGuy!', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: '7', 
       author: 'aieman27', 
       votes: 16, 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 89, 
+      votes: 88, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
-      votes: 26, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/6142133112455168.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Dojo Cat', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/6604646463619072.png', 
       link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
@@ -134,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Lighting the Way ', 
-      author: 'Arrow.programming', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5866940754345984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'New program', 
@@ -158,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: '🎵UltraUltronDJ🎵', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6341673300049920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5514120008089600.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Lighting the Way ', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5866940754345984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'First step-Beemo', 
@@ -608,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/6476442193149952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/6677984842137600.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
