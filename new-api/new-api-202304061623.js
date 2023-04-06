@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'zappity zap', 
+      author: 'LightningCoder', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 20, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'zappity zap', 
-      author: 'LightningCoder', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'its my b-day!', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: '🚧NOT DONE🚧', 
+      author: 'MyGuy!', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'Spotlights', 
       author: 'Dojo Cat', 
       votes: 6, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: '🚧NOT DONE🚧', 
-      author: 'MyGuy!', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'Tutorial: Text Gradient', 
@@ -355,7 +355,7 @@ var LoadHotlistAPI = function() {
       title: 'Tic Tac Toe', 
       author: 'LunaTC', 
       votes: 13, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/6639124615577600.png', 
       link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
@@ -559,6 +559,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Short scene animation project', 
+      author: 'Ethan LaBau', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/short-scene-animation-project/5395821811253248/5099275492311040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/short-scene-animation-project/5395821811253248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_939058682490996976676899'
+    }, 
+    {
+      title: 'Bouncing Screensaver Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Oh noes dodge', 
       author: 'Colton', 
       votes: 2, 
@@ -577,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Nia - Short Animated Scene Program', 
+      author: 'boltonni2025', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
+    }, 
+    {
       title: 'shelf', 
       author: 'Com', 
       votes: 34, 
@@ -584,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Thanks IP!', 
+      author: 'Crystal Coding # Go Cinis!', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/thanks-ip/6031692826722304/6518376643215360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/thanks-ip/6031692826722304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'Moving vehicles! ( not finished )', 
@@ -620,6 +656,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
       link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
+    }, 
+    {
+      title: 'boat', 
+      author: 'rafi semmel', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/6409800595587072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_260141245041416433419603'
+    }, 
+    {
+      title: 'Blue, Red, BIG, Mouse Challenge', 
+      author: 'devanryan.dickson', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800/4510635326226432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1112926338187763048287231'
     }, 
     {
       title: '"Shooting star"', 
@@ -784,15 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Bouncing Screensaver Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
       title: ':O #ItWORKS!', 
       author: 'Arrow.programming', 
       votes: 6, 
@@ -802,6 +847,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Happy Easter 2023 🥚🎨', 
+      author: 'PenGwen', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168/4664543264686080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
       title: 'New program', 
       author: 'Velvet Faith', 
       votes: 15, 
@@ -809,6 +863,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168/4742144771538944.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5569655180935168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
+    }, 
+    {
+      title: 'Avatar Royale WIP', 
+      author: 'The Ember Society #OpesFTW', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008/6645739804737536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
       title: 'Screen Static', 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944/4662699637391360.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_420338076111379447895856'
-    }, 
-    {
-      title: 'horribly drawn pixel art.', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760/6000312071798784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/horribly-drawn-pixel-art/5450983842037760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Team Altum Homepage', 
-      author: 'Eryn #AltumFTW2023', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288/5520382091378688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-altum-homepage/6126326479372288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8503356912224368802373403'
-    }, 
-    {
-      title: 'Computer Programming Tip: eval()???', 
-      author: 'InvisibleCat123', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568/5292180647493632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/computer-programming-tip-eval/5969664275693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Grass Touching Simulator', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5936370746179584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: '432 practice 1.0 finally finished', 
-      author: '1001programmer1001', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144/6330450126880768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/432-practice-10-finally-finished/4941046216966144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
-    }, 
-    {
-      title: 'Just a normal Netflix ad that goes on for 102948203985230 years', 
-      author: '2024-swu', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184/4572861470916608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_874952043447890186955301'
-    }, 
-    {
-      title: 'MOON WALK v1.6.5', 
-      author: 'xandercla11_15', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832/5282285290307584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
   ];
 };
