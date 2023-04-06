@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 43, 
+      votes: 47, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 55, 
+      votes: 58, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 30, 
+      votes: 32, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 57, 
+      votes: 58, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'London', 
       author: 'NIKO Ψ', 
-      votes: 64, 
+      votes: 65, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way', 
       author: 'Arrow.programming', 
-      votes: 12, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6275237068193792.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 26, 
+      votes: 28, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: '🚧NOT DONE🚧', 
       author: 'MyGuy!', 
-      votes: 14, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: '7', 
       author: 'aieman27', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'sad egg', 
+      author: 'bredd', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -129,11 +138,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
-      votes: 8, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5818234797604864.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
+    }, 
+    {
+      title: 'Spotlights', 
+      author: 'Dojo Cat', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'New program', 
@@ -145,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
-      title: 'Spotlights', 
-      author: 'Dojo Cat', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 73, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'sad egg', 
-      author: 'bredd', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'POV you get the O noes guy.', 
