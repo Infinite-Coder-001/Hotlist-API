@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 57, 
+      votes: 56, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: '🚧NOT DONE🚧', 
-      author: 'MyGuy!', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 27, 
@@ -91,9 +82,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
+      title: '🚧NOT DONE🚧', 
+      author: 'MyGuy!', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: '7', 
       author: 'aieman27', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -107,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'sad egg', 
-      author: 'bredd', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
+    }, 
+    {
+      title: 'sad egg', 
+      author: 'bredd', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'Spotlights', 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-not-finished/6286010993655808/4984048331309056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-not-finished/6286010993655808/4992850799673344.png', 
       link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-not-finished/6286010993655808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -386,33 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
       link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
-      title: 'Boo from super mario ', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'MetaBalls', 
-      author: 'Manta', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6502489693405184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'cursor (low quality)', 
-      author: 'SpongeBobert (Offline)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432/6107004239396864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
     }, 
     {
       title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
@@ -559,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'Boo from super mario ', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
       title: 'South African Flag', 
       author: 'The Goo 🌪', 
       votes: 13, 
@@ -566,15 +548,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
       link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Bouncing Screensaver Tutorial', 
-      author: '▪Dipper98▪', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'primavera storyline', 
@@ -602,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440/4579559820541952.png', 
       link: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'MetaBalls', 
+      author: 'Manta', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6502489693405184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'Rectangular Rectangles  [WIP]', 
@@ -739,6 +721,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_939058682490996976676899'
     }, 
     {
+      title: 'Bouncing Screensaver Tutorial', 
+      author: '▪Dipper98▪', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Oh noes dodge', 
       author: 'Colton', 
       votes: 2, 
@@ -815,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'rafi semmel', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/4542250983145472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/6282120189493248.png', 
       link: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_260141245041416433419603'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696/5949346312142848.png', 
       link: 'https://www.khanacademy.org/computer-programming/princess-addie/5550767105949696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: '3', 
+      author: 'aieman27', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3/4879704147673088/5291464126152704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3/4879704147673088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
   ];
 };
