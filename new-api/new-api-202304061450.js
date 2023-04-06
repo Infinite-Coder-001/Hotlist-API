@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 50, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 50, 
+      votes: 49, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -32,14 +32,14 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 29, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5293562096041984.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 12, 
+      votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5037621807202304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5962025772826624.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: '7', 
       author: 'aieman27', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
       author: 'Conqueror#MagusFTW', 
       votes: 17, 
@@ -217,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: 'kinda cringe :P', 
-      author: 'Arrow.programming', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Ukraine Flag', 
       author: 'The Goo 🌪', 
       votes: 14, 
@@ -233,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
       link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -271,11 +262,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
+      title: 'kinda cringe :P', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: '🚧NOT DONE🚧', 
       author: 'MyGuy!', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5130451753943040.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -368,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_380939257685894473445717'
-    }, 
-    {
-      title: 'Boo from super mario ', 
-      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
       title: 'stacking 3d cubes', 
@@ -631,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
+      title: 'Boo from super mario ', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
       title: 'My logo W.I.P', 
       author: 'MaXX🐟', 
       votes: 2, 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Chickenfarmer2009', 
       votes: 14, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/6292328152350720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
       link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
