@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 83, 
+      votes: 84, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 65, 
+      votes: 66, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'fridge (final small project)', 
       author: 'Com', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I coded something I guess', 
       author: 'Darth Pastry', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
@@ -161,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
+    }, 
+    {
+      title: 'Team Cinis | Primavera 2023', 
+      author: 'Lemon Games', 
+      votes: 37, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
       title: 'Doom N Gloom', 
@@ -181,13 +190,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Team Cinis | Primavera 2023', 
-      author: 'Lemon Games', 
-      votes: 36, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
+      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/5993839052767232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Ukraine Flag', 
@@ -199,13 +208,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 13, 
+      title: 'THE KA MOVIE 2', 
+      author: 'obsta07', 
+      votes: 32, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/5993839052767232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
+      title: 'Free Form Tower Defense', 
+      author: 'Larry Serflaten', 
+      votes: 113, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6546128360488960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
       title: 'Percy Jackson Quiz', 
@@ -215,24 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
       link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 112, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6546128360488960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
-      title: 'THE KA MOVIE 2', 
-      author: 'obsta07', 
-      votes: 31, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
       title: 'zappity zap', 
@@ -264,7 +264,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 53, 
+      votes: 54, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'primavera storyline', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 18, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4543186669453312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'jtimlin', 
       votes: 11, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288/5487531396481024.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-version-that-has-a-secret-at-the-bottom/5766899792396288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
-    }, 
-    {
-      title: 'primavera storyline', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 17, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4543186669453312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'A Short Story', 
@@ -613,6 +613,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1078378520650574901650073'
     }, 
     {
+      title: 'Screen Static', 
+      author: 'Chickenfarmer2009', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
       title: ':O #ItWORKS!', 
       author: 'Arrow.programming', 
       votes: 5, 
@@ -638,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688/5562300603088896.png', 
       link: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Screen Static', 
-      author: 'Chickenfarmer2009', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248/5094797808549888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screen-static/4712756860469248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
     {
       title: 'My Entry For Wave\'s Logo Contest', 
