@@ -397,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'New program', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5614582032023552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'Cookie Clicker', 
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 9, 
@@ -446,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/6172334806581248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/5147428216160256.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -485,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
+    }, 
+    {
+      title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5614582032023552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Easter Competition (Team i-Create)', 
