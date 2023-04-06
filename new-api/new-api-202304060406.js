@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 12, 
+      votes: 11, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -237,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
-      votes: 114, 
+      votes: 113, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6546128360488960.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/5824556083494912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/6172334806581248.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
