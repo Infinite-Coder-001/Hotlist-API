@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 44, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: 'Tutorial: Text Gradient', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'fridge (final small project)', 
       author: 'Com', 
       votes: 37, 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808/5884824478072832.png', 
       link: 'https://www.khanacademy.org/computer-programming/fridge-final-small-project/6715271269367808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Tutorial: Text Gradient', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Smart Page', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
     {
-      title: 'vertex() and curveVertex() tool', 
-      author: 'Promise', 
-      votes: 34, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
-    }, 
-    {
       title: 'Pause button', 
       author: 'Arrow.programming', 
       votes: 3, 
@@ -521,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688/5562300603088896.png', 
       link: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'vertex() and curveVertex() tool', 
+      author: 'Promise', 
+      votes: 33, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904/6569232986062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vertex-and-curvevertex-tool/6036562518523904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_879429862105799252962492'
     }, 
     {
       title: 'kinda cringe :P', 
