@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
+      title: 'POV you get the O noes guy.', 
+      author: 'Speedyspeedcuber', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'Pause button', 
       author: 'Arrow.programming', 
       votes: 4, 
@@ -559,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'Aleksandra J', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776/5304724246282240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
+    }, 
+    {
       title: 'Domaci info zivotinja', 
       author: 'kacanski.emilija', 
       votes: 3, 
@@ -575,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488/5798563365044224.png', 
       link: 'https://www.khanacademy.org/computer-programming/promotion-day-i-guess/5199174741311488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
-    }, 
-    {
-      title: 'POV you get the O noes guy.', 
-      author: 'Speedyspeedcuber', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Numbers!', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tomjerry-jerry/4512624219045888/5249879682367488.png', 
       link: 'https://www.khanacademy.org/computer-programming/tomjerry-jerry/4512624219045888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8701895573398215310863505'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Liam K.', 
-      votes: 35, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528/5909895963787264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6619237142806528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
   ];
 };
