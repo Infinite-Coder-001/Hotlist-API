@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 28, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
-    }, 
-    {
       title: '🚧NOT DONE🚧', 
       author: 'MyGuy!', 
       votes: 15, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 27, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: '7', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'My Best Product', 
-      author: '🎵UltraUltronDJ🎵', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5818234797604864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
       title: 'Spotlights', 
       author: 'Dojo Cat', 
       votes: 9, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
       link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'My Best Product', 
+      author: '🎵UltraUltronDJ🎵', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5818234797604864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
       title: 'New program', 
@@ -334,12 +334,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: ' - BlackBird Singing In The Dead Of Night -', 
+      title: ' - BlackBird Singing In The Dead Of Night - | NOT FINISHED |', 
       author: 'Xiøn😋🤩', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/5051876434558976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-not-finished/6286010993655808/4984048331309056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-not-finished/6286010993655808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
@@ -661,7 +661,7 @@ var LoadHotlistAPI = function() {
       title: 'Cookie Clicker', 
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 10, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008/6405601271005184.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
