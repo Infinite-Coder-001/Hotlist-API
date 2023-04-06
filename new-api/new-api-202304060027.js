@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness #altumftw!', 
       votes: 17, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4670049635057664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/4543186669453312.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -469,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Hug for Macknus UwU', 
+      author: 'StuffStash', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Leafers story(with a twist at the end)', 
       author: 'Crystal Coding # Go Cinis!', 
       votes: 13, 
@@ -557,15 +566,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/4945015488167936.png', 
       link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
-    }, 
-    {
-      title: 'Hug for Macknus UwU', 
-      author: 'StuffStash', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160/4575640851628032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hug-for-macknus-uwu/6404209051484160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'not a snow man', 
@@ -766,6 +766,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_98800953463021872579121'
     }, 
     {
+      title: '* our intro', 
+      author: 'LightningCoder', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/6644869658624000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Tom&Jerry: Jerry', 
       author: 'Cael', 
       votes: 2, 
@@ -854,15 +863,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/zombie-hord-demo/5528593498423296/5406110325719040.png', 
       link: 'https://www.khanacademy.org/computer-programming/zombie-hord-demo/5528593498423296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
-    }, 
-    {
-      title: '* our intro', 
-      author: 'LightningCoder', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248/6644869658624000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/our-intro/5258014283317248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Team Opes Homepage 2023', 
