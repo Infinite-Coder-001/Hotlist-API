@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5293562096041984.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
+      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
+      author: 'Xiøn😋🤩', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/6142133112455168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 71, 
@@ -91,20 +100,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
-      author: 'Xiøn😋🤩', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/6142133112455168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'zappity zap', 
       author: 'LightningCoder', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5158759300382720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/6006888283291648.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
