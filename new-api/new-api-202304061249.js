@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 47, 
+      votes: 46, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 25, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5293562096041984.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 45, 
+      votes: 43, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'chicken.', 
       author: 'bredd', 
-      votes: 16, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/6142133112455168.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Fears List', 
-      author: 'Dojo Cat', 
-      votes: 27, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5672238490894336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 36, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Fears List', 
+      author: 'Dojo Cat', 
+      votes: 26, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5672238490894336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Tutorial: Text Gradient', 
@@ -559,22 +559,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'Spotlights', 
+      title: 'My Corner Logo', 
       author: 'Dojo Cat', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/6604646463619072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-corner-logo/5216966622363648/5204864109166592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-corner-logo/5216966622363648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'My logo W.I.P', 
-      author: 'MaXX🐟', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-wip/5942298920927232/5926519278190592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo-wip/5942298920927232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'vertex() and curveVertex() tool', 
@@ -730,15 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
     {
-      title: 'My Entry For Waves\' Logo Contest', 
-      author: 'Dojo Cat', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/5666115612360704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'not a snow man', 
       author: 'C2_2333010_이지훈_SE2023', 
       votes: 4, 
@@ -838,6 +820,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
     }, 
     {
+      title: 'My Entry For Wave\'s Logo Contest', 
+      author: 'Dojo Cat', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/4648385060847616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'jacobguan7', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/4726589624729600.png', 
       link: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
+    }, 
+    {
+      title: 'RAINBOW WINSTON!!', 
+      author: 'NosyrainE', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208/5188215243063296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
     }, 
   ];
 };
