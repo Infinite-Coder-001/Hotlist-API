@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'mr. mustache', 
       votes: 21, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: '7', 
-      author: 'aieman27', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 17, 
@@ -109,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: '7', 
+      author: 'aieman27', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 71, 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -301,7 +301,7 @@ var LoadHotlistAPI = function() {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 6, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
@@ -359,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/6639124615577600.png', 
       link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
-    }, 
-    {
-      title: 'Nia - Short Animated Scene Program', 
-      author: 'boltonni2025', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
     }, 
     {
       title: 'stacking 3d cubes', 
@@ -604,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Nia - Short Animated Scene Program', 
+      author: 'boltonni2025', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
+    }, 
+    {
       title: 'shelf', 
       author: 'Com', 
       votes: 34, 
@@ -838,15 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Panda attack', 
-      author: '1lousylane', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/panda-attack/4750819212967936/5615977661513728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/panda-attack/4750819212967936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1101771403199869140102026'
-    }, 
-    {
       title: ':O #ItWORKS!', 
       author: 'Arrow.programming', 
       votes: 6, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/5666115612360704.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'not a snow man', 
+      author: 'C2_2333010_이지훈_SE2023', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944/4662699637391360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-a-snow-man/4755312788946944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_420338076111379447895856'
     }, 
   ];
 };
