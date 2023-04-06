@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 65, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'Button', 
+      author: 'MyGuy!', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -703,15 +703,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1206869470571076953474560'
     }, 
     {
-      title: 'Team Magus Homepage Entry | Primavera 2023', 
-      author: 'jfsh', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5845559937384448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'delevic.milorad', 
       votes: 2, 
@@ -809,6 +800,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184/4572861470916608.png', 
       link: 'https://www.khanacademy.org/computer-programming/just-a-normal-netflix-ad-that-goes-on-for-102948203985230-years/6415026396381184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_874952043447890186955301'
+    }, 
+    {
+      title: 'Team Magus Homepage Entry | Primavera 2023', 
+      author: 'jfsh', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088/5845559937384448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-magus-homepage-entry-primavera-2023/6412670355161088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_903966361915125576284278'
     }, 
     {
       title: 'jaedens party', 
