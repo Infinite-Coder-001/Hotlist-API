@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 31, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: '7', 
+      author: 'aieman27', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 71, 
@@ -109,13 +118,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: '7', 
-      author: 'aieman27', 
-      votes: 12, 
+      title: 'Spotlights', 
+      author: 'Dojo Cat', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/6604646463619072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Fears List', 
@@ -145,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: '🚧NOT DONE🚧', 
+      author: 'MyGuy!', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'Tutorial: Text Gradient', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 11, 
@@ -170,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/4736949702410240.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Spotlights', 
-      author: 'Dojo Cat', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/6604646463619072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Smart Page', 
@@ -271,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: '🚧NOT DONE🚧', 
-      author: 'MyGuy!', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/6008830782914560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'POV you get the O noes guy.', 
       author: 'Speedyspeedcuber', 
       votes: 4, 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1029232876836541365226967'
     }, 
     {
+      title: '[GPT] Circle Collisions', 
+      author: 'apex', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032/4568292531683328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
       author: 'StuffStash', 
       votes: 6, 
@@ -422,6 +431,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/6124093398368256.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'Aleksandra J', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776/5304724246282240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
     }, 
     {
       title: 'India Flag', 
@@ -541,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Oh noes dodge', 
+      author: 'Colton', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184/6464444122316800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1180325466877190603510324'
+    }, 
+    {
       title: 'tik tok', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 10, 
@@ -548,15 +575,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tok/5833940608008192/4610401699676160.png', 
       link: 'https://www.khanacademy.org/computer-programming/tik-tok/5833940608008192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: '[GPT] Circle Collisions', 
-      author: 'apex', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032/4568292531683328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'shelf', 
@@ -701,15 +719,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/4568015015559168.png', 
       link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Aleksandra J', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776/5304724246282240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
     }, 
     {
       title: 'To be chess', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832/5282285290307584.png', 
       link: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'Primavera Challenge 1', 
-      author: 'Fire Wolf #Altum', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/5179009010024448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
   ];
 };
