@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'London', 
       author: 'NIKO Ψ', 
       votes: 58, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 49, 
+      votes: 48, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -35,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5293562096041984.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'help the sky is spinning', 
-      author: 'mr. mustache', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'chicken.', 
@@ -64,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'help the sky is spinning', 
+      author: 'mr. mustache', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6044228997398528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
       votes: 87, 
@@ -77,7 +77,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5962025772826624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/6648930147549184.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'Team Cinis | Primavera 2023', 
       author: 'Lemon Games', 
       votes: 38, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: '🚧NOT DONE🚧', 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'Liam Gregor Hoel', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5461064600043520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/6326047806373888.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
     }, 
@@ -557,15 +557,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
       link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Moving vehicles! ( not finished )', 
-      author: 'Buster', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-vehicles-not-finished/4803973661114368/6247740922445824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moving-vehicles-not-finished/4803973661114368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
       title: 'Fire Wars/Advance Emblem', 
@@ -865,12 +856,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_874952043447890186955301'
     }, 
     {
-      title: 'MOON WALK v1.6.5', 
+      title: 'MOON WALK', 
       author: 'xandercla11_15', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832/5282285290307584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moon-walk-v165/4924217713016832', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832/4940007422083072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moon-walk/4924217713016832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5551144303902720/5021628947021824.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5551144303902720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_777030398272372835893953'
+    }, 
+    {
+      title: 'background graphix', 
+      author: 'Fireball my dear sir #CinisFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/background-graphix/4586140234727424/4881527315152896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/background-graphix/4586140234727424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
   ];
 };
