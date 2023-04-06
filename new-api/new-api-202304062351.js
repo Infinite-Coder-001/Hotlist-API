@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'Spotlights', 
-      author: 'Dojo Cat', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 10, 
@@ -136,9 +127,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
+      title: 'Spotlights', 
+      author: 'Dojo Cat', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
-      votes: 29, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/4509612788465664.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 40, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
-      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
-      author: 'Xiøn😋🤩', 
-      votes: 46, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5246885096112128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
       votes: 33, 
@@ -521,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
+      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
+      author: 'Xiøn😋🤩', 
+      votes: 45, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5246885096112128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Free Form Tower Defense', 
