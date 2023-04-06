@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 26, 
+      votes: 27, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 51, 
+      votes: 52, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -48,8 +48,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 20, 
-      forks: 1, 
+      votes: 23, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -73,6 +73,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 21, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
+      title: '🚧NOT DONE🚧', 
+      author: 'MyGuy!', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: '7', 
       author: 'aieman27', 
       votes: 16, 
@@ -80,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 19, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: 'april fools!', 
@@ -100,18 +109,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: '🚧NOT DONE🚧', 
-      author: 'MyGuy!', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/6142133112455168.png', 
       link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
@@ -181,6 +181,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'My Best Product', 
+      author: '🎵UltraUltronDJ🎵', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5648730658488320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
+    }, 
+    {
+      title: 'Pause button', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688/5515489733558272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pause-button/5686798966898688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
       votes: 28, 
@@ -244,31 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'I coded something I guess', 
-      author: 'Darth Pastry', 
-      votes: 24, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
-      title: 'POV you get the O noes guy.', 
-      author: 'Speedyspeedcuber', 
-      votes: 5, 
+      title: 'team cinis intro', 
+      author: 'Fireball my dear sir #CinisFTW', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'A lesson for everyone', 
-      author: 'MyGuy!', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752/5891709340008448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
   ];
 };
