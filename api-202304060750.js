@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5416958318395392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5678613195440128.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
