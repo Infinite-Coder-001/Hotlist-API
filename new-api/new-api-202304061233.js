@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'London', 
       author: 'NIKO Ψ', 
-      votes: 55, 
+      votes: 54, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
@@ -559,15 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'My Corner Logo', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-corner-logo/5216966622363648/5204864109166592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-corner-logo/5216966622363648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
       title: 'vertex() and curveVertex() tool', 
       author: 'Promise', 
       votes: 34, 
@@ -824,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'Dojo Cat', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/4648385060847616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008/6365710071939072.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-entry-for-waves-logo-contest/4805626887979008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208/5188215243063296.png', 
       link: 'https://www.khanacademy.org/computer-programming/rainbow-winston/6619402482270208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
+    }, 
+    {
+      title: 'To be chess', 
+      author: 'Lukey', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/4813499697250304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
   ];
 };
