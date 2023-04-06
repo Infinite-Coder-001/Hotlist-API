@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 41, 
+      votes: 42, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 53, 
+      votes: 54, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 28, 
+      votes: 29, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 24, 
+      votes: 25, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'POV you get the O noes guy.', 
+      author: 'Speedyspeedcuber', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'First step-Beemo', 
       author: 'C2_2333001_안새빈_SE2023', 
       votes: 18, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'POV you get the O noes guy.', 
-      author: 'Speedyspeedcuber', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Putting the clues together', 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/4950611608256512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928/5011421768499200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Falling by Trevor Daniel', 
       author: 'Timothy Lightson', 
       votes: 2, 
@@ -634,7 +643,7 @@ var LoadHotlistAPI = function() {
       title: 'Flappy Bird [Godspeed][No Deaths]', 
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 2, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144/6051635433619456.png', 
       link: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/4568015015559168.png', 
       link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
-    }, 
-    {
-      title: 'To be chess', 
-      author: 'Lukey', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/4559182549532672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
     }, 
   ];
 };
