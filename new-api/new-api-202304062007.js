@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 53, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
+      title: '3D platform', 
+      author: 'morganeli2010', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368/6063769924190208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
+    }, 
+    {
       title: 'Free Form Tower Defense', 
       author: 'Larry Serflaten', 
       votes: 115, 
@@ -532,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_181141864588490944711528'
     }, 
     {
-      title: 'Painting of Two Birds', 
-      author: 'Timothy Lightson', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/painting-of-two-birds/6171584139411456/4647724004982784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/painting-of-two-birds/6171584139411456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
       title: ' "Lyrics"', 
       author: 'cjcool', 
       votes: 23, 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: '⚡💧🔥lukyluki🔥💧⚡', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144/6754565216321536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144/6051635433619456.png', 
       link: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
@@ -647,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles-wip/5811187716767744/6191531477483520.png', 
       link: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles-wip/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: '3D platform', 
-      author: 'morganeli2010', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368/6063769924190208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
     }, 
     {
       title: 'Short scene animation project', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/4559182549532672.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
+    }, 
+    {
+      title: 'Domaci info zivotinja', 
+      author: 'kacanski.emilija', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/domaci-info-zivotinja/5854092930105344/5889035475402752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/domaci-info-zivotinja/5854092930105344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_227738314349529641983877'
     }, 
   ];
 };
