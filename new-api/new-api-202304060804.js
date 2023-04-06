@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Easter Competition (Team i-Create)', 
+      author: 'MaXX🐟', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: ' "Lyrics"', 
       author: 'cjcool', 
       votes: 22, 
@@ -422,15 +431,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744/5614582032023552.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Easter Competition (Team i-Create)', 
-      author: 'MaXX🐟', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'Cookie Clicker', 
