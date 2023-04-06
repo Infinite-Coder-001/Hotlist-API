@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'London', 
+      author: 'NIKO Ψ', 
+      votes: 52, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
       votes: 46, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'London', 
-      author: 'NIKO Ψ', 
-      votes: 51, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'its my b-day!', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button', 
       author: 'MyGuy!', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/5032724357496832.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'THE KA MOVIE 2', 
       author: 'obsta07', 
-      votes: 32, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848/5104066842902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-ka-movie-2/5007156735950848', 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
     }, 
     {
+      title: 'Tic Tac Toe', 
+      author: 'LunaTC', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5850154881302528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
+    }, 
+    {
       title: 'my version that has a secret at the bottom', 
       author: 'Anyka', 
       votes: 8, 
@@ -368,15 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
-    }, 
-    {
-      title: 'Tic Tac Toe', 
-      author: 'LunaTC', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/5850154881302528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
       title: 'Cookie Clicker', 
@@ -761,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'SirNeetNoit', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/6076364265668608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280/6621420009603072.png', 
       link: 'https://www.khanacademy.org/computer-programming/chess-pieces/6167685034721280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6831367441333343869449135'
     }, 
