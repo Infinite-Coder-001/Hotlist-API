@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Lighting the Way', 
+      author: 'Arrow.programming', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6275237068193792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Button', 
       author: 'MyGuy!', 
       votes: 36, 
@@ -55,13 +64,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: 'Lighting the Way', 
-      author: 'Arrow.programming', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6275237068193792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 29, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: 'chicken.', 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 28, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: '🚧NOT DONE🚧', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: 'Spotlights', 
+      author: 'Dojo Cat', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
       author: 'Xiøn😋🤩', 
       votes: 28, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5818234797604864.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
-      title: 'Spotlights', 
-      author: 'Dojo Cat', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'New program', 
