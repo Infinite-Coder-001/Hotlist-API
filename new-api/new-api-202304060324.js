@@ -428,7 +428,7 @@ var LoadHotlistAPI = function() {
       author: 'StuffStash', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/6755313647927296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/5147428216160256.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'Ⓩ', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5197986109112320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904/5190038687367168.png', 
       link: 'https://www.khanacademy.org/computer-programming/numbers/5783706804731904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
