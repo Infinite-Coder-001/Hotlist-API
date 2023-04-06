@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 36, 
+      votes: 34, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: 'chicken.', 
-      author: 'bredd', 
-      votes: 26, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 29, 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
+      title: 'chicken.', 
+      author: 'bredd', 
+      votes: 25, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '🚧NOT DONE🚧', 
@@ -343,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: '3D platform', 
-      author: 'morganeli2010', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368/6063769924190208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
-    }, 
-    {
       title: 'Spin-off of "Project: Fish tank"', 
       author: 'Aleksandra J', 
       votes: 5, 
@@ -377,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/4623602378129408.png', 
       link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'Nia - Short Animated Scene Program', 
-      author: 'boltonni2025', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
     }, 
     {
       title: 'Team Cinis | Primavera 2023', 
@@ -514,13 +496,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
-      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
-      author: 'Xiøn😋🤩', 
-      votes: 45, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5246885096112128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+      title: '3D platform', 
+      author: 'morganeli2010', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368/6063769924190208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
     }, 
     {
       title: 'Free Form Tower Defense', 
@@ -530,6 +512,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6373105145790464.png', 
       link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
+      title: '- Campfire - ( INCLUDES LINK TO VERTEX TOOL!)', 
+      author: 'Xiøn😋🤩', 
+      votes: 44, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5246885096112128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Nia - Short Animated Scene Program', 
+      author: 'boltonni2025', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
     }, 
     {
       title: 'stacking 3d cubes', 
@@ -656,15 +656,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: 'Germany Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/6108190086578176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: ' "Lyrics"', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/squid-party/6671305362685952/6478516662353920.png', 
       link: 'https://www.khanacademy.org/computer-programming/squid-party/6671305362685952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
+      title: 'Probably my logo', 
+      author: 'MaXX🐟', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/probably-my-logo/5942298920927232/6157800045854720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/probably-my-logo/5942298920927232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
   ];
 };
