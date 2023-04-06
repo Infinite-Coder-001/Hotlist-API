@@ -397,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: 'Grass Touching Simulator', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 6, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5698735016558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
       title: 'Nia - Short Animated Scene Program', 
       author: 'boltonni2025', 
       votes: 4, 
@@ -494,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376/6263144856207360.png', 
       link: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
+      title: 'Grass Touching Simulator', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 5, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5698735016558592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Tic Tac Toe', 
