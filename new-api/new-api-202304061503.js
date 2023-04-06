@@ -76,7 +76,7 @@ var LoadHotlistAPI = function() {
       title: 'zappity zap', 
       author: 'LightningCoder', 
       votes: 13, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5037621807202304.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'New Logo || [WIP]', 
       author: 'Arrow.programming', 
       votes: 18, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376/5970021076746240.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-step-beemo/6193900374245376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
+    }, 
+    {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
@@ -653,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Crystal Coding # Go Cinis!', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4843161760612352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864/4766065138909184.png', 
       link: 'https://www.khanacademy.org/computer-programming/leafers-storywith-a-twist-at-the-end/4999563804196864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
@@ -670,8 +670,8 @@ var LoadHotlistAPI = function() {
       title: 'convolution', 
       author: 'daniel', 
       votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/convolution/5193718690004992/5837242477363200.png', 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/convolution/5193718690004992/4820124885630976.png', 
       link: 'https://www.khanacademy.org/computer-programming/convolution/5193718690004992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008/6585413063196672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008/5904307271811072.png', 
       link: 'https://www.khanacademy.org/computer-programming/o-itworks/5637000855339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -874,15 +874,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
-      title: 'Primavera Challenge 1', 
-      author: 'Fire Wolf #Altum', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/6370140599140352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
-    }, 
-    {
       title: 'Team Magus Homepage Entry | Primavera 2023', 
       author: 'jfsh', 
       votes: 11, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/charlotte-u/6376609457422336/4641004046303232.png', 
       link: 'https://www.khanacademy.org/computer-programming/charlotte-u/6376609457422336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4591296765594173935661543'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'jacobguan7', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5551144303902720/5021628947021824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5551144303902720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_777030398272372835893953'
     }, 
   ];
 };
