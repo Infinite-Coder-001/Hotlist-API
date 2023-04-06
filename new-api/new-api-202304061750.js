@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 22, 
+      votes: 21, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 21, 
+      votes: 20, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -634,7 +634,7 @@ var LoadHotlistAPI = function() {
       title: 'Grass Touching Simulator', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 3, 
-      forks: 3, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/6423134401249280.png', 
       link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
