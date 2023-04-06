@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 42, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 14, 
+      votes: 13, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Ukraine Flag', 
-      author: 'The Goo 🌪', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: 'Percy Jackson Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 8, 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
       link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
+      title: 'Ukraine Flag', 
+      author: 'The Goo 🌪', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'THE KA MOVIE 2', 
@@ -869,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'Fire Wolf #Altum', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/5480149434023936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240/5616582144606208.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/6139462569738240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211838678972294429517313'
     }, 
