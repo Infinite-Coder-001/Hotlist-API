@@ -12,11 +12,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 52, 
+      votes: 53, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'zappity zap', 
+      author: 'LightningCoder', 
+      votes: 28, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'London', 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'zappity zap', 
-      author: 'LightningCoder', 
-      votes: 26, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'chicken.', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
-      votes: 6, 
+      votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6341673300049920.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
@@ -471,7 +471,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
-      votes: 54, 
+      votes: 55, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456/6534483361972224.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/4734513352851456', 
@@ -496,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'primavera storyline', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 19, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/5528367777759232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'India Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 5, 
@@ -503,15 +512,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696/6626540550144000.png', 
       link: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'primavera storyline', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 18, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/5528367777759232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Spin-off of "Project: Ad design"', 
@@ -536,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'Timothy Lightson', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/painting-of-two-birds/6171584139411456/5149342395842560.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/painting-of-two-birds/6171584139411456/4647724004982784.png', 
       link: 'https://www.khanacademy.org/computer-programming/painting-of-two-birds/6171584139411456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
@@ -613,6 +613,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_674397944084634877613836'
     }, 
     {
+      title: 'Flappy Bird [Godspeed][No Deaths]', 
+      author: '⚡💧🔥lukyluki🔥💧⚡', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144/6754565216321536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-bird-godspeedno-deaths/5125551028486144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
+    }, 
+    {
       title: 'kirby riding on a star ', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 5, 
@@ -631,12 +640,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
-      title: 'Rectangular Rectangles ', 
+      title: 'Rectangular Rectangles  [WIP]', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles/5811187716767744/5439452324610048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles/5811187716767744', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles-wip/5811187716767744/6191531477483520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rectangular-rectangles-wip/5811187716767744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832/4559182549532672.png', 
       link: 'https://www.khanacademy.org/computer-programming/to-be-chess/5815892664696832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309006858350962383430066'
-    }, 
-    {
-      title: 'Domaci info zivotinja', 
-      author: 'kacanski.emilija', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/domaci-info-zivotinja/5854092930105344/5889035475402752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/domaci-info-zivotinja/5854092930105344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_227738314349529641983877'
     }, 
   ];
 };
