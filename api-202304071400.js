@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: '7', 
+      author: 'aieman27', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 23, 
@@ -109,13 +118,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: '7', 
-      author: 'aieman27', 
-      votes: 20, 
+      title: 'My Best Product', 
+      author: '🎵UltraUltronDJ🎵', 
+      votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5415221863956480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
       title: 'MetaBalls', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'My Best Product', 
-      author: '🎵UltraUltronDJ🎵', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5415221863956480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
       title: 'team cinis intro', 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'Flappy Bird', 
+      author: 'Wort-Head', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600/5395394092908544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Flappy Bird', 
-      author: 'Wort-Head', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600/5395394092908544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Emma', 
