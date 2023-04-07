@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 39, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5966831472132096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6379845996298240.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -82,6 +82,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
+    }, 
+    {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 33, 
@@ -91,22 +109,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
+      title: 'Good Friday (Jesus died for us!)', 
+      author: 'xandercla11_15', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5095816231698432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'chicken.', 
@@ -120,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'bill nye the russian spy', 
-      votes: 26, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
       link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Good Friday (Jesus died for us!)', 
-      author: 'xandercla11_15', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5442641283301376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: '7', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'a toxic world', 
+      author: 'the Knight_400', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'Smash mouth ALL STAR lyrics', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 4, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'a toxic world', 
-      author: 'the Knight_400', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'cursor (low quality)', 
@@ -523,6 +523,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Spin-off of "Dimension++.js Showcase"', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/4824147269304320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
+      title: 'Bouncing screensaver (for wasting time effectively)', 
+      author: 'Malachi Anaya', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120/6568417978269696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_950549564973973730696324'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'nsmi83166', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5731141148786688/5947832516526080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5731141148786688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_30207284058814593787775'
+    }, 
+    {
+      title: 'Classic Pong Brick Breaker', 
+      author: 'Cédrik Roy', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/classic-pong-brick-breaker/5134899427459072/6423678385700864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/classic-pong-brick-breaker/5134899427459072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6347714975081282659191970'
+    }, 
+    {
+      title: 'Ukraine Flag', 
+      author: 'The Goo 🌪', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 4, 
@@ -548,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336/6130934622765056.png', 
       link: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Ukraine Flag', 
-      author: 'The Goo 🌪', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Spin-off of "Project: Fish tank"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pancake-party/5978707258032128/6343114597122048.png', 
       link: 'https://www.khanacademy.org/computer-programming/pancake-party/5978707258032128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'jtimlin', 
-      votes: 11, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: 'Bouncing screensaver (for wasting time effectively)', 
-      author: 'Malachi Anaya', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120/6568417978269696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_950549564973973730696324'
-    }, 
-    {
-      title: 'Derivado de "Desafío: vínculos que te encantan"', 
-      author: '220489', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5070960282877952/4778315505516544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5070960282877952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1074653160802448411039222'
-    }, 
-    {
-      title: 'Derivação de "Modificando Objetos"', 
-      author: 'Robson Soares Ferreira', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-modificando-objetos/4560409735774208/4985640522661888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-modificando-objetos/4560409735774208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5498735092286763634840492'
     }, 
   ];
 };
