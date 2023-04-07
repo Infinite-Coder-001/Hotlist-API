@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 44, 
+      votes: 46, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -30,11 +30,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Birb', 
+      author: 'mr. mustache', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
       title: 'help the sky is falling', 
@@ -46,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Birb', 
-      author: 'mr. mustache', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 46, 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792/5878463392432128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
+    }, 
+    {
       title: 'Edge Detection?', 
       author: 'Manta', 
       votes: 20, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6147495546896384.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792/5878463392432128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
     }, 
     {
       title: 'London', 
@@ -199,6 +199,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: 'a toxic world', 
+      author: 'the Knight_400', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'Easter', 
+      author: 'The Goo 🌪', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/5276725153153024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'New program', 
       author: 'ally', 
       votes: 5, 
@@ -206,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968/6264978069045248.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
-    }, 
-    {
-      title: 'a toxic world', 
-      author: 'the Knight_400', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'its my b-day!', 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
       link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'Easter', 
-      author: 'The Goo 🌪', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/5276725153153024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'Team i-Create logo', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 5, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4792999260504064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/6450666014031872.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -472,7 +472,7 @@ var LoadHotlistAPI = function() {
       title: 'Team project (i-Create)', 
       author: 'MaXX🐟', 
       votes: 5, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/6181108397162496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
