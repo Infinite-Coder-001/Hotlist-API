@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 46, 
-      forks: 9, 
+      forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX🐟', 
       votes: 5, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/6181108397162496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/6390092412534784.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
@@ -653,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5786455730601984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/4824147269304320.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
