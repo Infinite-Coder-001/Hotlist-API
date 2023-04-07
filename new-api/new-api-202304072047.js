@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
-      votes: 46, 
+      votes: 45, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Good Friday', 
       author: 'Hyrule Coder', 
-      votes: 9, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792/5878463392432128.png', 
       link: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792', 
@@ -572,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'cjcool', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5335567446622208/6319701979611136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5335567446622208/5501438748049408.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5335567446622208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
