@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'zappity zap', 
       author: 'LightningCoder', 
       votes: 39, 
-      forks: 4, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -199,21 +199,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'quick', 
+      author: 'NIKO Ψ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 73, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'quick', 
-      author: 'NIKO Ψ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
