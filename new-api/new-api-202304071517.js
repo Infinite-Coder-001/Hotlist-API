@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 22, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6659764819116032.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -494,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
+    }, 
+    {
+      title: 'experimenting with noise();', 
+      author: 'LightningCoder', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312/5383170347548672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'creepy clown', 
@@ -757,6 +766,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'block', 
+      author: 'Ducky Momo', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/block/5990779404468224/5795121565319168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/block/5990779404468224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
       title: 'Bouncing Screensaver Tutorial', 
       author: '▪Dipper98▪', 
       votes: 5, 
@@ -874,31 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'andanlee97', 
+      title: 'Pantalla 1.0', 
+      author: 'ildeocon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5706494478958592/5283737022808064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5706494478958592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1157338199375279283372208'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'JackS24539', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4626581961359360/6444524915441664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4626581961359360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426559659876934394310291'
-    }, 
-    {
-      title: 'New program', 
-      author: '𝗧𝗵𝗲 𝗟𝗶𝗰𝗵 𝗞𝗶𝗻𝗴', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5540508387819520/4584045880328192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5540508387819520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_991298191001554933180552'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pantalla-10/5321384625750016/5054844961603584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pantalla-10/5321384625750016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_416955501478790122849349'
     }, 
   ];
 };
