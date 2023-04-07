@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'zappity zap', 
       author: 'LightningCoder', 
       votes: 39, 
-      forks: 4, 
+      forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -199,21 +199,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'quick', 
+      author: 'NIKO Ψ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 73, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'quick', 
-      author: 'NIKO Ψ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5834402363129856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
@@ -451,6 +451,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
     {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5678874215366656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
       title: 'Noise Clouds', 
       author: 'Daniel T', 
       votes: 6, 
@@ -503,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032/4568292531683328.png', 
       link: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Clock (Strange)', 
+      author: 'Liam Gregor Hoel', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5411859252690944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
     }, 
     {
       title: 'Tic Tac Toe', 
@@ -586,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
-      title: 'Clock (Strange)', 
-      author: 'Liam Gregor Hoel', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5411859252690944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
-    }, 
-    {
       title: 'Cookie Clicker', 
       author: 'Cat Lady', 
       votes: 55, 
@@ -638,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
       link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5678874215366656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'Bouncing Screensaver Tutorial', 
