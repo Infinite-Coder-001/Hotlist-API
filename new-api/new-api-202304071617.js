@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 50, 
+      votes: 49, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 38, 
+      votes: 36, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6290950843580416.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 63, 
+      votes: 62, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -107,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4549520013967360.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Flappy Lemon', 
-      author: 'Wort-Head', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: '7', 
@@ -181,13 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
-      votes: 5, 
+      title: 'Flappy Lemon', 
+      author: 'Wort-Head', 
+      votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'team cinis intro', 
@@ -244,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'Good Friday (Jesus died for us!)', 
-      author: 'xandercla11_15', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/6465865399975936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'OH-NOES SLAUGHTER GAME MENU', 
       author: 'Middleforest20', 
       votes: 6, 
@@ -269,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/6179981807108096.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
     }, 
     {
       title: 'Smash mouth ALL STAR lyrics', 
@@ -314,6 +305,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432/6107004239396864.png', 
       link: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
+    }, 
+    {
+      title: 'Good Friday (Jesus died for us!)', 
+      author: 'xandercla11_15', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/6277193291579392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'First step-Beemo', 
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432/6066604434833408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432/6360090119815168.png', 
       link: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -485,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880/5125491637141504.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Egypt Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/5877902563655680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'a toxic world', 
@@ -892,12 +883,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Mouse Mover!', 
+      title: 'Egypt Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/6679216591781888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Circle Mover!', 
       author: 'JamesS', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mouse-mover/5595499169366016/4963120096526336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mouse-mover/5595499169366016', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-mover/5408987316273152/5952366458486784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circle-mover/5408987316273152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520341330530265541657785'
     }, 
   ];
