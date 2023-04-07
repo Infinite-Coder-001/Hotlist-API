@@ -66,11 +66,20 @@ var LoadHotlistAPI = function() {
     {
       title: '🚧NOT DONE🚧', 
       author: 'MyGuy!', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'chicken.', 
+      author: 'bredd', 
+      votes: 27, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'its a game', 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
-    }, 
-    {
-      title: 'chicken.', 
-      author: 'bredd', 
-      votes: 26, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '7', 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'MetaBalls', 
       author: 'Manta', 
-      votes: 6, 
+      votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
