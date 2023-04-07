@@ -64,18 +64,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: 'chicken.', 
-      author: 'bredd', 
-      votes: 26, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
       title: '🚧NOT DONE🚧', 
       author: 'MyGuy!', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
@@ -84,11 +75,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 29, 
+      votes: 30, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
+      title: 'chicken.', 
+      author: 'bredd', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '7', 
@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'POV you get the O noes guy.', 
       author: 'Speedyspeedcuber', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
       link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
@@ -262,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'New Logo || [WIP]', 
+      author: 'Arrow.programming', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Contest: Among Us', 
       author: 'Green Light', 
       votes: 8, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
-    }, 
-    {
-      title: 'New Logo || [WIP]', 
-      author: 'Arrow.programming', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'your daily dose of vitamin d', 
