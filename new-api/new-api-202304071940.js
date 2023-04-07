@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Edge Detection?', 
       author: 'Manta', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5759063838474240.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
@@ -89,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792/5878463392432128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
     }, 
     {
       title: 'its a game', 
@@ -136,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792/5878463392432128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6453981527457792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
       title: 'Lyrics for Addie', 
       author: 'cjcool', 
       votes: 6, 
@@ -179,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
       link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'New program', 
+      author: 'ally', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968/6264978069045248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
     }, 
     {
       title: 'its my b-day!', 
@@ -280,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'Remember this:', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/remember-this/5318560214990848/4684450840756224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/remember-this/5318560214990848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
       votes: 91, 
@@ -334,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Birb', 
+      author: 'mr. mustache', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
       title: 'Emma', 
       author: 'NIKO Ψ', 
       votes: 74, 
@@ -359,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Remember this:', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/remember-this/5318560214990848/4684450840756224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/remember-this/5318560214990848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'The Earth Is Breaking Open', 
@@ -532,15 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'New program', 
-      author: 'ally', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968/6264978069045248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
-    }, 
-    {
       title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 4, 
@@ -554,7 +563,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/4654562230452224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5157479815364608.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -638,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6564814936915968/6248306448842752.png', 
       link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6564814936915968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
+    }, 
+    {
+      title: 'OP Opes', 
+      author: 'WaterSun', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools-edition-the-ka-movie-2/5007156735950848/6208414725488640.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools-edition-the-ka-movie-2/5007156735950848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'ShemayahJ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4607672361205760/6478223933489152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4607672361205760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997245612679970711916959'
-    }, 
-    {
-      title: 'Free Form Tower Defense', 
-      author: 'Larry Serflaten', 
-      votes: 117, 
-      forks: 10, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240/6373105145790464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/free-form-tower-defense/6317378653962240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
   ];
 };
