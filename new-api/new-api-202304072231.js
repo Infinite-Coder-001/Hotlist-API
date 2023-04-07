@@ -568,15 +568,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: 'weird sine thing', 
-      author: 'Dustin Thomas', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/weird-sine-thing/4723128631869440/4974537495330816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/weird-sine-thing/4723128631869440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_92180379883757503404942'
-    }, 
-    {
       title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
       author: 'Conqueror#MagusFTW', 
       votes: 21, 
@@ -710,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/classic-pong-brick-breaker/5134899427459072/6423678385700864.png', 
       link: 'https://www.khanacademy.org/computer-programming/classic-pong-brick-breaker/5134899427459072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6347714975081282659191970'
-    }, 
-    {
-      title: 'New program', 
-      author: 'cjcool', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5664925604429824/5953367924064256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5664925604429824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'MetaBalls', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440/4579559820541952.png', 
       link: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Boo from super mario ', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
+      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
+      author: 'Shashwat  Shubham', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6162871060054016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
   ];
 };
