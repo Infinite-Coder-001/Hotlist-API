@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'Prince Cjcool', 
+      author: 'cjcool', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'Button', 
       author: 'MyGuy!', 
       votes: 40, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
-    }, 
-    {
-      title: 'Prince Cjcool', 
-      author: 'cjcool', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'New program', 
@@ -212,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/5276725153153024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/4562179216162816.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -278,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
+      title: 'Smash mouth ALL STAR lyrics', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Spotlights', 
@@ -370,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'Smash mouth ALL STAR lyrics', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
       title: 'KOREAN MEAL', 
       author: 'Lalisa', 
       votes: 7, 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 5, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/6450666014031872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4896770233778176.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
