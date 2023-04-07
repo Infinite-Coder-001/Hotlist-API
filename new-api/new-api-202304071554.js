@@ -12,9 +12,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 36, 
+      votes: 35, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6267486531272704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6722084257710080.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 32, 
+      votes: 31, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 43, 
+      votes: 42, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/4893661147217920.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'its my b-day!', 
-      author: 'the Knight_400', 
-      votes: 51, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'your daily dose of vitamin d', 
       author: 'bredd', 
       votes: 9, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'its my b-day!', 
+      author: 'the Knight_400', 
+      votes: 50, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'MetaBalls', 
@@ -163,12 +163,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Flappy Lemon', 
+      title: 'Flappy Bird', 
       author: 'Wort-Head', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600/5395394092908544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'NIKO Ψ', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/6179981807108096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/5502641909317632.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
@@ -343,12 +343,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
-      title: 'New Logo || DONE!', 
+      title: 'New Logo || [WIP]', 
       author: 'Arrow.programming', 
       votes: 22, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912/5053839771484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6659764819116032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
@@ -451,15 +451,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'New program', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880/5125491637141504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'a toxic world', 
       author: 'the Knight_400', 
       votes: 3, 
@@ -548,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360/4887867269890048.png', 
       link: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
-    }, 
-    {
-      title: 'Smash mouth ALL STAR lyrics', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Join team i-Create now :D', 
@@ -721,6 +703,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'New program', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880/5125491637141504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'stacking 3d cubes', 
       author: 'Peter_B. #MysteryMettle', 
       votes: 11, 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'New program', 
-      author: 'Shipment22', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6420451086876672/5668513244299264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6420451086876672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_129428899791640004323186'
+      title: 'Cookie Clicker', 
+      author: '⚡💧🔥lukyluki🔥💧⚡', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008/6405601271005184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Brenda Martinez', 
-      votes: 1, 
+      title: 'Sprite lab for a game comin\' soon...', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5538408719237120/4896021735063552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5538408719237120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_890366853128001953369833'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760/5586312469200896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'France Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/france-flag/5175112535162880/5606648233377792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/france-flag/5175112535162880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
 };
