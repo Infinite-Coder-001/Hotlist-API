@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 41, 
+      votes: 42, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Prince Cjcool', 
+      author: 'cjcool', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'The Earth Is Breaking Open', 
       author: '✝︎ Volatile ✝︎', 
       votes: 3, 
@@ -401,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'MaXX🐟', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/4621823372476416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/4592451835969536.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
@@ -584,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6564814936915968/6248306448842752.png', 
       link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6564814936915968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
-    }, 
-    {
-      title: 'Prince Cjcool', 
-      author: 'cjcool', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
