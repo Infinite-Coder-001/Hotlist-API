@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Lighting the Way ', 
+      author: 'Arrow.programming', 
+      votes: 44, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5919440769433600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
       votes: 52, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Lighting the Way ', 
-      author: 'Arrow.programming', 
-      votes: 43, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5919440769433600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Button 2.0 (Out!)', 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Skeleton Pixel Art [Animated]', 
+      author: 'Arrow.programming', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Birb', 
       author: 'mr. mustache', 
       votes: 12, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Skeleton Pixel Art [Animated]', 
-      author: 'Arrow.programming', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Lightning Platformer Demo', 
@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: 'Edge Detection?', 
       author: 'Manta', 
       votes: 19, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5759063838474240.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
@@ -85,7 +85,7 @@ var LoadHotlistAPI = function() {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
       votes: 63, 
-      forks: 11, 
+      forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -472,8 +472,8 @@ var LoadHotlistAPI = function() {
       title: 'Team project (i-Create)', 
       author: 'MaXX🐟', 
       votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/4647317660811264.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/5704664822890496.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
