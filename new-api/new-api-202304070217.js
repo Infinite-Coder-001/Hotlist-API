@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Lighting the Way ', 
+      author: 'Arrow.programming', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'zappity zap', 
       author: 'LightningCoder', 
       votes: 39, 
@@ -26,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Lighting the Way ', 
-      author: 'Arrow.programming', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Rotation + Bullets #TT', 
