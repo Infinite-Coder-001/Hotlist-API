@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 61, 
+      votes: 62, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -595,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1029232876836541365226967'
     }, 
     {
+      title: 'Basic Platformer', 
+      author: 'Ean Gunter', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4783411517767680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
+    }, 
+    {
       title: 'OH-NOES SLAUGHTER GAME MENU', 
       author: 'Middleforest20', 
       votes: 2, 
@@ -883,22 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
-      title: 'Fire Wars/Advance Emblem', 
-      author: 'StuffStash', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616/5932835497361408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fire-warsadvance-emblem/6543195447279616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'markellos.ratsikas', 
+      title: 'Primavera Tarot', 
+      author: '_', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6628791461134336/4519753004924928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6628791461134336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8263705555459073810118506'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-tarot/4771552878182400/5046170906050560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-tarot/4771552878182400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_297417525868810569433925'
     }, 
   ];
 };
