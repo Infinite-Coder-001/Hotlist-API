@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way', 
       author: 'Arrow.programming', 
-      votes: 23, 
+      votes: 24, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -192,7 +192,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'team cinis intro', 
       author: 'Fireball my dear sir #CinisFTW', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
