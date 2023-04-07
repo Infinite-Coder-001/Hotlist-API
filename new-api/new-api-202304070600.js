@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 32, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 28, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 31, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
       title: 'sad egg', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Flappy Bird', 
+      author: 'Wort-Head', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600/5395394092908544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Join team i-Create now :D', 
       author: 'MaXX🐟', 
       votes: 15, 
@@ -604,12 +613,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
-      title: 'Flappy Bird', 
+      title: 'Spread Text', 
       author: 'Wort-Head', 
-      votes: 2, 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600/5395394092908544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5900172136857600', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432/6360090119815168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
@@ -761,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760/5784644428808192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760/5586312469200896.png', 
       link: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/6144619026104320.png', 
       link: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_260141245041416433419603'
-    }, 
-    {
-      title: 'Blue, Red, BIG, Mouse Challenge', 
-      author: 'devanryan.dickson', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800/4510635326226432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1112926338187763048287231'
     }, 
   ];
 };
