@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 41, 
+      votes: 39, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -514,15 +514,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'PHOENIX FETCH! (CINIS)', 
-      author: 'Azam 77', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
-    }, 
-    {
       title: 'Clock (Strange)', 
       author: 'Liam Gregor Hoel', 
       votes: 7, 
@@ -683,6 +674,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'PHOENIX FETCH! (CINIS)', 
+      author: 'Azam 77', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
       title: 'India Flag', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'Spin-off of "Challenge: You can learn text tags"', 
-      author: 'jana tarek', 
-      votes: 1, 
+      title: 'Moving vehicles! ( not finished )', 
+      author: 'Buster', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/5914659699081216/5066409664364544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-you-can-learn-text-tags/5914659699081216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9029890747770714011440053'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moving-vehicles-not-finished/4803973661114368/6247740922445824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moving-vehicles-not-finished/4803973661114368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1156963513360562008449933'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Yossaf Qarizadah', 
+      title: 'Primavera Tarot', 
+      author: '_', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4990090914086912/6425465092096000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4990090914086912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2927168818690037177642988'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-tarot/4771552878182400/5046170906050560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-tarot/4771552878182400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_297417525868810569433925'
     }, 
   ];
 };
