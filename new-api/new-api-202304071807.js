@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
-      title: 'Lyrics for Addie', 
-      author: 'cjcool', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'Flappy Lemon', 
       author: 'Wort-Head', 
       votes: 10, 
@@ -147,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: '7', 
       author: 'aieman27', 
-      votes: 23, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -156,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'sad egg', 
       author: 'bredd', 
-      votes: 11, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
       link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
@@ -165,11 +156,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
-      votes: 52, 
+      votes: 51, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'Lyrics for Addie', 
+      author: 'cjcool', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'your daily dose of vitamin d', 
@@ -883,15 +883,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
-      title: 'Spin-off of "Project: Creature Colonies"', 
-      author: 'YokieBob', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-colonies/4659310249689088/4861803160190976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-colonies/4659310249689088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
       title: 'primavera storyline', 
       author: 'vw_beetlesultimategreatness', 
       votes: 20, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/6363886602469376.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'South African Flag', 
+      author: 'The Goo 🌪', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232/6279115981504512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/south-african-flag/6177616676831232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
   ];
 };
