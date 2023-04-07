@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
       votes: 21, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
@@ -280,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: '3D platform', 
-      author: 'morganeli2010', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368/6063769924190208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3d-platform/6094807941562368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
-    }, 
-    {
       title: 'New Logo || [WIP]', 
       author: 'Arrow.programming', 
       votes: 20, 
@@ -541,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
+      title: 'Germany Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/6108190086578176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Oh noes dodge', 
       author: 'Colton', 
       votes: 3, 
@@ -683,15 +683,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896/4761333863333888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4578421742288896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
-    }, 
-    {
-      title: 'Germany Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/6108190086578176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: ' "Lyrics"', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
+    }, 
+    {
+      title: 'Avatar Royale WIP', 
+      author: 'The Ember Society #OpesFTW', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008/6591794377965568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
   ];
 };
