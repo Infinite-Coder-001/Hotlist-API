@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 60, 
+      votes: 61, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 60, 
+      votes: 61, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -55,12 +55,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: '🚧NOT DONE🚧', 
+      title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5741735558037504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5498597023203328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: '🎵UltraUltronDJ🎵', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/5818234797604864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6582729748824064.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
