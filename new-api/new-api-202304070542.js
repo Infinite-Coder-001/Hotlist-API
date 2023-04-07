@@ -415,15 +415,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Oh noes dodge', 
-      author: 'Colton', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184/6464444122316800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1180325466877190603510324'
-    }, 
-    {
       title: 'Nia - Short Animated Scene Program', 
       author: 'boltonni2025', 
       votes: 4, 
@@ -532,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
-      title: 'Happy Easter 2023 🥚🎨', 
-      author: 'PenGwen', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168/4664543264686080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
       title: 'Germany Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 4, 
@@ -548,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/4770616441094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Oh noes dodge', 
+      author: 'Colton', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184/6464444122316800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-dodge/6030387223773184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1180325466877190603510324'
     }, 
     {
       title: 'stacking 3d cubes', 
@@ -575,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944/6656356615766016.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-very-clunky-proof-of-concept/5491836765650944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Happy Easter 2023 🥚🎨', 
+      author: 'PenGwen', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168/4664543264686080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: 'Clock (Strange)', 
