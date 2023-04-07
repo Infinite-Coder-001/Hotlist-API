@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 41, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6379845996298240.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
       votes: 10, 
@@ -64,13 +55,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 15, 
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
     }, 
     {
       title: 'Rotation + Bullets #TT', 
@@ -91,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Button', 
-      author: 'MyGuy!', 
-      votes: 40, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'Good Friday (Jesus died for us!)', 
       author: 'xandercla11_15', 
       votes: 8, 
@@ -107,6 +89,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5095816231698432.png', 
       link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
+      title: 'Button', 
+      author: 'MyGuy!', 
+      votes: 39, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'its a game', 
@@ -179,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'Lyrics for Addie', 
-      author: 'cjcool', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'your daily dose of vitamin d', 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
+    }, 
+    {
+      title: 'Lyrics for Addie', 
+      author: 'cjcool', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'OH-NOES SLAUGHTER GAME MENU', 
