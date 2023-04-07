@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'PHOENIX FETCH! (CINIS)', 
+      author: 'Azam 77', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
+    }, 
+    {
       title: 'India Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 5, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/very-clunky-proof-of-concept/5641988453220352/5542266459701248.png', 
       link: 'https://www.khanacademy.org/computer-programming/very-clunky-proof-of-concept/5641988453220352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_327391748191379359037953'
-    }, 
-    {
-      title: 'Astronaut', 
-      author: 'Epic Coder', 
-      votes: 41, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272/6335786900570112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/astronaut/6474058591158272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_124331490116281890443705'
     }, 
   ];
 };
