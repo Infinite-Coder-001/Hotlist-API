@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
       title: 'fridge (final small project)', 
       author: 'Com', 
       votes: 41, 
@@ -325,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
       votes: 30, 
@@ -350,6 +350,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/6634187349344256.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'PHOENIX FETCH! (CINIS)', 
+      author: 'Azam 77', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
       title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
@@ -388,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'Falling by Trevor Daniel', 
+      author: 'Timothy Lightson', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640/5227394937176064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'OH-NOES SLAUGHTER GAME MENU', 
       author: 'Middleforest20', 
       votes: 3, 
@@ -413,15 +431,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
       link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'PHOENIX FETCH! (CINIS)', 
-      author: 'Azam 77', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
       title: 'Spin-off of "Project: Fish tank"', 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
       link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Falling by Trevor Daniel', 
-      author: 'Timothy Lightson', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640/5227394937176064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: '[GPT] Circle Collisions', 
@@ -865,6 +865,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_939058682490996976676899'
     }, 
     {
+      title: 'Projet dérivé de "Défi : une créature colorée"', 
+      author: 'louka laverriere', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/6233367847944192/4813074977832960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-une-crature-colore/6233367847944192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1221703518695019466007518'
+    }, 
+    {
+      title: 'Newebpage', 
+      author: 'calvin.armour77', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/newebpage/6552142669463552/6271258284310528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/newebpage/6552142669463552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4256861877409882166018932'
+    }, 
+    {
       title: 'math problem quiz', 
       author: 'alaniseirizarry', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tok/5833940608008192/4610401699676160.png', 
       link: 'https://www.khanacademy.org/computer-programming/tik-tok/5833940608008192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Nouvelle page Web', 
-      author: 'med nadir alahmouz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4550583890788352/6590548703232000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nouvelle-page-web/4550583890788352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_143939932109609299695603'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'novn.2026', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4994229383512064/4959690732912640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4994229383512064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1125816313727765060609173'
     }, 
   ];
 };
