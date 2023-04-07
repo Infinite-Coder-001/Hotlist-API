@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Lighting the Way', 
       author: 'Arrow.programming', 
       votes: 21, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'bill nye the russian spy', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
