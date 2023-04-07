@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
       votes: 48, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
@@ -856,42 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
-      title: 'Derivação de "Desafio: Escrever um poema"', 
-      author: 'Karol', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/4927331912433664/6118765671792640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/4927331912433664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7599069926790776163907161'
-    }, 
-    {
-      title: 'experimenting with noise();', 
-      author: 'LightningCoder', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312/4835062022717440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Nathaniel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992/6613255524237312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_634530026115020471000773'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Exploding Sun"', 
-      author: 'bzamin673', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5538742585835520/5314887078428672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5538742585835520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4772345799573013002381846'
-    }, 
-    {
       title: 'creepy clown', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304/6565840561684480.png', 
       link: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Slobodan Petrović', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4616851578732544/6071287459135488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4616851578732544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7776254639336061824384154'
+    }, 
+    {
+      title: 'New program', 
+      author: 'YokieBob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5307167680020480/5227080599257088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5307167680020480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Spin-off of "Project: Scene change"', 
+      author: 'sequan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/5052210703810560/5861029952405504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/5052210703810560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_182810281253307337150055'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Brenda Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6668576783384576/5786535153942528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6668576783384576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890366853128001953369833'
     }, 
   ];
 };
