@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Birb', 
       author: 'mr. mustache', 
-      votes: 13, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 5, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4792999260504064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4783411517767680.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -543,20 +543,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
-      votes: 32, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
-    }, 
-    {
-      title: 'Game in 43 lines!', 
-      author: '51 votes', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
     }, 
     {
       title: 'Fears List', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6162871060054016.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
+    }, 
+    {
+      title: 'Tic Tac Toe', 
+      author: 'LunaTC', 
+      votes: 15, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928/6639124615577600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe/5578479744892928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
   ];
 };
