@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6101838903689216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'POV you get the O noes guy.', 
+      author: 'Speedyspeedcuber', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
       votes: 89, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
-    }, 
-    {
-      title: 'POV you get the O noes guy.', 
-      author: 'Speedyspeedcuber', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'MetaBalls', 
@@ -595,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'primavera storyline', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 20, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/5528367777759232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Happy Easter 2023 🥚🎨', 
       author: 'PenGwen', 
       votes: 11, 
@@ -629,15 +638,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'primavera storyline', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 19, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512/5528367777759232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-storyline/5554359124672512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'India Flag', 
@@ -737,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008/6405601271005184.png', 
       link: 'https://www.khanacademy.org/computer-programming/cookie-clicker/6502810058539008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7165242736098733681640914'
+    }, 
+    {
+      title: 'Sprite lab for a game comin\' soon...', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760/5784644428808192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sprite-lab-for-a-game-comin-soon/5469023019253760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
       title: 'France Flag', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008/6591794377965568.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-royale-wip/5124410769195008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Example...', 
-      author: 'Iron Programming', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/example/6147462650970112/5910579031359488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/example/6147462650970112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1167371439589851086940548'
     }, 
   ];
 };
