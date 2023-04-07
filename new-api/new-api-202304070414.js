@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia Productions🎥', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/6108190086578176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008/4770616441094144.png', 
       link: 'https://www.khanacademy.org/computer-programming/germany-flag/6404675403563008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -548,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/stacking-3d-cubes/6225216893403136/6503867425800192.png', 
       link: 'https://www.khanacademy.org/computer-programming/stacking-3d-cubes/6225216893403136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1029232876836541365226967'
+    }, 
+    {
+      title: 'OH-NOES SLAUGHTER GAME MENU', 
+      author: 'Middleforest20', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5265851705245696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
     {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800/4510635326226432.png', 
       link: 'https://www.khanacademy.org/computer-programming/blue-red-big-mouse-challenge/6570865673420800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1112926338187763048287231'
-    }, 
-    {
-      title: '"Shooting star"', 
-      author: 'LoganP', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544/6571742807244800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-star/6337615650668544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_171074383800040501025356'
     }, 
   ];
 };
