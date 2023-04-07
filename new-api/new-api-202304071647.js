@@ -12,9 +12,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 38, 
+      votes: 39, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6290950843580416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5966831472132096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 34, 
+      votes: 35, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4674358741352448.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: 'New program', 
+      author: 'bill nye the russian spy', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+    }, 
+    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 14, 
@@ -136,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'New program', 
-      author: 'bill nye the russian spy', 
-      votes: 25, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+      title: 'Good Friday (Jesus died for us!)', 
+      author: 'xandercla11_15', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5442641283301376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: '7', 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'Good Friday (Jesus died for us!)', 
-      author: 'xandercla11_15', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5442641283301376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'MetaBalls', 
@@ -379,6 +379,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'New Logo || DONE!', 
+      author: 'Arrow.programming', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912/5651955944046592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Basic Platformer', 
       author: 'Ean Gunter', 
       votes: 4, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
       link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
-    }, 
-    {
-      title: 'New Logo || DONE!', 
-      author: 'Arrow.programming', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912/5053839771484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Putting the clues together', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_254875417370302865111311'
     }, 
     {
-      title: ' "Lyrics"', 
-      author: 'cjcool', 
-      votes: 23, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448/6232737628602368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics/6123329816936448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Yeni Program', 
-      author: 'halebilsel97', 
+      title: 'Bouncing screensaver (for wasting time effectively)', 
+      author: 'Malachi Anaya', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yeni-program/4579103446712320/6097632385875968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yeni-program/4579103446712320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7501696325959455214150727'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120/6568417978269696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-for-wasting-time-effectively/5134866342789120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_950549564973973730696324'
     }, 
     {
-      title: 'Spin-off of "Making animations"', 
-      author: 'wertyqwerty52525', 
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: '220489', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/5328064709181440/6527002514604032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/5328064709181440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_665188922129362887975045'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5070960282877952/4778315505516544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5070960282877952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1074653160802448411039222'
+    }, 
+    {
+      title: 'Derivação de "Modificando Objetos"', 
+      author: 'Robson Soares Ferreira', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-modificando-objetos/4560409735774208/4985640522661888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-modificando-objetos/4560409735774208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5498735092286763634840492'
     }, 
   ];
 };
