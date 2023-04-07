@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 60, 
+      votes: 59, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'zappity zap', 
       author: 'LightningCoder', 
-      votes: 39, 
+      votes: 37, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352/5859034168344576.png', 
       link: 'https://www.khanacademy.org/computer-programming/zappity-zap/5687748309860352', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
-      votes: 60, 
+      votes: 59, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
@@ -298,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Percy Jackson Quiz', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
       title: 'Contest: Among Us', 
       author: 'Green Light', 
       votes: 8, 
@@ -314,15 +305,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/6634187349344256.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 20, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/6379446765666304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'Smart Page', 
@@ -352,6 +334,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
     }, 
     {
+      title: 'Percy Jackson Quiz', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984/4765483808374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/percy-jackson-quiz/6599123626409984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
+      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 19, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/6379446765666304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
       title: 'A lesson for everyone', 
       author: 'MyGuy!', 
       votes: 6, 
@@ -359,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752/5891709340008448.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'Grass Touching Simulator', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 7, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5698735016558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'KOREAN MEAL', 
@@ -422,6 +413,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/4692843475288064.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Grass Touching Simulator', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 6, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808/5698735016558592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grass-touching-simulator/4516006841335808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Join team i-Create now :D', 
@@ -878,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'rafi semmel', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/6144619026104320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664/4542250983145472.png', 
       link: 'https://www.khanacademy.org/computer-programming/boat/5599268326129664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_260141245041416433419603'
     }, 
