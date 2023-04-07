@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 46, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'a toxic world', 
-      author: 'the Knight_400', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 30, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
+    }, 
+    {
+      title: 'a toxic world', 
+      author: 'the Knight_400', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: '7', 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'New program', 
+      author: 'ally', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968/6264978069045248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6061079026515968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_727868909601377023140735'
     }, 
     {
       title: 'its my b-day!', 
@@ -352,12 +361,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
-      title: 'Slightly Less Basic Platformer', 
+      title: 'Basic Platformer', 
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/4528507926659072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/6412990460248064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
     {
@@ -397,15 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'New programeeeeeeee', 
-      author: 'flapo', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-programeeeeeeee/5455046457475072/5150593942601728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-programeeeeeeee/5455046457475072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175163702554448988550558'
-    }, 
-    {
       title: 'kinda cringe :P', 
       author: 'Arrow.programming', 
       votes: 12, 
@@ -413,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Spin-off of "Dimension++.js Showcase"', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5786455730601984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'First step-Beemo', 
@@ -559,15 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
     }, 
     {
-      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
-      author: 'Shashwat  Shubham', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6162871060054016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
-    }, 
-    {
       title: 'Game in 43 lines!', 
       author: '51 votes', 
       votes: 2, 
@@ -640,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'New programeeeeeeee', 
+      author: 'flapo', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-programeeeeeeee/5455046457475072/5150593942601728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-programeeeeeeee/5455046457475072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1175163702554448988550558'
+    }, 
+    {
       title: 'Falling by Trevor Daniel', 
       author: 'Timothy Lightson', 
       votes: 4, 
@@ -674,6 +665,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880/5125491637141504.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Spin-off of "Dimension++.js Showcase"', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5786455730601984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Bouncing screensaver (for wasting time effectively)', 
