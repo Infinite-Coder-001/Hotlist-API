@@ -581,7 +581,7 @@ var LoadHotlistAPI = function() {
       author: 'PenGwen', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168/4664543264686080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168/5839865762856960.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-easter-2023/6146852228743168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
@@ -620,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080/4783411517767680.png', 
       link: 'https://www.khanacademy.org/computer-programming/basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
+    }, 
+    {
+      title: 'a toxic world', 
+      author: 'the Knight_400', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Spin-off of "Very Clunky Proof of Concept"', 
@@ -865,40 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
-      title: 'New program', 
-      author: 'Dojo Cat', 
+      title: 'abs_value', 
+      author: 'chloetworek', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5399172590387200/5033747511820288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5399172590387200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abs_value/4766189369999360/4722313124954112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abs_value/4766189369999360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6689816961560323712340528'
     }, 
     {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'yalamanchilia2027', 
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'nick_j', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4795713310736384/5862525574103040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4795713310736384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_345970699127911966900346'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4706630320308224/5184919489003520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4706630320308224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2948694593100323913365384'
     }, 
     {
-      title: 'New program', 
-      author: 'Dojo Cat', 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'ribeirob.2023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5764147100041216/5227748902879232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5764147100041216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'shelf', 
-      author: 'Com', 
-      votes: 34, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752/5522541184860160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shelf/5363193485770752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6392642851356672/4902317049823232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6392642851356672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_501075953906220776713746'
     }, 
   ];
 };
