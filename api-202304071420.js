@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'Lighting the Way', 
+      author: 'Arrow.programming', 
+      votes: 31, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5995753077260288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 62, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Lighting the Way', 
-      author: 'Arrow.programming', 
-      votes: 29, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5995753077260288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'zappity zap', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 24, 
+      votes: 25, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
