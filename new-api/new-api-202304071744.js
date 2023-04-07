@@ -14,14 +14,14 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 42, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6379845996298240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5957630913986560.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 40, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -46,24 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Good Friday (Jesus died for us!)', 
-      author: 'xandercla11_15', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/5765630407262208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
       votes: 11, 
@@ -75,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Edge Detection?', 
       author: 'Manta', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6178201811599360.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
@@ -111,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 33, 
+      votes: 34, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -127,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: 'New program', 
+      author: 'bill nye the russian spy', 
+      votes: 28, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+    }, 
+    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 15, 
@@ -134,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
-      title: 'New program', 
-      author: 'bill nye the russian spy', 
-      votes: 27, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -217,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'OH-NOES SLAUGHTER GAME MENU', 
+      author: 'Middleforest20', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
       title: 'Spotlights', 
       author: 'Dojo Cat', 
       votes: 11, 
@@ -271,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'OH-NOES SLAUGHTER GAME MENU', 
-      author: 'Middleforest20', 
-      votes: 6, 
+      title: 'Egypt Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/4803889720508416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'quick', 
@@ -352,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Egypt Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/4803889720508416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'First step-Beemo', 
       author: 'C2_2333001_안새빈_SE2023', 
       votes: 19, 
@@ -377,6 +359,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912/5651955944046592.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'experimenting with noise();', 
+      author: 'LightningCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312/5383170347548672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Pause button', 
@@ -401,9 +392,18 @@ var LoadHotlistAPI = function() {
       author: 'MaXX🐟', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/5731256777359360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688/4621823372476416.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-project-i-create/4992574546034688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
+      title: 'Another version of  "Oh noes dodge"   *Infinity Mode*', 
+      author: 'Colton', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/another-version-of-oh-noes-dodge-infinity-mode/6030387223773184/6652632254169088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/another-version-of-oh-noes-dodge-infinity-mode/6030387223773184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1180325466877190603510324'
     }, 
     {
       title: 'Putting the clues together', 
@@ -485,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/6379446765666304.png', 
       link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'Another version of  "Oh noes dodge"   *Infinity Mode*', 
-      author: 'Colton', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/another-version-of-oh-noes-dodge-infinity-mode/6030387223773184/6652632254169088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/another-version-of-oh-noes-dodge-infinity-mode/6030387223773184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1180325466877190603510324'
     }, 
     {
       title: 'Spread Text', 
@@ -595,15 +586,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6347714975081282659191970'
     }, 
     {
-      title: 'Ukraine Flag', 
-      author: 'The Goo 🌪', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096/6124148293419008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ukraine-flag/4782540901892096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 4, 
@@ -649,13 +631,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: 'experimenting with noise();', 
-      author: 'LightningCoder', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Nathaniel', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312/5383170347548672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/experimenting-with-noise/5614910508941312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992/6613255524237312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_634530026115020471000773'
+    }, 
+    {
+      title: 'my own PacMan', 
+      author: 'Costin Serban', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952/6514369942044672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_325228143590539894337862'
     }, 
     {
       title: 'dodge game in 10 minutes', 
@@ -692,6 +683,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
       link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
+    }, 
+    {
+      title: 'Collab with the Knight_400', 
+      author: 'PenGwen', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collab-with-the-knight_400/5976618997956608/5736509555916800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collab-with-the-knight_400/5976618997956608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
     {
       title: '[GPT] Circle Collisions', 
@@ -764,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936/5246885096112128.png', 
       link: 'https://www.khanacademy.org/computer-programming/-campfire-includes-link-to-vertex-tool/5768548204199936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'wang zunyan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4851110872662016/6488155441381376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4851110872662016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7054028921945082221105365'
     }, 
     {
       title: 'Clock (Strange)', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672/5573405341696000.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncing-screensaver-tutorial/5757453783580672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'India Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696/6626540550144000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/india-flag/5371863263133696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
 };
