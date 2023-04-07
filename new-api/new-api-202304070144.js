@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'London', 
       author: 'NIKO Ψ', 
-      votes: 66, 
+      votes: 65, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
