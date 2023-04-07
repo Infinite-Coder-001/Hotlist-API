@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'your daily dose of vitamin d', 
+      author: 'bredd', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
       title: 'team cinis intro', 
       author: 'Fireball my dear sir #CinisFTW', 
       votes: 9, 
@@ -199,13 +208,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'your daily dose of vitamin d', 
-      author: 'bredd', 
-      votes: 7, 
+      title: ' - BlackBird Singing In The Dead Of Night -', 
+      author: 'Xiøn😋🤩', 
+      votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/4623602378129408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'Flappy Bird', 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: ' - BlackBird Singing In The Dead Of Night -', 
-      author: 'Xiøn😋🤩', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/4623602378129408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'KOREAN MEAL', 
@@ -289,6 +289,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'OH-NOES SLAUGHTER GAME MENU', 
+      author: 'Middleforest20', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5265851705245696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
+    }, 
+    {
+      title: 'PHOENIX FETCH! (CINIS)', 
+      author: 'Azam 77', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
+    }, 
+    {
+      title: 'New Logo || [WIP]', 
+      author: 'Arrow.programming', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 40, 
@@ -316,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'New Logo || [WIP]', 
-      author: 'Arrow.programming', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912/6089788970287104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-logo-wip/6399962687782912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Fears List', 
       author: 'Dojo Cat', 
       votes: 27, 
@@ -350,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/6634187349344256.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'PHOENIX FETCH! (CINIS)', 
-      author: 'Azam 77', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/5316795352530944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
       title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
@@ -415,15 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
     {
-      title: 'OH-NOES SLAUGHTER GAME MENU', 
-      author: 'Middleforest20', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5265851705245696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
-    }, 
-    {
       title: 'Congrats! Velvet Faith!!!', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/4692843475288064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/5016679781548032.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_611695385831202942614265'
     }, 
     {
-      title: 'Short scene animation project', 
-      author: 'Ethan LaBau', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/short-scene-animation-project/5395821811253248/5538650948681728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/short-scene-animation-project/5395821811253248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_939058682490996976676899'
-    }, 
-    {
-      title: '6 person cubicle', 
-      author: 'danajbelville', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Brenda Martinez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/6-person-cubicle/5056115600834560/5115292029337600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/6-person-cubicle/5056115600834560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116306047973221619351002'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6668576783384576/5786535153942528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6668576783384576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890366853128001953369833'
     }, 
     {
-      title: 'Spin-off of "Challenge: Exploding Sun"', 
-      author: 'Sofija Gerić', 
+      title: 'Spin-off of "Project: Shooting star" by Medhuvemula11', 
+      author: 'medhuvemula11', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/4696619087085568/6204955229995008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/4696619087085568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8846059593446336936407483'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-by-medhuvemula11/5294848069648384/5470088708014080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-by-medhuvemula11/5294848069648384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_582941243646114390176119'
     }, 
     {
-      title: 'New program', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
+      title: 'my own PacMan', 
+      author: 'Costin Serban', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5449921789739008/5414615749279744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952/6514369942044672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_325228143590539894337862'
     }, 
     {
-      title: 'New program', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'jessdavis0920', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4636030889410560/5384306735497216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4636030889410560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6564969287303168/5190648740495360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6564969287303168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198711551823001913113729'
+    }, 
+    {
+      title: 'Deep sea creature', 
+      author: 'g', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/deep-sea-creature/5272309859663872/5135486932008960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/deep-sea-creature/5272309859663872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_454597122686642457572137'
     }, 
   ];
 };
