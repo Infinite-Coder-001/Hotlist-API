@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5035630116782080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752/5741735558037504.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-done/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
     }, 
     {
+      title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928/5011421768499200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'A lesson for everyone', 
       author: 'MyGuy!', 
       votes: 6, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416/5837834914414592.png', 
       link: 'https://www.khanacademy.org/computer-programming/boo-from-super-mario/5420452408508416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928/5011421768499200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/two-draw-functions-legit/5234659538812928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Falling by Trevor Daniel', 
