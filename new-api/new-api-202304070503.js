@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 23, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/4699230829854720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'chicken.', 
       author: 'bredd', 
-      votes: 28, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
-      title: 'sad egg', 
-      author: 'bredd', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
       title: '7', 
       author: 'aieman27', 
       votes: 20, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
+      title: 'sad egg', 
+      author: 'bredd', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'its my b-day!', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'your daily dose of vitamin d', 
-      author: 'bredd', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 7, 
@@ -215,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'your daily dose of vitamin d', 
+      author: 'bredd', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: 'First step-Beemo', 
