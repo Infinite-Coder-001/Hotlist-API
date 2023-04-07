@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 36, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6290950843580416.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/6267486531272704.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 33, 
+      votes: 32, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4862693782896640.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -91,20 +91,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'Skeleton Pixel Art [Animated]', 
-      author: 'Arrow.programming', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5212699102593024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Edge Detection?', 
       author: 'Manta', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4549520013967360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5678874215366656.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -253,22 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Good Friday', 
-      author: 'Hyrule Coder', 
+      title: 'Skeleton Pixel Art [Animated]', 
+      author: 'Arrow.programming', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
-      title: 'Smash mouth ALL STAR lyrics', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5212699102593024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Team i-Create logo', 
@@ -305,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432/6107004239396864.png', 
       link: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
-    }, 
-    {
-      title: 'Good Friday (Jesus died for us!)', 
-      author: 'xandercla11_15', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584/6277193291579392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/good-friday-jesus-died-for-us/4897353040707584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'First step-Beemo', 
@@ -496,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Good Friday', 
+      author: 'Hyrule Coder', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008/4561260776833024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/good-friday/6133517844267008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
+    }, 
+    {
       title: 'Congrats! Velvet Faith!!!', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -566,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360/4887867269890048.png', 
       link: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
+    }, 
+    {
+      title: 'Smash mouth ALL STAR lyrics', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Join team i-Create now :D', 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
-      title: 'Egypt Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/6679216591781888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+      title: 'Easter Competition (Team i-Create)', 
+      author: 'MaXX🐟', 
+      votes: 10, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704/6524547190013952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-competition-team-i-create/6174134431432704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
-      title: 'Circle Mover!', 
-      author: 'JamesS', 
+      title: 'New program', 
+      author: 'Shipment22', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-mover/5408987316273152/5952366458486784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circle-mover/5408987316273152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_520341330530265541657785'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6420451086876672/5668513244299264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6420451086876672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_129428899791640004323186'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Brenda Martinez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5538408719237120/4896021735063552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5538408719237120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890366853128001953369833'
     }, 
   ];
 };
