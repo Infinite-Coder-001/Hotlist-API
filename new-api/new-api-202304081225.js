@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 44, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5723541808136192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -829,6 +829,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
+      title: 'Ice Cream', 
+      author: 'Dojo Cat', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ice-cream/4564776543109120/5737151586418688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ice-cream/4564776543109120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Arman Choudhary', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5770648640339968/5469872516808704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5770648640339968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'arham.mustafa.siddiqui10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6745047635902464/4764583521992704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6745047635902464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Wishlist"', 
       author: 'quynong0369', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032/6199092750630912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5434663916582466004532617'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Josephat Mutuku', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4672499154731008/5073192843788288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4672499154731008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8431664324382370935689104'
-    }, 
-    {
-      title: 'New program', 
-      author: 'java123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6000509032120320/4862071578869760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6000509032120320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_859071828330406006986423'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Aleksandra J', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776/5304724246282240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
     }, 
   ];
 };
