@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its a game', 
       author: 'vineskylek', 
-      votes: 37, 
+      votes: 36, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
@@ -829,24 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Derivação de "Desafio: Escrever um poema"', 
-      author: 'ayrton.senna.moura', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5286273838530560/5163218898305024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5286273838530560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187953684547357410135542'
-    }, 
-    {
-      title: 'Enemys!!', 
-      author: 'HAMBURGER RiDER', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880/6441071325528064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_410991944085535280495507'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'arham.mustafa.siddiqui10', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6646414148157440/5194606854848512.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/6646414148157440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_129203254563583047992088'
+    }, 
+    {
+      title: 'Wishy Wish Fishy Dish', 
+      author: 'Konsih', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wishy-wish-fishy-dish/6706937116016640/4637368301961216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wishy-wish-fishy-dish/6706937116016640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_750908179011135923142518'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'arham.mustafa.siddiqui10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6478350031044608/5475158266789888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6478350031044608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
     }, 
   ];
 };
