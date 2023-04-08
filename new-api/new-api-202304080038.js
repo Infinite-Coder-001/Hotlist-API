@@ -235,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'OH-NOES SLAUGHTER GAME MENU', 
-      author: 'Middleforest20', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
-    }, 
-    {
       title: 'POV you get the O noes guy.', 
       author: 'Speedyspeedcuber', 
       votes: 13, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'OH-NOES SLAUGHTER GAME MENU', 
+      author: 'Middleforest20', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
     {
       title: 'Smash mouth ALL STAR lyrics', 
