@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 50, 
-      forks: 1, 
+      votes: 51, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
@@ -244,6 +244,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
     {
+      title: 'team cinis intro', 
+      author: 'Fireball my dear sir ✝ #CinisFTW', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'The Earth Is Breaking Open', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'POV you get the O noes guy.', 
       author: 'Speedyspeedcuber', 
       votes: 13, 
@@ -251,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392/6710654812864512.png', 
       link: 'https://www.khanacademy.org/computer-programming/pov-you-get-the-o-noes-guy/6152114951995392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'team cinis intro', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'Smash mouth ALL STAR lyrics', 
@@ -341,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/4803889720508416.png', 
       link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'The Earth Is Breaking Open', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Slightly Less Basic Platformer', 
@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
+      title: 'Polgonal Aequor[PRIMAVERA]', 
+      author: 'KarLlr', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824/5436540684910592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'Game in 43 lines!', 
       author: '51 votes', 
       votes: 2, 
@@ -782,15 +791,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/5016679781548032.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Polgonal Aequor[PRIMAVERA]', 
-      author: 'KarLlr', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824/5436540684910592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Frogger', 
