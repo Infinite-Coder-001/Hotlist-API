@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: ' - BlackBird Singing In The Dead Of Night -', 
-      author: 'Xiøn😋🤩', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6430820446552064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 32, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+    }, 
+    {
+      title: ' - BlackBird Singing In The Dead Of Night -', 
+      author: 'Xiøn😋🤩', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6430820446552064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'chicken.', 
@@ -233,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'The Earth Is Breaking Open', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'night sky', 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
+    }, 
+    {
+      title: 'The Earth Is Breaking Open', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'POV you get the O noes guy.', 
@@ -743,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/4570754701377536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6706118119440384.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -829,24 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"  Hamza', 
-      author: 'osmanhamza1716', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-hamza/5806639728082944/4953586275762176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-hamza/5806639728082944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3185225567839082497353492'
-    }, 
-    {
-      title: 'Spin-off of "More Mouse Interaction"', 
-      author: 'Jish da Fish', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-mouse-interaction/5199289677824000/4631356790587392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-mouse-interaction/5199289677824000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_219479754547373669001732'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'dmilowski', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/4608294057721856.png', 
       link: 'https://www.khanacademy.org/computer-programming/race/5658547007569920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
+      title: 'The Claw! [GAME]', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'hafiz.usama.j', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5275709326278656/5848097638105088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5275709326278656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3482781274894780115395720'
     }, 
   ];
 };
