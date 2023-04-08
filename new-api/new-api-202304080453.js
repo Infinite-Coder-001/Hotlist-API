@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Shashwat  Shubham', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6038555479818240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6162871060054016.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
