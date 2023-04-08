@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
-      votes: 48, 
+      votes: 47, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
