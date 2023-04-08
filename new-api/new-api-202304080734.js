@@ -442,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
-      author: 'Shashwat  Shubham', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6171077366824960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
-    }, 
-    {
       title: 'TWO DRAW FUNCTIONS! [LEGIT]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 6, 
@@ -647,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576/5396941476511744.png', 
       link: 'https://www.khanacademy.org/computer-programming/smart-page/4579138632728576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4286148618397811018243636'
+    }, 
+    {
+      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
+      author: 'Shashwat  Shubham', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6171077366824960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
       title: 'Polgonal Aequor[PRIMAVERA]', 
