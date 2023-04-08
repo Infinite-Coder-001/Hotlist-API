@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'chicken.', 
+      author: 'bredd', 
+      votes: 30, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 16, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
-      title: 'chicken.', 
-      author: 'bredd', 
-      votes: 29, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
       title: '7', 
@@ -478,12 +478,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'New program', 
+      title: 'Monster Slayer(WIP)', 
       author: 'Yawgmoth, Thran Physician', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6291524355932160/5501981021224960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6291524355932160', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/monster-slayerwip/6291524355932160/5920067398451200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/monster-slayerwip/6291524355932160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'HSstudent16', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5520920988139520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/4553578812588032.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
