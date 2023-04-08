@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'The safest button in the world 🌎.', 
+      author: 'Xander', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 53, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'The safest button in the world 🌎.', 
-      author: 'Xander', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'Sprites for an Upcoming Game', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5316615299448832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5879255847452672.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6379355665383424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/4974335598313472.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -721,6 +721,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'mine game', 
+      author: 'GAG', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mine-game/6578154937565184/4577597423140864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mine-game/6578154937565184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_555560453779142904572059'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'raulnavarroc20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6439636873560064/6370053068210176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6439636873560064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1015147588675359970117727'
+    }, 
+    {
+      title: 'Multivariable calculus apparently', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/multivariable-calculus-apparently/6268219024523264/5862213215895552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/multivariable-calculus-apparently/6268219024523264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
       title: 'Putting the clues together', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 41, 
@@ -739,6 +766,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_572097099355562743603959'
     }, 
     {
+      title: 'Spin-off of "Challenge: Waving snowman"', 
+      author: 'Ike Anyanwu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6382448679370752/5778334668865536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6382448679370752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869501911252504235809939'
+    }, 
+    {
       title: 'Falling by Trevor Daniel', 
       author: 'Timothy Lightson', 
       votes: 5, 
@@ -755,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-fav-bands-database/5986250093019136/5093021013295104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-fav-bands-database/5986250093019136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375506157388761108148714'
+    }, 
+    {
+      title: 'Dice game', 
+      author: 'emily.markova', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dice-game/4831823382495232/4713960252424192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dice-game/4831823382495232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_579676105955297328150469'
     }, 
     {
       title: 'ouch', 
@@ -806,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'izzyvigg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5456172275777536/4838820890853376.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5456172275777536/5822765518340096.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5456172275777536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_354467810965470239787967'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6513287241187328/6192860769861632.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6513287241187328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_520674504988318640851544'
-    }, 
-    {
-      title: 'Spin-off of "Coloring with code"', 
-      author: 'ariahnastone', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5912375414013952/5680252648210432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/5912375414013952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7360113537898636582050699'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'CAITLYN WAHNSCHAFFE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6326573369442304/4783757866614784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6326573369442304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175579066028784727019144'
-    }, 
-    {
-      title: 'Spin-off of "Skyline - Celine Tran"', 
-      author: 'Celine Tran', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-celine-tran/4989210848444416/5902457696993280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-celine-tran/4989210848444416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_413037912200235748644887'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Mariana Rivas Clavijo ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6684537754271744/5599100734324736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6684537754271744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_534361109685010178296036'
-    }, 
-    {
-      title: 'Flashing colors ', 
-      author: 'jdavidsm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flashing-colors/5326775413686272/5264223174443008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flashing-colors/5326775413686272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
   ];
 };
