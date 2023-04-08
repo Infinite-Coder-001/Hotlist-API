@@ -829,6 +829,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'Laura Sal', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6135572449247232/5546158048198656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6135572449247232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_12679147366415291317912'
+    }, 
+    {
+      title: 'Spin-off of "If/Else - Part 2"', 
+      author: 'chunyingchen2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6201489459822592/6263314910068736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6201489459822592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
+    }, 
+    {
+      title: 'The worst jokes ever. Part 2!', 
+      author: 'MyGuy!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5398041470484480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'Cookies', 
+      author: 'Arianna Wang', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cookies/5660511216910336/4524846500593664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cookies/5660511216910336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3044543182674461414085931'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Jessica Davis-Valles', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5019417085001728/5168185692438528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5019417085001728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8982625124319930042966942'
+    }, 
+    {
+      title: 'The worst jokes ever. Part 1', 
+      author: 'Speedyspeedcuber', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Making animations1', 
+      author: 'ssamaelias', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/making-animations1/5318923542380544/6733996349505536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/making-animations1/5318923542380544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_802490380798033802665705'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"  Hamza', 
       author: 'osmanhamza1716', 
       votes: 1, 
@@ -836,69 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-hamza/5806639728082944/4953586275762176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-hamza/5806639728082944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3185225567839082497353492'
-    }, 
-    {
-      title: 'Spin-off of "More Mouse Interaction"', 
-      author: 'Jish da Fish', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-mouse-interaction/5199289677824000/4631356790587392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-mouse-interaction/5199289677824000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_219479754547373669001732'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'dmilowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6373156987387904/4727974663602176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6373156987387904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2285283361017577171960802'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'luciamorenom05', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5290128504569856/6202978068643840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5290128504569856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'luciamorenom05', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5234972903653376/4633697816199168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5234972903653376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
-    }, 
-    {
-      title: 'New', 
-      author: 'jdavidsm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new/6024026444316672/5496444204400640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new/6024026444316672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'luciamorenom05', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6605273528844288/5811123539722240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6605273528844288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
-    }, 
-    {
-      title: 'Race 🏎️🚤🛥️🏁🏇🐎', 
-      author: 'Xander', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/4608294057721856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/race/5658547007569920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
   ];
 };
