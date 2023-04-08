@@ -883,6 +883,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'andyhf15', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6694939091320832/6151124458717184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6694939091320832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_639832424951189607349729'
+    }, 
+    {
       title: 'Nia - Short Animated Scene Program', 
       author: 'boltonni2025', 
       votes: 4, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936/5622617458655232.png', 
       link: 'https://www.khanacademy.org/computer-programming/nia-short-animated-scene-program/5151928368807936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2855171348467852623747595'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Links for learning"', 
-      author: 'eero.kalevo37', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4819152524328960/5547350035841024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4819152524328960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7320137310307287893289384'
     }, 
   ];
 };
