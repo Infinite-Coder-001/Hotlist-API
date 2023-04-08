@@ -365,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/6575637147205632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5174455103176704.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -476,15 +476,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912/5651955944046592.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-logo-done/6399962687782912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Monster Slayer(WIP)', 
-      author: 'Urabrask the Hidden', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/monster-slayerwip/6291524355932160/5920067398451200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/monster-slayerwip/6291524355932160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'experimenting with noise();', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
+    }, 
+    {
+      title: 'Noise Clouds', 
+      author: 'Daniel T', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/noise-clouds/6382904939954176/6276405622259712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/noise-clouds/6382904939954176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1088724296543359205380923'
     }, 
   ];
 };
