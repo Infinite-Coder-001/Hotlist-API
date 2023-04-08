@@ -856,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_325228143590539894337862'
     }, 
     {
-      title: 'Inspirováno programem "Výzva: Barevné stvoření"', 
-      author: 'Michaela Krajcová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192/5347619024191488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6028032372415989664217323'
-    }, 
-    {
       title: 'dodge game in 10 minutes', 
       author: 'YokieBob', 
       votes: 3, 
@@ -872,15 +863,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/5016679781548032.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Contest :  What\'s Cooking?', 
-      author: 'Shashwat  Shubham', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking/5699192699011072/5613513772154880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking/5699192699011072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
       title: 'Frogger', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816/6072953940000768.png', 
       link: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4042142241056301073984565'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'bambos79', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6146073812058112/6262365990731776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6146073812058112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1980748550223100309861880'
+    }, 
+    {
+      title: '"გამოწვევა: მყრალი ბაყაყი"-ის სპინ-ოფები', 
+      author: 'nona.saria300', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4720065112227840/5542036813168640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/4720065112227840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_564010165208507896558599'
     }, 
   ];
 };
