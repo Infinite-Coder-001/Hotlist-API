@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 23, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Prince Cjcool', 
-      author: 'cjcool', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 16, 
@@ -118,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'Prince Cjcool', 
+      author: 'cjcool', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'a toxic world', 
       author: 'the Knight_400', 
       votes: 12, 
@@ -125,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'Flappy Lemon', 
-      author: 'Wort-Head', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'its a game', 
@@ -145,40 +136,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
+      title: 'Flappy Lemon', 
+      author: 'Wort-Head', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
-      votes: 31, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
-      title: 'My Best Product', 
-      author: '🎵UltraUltronDJ🎵', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 29, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416/6547034195935232.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/5294980328636416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'Speed Math (Pre-release)', 
-      author: 'InvisibleCat123', 
-      votes: 5, 
+      title: 'Easter', 
+      author: 'The Goo 🌪', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6364817201086464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/4562179216162816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'My Best Product', 
+      author: '🎵UltraUltronDJ🎵', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
       title: '7', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: ' - BlackBird Singing In The Dead Of Night -', 
       author: 'Xiøn😋🤩', 
-      votes: 16, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/5270978889564160.png', 
       link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
     {
+      title: 'Speed Math (Pre-release)', 
+      author: 'InvisibleCat123', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6364817201086464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'KOREAN MEAL', 
       author: 'Lalisa', 
       votes: 8, 
@@ -356,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/6575637147205632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5913185384448000.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'HSstudent16', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5050979927244800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
     {
       title: 'Team project (i-Create)', 
@@ -641,19 +641,10 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'Yawgmoth, Thran Physician', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5866144117604352/5563728591634432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5866144117604352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'New program', 
       author: 'YokieBob', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6706118119440384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5342425032998912.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
       link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
+    }, 
+    {
+      title: 'Simplified', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440/4579559820541952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/simplified/4846038516285440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
   ];
 };
