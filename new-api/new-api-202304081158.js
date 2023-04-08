@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Birb', 
       author: 'mr. mustache', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
+    }, 
+    {
+      title: 'Skeleton Pixel Art [Animated]', 
+      author: 'Arrow.programming', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Lighting the Way ', 
@@ -16,15 +25,6 @@ var LoadHotlistAPI = function() {
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Skeleton Pixel Art [Animated]', 
-      author: 'Arrow.programming', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a toxic world', 
       author: 'the Knight_400', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'Flappy Lemon', 
+      author: 'Wort-Head', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Rotation + Bullets #TT', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'Flappy Lemon', 
-      author: 'Wort-Head', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'its a game', 
@@ -201,7 +201,7 @@ var LoadHotlistAPI = function() {
     {
       title: ' - BlackBird Singing In The Dead Of Night -', 
       author: 'Xiøn😋🤩', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6430820446552064.png', 
       link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
@@ -296,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
+    }, 
+    {
+      title: 'quiet city', 
+      author: 'Green Ghost', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'The Earth Is Breaking Open', 
@@ -440,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
-    }, 
-    {
-      title: 'quiet city', 
-      author: 'Green Ghost', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Emma', 
@@ -829,6 +829,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
+      title: 'Out of Context Dialouge', 
+      author: 'Dojo Cat', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/out-of-context-dialouge/6235953741217792/5048965654691840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/out-of-context-dialouge/6235953741217792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Bookshelf', 
+      author: 'crazypandagirl114', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bookshelf/4968870252429312/4581240629149696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bookshelf/4968870252429312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1077570342982614725680741'
+    }, 
+    {
       title: 'Congrats! Velvet Faith!!!', 
       author: 'Arrow.programming', 
       votes: 9, 
@@ -836,6 +854,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336/6130934622765056.png', 
       link: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'yazanfuqaha8', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032/6199092750630912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5434663916582466004532617'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Josephat Mutuku', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4672499154731008/5073192843788288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4672499154731008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8431664324382370935689104'
     }, 
     {
       title: 'New program', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6201473722793984/4819522143174656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6201473722793984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7208218941828650102355111'
-    }, 
-    {
-      title: 'I coded something I guess', 
-      author: 'Darth Pastry', 
-      votes: 24, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248/5841513205776384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-coded-something-i-guess/5574864590389248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
-    }, 
-    {
-      title: 'Mario CDJS', 
-      author: 'Patata17', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-cdjs/4592567766532096/5604208960389120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mario-cdjs/4592567766532096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6343103726974558411183367'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Stanis Gomes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5436591607955456/6294732830720000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5436591607955456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_785960880733517910497705'
-    }, 
-    {
-      title: 'firtProgramme javascript', 
-      author: 'foguennesylvain', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/firtprogramme-javascript/6426704626368512/5748157104570368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/firtprogramme-javascript/6426704626368512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_515746489980444262291573'
     }, 
   ];
 };
