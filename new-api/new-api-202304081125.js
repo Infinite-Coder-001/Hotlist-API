@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Speed Math (Pre-release)', 
+      author: 'InvisibleCat123', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'a toxic world', 
       author: 'the Knight_400', 
       votes: 15, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'Speed Math (Pre-release)', 
-      author: 'InvisibleCat123', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'MetaBalls', 
@@ -847,6 +847,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'WafaRainbowProject', 
+      author: 'wafahussein112', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wafarainbowproject/5532278592946176/6136073551134720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wafarainbowproject/5532278592946176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8567514780841724594019395'
+    }, 
+    {
       title: 'CarAnimationProject', 
       author: 'huda.bhussien210', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/6226347287691264/4732457703489536.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/6226347287691264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_129203254563583047992088'
-    }, 
-    {
-      title: 'Inspirováno programem "Výzva: Barevné stvoření"', 
-      author: 'Michaela Krajcová', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192/5347619024191488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6028032372415989664217323'
     }, 
   ];
 };
