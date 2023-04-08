@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: 'quiet city', 
-      author: 'Green Ghost', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 64, 
@@ -84,11 +75,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Speed Math (Pre-release)', 
       author: 'InvisibleCat123', 
-      votes: 10, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'quiet city', 
+      author: 'Green Ghost', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'its watching us', 
@@ -424,15 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'USDA Organic Logo', 
-      author: 'Joe H', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/5383264702611456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'cursor (low quality)', 
       author: 'SpongeBobert (Offline)', 
       votes: 7, 
@@ -640,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'USDA Organic Logo', 
+      author: 'Joe H', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/5383264702611456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
       title: 'Percy Jackson Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 13, 
@@ -829,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'dmilowski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6373156987387904/4727974663602176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6373156987387904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2285283361017577171960802'
-    }, 
-    {
       title: 'Derivado de "Proyecto: blog"', 
       author: 'luciamorenom05', 
       votes: 1, 
@@ -856,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
     }, 
     {
-      title: 'New', 
-      author: 'jdavidsm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new/6024026444316672/5496444204400640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new/6024026444316672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
       title: 'Derivado de "Proyecto: blog"', 
       author: 'luciamorenom05', 
       votes: 1, 
@@ -878,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/4608294057721856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/6218077361717248.png', 
       link: 'https://www.khanacademy.org/computer-programming/race/5658547007569920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5275709326278656/5848097638105088.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5275709326278656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3482781274894780115395720'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Escrever um poema"', 
+      author: 'ayrton.senna.moura', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5286273838530560/5163218898305024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/5286273838530560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1187953684547357410135542'
+    }, 
+    {
+      title: 'Enemys!!', 
+      author: 'HAMBURGER RiDER', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880/6441071325528064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_410991944085535280495507'
     }, 
   ];
 };
