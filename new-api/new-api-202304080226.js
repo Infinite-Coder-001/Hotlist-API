@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'InvisibleCat123', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6364817201086464.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
-      title: 'buffalo chicken wings', 
-      author: 'InvisibleCat123', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536/4594063488892928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Smash mouth ALL STAR lyrics', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 6, 
@@ -257,7 +248,7 @@ var LoadHotlistAPI = function() {
       author: 'Middleforest20', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6182573316554752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6733476356472832.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
@@ -269,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528/6740141441073152.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-cinis-intro/6010033361174528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
-      title: 'OP Opes', 
-      author: 'WaterSun', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
     {
       title: 'The Earth Is Breaking Open', 
@@ -343,6 +325,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
+      title: 'buffalo chicken wings', 
+      author: 'InvisibleCat123', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536/4594063488892928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'OP Opes', 
+      author: 'WaterSun', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
+    }, 
+    {
       title: 'KOREAN MEAL', 
       author: 'Lalisa', 
       votes: 8, 
@@ -395,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304/6565840561684480.png', 
       link: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'Game in 43 lines!', 
-      author: '51 votes', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
     }, 
     {
       title: 'Emma', 
@@ -478,15 +469,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'New program', 
-      author: 'Yawgmoth, Thran Physician', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6291524355932160/5501981021224960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6291524355932160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'experimenting with noise();', 
       author: 'LightningCoder', 
       votes: 3, 
@@ -527,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'HSstudent16', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5520920988139520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/4553294921121792.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
@@ -568,24 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'scene 3', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-3/6097854314889216/5336790706995200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-3/6097854314889216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'USDA Organic Logo', 
-      author: 'Joe H', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/5383264702611456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
-    }, 
-    {
       title: 'Percy Jackson Quiz', 
       author: 'Conqueror#MagusFTW', 
       votes: 13, 
@@ -613,15 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'New program', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
       title: 'Smart Page', 
       author: 'Falcon Jumper', 
       votes: 32, 
@@ -647,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824/5436540684910592.png', 
       link: 'https://www.khanacademy.org/computer-programming/polgonal-aequorprimavera/4982222936653824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'Game in 43 lines!', 
+      author: '51 votes', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
     }, 
     {
       title: 'Fears List', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646135411490816/4608735936036864.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646135411490816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_456478284211157777587329'
+    }, 
+    {
+      title: 'Team Cinis | Primavera 2023', 
+      author: 'Lemon Games', 
+      votes: 38, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
+    }, 
+    {
+      title: 'Noise Clouds', 
+      author: 'Daniel T', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/noise-clouds/6382904939954176/6276405622259712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/noise-clouds/6382904939954176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1088724296543359205380923'
+    }, 
+    {
+      title: 'Clock (Strange)', 
+      author: 'Liam Gregor Hoel', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5411859252690944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
+    }, 
+    {
+      title: 'Doom N Gloom', 
+      author: 'No Name', 
+      votes: 62, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
     }, 
   ];
 };
