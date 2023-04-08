@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 47, 
+      votes: 48, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 53, 
+      votes: 54, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
