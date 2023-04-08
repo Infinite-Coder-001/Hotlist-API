@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: 'quiet city', 
+      author: 'Green Ghost', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'its watching us', 
       author: 'Viper', 
       votes: 8, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'quiet city', 
-      author: 'Green Ghost', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'its a game', 
+      author: 'vineskylek', 
+      votes: 38, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
+    }, 
+    {
       title: 'Lyrics for Addie', 
       author: 'cjcool', 
       votes: 8, 
@@ -172,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'its a game', 
-      author: 'vineskylek', 
-      votes: 37, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936/6661848348016640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-game/4937537044135936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
-    }, 
-    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 32, 
@@ -188,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+    }, 
+    {
+      title: ' - BlackBird Singing In The Dead Of Night -', 
+      author: 'Xiøn😋🤩', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6430820446552064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'chicken.', 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
-    }, 
-    {
-      title: ' - BlackBird Singing In The Dead Of Night -', 
-      author: 'Xiøn😋🤩', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6430820446552064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: '7', 
@@ -829,11 +829,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'luciamorenom05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5290128504569856/6202978068643840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5290128504569856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'luciamorenom05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5234972903653376/4633697816199168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5234972903653376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'luciamorenom05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6605273528844288/5811123539722240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6605273528844288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
+    }, 
+    {
       title: 'Race 🏎️🚤🛥️🏁🏇🐎', 
       author: 'Xander', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/6460889948798976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race/5658547007569920/6218077361717248.png', 
       link: 'https://www.khanacademy.org/computer-programming/race/5658547007569920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
@@ -842,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: '✝︎ Volatile ✝︎', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/5833890926477312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880/6441071325528064.png', 
       link: 'https://www.khanacademy.org/computer-programming/enemys/4695628090490880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_410991944085535280495507'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'arham.mustafa.siddiqui10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4793977204424704/4666661086216192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4793977204424704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
-    }, 
-    {
-      title: 'New program', 
-      author: 'youssef.000abbasy2012', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4727790818869248/4818802786484224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4727790818869248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_297822113597965100267208'
-    }, 
-    {
-      title: 'Simulation', 
-      author: 'Nastye', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simulation/5806276622991360/5518349779124224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/simulation/5806276622991360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
   ];
 };
