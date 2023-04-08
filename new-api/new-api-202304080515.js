@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Skeleton Pixel Art [Animated]', 
+      author: 'Arrow.programming', 
+      votes: 26, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Birb', 
       author: 'mr. mustache', 
       votes: 22, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'Skeleton Pixel Art [Animated]', 
-      author: 'Arrow.programming', 
-      votes: 25, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'help the sky is spinning', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Prince Cjcool', 
       author: 'cjcool', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: 'Lyrics for Addie', 
+      author: 'cjcool', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 16, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224/6402122850811904.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-daily-dose-of-vitamin-d/5422736425140224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
-    }, 
-    {
-      title: 'Lyrics for Addie', 
-      author: 'cjcool', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'night sky', 
@@ -383,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/6407608362909696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5437397530886144.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -404,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432/6107004239396864.png', 
       link: 'https://www.khanacademy.org/computer-programming/cursor-low-quality/5234798689042432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
+    }, 
+    {
+      title: 'I won\'t try to...', 
+      author: 'QueenCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-wont-try-to/4799207300186112/6018408660647936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-wont-try-to/4799207300186112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
     }, 
     {
       title: 'creepy clown', 
@@ -635,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Shashwat  Shubham', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6038555479818240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/5183242102947840.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collab-with-the-knight_400/5976618997956608/6371131809644544.png', 
       link: 'https://www.khanacademy.org/computer-programming/collab-with-the-knight_400/5976618997956608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
-    }, 
-    {
-      title: '[GPT] Circle Collisions', 
-      author: 'apex', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032/4568292531683328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-circle-collisions/4937756087468032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
   ];
 };
