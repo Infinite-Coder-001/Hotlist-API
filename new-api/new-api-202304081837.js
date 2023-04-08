@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -784,6 +784,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
+      title: '"Projeto: livro de receitas"', 
+      author: 'Ghost Prozao', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projeto-livro-de-receitas/4643258564395008/4886997169913856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projeto-livro-de-receitas/4643258564395008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8743520552389200412034578'
+    }, 
+    {
+      title: '__', 
+      author: 'Absolute Zero', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/__/4821073268097024/4809928394194944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/__/4821073268097024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1025290877852994370300201'
+    }, 
+    {
+      title: 'New program', 
+      author: 'slagelal2024', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5479904453115904/6620932140744704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5479904453115904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
+    }, 
+    {
       title: 'Spin-off of "Making animations"', 
       author: 'ltwine691', 
       votes: 1, 
@@ -869,36 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272/6540215176183808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272/4969260423364608.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Strona o podróżach"', 
-      author: 'olaf.szczecki', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5026601290219520/5412200702590976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-strona-o-podrach/5026601290219520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333931798028598493114782'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Elena Tikhonova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5443092623966208/5599998516707328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5443092623966208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_718765319221318660586940'
-    }, 
-    {
-      title: 'draw a point', 
-      author: 'Yaren Kutlay', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/draw-a-point/6098948424253440/4905006806646784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/draw-a-point/6098948424253440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7735189925579945990543390'
     }, 
   ];
 };
