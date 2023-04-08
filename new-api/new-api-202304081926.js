@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 25, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5248096847314944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6616049232691200.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -374,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'WaterSun', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/4698074779009024.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5390176433258496.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/5968056645107712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/6575808731987968.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -757,15 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'Elkin José Rivera Gáleas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/4662218412310528/4913032947089408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/4662218412310528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237403838291072411752416'
-    }, 
-    {
       title: 'Fears List', 
       author: 'Dojo Cat', 
       votes: 27, 
@@ -773,15 +764,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664/5672238490894336.png', 
       link: 'https://www.khanacademy.org/computer-programming/fears-list/5162211363569664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'Derivado de "Hacer dibujos con código"', 
-      author: 'jairo.marcano.castillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/6281835043930112/5355817613443072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/6281835043930112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_303822575938083509142795'
     }, 
     {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
@@ -887,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/5627204987043840/5377141253652480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/5627204987043840/5610016829915136.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool/5627204987043840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6084708493737984/5965591098998784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6084708493737984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3030945003076133132003273'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'luciamorenom05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6133796547379200/5957490287362048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/6133796547379200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
+    }, 
+    {
+      title: 'Harry Potter Quiz (5 NEW QUESTIONS ADDED!)', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 21, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856/6379446765666304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harry-potter-quiz-5-new-questions-added/6369847736057856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
   ];
 };
