@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Speed Math (Pre-release)', 
-      author: 'InvisibleCat123', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Prince Cjcool', 
       author: 'cjcool', 
       votes: 11, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'Speed Math (Pre-release)', 
+      author: 'InvisibleCat123', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
       title: 'a toxic world', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'its watching us', 
-      author: 'Viper', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5687654269370368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
-    }, 
-    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 17, 
@@ -116,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'quiet city', 
-      author: 'Green Ghost', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -181,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'its watching us', 
+      author: 'Viper', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5687654269370368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
+    }, 
+    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 30, 
@@ -217,9 +208,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'quiet city', 
+      author: 'Green Ghost', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: '7', 
       author: 'aieman27', 
-      votes: 25, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
@@ -469,15 +469,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Ax-olotl', 
-      author: 'Green Ghost', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
       author: 'Shashwat  Shubham', 
       votes: 4, 
@@ -611,15 +602,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008/4755171122135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/putting-the-clues-together/6289189961515008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Falling by Trevor Daniel', 
-      author: 'Timothy Lightson', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640/5227394937176064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'scene 3', 
@@ -757,6 +739,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'Falling by Trevor Daniel', 
+      author: 'Timothy Lightson', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640/5227394937176064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'Jesus:our passover Lamb', 
       author: 'Hyrule Coder', 
       votes: 2, 
@@ -829,29 +820,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'arham.mustafa.siddiqui10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4793977204424704/4666661086216192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4793977204424704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
-    }, 
-    {
-      title: 'New program', 
-      author: 'youssef.000abbasy2012', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4727790818869248/4818802786484224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4727790818869248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_297822113597965100267208'
-    }, 
-    {
       title: 'Simulation', 
       author: 'Nastye', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simulation/5806276622991360/5518349779124224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simulation/5806276622991360/4606757533171712.png', 
       link: 'https://www.khanacademy.org/computer-programming/simulation/5806276622991360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_575972215822880856103849'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6478350031044608/5475158266789888.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6478350031044608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'dupuisbre6', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4540098365669376/4942787285139456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4540098365669376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7208218941828650102355111'
+    }, 
+    {
+      title: 'Spin-off of "5 in row"', 
+      author: 'son.matthewx', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-5-in-row/6480355277455360/5820722623856640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-5-in-row/6480355277455360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_858325920250575044501898'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'statushaylo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4752158785585152/5463676791603200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4752158785585152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2610913677384050438871188'
     }, 
   ];
 };
