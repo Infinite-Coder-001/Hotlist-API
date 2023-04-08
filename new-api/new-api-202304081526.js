@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 55, 
+      votes: 56, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'WaterSun', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5836548001284096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5721771442749440.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
@@ -413,6 +413,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/4552545684209664.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
+    }, 
+    {
+      title: 'The safest button in the world 🌎.', 
+      author: 'Xander', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/5827764457619456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'The worst jokes ever. Part 2!', 
@@ -784,6 +793,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'Tic-tac-toe v2', 
+      author: 'ElijaKen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tic-tac-toe-v2/5372106377576448/4882492084764672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tic-tac-toe-v2/5372106377576448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853759566639163561439256'
+    }, 
+    {
       title: 'New webpage', 
       author: 'Diamond Programmer', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5761909153644544/6288283622752256.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5761909153644544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_129203254563583047992088'
-    }, 
-    {
-      title: 'a pick up line. (WIP)', 
-      author: 'reader ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-pick-up-line-wip/6649228626804736/6283221714386944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-pick-up-line-wip/6649228626804736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: '1person game 2', 
-      author: 'morganeli2010', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688/4506057495068672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
     }, 
   ];
 };
