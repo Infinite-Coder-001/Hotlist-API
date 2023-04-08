@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 32, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 9, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Øɱɑɼ Ħ.', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/6559539374899200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/4985885402906624.png', 
       link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
@@ -676,51 +676,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'New program', 
-      author: 'MostAwesomePerson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4564037708070912/4562442329047040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4564037708070912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964746191530775129726979'
-    }, 
-    {
-      title: 'Sequence alignment', 
-      author: 'Leandro Pires', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sequence-alignment/5118481176772608/5012995706241024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sequence-alignment/5118481176772608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_951601385599328290303168'
-    }, 
-    {
-      title: 'Alisha Arif\'s What's for dinner? ', 
-      author: 'alisha.arif', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/alisha-arifs-whats-for-dinner/5016295147094016/5184068213063680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/alisha-arifs-whats-for-dinner/5016295147094016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8950086091966838277038678'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database" #1', 
-      author: 'lilypadaisy10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-1/5723235389063168/6164096602128384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database-1/5723235389063168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_643281214568819112711116'
-    }, 
-    {
-      title: 'Derivação de "Projeto: página web sobre viagens"', 
-      author: 'ayrton.senna.moura', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/6013058574237696/5138279164067840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-pgina-web-sobre-viagens/6013058574237696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187953684547357410135542'
-    }, 
-    {
       title: 'Pause button', 
       author: 'Arrow.programming', 
       votes: 10, 
@@ -734,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'Bob Lyon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smallest-circle-enclosing-points/4705130068099072/5189693915578368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smallest-circle-enclosing-points/4705130068099072/6312549160370176.png', 
       link: 'https://www.khanacademy.org/computer-programming/smallest-circle-enclosing-points/4705130068099072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5188772577984512/5517605072060416.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5188772577984512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_808625608617343086585049'
+    }, 
+    {
+      title: 'Fireworks', 
+      author: 'flutefruit', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fireworks/6382408502132736/5388425240035328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fireworks/6382408502132736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8345040057281136994412'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio" Tunsan', 
+      author: 'loochaveza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio-tunsan/6277445520244736/6426640772284416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio-tunsan/6277445520244736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2430658085504550301114601'
+    }, 
+    {
+      title: 'All my best games!', 
+      author: 'Sdavidsm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/all-my-best-games/4822752914882560/5554946557919232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/all-my-best-games/4822752914882560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93588824285501371328897'
+    }, 
+    {
+      title: 'Super Miner Dude (game)', 
+      author: 'GAG', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-miner-dude-game/6578154937565184/4687671260921856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-miner-dude-game/6578154937565184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_555560453779142904572059'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'raulnavarroc20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6439636873560064/6370053068210176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6439636873560064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1015147588675359970117727'
     }, 
   ];
 };
