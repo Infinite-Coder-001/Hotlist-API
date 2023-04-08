@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Edge Detection?', 
       author: 'Manta', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6147495546896384.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
-      votes: 46, 
+      votes: 47, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: ' - BlackBird Singing In The Dead Of Night -', 
+      author: 'Xiøn😋🤩', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/5270978889564160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
       title: 'its my b-day!', 
       author: 'the Knight_400', 
       votes: 53, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: ' - BlackBird Singing In The Dead Of Night -', 
-      author: 'Xiøn😋🤩', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/5270978889564160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
       title: 'POV you get the O noes guy.', 
@@ -318,7 +318,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'april fools!', 
       author: 'levi\'s ghost', 
-      votes: 91, 
+      votes: 92, 
       forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232/5963100298985472.png', 
       link: 'https://www.khanacademy.org/computer-programming/april-fools/6700581373919232', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5761228099338240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5913185384448000.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
