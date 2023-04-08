@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'WaterSun', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5234230545399808.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5836548001284096.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
+      title: 'Among us dude', 
+      author: 'BB13', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392/5779769036947456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_282607126365345136576815'
+    }, 
+    {
       title: 'fridge (final small project)', 
       author: 'Com', 
       votes: 41, 
@@ -734,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/6689551927263232.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/4613213372334080.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
@@ -773,6 +782,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752/5891709340008448.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lesson-for-everyone/4912634534346752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Diamond Programmer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720/6402759982366720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29002786364239503240680'
     }, 
     {
       title: 'Jesus:our passover Lamb', 
@@ -838,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_802490380798033802665705'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Cheten Gurung', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6411418602881024/4955762180014080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/6411418602881024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_174885660087415494444965'
+    }, 
+    {
       title: 'Spin-off of "Challenge: SmileyFace"', 
       author: 'Ben', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688/4506057495068672.png', 
       link: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'Jok K', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5476970084483072/5238358948495360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5476970084483072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_438048487272536835020792'
-    }, 
-    {
-      title: 'New program', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880/5125491637141504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5658342493306880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Rexo\'s run', 
-      author: 'Violet Smith', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rexos-run/5418345458614272/5976555613634560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rexos-run/5418345458614272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_315493448652917744392614'
     }, 
   ];
 };
