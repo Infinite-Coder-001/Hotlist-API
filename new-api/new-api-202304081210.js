@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 44, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5723541808136192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/4601155352313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -829,22 +829,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'quynong0369', 
+      title: 'Out of Context Dialouge', 
+      author: 'Dojo Cat', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6468467378405376/5919533346111488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6468467378405376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6191354774664820614928324'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'clingammartins', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4762209646592000/6313303296229376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4762209646592000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3194952462105373143579689'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/out-of-context-dialouge/6235953741217792/5048965654691840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/out-of-context-dialouge/6235953741217792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'Bookshelf', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776/5304724246282240.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/5416035135307776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_686934068563069382413881'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'dupuisbre6', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6201473722793984/4819522143174656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6201473722793984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7208218941828650102355111'
     }, 
   ];
 };
