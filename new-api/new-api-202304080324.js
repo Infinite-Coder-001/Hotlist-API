@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Rotation + Bullets #TT', 
+      author: 'Dominic R.', 
+      votes: 64, 
+      forks: 12, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'London', 
       author: 'NIKO Ψ', 
       votes: 72, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'Rotation + Bullets #TT', 
-      author: 'Dominic R.', 
-      votes: 63, 
-      forks: 12, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960/4645552450224128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotation-bullets-tt/4634528175144960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Speed Math (Pre-release)', 
@@ -479,7 +479,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Monster Slayer(WIP)', 
-      author: 'Yawgmoth, Thran Physician', 
+      author: 'Urabrask the Hidden', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/monster-slayerwip/6291524355932160/5920067398451200.png', 
@@ -521,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432/6231426308816896.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-text-gradient/5696982154002432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'HSstudent16', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5388567242391552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
     {
       title: 'Team project (i-Create)', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646135411490816/4608735936036864.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6646135411490816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_456478284211157777587329'
+    }, 
+    {
+      title: 'Team Cinis | Primavera 2023', 
+      author: 'Lemon Games', 
+      votes: 38, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376/6551886636564480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-cinis-primavera-2023/5594171525349376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_317222614333275516765464'
     }, 
   ];
 };
