@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Middleforest20', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5058423843766272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5486775662592000.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'HSstudent16', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5388567242391552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5776224178978816.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
