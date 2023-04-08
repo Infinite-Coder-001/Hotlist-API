@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Birb', 
       author: 'mr. mustache', 
-      votes: 19, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/6380541881663488.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 22, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6147495546896384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 46, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6147495546896384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'London', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'MetaBalls', 
-      author: 'Manta', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
       title: 'Button', 
       author: 'MyGuy!', 
       votes: 40, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button/4822254350548992/6342646412132352.png', 
       link: 'https://www.khanacademy.org/computer-programming/button/4822254350548992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'MetaBalls', 
+      author: 'Manta', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'its a game', 
@@ -163,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'Easter', 
-      author: 'The Goo 🌪', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/4562179216162816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: 'My Best Product', 
       author: '🎵UltraUltronDJ🎵', 
       votes: 15, 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336/4812889186942976.png', 
       link: 'https://www.khanacademy.org/computer-programming/sad-egg/6020718044430336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
+    }, 
+    {
+      title: 'Easter', 
+      author: 'The Goo 🌪', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008/4562179216162816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter/5695708004139008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'your daily dose of vitamin d', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/5761228099338240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/4528507926659072.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
