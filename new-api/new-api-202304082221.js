@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
     }, 
     {
+      title: 'The worst jokes ever. Part 2!', 
+      author: 'MyGuy!', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
       votes: 46, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'The worst jokes ever. Part 2!', 
-      author: 'MyGuy!', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'help the sky is falling', 
@@ -311,7 +311,7 @@ var LoadHotlistAPI = function() {
       author: 'Bearkirb314🐻‍❄️', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/4620095587663872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5316615299448832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'hand', 
+      author: 'Green Ghost', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'team cinis intro', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 11, 
@@ -428,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Ean Gunter', 
       votes: 7, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/4701237653323776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080/6483716827561984.png', 
       link: 'https://www.khanacademy.org/computer-programming/slightly-less-basic-platformer/6710126297006080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
@@ -608,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6132418500411392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6379355665383424.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -721,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'New program', 
+      author: 'alexis.tan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6170835103825920/4917024259358720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6170835103825920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_572097099355562743603959'
+    }, 
+    {
       title: 'Falling by Trevor Daniel', 
       author: 'Timothy Lightson', 
       votes: 5, 
@@ -728,6 +746,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640/5227394937176064.png', 
       link: 'https://www.khanacademy.org/computer-programming/falling-by-trevor-daniel/5379448288624640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Fav Bands database"', 
+      author: 'siouxzette', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-fav-bands-database/5986250093019136/5093021013295104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-fav-bands-database/5986250093019136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375506157388761108148714'
+    }, 
+    {
+      title: 'ouch', 
+      author: 'Funke Ajoloko', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ouch/6466696912355328/4739308813860864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ouch/6466696912355328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_475575457099352838504825'
     }, 
     {
       title: 'Derivado de "Desafío: tu primera aplicación de pintura"', 
@@ -761,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'a.christinechen', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kpop-lightstick-store-database/5302993642897408/5797692539453440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kpop-lightstick-store-database/5302993642897408/5959798899392512.png', 
       link: 'https://www.khanacademy.org/computer-programming/kpop-lightstick-store-database/5302993642897408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1066909987253537467356779'
     }, 
@@ -820,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_520674504988318640851544'
     }, 
     {
-      title: 'hand', 
-      author: 'Green Ghost', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Spin-off of "Coloring with code"', 
       author: 'ariahnastone', 
       votes: 1, 
@@ -851,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'Celine Tran', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-celine-tran/4989210848444416/5449332271923200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-celine-tran/4989210848444416/5902457696993280.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-celine-tran/4989210848444416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_413037912200235748644887'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flashing-colors/5326775413686272/5264223174443008.png', 
       link: 'https://www.khanacademy.org/computer-programming/flashing-colors/5326775413686272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
-      title: 'Calculos', 
-      author: 'Edward McBühfert', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/calculos/6584063168397312/6709371490058240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/calculos/6584063168397312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6072323228404417500553674'
-    }, 
-    {
-      title: 'Common Multiples', 
-      author: 'Purity Forever', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/common-multiples/4683759686565888/5879468381224960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/common-multiples/4683759686565888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_677740390636172590826096'
-    }, 
-    {
-      title: 'scene 3', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/scene-3/6097854314889216/5336790706995200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/scene-3/6097854314889216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
   ];
 };
