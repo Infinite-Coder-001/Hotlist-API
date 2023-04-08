@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 25, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5934015304744960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4701198528856064.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -572,7 +572,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5996767578734592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/6000472239685632.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -784,15 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
-      title: 'New SQL script', 
-      author: 'jensenwhite123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/4712704310034432/4887809623375872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/4712704310034432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118707724965128400238980'
-    }, 
-    {
       title: '"Projeto: livro de receitas"', 
       author: 'Ghost Prozao', 
       votes: 1, 
@@ -809,15 +800,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/__/4821073268097024/4809928394194944.png', 
       link: 'https://www.khanacademy.org/computer-programming/__/4821073268097024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1025290877852994370300201'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'sar.aa.sar15', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4559394412216320/4815758090878976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4559394412216320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516995373525600881690593'
     }, 
     {
       title: 'New program', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6605763893313536/6025929840443392.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6605763893313536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_805679017061780478098827'
+    }, 
+    {
+      title: 'Challenge: Book list database', 
+      author: 'chika gbe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6306687557615616/5895418715357184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6306687557615616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2055256007041216369901947'
+    }, 
+    {
+      title: 'cool ', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272/4969260423364608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
   ];
 };
