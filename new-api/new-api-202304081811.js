@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 24, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4670638326595584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5443243820236800.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -775,51 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Derivação de "Desenhando mais formas com código"', 
-      author: 'pnfp.fabio.pfz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-mais-formas-com-cdigo/4567307889459200/6299980609667072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-mais-formas-com-cdigo/4567307889459200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1006785186104259439050926'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'bololiman2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6092228914364416/5384067123298304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6092228914364416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175334212639866996139016'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'liahoward31536000', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6605763893313536/6025929840443392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6605763893313536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_805679017061780478098827'
-    }, 
-    {
-      title: 'Challenge: Book list database', 
-      author: 'chika gbe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6306687557615616/5895418715357184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/6306687557615616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2055256007041216369901947'
-    }, 
-    {
-      title: 'cool ', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272/5668320373424128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool/4665916681142272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
       title: 'Spin-off z "Projekt: Strona o podróżach"', 
       author: 'olaf.szczecki', 
       votes: 1, 
@@ -865,15 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5165029989576706763915931'
     }, 
     {
-      title: 'Samsung Galaxy A33', 
-      author: 'EP290', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/samsung-galaxy-a33/6578982792511488/5489366853271552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/samsung-galaxy-a33/6578982792511488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979778007307439935846322'
-    }, 
-    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'chika gbe', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-texto-fabuloso-parte-dos/4906887935213568/5172403350323200.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-texto-fabuloso-parte-dos/4906887935213568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_573184428060675739537397'
+    }, 
+    {
+      title: 'Duskclan', 
+      author: 'Dragon Legend', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/duskclan/4746440573501440/4855451943747584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/duskclan/4746440573501440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4264783066397908303881651'
+    }, 
+    {
+      title: '"Project: Design a store database" Practice', 
+      author: 'Pamela Newman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database-practice/5802467704225792/6249384804401152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database-practice/5802467704225792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_58475187760201591645947'
+    }, 
+    {
+      title: 'Game tests ^2^', 
+      author: 'Sheoldred, the Apocalypse', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'NN X', 
+      author: 'Stephen Waldron | GOC', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nn-x/5421448773812224/5329509483331584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nn-x/5421448773812224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_321728823647329899788354'
+    }, 
+    {
+      title: 'Derivado de "Tablas en HTML"', 
+      author: 'Marin Piedrahita Jeronimo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4813615539732480/6287368371093504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4813615539732480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_400680103731316186260667'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
+      author: 'geroloriente16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6681068662210560/6201291622891520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6681068662210560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_477170838678272711920906'
     }, 
   ];
 };
