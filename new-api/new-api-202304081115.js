@@ -847,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
-      title: 'CarAnimationProject', 
-      author: 'huda.bhussien210', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/caranimationproject/4970904858968064/5432011910332416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/caranimationproject/4970904858968064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_484491091373130515035583'
-    }, 
-    {
       title: 'Spin-off of "More While Loops: Balloon Hopper"', 
       author: 'nirjararanjitkar63', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192/5347619024191488.png', 
       link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-vzva-barevn-stvoen/5968162530312192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6028032372415989664217323'
+    }, 
+    {
+      title: 'dodge game in 10 minutes', 
+      author: 'YokieBob', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/5016679781548032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
   ];
 };
