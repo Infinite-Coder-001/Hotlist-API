@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Shashwat  Shubham', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6571468445237248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6678109463298048.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
@@ -811,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
     }, 
     {
+      title: 'Spin-off of "Project: App impersonator" DB', 
+      author: 'Diego Bejaran', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-db/6320214234152960/4844660771307520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-db/6320214234152960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1011603300666625562077163'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'nsmi83166', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6135572449247232/5546158048198656.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6135572449247232', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_12679147366415291317912'
-    }, 
-    {
-      title: 'Spin-off of "If/Else - Part 2"', 
-      author: 'chunyingchen2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6201489459822592/6263314910068736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-ifelse-part-2/6201489459822592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
     }, 
   ];
 };
