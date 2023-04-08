@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Birb', 
       author: 'mr. mustache', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024/6632029363159040.png', 
       link: 'https://www.khanacademy.org/computer-programming/birb/5161549565313024', 
