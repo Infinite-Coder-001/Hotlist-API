@@ -424,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
+      author: 'Shashwat  Shubham', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/4552545684209664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'Nathaniel', 
       votes: 5, 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter/5005248625426432/5882469690949632.png', 
       link: 'https://www.khanacademy.org/computer-programming/happy-easter/5005248625426432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
-    }, 
-    {
-      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
-      author: 'Shashwat  Shubham', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/4552545684209664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
       title: 'KOREAN MEAL', 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5249022144331776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5678875792424960.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -694,6 +694,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4618077803378553507058179'
     }, 
     {
+      title: 'My best games! Snow Hero and more!', 
+      author: 'Ivermectin ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/6650111880118272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
+    }, 
+    {
+      title: 'proyecto de viaje', 
+      author: 'sara osorto', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-de-viaje/6450361809551360/6329002743873536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-de-viaje/6450361809551360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_448964169588906309497078'
+    }, 
+    {
       title: 'Team project (i-Create)', 
       author: 'MaXX🐟', 
       votes: 5, 
@@ -719,6 +737,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432/6066604434833408.png', 
       link: 'https://www.khanacademy.org/computer-programming/spread-text/5132437224210432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'WIP', 
+      author: 'Viper', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5277693802496000/6728177742561280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5277693802496000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
     }, 
     {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tu-primera-aplicacin-de-pintura/5670899601948672/6250732669157376.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-tu-primera-aplicacin-de-pintura/5670899601948672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7479660739173360077098713'
-    }, 
-    {
-      title: 'Unordered and ordered list items', 
-      author: 'laylaib96', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unordered-and-ordered-list-items/6329714668257280/5809651171246080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unordered-and-ordered-list-items/6329714668257280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_889653772240476670509606'
-    }, 
-    {
-      title: ' Ad design', 
-      author: 'ssamaelias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ad-design/6659521448820736/6481137464819712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ad-design/6659521448820736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_802490380798033802665705'
-    }, 
-    {
-      title: 'KPOP LIGHTSTICK STORE DATABASE', 
-      author: 'a.christinechen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kpop-lightstick-store-database/5302993642897408/5959798899392512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kpop-lightstick-store-database/5302993642897408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1066909987253537467356779'
     }, 
   ];
 };
