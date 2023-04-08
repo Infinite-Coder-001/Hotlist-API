@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 44, 
+      votes: 45, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 64, 
+      votes: 65, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Ax-olotl', 
+      author: 'Green Ghost', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Button', 
       author: 'MyGuy!', 
       votes: 42, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/london/5596929850654720/5543960757190656.png', 
       link: 'https://www.khanacademy.org/computer-programming/london/5596929850654720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Ax-olotl', 
-      author: 'Green Ghost', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'its a game', 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'WaterSun', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/5961619764199424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648/4666588155658240.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-opes/5880866225307648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
@@ -516,7 +516,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Emma', 
       author: 'NIKO Ψ', 
-      votes: 75, 
+      votes: 76, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152/6597700348067840.png', 
       link: 'https://www.khanacademy.org/computer-programming/emma/6130866880561152', 
@@ -752,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/4613213372334080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360/4514804867055616.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-among-us/5668551932559360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
@@ -773,6 +773,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-template/6660576333053952/5091539249577984.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-template/6660576333053952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Madd Sam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5192855112171520/5972529987764224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5192855112171520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
+    }, 
+    {
+      title: '"Zor görev: Güneşli karlı gün" uyarlaması', 
+      author: 'belif202', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zor-grev-gneli-karl-gn-uyarlamas/4528691838500864/6338899489374208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zor-grev-gneli-karl-gn-uyarlamas/4528691838500864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_607455147981026271590746'
     }, 
     {
       title: 'Nova página da Web', 
@@ -860,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'Diamond Programmer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720/6402759982366720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720/4687567107964928.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_29002786364239503240680'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4577126184697856/5395958042247168.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4577126184697856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_499039352890245905059346'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseño de anuncio"', 
-      author: 'daysielizabethmartinezmoreta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6398366566367232/6283569707401216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6398366566367232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1154464903455980365413249'
-    }, 
-    {
-      title: 'Project: Top 100 Movies Data Dig', 
-      author: 'Jake Ward', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-top-100-movies-data-dig/5154039781441536/5308824463654912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-top-100-movies-data-dig/5154039781441536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1206677837029256340329183'
     }, 
   ];
 };
