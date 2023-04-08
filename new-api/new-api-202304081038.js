@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Shashwat  Shubham', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/5802287181381632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/6571468445237248.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
@@ -874,6 +874,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
     }, 
     {
+      title: 'Felix\'s Totally Very Cheap Computer Store', 
+      author: 'felixcioreynald', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816/6072953940000768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4042142241056301073984565'
+    }, 
+    {
+      title: 'Spin-off of "Project: Blog"', 
+      author: 'bambos79', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6146073812058112/6262365990731776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6146073812058112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1980748550223100309861880'
+    }, 
+    {
       title: '"გამოწვევა: მყრალი ბაყაყი"-ის სპინ-ოფები', 
       author: 'nona.saria300', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-/4720065112227840/5542036813168640.png', 
       link: 'https://www.khanacademy.org/computer-programming/-/4720065112227840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_564010165208507896558599'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'andyhf15', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5237783557095424/6304319130615808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5237783557095424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639832424951189607349729'
-    }, 
-    {
-      title: 'Join team i-Create now :D', 
-      author: 'MaXX🐟', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072/5274004404617216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/join-team-i-create-now-d/6399595853955072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
   ];
 };
