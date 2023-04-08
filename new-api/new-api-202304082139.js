@@ -730,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'Mariana Rivas Clavijo ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6684537754271744/5599100734324736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6684537754271744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_534361109685010178296036'
+    }, 
+    {
       title: 'Calculos', 
       author: 'Edward McBühfert', 
       votes: 1, 
@@ -829,6 +838,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
+      title: 'Lab #7: Flying Text', 
+      author: 'Cooper May', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6012012581928960/5945400155750400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6012012581928960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9350861153555021232640341'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'weberlauren95', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem_wonders-of-the-isle/6578496790118400/6227396853547008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem_wonders-of-the-isle/6578496790118400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1054681436174081887731638'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code”', 
-      author: 'aimenzafar095', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4588009229172736/4615195231305728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4588009229172736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2116151202463220946057328'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Kiara Locey', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5581195284103168/5679908799168512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5581195284103168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6061239851562312186905573'
     }, 
   ];
 };
