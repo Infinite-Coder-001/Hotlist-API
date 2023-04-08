@@ -469,24 +469,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Nathaniel', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992/6613255524237312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_634530026115020471000773'
-    }, 
-    {
-      title: 'buffalo chicken wings', 
-      author: 'InvisibleCat123', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536/4780928657571840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'Pause button', 
       author: 'Arrow.programming', 
       votes: 10, 
@@ -509,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'HSstudent16', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5344869540478976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064/5050979927244800.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5684846702936064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1123757839545756257758948'
     }, 
@@ -802,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Nathaniel', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992/6613255524237312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_634530026115020471000773'
+    }, 
+    {
       title: 'my own PacMan', 
       author: 'Costin Serban', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992/5411859252690944.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock-strange/4984066404564992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1115551584717613004288809'
+    }, 
+    {
+      title: 'Doom N Gloom', 
+      author: 'No Name', 
+      votes: 62, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880/4702995540656128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/doom-n-gloom/5367252028538880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1122358641061010013832844'
     }, 
   ];
 };
