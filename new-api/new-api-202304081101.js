@@ -847,6 +847,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_444393368263265950743090'
     }, 
     {
+      title: 'Spin-off of "More While Loops: Balloon Hopper"', 
+      author: 'nirjararanjitkar63', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-while-loops-balloon-hopper/5295407656910848/4507609957974016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-while-loops-balloon-hopper/5295407656910848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9157786756553446894310934'
+    }, 
+    {
+      title: '*Evening STAR!!*', 
+      author: 'Lalisa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/evening-star/6752812701892608/6083970866659328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/evening-star/6752812701892608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
       title: 'my own PacMan', 
       author: 'Costin Serban', 
       votes: 2, 
@@ -854,6 +872,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952/6514369942044672.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-own-pacman/5381837901053952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_325228143590539894337862'
+    }, 
+    {
+      title: 'Derivado de "Desafío: carita sonriente"', 
+      author: 'jfernanalv1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/6226347287691264/4732457703489536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-carita-sonriente/6226347287691264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_129203254563583047992088'
     }, 
     {
       title: 'Inspirováno programem "Výzva: Barevné stvoření"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480/5016679781548032.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-game-in-10-minutes/5572482573844480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
-    }, 
-    {
-      title: 'Contest :  What\'s Cooking?', 
-      author: 'Shashwat  Shubham', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking/5699192699011072/5613513772154880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-whats-cooking/5699192699011072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
-    }, 
-    {
-      title: 'Frogger', 
-      author: 'cleuteritz', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360/4887867269890048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/frogger/4740797053583360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
-    }, 
-    {
-      title: 'Felix\'s Totally Very Cheap Computer Store', 
-      author: 'felixcioreynald', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816/6072953940000768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/felixs-totally-very-cheap-computer-store/4578075104034816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4042142241056301073984565'
     }, 
   ];
 };
