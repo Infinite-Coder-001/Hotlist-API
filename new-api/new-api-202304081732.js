@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 24, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/6147495546896384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5356866692759552.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4245391914164225121005649'
     }, 
     {
+      title: 'Game in 43 lines!', 
+      author: '51 votes', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
+    }, 
+    {
       title: 'POV you get the O noes guy.', 
       author: 'Speedyspeedcuber', 
       votes: 13, 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992/6613255524237312.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5136956649684992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_634530026115020471000773'
-    }, 
-    {
-      title: 'Game in 43 lines!', 
-      author: '51 votes', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
     }, 
     {
       title: 'Emma', 
@@ -766,11 +766,47 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
+      title: '"Project: Design a store database" Practice', 
+      author: 'Pamela Newman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database-practice/5802467704225792/6249384804401152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database-practice/5802467704225792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_58475187760201591645947'
+    }, 
+    {
+      title: 'Game tests ^2^', 
+      author: 'Sheoldred, the Apocalypse', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'NN X', 
+      author: 'Stephen Waldron | GOC', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nn-x/5421448773812224/4645249399177216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nn-x/5421448773812224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_321728823647329899788354'
+    }, 
+    {
+      title: 'Derivado de "Tablas en HTML"', 
+      author: 'Marin Piedrahita Jeronimo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4813615539732480/6287368371093504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4813615539732480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_400680103731316186260667'
+    }, 
+    {
       title: 'Derivado de "Proyecto: Bola 8 mágica"', 
       author: 'geroloriente16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6681068662210560/5884866551136256.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6681068662210560/6201291622891520.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6681068662210560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_477170838678272711920906'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bouncy-ball/5293357481115648/5787998932484096.png', 
       link: 'https://www.khanacademy.org/computer-programming/bouncy-ball/5293357481115648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_864443499454376074664816'
-    }, 
-    {
-      title: ' "Project: Shooting star" mountains and aurora skye', 
-      author: 'Avocat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-shooting-star-mountains-and-aurora-skye/4685553976262656/4526790375948288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-shooting-star-mountains-and-aurora-skye/4685553976262656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037167482195508898633750'
-    }, 
-    {
-      title: 'Derivado de "Desafío: hojas que caen"', 
-      author: 'Marcos Valbuena', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-hojas-que-caen/5474129836032000/4880058415366144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-hojas-que-caen/5474129836032000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_316193784094296176815814'
-    }, 
-    {
-      title: 'WIP', 
-      author: 'cjcool', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5335567446622208/6007445320417280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/5335567446622208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'juancorcho11', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5548302847492096/5249934925545472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5548302847492096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1131060784640725423773787'
     }, 
   ];
 };
