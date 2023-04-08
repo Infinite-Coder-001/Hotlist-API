@@ -829,11 +829,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_195743580453624008653060'
     }, 
     {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'quynong0369', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6610280353415168/6718248851914752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6610280353415168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6191354774664820614928324'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'arham.mustafa.siddiqui10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6365522112593920/6501414575849472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/6365522112593920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
+    }, 
+    {
       title: 'Ice Cream', 
       author: 'Dojo Cat', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ice-cream/4564776543109120/5737151586418688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ice-cream/4564776543109120/6026312205778944.png', 
       link: 'https://www.khanacademy.org/computer-programming/ice-cream/4564776543109120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
@@ -851,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'arham.mustafa.siddiqui10', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6745047635902464/4764583521992704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6745047635902464/4823042321858560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6745047635902464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_692890303315728779032674'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bookshelf/4968870252429312/4581240629149696.png', 
       link: 'https://www.khanacademy.org/computer-programming/bookshelf/4968870252429312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1077570342982614725680741'
-    }, 
-    {
-      title: 'Congrats! Velvet Faith!!!', 
-      author: 'Arrow.programming', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336/6130934622765056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/congrats-velvet-faith/5836471182606336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'yazanfuqaha8', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032/6199092750630912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4856616752300032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5434663916582466004532617'
     }, 
   ];
 };
