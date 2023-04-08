@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Middleforest20', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/6182573316554752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856/5486775662592000.png', 
       link: 'https://www.khanacademy.org/computer-programming/oh-noes-slaughter-game-menu/5073308153593856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
