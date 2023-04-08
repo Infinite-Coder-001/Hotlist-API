@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'The worst jokes ever. Part 1', 
+      author: 'Speedyspeedcuber', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 38, 
@@ -244,13 +253,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
-      title: 'The worst jokes ever. Part 1', 
-      author: 'Speedyspeedcuber', 
+      title: 'The safest button in the world 🌎.', 
+      author: 'Xander', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/5834273950318592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
+      title: 'The worst jokes ever. Part 2!', 
+      author: 'MyGuy!', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'The Earth Is Breaking Open', 
@@ -413,24 +431,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/4552545684209664.png', 
       link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
-    }, 
-    {
-      title: 'The safest button in the world 🌎.', 
-      author: 'Xander', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/5834273950318592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
-    }, 
-    {
-      title: 'The worst jokes ever. Part 2!', 
-      author: 'MyGuy!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'KOREAN MEAL', 
@@ -775,6 +775,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'bilalis0vangelis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5520980345929728/5897130159161344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5520980345929728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8718843089603403950027625'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'chunyingchen2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6636464118218752/4779097122455552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6636464118218752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
+    }, 
+    {
       title: 'New program', 
       author: 'Madd Sam', 
       votes: 1, 
@@ -878,27 +896,9 @@ var LoadHotlistAPI = function() {
       author: 'Diamond Programmer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720/4687567107964928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720/4606816656080896.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5322621844766720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_29002786364239503240680'
-    }, 
-    {
-      title: 'Jesus:our passover Lamb', 
-      author: 'Hyrule Coder', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jesusour-passover-lamb/4513651836108800/5300039913357312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jesusour-passover-lamb/4513651836108800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'trulqfx04399', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4577126184697856/5395958042247168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4577126184697856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_499039352890245905059346'
     }, 
   ];
 };
