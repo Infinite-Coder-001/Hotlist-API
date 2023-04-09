@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 41, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -658,6 +658,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Apparatus', 
+      author: 'Pierre Kohel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992/5225865559719936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1172625629779356027106997'
+    }, 
+    {
+      title: 'Project: Shooting star', 
+      author: 'Aaditri Hazarika', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5067223761993728/5185299593609216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5067223761993728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594548015768630982632636'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'kody.jeppsen', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664/5131760599089152.png', 
       link: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'l.guino-', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5236508857778176/4970801544871936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5236508857778176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_132196957684490530730093'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'yuto87', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320/5025967681880064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8865938477617134914922846'
     }, 
   ];
 };
