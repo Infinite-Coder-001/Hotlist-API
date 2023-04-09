@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
       link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Extra small projects', 
       author: 'Com', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320/4936023214964736.png', 
       link: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
     {
+      title: 'Happy Easter', 
+      author: 'AnonymousX', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024/4815027074023424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2791751585399590703400449'
+    }, 
+    {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
       votes: 54, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Happy Easter', 
-      author: 'AnonymousX', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024/4815027074023424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2791751585399590703400449'
     }, 
     {
       title: 'help the sky is spinning', 
@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The worst jokes ever. Part 1', 
       author: 'Speedyspeedcuber', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'My best games! Snow Hero and more!', 
+      author: 'Ivermectin ', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/6745516491980800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
+    }, 
+    {
       title: 'pixel art maker.', 
       author: 'Clark Kent (offline)', 
       votes: 4, 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'My best games! Snow Hero and more!', 
-      author: 'Ivermectin ', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/6745516491980800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -622,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'aaaaaaaaaah', 
+      author: 'Yitz Finch', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaah/4599058300977152/5601429076361216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaah/4599058300977152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_819325038808497406091239'
+    }, 
+    {
       title: 'Among us dude', 
       author: 'BB13', 
       votes: 4, 
@@ -629,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392/5779769036947456.png', 
       link: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_282607126365345136576815'
+    }, 
+    {
+      title: 'Derivado de "Desafío: clases de elementos"', 
+      author: 'Luis Alberto Oropeza Montiel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-clases-de-elementos/4828193145274368/4734582101688320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-clases-de-elementos/4828193145274368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9065877457577176545443621'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -802,6 +820,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375506157388761108148714'
     }, 
     {
+      title: 'bread and egg', 
+      author: 'exclusivelynathaniel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bread-and-egg/4537549537460224/4902907674935296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bread-and-egg/4537549537460224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_370424137475243775394239'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'kdfjbnkadfbnadfb6', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5657362603229184/5205644081938432.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5657362603229184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_628850634578554399797279'
-    }, 
-    {
-      title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
-      author: 'Shashwat  Shubham', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616/4552545684209664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/human-eye-power-of-accommodation-optics-of-human-eye/5420791308271616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
-    }, 
-    {
-      title: 'Derivado de "Tablas en HTML"', 
-      author: '210272', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/6510015986057216/4847662013923328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/6510015986057216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_441542321678581329321052'
-    }, 
-    {
-      title: 'Winston\'s fever run(wip)', 
-      author: 'sidw319', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winstons-fever-runwip/4553347735797760/5116348423520256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winstons-fever-runwip/4553347735797760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042910457446334077403563'
     }, 
   ];
 };
