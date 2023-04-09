@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'Pacman', 
+      author: 'shaikh.abdulrahman2012', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664/6136109588594688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2907874639159405185449702'
+    }, 
+    {
       title: 'The safest button in the world 🌎.', 
       author: 'Xander', 
       votes: 11, 
@@ -127,13 +136,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
-      title: 'Pacman', 
-      author: 'shaikh.abdulrahman2012', 
-      votes: 5, 
+      title: 'The worst jokes ever. Part 1', 
+      author: 'Speedyspeedcuber', 
+      votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664/6136109588594688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2907874639159405185449702'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Button 2.0 (Out!)', 
+      author: 'MyGuy!', 
+      votes: 50, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'Speed Math (Pre-release)', 
@@ -143,24 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Button 2.0 (Out!)', 
-      author: 'MyGuy!', 
-      votes: 49, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'The worst jokes ever. Part 1', 
-      author: 'Speedyspeedcuber', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'Edge Detection?', 
@@ -631,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_282607126365345136576815'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'iana.anisimovaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6675968845725696/5301513825337344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6675968845725696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6497210321381424041127741'
+    }, 
+    {
       title: 'Egypt Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 5, 
@@ -647,6 +656,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'New program', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5342750880088064/4591149252919296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5342750880088064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Spin-off of "Drawing more shapes with code"', 
@@ -683,6 +701,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5681748655783936/4764960371818496.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5681748655783936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_88104162925664318858631'
+    }, 
+    {
+      title: 'Max gamer | homepage snapshot', 
+      author: 'Wolf🐺', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/max-gamer-homepage-snapshot/6609388275286016/5020881366859776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/max-gamer-homepage-snapshot/6609388275286016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'Derivado de "Desafío: base de datos de libros"', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-vivs-nail-store/5692324408770560/4772330921574400.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-vivs-nail-store/5692324408770560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5106513965915425777483688'
-    }, 
-    {
-      title: 'Spin-off of "Penguin Pixel Art"', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-penguin-pixel-art/4775429891473408/5066834094374912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-penguin-pixel-art/4775429891473408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Binary the Coding Bear', 
-      author: 'Aamna Zahra Tirmazi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/binary-the-coding-bear/5999019232116736/5744065477132288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/binary-the-coding-bear/5999019232116736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1103354597177483334668278'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'bkimbrow25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4661651493404672/6249814988996608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4661651493404672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9926154232630780892968489'
     }, 
   ];
 };
