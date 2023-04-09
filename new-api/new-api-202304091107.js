@@ -622,6 +622,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Новая программа', 
+      author: 'savashinski2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4544081679400960/5068651050090496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/4544081679400960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_857598256635924156393545'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'anandkaurav8', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6705919611420672/6742533804965888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6705919611420672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1019019543090449979218932'
+    }, 
+    {
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'mammuluraj', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6379210307584000/4901074092998656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6379210307584000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_354091258950508535860003'
+    }, 
+    {
       title: 'quick', 
       author: 'NIKO Ψ', 
       votes: 8, 
@@ -653,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'Viktoria Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000/6472040690532352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000/5643972841357312.png', 
       link: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6375932344027056597811418'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768/6406242294874112.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9747088289767041806838915'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'isaacmendez201919', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6311128398610432/4794128602021888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6311128398610432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_168425555990166703616885'
-    }, 
-    {
-      title: 'Project: Design a store database', 
-      author: 'marielrebutar95', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5947477175091200/5292122275364864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-design-a-store-database/5947477175091200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1376831834640782020096254'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'prashantdandriyal7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5992352134250496/5507197460332544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5992352134250496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_519206503255276191651441'
     }, 
   ];
 };
