@@ -649,6 +649,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Loki', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4939565053034496/4931193759121408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4939565053034496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1113121319899276404796293'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'pab.b.1173', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560/5476500255326208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4570126850153295347728859'
+    }, 
+    {
+      title: 'Wiersz Święta Wielkanocne ', 
+      author: '0b2171', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wiersz-wita-wielkanocne/5989499202224128/5137592506171392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wiersz-wita-wielkanocne/5989499202224128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_876051157085404964964488'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'zymzalabim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6218331234549760/6161288062615552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6218331234549760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
+    }, 
+    {
+      title: 'Youtube View Bot', 
+      author: 'Quicksilver', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048/5304217121374208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_328803883146354680833891'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'samiraaugas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6137548167757824/5900397790412800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6137548167757824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_807630811148271850053838'
+    }, 
+    {
       title: '*Evening STAR!!*', 
       author: 'Lalisa', 
       votes: 2, 
@@ -698,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'Madd Sam', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872/5304288139329536.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872/5006083845570560.png', 
       link: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992/5225865559719936.png', 
       link: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1172625629779356027106997'
-    }, 
-    {
-      title: 'Base', 
-      author: 'shlok.mayur.o', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/base/6403015096713216/5643419226783744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/base/6403015096713216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_37668261147957205612058'
-    }, 
-    {
-      title: 'Project: Shooting star', 
-      author: 'Aaditri Hazarika', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5067223761993728/5185299593609216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5067223761993728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_594548015768630982632636'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'kody.jeppsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983690741727232/5203380365737984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983690741727232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
-    }, 
-    {
-      title: 'Finland', 
-      author: 'Hibernia Productions🎥', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5966840515051520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'h.alkhalifa.2725', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5566425965314048/6338864424992768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5566425965314048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496609189950586172778052'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'migellois', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704/5546117581553664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_752576844923901914530651'
     }, 
   ];
 };
