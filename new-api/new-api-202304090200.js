@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 37, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'its watching us', 
       author: 'Viper', 
-      votes: 22, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5548349454598144.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'The worst jokes ever. Part 1', 
-      author: 'Speedyspeedcuber', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'Lightning Platformer Demo', 
       author: 'LightningCoder', 
       votes: 53, 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/5898907201880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'The worst jokes ever. Part 1', 
+      author: 'Speedyspeedcuber', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'MetaBalls', 
@@ -685,33 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database_Hydration"', 
-      author: 'blanchechung0', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database_hydration/5566788520951808/6480976604872704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database_hydration/5566788520951808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1171580758013088554038440'
-    }, 
-    {
-      title: 'Among Us TIPS', 
-      author: 'Awesome Coder ( Online )', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/among-us-tips/6407106791260160/5937697299677184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/among-us-tips/6407106791260160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6109239283637082382054227'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'jovstudios2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5890416957505536/5702293396963328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5890416957505536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6240268915126197174526189'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'nicholashsu005', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/death-star-generator-flood-fill/6154348905414656/6409439327600640.png', 
       link: 'https://www.khanacademy.org/computer-programming/death-star-generator-flood-fill/6154348905414656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'ai made snake game ', 
+      author: 'system', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328/4819311807217664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1117757369197241985957459'
+    }, 
+    {
+      title: 'ddsdf', 
+      author: 'shivamsuri7584', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ddsdf/6047133536141312/6035900384722944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ddsdf/6047133536141312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890796139984205473224532'
+    }, 
+    {
+      title: 'First Project - Making Table & Adding Values', 
+      author: 'Guillermo Lezama', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440/5421000788590592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_931584047137397643291863'
     }, 
   ];
 };
