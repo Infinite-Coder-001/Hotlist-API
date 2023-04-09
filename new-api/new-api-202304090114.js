@@ -662,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5191026328518656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5159188071497728.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -694,65 +694,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'herbert john', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4979078718603264/6161515159011328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4979078718603264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1723373410062801216995786'
-    }, 
-    {
-      title: 'Jhav 1', 
-      author: 'Jhavier ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jhav-1/5616843948867584/4708923799289856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jhav-1/5616843948867584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6204480099004801452803778'
-    }, 
-    {
-      title: 'Spin-off of "background(r, g, b, a*) | ProcessingJS"', 
-      author: 'Roshdi Aouita', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-backgroundr-g-b-a-processingjs/5267232671449088/4761601405403136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-backgroundr-g-b-a-processingjs/5267232671449088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5575201856344454074506731'
-    }, 
-    {
-      title: 'Spin-off of "text(message, x, y, width*, height*) | ProcessingJS"', 
-      author: 'Roshdi Aouita', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-textmessage-x-y-width-height-processingjs/5103834398769152/5979423934562304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-textmessage-x-y-width-height-processingjs/5103834398769152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5575201856344454074506731'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'ismael ceballos vargas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4834966963011584/5568104391557120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4834966963011584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8976002321941167237544459'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Pérez Montoya Miguel Ángel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5648534834823168/5987121132519424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5648534834823168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_196229757826509244670576'
-    }, 
-    {
       title: 'Spin-off of "Project: App impersonator" Pac Man Scores', 
       author: 'Alexander Ponce', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-pac-man-scores/5884690793021440/5444968585150464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-pac-man-scores/5884690793021440/5811585550696448.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-pac-man-scores/5884690793021440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6279928556713042906688640'
     }, 
@@ -773,6 +719,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328/4819311807217664.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1117757369197241985957459'
+    }, 
+    {
+      title: 'New program', 
+      author: 'YokieBob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344/5796386013757440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
       title: 'ddsdf', 
@@ -815,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'noambustosherrera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824/6569282394963968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824/5025738538663936.png', 
       link: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9226067376489341613825870'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4588124522201088/5076574643994624.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4588124522201088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_518637487968972065638875'
+    }, 
+    {
+      title: 'meh', 
+      author: 'foxy456 (heitor)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meh/5634771075252224/6270333826154496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meh/5634771075252224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_224953084147980110359906'
+    }, 
+    {
+      title: 'Fireworks!', 
+      author: 'flutefruit', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fireworks/5751743368708096/5087266226880512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fireworks/5751743368708096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8345040057281136994412'
+    }, 
+    {
+      title: 'micky', 
+      author: 'Yen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/micky/4665940806778880/6477398578348032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/micky/4665940806778880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_221803978593540235730444'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Landyn Spink', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6247906010251264/6419932637347840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6247906010251264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_51737040159494080480305'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'noambustosherrera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5038066403426304/4892388494721024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5038066403426304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9226067376489341613825870'
     }, 
   ];
 };
