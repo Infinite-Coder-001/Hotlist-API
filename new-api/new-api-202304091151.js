@@ -622,6 +622,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
+      title: 'Derivação de "Desafio: Uma viagem perfeita"', 
+      author: 'olivercardososouza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/5507212962480128/6218482565038080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/5507212962480128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1000693069268349281975567'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Salma Sameh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5350410249617408/6527705513508864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5350410249617408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_642780963361157042047231'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'ling.lange39', 
       votes: 1, 
@@ -629,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336/6306945167572992.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_239684247836613370583806'
+    }, 
+    {
+      title: 'Snes Controller', 
+      author: 'The Multiverse Hero [TMH]', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640/5064562912313344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_523988888981336150053758'
     }, 
     {
       title: 'KOREAN MEAL', 
@@ -644,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'C2_2333036_윤종국_SE2023', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520/4980847808921600.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520/4599681507442688.png', 
       link: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_91001902368665568546714'
     }, 
@@ -743,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'haoyu.zhan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cv-by-haoyu-zhan/5515015139672064/5337959391084544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cv-by-haoyu-zhan/5515015139672064/6565409588559872.png', 
       link: 'https://www.khanacademy.org/computer-programming/cv-by-haoyu-zhan/5515015139672064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1183778116354144119929477'
     }, 
@@ -871,33 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4664816750084096/4945829766152192.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4664816750084096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_523101515594801394874343'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'koushik das', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6262660195991552/5191760868589568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6262660195991552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_193393464129101478110618'
-    }, 
-    {
-      title: 'if you wait \'till you're ready, you'll be waiting you're whole life :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392/4790452110016512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'New p', 
-      author: 'RAPJUNKIESINC', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792/4542708564934656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_523101515594801394874343'
     }, 
   ];
