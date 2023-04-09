@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Finland', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5685678584414208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Spin-off of "HTML basics"', 
       author: 'h.alkhalifa.2725', 
       votes: 1, 
@@ -770,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'pshanaya3001', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5004053181677568/4952597695086592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5004053181677568/6235923420594176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5004053181677568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191526161605238880633421'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344/6565968739614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
-    }, 
-    {
-      title: 'zeeshanzaman', 
-      author: 'zeeshanzaman343', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264/5278500304240640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
     }, 
   ];
 };
