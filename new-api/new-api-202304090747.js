@@ -658,6 +658,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Spin-off of "Challenge: Favorite Animals"', 
+      author: 'Timothy Khaw', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4978624458702848/6264643078373376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4978624458702848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_635675362152998858463674'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'Lala', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5319752504623104/5552317400399872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5319752504623104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7600832281452421649631680'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'khuslen776', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6130685883760640/5531050131636224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6130685883760640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6744336347943087662814686'
+    }, 
+    {
+      title: 'Book List Challenge', 
+      author: 'marielrebutar95', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/book-list-challenge/4599940883202048/6272176870440960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/book-list-challenge/4599940883202048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1376831834640782020096254'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Write a Poem"', 
       author: 'arnoel060917', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-all-about-rabbits/5597629439590400/6729226977067008.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-all-about-rabbits/5597629439590400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_385900439051823412974552'
-    }, 
-    {
-      title: 'PHOENIX FETCH! (CINIS)', 
-      author: 'Azam 77', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280/4796101334188032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/phoenix-fetch-cinis/6137418412769280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Cheten Gurung', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6336175439921152/5572876133777408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6336175439921152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174885660087415494444965'
-    }, 
-    {
-      title: 'Launching', 
-      author: 'ranjit nair', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/launching/6054565809274880/5792794531905536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/launching/6054565809274880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_789613259443256460285826'
-    }, 
-    {
-      title: 'Norway', 
-      author: 'Hibernia Productions🎥', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776/5122124516999168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
 };
