@@ -658,6 +658,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'alwin10901', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5516795034517504/4986876365946880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5516795034517504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5032349951196792549842172'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'yiheng.chin2020', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6636717051527168/5421062562299904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6636717051527168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_407589337045575003321205'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'harshita4112000', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4971769523126272/5029721651068928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4971769523126272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_498167459442070840978031'
+    }, 
+    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'OLAMILEKAN', 
       votes: 1, 
@@ -671,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'Madd Sam', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872/5177486846771200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872/5304288139329536.png', 
       link: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704/5546117581553664.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_752576844923901914530651'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'Raquel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5683533785120768/5095434449371136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5683533785120768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1039433962491778580674526'
-    }, 
-    {
-      title: 'kinda cringe :P', 
-      author: 'Arrow.programming', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/5968056645107712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'Petrus Gabriel anak Dana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064/5405214535630848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2334238234351936527336178'
     }, 
   ];
 };
