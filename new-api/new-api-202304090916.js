@@ -460,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
+      title: 'My best games! Snow Hero and more!', 
+      author: 'Ivermectin ', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/4800672186023936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
+    }, 
+    {
       title: 'Multivariable calculus apparently', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 2, 
@@ -647,6 +656,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: gente famosa"', 
+      author: 'tsuarez255', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768/6406242294874112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9747088289767041806838915'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'isaacmendez201919', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6311128398610432/4794128602021888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6311128398610432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_168425555990166703616885'
     }, 
     {
       title: 'Project: Design a store database', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/eat-random-ice-creamlesson10/4686373174165504/6028280106106880.png', 
       link: 'https://www.khanacademy.org/computer-programming/eat-random-ice-creamlesson10/4686373174165504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366659426814193879149285'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Favorite Animals"', 
-      author: 'Timothy Khaw', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4978624458702848/6264643078373376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-animals/4978624458702848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_635675362152998858463674'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'Lala', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5319752504623104/5552317400399872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/5319752504623104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7600832281452421649631680'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'khuslen776', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6130685883760640/5531050131636224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6130685883760640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6744336347943087662814686'
     }, 
   ];
 };
