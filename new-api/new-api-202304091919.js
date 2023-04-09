@@ -622,6 +622,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'pascualalbertoma.car', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5184792686804992/5575667526975488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/5184792686804992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1205717927882006130553737'
+    }, 
+    {
+      title: 'Spin-off of "Readable Code"', 
+      author: 'chunyingchen2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/6038070182068224/4718463441747968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/6038070182068224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
+    }, 
+    {
+      title: 'h', 
+      author: 'rickdiedro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/h/5507092334297088/4882547181142016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/h/5507092334297088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_63430061921349333891347'
+    }, 
+    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'Aishani Singh', 
       votes: 1, 
@@ -802,6 +829,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'Spin-off of "Challenge: Exploding chocolate"', 
+      author: 'ben iyeyouo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-chocolate/4739192916852736/6119304824406016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-chocolate/4739192916852736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3829844578086269349300626'
+    }, 
+    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6597931533910016/5078829535379456.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6597931533910016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853578433036298733480026'
-    }, 
-    {
-      title: 'corn', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/corn/6075333519654912/6053153671004160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/corn/6075333519654912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'anaybhardwaj0908', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5399070316478464/5114283550883840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5399070316478464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_689982431813088723059502'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'rafaeljacoud7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4707146723016704/5572630498557952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4707146723016704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9534179018125983784471169'
-    }, 
-    {
-      title: 'poor salad', 
-      author: 'halimaachaklii', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/poor-salad/6131675169079296/6516634731986944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/poor-salad/6131675169079296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_303357121387846254893440'
     }, 
   ];
 };
