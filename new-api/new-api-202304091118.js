@@ -514,6 +514,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Egypt Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/4803889720508416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Two Kingdoms at War', 
       author: 'Wort-Head', 
       votes: 2, 
@@ -613,13 +622,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
-      title: 'Egypt Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 4, 
+      title: 'Spin-off z "Projekt: Data Mining"', 
+      author: 'kacper.wilusz.07', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400/4803889720508416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/egypt-flag/5324672523878400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5995272900755456/5397625076760576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5995272900755456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_541719121496726551345467'
     }, 
     {
       title: 'Новая программа', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5872061609459712/6513937693851648.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5872061609459712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: gente famosa"', 
-      author: 'tsuarez255', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768/6406242294874112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-gente-famosa/6292026632224768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9747088289767041806838915'
     }, 
   ];
 };
