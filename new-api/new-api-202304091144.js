@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'The safest button in the world 🌎.', 
+      author: 'Xander', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
+    }, 
+    {
       title: 'Speed Math (Pre-release)', 
       author: 'InvisibleCat123', 
       votes: 14, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'The safest button in the world 🌎.', 
-      author: 'Xander', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'The worst jokes ever. Part 1', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
     {
+      title: 'Smash mouth ALL STAR lyrics', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
       title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
       author: 'Vy Vo Ly', 
       votes: 2, 
@@ -449,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536/4594063488892928.png', 
       link: 'https://www.khanacademy.org/computer-programming/buffalo-chicken-wings/4797544912961536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Smash mouth ALL STAR lyrics', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Team i-Create logo', 
@@ -622,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'ling.lange39', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336/6306945167572992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_239684247836613370583806'
+    }, 
+    {
       title: 'KOREAN MEAL', 
       author: 'Lalisa', 
       votes: 8, 
@@ -629,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376/6263144856207360.png', 
       link: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
+      title: 'C2 윤종국 2333036 Hippopotamus Project1 B', 
+      author: 'C2_2333036_윤종국_SE2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520/4980847808921600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_91001902368665568546714'
     }, 
     {
       title: 'Spin-off z "Projekt: Data Mining"', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792/4542708564934656.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_523101515594801394874343'
-    }, 
-    {
-      title: 'Spin-off of "Project: Creature comforts and critter jitters"', 
-      author: 'Mariam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-comforts-and-critter-jitters/6076672073056256/5321321576972288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-comforts-and-critter-jitters/6076672073056256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
   ];
 };
