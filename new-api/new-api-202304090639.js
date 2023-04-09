@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Spin-off of "Challenge: SmileyFace"', 
+      author: 'Raquel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5683533785120768/5095434449371136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5683533785120768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1039433962491778580674526'
+    }, 
+    {
       title: 'kinda cringe :P', 
       author: 'Arrow.programming', 
       votes: 13, 
@@ -665,6 +674,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880/5968056645107712.png', 
       link: 'https://www.khanacademy.org/computer-programming/kinda-cringe-p/5790362930298880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Petrus Gabriel anak Dana', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064/5405214535630848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2334238234351936527336178'
+    }, 
+    {
+      title: 'Spin-off of "Just toys but not complete"', 
+      author: 'myatnoee377', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104/5847838765662208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_492383793970081009105761'
     }, 
     {
       title: 'Spin-off of "Challenge: Favorite Fruits"', 
@@ -784,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "JOINing related tables"', 
+      author: 'Nick Amador', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables/5375627277680640/6328574119559168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables/5375627277680640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_131683259178284864363843'
+    }, 
+    {
       title: 'Spin-off of "Enemys!!"', 
       author: 'Ean Gunter', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128/4735160580096000.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Escrever um poema"', 
-      author: 'Lucas Sacramento', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/6599210746298368/6526137548455936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema/6599210746298368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
-    }, 
-    {
-      title: 'Bullet Logic', 
-      author: 'Dark Flame', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904/4662497551630336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
-    }, 
-    {
-      title: 'Hope Poem', 
-      author: 'midnight9owl', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hope-poem/5519814060982272/5726770499469312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hope-poem/5519814060982272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_836016146604085874036656'
-    }, 
-    {
-      title: 'Beginning of coding', 
-      author: 'aathithya777', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beginning-of-coding/6629238473277440/5614659488235520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beginning-of-coding/6629238473277440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5645402940809590841185666'
     }, 
   ];
 };
