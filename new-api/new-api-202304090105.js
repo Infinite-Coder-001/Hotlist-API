@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 47, 
+      votes: 46, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'morganeli2010', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688/6716056505991168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688/4506057495068672.png', 
       link: 'https://www.khanacademy.org/computer-programming/1person-game-2/6586368122994688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
     }, 
@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'Wort-Head', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/4908700075868160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/4974701878493184.png', 
       link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
@@ -694,38 +694,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
-      title: 'Spin-off of "Project: App impersonator" Pac Man Scores', 
-      author: 'Alexander Ponce', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-pac-man-scores/5884690793021440/5811585550696448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator-pac-man-scores/5884690793021440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6279928556713042906688640'
-    }, 
-    {
-      title: 'Death Star Generator (Flood Fill)', 
-      author: 'Manta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/death-star-generator-flood-fill/6154348905414656/6409439327600640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/death-star-generator-flood-fill/6154348905414656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'ai made snake game ', 
-      author: 'system', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328/4819311807217664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-made-snake-game/4653683842531328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1117757369197241985957459'
-    }, 
-    {
       title: 'New program', 
       author: 'YokieBob', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344/5796386013757440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344/4753640347975680.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -869,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'flutefruit', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fireworks/5751743368708096/5087266226880512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fireworks/5751743368708096/5321963339038720.png', 
       link: 'https://www.khanacademy.org/computer-programming/fireworks/5751743368708096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8345040057281136994412'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5038066403426304/4892388494721024.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5038066403426304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9226067376489341613825870'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Funky Frog"', 
+      author: 'farquarter', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4623589006688256/4651663496626176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4623589006688256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_239643522531340565196329'
+    }, 
+    {
+      title: 'New program', 
+      author: 'shivamsuri7584', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5128712627732480/5081120598441984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5128712627732480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890796139984205473224532'
+    }, 
+    {
+      title: 'Danny Place', 
+      author: 'ansongan0325', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/danny-place/6254441994174464/5868471889215488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/danny-place/6254441994174464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1003870435544286551005356'
     }, 
   ];
 };
