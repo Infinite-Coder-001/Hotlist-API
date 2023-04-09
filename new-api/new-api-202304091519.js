@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
       link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
@@ -95,7 +95,7 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/earthrise/6114501272584192/6412944054468608.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/earthrise/6114501272584192/5745668057776128.png', 
       link: 'https://www.khanacademy.org/computer-programming/earthrise/6114501272584192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
+      title: 'Two Kingdoms at War', 
+      author: 'Wort-Head', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/5925228573409280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Pacman', 
       author: 'shaikh.abdulrahman2012', 
       votes: 3, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'Two Kingdoms at War', 
-      author: 'Wort-Head', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/5925228573409280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -649,6 +649,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'sup bruh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5513752486395904/6559786268409856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5513752486395904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662518035850871726882396'
+    }, 
+    {
       title: 'Spotlights', 
       author: 'Dojo Cat', 
       votes: 11, 
@@ -707,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet Faith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/4535446312108032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/4721467486158848.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
@@ -847,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
     }, 
     {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Coding Class', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5893824510738432/6483689010937856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5893824510738432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333911960273103577141147'
+    }, 
+    {
       title: 'Spin-off of "Making animations"', 
       author: 'sanuabeysekara', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-/4953424040083456/6250584056578048.png', 
       link: 'https://www.khanacademy.org/computer-programming/-/4953424040083456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_308789058934632133197221'
-    }, 
-    {
-      title: 'New program', 
-      author: 'pargorna32', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5839368754610176/6659256536580096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5839368754610176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2334429952425591667057689'
-    }, 
-    {
-      title: 'New program', 
-      author: 'pargorna32', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824/4778905291767808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2334429952425591667057689'
     }, 
   ];
 };
