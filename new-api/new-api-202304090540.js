@@ -685,6 +685,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
+      title: 'Spin-off of "Enemys!!"', 
+      author: 'Ean Gunter', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-enemys/4801297305092096/4556656639000576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-enemys/4801297305092096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
+    }, 
+    {
+      title: 'Spin-off of "Coloring with code"', 
+      author: 'nerdo86', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4982329169985536/6552915293814784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4982329169985536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9761459042067905582206953'
+    }, 
+    {
+      title: 'Maldives Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664/5131760599089152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'l.guino-', 
       votes: 1, 
@@ -815,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/4939313931665408.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/5092091555528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4796139921784832/4760514174697472.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4796139921784832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_237403838291072411752416'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Elkin José Rivera Gáleas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4544842995908608/4571299759570944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4544842995908608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237403838291072411752416'
-    }, 
-    {
-      title: 'New program', 
-      author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600/5528686322565120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'walsrahman.of', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6339445487091712/5295016311570432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6339445487091712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2392432370289745707784812'
     }, 
   ];
 };
