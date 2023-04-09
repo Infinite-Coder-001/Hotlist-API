@@ -631,6 +631,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Netflix ad', 
+      author: 'shaikh.abdulrahman2012', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/netflix-ad/6406774837264384/6035742511120384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/netflix-ad/6406774837264384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2907874639159405185449702'
+    }, 
+    {
+      title: 'Pacman', 
+      author: 'shaikh.abdulrahman2012', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664/6136109588594688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pacman/5880185506545664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2907874639159405185449702'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Stallion"', 
+      author: 'felipe.oh97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-stallion/4743480938381312/4899185314021376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-stallion/4743480938381312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_856385350248443296925407'
+    }, 
+    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'isaacmendez201919', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560/5476500255326208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4570126850153295347728859'
-    }, 
-    {
-      title: 'Wiersz Święta Wielkanocne ', 
-      author: '0b2171', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wiersz-wita-wielkanocne/5989499202224128/5137592506171392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wiersz-wita-wielkanocne/5989499202224128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_876051157085404964964488'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'zymzalabim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6218331234549760/6161288062615552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6218331234549760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
-    }, 
-    {
-      title: 'Youtube View Bot', 
-      author: 'Quicksilver', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048/5304217121374208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_328803883146354680833891'
     }, 
   ];
 };
