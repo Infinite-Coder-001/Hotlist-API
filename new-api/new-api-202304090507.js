@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 30, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -341,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'Vy Vo Ly', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480/5701991977500672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396427101044060827403030'
     }, 
     {
       title: 'Happy Easter! 🐇', 
@@ -676,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
+      title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
+      author: 'Lucas Sacramento', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128/4735160580096000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
+    }, 
+    {
       title: 'Derivação de "Desafio: Escrever um poema"', 
       author: 'Lucas Sacramento', 
       votes: 1, 
@@ -689,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'Dark Flame', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904/6131285367242752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904/5183658177904640.png', 
       link: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
     }, 
@@ -815,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600/6138807130046464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600/5528686322565120.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-project2-/5851374261944320/4542173875060736.png', 
       link: 'https://www.khanacademy.org/computer-programming/-project2-/5851374261944320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_493857095510606696542826'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Luana Gomez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6594428098887680/5039679130091520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6594428098887680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280836983855169603494366'
-    }, 
-    {
-      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
-      author: 'Vy Vo Ly', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480/5701991977500672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_396427101044060827403030'
     }, 
   ];
 };
