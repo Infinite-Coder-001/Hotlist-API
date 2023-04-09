@@ -649,33 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1216994922839572370686093'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'koushik das', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6262660195991552/5191760868589568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6262660195991552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_193393464129101478110618'
-    }, 
-    {
-      title: 'New p', 
-      author: 'RAPJUNKIESINC', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792/4542708564934656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-p/4802784705953792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_523101515594801394874343'
-    }, 
-    {
-      title: 'Spin-off of "Project: Creature comforts and critter jitters"', 
-      author: 'Mariam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-comforts-and-critter-jitters/6076672073056256/5321321576972288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-creature-comforts-and-critter-jitters/6076672073056256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
-    }, 
-    {
       title: 'New program', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 3, 
@@ -683,15 +656,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'kody.jeppsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5872061609459712/6513937693851648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5872061609459712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
     }, 
     {
       title: 'Derivado de "Proyecto: gente famosa"', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4592659873447936/6307111027130368.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4592659873447936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2334238234351936527336178'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Cheten Gurung', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5927189376974848/5616654836088832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5927189376974848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_174885660087415494444965'
+    }, 
+    {
+      title: 'boywithuke', 
+      author: 'bennotfound', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boywithuke/6502080731987968/4603198079025152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boywithuke/6502080731987968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_556927719328401154796656'
+    }, 
+    {
+      title: 'Spin-off of "Project: Magic 8-Ball"', 
+      author: 'hassanqaimkhani249', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6177006267187200/4659331376398336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6177006267187200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_474853298140885924201254'
+    }, 
+    {
+      title: 'eat random ice cream(lesson10)', 
+      author: 'friga819', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/eat-random-ice-creamlesson10/4686373174165504/6028280106106880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/eat-random-ice-creamlesson10/4686373174165504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366659426814193879149285'
     }, 
   ];
 };
