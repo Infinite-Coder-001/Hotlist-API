@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 32, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -658,33 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'arnoel060917', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5828257808433152/5489764993384448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5828257808433152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_892454489131272849099736'
-    }, 
-    {
-      title: 'LAB 7', 
-      author: 'kavya.vmony', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7/6555202149990400/6481750504292352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-7/6555202149990400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019248783767648656172850'
-    }, 
-    {
-      title: 'Spin-off of "Looping through Arrays"', 
-      author: 'Luke Durbin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/5176417399914496/5021722811351040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-looping-through-arrays/5176417399914496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_775913196296051125033537'
-    }, 
-    {
       title: 'Apparatus', 
       author: 'Pierre Kohel', 
       votes: 1, 
@@ -692,15 +665,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992/5225865559719936.png', 
       link: 'https://www.khanacademy.org/computer-programming/apparatus/5563869688020992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1172625629779356027106997'
-    }, 
-    {
-      title: 'Base', 
-      author: 'shlok.mayur.o', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/base/6403015096713216/5643419226783744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/base/6403015096713216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_37668261147957205612058'
     }, 
     {
       title: 'Project: Shooting star', 
@@ -898,6 +862,42 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776/5122124516999168.png', 
       link: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off of "JOINing related tables"', 
+      author: 'Nick Amador', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables/5375627277680640/6328574119559168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-joining-related-tables/5375627277680640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_131683259178284864363843'
+    }, 
+    {
+      title: 'Spin-off of "Enemys!!"', 
+      author: 'Ean Gunter', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-enemys/4801297305092096/4556656639000576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-enemys/4801297305092096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
+    }, 
+    {
+      title: 'Spin-off of "Coloring with code"', 
+      author: 'nerdo86', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4982329169985536/6552915293814784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4982329169985536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9761459042067905582206953'
+    }, 
+    {
+      title: 'Maldives Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664/5131760599089152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
