@@ -5,7 +5,7 @@ This repository downloads data from Khan Academy hotlist every minute. You can e
 | **Version** |                                             **Description**                                             | **Still works**? |
 |:-----------:|:-------------------------------------------------------------------------------------------------------:|:----------------:|
 |<1.3.0       |These version were just tests, they didn't work.                                                         |NO                |
-|1.3.0        |This version worked, but the data were sometimes old + only 30 scratchpads from hotlist.                 |**YES**           |
+|1.3.0        |This version worked, but the data were sometimes old + only 30 scratchpads from hotlist.                 |NO                |
 |1.4.0        |This is the current version, the data is updating every minute + 100 scratchpad from hotlist.            |**YES**           |
 
 ## Importing
