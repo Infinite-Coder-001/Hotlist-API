@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lighting the Way ', 
       author: 'Arrow.programming', 
-      votes: 52, 
+      votes: 53, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 28, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4626114615230464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 66, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 27, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4626114615230464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'USDA Organic Logo', 
@@ -640,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'ESPIRAL 3', 
+      author: 'JS ULI', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/espiral-3/5118690925527040/6017051417427968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/espiral-3/5118690925527040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
+    }, 
+    {
       title: 'Slightly Less Basic Platformer', 
       author: 'Ean Gunter', 
       votes: 7, 
@@ -649,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_865779742884338815808042'
     }, 
     {
+      title: 'Spin-off Redo of "Project: Blog"', 
+      author: 'MallamH', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-redo-of-project-blog/6576403865976832/5906172843704320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-redo-of-project-blog/6576403865976832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_725255719424551057605142'
+    }, 
+    {
       title: 'creepy clown', 
       author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 5, 
@@ -656,6 +674,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304/6565840561684480.png', 
       link: 'https://www.khanacademy.org/computer-programming/creepy-clown/6699736402018304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
+      title: 'Keller_aak210026_Lab07', 
+      author: 'Alisa Keller', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/keller_aak210026_lab07/5017470122639360/5020549446418432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/keller_aak210026_lab07/5017470122639360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1208222356139938586358082'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'jtbrisco14', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5203159409803264/6028387379625984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5203159409803264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_355283955905574851660756'
     }, 
     {
       title: 'New program', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card/6646496457179136/6701974214197248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card/6646496457179136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_678676627707617716546012'
-    }, 
-    {
-      title: 'SQL Test', 
-      author: 'RyanB', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-test/4965537311670272/5063958781542400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sql-test/4965537311670272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1185003395833931516788096'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: librero"', 
-      author: 'nechohdfyrsa7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/4515754591698944/5354336051052544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/4515754591698944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5539054274775028741625818'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'lucasacostak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4559049875308544/5235535611478016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4559049875308544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2169215903544215854815202'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'kthrjp', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4845106374164480/4717234728779776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4845106374164480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_190296044419192106124018'
     }, 
   ];
 };
