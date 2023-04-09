@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'pixel art maker.', 
+      author: 'Clark Kent (online)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384/5046103964958720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'Game tests ^2^', 
       author: 'Sheoldred, the Apocalypse', 
       votes: 4, 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
-      title: 'pixel art maker.', 
-      author: 'Clark Kent (online)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384/5960792177688576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Happy Easter! 🐇', 
@@ -676,6 +676,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
+      title: 'Beginning of coding', 
+      author: 'aathithya777', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beginning-of-coding/6629238473277440/5614659488235520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beginning-of-coding/6629238473277440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5645402940809590841185666'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'kody.jeppsen', 
       votes: 1, 
@@ -701,6 +710,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-step/6128777710321664/5574097447993344.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-step/6128777710321664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5645402940809590841185666'
+    }, 
+    {
+      title: 'title here', 
+      author: 'noNameCode', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/4530801875402752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
     {
       title: 'rpg game', 
@@ -770,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600/5016013155647488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600/6052471878500352.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5785772495257600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -806,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: '#RR737', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-rabbits-poem/6533843390873600/5989831760199680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-rabbits-poem/6533843390873600/5652277093515264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-rabbits-poem/6533843390873600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_928016249951939597196315'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/magic-pendulum/6235539591446528/5052381227433984.png', 
       link: 'https://www.khanacademy.org/computer-programming/magic-pendulum/6235539591446528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896376388396380190383655'
-    }, 
-    {
-      title: 'Creating a table and inserting data', 
-      author: 'kody.jeppsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/6388538406125568/6400410568146944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/6388538406125568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'caydenepopan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5634431357599744/6304056432967680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5634431357599744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_614313589569777503030510'
     }, 
   ];
 };
