@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Ivermectin ', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/6745516491980800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/4700318865866752.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
     }, 
@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'unicorn fighting a cloud in the dark', 
+      author: 'Green Ghost', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/6109976256102400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'charzard', 
       author: 'Green Light', 
       votes: 2, 
@@ -314,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
       link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'everybody okay?', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992/6395996583280640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: ' my subpage', 
@@ -491,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'cjcool', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208/4614948035805184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208/6089759039733760.png', 
       link: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
@@ -577,6 +595,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'The Tyrant’s Hero! (A Movie)', 
+      author: 'jdavidsm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360/4626815902859264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'lian —', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4739458114306048/6223849931980800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4739458114306048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2582391286342483797134628'
+    }, 
+    {
+      title: 'Lab 7', 
+      author: 'Cinthia Cuevas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7/5444972813008896/6617148341665792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7/5444972813008896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4595924575583579881017140'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'astridniretvera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4772774125289472/4537570542534656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4772774125289472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_584420517212658362115158'
+    }, 
+    {
       title: 'buffalo chicken wings', 
       author: 'InvisibleCat123', 
       votes: 4, 
@@ -602,15 +656,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-to-australia/5664483960995840/5777882271236096.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-travel-to-australia/5664483960995840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_512844819645889767139359'
-    }, 
-    {
-      title: 'unicorn fighting a cloud', 
-      author: 'Green Ghost', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud/5273954026831872/5864158097883136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud/5273954026831872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Derivado de "Proyecto: invitación a un evento"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-astronautsdata-gig/4740721690329088/5812493802061824.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-astronautsdata-gig/4740721690329088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_253341276396027082509752'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'alyssa.aloe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6166585401458688/6377378604695552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6166585401458688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_811940296181015698318639'
-    }, 
-    {
-      title: 'work in progress', 
-      author: 'LunarSoftware', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress/5294157284556800/6118553792331776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/work-in-progress/5294157284556800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_199731806199292456559989'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'David Nicastro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6240037563056128/5233408965132288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6240037563056128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_866685793679615599146303'
-    }, 
-    {
-      title: 'Spin-off of "Clarifying with Comments"', 
-      author: 'malak elseragy', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/5784967960641536/4836021444591616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/5784967960641536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6158169663082366644087186'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'Willian Bezerra', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6407310835761152/4683279069659136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6407310835761152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3204588948742876306097858'
     }, 
   ];
 };
