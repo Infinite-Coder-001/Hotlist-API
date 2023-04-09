@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
       link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5653985672609792.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'Two Kingdoms at War', 
+      author: 'Wort-Head', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/5925228573409280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 31, 
@@ -550,15 +559,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Two Kingdoms at War', 
-      author: 'Wort-Head', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/5925228573409280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
       title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
       author: 'Shashwat  Shubham', 
       votes: 6, 
@@ -623,12 +623,48 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
+      author: 'pargorna32', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5839368754610176/6659256536580096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5839368754610176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2334429952425591667057689'
+    }, 
+    {
+      title: 'New program', 
+      author: 'pargorna32', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824/4778905291767808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2334429952425591667057689'
+    }, 
+    {
+      title: 'New program', 
       author: 'YokieBob', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5191026328518656.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'lucasacostak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5019023491514368/6317573567463424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5019023491514368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2169215903544215854815202'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Kristen WANG', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5296115688980480/4566579556958208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5296115688980480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1134188608691645814335838'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632/6179981807108096.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick/4793762590277632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'C1 김건우 2333044 cat Proj#1" partB', 
-      author: 'C1_2333044_김건우_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c1-2333044-cat-proj1-partb/5461874851495936/6504996477911040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c1-2333044-cat-proj1-partb/5461874851495936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_58924800850056409999719'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Natasha Jamima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5071585905262592/5649782086615040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5071585905262592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097317277104387736931075'
-    }, 
-    {
-      title: 'FIGHTINGFING', 
-      author: 'Viktoria Chaucer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000/5643972841357312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6375932344027056597811418'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Funky Frog"', 
-      author: 'Anushka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176/5015137854734336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4822462946367535300389133'
     }, 
   ];
 };
