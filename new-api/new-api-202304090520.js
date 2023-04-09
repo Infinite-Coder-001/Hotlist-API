@@ -685,33 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'yuto87', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320/5025967681880064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8865938477617134914922846'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Uma viagem perfeita"', 
-      author: 'Lucas Sacramento', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344/6565968739614720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
-    }, 
-    {
-      title: 'zeeshanzaman', 
-      author: 'zeeshanzaman343', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264/5278500304240640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
-    }, 
-    {
       title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
       author: 'Lucas Sacramento', 
       votes: 1, 
@@ -788,7 +761,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/5416700452585472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/4556724607696896.png', 
       link: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-rabbits-poem/6533843390873600/5652277093515264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-rabbits-poem/6533843390873600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_928016249951939597196315'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'soph', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983696244654080/5974460609118208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983696244654080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8802002556793788375098296'
+    }, 
+    {
+      title: '--', 
+      author: 'Lime Code alt(LC alt)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/6723167596101632/5664671765151744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/6723167596101632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_493857095510606696542826'
+    }, 
+    {
+      title: '-project2-', 
+      author: 'Lime Code alt(LC alt)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-project2-/5851374261944320/4542173875060736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-project2-/5851374261944320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_493857095510606696542826'
     }, 
   ];
 };
