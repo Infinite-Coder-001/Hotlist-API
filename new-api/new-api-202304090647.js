@@ -658,24 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'h.alkhalifa.2725', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5566425965314048/6338864424992768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5566425965314048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496609189950586172778052'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'migellois', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704/5546117581553664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5291182583496704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_752576844923901914530651'
-    }, 
-    {
       title: 'Spin-off of "Challenge: SmileyFace"', 
       author: 'Raquel', 
       votes: 1, 
@@ -725,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia Productions🎥', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840/6173504996425728.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840/5549219420356608.png', 
       link: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264/5278500304240640.png', 
       link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/4727500170379264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
+    }, 
+    {
+      title: 'Program', 
+      author: 'pho0008', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program/5477188993597440/5322302641455104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program/5477188993597440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979381385179357914875314'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Sua lista de aprendizagem"', 
+      author: 'Lucas Sacramento', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128/4735160580096000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-sua-lista-de-aprendizagem/6660092914352128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
     }, 
   ];
 };
