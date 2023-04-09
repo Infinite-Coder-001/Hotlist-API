@@ -631,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'FIGHTINGFING', 
+      author: 'Viktoria Chaucer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000/6472040690532352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fightingfing/4741569476608000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6375932344027056597811418'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Funky Frog"', 
       author: 'Anushka', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6294811046100992/6126464736215040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6294811046100992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5032349951196792549842172'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'robertojapzon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6065680144449536/6103068908503040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6065680144449536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1172062833426633873013062'
     }, 
   ];
 };
