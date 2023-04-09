@@ -649,6 +649,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'bea.rojas.ar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976/5705296485072896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_301721790698032383607083'
+    }, 
+    {
+      title: 'KOREAN MEAL', 
+      author: 'Lalisa', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376/6263144856207360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'sup bruh', 
       votes: 1, 
@@ -716,13 +734,13 @@ var LoadHotlistAPI = function() {
       author: 'Velvet Faith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/4721467486158848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/6139066304479232.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
     {
       title: 'Inspirováno programem "Projekt: návrh databáze obchodu" - uzavření 1. kapitoly', 
-      author: 'vendulakotikova', 
+      author: 'Vendula', 
       votes: 1, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu-uzaven-1-kapitoly/5397165364264960/5381516751585280.png', 
@@ -860,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'Coding Class', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5893824510738432/6483689010937856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5893824510738432/5726927852978176.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5893824510738432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333911960273103577141147'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5225701780537344/4798589328211968.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5225701780537344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_121841600173593532949918'
-    }, 
-    {
-      title: 'broken game have fun i guess', 
-      author: 'god', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-game-have-fun-i-guess/6615819116396544/4592199909294080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/broken-game-have-fun-i-guess/6615819116396544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_148317511408888117339461'
-    }, 
-    {
-      title: '"პროექტი: ვარვსკლავთცვენა"-ის სპინ-ოფები', 
-      author: 'Demetre Shaverdashvili', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/4953424040083456/6250584056578048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/4953424040083456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_308789058934632133197221'
     }, 
   ];
 };
