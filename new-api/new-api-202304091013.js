@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'Button 2.0 (Out!)', 
-      author: 'MyGuy!', 
-      votes: 48, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
       title: 'The safest button in the world 🌎.', 
       author: 'Xander', 
       votes: 9, 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504/4639161752797184.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-1/5058575711125504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Button 2.0 (Out!)', 
+      author: 'MyGuy!', 
+      votes: 47, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'help the sky is falling', 
@@ -631,33 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'isaacmendez201919', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6343721328361472/5077327471230976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6343721328361472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_168425555990166703616885'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Natasha Jamima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081778520735744/5705596193259520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6081778520735744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097317277104387736931075'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'raq17fer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5918900979286016/5314950395641856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5918900979286016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_702044193862628990268573'
-    }, 
-    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'jmlsnbscgn', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048/5304217121374208.png', 
       link: 'https://www.khanacademy.org/computer-programming/youtube-view-bot/5035725398786048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_328803883146354680833891'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'samiraaugas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6137548167757824/5900397790412800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6137548167757824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_807630811148271850053838'
+    }, 
+    {
+      title: '*Evening STAR!!*', 
+      author: 'Lalisa', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/evening-star/6752812701892608/6083970866659328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/evening-star/6752812701892608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'alwin10901', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5516795034517504/4986876365946880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5516795034517504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5032349951196792549842172'
     }, 
   ];
 };
