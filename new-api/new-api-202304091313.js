@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Øɱɑɼ Ħ.', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5528034863267840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5393052027109376.png', 
       link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
@@ -631,24 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'danielsantiago0621', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6232174706868224/6441942969008128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6232174706868224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815092156484342741196948'
-    }, 
-    {
-      title: 'Derivação de "Colorindo com código"', 
-      author: 'jesilva92', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-colorindo-com-cdigo/5804069525700608/4847577523863552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-colorindo-com-cdigo/5804069525700608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217298812015793939913494'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
       author: 'calebayers94', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176/5015137854734336.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4822462946367535300389133'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Chidera Alinnor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5995585573535744/5027831798349824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5995585573535744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_402334123685619012449269'
+    }, 
+    {
+      title: 'CV By Haoyu Zhan', 
+      author: 'haoyu.zhan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cv-by-haoyu-zhan/5515015139672064/4578652508700672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cv-by-haoyu-zhan/5515015139672064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1183778116354144119929477'
     }, 
   ];
 };
