@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 46, 
+      votes: 45, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 29, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 34, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -631,42 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
-      title: 'seznam', 
-      author: 'lenka blazkova', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/seznam/5120233020112896/5899140338073600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/seznam/5120233020112896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4139042921238895166744390'
-    }, 
-    {
-      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
-      author: 'raphael.simoes', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4520979318751232/4613248604487680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/4520979318751232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7090377953697226377132278'
-    }, 
-    {
-      title: '🌸🌿 ~ Vacation ~ 🌹☁', 
-      author: '[00kies+[re@m', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vacation/5439582729715712/5047946539483136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vacation/5439582729715712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_889203482049015335235926'
-    }, 
-    {
-      title: 'Pizza', 
-      author: 'virajsinghd1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/6299844915544064/6072431027732480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza/6299844915544064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_730584834147067555103884'
-    }, 
-    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'jairo.marcano.castillo', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
       link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Proyecto SQL', 
+      author: 'pedromzj1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-sql/4730345082896384/5704349411229696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-sql/4730345082896384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_68219861958017645233758'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Anuj Kumar Maurya', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5178285475807232/5899600201564160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5178285475807232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_530500313425347299717828'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'moisesbetancourth888', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5711699274678272/5928431025176576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5711699274678272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2010633518592340956385903'
+    }, 
+    {
+      title: '- The Red Cardinal - What song should put in it?(only songs before 1999)', 
+      author: 'Xiøn😋🤩', 
+      votes: 31, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096/5965162407575552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-the-red-cardinal-what-song-should-put-in-itonly-songs-before-1999/5366505459204096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
