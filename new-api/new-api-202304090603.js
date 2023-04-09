@@ -685,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152270171676202043618888'
     }, 
     {
+      title: 'Launching', 
+      author: 'ranjit nair', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/launching/6054565809274880/5899181073154048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/launching/6054565809274880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_789613259443256460285826'
+    }, 
+    {
       title: 'Spin-off of "Enemys!!"', 
       author: 'Ean Gunter', 
       votes: 1, 
@@ -779,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Dark Flame', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904/5183658177904640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904/4662497551630336.png', 
       link: 'https://www.khanacademy.org/computer-programming/bullet-logic/6529902322171904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366204824922932552306571'
     }, 
@@ -842,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/4653299040305152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824/5058653121200128.png', 
       link: 'https://www.khanacademy.org/computer-programming/title-here/6464808737357824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-will-be-a-successful-ceo/5882949653544960/5357647303065600.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-will-be-a-successful-ceo/5882949653544960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47754005599021234150397'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Elkin José Rivera Gáleas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4796139921784832/4760514174697472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4796139921784832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_237403838291072411752416'
     }, 
   ];
 };
