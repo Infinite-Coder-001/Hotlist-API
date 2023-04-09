@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 40, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
       votes: 33, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
       link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5653985672609792.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 58, 
+      votes: 57, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -685,60 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1175163702554448988550558'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Luana Gomez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6594428098887680/5039679130091520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6594428098887680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280836983855169603494366'
-    }, 
-    {
-      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
-      author: 'Vy Vo Ly', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480/5701991977500672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_396427101044060827403030'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'lorenzomiraflores', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6655891618447360/4612724702363648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6655891618447360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_184216047420263253465467'
-    }, 
-    {
-      title: 'Subpage 3.0', 
-      author: '㆜ԋҽ Cᥙɾടҽԃ ㆜σɯҽɾ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-30/5923607491690496/6339601548754944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage-30/5923607491690496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_557982554352365840904427'
-    }, 
-    {
-      title: 'Magic Pendulum!', 
-      author: 'shwetamalhotra1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magic-pendulum/6235539591446528/5052381227433984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magic-pendulum/6235539591446528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_896376388396380190383655'
-    }, 
-    {
-      title: 'Creating a table and inserting data', 
-      author: 'kody.jeppsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/6388538406125568/5207017716498432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/creating-a-table-and-inserting-data/6388538406125568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
-    }, 
-    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'caydenepopan', 
       votes: 1, 
@@ -770,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Clark Kent (offline)', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384/5080581311610880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384/5183493392089088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-maker/4992057069584384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-favorite-foods-yum/5406471484653568/6186923212455936.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-favorite-foods-yum/5406471484653568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_676397092416182605055722'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'jovstudios2020', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6081170782863360/5119672493326336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6081170782863360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6240268915126197174526189'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'BenJCollette46', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5168032583565312/5966617562628096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5168032583565312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1063627232584338918568814'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'eefan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5759476323106816/4814195226099712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5759476323106816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_37230863358220792216086'
+    }, 
+    {
+      title: 'PlayingWithKeys', 
+      author: 'shubhangiwakodikar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/playingwithkeys/5269159903805440/5604760561696768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/playingwithkeys/5269159903805440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_568401631079470163863878'
+    }, 
+    {
+      title: 'Simple Poem I guess...', 
+      author: 'Benjamin Perez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-poem-i-guess/5764338058313728/5612835804856320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/simple-poem-i-guess/5764338058313728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_57394903207728215962093'
+    }, 
+    {
+      title: 'Terraria lighting WIP', 
+      author: 'StuffStash', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944/5445334596894720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
   ];
 };
