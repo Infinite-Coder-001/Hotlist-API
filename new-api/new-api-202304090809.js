@@ -658,51 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
-      title: 'Elastic', 
-      author: 'Madd Sam', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872/5177486846771200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/elastic/4844763481423872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1040288104253201294464711'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'MIREIA LUQUE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6103007591972864/5253612524847104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6103007591972864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3934112294958732646121897'
-    }, 
-    {
-      title: 'SQL', 
-      author: 'shlok.mayur.o', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sql/5634328391630848/6054402365636608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sql/5634328391630848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_37668261147957205612058'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'pab.b.1173', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6256554899980288/5664475673051136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6256554899980288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4570126850153295347728859'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Petrus Gabriel anak Dana', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4592659873447936/6307111027130368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4592659873447936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2334238234351936527336178'
-    }, 
-    {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Cheten Gurung', 
       votes: 1, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104/5847838765662208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_492383793970081009105761'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'Luke Durbin', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5889734359695360/6351830079815680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5889734359695360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_775913196296051125033537'
+    }, 
+    {
+      title: 'Iceland', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840/6173504996425728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'walsrahman.of', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6318785150894080/5316935777828864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6318785150894080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2392432370289745707784812'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'l.guino-', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6565022202642432/6749025178271744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6565022202642432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_132196957684490530730093'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'l.guino-', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5385651127369728/6190572290490368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5385651127369728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_132196957684490530730093'
     }, 
   ];
 };
