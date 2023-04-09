@@ -631,11 +631,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
     {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Denis  Mutethia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5660402534105088/5102590535974912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5660402534105088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2334082786737744936860514'
+    }, 
+    {
       title: 'Nice Match!!!', 
       author: 'Konsih', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-match/4947398704283648/5663397065834496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nice-match/4947398704283648/6222187343429632.png', 
       link: 'https://www.khanacademy.org/computer-programming/nice-match/4947398704283648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_750908179011135923142518'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/netflix-ad/6406774837264384/6035742511120384.png', 
       link: 'https://www.khanacademy.org/computer-programming/netflix-ad/6406774837264384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2907874639159405185449702'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Stallion"', 
-      author: 'felipe.oh97', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-stallion/4743480938381312/4899185314021376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-stallion/4743480938381312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_856385350248443296925407'
     }, 
   ];
 };
