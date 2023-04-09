@@ -658,20 +658,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'kody.jeppsen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983690741727232/5203380365737984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4983690741727232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
-    }, 
-    {
       title: 'Finland', 
       author: 'Hibernia Productions🎥', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5966840515051520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5685678584414208.png', 
       link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320/5025967681880064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5733728229048320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8865938477617134914922846'
+    }, 
+    {
+      title: 'Derivação de "Desafio: Uma viagem perfeita"', 
+      author: 'Lucas Sacramento', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344/6565968739614720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-uma-viagem-perfeita/6280707648569344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6738952131683880623344330'
     }, 
   ];
 };
