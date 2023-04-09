@@ -469,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Two Kingdoms at War', 
+      author: 'Wort-Head', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672/4974701878493184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/two-kingdoms-at-war/6120050840092672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
       title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
       author: 'Shashwat  Shubham', 
       votes: 6, 
@@ -685,11 +694,56 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1139044668480656168127459'
     }, 
     {
+      title: 'New program', 
+      author: 'YokieBob', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344/4753640347975680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5270337563705344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
+    }, 
+    {
+      title: 'ddsdf', 
+      author: 'shivamsuri7584', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ddsdf/6047133536141312/6035900384722944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ddsdf/6047133536141312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_890796139984205473224532'
+    }, 
+    {
+      title: 'First Project - Making Table & Adding Values', 
+      author: 'Guillermo Lezama', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440/5421000788590592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_931584047137397643291863'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'sara osorto', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5821263470968832/6134074914947072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5821263470968832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_448964169588906309497078'
+    }, 
+    {
+      title: 'Work in progress: Kandinsky Shapes!!', 
+      author: 'LilaSpring', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-kandinsky-shapes/4801093529026560/5133768810872832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-kandinsky-shapes/4801093529026560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_80943831788345507277522'
+    }, 
+    {
       title: 'Plants Vs. Zombies_Zombie', 
       author: 'noambustosherrera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824/5029756681895936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824/5025738538663936.png', 
       link: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9226067376489341613825870'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/danny-place/6254441994174464/5868471889215488.png', 
       link: 'https://www.khanacademy.org/computer-programming/danny-place/6254441994174464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1003870435544286551005356'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Pérez Montoya Miguel Ángel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5375906031124480/5015519234408448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5375906031124480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_196229757826509244670576'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Lianet Martin', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4576453971984384/6657861611732992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4576453971984384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7564390135445176984137280'
-    }, 
-    {
-      title: 'Warm Up', 
-      author: 'breanna.tognoli', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/warm-up/4931624967127040/5934619670396928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/warm-up/4931624967127040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_495611017601304242857344'
-    }, 
-    {
-      title: 'New program', 
-      author: 'kaidenchou', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6661719331225600/6004197788270592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6661719331225600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1066819179610607291696079'
-    }, 
-    {
-      title: 'plexers', 
-      author: 'Aspen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plexers/4692913536942080/5415819178983424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/plexers/4692913536942080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'samantha', 
-      author: 'Tanvi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/samantha/5170057492873216/5041673169321984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/samantha/5170057492873216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_136409467783305773544230'
     }, 
   ];
 };
