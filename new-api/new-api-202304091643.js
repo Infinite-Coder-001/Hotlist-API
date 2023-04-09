@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Edge Detection?', 
       author: 'Manta', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4626114615230464.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
-      votes: 66, 
+      votes: 67, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
@@ -631,13 +631,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
-      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
-      author: 'chunyingchen2', 
+      title: 'Spin-off di "Sfida: Creatura colorata"', 
+      author: 'Lisa Toppano', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/5584489725345792/5115856112893952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/5584489725345792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-creatura-colorata/5968287868698624/5265982701748224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-creatura-colorata/5968287868698624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5230149866272970851915696'
+    }, 
+    {
+      title: 'Crossroads Church logo', 
+      author: 'CameraBugAFM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crossroads-church-logo/5950854160236544/5565066876600320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crossroads-church-logo/5950854160236544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
+    }, 
+    {
+      title: 'Project: Animal attack', 
+      author: 'Aaditri Hazarika', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5205092279304192/5459968624214016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5205092279304192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594548015768630982632636'
     }, 
     {
       title: 'Derivado de "Desafío: dientes de conejo"', 
@@ -649,12 +667,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_303822575938083509142795'
     }, 
     {
-      title: 'New program', 
+      title: 'Yellow submarine', 
       author: 'Smriti07', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5869115752628224/5599988030947328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5869115752628224', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yellow-submarine/5869115752628224/6215663388770304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yellow-submarine/5869115752628224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1076857634039201804110705'
     }, 
     {
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4953325020954624/5760154189742080.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/4953325020954624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_857598256635924156393545'
-    }, 
-    {
-      title: 'click drag', 
-      author: 'mason', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-drag/6356550462783488/5446974334877696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-drag/6356550462783488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_389358931112570988892244'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'bea.rojas.ar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976/5705296485072896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_301721790698032383607083'
     }, 
   ];
 };
