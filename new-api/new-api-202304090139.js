@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: 'Viper', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5687654269370368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5548349454598144.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
     }, 
@@ -73,6 +73,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'The worst jokes ever. Part 2!', 
+      author: 'MyGuy!', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
+      title: 'Sprites for an Upcoming Game', 
+      author: 'Øɱɑɼ Ħ.', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5804414532370432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
+    }, 
+    {
       title: 'Speed Math (Pre-release)', 
       author: 'InvisibleCat123', 
       votes: 14, 
@@ -82,13 +100,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'The worst jokes ever. Part 2!', 
-      author: 'MyGuy!', 
+      title: 'The safest button in the world 🌎.', 
+      author: 'Xander', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416/5427004783771648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever-part-2/6076357668028416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'Button 2.0 (Out!)', 
@@ -98,24 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
-    }, 
-    {
-      title: 'Sprites for an Upcoming Game', 
-      author: 'Øɱɑɼ Ħ.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5804414532370432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
-    }, 
-    {
-      title: 'The safest button in the world 🌎.', 
-      author: 'Xander', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256/4659191735435264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-safest-button-in-the-world/5227635891552256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'help the sky is falling', 
@@ -199,6 +199,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
+      title: 'Lyrics for Addie', 
+      author: 'cjcool', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'Game tests ^2^', 
+      author: 'Sheoldred, the Apocalypse', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
       title: 'The Earth Is Breaking Open', 
       author: '✝︎ Volatile ✝︎', 
       votes: 9, 
@@ -262,15 +280,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
-      title: 'Lyrics for Addie', 
-      author: 'cjcool', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040/4966523790999552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lyrics-for-addie/6042696096727040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: ' - BlackBird Singing In The Dead Of Night -', 
       author: 'Xiøn😋🤩', 
       votes: 22, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
-    }, 
-    {
-      title: 'Game tests ^2^', 
-      author: 'Sheoldred, the Apocalypse', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
       title: 'Happy Easter! 🐇', 
@@ -685,6 +685,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'nicholashsu005', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5306706440798208/6160723274416128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5306706440798208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_936693797058917232320645'
+    }, 
+    {
+      title: 'Derivação de "Projeto: O que temos para o Jantar?"', 
+      author: 'maria.stecanella.silva', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4560898523185152/5571526272532480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-o-que-temos-para-o-jantar/4560898523185152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_562027871760435164889458'
+    }, 
+    {
+      title: 'Derivado de "Tablas en HTML"', 
+      author: 'zunigacarcamomercedeselizabeth', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4660034186559488/6301723091320832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-tablas-en-html/4660034186559488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_205597424587001293793246'
+    }, 
+    {
       title: 'First step-Beemo', 
       author: 'C2_2333001_안새빈_SE2023', 
       votes: 19, 
@@ -833,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Amwong213010', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card-alexander-wong/4681839601303552/5003754547232768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card-alexander-wong/4681839601303552/5298113352089600.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card-alexander-wong/4681839601303552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2819753993826862919377118'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440/5421000788590592.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-project-making-table-adding-values/6294659367485440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_931584047137397643291863'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'sara osorto', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5821263470968832/6134074914947072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5821263470968832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_448964169588906309497078'
-    }, 
-    {
-      title: 'Work in progress: Kandinsky Shapes!!', 
-      author: 'LilaSpring', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/work-in-progress-kandinsky-shapes/4801093529026560/5133768810872832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/work-in-progress-kandinsky-shapes/4801093529026560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_80943831788345507277522'
-    }, 
-    {
-      title: 'Plants Vs. Zombies_Zombie', 
-      author: 'noambustosherrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824/6569282394963968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/plants-vs-zombies_zombie/6588519733837824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9226067376489341613825870'
     }, 
   ];
 };
