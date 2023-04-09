@@ -631,6 +631,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Spin-off of "Challenge: Funky Frog"', 
+      author: 'Anushka', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176/5015137854734336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/4609342969266176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4822462946367535300389133'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Chidera Alinnor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5995585573535744/5027831798349824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5995585573535744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_402334123685619012449269'
+    }, 
+    {
       title: 'Netflix ad', 
       author: 'shaikh.abdulrahman2012', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6065680144449536/6103068908503040.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6065680144449536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1172062833426633873013062'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'Loki', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4939565053034496/4931193759121408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4939565053034496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1113121319899276404796293'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Wishlist"', 
-      author: 'pab.b.1173', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560/5476500255326208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/5357405040066560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4570126850153295347728859'
     }, 
   ];
 };
