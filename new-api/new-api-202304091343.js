@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'hand', 
       author: 'Green Ghost', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Happy Easter', 
+      author: 'AnonymousX', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024/4815027074023424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2791751585399590703400449'
+    }, 
+    {
       title: 'help the sky is falling', 
       author: 'NIKO Ψ', 
       votes: 66, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5897044662468608.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Happy Easter', 
-      author: 'AnonymousX', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024/4815027074023424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-easter/6603672915329024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2791751585399590703400449'
     }, 
     {
       title: 'Lightning Platformer Demo', 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_675498230869683326093300'
     }, 
     {
+      title: 'Sweden', 
+      author: 'Hibernia Productions🎥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296/6471492612440064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
       title: ' - BlackBird Singing In The Dead Of Night -', 
       author: 'Xiøn😋🤩', 
       votes: 22, 
@@ -377,6 +386,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
+      title: 'Finland', 
+      author: 'Hibernia Productions🎥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5966840515051520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Iceland', 
+      author: 'Hibernia Productions🎥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840/6173504996425728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Norway', 
+      author: 'Hibernia Productions🎥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776/5122124516999168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Maldives Flag', 
+      author: 'Hibernia Productions🎥', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664/5131760599089152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Smash mouth ALL STAR lyrics', 
@@ -559,6 +604,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'New program', 
+      author: 'Fireball my dear sir ✝ #CinisFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488/5900716960169984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4598658936127488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
       title: 'Human Eye : Power of Accommodation (Optics of Human Eye)', 
       author: 'Shashwat  Shubham', 
       votes: 6, 
@@ -620,6 +674,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-1/5047008592445440/6380004977197056.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-tests-1/5047008592445440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'chunyingchen2', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5236225373159424/4635042107408384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/5236225373159424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
+    }, 
+    {
+      title: 'Spin-off of "Making animations"', 
+      author: 'sanuabeysekara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6108155995275264/6716294830538752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6108155995275264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3290289389941648718023724'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'mat zada', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5225701780537344/4798589328211968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5225701780537344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_121841600173593532949918'
     }, 
     {
       title: '"პროექტი: ვარვსკლავთცვენა"-ის სპინ-ოფები', 
@@ -775,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1134188608691645814335838'
     }, 
     {
-      title: 'Sweden', 
-      author: 'Hibernia Productions🎥', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296/6471492612440064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 1, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5350410249617408/6527705513508864.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5350410249617408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_642780963361157042047231'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ling.lange39', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336/6306945167572992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4671972484366336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_239684247836613370583806'
-    }, 
-    {
-      title: 'Snes Controller', 
-      author: 'The Multiverse Hero [TMH]', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640/5921372967845888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_523988888981336150053758'
-    }, 
-    {
-      title: 'KOREAN MEAL', 
-      author: 'Lalisa', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376/6263144856207360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
-    }, 
-    {
-      title: 'C2 윤종국 2333036 Hippopotamus Project1 B', 
-      author: 'C2_2333036_윤종국_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520/4930354445336576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1-b/5163176217067520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_91001902368665568546714'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Data Mining"', 
-      author: 'kacper.wilusz.07', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5995272900755456/5397625076760576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-data-mining/5995272900755456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_541719121496726551345467'
-    }, 
-    {
-      title: 'Новая программа', 
-      author: 'savashinski2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4544081679400960/5068651050090496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/4544081679400960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_857598256635924156393545'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'anandkaurav8', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6705919611420672/6742533804965888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6705919611420672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1019019543090449979218932'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'mammuluraj', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6379210307584000/4901074092998656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6379210307584000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_354091258950508535860003'
     }, 
   ];
 };
