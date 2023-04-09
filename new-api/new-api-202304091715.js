@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
-      votes: 48, 
+      votes: 49, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752/5313080977571840.png', 
       link: 'https://www.khanacademy.org/computer-programming/button-20-out/6141930510794752', 
@@ -541,6 +541,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
+      title: 'its my b-day!', 
+      author: 'the Knight_400', 
+      votes: 54, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'New program', 
       author: 'YokieBob', 
       votes: 5, 
@@ -557,15 +566,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/multivariable-calculus-apparently/6268219024523264/5509427521437696.png', 
       link: 'https://www.khanacademy.org/computer-programming/multivariable-calculus-apparently/6268219024523264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'its my b-day!', 
-      author: 'the Knight_400', 
-      votes: 53, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472/4597612763463680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-my-b-day/5696196812521472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Remember this:', 
@@ -631,6 +631,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
+      title: 'Extra small projects', 
+      author: 'Com', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320/4936023214964736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'bkimbrow25', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4661651493404672/6249814988996608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4661651493404672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9926154232630780892968489'
+    }, 
+    {
+      title: 'LunaTC\'s Subpage', 
+      author: 'LunaTC', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lunatcs-subpage/5084147510198272/5907897742835712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lunatcs-subpage/5084147510198272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
+    }, 
+    {
       title: 'Derivado de "Proyecto: libro de recetas"', 
       author: 'Pérez Montoya Miguel Ángel', 
       votes: 1, 
@@ -653,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'CameraBugAFM', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/5897919124520960.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/5098743184801792.png', 
       link: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
     }, 
@@ -725,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'flutefruit', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon/6299379784007680/6095994896039936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dragon/6299379784007680/5901160516206592.png', 
       link: 'https://www.khanacademy.org/computer-programming/dragon/6299379784007680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8345040057281136994412'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/vacation/5439582729715712/5047946539483136.png', 
       link: 'https://www.khanacademy.org/computer-programming/vacation/5439582729715712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_889203482049015335235926'
-    }, 
-    {
-      title: 'Pizza', 
-      author: 'virajsinghd1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/6299844915544064/6072431027732480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza/6299844915544064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_730584834147067555103884'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'jairo.marcano.castillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4783188515012608/5898677253357568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/4783188515012608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_303822575938083509142795'
-    }, 
-    {
-      title: 'Spin-off di "Sfida: Un perfetto viaggio con le immagini"', 
-      author: 'Lisa Toppano', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-un-perfetto-viaggio-con-le-immagini/5270461077569536/4694332889415680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-un-perfetto-viaggio-con-le-immagini/5270461077569536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5230149866272970851915696'
     }, 
   ];
 };
