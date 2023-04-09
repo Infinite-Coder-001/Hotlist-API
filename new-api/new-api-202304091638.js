@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Skeleton Pixel Art [Animated]', 
       author: 'Arrow.programming', 
-      votes: 38, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5653985672609792.png', 
       link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
@@ -631,33 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
-      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
-      author: 'chunyingchen2', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/5584489725345792/5115856112893952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/5584489725345792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3351973611663242638791871'
-    }, 
-    {
-      title: 'Derivado de "Desafío: dientes de conejo"', 
-      author: 'jairo.marcano.castillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-dientes-de-conejo/5986377163653120/5468866554937344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-dientes-de-conejo/5986377163653120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_303822575938083509142795'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Smriti07', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5869115752628224/5599988030947328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5869115752628224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1076857634039201804110705'
-    }, 
-    {
       title: 'seznam', 
       author: 'lenka blazkova', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976/5705296485072896.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6470574596734976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_301721790698032383607083'
+    }, 
+    {
+      title: 'KOREAN MEAL', 
+      author: 'Lalisa', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376/6263144856207360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/korean-meal/6354495555813376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'sup bruh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5513752486395904/6559786268409856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5513752486395904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_662518035850871726882396'
+    }, 
+    {
+      title: 'Spotlights', 
+      author: 'Dojo Cat', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648/4574780125921280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spotlights/5216966622363648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
   ];
 };
