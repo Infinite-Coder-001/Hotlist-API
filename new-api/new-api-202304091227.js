@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'The Earth Is Breaking Open', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'pixel art maker.', 
       author: 'Clark Kent (offline)', 
       votes: 4, 
@@ -208,13 +199,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
-      title: 'USDA Organic Logo', 
-      author: 'Joe H', 
-      votes: 9, 
+      title: 'The Earth Is Breaking Open', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/6358473702162432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
       title: 'Prince Cjcool', 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'USDA Organic Logo', 
+      author: 'Joe H', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/6358473702162432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'Flappy Lemon', 
@@ -532,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Among us dude', 
-      author: 'BB13', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392/5779769036947456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/among-us-dude/5916164380475392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_282607126365345136576815'
-    }, 
-    {
       title: 'Egypt Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 5, 
@@ -640,24 +631,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1152620490185361154142770'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'aldrinxhani902', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6017047525113856/5891335845625856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6017047525113856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_658150025173415047781857'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'Gowthami S', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4555237823397888/5449074003460096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/4555237823397888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_843985862869100298532849'
-    }, 
-    {
       title: 'Spin-off of "Resizing shapes with variable expressions"', 
       author: 'Kristen WANG', 
       votes: 1, 
@@ -671,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia Productions🎥', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296/6471492612440064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296/5100705682866176.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -698,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'Samarth Balyan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-reviews/5788646365249536/5987372119670784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-reviews/5788646365249536/5791676464676864.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-reviews/5788646365249536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_531025659918333914111961'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5918900979286016/5314950395641856.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5918900979286016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_702044193862628990268573'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'jmlsnbscgn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6551998586732544/6344586697162752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6551998586732544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683398702697494571283102'
+    }, 
+    {
+      title: 'Ranking najlepszych produkcji filmowych ', 
+      author: 'Gąszczak Emilia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ranking-najlepszych-produkcji-filmowych/4729701341118464/4871789986758656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ranking-najlepszych-produkcji-filmowych/4729701341118464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_967374454915770030776114'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
+      author: 'Wojciech Ważny', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/4733383839367168/4962766097268736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/4733383839367168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3675801264551587150590781'
     }, 
   ];
 };
