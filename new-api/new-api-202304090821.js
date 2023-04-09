@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1160835626172223802401364'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'OLAMILEKAN', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5733409092845568/6093779145900032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5733409092845568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_418465275387599561268421'
+    }, 
+    {
       title: 'Elastic', 
       author: 'Madd Sam', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064/5405214535630848.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6177677422936064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2334238234351936527336178'
-    }, 
-    {
-      title: 'Spin-off of "Just toys but not complete"', 
-      author: 'myatnoee377', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104/5847838765662208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-just-toys-but-not-complete/5022124692783104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_492383793970081009105761'
     }, 
   ];
 };
