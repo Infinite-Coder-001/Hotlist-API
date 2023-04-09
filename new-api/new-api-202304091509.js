@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'My Best Product', 
+      author: '🎵UltraUltronDJ🎵', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
+    }, 
+    {
       title: 'its a game', 
       author: 'vineskylek', 
       votes: 39, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808/6248296550285312.png', 
       link: 'https://www.khanacademy.org/computer-programming/-blackbird-singing-in-the-dead-of-night-/6286010993655808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
-    }, 
-    {
-      title: 'My Best Product', 
-      author: '🎵UltraUltronDJ🎵', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968/6374827662557184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-best-product/4577406901075968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_894440730327404178034537'
     }, 
     {
       title: 'New program', 
@@ -658,6 +658,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Proyecto SQL', 
+      author: 'pedromzj1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-sql/4730345082896384/5704349411229696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-sql/4730345082896384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_68219861958017645233758'
+    }, 
+    {
       title: 'Spin-off of "Project: Shooting star"', 
       author: 'Anuj Kumar Maurya', 
       votes: 1, 
@@ -698,7 +707,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet Faith', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/4843457161248768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464/4535446312108032.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/5103501907902464', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6705917275655809141293315'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824/4778905291767808.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6587395660365824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2334429952425591667057689'
-    }, 
-    {
-      title: 'New program', 
-      author: 'YokieBob', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5191026328518656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
   ];
 };
