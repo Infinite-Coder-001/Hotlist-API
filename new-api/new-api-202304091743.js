@@ -1,27 +1,27 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'hand', 
-      author: 'Green Ghost', 
-      votes: 31, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 47, 
+      votes: 46, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6582397291511808.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'hand', 
+      author: 'Green Ghost', 
+      votes: 29, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272/6455904431292416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hand/4675697798070272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/5411253695856640.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
-      title: 'reclaim the rainbow', 
-      author: 'CameraBugAFM', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/5098743184801792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
-    }, 
-    {
       title: 'Flappy Lemon', 
       author: 'Wort-Head', 
       votes: 16, 
@@ -442,15 +433,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Penguin Pixel Art', 
-      author: 'cjcool', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208/4614948035805184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'Maldives Flag', 
       author: 'Hibernia Productions🎥', 
       votes: 2, 
@@ -548,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5434885880987648/6183123810566144.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5434885880987648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Penguin Pixel Art', 
+      author: 'cjcool', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208/4614948035805184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'buffalo chicken wings', 
@@ -658,33 +649,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_654437274411082980120980'
     }, 
     {
-      title: 'The Elysian Fields', 
-      author: 'crazypandagirl114', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-elysian-fields/6352667107704832/5686214213812224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-elysian-fields/6352667107704832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1077570342982614725680741'
-    }, 
-    {
-      title: 'My FavBooks', 
-      author: 'Raj Sharma', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-favbooks/6675351926521856/5723677825220608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-favbooks/6675351926521856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3819384559373405589959978'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Spadająca gwiazda"', 
-      author: 'Maja Lewicka', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5737232922361856/5571197338435584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-spadajca-gwiazda/5737232922361856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2900625936265955978746358'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database" Viv\'s Nail Store', 
       author: 'vivienolaore12', 
       votes: 1, 
@@ -743,9 +707,18 @@ var LoadHotlistAPI = function() {
       author: 'Akane Eguchi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4622417369808896/5181239004020736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4622417369808896/5869950800805888.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4622417369808896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_830303997163485598040397'
+    }, 
+    {
+      title: 'reclaim the rainbow', 
+      author: 'CameraBugAFM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/5098743184801792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
     }, 
     {
       title: 'Spin-off of "HTML tables"', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-creatura-colorata/5968287868698624/5265982701748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-creatura-colorata/5968287868698624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5230149866272970851915696'
+    }, 
+    {
+      title: 'Crossroads Church logo', 
+      author: 'CameraBugAFM', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crossroads-church-logo/5950854160236544/6262257073045504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crossroads-church-logo/5950854160236544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
+    }, 
+    {
+      title: 'Project: Animal attack', 
+      author: 'Aaditri Hazarika', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5205092279304192/5459968624214016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/project-animal-attack/5205092279304192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_594548015768630982632636'
+    }, 
+    {
+      title: 'Derivado de "Desafío: dientes de conejo"', 
+      author: 'jairo.marcano.castillo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-dientes-de-conejo/5986377163653120/5468866554937344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-dientes-de-conejo/5986377163653120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_303822575938083509142795'
     }, 
   ];
 };
