@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'reclaim the rainbow', 
+      author: 'CameraBugAFM', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/6668176613228544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
+    }, 
+    {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
       votes: 37, 
@@ -64,13 +73,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'reclaim the rainbow', 
-      author: 'CameraBugAFM', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424/6668176613228544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/reclaim-the-rainbow/4668687807463424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_257420950261792688494163'
+      title: 'Kitty Pool', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064/5156467645923328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Sprites for an Upcoming Game', 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336/5402741909536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/lighting-the-way/5298458895630336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Kitty Pool', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064/5156467645923328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'help the sky is spinning', 
@@ -595,6 +595,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'yairavalencia1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5035345977851904/6372855098163200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5035345977851904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42419746511870223501615'
+    }, 
+    {
+      title: 'Derivado de "Desafío: un viaje de ensueño"', 
+      author: 'astridniretvera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5815131985723392/5498918239780864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/5815131985723392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_584420517212658362115158'
+    }, 
+    {
       title: 'don\'t you dare click ', 
       author: 'LovelyPetals', 
       votes: 1, 
@@ -707,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'Brandon  Richards', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/richards-lab-07/5485235094732800/5697812403896320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/richards-lab-07/5485235094732800/5435176462368768.png', 
       link: 'https://www.khanacademy.org/computer-programming/richards-lab-07/5485235094732800', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2744218152097587625828169'
     }, 
@@ -734,7 +752,7 @@ var LoadHotlistAPI = function() {
       author: 'YokieBob', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5191026328518656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160/5282234488897536.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4780153046876160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681887786554114354822051'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-ball-says-ouch/6115790870069248/4894186710286336.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-ball-says-ouch/6115790870069248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_342761780892411944495296'
-    }, 
-    {
-      title: 'Fish tank', 
-      author: 'olienrachel', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-tank/4874464572784640/6014178050752512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-tank/4874464572784640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_494700132671368155707377'
-    }, 
-    {
-      title: 'Weird thing', 
-      author: 'Bernard', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/weird-thing/4505267254640640/4668066547154944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/weird-thing/4505267254640640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1165967923181282625046038'
     }, 
   ];
 };
