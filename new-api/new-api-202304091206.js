@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'MetaBalls', 
       author: 'Manta', 
-      votes: 24, 
+      votes: 25, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
@@ -653,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'The Multiverse Hero [TMH]', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640/5064562912313344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640/5582095046197248.png', 
       link: 'https://www.khanacademy.org/computer-programming/snes-controller/5197644084592640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_523988888981336150053758'
     }, 
