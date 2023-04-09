@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
     {
+      title: 'New program', 
+      author: 'wacko0908', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5099860413169664/6445939637403648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5099860413169664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_524616583859291357878014'
+    }, 
+    {
       title: 'Inspirováno programem "Projekt: návrh databáze obchodu" - uzavření 1. kapitoly', 
       author: 'vendulakotikova', 
       votes: 1, 
@@ -865,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2169215903544215854815202'
     }, 
     {
+      title: 'Spin-off of "Challenge Lined Paper"', 
+      author: 'N Saunders', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/5176779049582592/4978289069572096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/5176779049582592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_690902766894349144401274'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Kristen WANG', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6232174706868224/6441942969008128.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6232174706868224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815092156484342741196948'
-    }, 
-    {
-      title: 'Derivação de "Colorindo com código"', 
-      author: 'jesilva92', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-colorindo-com-cdigo/5804069525700608/4847577523863552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-colorindo-com-cdigo/5804069525700608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217298812015793939913494'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'calebayers94', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5345148713353216/6012373459845120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5345148713353216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5937576692858139314491451'
     }, 
   ];
 };
