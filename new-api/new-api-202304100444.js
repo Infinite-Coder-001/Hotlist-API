@@ -595,60 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'dinmhambetzapparbergen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5235288181096448/6052781200031744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5235288181096448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516697942919069849192165'
-    }, 
-    {
-      title: 'Platformer', 
-      author: 'Fritz Chaucer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platformer/5961616912072704/5229588222623744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platformer/5961616912072704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'umarkhudaiberdiev71', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5334684382052352/4985950565613568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5334684382052352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_297558918745404049094924'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: '26savroops5143', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5543530165747712/6025866787471360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5543530165747712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4894300395934692115088384'
-    }, 
-    {
-      title: 'Lab07', 
-      author: 'kimhcatherine', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab07/5865765086740480/5279446031712256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab07/5865765086740480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_211806678327709658932205'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'maajid.canada', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6631102824628224/5444262398574592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6631102824628224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1195699074365032875519174'
-    }, 
-    {
       title: 'MP5K', 
       author: 'apex', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6318326411476992/4608677450661888.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6318326411476992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_611755286149733393966937'
+    }, 
+    {
+      title: 'no one needs to see this', 
+      author: 'Sumayyah Soofi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-one-needs-to-see-this/6635907349528576/5090168718802944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-one-needs-to-see-this/6635907349528576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485722498966916711203722'
+    }, 
+    {
+      title: 'SQL Proyecto "diseña una base de datos de una tienda"', 
+      author: 'katevasquez.03', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-proyecto-disea-una-base-de-datos-de-una-tienda/5639056903159808/5110241768554496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql-proyecto-disea-una-base-de-datos-de-una-tienda/5639056903159808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125976372897684838655710'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Elmo Quezon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5546539796971520/5183662690975744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5546539796971520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
+    }, 
+    {
+      title: 'Funny Story', 
+      author: 'fast', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-story/4659632724557824/4690542178123776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/funny-story/4659632724557824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1077449746156652689215881'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'kaylamarie.blascruz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255023924920320/5276954866794496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255023924920320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_153556551076612764511112'
+    }, 
+    {
+      title: 'Lab Lesson #7 - Flying Text', 
+      author: 'rileycotton1', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4797968088875008/6421690973470720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4797968088875008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3908804888741813757610713'
     }, 
   ];
 };
