@@ -541,6 +541,78 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'New webpage', 
+      author: 'markel.jimenez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5395039355453440/4914294237216768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5395039355453440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_29890112903217357876765'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'zymzalabim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5152705254572032/5934926022361088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5152705254572032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
+    }, 
+    {
+      title: 'Pixel thing for my library (don\'t look)', 
+      author: 'stuffyGIF', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-thing-for-my-library-dont-look/6160794879574016/5055153981145088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-thing-for-my-library-dont-look/6160794879574016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_561255388830553592163845'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'aehenche', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6349383101890560/6187485416964096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6349383101890560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_778178553063379691359807'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'asromero', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5375306665082880/6440030836146176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5375306665082880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1157179736310193759081545'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: app imitadora"', 
+      author: 'Argimiro Cobo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6270421336113152/6115682690580480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6270421336113152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9394191535667877585837912'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: app imitadora"', 
+      author: 'Argimiro Cobo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6501462625796096/4757162355376128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6501462625796096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9394191535667877585837912'
+    }, 
+    {
+      title: 'Spin-off of "More complex queries with AND/OR"', 
+      author: 'amandamorancy5', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6230317884293120/4778647526621184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6230317884293120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2020773128923828674055837'
+    }, 
+    {
       title: 'Rotation + Bullets #TT', 
       author: 'Dominic R.', 
       votes: 64, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
-    }, 
-    {
-      title: '"გამოწვევა: მარტივი თოვლის კაცი"-ის სპინ-ოფები', 
-      author: 'besa85', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5804361247932416/6339109003247616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/5804361247932416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4223536564073242965469608'
-    }, 
-    {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'princessjoylarnaiz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5756226324709376/4678978112897024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5756226324709376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_877276436610742799545122'
-    }, 
-    {
-      title: 'Spin-off of "If Statements"', 
-      author: 'jimenezcristopher54', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-if-statements/4576385067958272/6242379964399616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-if-statements/4576385067958272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_801760623227884876039346'
-    }, 
-    {
-      title: 'Fish tank', 
-      author: 'ssamaelias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fish-tank/5797606271008768/6685583947907072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fish-tank/5797606271008768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_802490380798033802665705'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'algamez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5832584149123072/5583909032345600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5832584149123072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_341762898754293048083987'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'amamiguez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6294511707013120/6098982716882944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6294511707013120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1017630855983061193065844'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : construis une maison"', 
-      author: 'kévin mutte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-construis-une-maison/5290759462109184/6380457693593600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-construis-une-maison/5290759462109184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5787391717665997178217141'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'laurens.salvatori', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6260505565249536/6662436322328576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6260505565249536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8065807136792274099534041'
     }, 
   ];
 };
