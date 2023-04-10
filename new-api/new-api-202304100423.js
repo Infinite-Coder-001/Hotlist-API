@@ -604,76 +604,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
-      author: 'mariana.freitas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/5384545194262528/5836096694173696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/5384545194262528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_334143083272165360853482'
-    }, 
-    {
-      title: 'KingOfRpg', 
-      author: 'Fritz Chaucer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872/6057101316374528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'Arrow version', 
-      author: 'JustYELLShota', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrow-version/4799277865156608/4694240698613760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrow-version/4799277865156608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5970586565842512748176359'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: invitación a un evento"', 
-      author: 'iori', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5884685961183232/6086305902804992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5884685961183232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_24776835536441029213283'
-    }, 
-    {
-      title: 'The loyal following Circle', 
-      author: 'JustYELLShota', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-loyal-following-circle/6127318025420800/6665160204009472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-loyal-following-circle/6127318025420800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5970586565842512748176359'
-    }, 
-    {
-      title: 'Cute lil winston', 
-      author: 'JustYELLShota', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cute-lil-winston/4696356020338688/5750028686901248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cute-lil-winston/4696356020338688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5970586565842512748176359'
-    }, 
-    {
       title: 'Lab Assignment 7 - Flying Text', 
       author: 'Ellie O\'Neill', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-assignment-7-flying-text/4907799609131008/6391784428322816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-assignment-7-flying-text/4907799609131008/6162491861417984.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-assignment-7-flying-text/4907799609131008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
     }, 
     {
-      title: 'Rocket', 
-      author: 'shwetamalhotra1', 
+      title: 'Testing stuff', 
+      author: 'Toby', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rocket/6564067981705216/5363792327524352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rocket/6564067981705216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_896376388396380190383655'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/testing-stuff/5470011868364800/6101819005911040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/testing-stuff/5470011868364800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
     }, 
     {
       title: 'Iceland', 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5946162646663168/6341250514206720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5946162646663168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_532532200893637356020717'
+    }, 
+    {
+      title: 'Lab #7 - Flying Text', 
+      author: 'Zachary Thomas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/4587640868618240/4600007589412864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/4587640868618240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7498438946092092897749983'
+    }, 
+    {
+      title: 'meal', 
+      author: 'Aiden Baugh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meal/6408725020852224/5375184359178240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meal/6408725020852224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927936437339780574818446'
+    }, 
+    {
+      title: 'heavy ball', 
+      author: 'Mafutaro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/heavy-ball/6116700295839744/4762867548340224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heavy-ball/6116700295839744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_678516508912395916271905'
+    }, 
+    {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: 'suip.s180006', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4551434764075008/6045729048281088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4551434764075008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7511174386976092720758558'
+    }, 
+    {
+      title: 'alienshooter', 
+      author: 'Fritz Chaucer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128/6639706281656320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
+      title: 'cb"Project: What\'s for dinner?"', 
+      author: 'Connor511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cbproject-whats-for-dinner/6111322380222464/5029969551212544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cbproject-whats-for-dinner/6111322380222464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599780881867033214616391'
     }, 
   ];
 };
