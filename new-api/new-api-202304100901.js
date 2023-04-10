@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: '"Challenge: Book list database"', 
+      author: 'vimolnut.k', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4621453636190208/4610963849658368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4621453636190208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2531455962797197709474203'
+    }, 
+    {
       title: 'Spin-off of "Making drawings with code"', 
       author: 'bernaldezbrantangelo', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192/6405649958486016.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_864909029739556102167544'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'aediaz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5274913549369344/4942655768543232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5274913549369344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_971452625053455183777153'
     }, 
   ];
 };
