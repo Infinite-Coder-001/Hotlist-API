@@ -595,6 +595,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
     {
+      title: 'MP5K', 
+      author: 'apex', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mp5k/6393325449166848/4536679672365056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mp5k/6393325449166848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mjgraceee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4731932241084416/5258678254223360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4731932241084416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7692448315092134256996439'
+    }, 
+    {
       title: 'Finland', 
       author: 'Hibernia Productions🎥', 
       votes: 2, 
@@ -602,6 +620,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5966840515051520.png', 
       link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Lab 7-Flying Text', 
+      author: 'angelawang9670', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5116853719711744/5133875513966592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5116853719711744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_903428546870053479959235'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Faradhrea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5636680993521664/5850641584144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5636680993521664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_795009220947015252153996'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'pab.b.1173', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5430768416636928/5965707230887936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5430768416636928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4570126850153295347728859'
     }, 
     {
       title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
@@ -617,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872/6057101316374528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872/5379838660886528.png', 
       link: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
@@ -671,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'shwetamalhotra1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rocket/6564067981705216/5363792327524352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rocket/6564067981705216/6399253930098688.png', 
       link: 'https://www.khanacademy.org/computer-programming/rocket/6564067981705216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_896376388396380190383655'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4797968088875008/6421690973470720.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/4797968088875008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3908804888741813757610713'
-    }, 
-    {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'HT', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4961017676480512/4716618937843712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4961017676480512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4381490600494802174498185'
-    }, 
-    {
-      title: 'Maldives Flag', 
-      author: 'Hibernia Productions🎥', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664/5131760599089152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/maldives-flag/5167105592049664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ilhamghifari001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6481804543705088/6419793956880384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6481804543705088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820230670229748921074121'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ammaafram.kwarteng', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5157229432193024/5817996796018688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5157229432193024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533416507103006660753806'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'aisyahrazali0123', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5946162646663168/6341250514206720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5946162646663168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_532532200893637356020717'
     }, 
   ];
 };
