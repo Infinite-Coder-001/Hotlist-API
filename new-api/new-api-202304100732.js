@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'A N-Ice Fresh Cold Lemon', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5038248536883200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'The safest button in the world 🌎.', 
       author: 'Xander', 
       votes: 11, 
@@ -568,6 +577,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Frankie Mcfarlane', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4571039142297600/4704227789422592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4571039142297600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5774823970084376834862188'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'agarcenegui', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6458081040187392/6168892033777664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6458081040187392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_108901623140663112441022'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'adalvarez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6698646944137216/6697053523853312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6698646944137216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_911890246577797987209300'
+    }, 
+    {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'ctitigomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5015396324524032/6234724722065408.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5015396324524032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1036676196223658266877494'
+    }, 
+    {
       title: 'Spin-off of "Coloring with code"', 
       author: 'Kendall Treacher', 
       votes: 1, 
@@ -575,15 +620,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736/5899361730215936.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1110464583509735119425616'
-    }, 
-    {
-      title: 'A N-Ice Fresh Cold Lemon', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5224317681188864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'A N-Ice Fresh Cold Lemon', 
@@ -635,7 +671,7 @@ var LoadHotlistAPI = function() {
       author: 'joshualyon83', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/5338454671278080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/6434313966239744.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_325313808991352935983410'
     }, 
@@ -707,7 +743,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/6074310914785280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/6072465320361984.png', 
       link: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -752,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/garfield-comics/6372263298646016/6560618485432320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/garfield-comics/6372263298646016/4540878237777920.png', 
       link: 'https://www.khanacademy.org/computer-programming/garfield-comics/6372263298646016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5837529569083392/5509893760270336.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/5837529569083392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160549286606134280325632'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'ashleestinnett1912', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4822432503611392/5943611100545024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4822432503611392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118221915405379081537906'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage" Beautiful Bangladesh', 
-      author: 'New sheldon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-beautiful-bangladesh/4763239520190464/5868703985221632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-beautiful-bangladesh/4763239520190464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9830973508362781522038240'
-    }, 
-    {
-      title: 'W Picure Website', 
-      author: 'coolguy2019', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/w-picure-website/5947165387309056/6071239509852160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/w-picure-website/5947165387309056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_280251338453922134002050'
-    }, 
-    {
-      title: '7', 
-      author: 'aieman27', 
-      votes: 27, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
     }, 
   ];
 };
