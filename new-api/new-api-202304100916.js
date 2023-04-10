@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Q & A!', 
+      author: 'MyGuy!', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208/6370623392890880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
+    }, 
+    {
       title: 'The safest button in the world 🌎.', 
       author: 'Xander', 
       votes: 11, 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/4700318865866752.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
-    }, 
-    {
-      title: 'Q & A!', 
-      author: 'MyGuy!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208/6370623392890880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
       title: 'help the sky is falling', 
@@ -577,6 +577,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Derivado de "Desafío: base de datos de libros"', 
+      author: 'fervanbuuren1975', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6299324939288576/5862672123084800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6299324939288576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2863813919596184772650769'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"Pizza!', 
+      author: 'vipulnimbale15', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinnerpizza/6196682250567680/5289193409658880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinnerpizza/6196682250567680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4297981748610047369746360'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'zymzalabim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5832087497392128/6503517029449728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5832087497392128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
+    }, 
+    {
       title: '"Challenge: Book list database"', 
       author: 'vimolnut.k', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736/5899361730215936.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1110464583509735119425616'
-    }, 
-    {
-      title: 'Spin-off of "HTML tables"', 
-      author: 'ushamuniasamy5', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/6381048339677184/4601378388623360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/6381048339677184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7282748091006786737561309'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'aangarcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6727057481711616/4955079313768448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6727057481711616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1125351092495220468735065'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ivanbezovan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192/6405649958486016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_864909029739556102167544'
     }, 
   ];
 };
