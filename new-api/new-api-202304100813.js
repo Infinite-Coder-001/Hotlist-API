@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
     {
+      title: 'The Claw! [GAME]', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'Speed Math (Pre-release)', 
       author: 'InvisibleCat123', 
       votes: 16, 
@@ -219,19 +228,10 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Earth Is Breaking Open', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'The Claw! [GAME]', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
@@ -577,6 +577,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'algamez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5832584149123072/5583909032345600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5832584149123072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_341762898754293048083987'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'amamiguez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6294511707013120/6098982716882944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6294511707013120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1017630855983061193065844'
+    }, 
+    {
       title: 'Projet dérivé de "Projet : construis une maison"', 
       author: 'kévin mutte', 
       votes: 1, 
@@ -752,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'joshualyon83', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/6434313966239744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/5776733535256576.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_325313808991352935983410'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dy/4751523633741824/4622093233995776.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dy/4751523633741824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_115519263812211236973009'
-    }, 
-    {
-      title: 'Spin-off of "unicorn fighting a cloud in the dark"', 
-      author: 'Sugath Rajasekara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-unicorn-fighting-a-cloud-in-the-dark/5082958123024384/6168385126973440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-unicorn-fighting-a-cloud-in-the-dark/5082958123024384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_973811228746874621342628'
-    }, 
-    {
-      title: 'Snowy Snowman', 
-      author: 'biz.artava', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snowy-snowman/6231000784093184/6632346418987008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snowy-snowman/6231000784093184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4070462515474281876802983'
     }, 
   ];
 };
