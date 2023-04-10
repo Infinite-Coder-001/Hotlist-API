@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -721,6 +721,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'mchidi120', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5891484256878592/6753600073416704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5891484256878592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6828531806838010462008467'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Dre', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4994348535300096/5854951487356928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4994348535300096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8318059882382242125941000'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'andre.harris1221', 
       votes: 1, 
@@ -737,6 +755,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/coruption/6244063490916352/5243094770696192.png', 
       link: 'https://www.khanacademy.org/computer-programming/coruption/6244063490916352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1032221822481300351435923'
+    }, 
+    {
+      title: 'Derivado de "Desafío: muñeco de nieve sencillo"', 
+      author: 'Enrique De Alejandro', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5049145372229632/6366547938689024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-sencillo/5049145372229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756420993102923179925491'
     }, 
     {
       title: 'My Travel webpage🏝🌺', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6521358726250496/5400786709561344.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6521358726250496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_910443072252161775790466'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'Linh Dinh', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4602083786670080/6135617563181056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4602083786670080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2368960727762932059675850'
-    }, 
-    {
-      title: 'Autumn Dodge [GAME]', 
-      author: 'Nivag514', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/autumn-dodge-game/5292099626123264/5680650050125824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/autumn-dodge-game/5292099626123264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1045458323915288207051399'
-    }, 
-    {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'Ravella Elva Cirule', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6072900655562752/6580319131320320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6072900655562752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6287509178511058932866354'
     }, 
   ];
 };
