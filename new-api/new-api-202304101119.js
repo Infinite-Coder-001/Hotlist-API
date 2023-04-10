@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Øɱɑɼ Ħ.', 
       votes: 14, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5528034863267840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/4969622039478272.png', 
       link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
@@ -541,6 +541,69 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'Derivação de "Desafio: Escrever um poema" A brisa', 
+      author: 'rosane.hm', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema-a-brisa/6341758427643904/6478581992833024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-escrever-um-poema-a-brisa/6341758427643904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7359445773091552349234477'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'althea.tan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4576267124129792/4955671935369216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/4576267124129792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_747623054305984441296439'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'Anuska Cobo de Guzmán Jiménez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4772287888015360/5527870295556096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/4772287888015360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2162742027557338113577482'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Links for learning" Link Khan website', 
+      author: 'New sheldon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning-link-khan-website/6205321258516480/4639521942847488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning-link-khan-website/6205321258516480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9830973508362781522038240'
+    }, 
+    {
+      title: 'Nature is magnificent', 
+      author: 'Shamina Abdool', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nature-is-magnificent/5957666079031296/5057579412930560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nature-is-magnificent/5957666079031296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3770873696503845750210336'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'kangyaqinn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5182404483661824/5963394323890176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5182404483661824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_770232964161438503682050'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'Anuska Cobo de Guzmán Jiménez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5443222076964864/4543625657892864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5443222076964864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2162742027557338113577482'
+    }, 
+    {
       title: 'panda', 
       author: 'Fushimi', 
       votes: 1, 
@@ -575,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/atharv-is-blah/4987713817460736/4571414280847360.png', 
       link: 'https://www.khanacademy.org/computer-programming/atharv-is-blah/4987713817460736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_670485433291329237781898'
+    }, 
+    {
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'ricardo1l.felix', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5964125797924864/4650472414953472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5964125797924864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346821928858388261827435'
     }, 
     {
       title: 'Button', 
@@ -698,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'rajashahbazashraf', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6397951263162368/5849544203223040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6397951263162368/6090768038281216.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6397951263162368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_200513954147236120374707'
     }, 
@@ -827,78 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinnerpizza/6196682250567680/5289193409658880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinnerpizza/6196682250567680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4297981748610047369746360'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'zymzalabim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5832087497392128/6503517029449728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5832087497392128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
-    }, 
-    {
-      title: '"Challenge: Book list database"', 
-      author: 'vimolnut.k', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4621453636190208/4610963849658368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-book-list-database/4621453636190208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2531455962797197709474203'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'bernaldezbrantangelo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4711628085182464/5088885261778944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4711628085182464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1473941126518108918402276'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'princessjoylarnaiz', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5907699637469184/4520011575377920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5907699637469184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_877276436610742799545122'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Zaprojektuj bazę danych dla sklepu"', 
-      author: 'kacper.wilusz.07', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/4960105348251648/5603233969258496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-zaprojektuj-baz-danych-dla-sklepu/4960105348251648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_541719121496726551345467'
-    }, 
-    {
-      title: 'Spin-off of "Project: App impersonator"', 
-      author: 'qche321', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4916600835981312/4652117085437952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4916600835981312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28364694381205719632361'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Zhao Zejia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5054784479739904/5668147886866432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5054784479739904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_324221072546942799200688'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'adtrujillo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6035736169332736/4938990903148544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6035736169332736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_865830075353535505579347'
     }, 
   ];
 };
