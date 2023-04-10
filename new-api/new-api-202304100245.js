@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Charzard', 
-      author: 'Green Light', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704/6268636072558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'Sprites for an Upcoming Game', 
       author: 'Øɱɑɼ Ħ.', 
       votes: 13, 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/earthrise/6114501272584192/5745668057776128.png', 
       link: 'https://www.khanacademy.org/computer-programming/earthrise/6114501272584192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
+      title: 'Charzard', 
+      author: 'Green Light', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704/6268636072558592.png', 
+      link: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'help the sky is spinning', 
@@ -604,29 +604,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'heavy ball', 
-      author: 'Mafutaro', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heavy-ball/6116700295839744/4762867548340224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heavy-ball/6116700295839744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_678516508912395916271905'
-    }, 
-    {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: 'suip.s180006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4551434764075008/6045729048281088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4551434764075008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7511174386976092720758558'
-    }, 
-    {
       title: 'alienshooter', 
       author: 'Fritz Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128/6639706281656320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128/5699240748957696.png', 
       link: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
@@ -829,15 +811,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_668853774347388725124180'
     }, 
     {
-      title: 'ASDFASDF', 
-      author: 'CodeEngineer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfasdf/6713918182703104/4783345818189824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/asdfasdf/6713918182703104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
       title: 'Spin-off of "Project: Famous people"', 
       author: 'kassandra.toimil001', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4673878644539392/6079189477539840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4673878644539392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_659192427902326868560891'
+    }, 
+    {
+      title: 'asdfsadfasdfasdfasdfasdf', 
+      author: 'CodeEngineer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584/5636272132767744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: invitación a un evento"', 
+      author: 'cinthiabetancourth98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5140837102305280/5944216355389440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-invitacin-a-un-evento/5140837102305280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485415501459700665482135'
+    }, 
+    {
+      title: 'SonicTheHedgehog1.2', 
+      author: 'Fritz Chaucer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888/5214958154727424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
   ];
 };
