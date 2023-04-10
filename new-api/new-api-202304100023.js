@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'unicorn fighting a cloud in the dark', 
+      author: 'Green Ghost', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/6109976256102400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Kitty Pool', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 11, 
@@ -37,18 +46,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: 'unicorn fighting a cloud in the dark', 
-      author: 'Green Ghost', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/6109976256102400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Extra small projects', 
       author: 'Com', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320/4936023214964736.png', 
       link: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
+      title: 'Game in 43 lines!', 
+      author: '51 votes', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
+    }, 
+    {
       title: 'Blueberry Cheesecake Ad', 
       author: 'mcw2008', 
       votes: 2, 
@@ -377,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240/6155617749483520.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Game in 43 lines!', 
-      author: '51 votes', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440/6480606902140928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-in-43-lines/5816977949245440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1424012610752687670865969'
     }, 
     {
       title: 'LunaTC\'s Subpage', 
@@ -604,6 +604,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7681434704456269540180274'
     }, 
     {
+      title: '"Zor Görev: GülenYüz" uyarlaması', 
+      author: 'esma uzun', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zor-grev-glenyz-uyarlamas/6014256735895552/6660491171905536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zor-grev-glenyz-uyarlamas/6014256735895552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6783982957499343766441508'
+    }, 
+    {
       title: 'Terraria lighting WIP', 
       author: 'StuffStash', 
       votes: 2, 
@@ -611,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944/5445334596894720.png', 
       link: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'navleensidhu16', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4541941409955840/6345330749915136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4541941409955840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5916545601401079888823787'
     }, 
     {
       title: 'I need ideas for a furry-related project AGAIN XP', 
@@ -707,17 +725,17 @@ var LoadHotlistAPI = function() {
       author: 'navleensidhu16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6484520087109632/4688008067727360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6484520087109632/5929041699061760.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6484520087109632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5916545601401079888823787'
     }, 
     {
-      title: 'Sonic the Hedgehog', 
+      title: 'SonicTheHedgehog', 
       author: 'Fritz Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sonic-the-hedgehog/6415056205299712/6628817801363456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sonic-the-hedgehog/6415056205299712', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog/6415056205299712/6242042440368128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog/6415056205299712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
@@ -770,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'Viktoria Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing2/6294102745595904/5455188459831296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fightingfing2/6294102745595904/6016597895725056.png', 
       link: 'https://www.khanacademy.org/computer-programming/fightingfing2/6294102745595904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6375932344027056597811418'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creature-hoppy-beaver/5736643505209344/6077015636885504.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creature-hoppy-beaver/5736643505209344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6404877416505910700324282'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'MahaBoukhaled', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4652573325049856/4817983924125696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4652573325049856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_570953744258073731758364'
-    }, 
-    {
-      title: 'Hamburger run!', 
-      author: 'jdavidsm', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hamburger-run/5752347684028416/6010496894681088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hamburger-run/5752347684028416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
   ];
 };
