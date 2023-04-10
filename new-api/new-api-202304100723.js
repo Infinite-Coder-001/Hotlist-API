@@ -568,60 +568,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
-      title: 'Spin-off of "Coloring with code"', 
-      author: 'Kendall Treacher', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736/5899361730215936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1110464583509735119425616'
-    }, 
-    {
-      title: 'A N-Ice Fresh Cold Lemon', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5224317681188864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'A N-Ice Fresh Cold Lemon', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6361944270618624/6564919727407104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6361944270618624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Spin-off of "HTML tables"', 
-      author: 'ushamuniasamy5', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/6381048339677184/4601378388623360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-tables/6381048339677184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7282748091006786737561309'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'aangarcia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6727057481711616/4955079313768448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6727057481711616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1125351092495220468735065'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ivanbezovan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192/6405649958486016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743313757192192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_864909029739556102167544'
-    }, 
-    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'aediaz', 
       votes: 1, 
@@ -707,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/6074310914785280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/5413702263422976.png', 
       link: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/7/5994520354537472/4678353484562432.png', 
       link: 'https://www.khanacademy.org/computer-programming/7/5994520354537472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_192748494174678241876738'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'haseebsajid636', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6419934684168192/6597949066100736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6419934684168192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2790786595147619257401852'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Martinez Salinas, Perla', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6390286021607424/6098550066036736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6390286021607424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_277963989678067863914570'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Lined Paper"', 
+      author: 'jcspencer63', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/5003186437144576/5197235374833664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-lined-paper/5003186437144576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1082064977108507079287638'
+    }, 
+    {
+      title: 'Lab 07- Flying Text', 
+      author: 'AloveraJuice', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-07-flying-text/5952531613401088/6356948971995136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-07-flying-text/5952531613401088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4080740134606469240657248'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'suzy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4761203449839616/6145685251735552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4761203449839616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2106452417523830224898694'
+    }, 
+    {
+      title: 'Lab Lesson #7 - Flying Text', 
+      author: 'dayval', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/6600574566187008/5099227241037824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/6600574566187008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8690619608050814478981459'
     }, 
   ];
 };
