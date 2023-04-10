@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'aediaz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5274913549369344/4942655768543232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5274913549369344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_971452625053455183777153'
+    }, 
+    {
       title: 'New program', 
       author: 'joshualyon83', 
       votes: 1, 
@@ -644,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Ariel k', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/5255519544852480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/5413702263422976.png', 
       link: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/6600574566187008/5099227241037824.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-lesson-7-flying-text/6600574566187008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8690619608050814478981459'
-    }, 
-    {
-      title: 'Lab #7', 
-      author: 'ledoux2485', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7/4708007025098752/5808720572628992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-7/4708007025098752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2573159653688278884964180'
     }, 
   ];
 };
