@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Extra small projects', 
       author: 'Com', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320/4936023214964736.png', 
       link: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320', 
@@ -568,6 +568,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'qche321', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5706023576059904/5405666077622272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5706023576059904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28364694381205719632361'
+    }, 
+    {
+      title: 'Heart', 
+      author: 'Hibernia Productions🎥', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/heart/6172842933927936/6691624097988608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heart/6172842933927936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'wang zunyan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6371497284517888/6527436574736384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6371497284517888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7054028921945082221105365'
+    }, 
+    {
       title: 'New program', 
       author: 'bill nye the russian spy', 
       votes: 33, 
@@ -575,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720/6489886367727616.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6571996478750720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
+    }, 
+    {
+      title: '"გამოწვევა: მარტივი თოვლის კაცი"-ის სპინ-ოფები', 
+      author: 'besa85', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5804361247932416/6339109003247616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/-/5804361247932416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4223536564073242965469608'
     }, 
     {
       title: 'Spin-off of "Creating a table and inserting data"', 
@@ -788,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'joshualyon83', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/4509343228936192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/5936479844220928.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_325313808991352935983410'
     }, 
@@ -797,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'mjgraceee', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6664987365130240/4676138434871296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6664987365130240/6586374330564608.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6664987365130240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7692448315092134256996439'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/6072465320361984.png', 
       link: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
-    }, 
-    {
-      title: 'Spin-off of Welcome to Facebook', 
-      author: 'jimenezcristopher54', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-welcome-to-facebook/5987066908557312/4760616482160640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-welcome-to-facebook/5987066908557312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_801760623227884876039346'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'dinmhambetzapparbergen', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5906258642386944/6139064274436096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5906258642386944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_516697942919069849192165'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Corey Warren', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5394486328082432/6381992305541120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5394486328082432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5910331814575299435362498'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'yera.baibolat', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6736043090165760/6483595796725760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6736043090165760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_202314907435000771714949'
     }, 
   ];
 };
