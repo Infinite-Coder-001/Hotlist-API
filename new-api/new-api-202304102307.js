@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 38, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
     {
+      title: 'My Self Portrait IG...', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/5060388891967488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Pixel Art Template', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 13, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-template/4702179425566720/6411273177972736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-template/4702179425566720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'My Self Portrait IG...', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/5060388891967488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
       title: 'its watching us', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'El Tater Bird XVII', 
       author: 'mr. mustache', 
-      votes: 41, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
       link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
@@ -368,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
+      title: 'Animated dots 2! [sine demo]', 
+      author: 'Arrow.programming', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720/4716318155915264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Pixel art template', 
@@ -766,6 +775,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Adrianna Caicedo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6031224205524992/6122276606230528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6031224205524992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9582571504376970062113983'
+    }, 
+    {
       title: 'dragon test', 
       author: 'nevinstheodore', 
       votes: 1, 
@@ -833,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Jonathan G', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/storm/4809161692200960/6220021069299712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/storm/4809161692200960/4508759130161152.png', 
       link: 'https://www.khanacademy.org/computer-programming/storm/4809161692200960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_203476426110134987927016'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6724309621194752/5030079878184960.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6724309621194752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_198337889352468987246783'
-    }, 
-    {
-      title: 'PICO-8 Graphics Library', 
-      author: 'Archbirdplus', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pico-8-graphics-library/4873899381932032/6483393950040064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pico-8-graphics-library/4873899381932032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'jaljordan77', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5338108104327168/4762331650506752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5338108104327168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_805301094192011777963188'
     }, 
   ];
 };
