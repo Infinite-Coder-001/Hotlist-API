@@ -716,7 +716,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624/4604323628892160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624/4830036038565888.png', 
       link: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
