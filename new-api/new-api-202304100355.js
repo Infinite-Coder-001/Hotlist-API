@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Ghost', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/6109976256102400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Inkpocalypse Egg Hunt', 
+      author: 'octobrush', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4513480272297984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
+    }, 
+    {
       title: 'Extra small projects', 
       author: 'Com', 
       votes: 12, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320/4936023214964736.png', 
       link: 'https://www.khanacademy.org/computer-programming/extra-small-projects/6389029508792320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Inkpocalypse Egg Hunt', 
-      author: 'octobrush', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4513480272297984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
       title: 'Pixel Art Template', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Charzard', 
       author: 'Green Light', 
-      votes: 6, 
+      votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704/6268636072558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704', 
@@ -317,7 +317,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Game tests ^2^', 
-      author: 'Sheoldred, Whispering One', 
+      author: 'Chandra Nalaar', 
       votes: 6, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
@@ -371,7 +371,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'Sheoldred, Whispering One', 
+      author: 'Chandra Nalaar', 
       votes: 2, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4804612482973696/6502966199894016.png', 
@@ -602,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840/6173504996425728.png', 
       link: 'https://www.khanacademy.org/computer-programming/iceland/6391407175843840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Waving snowman"', 
+      author: 'kevin.malo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5670377494986752/6312726126444544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5670377494986752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2227760799166869613620352'
     }, 
     {
       title: 'Norway', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logointro/6471508215250944/6663552577617920.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-logointro/6471508215250944', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
-    }, 
-    {
-      title: 'Lab 7 - Flying Text', 
-      author: 'Austin Gibbs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6553013776072704/5861955249422336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6553013776072704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8978152159804885656451590'
     }, 
   ];
 };
