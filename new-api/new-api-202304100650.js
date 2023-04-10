@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'mjgraceee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6664987365130240/4676138434871296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6664987365130240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7692448315092134256996439'
+    }, 
+    {
       title: 'chicken.', 
       author: 'bredd', 
       votes: 31, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5787851997626368/6197281331396608.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5787851997626368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6998211697225358631803937'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'rishikaega99', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6724978293915648/6100206916780032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6724978293915648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391688650908463394004091'
     }, 
   ];
 };
