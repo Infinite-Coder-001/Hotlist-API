@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'MyGuy!', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208/4995189912682496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208/6370623392890880.png', 
       link: 'https://www.khanacademy.org/computer-programming/q-a/6004261139038208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1094185998611852363493864'
     }, 
@@ -494,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576/5897162337861632.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-dimensionjs-showcase/6074168409112576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'Terraria lighting WIP', 
-      author: 'StuffStash', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944/5144068410884096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'My Best Product', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-construis-une-maison/6650950506037248/6301798488129536.png', 
       link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-construis-une-maison/6650950506037248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5787391717665997178217141'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel to Grand Tetons!"', 
+      author: 'felipe.oh97', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-to-grand-tetons/5108079973941248/5853585767448576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-to-grand-tetons/5108079973941248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_856385350248443296925407'
     }, 
   ];
 };
