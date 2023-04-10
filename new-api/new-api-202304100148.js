@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'Manta', 
       votes: 33, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/4626114615230464.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5936887497015296.png', 
       link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
@@ -604,6 +604,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'kassandra.toimil001', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6382862472626176/5737212085059584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6382862472626176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_793463430360805706557076'
+    }, 
+    {
+      title: 'Spin-off von "Projekt: Sternschnuppe"', 
+      author: 'joe.kr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120/6391540051394560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_449724821653306991576213'
+    }, 
+    {
       title: 'Smash mouth ALL STAR lyrics', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 7, 
@@ -617,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'mhussam.asim', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab7-cs1134/5136074235232256/5762368178274304.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab7-cs1134/5136074235232256/5557743001059328.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab7-cs1134/5136074235232256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_683281631435541459153860'
     }, 
@@ -644,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584/6660770948759552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584/6274896121610240.png', 
       link: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
@@ -662,9 +680,18 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888/4632694874226688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888/6021042146689024.png', 
       link: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
+      title: 'Spin-off of ""SKYLINE - U1: Charlie Glaspell-Elser""', 
+      author: 'charlie.glaspell-elser', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-u1-charlie-glaspell-elser/6748077752107008/5019491340959744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-u1-charlie-glaspell-elser/6748077752107008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_935733620477322522335162'
     }, 
     {
       title: 'Lab 7', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/four-face/6020382298783744/4919213837041664.png', 
       link: 'https://www.khanacademy.org/computer-programming/four-face/6020382298783744', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_787862249735694760019510'
-    }, 
-    {
-      title: 'Kokomi Liao - House & Tree Functions', 
-      author: 'liaoko2026', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kokomi-liao-house-tree-functions/5923490688712704/5854030430781440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kokomi-liao-house-tree-functions/5923490688712704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_748671686884213359299040'
-    }, 
-    {
-      title: '"Zor Görev: GülenYüz" uyarlaması', 
-      author: 'esma uzun', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zor-grev-glenyz-uyarlamas/6014256735895552/6660491171905536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zor-grev-glenyz-uyarlamas/6014256735895552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6783982957499343766441508'
-    }, 
-    {
-      title: 'Terraria lighting WIP', 
-      author: 'StuffStash', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944/5445334596894720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
   ];
 };
