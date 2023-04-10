@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
-      votes: 19, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pixel Art Template', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-template/4702179425566720/5667707556249600.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-template/4702179425566720', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'A N-Ice Fresh Cold Lemon', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5038248536883200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Sprites for an Upcoming Game', 
       author: 'Øɱɑɼ Ħ.', 
       votes: 14, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5528034863267840.png', 
       link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
-    }, 
-    {
-      title: 'A N-Ice Fresh Cold Lemon', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5038248536883200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Two Kingdoms at War', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
     {
+      title: 'The Tyrant’s Hero! (A Movie)', 
+      author: 'jdavidsm', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360/4626815902859264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
+    }, 
+    {
       title: 'The Claw! [GAME]', 
       author: '✝︎ Volatile ✝︎', 
       votes: 11, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576/4700318865866752.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-best-games-snow-hero-and-more/6347792219160576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_269864354477884923922219'
-    }, 
-    {
-      title: 'The Tyrant’s Hero! (A Movie)', 
-      author: 'jdavidsm', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360/4626815902859264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
       title: 'help the sky is falling', 
@@ -572,17 +572,53 @@ var LoadHotlistAPI = function() {
       author: 'qche321', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5706023576059904/5405666077622272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4916600835981312/4652117085437952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/4916600835981312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28364694381205719632361'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Zhao Zejia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5054784479739904/5668147886866432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5054784479739904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_324221072546942799200688'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'adtrujillo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6035736169332736/4938990903148544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6035736169332736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_865830075353535505579347'
+    }, 
+    {
+      title: '"Proyecto: diseña una base de datos de una tienda"', 
+      author: 'ctitigomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-disea-una-base-de-datos-de-una-tienda/4877694606295040/6692319765250048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-disea-una-base-de-datos-de-una-tienda/4877694606295040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1036676196223658266877494'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'qche321', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5706023576059904/5645041482907648.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5706023576059904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_28364694381205719632361'
     }, 
     {
-      title: 'Heart', 
+      title: 'Heart [PIXEL ART]', 
       author: 'Hibernia Productions🎥', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heart/6172842933927936/6691624097988608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heart/6172842933927936', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/heart-pixel-art/6172842933927936/6462159363293184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/heart-pixel-art/6172842933927936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6217333728395264/4708652142608384.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6217333728395264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_801760623227884876039346'
-    }, 
-    {
-      title: 'Inegol Kofte', 
-      author: 'kaan.ozgur', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inegol-kofte/5723321745588224/6303687938195456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inegol-kofte/5723321745588224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1145115637969361437172043'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'zymzalabim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4585103516024832/5300074809966592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4585103516024832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2930386761271434612763118'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'ilyasuabdlrahman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4794475890393088/6346317669646336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4794475890393088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8500709124123259657615230'
-    }, 
-    {
-      title: 'Ariel\'s "memory" section worksheet', 
-      author: 'Ariel k', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248/6072465320361984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ariels-memory-section-worksheet/6521602364981248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7957787352760724345136829'
     }, 
   ];
 };
