@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
-      votes: 20, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Inkpocalypse Egg Hunt', 
+      author: 'octobrush', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4513480272297984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
+    }, 
+    {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
       votes: 43, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/4871735842488320.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Inkpocalypse Egg Hunt', 
-      author: 'octobrush', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4513480272297984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
       title: 'Pixel Art Template', 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'USDA Organic Logo', 
+      author: 'Joe H', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/6358473702162432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 28, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'USDA Organic Logo', 
-      author: 'Joe H', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/6358473702162432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
       title: 'Game tests ^2^', 
@@ -575,6 +575,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296/6471492612440064.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweden/5273218580791296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'zeeshanzaman', 
+      author: 'zeeshanzaman343', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/5114347002314752/4697584750084096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/5114347002314752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'wang zunyan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6663596282265600/6200641438662656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6663596282265600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7054028921945082221105365'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'yogesh15193', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4601554348064768/6453886601969664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4601554348064768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5693604493562038198503764'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Spinning baton"', 
+      author: 'Mariam', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-spinning-baton/6109669837029376/4571856796696576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-spinning-baton/6109669837029376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'kody.jeppsen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5834849643708416/5735189038022656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5834849643708416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3033156654052666644873496'
     }, 
     {
       title: 'Derivado de "Desafío: base de datos de libros"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-to-grand-tetons/5108079973941248/5853585767448576.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-to-grand-tetons/5108079973941248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_856385350248443296925407'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Frankie Mcfarlane', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4571039142297600/4704227789422592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4571039142297600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5774823970084376834862188'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'agarcenegui', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6458081040187392/6168892033777664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6458081040187392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_108901623140663112441022'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'adalvarez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6698646944137216/6697053523853312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/6698646944137216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_911890246577797987209300'
-    }, 
-    {
-      title: 'Derivado de "Desafío: base de datos de libros"', 
-      author: 'ctitigomez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5015396324524032/6234724722065408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-base-de-datos-de-libros/5015396324524032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1036676196223658266877494'
-    }, 
-    {
-      title: 'Spin-off of "Coloring with code"', 
-      author: 'Kendall Treacher', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736/5899361730215936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-coloring-with-code/4719412579188736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1110464583509735119425616'
     }, 
   ];
 };
