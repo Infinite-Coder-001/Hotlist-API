@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
     {
+      title: 'everybody okay?', 
+      author: 'LovelyPetals', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992/6395996583280640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'The worst jokes ever. Part 2!', 
       author: 'MyGuy!', 
       votes: 12, 
@@ -199,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
-      title: 'everybody okay?', 
-      author: 'LovelyPetals', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992/6395996583280640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/everybody-okay/4787994751188992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'The Claw! [GAME]', 
       author: '✝︎ Volatile ✝︎', 
       votes: 10, 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'The Tyrant’s Hero! (A Movie)', 
+      author: 'jdavidsm', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360/4626815902859264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
+    }, 
+    {
       title: 'My best games! Snow Hero and more!', 
       author: 'Ivermectin ', 
       votes: 6, 
@@ -269,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: ' my subpage', 
+      author: 'LovelyPetals', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240/6155617749483520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'a toxic world', 
@@ -334,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1055276131156839622089603'
     }, 
     {
+      title: 'AI trial/error learning', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-trialerror-learning/5556170925588480/6250775585275904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-trialerror-learning/5556170925588480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Prince Cjcool', 
       author: 'cjcool', 
       votes: 11, 
@@ -341,6 +368,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064/4528354549350400.png', 
       link: 'https://www.khanacademy.org/computer-programming/prince-cjcool/5304997949784064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Sheoldred, the Apocalypse', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4804612482973696/6502966199894016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4804612482973696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
       title: 'Periodic table of elements!', 
@@ -358,15 +394,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mining-mania/5202328954388480/5463408859463680.png', 
       link: 'https://www.khanacademy.org/computer-programming/mining-mania/5202328954388480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
-      title: 'The Tyrant’s Hero! (A Movie)', 
-      author: 'jdavidsm', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360/4626815902859264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-tyrants-hero-a-movie/6114834266767360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
@@ -395,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600/4722578741837824.png', 
       link: 'https://www.khanacademy.org/computer-programming/flappy-lemon/5900172136857600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: ' my subpage', 
-      author: 'LovelyPetals', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240/6155617749483520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-subpage/5468570537738240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'LunaTC\'s Subpage', 
@@ -604,6 +622,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Lab #7 - Flying Text', 
+      author: 'Zachary Thomas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/4587640868618240/5316499603767296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/4587640868618240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7498438946092092897749983'
+    }, 
+    {
+      title: 'meal', 
+      author: 'Aiden Baugh', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meal/6408725020852224/5375184359178240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/meal/6408725020852224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927936437339780574818446'
+    }, 
+    {
       title: 'heavy ball', 
       author: 'Mafutaro', 
       votes: 1, 
@@ -629,6 +665,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128/6639706281656320.png', 
       link: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
+      title: 'cb"Project: What\'s for dinner?"', 
+      author: 'Connor511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cbproject-whats-for-dinner/6111322380222464/5029969551212544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cbproject-whats-for-dinner/6111322380222464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_599780881867033214616391'
     }, 
     {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120/6740732502392832.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_449724821653306991576213'
-    }, 
-    {
-      title: 'Smash mouth ALL STAR lyrics', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008/5535900458336256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/smash-mouth-all-star-lyrics/5449921789739008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
-      title: 'CB"Challenge: Sunny snowy day"', 
-      author: 'Connor511', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cbchallenge-sunny-snowy-day/5070884181426176/4767201271005184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cbchallenge-sunny-snowy-day/5070884181426176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_599780881867033214616391'
-    }, 
-    {
-      title: 'Lab7 CS1134', 
-      author: 'mhussam.asim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab7-cs1134/5136074235232256/5557743001059328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab7-cs1134/5136074235232256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683281631435541459153860'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'zekeseuser', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6171931897544704/5209088880590848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6171931897544704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8565284347146692429587353'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Skylee Malavenda', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4673878644539392/6079189477539840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4673878644539392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_659192427902326868560891'
     }, 
   ];
 };
