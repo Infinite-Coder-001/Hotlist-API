@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'help the sky is spinning', 
       author: 'mr. mustache', 
-      votes: 61, 
+      votes: 62, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
       link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
@@ -202,7 +202,7 @@ var LoadHotlistAPI = function() {
       title: 'Speed Math (Pre-release)', 
       author: 'InvisibleCat123', 
       votes: 16, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/6122451177357312.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
@@ -317,7 +317,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Game tests ^2^', 
-      author: 'Sheoldred, the Apocalypse', 
+      author: 'Sheoldred, Whispering One', 
       votes: 6, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-tests-2/5030270635130880/4535828786495488.png', 
@@ -371,7 +371,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'Sheoldred, the Apocalypse', 
+      author: 'Sheoldred, Whispering One', 
       votes: 2, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4804612482973696/6502966199894016.png', 
@@ -611,6 +611,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776/5122124516999168.png', 
       link: 'https://www.khanacademy.org/computer-programming/norway/4881387204427776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Elmo Quezon', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5546539796971520/5183662690975744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5546539796971520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7756094094049255195913888'
+    }, 
+    {
+      title: 'Funny Story', 
+      author: 'fast', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/funny-story/4659632724557824/4690542178123776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/funny-story/4659632724557824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1077449746156652689215881'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'kaylamarie.blascruz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255023924920320/5276954866794496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5255023924920320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_153556551076612764511112'
     }, 
     {
       title: 'Lab Lesson #7 - Flying Text', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4718517380497408/4950635096358912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4718517380497408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_434775916404149019766862'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Arianna Rivero-Afanador', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5894906305626112/4995914453532672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5894906305626112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3443061695313580944707746'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Taalaibek Zhenish Uulu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4598436554129408/6548485135712256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4598436554129408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1192599537024051213138089'
-    }, 
-    {
-      title: 'New program', 
-      author: 'suip.s180006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5318297248907264/6562141370105856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5318297248907264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7511174386976092720758558'
     }, 
   ];
 };
