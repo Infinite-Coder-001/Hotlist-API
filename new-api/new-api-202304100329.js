@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
     }, 
     {
+      title: 'Edge Detection?', 
+      author: 'Manta', 
+      votes: 34, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5936887497015296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
       title: 'Button 2.0 (Out!)', 
       author: 'MyGuy!', 
       votes: 50, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760/5856803704586240.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-earth-is-breaking-open/6587220271349760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Edge Detection?', 
-      author: 'Manta', 
-      votes: 33, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928/5936887497015296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/edge-detection/4924356540284928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
       title: 'The Tyrant’s Hero! (A Movie)', 
@@ -613,6 +613,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Alan Pina', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4825063103971328/5000061735190528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4825063103971328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2677821107771444108071503'
+    }, 
+    {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'alexande.372403', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/5880943132065792/5075888741072896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/5880943132065792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_409920212385522044586510'
+    }, 
+    {
+      title: 'Derivado de "Conceptos básicos de HTML"', 
+      author: 'Hannia Curiel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6318326411476992/4608677450661888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-conceptos-bsicos-de-html/6318326411476992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_611755286149733393966937'
+    }, 
+    {
+      title: 'no one needs to see this', 
+      author: 'Sumayyah Soofi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no-one-needs-to-see-this/6635907349528576/5090168718802944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no-one-needs-to-see-this/6635907349528576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_485722498966916711203722'
+    }, 
+    {
+      title: 'SQL Proyecto "diseña una base de datos de una tienda"', 
+      author: 'katevasquez.03', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql-proyecto-disea-una-base-de-datos-de-una-tienda/5639056903159808/5110241768554496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql-proyecto-disea-una-base-de-datos-de-una-tienda/5639056903159808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_125976372897684838655710'
+    }, 
+    {
       title: 'New program', 
       author: 'Elmo Quezon', 
       votes: 1, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-monte-carlo-random-number-generator/4839761908121600/6630999812521984.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-monte-carlo-random-number-generator/4839761908121600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7511174386976092720758558'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'alice.milfort001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5786948477435904/5948621314113536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5786948477435904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_892197993025220884183450'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'hammar.sophie', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4931818710417408/6193282112864256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4931818710417408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4041304212816680700098859'
-    }, 
-    {
-      title: 'Fractal: Density of the Rationals and the set ℚ', 
-      author: 'Jake K.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fractal-density-of-the-rationals-and-the-set/4744853784412160/6408096730890240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fractal-density-of-the-rationals-and-the-set/4744853784412160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'morganraymond25', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4597619319160832/5615089622499328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4597619319160832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4125159109044484438208390'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'ziadkarame619', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4718517380497408/4950635096358912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4718517380497408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_434775916404149019766862'
     }, 
   ];
 };
