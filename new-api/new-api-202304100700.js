@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_52828199424209902916151'
     }, 
     {
+      title: 'New program', 
+      author: 'joshualyon83', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832/5338454671278080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4546042487160832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_325313808991352935983410'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'mjgraceee', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7/4708007025098752/5808720572628992.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-7/4708007025098752', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2573159653688278884964180'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Batyr Zharkyn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5787851997626368/6197281331396608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5787851997626368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6998211697225358631803937'
     }, 
   ];
 };
