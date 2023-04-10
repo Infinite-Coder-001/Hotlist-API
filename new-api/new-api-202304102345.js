@@ -167,7 +167,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/5065798722043904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/6538852648140800.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720/4716318155915264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720/5340966136627200.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888/6173498822410240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888/6132396471926784.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -467,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/5581485177618432.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
+      title: 'Animated dots 3! [sine demo] || Graphing sine', 
+      author: 'Arrow.programming', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168/6703727852699648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'The safest button in the world 🌎.', 
@@ -757,6 +766,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Spin-off di "Sfida: Un pupazzo di neve che saluta"', 
+      author: 'mabdulai200', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-un-pupazzo-di-neve-che-saluta/5905438655954944/6612477296295936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-di-sfida-un-pupazzo-di-neve-che-saluta/5905438655954944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1338267083283319048096342'
+    }, 
+    {
+      title: 'fnaw 3 official game ', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fnaw-3-official-game/5580634589544448/5068469000519680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fnaw-3-official-game/5580634589544448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: '"Zor Görev: İlk jQuery\'niz" uyarlaması', 
+      author: 'esma uzun', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zor-grev-lk-jqueryniz-uyarlamas/5917466749616128/5983462323699712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zor-grev-lk-jqueryniz-uyarlamas/5917466749616128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6783982957499343766441508'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Dre', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6332145804296192/6388467790823424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6332145804296192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8318059882382242125941000'
+    }, 
+    {
       title: 'test', 
       author: 'JereZutella', 
       votes: 1, 
@@ -788,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'Andrew', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage/4737246491361280/5208436062339072.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage/4737246491361280/5976799738904576.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-travel-webpage/4737246491361280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_963250379651348279382882'
     }, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6068737406189568/5929152395132928.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6068737406189568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5545182127125128703185035'
-    }, 
-    {
-      title: 'Derivação de "Projeto: livro de receitas"', 
-      author: 'r0605109', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-livro-de-receitas/6542587575189504/5864441733496832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-livro-de-receitas/6542587575189504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9260633810170581151152246'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'dani.burgo103', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5581496670011392/5648098241331200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5581496670011392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2919253588624208766776114'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Reinaldo A.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5837961313959936/6567270752239616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5837961313959936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_949761160485326947808304'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'dani.burgo103', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5078358900916224/5927133995384832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5078358900916224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2919253588624208766776114'
-    }, 
-    {
-      title: 'WIP', 
-      author: '▪Dipper98▪', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/4641028201299968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
   ];
 };
