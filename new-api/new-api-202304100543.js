@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_328803883146354680833891'
     }, 
     {
+      title: 'Spin-off of "Intro to Variables"', 
+      author: 'Luke Kim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-variables/5474710948462592/6215179869405184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-intro-to-variables/5474710948462592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_755085320888823753136622'
+    }, 
+    {
       title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
       author: 'dvaafam33', 
       votes: 1, 
@@ -788,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: '26savroops5143', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5543530165747712/6025866787471360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5543530165747712/6485264408297472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5543530165747712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4894300395934692115088384'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872/5379838660886528.png', 
       link: 'https://www.khanacademy.org/computer-programming/kingofrpg/4875063133519872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'Arrow version', 
-      author: 'JustYELLShota', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrow-version/4799277865156608/4694240698613760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrow-version/4799277865156608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5970586565842512748176359'
     }, 
   ];
 };
