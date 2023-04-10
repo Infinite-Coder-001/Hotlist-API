@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'octobrush', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4513480272297984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/5744803674636288.png', 
       link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
@@ -613,42 +613,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'darynahmet12', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6053739598495744/4615920241917952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6053739598495744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_477208355433789987649364'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'cinthiabetancourth98', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5242176234897408/4621622263988224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5242176234897408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_485415501459700665482135'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'ssarahcraycraft', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5874401678770176/5076430225719296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5874401678770176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_483598331907324908776100'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'ilhamghifari001', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4913741125959680/5903017653354496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4913741125959680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820230670229748921074121'
-    }, 
-    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'Alan Pina', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6553013776072704/5861955249422336.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/6553013776072704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8978152159804885656451590'
+    }, 
+    {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'Paloma', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5310409205923840/5407994587430912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5310409205923840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247991522603609898018135'
+    }, 
+    {
+      title: 'Spin-off of "Object Methods"', 
+      author: 'hecnaliz  santana ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/5913461826830336/4663922172149760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/5913461826830336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1690966936910050534508083'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'Krish Alfredo Dominguez R', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6339003675885568/5700086589079552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6339003675885568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28516551747528431845937'
+    }, 
+    {
+      title: 'Spin-off of "Monte Carlo Random Number Generator"', 
+      author: 'suip.s180006', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-monte-carlo-random-number-generator/4839761908121600/6630999812521984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-monte-carlo-random-number-generator/4839761908121600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7511174386976092720758558'
     }, 
   ];
 };
