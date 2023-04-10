@@ -604,42 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'alienshooter', 
-      author: 'Fritz Chaucer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128/5699240748957696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/alienshooter/4848497519280128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'Krish Alfredo Dominguez R', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5321706546970624/5611005846798336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5321706546970624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28516551747528431845937'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'ssarahcraycraft', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5614695659913216/6687223585226752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5614695659913216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_483598331907324908776100'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'Fernando Gallardo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4787102136188928/5144271838822400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/4787102136188928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8576136353083728856229136'
-    }, 
-    {
       title: 'Menu integrado ao jogo da velha', 
       author: 'capir.2022116isinf0067', 
       votes: 1, 
@@ -824,7 +788,7 @@ var LoadHotlistAPI = function() {
       author: 'joe.kr', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120/6740732502392832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120/6391540051394560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-sternschnuppe/6118988473221120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_449724821653306991576213'
     }, 
@@ -878,7 +842,7 @@ var LoadHotlistAPI = function() {
       author: 'CodeEngineer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584/5636272132767744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584/6274896121610240.png', 
       link: 'https://www.khanacademy.org/computer-programming/asdfsadfasdfasdfasdfasdf/5983359009603584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
@@ -896,9 +860,45 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888/5214958154727424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888/6113468299395072.png', 
       link: 'https://www.khanacademy.org/computer-programming/sonicthehedgehog12/6133747356581888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
+      title: 'Spin-off of ""SKYLINE - U1: Charlie Glaspell-Elser""', 
+      author: 'charlie.glaspell-elser', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-u1-charlie-glaspell-elser/6748077752107008/5019491340959744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-skyline-u1-charlie-glaspell-elser/6748077752107008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_935733620477322522335162'
+    }, 
+    {
+      title: 'Lab 7', 
+      author: 'selahpraisetaylor', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7/6042669555171328/6696916688879616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-7/6042669555171328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_223008771740639707566617'
+    }, 
+    {
+      title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
+      author: 'Vy Vo Ly', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480/5701991977500672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/6326040143380480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396427101044060827403030'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
+      author: 'guilherme.bevilaqua', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5813812390576128/6102259575603200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/5813812390576128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6971664883211646832748067'
     }, 
   ];
 };
