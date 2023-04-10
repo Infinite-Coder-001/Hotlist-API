@@ -13,7 +13,7 @@ var LoadHotlistAPI = function() {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
       votes: 18, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
@@ -586,12 +586,66 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_328803883146354680833891'
     }, 
     {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'dinmhambetzapparbergen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5906258642386944/6139064274436096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5906258642386944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_516697942919069849192165'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Corey Warren', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5394486328082432/6381992305541120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5394486328082432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5910331814575299435362498'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'yera.baibolat', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6736043090165760/6483595796725760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6736043090165760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_202314907435000771714949'
+    }, 
+    {
+      title: 'Garfield Comics', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/garfield-comics/6372263298646016/6560618485432320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/garfield-comics/6372263298646016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy dæy"', 
+      author: 'uralp.yildirim', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dy/4751523633741824/4622093233995776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-dy/4751523633741824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_115519263812211236973009'
+    }, 
+    {
+      title: 'Spin-off of "unicorn fighting a cloud in the dark"', 
+      author: 'Sugath Rajasekara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-unicorn-fighting-a-cloud-in-the-dark/5082958123024384/6168385126973440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-unicorn-fighting-a-cloud-in-the-dark/5082958123024384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_973811228746874621342628'
+    }, 
+    {
+      title: 'Snowy Snowman', 
       author: 'biz.artava', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6231000784093184/5550846139219968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/6231000784093184', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snowy-snowman/6231000784093184/6632346418987008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snowy-snowman/6231000784093184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4070462515474281876802983'
     }, 
     {
@@ -608,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624/4661170641616896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624/4604323628892160.png', 
       link: 'https://www.khanacademy.org/computer-programming/-dove-/6633147967258624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lab07/5865765086740480/5279446031712256.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab07/5865765086740480', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_211806678327709658932205'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'maajid.canada', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6631102824628224/5444262398574592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6631102824628224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1195699074365032875519174'
-    }, 
-    {
-      title: 'MP5K', 
-      author: 'apex', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mp5k/6393325449166848/4536679672365056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mp5k/6393325449166848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'mjgraceee', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4731932241084416/5258678254223360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4731932241084416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7692448315092134256996439'
-    }, 
-    {
-      title: '"UFO fly"', 
-      author: 'jimenezcristopher54', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ufo-fly/6236005628952576/5457764634902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ufo-fly/6236005628952576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_801760623227884876039346'
-    }, 
-    {
-      title: 'Finland', 
-      author: 'Hibernia Productions🎥', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480/5966840515051520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finland/4534195201556480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Lab 7-Flying Text', 
-      author: 'angelawang9670', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5116853719711744/5133875513966592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-7-flying-text/5116853719711744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_903428546870053479959235'
     }, 
   ];
 };
