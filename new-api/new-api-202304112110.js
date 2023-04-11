@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 62, 
+      votes: 63, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'birthday is tommorow', 
       author: 'LovelyPetals', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-is-tommorow/4834114512666624/6002445139623936.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-is-tommorow/4834114512666624', 
@@ -65,10 +65,10 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Kittens!!', 
-      author: 'Duskbloom', 
-      votes: 25, 
+      author: 'Hushpuppy', 
+      votes: 26, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5390362354171904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/4761779998867456.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Another Lemon', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 22, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384/6032379451064320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'game (platform)', 
       author: 'crazy__codes', 
       votes: 22, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
-      title: 'Another Lemon', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 21, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384/6032379451064320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Name/ avatar change', 
+      author: 'Mark scheifele✈(Offline RN)', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432/4507575380131840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
+    }, 
+    {
       title: 'its watching us', 
       author: 'Viper', 
       votes: 51, 
@@ -604,13 +613,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Name/ avatar change', 
-      author: 'Mark scheifele✈(Offline RN)', 
+      title: 'mario 1', 
+      author: 'Cainbaily jr', 
       votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432/4507575380131840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mario-1/5423537285545984/6617410217230336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mario-1/5423537285545984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1126980006190314366024611'
     }, 
     {
       title: 'New program', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-boba-tea/5875070284382208/5353329132879872.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-boba-tea/5875070284382208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2864800910901593856011809'
-    }, 
-    {
-      title: 'help the sky is spinning', 
-      author: 'mr. mustache', 
-      votes: 67, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320/6751244267077632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-spinning/6182581671608320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
     }, 
   ];
 };
