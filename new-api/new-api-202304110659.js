@@ -775,6 +775,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'ex2 khan21', 
+      author: 'dani2710', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ex2-khan21/5319234289975296/6622832881876992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ex2-khan21/5319234289975296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
+    }, 
+    {
+      title: '"项目：数据挖掘"的副本', 
+      author: '文静 罗', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sql/5875872101089280/5518792412413952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sql/5875872101089280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_183976970037284191639167'
+    }, 
+    {
+      title: 'Min Hjemmeside - IF', 
+      author: 'unordmkve', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/min-hjemmeside-if/5250814974410752/5109038439514112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/min-hjemmeside-if/5250814974410752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103799949747192133831095'
+    }, 
+    {
+      title: 'Min Profil', 
+      author: 'Mads Holk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/min-profil/6685736771567616/4774998851239936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/min-profil/6685736771567616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2241086209429972673508743'
+    }, 
+    {
+      title: 'Spin-off of "HTML: Lists"', 
+      author: 'Eramir Baishuakov', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-lists/5644933236310016/5446755476094976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-lists/5644933236310016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8671683487758861994117350'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'Maria Crawford', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6175215366488064/5175694939439104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6175215366488064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8411122585001509810441726'
+    }, 
+    {
+      title: 'hjemmeside Informatik - betydning af de forskellige funktioner HTML', 
+      author: 'Madita Kaiser', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hjemmeside-informatik-betydning-af-de-forskellige-funktioner-html/5088545456046080/6501303678451712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hjemmeside-informatik-betydning-af-de-forskellige-funktioner-html/5088545456046080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7291872877310718875518348'
+    }, 
+    {
+      title: 'Ny hjemmeside', 
+      author: 'unordapb', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4724719011282944/4582139300724736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4724719011282944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1174697883215909638686009'
+    }, 
+    {
+      title: 'Spin-off of "For Loops! A New Kind of Loop"', 
+      author: 'ellenkay1235', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/6669565145956352/6032091956690944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-for-loops-a-new-kind-of-loop/6669565145956352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_117083229792012954065235'
+    }, 
+    {
       title: 'Derivado de "Desafío: escribe un poema"', 
       author: 'villanuevalogacho', 
       votes: 1, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/image-vs-blit-benchmarking/5686969289195520/5236032619724800.png', 
       link: 'https://www.khanacademy.org/computer-programming/image-vs-blit-benchmarking/5686969289195520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_142152517100107888031317'
-    }, 
-    {
-      title: '#1 snowman', 
-      author: 'defa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1-snowman/6353179131559936/5043940089970688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1-snowman/6353179131559936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_371828124382167623962757'
-    }, 
-    {
-      title: 'ex1 khan21', 
-      author: 'dani2710', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ex1-khan21/6387792692428800/5130513091444736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ex1-khan21/6387792692428800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9338964167329666413024572'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'mlisothiga', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4784148675084288/5828729516638208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4784148675084288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9111486201116314497877815'
-    }, 
-    {
-      title: 'Anton Hjemmeside', 
-      author: 'cikiflying', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/anton-hjemmeside/6656545472692224/6544312172331008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/anton-hjemmeside/6656545472692224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_115392516089598843461716'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Cheten Gurung', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5293686331326464/5127389610033152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5293686331326464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174885660087415494444965'
-    }, 
-    {
-      title: 'Ny hjemmeside', 
-      author: 'unordfban', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4986655091245056/6170502646513664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4986655091245056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979313435431096065454986'
-    }, 
-    {
-      title: 'Ny hjemmeside', 
-      author: 'eduehedensted', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4745654342828032/5007092223361024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/4745654342828032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1148180535707880815873605'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'Meirlan Gabituly', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5937006531362816/5270188028379136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5937006531362816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7712757466546212546886636'
-    }, 
-    {
-      title: '  fishy', 
-      author: 'emerald', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fishy/4984312572461056/6696441642008576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fishy/4984312572461056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1120340332871014779478905'
     }, 
   ];
 };
