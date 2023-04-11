@@ -775,83 +775,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: 'Derivado de "Desafío: un viaje de ensueño"', 
-      author: 'Paola Michelle Mendoza', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4889102760853504/6182418949390336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4889102760853504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_943638257066536613777072'
-    }, 
-    {
-      title: 'spin-off / BOBA TEA!!!', 
-      author: 'Sara Goodgasell', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-boba-tea/5875070284382208/5353329132879872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-boba-tea/5875070284382208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2864800910901593856011809'
-    }, 
-    {
-      title: 'My Home', 
-      author: 'velosiraptor1', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-home/4906543935176704/6224717465042944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-home/4906543935176704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_171967594196591976293023'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'Aishani Singh', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5677879192240128/6619854053621760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5677879192240128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1181379395266763756732895'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'a.odiljonov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4561249452212224/4702153689317376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4561249452212224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_253934783141112804373609'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'gutfranskilexi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5203731395428352/5732749362380800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5203731395428352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7195841714810407735520340'
-    }, 
-    {
-      title: '"Project: Shooting star"', 
-      author: 'JOHNSON86', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5677112104370176/5263571413155840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5677112104370176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4678633930186623952909098'
-    }, 
-    {
-      title: 'finding square roots two different ways', 
-      author: 'Clark Kent (offline)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6218856646623232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
       title: 'Spin-off of "Project: Travel webpage"', 
       author: 'Marios', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5779279830106112/6572662534225920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5779279830106112/5254661704826880.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5779279830106112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_942418768947920588646326'
     }, 
@@ -899,6 +827,78 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/book-store-database/6059922841452544/4812228454039552.png', 
       link: 'https://www.khanacademy.org/computer-programming/book-store-database/6059922841452544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533416507103006660753806'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'mariana aguado', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6484484754292736/6525240755929088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6484484754292736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3217555795062883740560161'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'CAITLYN WAHNSCHAFFE', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6618828512739328/6309554494423040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6618828512739328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1175579066028784727019144'
+    }, 
+    {
+      title: 'circle face', 
+      author: 'estepmichelle20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-face/6093545791602688/5980189994827776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circle-face/6093545791602688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
+      author: 'nicollcabrerapimienta', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6678516881211392/5333242158039040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6678516881211392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_697316860591232199931448'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'aclayjenk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4895301791170560/6734996556791808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4895301791170560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_824877736766466332309735'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Luis Lovera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5693230713978880/5458163697762304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5693230713978880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8180003726579677411873568'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'jlisk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4830926573191168/4754916624351232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4830926573191168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4158437123325344365248348'
+    }, 
+    {
+      title: 'Penguin Pixel Art', 
+      author: 'cjcool', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208/6514730450862080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/penguin-pixel-art/5335567446622208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
   ];
 };
