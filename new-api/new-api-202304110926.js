@@ -541,6 +541,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: 'waves logo(s) :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5748268102631424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: ' my subpage MAKe SURE TO SUB', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -748,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Filip Tomalski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4964667878588416/5571798835183616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4964667878588416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8234144045871151863129766'
+    }, 
+    {
       title: 'WHY NOT TO BE A HAMBURGER', 
       author: 'jdavidsm', 
       votes: 3, 
@@ -757,6 +775,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
+      title: 'Derivado de "Colorear con código"', 
+      author: 'ana.esperon.carrasco', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/6271198658084864/4540386631794688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/6271198658084864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_565441217106214660010201'
+    }, 
+    {
       title: 'MetaBalls', 
       author: 'Manta', 
       votes: 32, 
@@ -764,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
       link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'paula herrera', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4897089856520192/5462755957325824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4897089856520192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6687806429432747579009303'
     }, 
     {
       title: 'Derivado de "Dibujar más figuras con código"', 
@@ -797,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'mdav9768', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-house/6142254814380032/5575883483299840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-house/6142254814380032/6484897775796224.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-house/6142254814380032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_636835374635251826787014'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mueco-adrian-lorenzo/5746163954532352/5790955161829376.png', 
       link: 'https://www.khanacademy.org/computer-programming/mueco-adrian-lorenzo/5746163954532352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247425968746819630135329'
-    }, 
-    {
-      title: 'snowman 2', 
-      author: 'nstu9839', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman-2/5374180393795584/5721743710011392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snowman-2/5374180393795584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4842468276466210853895256'
-    }, 
-    {
-      title: 'mUÑECO DE NIEVE cIRO', 
-      author: 'cirojose.duran.rial', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mueco-de-nieve-ciro/5878936241487872/5052703366758400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mueco-de-nieve-ciro/5878936241487872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_672038758006230595349239'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'X-27', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5338999528144896/5288357904302080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5338999528144896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1135339895772534497467476'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'adalvarez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6178074992623616/5881845796618240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6178074992623616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_911890246577797987209300'
     }, 
   ];
 };
