@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
-      votes: 48, 
+      votes: 47, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'quiet city', 
       author: 'Green Ghost', 
-      votes: 66, 
+      votes: 65, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6096230750142464.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
@@ -165,20 +165,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
-      votes: 54, 
+      votes: 53, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/4871735842488320.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'finding square roots two different ways', 
-      author: 'Clark Kent (offline)', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6313172719157248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'KASE editor: beta version', 
@@ -217,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Bad Soft Body physics', 
-      author: 'Wort-Head', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896/6608677340758016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
       title: 'The One Ring', 
       author: 'PinkPants09', 
       votes: 8, 
@@ -251,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168/6703727852699648.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'finding square roots two different ways', 
+      author: 'Clark Kent (offline)', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6313172719157248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Contest', 
@@ -305,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-page/5898870023569408/6449768567193600.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-page/5898870023569408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
+    }, 
+    {
+      title: 'Bad Soft Body physics', 
+      author: 'Wort-Head', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896/6608677340758016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'birthday is tommorow', 
@@ -784,24 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_959758016769962296173969'
     }, 
     {
-      title: 'Dodge the Obstacles', 
-      author: 'Celinedfa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-the-obstacles/5550980524720128/5652126903877632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dodge-the-obstacles/5550980524720128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_369697116316332560597113'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Lightning Driver, Esq.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5565829937938432/4994252838060032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5565829937938432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1999891435780512582269782'
-    }, 
-    {
       title: 'a toxic world', 
       author: 'the Knight_400', 
       votes: 24, 
@@ -809,15 +791,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296/6683777981267968.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-toxic-world/5858693087543296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'Derivado de "I said Sno more puns! "', 
-      author: 'A.V.L.', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-i-said-sno-more-puns/5409201037033472/4870259799801856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-i-said-sno-more-puns/5409201037033472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6463081364970429313965115'
     }, 
     {
       title: 'Spin-off of "Challenge: Book list database"', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312/6689076897169408.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_49690286628981394493064'
+    }, 
+    {
+      title: 'Spin-off of "Clarifying with Comments"', 
+      author: 'Mona Mitiku', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6529188954947584/5928720046276608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6529188954947584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3341244259609926620395038'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'usmaangely5', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6378955914657792/6505886559551488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6378955914657792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_116728345902903596743231'
+    }, 
+    {
+      title: 'Cycle 10_Protesta_27_6C', 
+      author: 'maypr2029', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cycle-10_protesta_27_6c/5539078415368192/6564444999303168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cycle-10_protesta_27_6c/5539078415368192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_16068314942568210303910'
     }, 
   ];
 };
