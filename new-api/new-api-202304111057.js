@@ -442,33 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'random facts about me :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888/6266896006823936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'First ever challenge: Simple snowman"', 
-      author: 'The One and Only', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-ever-challenge-simple-snowman/5486516605599744/4603528455962624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-ever-challenge-simple-snowman/5486516605599744', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1890551377878589613035418'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'olisa uduje', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5348587488985088/5964254340759552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5348587488985088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1069508160904615626220716'
-    }, 
-    {
       title: 'Pixel art template', 
       author: 'Seth | Flightsong', 
       votes: 3, 
@@ -785,42 +758,6 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New SQL script', 
-      author: 'hamza.abdelrahman048', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/5348524222103552/5332613616418816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/5348524222103552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_990329459081855501564247'
-    }, 
-    {
-      title: 'Projet dérivé de "Dessiner plus de formes avec le code."', 
-      author: 'yvan24bourdette', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dessiner-plus-de-formes-avec-le-code/4596014444232704/4521454952824832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dessiner-plus-de-formes-avec-le-code/4596014444232704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1154099342290645916797220'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'zz9097', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6324774717669376/6750585006374912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6324774717669376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_822239649252972539461018'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : concevoir une base de données de magasin"', 
-      author: 'Moustapha Fall', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/6626661392236544/5379682985099264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/6626661392236544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2839621830884468175632637'
-    }, 
-    {
-      title: 'New SQL script', 
       author: 'kenzy.salah016', 
       votes: 1, 
       forks: 0, 
@@ -845,6 +782,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5510414894153728/4662773033517056.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5510414894153728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2948694593100323913365384'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'olisa uduje', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5348587488985088/5964254340759552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5348587488985088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1069508160904615626220716'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/classmates-quiz-recovery/4650094541717504/4934260030226432.png', 
       link: 'https://www.khanacademy.org/computer-programming/classmates-quiz-recovery/4650094541717504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7489535357275290455609127'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'Gael Pont', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5465590988062720/5006439338000384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5465590988062720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1108556794961744465353624'
+    }, 
+    {
+      title: 'Birth of a Splatter', 
+      author: 'agudani', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/birth-of-a-splatter/5184649174499328/5076730873430016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/birth-of-a-splatter/5184649174499328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1103940361018802048405731'
+    }, 
+    {
+      title: 'Quiz 7', 
+      author: 'salma.youssef850', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-7/5539019309236224/6464815666348032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-7/5539019309236224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_40322844039458981266118'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'anan41519', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5937649451057152/6549667711336448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5937649451057152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_379382648359161213865532'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'Danjiel Álvarez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6155940006248448/4962315847122944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6155940006248448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1158904363054358879794380'
+    }, 
+    {
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'gonzalogylabert', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4870390527868928/4571672062771200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4870390527868928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_751966615644823296490929'
     }, 
   ];
 };
