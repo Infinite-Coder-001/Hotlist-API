@@ -775,6 +775,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
+      title: 'New program', 
+      author: 'ndoumbe_ndoye', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5892377945620480/5861184453787648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5892377945620480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1780003970725997618306696'
+    }, 
+    {
+      title: 'Sunny snowy day', 
+      author: 'estepmichelle20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/6140420863344640/4992487807827968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/6140420863344640', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Jojo', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448/4862677773238272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_615299037145123918651997'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'Pamela  Cervantes ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5883888657547264/4684937732341760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5883888657547264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1779271672978875819320647'
+    }, 
+    {
       title: 'quick math', 
       author: 'Moonpool', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5677112104370176/5263571413155840.png', 
       link: 'https://www.khanacademy.org/computer-programming/project-shooting-star/5677112104370176', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4678633930186623952909098'
-    }, 
-    {
-      title: 'finding square roots two different ways', 
-      author: 'Clark Kent (offline)', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6313172719157248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Marios', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5779279830106112/6572662534225920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5779279830106112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_942418768947920588646326'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: The dinner table" Yahooooo', 
-      author: 'New sheldon', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table-yahooooo/5067102462722048/5157104693592064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-the-dinner-table-yahooooo/5067102462722048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9830973508362781522038240'
-    }, 
-    {
-      title: 'Lightning Platformer Demo', 
-      author: 'LightningCoder', 
-      votes: 55, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352/5217168854925312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lightning-platformer-demo/5687748309860352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
   ];
 };
