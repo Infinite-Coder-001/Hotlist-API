@@ -91,20 +91,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'ohnoes', 
-      author: 'LovelyPetals', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Clock', 
       author: 'The Goo 🌪', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888/6534126909046784.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888/6172606744281088.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/6538852648140800.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'ohnoes', 
+      author: 'LovelyPetals', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'birthday is tommorow', 
@@ -417,7 +417,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Claw! [GAME]', 
       author: '✝︎ Volatile ✝︎', 
-      votes: 24, 
+      votes: 23, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
@@ -802,103 +802,103 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Array practice', 
-      author: 'fbonilla2022', 
+      title: 'Spin-off of "Challenge: Links for learning"', 
+      author: 'ricardsdzirnieks16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/array-practice/6605171993133056/4601160033157120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/array-practice/6605171993133056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_564175171699513086322157'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5334632334934016/4719810937405440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-links-for-learning/5334632334934016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1132881949473518754104006'
     }, 
     {
-      title: 'hopper balloon array', 
-      author: 'Trinity Sencindiver', 
+      title: 'quad prac', 
+      author: 'garcisab7', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hopper-balloon-array/6715275610472448/5791338688987136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hopper-balloon-array/6715275610472448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_203273293332587111435486'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quad-prac/6404181733982208/6287583169789952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quad-prac/6404181733982208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_385725072645061508651439'
     }, 
     {
-      title: 'SL Spin-off of "Project: Shooting star"', 
-      author: '2024SLabuz', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'acardenas47', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sl-spin-off-of-project-shooting-star/5352168266973184/5088452778704896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sl-spin-off-of-project-shooting-star/5352168266973184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_69554774836726316205162'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6732492121096192/5162884729716736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6732492121096192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_558934941688789303852746'
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Lily', 
+      author: '127132', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5565879497834496/6367425353531392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5565879497834496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147831755272183638914525'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6062073227558912/5795839076515840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6062073227558912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2857127730743274094437815'
     }, 
     {
-      title: 'cute quads', 
-      author: 'mcmichlo26', 
+      title: 'quad practice', 
+      author: 'masopark22', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cute-quads/6036882237734912/5182463925338112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cute-quads/6036882237734912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1085937178348489901432681'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quad-practice/6140239233204224/5518347631640576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quad-practice/6140239233204224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_670244352595683529099063'
     }, 
     {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'BRAYDENH', 
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Arman Choudhary', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6261380564172800/6136168929607680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6261380564172800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8034516777172316476022787'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5110338271100928/6627890507857920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5110338271100928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8206711370017286844875102'
     }, 
     {
-      title: 'Spin-off z "Projekt: Co jest na obiad?"', 
-      author: 'Olga P.', 
+      title: 'This is what robot Winston says.', 
+      author: 'Mr Sterling Hogan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5178448265134080/5332726443196416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad/5178448265134080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1015714219878616671570137'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-what-robot-winston-says/5211831636639744/4577335430135808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-what-robot-winston-says/5211831636639744', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6477834721951460683829265'
     }, 
     {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'daksh.ft232087', 
+      title: 'quads practice ', 
+      author: 'green unbrella', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4603201501577216/4531535794716672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/4603201501577216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3209948599511536145744920'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quads-practice/5485061819645952/6619767030202368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quads-practice/5485061819645952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_850831672309704196043614'
     }, 
     {
-      title: 'hopper', 
-      author: 'lucy030326', 
+      title: 'quad practice ', 
+      author: 'EllieS', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hopper/4912742395068416/4671720457027584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hopper/4912742395068416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_139267144307067235782415'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quad-practice/5586004154302464/5690032171302912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quad-practice/5586004154302464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_864850987232430857625830'
     }, 
     {
-      title: 'New program', 
-      author: 'fishcece14', 
+      title: 'QUAD PRACTICE', 
+      author: 'LillianR', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5491605755969536/4612084416692224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5491605755969536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_636360516477993719769943'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quad-practice/6722977493467136/6418366803001344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quad-practice/6722977493467136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1342055012856846315328788'
     }, 
     {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'Izabella', 
+      title: 'quad practice', 
+      author: 'ehribren15', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5758337418575872/4915392658325504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5758337418575872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1059877825644878142911183'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quad-practice/5966434992963584/4870626566520832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quad-practice/5966434992963584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_908286712298787257580068'
     }, 
   ];
 };
