@@ -757,6 +757,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'alam3215', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5775969014300672/6470263949803520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5775969014300672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1082214566087247942058567'
+    }, 
+    {
+      title: 'New program', 
+      author: 'HoarseHorse', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4944186974715904/5274430533320704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4944186974715904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'Spin-off of "Project: Bookshelf" 2', 
+      author: '26gursheend0855', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf-2/6350673236246528/4719184593600512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf-2/6350673236246528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1075596272412314919778504'
+    }, 
+    {
+      title: 'Derivação de "Projeto: Projetar o banco de dados de uma loja"', 
+      author: 'alex.alves', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6200241201397760/4776772169416704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-projetar-o-banco-de-dados-de-uma-loja/6200241201397760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_796300189074864205067993'
+    }, 
+    {
       title: 'Toro_Frogger', 
       author: 'donto', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5837262643576832/6228691299647488.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5837262643576832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_625404986098890484532524'
-    }, 
-    {
-      title: 'Challenge: Write a Poem', 
-      author: 'ses22080021', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/6044337025892352/5478520869666816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/6044337025892352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_685545976553693858686177'
-    }, 
-    {
-      title: 'Spin-off of "HTML basics"', 
-      author: 'sean47670', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6070978708029440/5873244453519360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/6070978708029440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6370189011223271219593491'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'olivia echelson', 
-      votes: 1, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5092739239952384/6227755885969408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5092739239952384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4702737584913960209271261'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'chris.choi5', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6161741970194432/5457242175619072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6161741970194432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_590604277218871499477921'
     }, 
   ];
 };
