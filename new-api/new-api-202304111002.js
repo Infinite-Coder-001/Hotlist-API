@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'waves logo(s) :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6275743874334720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Pixel art template', 
       author: 'Seth | Flightsong', 
       votes: 3, 
@@ -539,15 +548,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216/5581485177618432.png', 
       link: 'https://www.khanacademy.org/computer-programming/speed-math-pre-release/5932867172745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'waves logo(s) :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6275743874334720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: ' my subpage MAKe SURE TO SUB', 
@@ -757,6 +757,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
+      title: 'Spin-off von "Projekt: Was gibt\'s zum Abendessen?"', 
+      author: 'onin98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-was-gibts-zum-abendessen/5944699086225408/5306788145840128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-was-gibts-zum-abendessen/5944699086225408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_871089622746618952540784'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Adam Adriano', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4743838192418816/5278445505658880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4743838192418816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4360627636860636716641381'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'Ernur', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4797448896954368/5843457580253184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/4797448896954368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1012986974176217299148404'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'mallampalli', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4908181274017792/5665974515974144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4908181274017792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7243195332087309798216532'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'darianaacosta106', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5884794425884672/6071993326944256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5884794425884672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_688983829385901284520866'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: My Favorite Foods"', 
+      author: 'niemandcian', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5522263484186624/5050375024721920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5522263484186624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465961878119123048974320'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'darianaacosta106', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5285703480295424/4519161121521664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/5285703480295424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_688983829385901284520866'
+    }, 
+    {
+      title: 'Bigger Message', 
+      author: 'Don Handfield', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bigger-message/5421739959173120/6246497311309824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bigger-message/5421739959173120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_598589806994408162486304'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: blog"', 
+      author: 'luciamorenom05', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/4718150580224000/4922584396513280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/4718150580224000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_120336060378383850935083'
+    }, 
+    {
       title: 'Projet dérivé de "Défi : base de données de livres"', 
       author: 'Moustapha Fall', 
       votes: 1, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6199061293350912/6232896559169536.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6199061293350912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1187252111989392526814792'
-    }, 
-    {
-      title: 'The house was built', 
-      author: 'CactusJack04', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-house-was-built/6520618297376768/5037827344875520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-house-was-built/6520618297376768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_747300242279646499583322'
-    }, 
-    {
-      title: 'Comida, la razon de la vida', 
-      author: 'Karen Alvarez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376/6267329446199296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_504895006249809143785861'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'Filip Tomalski', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4964667878588416/5571798835183616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4964667878588416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8234144045871151863129766'
-    }, 
-    {
-      title: 'WHY NOT TO BE A HAMBURGER', 
-      author: 'jdavidsm', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-not-to-be-a-hamburger/5752347684028416/6411418267336704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-not-to-be-a-hamburger/5752347684028416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
-      title: 'Derivado de "Colorear con código"', 
-      author: 'ana.esperon.carrasco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/6271198658084864/4540386631794688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/6271198658084864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_565441217106214660010201'
-    }, 
-    {
-      title: 'MetaBalls', 
-      author: 'Manta', 
-      votes: 32, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584/6647068593799168.png', 
-      link: 'https://www.khanacademy.org/computer-programming/metaballs/5294213890883584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'paula herrera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4897089856520192/5462755957325824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/4897089856520192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6687806429432747579009303'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'daniela.rodriguez.iglesias', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5679525590777856/6181160591081472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5679525590777856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_670295422869112581863358'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'amangeldierxan00', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6382218932174848/6414337855242240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6382218932174848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_202523714802360851872251'
     }, 
   ];
 };
