@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'Hibernia Productions🎥', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224/6471456944078848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224/6607019617599488.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
@@ -793,60 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'usmaangely5', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5295029297135616/6344875600822272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5295029297135616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_116728345902903596743231'
-    }, 
-    {
-      title: 'V5', 
-      author: 'Estefani Lima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/v5/5456524043665408/6236164223975424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/v5/5456524043665408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697390546079715550189496'
-    }, 
-    {
-      title: 'Spin-off of "Making animations"', 
-      author: 'funmi fatoyinbo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6314861496942592/4796104773517312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6314861496942592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3890130822971587176634667'
-    }, 
-    {
-      title: 'V4', 
-      author: 'Estefani Lima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/v4/6182242117533696/5650057954377728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/v4/6182242117533696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697390546079715550189496'
-    }, 
-    {
-      title: 'V3', 
-      author: 'Estefani Lima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/v3/5403589041504256/5665049000853504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/v3/5403589041504256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697390546079715550189496'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'tmon7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312/6689076897169408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_49690286628981394493064'
-    }, 
-    {
       title: 'Spin-off of "Clarifying with Comments"', 
       author: 'Mona Mitiku', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4816865571684352/4833673070559232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4816865571684352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2884424024551581593410425'
+    }, 
+    {
+      title: ' What\'s for dinner?', 
+      author: 'estepmichelle20', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/whats-for-dinner/6743223499538432/5483407988801536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/whats-for-dinner/6743223499538432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Your First Painting App"', 
+      author: 'Andre LaMothe', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/5405467032731648/4869675768135680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/5405467032731648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_766336032831626982637147'
+    }, 
+    {
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Murillo, Isis', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6682160875749376/5394157628866560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6682160875749376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_632733558889904935648131'
+    }, 
+    {
+      title: 'House (ANIMATION)', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/house-animation/6116856693047296/6056396555862016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/house-animation/6116856693047296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Zack Ferreira', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6333465047121920/5991110234390528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6333465047121920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_502000200280482501109796'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'KirbyMerrick', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6743733526904832/5793085666934784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6743733526904832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287937567679270029058999'
     }, 
   ];
 };
