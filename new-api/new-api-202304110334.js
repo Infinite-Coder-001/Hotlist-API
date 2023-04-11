@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Animated dots 2! [sine demo]', 
-      author: 'Arrow.programming', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720/5340966136627200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'ohnoes', 
       author: 'LovelyPetals', 
       votes: 13, 
@@ -118,13 +109,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'quiet city', 
-      author: 'Green Ghost', 
-      votes: 65, 
+      title: 'Animated dots 2! [sine demo]', 
+      author: 'Arrow.programming', 
+      votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6096230750142464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720/5340966136627200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-dots-2-sine-demo/4679874116894720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
@@ -134,6 +125,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/6538852648140800.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'quiet city', 
+      author: 'Green Ghost', 
+      votes: 64, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6096230750142464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Charzard', 
@@ -212,7 +212,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/4865520722821120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/6387801181700096.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -623,7 +623,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Terraria lighting WIP', 
-      author: 'StuffStash', 
+      author: 'StuffStash (The Real One)', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/terraria-lighting-wip/5203402343890944/5208044297568256.png', 
@@ -775,78 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Book Store Database', 
-      author: 'ammaafram.kwarteng', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/book-store-database/6059922841452544/4812228454039552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/book-store-database/6059922841452544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533416507103006660753806'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'mariana aguado', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6484484754292736/6525240755929088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/6484484754292736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3217555795062883740560161'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'CAITLYN WAHNSCHAFFE', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6618828512739328/6309554494423040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6618828512739328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1175579066028784727019144'
-    }, 
-    {
-      title: 'circle face', 
-      author: 'estepmichelle20', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-face/6093545791602688/5980189994827776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circle-face/6093545791602688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'nicollcabrerapimienta', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6678516881211392/5333242158039040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6678516881211392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697316860591232199931448'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'aclayjenk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4895301791170560/6734996556791808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4895301791170560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_824877736766466332309735'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'Luis Lovera', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5693230713978880/5458163697762304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5693230713978880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8180003726579677411873568'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'jlisk', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4830926573191168/4754916624351232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4830926573191168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4158437123325344365248348'
-    }, 
-    {
       title: 'Penguin Pixel Art', 
       author: 'cjcool', 
       votes: 13, 
@@ -899,6 +827,78 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5659331778625536/6269358952464384.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5659331778625536', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_415668829834577031292646'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Diego Morales Saavedra', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6717477435523072/5384335357427712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6717477435523072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_121772797514337309046965'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star Lukas"', 
+      author: 'lukas.kato', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-lukas/6217392582868992/5984653506035712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-lukas/6217392582868992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_319039519148646624988508'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'aaleAtaullah', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4928888804524032/5179678186061824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4928888804524032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155229748066025817389255'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'aaleAtaullah', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4533707571773440/4630884008640512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4533707571773440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155229748066025817389255'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Optical illusion"', 
+      author: 'Jayson Chris', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/6596300134203392/5215798055714816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/6596300134203392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_704723174948802943135813'
+    }, 
+    {
+      title: 'Spin-off of "Project: Culminating Task: Greetings Card" - Alexander Wong', 
+      author: 'alexandermoon.wong', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card-alexander-wong/5447540364591104/6525933201965056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-culminating-task-greetings-card-alexander-wong/5447540364591104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_839342896245042727087540'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'willplechaty', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4533985150812160/5176577454555136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4533985150812160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_932210667092960017619095'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'Danel Hommeus', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6628382029955072/5194144206340096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6628382029955072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_788850747115326938244759'
     }, 
   ];
 };
