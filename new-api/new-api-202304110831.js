@@ -766,60 +766,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'New program', 
-      author: 'touheedali643', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6280913135910912/5884593787158528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6280913135910912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_31268360517859820481678'
-    }, 
-    {
-      title: 'Spin-off of "Resizing shapes with variable expressions"', 
-      author: 'Zhao Zejia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5313463196106752/5485781914533888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5313463196106752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_324221072546942799200688'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'haitsbrittney', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4673707114283008/5464017973067776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/4673707114283008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_749475908943680197989933'
-    }, 
-    {
-      title: 'kajal amjad', 
-      author: 'hassanrafaqat68', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kajal-amjad/4708089233457152/5829247496404992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kajal-amjad/4708089233457152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_877634826455947354491183'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Say Your Name"', 
-      author: 'wang zunyan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6480301523255296/6330074757644288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-say-your-name/6480301523255296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7054028921945082221105365'
-    }, 
-    {
-      title: 'Cool Dog', 
-      author: 'nstu9839', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-dog/6318098459443200/5581238367993856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-dog/6318098459443200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4842468276466210853895256'
-    }, 
-    {
       title: 'Inspirováno programem "Projekt: Postav dům"', 
       author: 'Martin Vořechovský', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6293492373700608/4912623595601920.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6293492373700608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_341762898754293048083987'
+    }, 
+    {
+      title: 'Første hjemmeside', 
+      author: 'hektordanielsen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frste-hjemmeside/5896075627249664/5957246413750272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frste-hjemmeside/5896075627249664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_887006326275009794595750'
+    }, 
+    {
+      title: 'Mad', 
+      author: 'Alex Rasmussen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mad/4743346250891264/5684237153124352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mad/4743346250891264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3221781564719208286992706'
+    }, 
+    {
+      title: 'Ny hjemmeside', 
+      author: 'unordossol', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/6752102086131712/6165190778601472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/6752102086131712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_822243101173803865709420'
+    }, 
+    {
+      title: 'Spin-off of "Making animations"', 
+      author: 'Zhao Zejia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6199021548126208/4911405989150720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6199021548126208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_324221072546942799200688'
+    }, 
+    {
+      title: 'skole lektion 2', 
+      author: 'unordejha', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skole-lektion-2/5821753952878592/5776608964427776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skole-lektion-2/5821753952878592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299557841793461782911316'
+    }, 
+    {
+      title: '5 gode ting sommerferier', 
+      author: 'unordlalms', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/5-gode-ting-sommerferier/6052763365851136/5924854391160832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/5-gode-ting-sommerferier/6052763365851136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_564734324824212001789201'
     }, 
   ];
 };
