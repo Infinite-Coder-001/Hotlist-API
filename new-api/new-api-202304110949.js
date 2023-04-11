@@ -460,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'if you wait \'till you're ready, you'll be waiting you're whole life :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392/5454323359465472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'NF page(WIP)', 
       author: 'Blake Meloche (T1)', 
       votes: 3, 
@@ -467,15 +476,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nf-pagewip/5788012102598656/5360560465297408.png', 
       link: 'https://www.khanacademy.org/computer-programming/nf-pagewip/5788012102598656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'if you wait \'till you're ready, you'll be waiting you're whole life :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392/5454323359465472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-wait-till-youre-ready-youll-be-waiting-youre-whole-life-p/5304467085115392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'wikiImgLoad', 
@@ -545,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5032894960812032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6275743874334720.png', 
       link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -757,6 +757,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
+      title: 'Projet dérivé de "Défi : base de données de livres"', 
+      author: 'Moustapha Fall', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/6582999409016832/5046181056266240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dfi-base-de-donnes-de-livres/6582999409016832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2839621830884468175632637'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'amangeldierxan00', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6162155780227072/5786745691226112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/6162155780227072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_202523714802360851872251'
+    }, 
+    {
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'jmelnik2006', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5070673862246400/4713745202069504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5070673862246400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_416854113413099163505344'
+    }, 
+    {
       title: 'Spin-off of "Project: Build-a-House" Jude G', 
       author: 'Jude G', 
       votes: 1, 
@@ -806,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'Karen Alvarez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376/4752510100488192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376/6267329446199296.png', 
       link: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_504895006249809143785861'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6382218932174848/6414337855242240.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6382218932174848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_202523714802360851872251'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'mgalmun330', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5853614087389184/6557746595151872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5853614087389184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1183961067133350705119983'
-    }, 
-    {
-      title: 'The house', 
-      author: 'mdav9768', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-house/6142254814380032/6484897775796224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-house/6142254814380032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_636835374635251826787014'
-    }, 
-    {
-      title: 'Derivado de "Colorear con código"', 
-      author: 'ana.esperon.carrasco', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/4687261011853312/5071448164319232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/4687261011853312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_565441217106214660010201'
     }, 
   ];
 };
