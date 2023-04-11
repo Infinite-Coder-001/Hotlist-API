@@ -793,6 +793,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Spin-off of "Clarifying with Comments"', 
+      author: 'Mona Mitiku', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6529188954947584/5928720046276608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6529188954947584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3341244259609926620395038'
+    }, 
+    {
       title: 'Derivado de "Proyecto: estrella fugaz"', 
       author: 'usmaangely5', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6743733526904832/5793085666934784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6743733526904832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287937567679270029058999'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Osha Koch', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5907572113850368/5362643658653696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5907572113850368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6156708101718428464628323'
     }, 
   ];
 };
