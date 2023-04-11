@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'WIP', 
       author: '▪Dipper98▪', 
-      votes: 14, 
+      votes: 15, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Animated squares! [sine demo] [using rotation]', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Sub page', 
       author: 'Deathly Hallows', 
       votes: 10, 
@@ -244,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'Animated squares! [sine demo] [using rotation]', 
-      author: 'Arrow.programming', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/5951162072481792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Charzard', 
       author: 'Green Light', 
       votes: 23, 
@@ -287,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/addies-subpage/4765007247360000/5644272012673024.png', 
       link: 'https://www.khanacademy.org/computer-programming/addies-subpage/4765007247360000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6490115305785159643926933'
+    }, 
+    {
+      title: 'backup of sloppyness', 
+      author: 'apex alt', 
+      votes: 5, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072/5384275932528640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'A N-Ice Fresh Cold Lemon', 
@@ -361,12 +370,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'backup of sloppyness', 
+      title: 'gpt circ collision reference', 
       author: 'apex alt', 
       votes: 4, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072/5384275932528640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072', 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896/4536127534186496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
@@ -478,13 +487,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
     {
-      title: 'gpt circ collision reference', 
-      author: 'apex alt', 
+      title: 'Circle Finder', 
+      author: 'HB_the_Pencil', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896/4536127534186496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/5438091088412672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'wikimedia image loader', 
@@ -746,15 +755,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5286533398839296/6719043152429056.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5286533398839296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1063627232584338918568814'
-    }, 
-    {
-      title: 'Circle Finder', 
-      author: 'HB_the_Pencil', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/5438091088412672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'FnaW Ohnoes', 
