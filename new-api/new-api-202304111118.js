@@ -775,6 +775,60 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: '1° programa', 
+      author: 'anacarolinemedeirosdealmeida', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1-programa/5617059200548864/6498727503380480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1-programa/5617059200548864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_782023372283940911962941'
+    }, 
+    {
+      title: '3D terrian', 
+      author: 'SpyTen1050', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3d-terrian/4595053864730624/4562341195988992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3d-terrian/4595053864730624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_989521074993084484067754'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'ianmicheal23', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4922834762907648/4716583990902784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4922834762907648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_509886627936279695044329'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack" Samuel Y  Fadua', 
+      author: 'Fadua Y Samu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-samuel-y-fadua/5997441435615232/5009318627033088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-samuel-y-fadua/5997441435615232', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_356093587419014727499371'
+    }, 
+    {
+      title: 'Spin-off of "Readable Code"', 
+      author: 'malak elseragy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5799225507233792/4506528901283840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-readable-code/5799225507233792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6158169663082366644087186'
+    }, 
+    {
+      title: 'Spin-off of "Clarifying with Comments"', 
+      author: 'malak elseragy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6302267998519296/5237559698702336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-clarifying-with-comments/6302267998519296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6158169663082366644087186'
+    }, 
+    {
       title: 'Spin-off of "Readable Code"', 
       author: 'malak elseragy', 
       votes: 1, 
@@ -797,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'Mariam', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5665823957237760/6571326375772160.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5665823957237760/5951854501740544.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5665823957237760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-asteroids-spaceship/5350943060443136/5197153166475264.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-asteroids-spaceship/5350943060443136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4806713213878020567417776'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ib100496', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6052560428646400/4682925779238912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6052560428646400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_592871066780044040989484'
-    }, 
-    {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Yossaf Qarizadah', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5875922550177792/5764187063369728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5875922550177792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2927168818690037177642988'
-    }, 
-    {
-      title: 'Minecraft Poem', 
-      author: 'ishkimono', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-poem/5410214716424192/6616984864473088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/minecraft-poem/5410214716424192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_594737406669167845032049'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'ahmjaff', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6145659716812800/4663137417871360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6145659716812800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1678187548990763707153079'
-    }, 
-    {
-      title: 'New SQL script', 
-      author: 'hamza.abdelrahman048', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-sql-script/5348524222103552/5332613616418816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-sql-script/5348524222103552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_990329459081855501564247'
-    }, 
-    {
-      title: 'Projet dérivé de "Dessiner plus de formes avec le code."', 
-      author: 'yvan24bourdette', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dessiner-plus-de-formes-avec-le-code/4596014444232704/4521454952824832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-dessiner-plus-de-formes-avec-le-code/4596014444232704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1154099342290645916797220'
     }, 
   ];
 };
