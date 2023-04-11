@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'no.', 
       author: 'Canada Goose', 
       votes: 50, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
@@ -775,6 +775,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'sultanbekulydamir', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4541001902637056/4523591782940672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4541001902637056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_245049696217535493611260'
+    }, 
+    {
+      title: '"Challenge: Write a Poem"', 
+      author: 'ira2018asthana', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/5684012405538816/6052353179697152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/challenge-write-a-poem/5684012405538816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_696073666614039705363471'
+    }, 
+    {
       title: 'Game tests ^2^', 
       author: 'Chandra Nalaar', 
       votes: 7, 
@@ -788,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'Celinedfa', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-the-obstacles/5550980524720128/5652126903877632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-the-obstacles/5550980524720128/5248455560970240.png', 
       link: 'https://www.khanacademy.org/computer-programming/dodge-the-obstacles/5550980524720128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_369697116316332560597113'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/v4/6182242117533696/5650057954377728.png', 
       link: 'https://www.khanacademy.org/computer-programming/v4/6182242117533696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_697390546079715550189496'
-    }, 
-    {
-      title: 'V3', 
-      author: 'Estefani Lima', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/v3/5403589041504256/5665049000853504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/v3/5403589041504256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_697390546079715550189496'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'tmon7', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312/6689076897169408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5108662210445312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_49690286628981394493064'
     }, 
   ];
 };
