@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'Collision Detection', 
+      author: 'Dominic R.', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 68, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4887951290187776.png', 
       link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
-    }, 
-    {
-      title: 'Collision Detection', 
-      author: 'Dominic R.', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'finding square roots two different ways', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'I could use some help =P', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5845991896170496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 10, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/4761779998867456.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'I could use some help =P', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5845991896170496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Animated dots 2! [sine demo]', 
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'Sub page', 
+      author: 'Deathly Hallows', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page/5156390135185408/5327742754406400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub-page/5156390135185408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
       title: 'Lonely', 
       author: 'Arrow.programming', 
       votes: 7, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896/6608677340758016.png', 
       link: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'Sub page', 
-      author: 'Deathly Hallows', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page/5156390135185408/5327742754406400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub-page/5156390135185408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
       title: 'Animated dots 3! [sine demo] || Graphing sine', 
@@ -361,6 +361,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998254288641590607887859'
     }, 
     {
+      title: 'Collision Examples', 
+      author: 'Dominic R.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
+      title: 'Super Mario brothers 1', 
+      author: 'Cainbaily jr', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-brothers-1/5423537285545984/5286733567803392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-brothers-1/5423537285545984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1126980006190314366024611'
+    }, 
+    {
+      title: 'Super Mario ', 
+      author: 'Ducky Momo', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
       title: 'The Griffins gold (game)', 
       author: 'Deathly Hallows', 
       votes: 7, 
@@ -458,33 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-sunny-spring-day/4841354116251648/6302824985313280.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-sunny-spring-day/4841354116251648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'Collision Examples', 
-      author: 'Dominic R.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Super Mario brothers 1', 
-      author: 'Cainbaily jr', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-brothers-1/5423537285545984/5286733567803392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario-brothers-1/5423537285545984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1126980006190314366024611'
-    }, 
-    {
-      title: 'Super Mario ', 
-      author: 'Ducky Momo', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'Name/ avatar change', 
