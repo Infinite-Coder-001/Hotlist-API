@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Another Lemon', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 20, 
+      votes: 18, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384/6032379451064320.png', 
       link: 'https://www.khanacademy.org/computer-programming/another-lemon/5241932730384384', 
@@ -802,24 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
     }, 
     {
-      title: ' What\'s for dinner?', 
-      author: 'estepmichelle20', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/whats-for-dinner/6743223499538432/5483407988801536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/whats-for-dinner/6743223499538432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Your First Painting App"', 
-      author: 'Andre LaMothe', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/5405467032731648/4869675768135680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-painting-app/5405467032731648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_766336032831626982637147'
-    }, 
-    {
       title: 'Spin-off of "Project: Event invite"', 
       author: 'Murillo, Isis', 
       votes: 1, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448/4862677773238272.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_615299037145123918651997'
+    }, 
+    {
+      title: 'Derivado de "Desafío: vínculos que te encantan"', 
+      author: 'Pamela  Cervantes ', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5883888657547264/4684937732341760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-vnculos-que-te-encantan/5883888657547264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1779271672978875819320647'
+    }, 
+    {
+      title: 'quick math', 
+      author: 'Moonpool', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-math/5879758442512384/6145192790114304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick-math/5879758442512384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_41088096368136888307434'
     }, 
   ];
 };
