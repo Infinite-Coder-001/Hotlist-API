@@ -309,7 +309,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'birthday is tommorow', 
       author: 'LovelyPetals', 
-      votes: 5, 
+      votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-is-tommorow/4834114512666624/6002445139623936.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-is-tommorow/4834114512666624', 
@@ -318,7 +318,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My logo/intro??(. ❛ ᴗ ❛.)', 
       author: 'Prince M', 
-      votes: 7, 
+      votes: 6, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logointro/6437118831542272/6743107887742976.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-logointro/6437118831542272', 
@@ -766,139 +766,139 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'saikiran.kiran283', 
+      title: 'snow man', 
+      author: 'SUSSY BAKA', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5938024522498048/5878698659332096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5938024522498048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7243195332087309798216532'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snow-man/6485129922134016/6605509601050624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snow-man/6485129922134016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683879321402617717726293'
     }, 
     {
-      title: 'Derivado de "Desafío: muñeco de nieve que saluda"', 
-      author: 'adrian.lorenzo.boveda', 
+      title: 'Snowman', 
+      author: 'adox2670', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5746163954532352/5997728393117696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-mueco-de-nieve-que-saluda/5746163954532352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_247425968746819630135329'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman/6041046493741056/4836094744248320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snowman/6041046493741056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7490108003211060529482600'
     }, 
     {
-      title: 'snowman 2', 
+      title: 'Версия на "Проект: Какво има за вечеря?"', 
+      author: 'GeniJs GeniJs', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5676666400849920/5817750724591616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5676666400849920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5188648800672705695630312'
+    }, 
+    {
+      title: 'Projet dérivé de "Interroger la table"', 
+      author: 'luc.dnf19', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-interroger-la-table/6519073988198400/5828324397203456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-interroger-la-table/6519073988198400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292355630016626871528229'
+    }, 
+    {
+      title: 'New yep', 
+      author: 'SUSSY BAKA', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-yep/4860701870178304/5352688561995776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-yep/4860701870178304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_683879321402617717726293'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'juhayrahtominaman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4930464587759616/5417398149890048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4930464587759616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_336225016167394123781796'
+    }, 
+    {
+      title: 'Derivado de "Desafío: lista de deseos"', 
+      author: 'lgalsan608', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4966148316905472/6543492370448384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4966148316905472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_394571391169481342127853'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Wishlist"', 
+      author: 'amangeldierxan00', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6032860185411584/5601472126697472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wishlist/6032860185411584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_202523714802360851872251'
+    }, 
+    {
+      title: 'Snowman', 
       author: 'nstu9839', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman-2/5374180393795584/5721743710011392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snowman-2/5374180393795584', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snowman/5461961455484928/5902987655692288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snowman/5461961455484928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4842468276466210853895256'
     }, 
     {
-      title: 'mUÑECO DE NIEVE cIRO', 
-      author: 'cirojose.duran.rial', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Yossaf Qarizadah', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mueco-de-nieve-ciro/5878936241487872/5052703366758400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mueco-de-nieve-ciro/5878936241487872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_672038758006230595349239'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'X-27', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5338999528144896/5288357904302080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5338999528144896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1135339895772534497467476'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'adalvarez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6178074992623616/5881845796618240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6178074992623616', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_911890246577797987209300'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House" Finished', 
-      author: 'kkol7520', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-finished/5172120251580416/5540893726916608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-finished/5172120251580416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1137201112667645343171660'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'agarcenegui', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5919014644924416/5945186414018560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/5919014644924416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_108901623140663112441022'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: app imitadora"', 
-      author: 'apenriquez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6245423653371904/6498673614962688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6245423653371904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_938658992598756213889172'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'cirojose.duran.rial', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6610106642120704/5003565384122368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6610106642120704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_672038758006230595349239'
-    }, 
-    {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'luis.caccamo.gallego', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6425796744101888/6642887560577024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6425796744101888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_482943862159867013237242'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5336862849024000/4816781400391680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5336862849024000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2927168818690037177642988'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'marianjeritauti', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5410384417964032/5973588579762176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5410384417964032', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5546317381419008/5926661498650624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5546317381419008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707233560089981895331951'
     }, 
     {
-      title: ' Nuno Derivado de "Desafío: día nevado soleado"', 
-      author: 'nuno.freitas.lopez', 
+      title: 'Spin-off von "Projekt: Entwerfen einer Datenbank"', 
+      author: 'Valentin R', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuno-derivado-de-desafo-da-nevado-soleado/6374379274682368/5038582235709440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuno-derivado-de-desafo-da-nevado-soleado/6374379274682368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_154278894964694239287873'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/4587421758177280/6702820490526720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/4587421758177280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_116503223576655974094207'
     }, 
     {
-      title: 'Derivado de "Proyecto: diseña una base de datos de una tienda"', 
-      author: 'sergio delgado', 
+      title: 'Spin-off von "Projekt: Entwerfen einer Datenbank"', 
+      author: 'Dominik Wamprechtshammer', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6244430962278400/4528314686685184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-disea-una-base-de-datos-de-una-tienda/6244430962278400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7202119031751483359253746'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/5032063029002240/5346693391630336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/5032063029002240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3282591180784149176294939'
     }, 
     {
-      title: 'snow man', 
-      author: 'SUSSY BAKA', 
+      title: 'Spin-off von "Projekt: Entwerfen einer Datenbank"', 
+      author: 'Jonas Kreillechner', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snow-man/6485129922134016/5174352997040128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snow-man/6485129922134016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_683879321402617717726293'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/4525054487740416/5261677265469440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-projekt-entwerfen-einer-datenbank/4525054487740416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_24107762955591381128094'
+    }, 
+    {
+      title: 'saved work', 
+      author: 'Steven Roberts', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/saved-work/5120454278037504/5963576759336960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/saved-work/5120454278037504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_23398277150023402701038'
     }, 
   ];
 };
