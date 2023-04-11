@@ -365,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'Deathly Hallows', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568/4672811227725824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568/5046855366131712.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
@@ -545,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5032894960812032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5748268102631424.png', 
       link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -757,60 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
-      title: 'Spin-off of "Project: Build-a-House" Jude G', 
-      author: 'Jude G', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-jude-g/6249178964738048/6244715772297216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-jude-g/6249178964738048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_302122839086917536251035'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House" unfinished', 
-      author: 'vstr6243', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-unfinished/5913158943555584/5093740084772864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house-unfinished/5913158943555584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_292655134559333721007247'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'lhut7647', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6360921799966720/5241217752547328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6360921799966720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226756307159706396839252'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'ktol9137', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6199061293350912/6232896559169536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6199061293350912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187252111989392526814792'
-    }, 
-    {
-      title: 'The house was built', 
-      author: 'CactusJack04', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-house-was-built/6520618297376768/5037827344875520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-house-was-built/6520618297376768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_747300242279646499583322'
-    }, 
-    {
-      title: 'Comida, la razon de la vida', 
-      author: 'Karen Alvarez', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376/4752510100488192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/comida-la-razon-de-la-vida/5636418128101376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_504895006249809143785861'
-    }, 
-    {
       title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
       author: 'Filip Tomalski', 
       votes: 1, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/4687261011853312/5071448164319232.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-colorear-con-cdigo/4687261011853312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_565441217106214660010201'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'lhut7647', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6009732474388480/6249156164501504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6009732474388480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_226756307159706396839252'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Flower Grower"', 
+      author: 'Raquel', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5780662541139968/6301814694920192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flower-grower/5780662541139968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1039433962491778580674526'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'lhut7647', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5608835177037824/6665124233658368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5608835177037824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_226756307159706396839252'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'ramazanmuhambetzan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5076825094275072/5808212071989248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/5076825094275072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_41231440360810470694201'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mallampalli', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5938024522498048/5878698659332096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5938024522498048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7243195332087309798216532'
+    }, 
+    {
+      title: 'Muñeco Adrian Lorenzo', 
+      author: 'adrian.lorenzo.boveda', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mueco-adrian-lorenzo/5746163954532352/5790955161829376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mueco-adrian-lorenzo/5746163954532352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247425968746819630135329'
     }, 
   ];
 };
