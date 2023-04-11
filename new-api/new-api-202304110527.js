@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A N-Ice Fresh Cold Lemon', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448/5038248536883200.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-n-ice-fresh-cold-lemon/6476575672680448', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'finding square roots two different ways', 
+      author: 'Clark Kent (offline)', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6313172719157248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'Contest', 
       author: 'Dojo Cat', 
       votes: 8, 
@@ -296,15 +305,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896/6608677340758016.png', 
       link: 'https://www.khanacademy.org/computer-programming/bad-soft-body-physics/5614294768336896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'finding square roots two different ways', 
-      author: 'Clark Kent (offline)', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6313172719157248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'birthday is tommorow', 
@@ -793,6 +793,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'usmaangely5', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6378955914657792/6505886559551488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6378955914657792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_116728345902903596743231'
+    }, 
+    {
+      title: 'Cycle 10_Protesta_27_6C', 
+      author: 'maypr2029', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cycle-10_protesta_27_6c/5539078415368192/6564444999303168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cycle-10_protesta_27_6c/5539078415368192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_16068314942568210303910'
+    }, 
+    {
+      title: 'Cycle10_Olonan_21_C', 
+      author: '6C21Olonan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cycle10_olonan_21_c/6201919057215488/4755908040376320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cycle10_olonan_21_c/6201919057215488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_300533253689335304527554'
+    }, 
+    {
       title: 'USDA Organic Logo', 
       author: 'Joe H', 
       votes: 12, 
@@ -800,6 +827,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096/6358473702162432.png', 
       link: 'https://www.khanacademy.org/computer-programming/usda-organic-logo/5499510509060096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2342551348722616771196'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Colorful creature"', 
+      author: 'alisherbozdakov', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4816865571684352/4833673070559232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/4816865571684352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2884424024551581593410425'
     }, 
     {
       title: ' What\'s for dinner?', 
@@ -833,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/house-animation/6116856693047296/5333642948952064.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/house-animation/6116856693047296/6056396555862016.png', 
       link: 'https://www.khanacademy.org/computer-programming/house-animation/6116856693047296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5907572113850368/5362643658653696.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5907572113850368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6156708101718428464628323'
-    }, 
-    {
-      title: 'Day 278', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-278/5616759861460992/5429584263954432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-278/5616759861460992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
-    }, 
-    {
-      title: 'New program', 
-      author: 'ndoumbe_ndoye', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5892377945620480/5861184453787648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5892377945620480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1780003970725997618306696'
-    }, 
-    {
-      title: 'Sunny snowy day', 
-      author: 'estepmichelle20', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/6140420863344640/4992487807827968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-snowy-day/6140420863344640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387808148918014498351118'
-    }, 
-    {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Jojo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448/4862677773238272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5089179601256448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_615299037145123918651997'
     }, 
   ];
 };
