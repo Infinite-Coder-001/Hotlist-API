@@ -766,6 +766,87 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_187158011412250521136047'
     }, 
     {
+      title: 'Spin-off of "Logical Operators"', 
+      author: 'damien.school.2008', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5595697224400896/5133498932576256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-logical-operators/5595697224400896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1158265936955287831049366'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: Návrh reklamy"', 
+      author: 'xsteff01', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-reklamy/4904232538128384/4625542310838272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-reklamy/4904232538128384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_372509991160068092765228'
+    }, 
+    {
+      title: 'Brøndby sutter i FCN opgør', 
+      author: 'Alex Rasmussen', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/brndby-sutter-i-fcn-opgr/6700319208947712/5337787474952192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/brndby-sutter-i-fcn-opgr/6700319208947712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3221781564719208286992706'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Jesse Bakker', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4545940964032512/5110339009298432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4545940964032512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1227914941498271238059089'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'Kibitz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6171664837820416/5045979712897024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6171664837820416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_692547815650943921426915'
+    }, 
+    {
+      title: 'New program', 
+      author: 'bebu.david.junior', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5526615376576512/5984238504820736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5526615376576512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_100686405854933776821231'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'KirbyMerrick', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5859814409551872/6453354596450304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5859814409551872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287937567679270029058999'
+    }, 
+    {
+      title: 'Informatik', 
+      author: 'unordmedk', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/informatik/6104625364385792/4889271740973056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/informatik/6104625364385792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_276869455660196299890057'
+    }, 
+    {
+      title: 'Ny hjemmeside', 
+      author: 'unordsjsad', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/6187635774373888/4638738597855232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ny-hjemmeside/6187635774373888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_314913601198928998300086'
+    }, 
+    {
       title: 'tile replace ', 
       author: 'opkasteren makreller', 
       votes: 1, 
@@ -818,87 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5825014520922112/6525122912763904.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5825014520922112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4177873386644077166301331'
-    }, 
-    {
-      title: 'khan 19 ex2', 
-      author: 'bebu.david.junior', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-19-ex2/5453164120948736/5065951679922176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-19-ex2/5453164120948736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_100686405854933776821231'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'karolcortes2006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6075919262597120/4854218348609536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6075919262597120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7451530961306243132939'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'elena.vicente3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4700608843268096/5722777572392960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/4700608843268096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_439197279736931431096080'
-    }, 
-    {
-      title: 'help the sky is falling', 
-      author: 'NIKO Ψ', 
-      votes: 69, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264/6564535097147392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/help-the-sky-is-falling/6147817858187264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'katmkanemoto', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4510138317979648/4769907972816896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4510138317979648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_441427742294916454899429'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Meirlan Gabituly', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4887219166035968/6011400179990528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4887219166035968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7712757466546212546886636'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Alejandro Octavio de Toledo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6324757302919168/5050866177720320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6324757302919168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_504832068010055197362029'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'JESUS DANIS PIÑEIRO', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5664463224356864/4526621530046464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5664463224356864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1084103601460943228176162'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Virginia Galtier', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6099161159352320/5559046271975424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6099161159352320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_750462205036830526961083'
     }, 
   ];
 };
