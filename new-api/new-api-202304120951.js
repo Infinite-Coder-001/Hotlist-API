@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'My Character', 
+      author: '🥞PaNcAkEs🥞 #OpesFTW', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
       title: 'Sub page', 
       author: 'Deathly Hallows', 
       votes: 13, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
       link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'My Character', 
-      author: '🥞PaNcAkEs🥞 #OpesFTW', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'Animated dots 3! [sine demo] || Graphing sine', 
