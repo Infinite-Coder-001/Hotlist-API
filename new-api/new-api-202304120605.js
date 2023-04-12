@@ -658,15 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
     {
-      title: 'image to pixel art converter!', 
-      author: 'Clark Kent (offline)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4971681375633408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
       title: 'cool algorithms', 
       author: 'apex alt', 
       votes: 3, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-baymax/6189582887731200/6198639765798912.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-baymax/6189582887731200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_840435754393789397024916'
+    }, 
+    {
+      title: 'Spin-off Random Basketz New version with sound😉', 
+      author: 'Mr Sterling Hogan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-random-basketz-new-version-with-sound/6203788542394368/6323660777635840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-random-basketz-new-version-with-sound/6203788542394368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6477834721951460683829265'
     }, 
   ];
 };
