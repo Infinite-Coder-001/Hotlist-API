@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Easter', 
       author: 'The Goo 🌪', 
       votes: 38, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5320021527281664.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'I could use some help =P', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 23, 
-      forks: 10, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
       votes: 18, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
+      title: 'I could use some help =P', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 22, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Animated squares! [sine demo] [using rotation]', 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'more easier gradients.', 
-      author: 'reader ✔', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
       title: 'Kittens!!', 
       author: 'MrFurryMan', 
       votes: 30, 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
+    }, 
+    {
+      title: 'more easier gradients.', 
+      author: 'reader ✔', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
@@ -419,7 +419,7 @@ var LoadHotlistAPI = function() {
       author: 'Mark scheifele✈(Offline RN)', 
       votes: 6, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432/5305247426985984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432/4507575380131840.png', 
       link: 'https://www.khanacademy.org/computer-programming/name-avatar-change/5281753922322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
@@ -869,7 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-gig-at-the-mining-rig/6268703785402368/4862101643640832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-gig-at-the-mining-rig/6268703785402368/6717919498387456.png', 
       link: 'https://www.khanacademy.org/computer-programming/mining-gig-at-the-mining-rig/6268703785402368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
