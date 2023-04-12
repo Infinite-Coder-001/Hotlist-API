@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Jesus made the way =)', 
       author: 'MaXX🐟', 
-      votes: 40, 
+      votes: 38, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4743531555241984.png', 
       link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
@@ -19,15 +19,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'A example of a broken hotlist', 
-      author: 'Aspen', 
-      votes: 42, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128/5136759567728640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
       title: 'Easter', 
       author: 'The Goo 🌪', 
       votes: 38, 
@@ -35,6 +26,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5116341846851584.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'A example of a broken hotlist', 
+      author: 'Aspen', 
+      votes: 41, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128/5136759567728640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Lonely', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 27, 
+      votes: 26, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'i just want to wreck the hl.', 
-      author: 'ski', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4670353046814720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 76, 
@@ -129,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'WIP', 
       author: '▪Dipper98▪', 
-      votes: 33, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
@@ -161,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'i just want to wreck the hl.', 
+      author: 'ski', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4670353046814720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Collision Examples', 
@@ -424,15 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'image to pixel art converter!', 
-      author: 'Clark Kent (offline)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4846755977150464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
       title: 'bad', 
       author: 'astro', 
       votes: 14, 
@@ -512,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376/5096601757728768.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
+    }, 
+    {
+      title: 'image to pixel art converter!', 
+      author: 'Clark Kent (offline)', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4846755977150464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'backup of sloppyness', 
@@ -680,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/freddy-fazbear/6534693358190592/5952122870087680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/freddy-fazbear/6534693358190592/6403266838839296.png', 
       link: 'https://www.khanacademy.org/computer-programming/freddy-fazbear/6534693358190592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
