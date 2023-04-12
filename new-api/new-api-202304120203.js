@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 69, 
+      votes: 70, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 68, 
+      votes: 69, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Easter', 
+      author: 'The Goo 🌪', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'finding square roots two different ways', 
       author: 'Clark Kent (offline)', 
       votes: 22, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6252164369661952.png', 
       link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
-      title: 'Easter', 
-      author: 'The Goo 🌪', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'unicorn fighting a cloud in the dark', 
