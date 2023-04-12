@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 28, 
+      votes: 29, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'in which i tease ski | wait he\'s a clam now', 
       author: 'S. M. V.', 
-      votes: 55, 
+      votes: 56, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Easter', 
       author: 'The Goo 🌪', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
