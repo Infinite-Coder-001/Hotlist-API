@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 28, 
-      forks: 3, 
+      votes: 27, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -145,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Collision Examples', 
-      author: 'Dominic R.', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
       title: 'idk.', 
       author: 'Wort-Head', 
       votes: 11, 
@@ -188,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
+    }, 
+    {
+      title: 'Collision Examples', 
+      author: 'Dominic R.', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
@@ -251,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
       link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'My Character', 
-      author: '🥞PaNcAkEs🥞 #OpesFTW', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/6222430176854016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'Animated dots 3! [sine demo] || Graphing sine', 
@@ -563,6 +554,15 @@ var LoadHotlistAPI = function() {
       author: '🥞PaNcAkEs🥞 #OpesFTW', 
       votes: 3, 
       forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/6222430176854016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'My Character', 
+      author: '🥞PaNcAkEs🥞 #OpesFTW', 
+      votes: 3, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/5774018964930560/5536762555580416.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/5774018964930560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
@@ -656,15 +656,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/elephant/6376522681466880/4787204661755904.png', 
       link: 'https://www.khanacademy.org/computer-programming/elephant/6376522681466880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
-    }, 
-    {
-      title: 'my avatar for GalaxyRanger\'s "Rectangular Rectangles"', 
-      author: 'Δɖɖίsoͷ thϵ Δίʀbϵͷɖϵʀ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376/5096601757728768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
     }, 
     {
       title: 'image to pixel art converter!', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botes/5055944053800960/5611815095812096.png', 
       link: 'https://www.khanacademy.org/computer-programming/botes/5055944053800960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2000282940367207812974795'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"/ baymax', 
+      author: 'kavya', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-baymax/6189582887731200/6198639765798912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack-baymax/6189582887731200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_840435754393789397024916'
     }, 
   ];
 };
