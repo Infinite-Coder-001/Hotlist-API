@@ -685,6 +685,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
+      title: 'Mining Gig at the Mining Rig', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-gig-at-the-mining-rig/6268703785402368/4814563737649152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mining-gig-at-the-mining-rig/6268703785402368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
       title: 'Spin-off of "Morse Code to English" marlow\'s edition', 
       author: 'marlow johnstone', 
       votes: 3, 
@@ -692,6 +701,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-morse-code-to-english-marlows-edition/6392239711633408/4592566810230784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-morse-code-to-english-marlows-edition/6392239711633408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9516427363370074313405809'
+    }, 
+    {
+      title: 'New program', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6199814372245504/6045231922593792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6199814372245504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
     {
       title: 'MI CLOCK', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-random-basketz-new-version-with-sound/6203788542394368/6323660777635840.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-random-basketz-new-version-with-sound/6203788542394368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6477834721951460683829265'
-    }, 
-    {
-      title: 'The worst jokes ever.', 
-      author: 'Speedyspeedcuber', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever/5058575711125504/6504487742390272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-worst-jokes-ever/5058575711125504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'wikiImgLoad', 
-      author: 'Hibernia Productions🎥', 
-      votes: 3, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224/5919959873273856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
   ];
 };
