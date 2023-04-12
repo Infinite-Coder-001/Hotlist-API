@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888/4666453988261888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888/5964387199533056.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -824,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'ASBackup', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-fly-attack-pixel-art/5975831223779328/5032829680664576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-fly-attack-pixel-art/5975831223779328/6171574408626176.png', 
       link: 'https://www.khanacademy.org/computer-programming/pikachu-fly-attack-pixel-art/5975831223779328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714780036830891967670231'
     }, 
