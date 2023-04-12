@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'Hushpuppy', 
       votes: 26, 
       forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/6733972290977792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
     {
+      title: 'mister magical mixture', 
+      author: 'Green Ghost', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/5199410138234880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'backup of sloppyness', 
       author: 'apex alt', 
       votes: 5, 
@@ -514,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
     {
-      title: 'mister magical mixture', 
-      author: 'Green Ghost', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/5199410138234880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Illusion', 
       author: 'Pham An', 
       votes: 4, 
@@ -653,6 +653,15 @@ var LoadHotlistAPI = function() {
       author: '🥞PaNcAkEs🥞 #OpesFTW', 
       votes: 2, 
       forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/6222430176854016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'My Character', 
+      author: '🥞PaNcAkEs🥞 #OpesFTW', 
+      votes: 2, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/5774018964930560/5536762555580416.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/5774018964930560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
@@ -737,6 +746,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040/4671835129298944.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
+    }, 
+    {
+      title: 'Starship construction', 
+      author: 'Velociraptor105', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416/6231121412276224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1117106395006641178253070'
     }, 
     {
       title: 'New program', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016/6734384926605312.png', 
       link: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
-      title: 'Sofia - Transportation Animation', 
-      author: 'sofia.loucanocavaco', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sofia-transportation-animation/5371692215222272/6091016089419776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sofia-transportation-animation/5371692215222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034348179194054238279952'
-    }, 
-    {
-      title: 'Sprites for an Upcoming Game', 
-      author: 'Øɱɑɼ Ħ.', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184/5100338379276288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sprites-for-an-upcoming-game/6525453507805184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
   ];
 };
