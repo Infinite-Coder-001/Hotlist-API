@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/4883700363083776.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/5600486045827072.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -680,7 +680,7 @@ var LoadHotlistAPI = function() {
       author: 'Prince M', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logointro/6437118831542272/5520864331481088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logointro/6437118831542272/6743107887742976.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-logointro/6437118831542272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
