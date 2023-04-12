@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 19, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5845991896170496.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'WIP', 
       author: '▪Dipper98▪', 
-      votes: 23, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'Deathly Hallows', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568/4890799608479744.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568/4672811227725824.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-griffins-gold-game/4962345022701568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
@@ -694,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'Potato', 
-      author: 'Opal', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/potato/6455618983739392/6733824299155456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/potato/6455618983739392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
-    }, 
-    {
       title: 'Richards | A Race with Arrays', 
       author: 'Brandon  Richards', 
       votes: 3, 
@@ -869,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'jayden.wight', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/power-clicker-run/5906043726249984/5724090574094336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/power-clicker-run/5906043726249984/4538374808715264.png', 
       link: 'https://www.khanacademy.org/computer-programming/power-clicker-run/5906043726249984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1062199424311205179403333'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5668066634809344/5931462483558400.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5668066634809344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_94758101966390744772005'
+    }, 
+    {
+      title: 'Skeleton Pixel Art [Animated]', 
+      author: 'Arrow.programming', 
+      votes: 48, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016/5653985672609792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeleton-pixel-art-animated/6172157249110016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
