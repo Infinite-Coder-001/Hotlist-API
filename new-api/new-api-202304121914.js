@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Jesus made the way =)', 
       author: 'MaXX🐟', 
-      votes: 35, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4743531555241984.png', 
       link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 38, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/4677713932894208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5320021527281664.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -120,20 +120,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'random facts about me :P', 
       author: 'vw_beetlesultimategreatness', 
-      votes: 22, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888/5964387199533056.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'WIP', 
-      author: '▪Dipper98▪', 
-      votes: 30, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'birthday was yesterday', 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'WIP', 
+      author: '▪Dipper98▪', 
+      votes: 29, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Collision Examples', 
@@ -226,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
-      title: 'i just want to wreck the hl.', 
-      author: 'ski', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4670353046814720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
       title: 'game (platform)', 
       author: 'crazy__codes', 
       votes: 26, 
@@ -298,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'i just want to wreck the hl.', 
+      author: 'ski', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4670353046814720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Another Lemon', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 22, 
@@ -325,12 +325,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
-      title: 'ahhhh why on HL?!', 
+      title: 'gpt circ collision reference', 
       author: 'apex alt', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896/5638104909398016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896/4536127534186496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
@@ -446,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584/5699479673290752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584/5304123722612736.png', 
       link: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -472,7 +472,7 @@ var LoadHotlistAPI = function() {
       title: 'Charzard', 
       author: 'Green Light', 
       votes: 25, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704/6268636072558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
@@ -766,12 +766,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_562702081312676456100763'
     }, 
     {
-      title: 'Money Calculator  ( WITH TAX)', 
+      title: 'Money Calculator  ( WITH TAX) Not finished', 
       author: 'WilliamP', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/money-calculator-with-tax/5565231343648768/6658120870051840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/money-calculator-with-tax/5565231343648768', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/money-calculator-with-tax-not-finished/5565231343648768/6094792321974272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/money-calculator-with-tax-not-finished/5565231343648768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_901321436785989411728261'
     }, 
     {
