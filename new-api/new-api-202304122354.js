@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
+      title: 'A example of a broken hotlist', 
+      author: 'Aspen', 
+      votes: 45, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128/5136759567728640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
       votes: 23, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4708664859738112.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'A example of a broken hotlist', 
-      author: 'Aspen', 
-      votes: 44, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128/5136759567728640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Lonely', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'mister magical mixture', 
       author: 'Green Ghost', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/6568502820651008.png', 
       link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
     {
+      title: 'New webpage', 
+      author: 'Noah H.', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288/4586533220040704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'hand', 
       author: 'Green Ghost', 
       votes: 53, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768/6194047757893632.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_128341988371478060574928'
-    }, 
-    {
-      title: 'for dojo cat', 
-      author: 'reader ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6147332354916352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
   ];
 };
