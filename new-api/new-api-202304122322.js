@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'A teaser for something i\'m making :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/5166821721554944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'New program', 
       author: 'MrFurryMan', 
       votes: 6, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896/5638104909398016.png', 
       link: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
-      title: 'A teaser for something i\'m making :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/5166821721554944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Clock', 
@@ -595,6 +595,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6379190670900852609354544'
     }, 
     {
+      title: 'My Self Portrait IG...', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/4560210405670912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Extra small projects', 
       author: 'Com', 
       votes: 25, 
@@ -638,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/5772238919090176.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
-    }, 
-    {
-      title: 'My Self Portrait IG...', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/4560210405670912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
       title: 'waves logo(s) :P', 
