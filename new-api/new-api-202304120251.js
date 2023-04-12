@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
+      title: 'Lonely', 
+      author: 'Arrow.programming', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 16, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
-      title: 'Lonely', 
-      author: 'Arrow.programming', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'finding square roots two different ways', 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
+      title: 'gpt circ collision reference', 
+      author: 'apex alt', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896/4536127534186496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'Extra small projects', 
       author: 'Com', 
       votes: 25, 
@@ -379,15 +388,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'gpt circ collision reference', 
-      author: 'apex alt', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896/4536127534186496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gpt-circ-collision-reference/6620531366608896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
       title: 'wikimedia image loader', 
       author: 'apex alt', 
       votes: 5, 
@@ -422,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-one-ring/5009418132701184/5181942271361024.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-one-ring/5009418132701184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998254288641590607887859'
+    }, 
+    {
+      title: 'waves logo(s) :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6733451928846336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Name/ avatar change', 
@@ -521,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/4871735842488320.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'waves logo(s) :P', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6733451928846336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'arcade res', 
@@ -665,6 +665,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-morse-code-to-english-marlows-edition/6392239711633408/4592566810230784.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-morse-code-to-english-marlows-edition/6392239711633408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9516427363370074313405809'
+    }, 
+    {
+      title: 'a dude living who know\'s where', 
+      author: 'Green Ghost', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/5514092174688256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'MI CLOCK', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224/5919959873273856.png', 
       link: 'https://www.khanacademy.org/computer-programming/wikiimgload/5941469069492224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'BenJCollette46', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5286533398839296/6719043152429056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5286533398839296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1063627232584338918568814'
     }, 
   ];
 };
