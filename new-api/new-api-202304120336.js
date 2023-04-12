@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 24, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 17, 
+      votes: 18, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5845991896170496.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
     {
+      title: 'laggyy', 
+      author: 'LightningCoder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432/5929075991691264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Extra small projects', 
       author: 'Com', 
       votes: 25, 
@@ -449,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6733451928846336.png', 
       link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'laggyy', 
-      author: 'LightningCoder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432/5929075991691264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'AI trial/error learning', 
