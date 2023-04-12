@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Jesus made the way =)', 
+      author: 'MaXX🐟', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4743531555241984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 45, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Jesus made the way =)', 
-      author: 'MaXX🐟', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4743531555241984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
     }, 
     {
       title: 'Easter', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 82, 
+      votes: 83, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Moria?', 
+      author: 'Joseph Mullan', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+    }, 
+    {
       title: 'Kittens!!', 
       author: 'MrFurryMan', 
       votes: 31, 
@@ -208,13 +217,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Moria?', 
-      author: 'Joseph Mullan', 
-      votes: 10, 
+      title: 'Farming Tycoon Updated Version 0.0.2', 
+      author: 'ew9666', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
       title: 'game (platform)', 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/5716605318512640.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Farming Tycoon Updated Version 0.0.2', 
-      author: 'ew9666', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
       title: 'i just want to wreck the hl.', 
