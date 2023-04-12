@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'i just want to wreck the hl.', 
+      author: 'ski', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4708664859738112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Lonely', 
       author: 'Arrow.programming', 
       votes: 34, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'i just want to wreck the hl.', 
-      author: 'ski', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4708664859738112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Our favorite cook :)', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'Moria?', 
+      author: 'Joseph Mullan', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+    }, 
+    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 22, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Moria?', 
-      author: 'Joseph Mullan', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
       title: 'mister magical mixture', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
+      title: 'New program', 
+      author: 'MrFurryMan', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/5716605318512640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
       title: 'French Toast', 
       author: 'katite', 
       votes: 19, 
@@ -334,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'New program', 
-      author: 'MrFurryMan', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/5716605318512640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'Super Mario ', 
       author: 'Ducky Momo', 
       votes: 9, 
@@ -424,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
+      title: 'I need assistance! Look in the Help requests.', 
+      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504/5174454968958976.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
       title: 'bye', 
       author: 'Sushii-coder', 
       votes: 9, 
@@ -487,6 +496,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333899883169537084066205'
     }, 
     {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'Sara Otal Sanz', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
+    }, 
+    {
       title: 'swords', 
       author: 'LightningCoder', 
       votes: 3, 
@@ -496,13 +514,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'New program', 
-      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
-      votes: 5, 
+      title: 'Trick Question Flash Card By: Hayden Rinehart', 
+      author: 'rineharthouseh', 
+      votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6199814372245504/6045231922593792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6199814372245504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480/6636746965303296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
     {
       title: 'hand', 
@@ -521,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704/6268636072558592.png', 
       link: 'https://www.khanacademy.org/computer-programming/charzard/6676192095944704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'Trick Question Flash Card By: Hayden Rinehart', 
-      author: 'rineharthouseh', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480/6636746965303296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
     {
       title: 'Circle Finder', 
@@ -716,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'richhonican', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-who-2/6703107380920320/4759293900668928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-who-2/6703107380920320/4716381406019584.png', 
       link: 'https://www.khanacademy.org/computer-programming/guess-who-2/6703107380920320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
     }, 
@@ -755,15 +764,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ad-anim/6300133483659264/6245326999830528.png', 
       link: 'https://www.khanacademy.org/computer-programming/ad-anim/6300133483659264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_24016270843382462165108'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Sara Otal Sanz', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
       title: 'Spin-off of "Project: Travel webpage"', 
