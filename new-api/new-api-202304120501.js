@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: 'Collision Detection', 
+      author: 'Dominic R.', 
+      votes: 25, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Our favorite cook :)', 
       author: 'Com', 
       votes: 69, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'Collision Detection', 
-      author: 'Dominic R.', 
-      votes: 24, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'Facts about me since everyone\'s doing this.', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'WIP', 
+      author: '▪Dipper98▪', 
+      votes: 22, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 11, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'WIP', 
-      author: '▪Dipper98▪', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Kittens!!', 
@@ -152,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592/6442567198883840.png', 
       link: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'French Toast', 
+      author: 'katite', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784/4665394288967680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
     }, 
     {
       title: 'Animated dots 2! [sine demo]', 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'French Toast', 
-      author: 'katite', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784/4665394288967680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
