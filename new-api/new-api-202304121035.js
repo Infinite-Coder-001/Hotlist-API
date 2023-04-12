@@ -581,7 +581,7 @@ var LoadHotlistAPI = function() {
       author: 'Pham An', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/illusion/6664822814195712/5684355684155392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/illusion/6664822814195712/4595373571358720.png', 
       link: 'https://www.khanacademy.org/computer-programming/illusion/6664822814195712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_566248705238086843482021'
     }, 
