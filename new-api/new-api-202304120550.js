@@ -174,8 +174,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'game (platform)', 
       author: 'crazy__codes', 
-      votes: 23, 
-      forks: 4, 
+      votes: 24, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
@@ -568,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Moria?', 
+      author: 'Joseph Mullan', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+    }, 
+    {
       title: 'Illusion', 
       author: 'Pham An', 
       votes: 4, 
@@ -602,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832/5548349454598144.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-watching-us/5836763521400832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_876906429087028124835760'
+    }, 
+    {
+      title: 'Starship construction', 
+      author: 'Velociraptor105', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416/6231121412276224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1117106395006641178253070'
     }, 
     {
       title: 'The Goo\'s Subpage', 
@@ -721,15 +739,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
     }, 
     {
-      title: 'Moria?', 
-      author: 'Joseph Mullan', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
-    }, 
-    {
       title: 'The Tyrant’s Hero! (A Movie)', 
       author: 'jdavidsm', 
       votes: 10, 
@@ -800,15 +809,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040/4671835129298944.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
-    }, 
-    {
-      title: 'Starship construction', 
-      author: 'Velociraptor105', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416/6231121412276224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/starship-construction/4710795046076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1117106395006641178253070'
     }, 
     {
       title: 'New program', 
