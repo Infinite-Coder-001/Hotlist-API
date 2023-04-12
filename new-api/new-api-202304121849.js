@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Jesus made the way =)', 
       author: 'MaXX🐟', 
-      votes: 31, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4743531555241984.png', 
       link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'in which i tease ski | wait he\'s a clam now', 
       author: 's. m. v.', 
-      votes: 57, 
+      votes: 58, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
-      votes: 73, 
+      votes: 74, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4887951290187776.png', 
       link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Clark Kent (offline)', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5249698601680896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4846755977150464.png', 
       link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'aaron_p', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5863851158716416/6439783506427904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5863851158716416/5937229852884992.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5863851158716416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1104471979962272077183774'
     }, 
