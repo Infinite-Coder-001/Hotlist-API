@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 38, 
+      votes: 39, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Easter', 
       author: 'The Goo 🌪', 
-      votes: 32, 
+      votes: 34, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5521184423985152.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Animated squares! [sine demo] [using rotation]', 
+      author: 'Arrow.programming', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 72, 
@@ -91,19 +100,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
-      title: 'Animated squares! [sine demo] [using rotation]', 
-      author: 'Arrow.programming', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'random facts about me :P', 
       author: 'vw_beetlesultimategreatness', 
-      votes: 20, 
-      forks: 0, 
+      votes: 21, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888/5964387199533056.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-facts-about-me-p/6227198546853888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Examples', 
       author: 'Dominic R.', 
-      votes: 11, 
+      votes: 12, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
@@ -165,11 +165,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Kittens!!', 
       author: 'MrFurryMan', 
-      votes: 29, 
+      votes: 30, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'My Character', 
+      author: '🥞PaNcAkEs🥞 #OpesFTW', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'idk.', 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/6568502820651008.png', 
       link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'My Character', 
-      author: '🥞PaNcAkEs🥞 #OpesFTW', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
       title: 'game (platform)', 
@@ -388,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
+      title: 'Circle Finder', 
+      author: 'HB_the_Pencil', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/6432746521280512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
+    }, 
+    {
       title: 'The Griffins gold (game)', 
       author: 'Deathly Hallows', 
       votes: 9, 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/4560210405670912.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Circle Finder', 
-      author: 'HB_the_Pencil', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/6432746521280512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
     {
       title: 'Trick Question Flash Card By: Hayden Rinehart', 
@@ -523,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'my avatar for GalaxyRanger\'s "Rectangular Rectangles"', 
+      author: 'Δɖɖίsoͷ thϵ Δίʀbϵͷɖϵʀ', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376/5096601757728768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
+    }, 
+    {
       title: 'image to pixel art converter!', 
       author: 'Clark Kent (offline)', 
       votes: 3, 
@@ -575,6 +584,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576/4871735842488320.png', 
       link: 'https://www.khanacademy.org/computer-programming/ax-olotl/5856639220760576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'New program', 
+      author: 'MrFurryMan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/6739937648230400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'Farming Tycoon Updated Version 0.0.2', 
+      author: 'ew9666', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
       title: 'Zombie Run', 
@@ -649,6 +676,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_566248705238086843482021'
     }, 
     {
+      title: 'My Level for Galaxy Ranger', 
+      author: 'Orange Soda', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/4637089380745216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
       title: 'Oh yeah. Duskpin is back!!!!!!!', 
       author: 'Xander', 
       votes: 4, 
@@ -662,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'Opal', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/elephant/6376522681466880/4787204661755904.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/elephant/6376522681466880/6285475213262848.png', 
       link: 'https://www.khanacademy.org/computer-programming/elephant/6376522681466880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
@@ -737,15 +773,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-page/5898870023569408/5406077639507968.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-page/5898870023569408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
-    }, 
-    {
-      title: 'my avatar for GalaxyRanger\'s "Rectangular Rectangles"', 
-      author: 'Δɖɖίsoͷ thϵ Δίʀbϵͷɖϵʀ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376/5096601757728768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-avatar-for-galaxyrangers-rectangular-rectangles/4994718976229376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
     }, 
     {
       title: 'cool algorithms', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056/4732491794792448.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-claw-game/4744213834285056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
-      title: 'Local Storage Tutorial[HTML/JS]', 
-      author: 'Blind Scribe', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/local-storage-tutorialhtmljs/6728733487841280/5394123604672512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/local-storage-tutorialhtmljs/6728733487841280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_560301867060771425464144'
-    }, 
-    {
-      title: 'El Tater Bird XVII', 
-      author: 'mr. mustache', 
-      votes: 47, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024/4875404918964224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/el-tater-bird-xvii/5161549565313024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_815566516976418032181994'
-    }, 
-    {
-      title: 'cool 3D', 
-      author: 'noNameCode', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040/4671835129298944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-3d/6194156608471040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
   ];
 };
