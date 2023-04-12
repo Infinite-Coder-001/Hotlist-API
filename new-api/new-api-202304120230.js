@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 20, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Easter', 
+      author: 'The Goo 🌪', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
       title: 'Lonely', 
       author: 'Arrow.programming', 
       votes: 14, 
@@ -73,19 +82,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Easter', 
-      author: 'The Goo 🌪', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
-    }, 
-    {
       title: 'finding square roots two different ways', 
       author: 'Clark Kent (offline)', 
       votes: 22, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6252164369661952.png', 
       link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
@@ -137,7 +137,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Kittens!!', 
-      author: 'Hushpuppy', 
+      author: 'Oh Noes, the Error Buddy', 
       votes: 26, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
+      title: 'Collision Examples', 
+      author: 'Dominic R.', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Bad Soft Body physics', 
       author: 'Wort-Head', 
       votes: 15, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
       link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Collision Examples', 
-      author: 'Dominic R.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208/6609122893283328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-examples/6148740231774208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'bad', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'arcade res', 
+      author: 'apex alt', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016/6734384926605312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'Illusion', 
       author: 'Pham An', 
       votes: 4, 
@@ -610,15 +619,6 @@ var LoadHotlistAPI = function() {
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/cool-algorithms/6543380197982208/5399027635240960.png', 
       link: 'https://www.khanacademy.org/computer-programming/cool-algorithms/6543380197982208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
-      title: 'arcade res', 
-      author: 'apex alt', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016/6734384926605312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
