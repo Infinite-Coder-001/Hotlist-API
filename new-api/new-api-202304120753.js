@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 70, 
+      votes: 71, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: '🥞PaNcAkEs🥞 #OpesFTW', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/6222430176854016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
