@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 29, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
