@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 30, 
+      votes: 31, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'HB_the_Pencil', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/5438091088412672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/5135901916446720.png', 
       link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
