@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 25, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/facts-about-me-since-everyones-doing-this/5590136449712128/5227996014493696.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/facts-about-me-since-everyones-doing-this/5590136449712128/6112509699604480.png', 
       link: 'https://www.khanacademy.org/computer-programming/facts-about-me-since-everyones-doing-this/5590136449712128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Easter', 
       author: 'The Goo 🌪', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5023133456449536.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'HB_the_Pencil', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/6269083604795392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208/6432746521280512.png', 
       link: 'https://www.khanacademy.org/computer-programming/circle-finder/5632494809694208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_412656070256786668848958'
     }, 
