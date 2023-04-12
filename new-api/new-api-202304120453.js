@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/6733451928846336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5144852913504256.png', 
       link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
