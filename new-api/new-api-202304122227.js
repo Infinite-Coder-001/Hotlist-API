@@ -48,11 +48,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 86, 
+      votes: 87, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'no.', 
+      author: 'Canada Goose', 
+      votes: 79, 
+      forks: 8, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
       title: 'i just want to wreck the hl.', 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4708664859738112.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'no.', 
-      author: 'Canada Goose', 
-      votes: 78, 
-      forks: 8, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
       title: 'a dude living who knows where', 
@@ -865,6 +865,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_128341988371478060574928'
     }, 
     {
+      title: 'for dojo cat', 
+      author: 'reader ✔', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6147332354916352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
       title: 'Ax-olotl', 
       author: 'Green Ghost', 
       votes: 56, 
@@ -883,22 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
-      title: 'Zombie Run', 
-      author: 'Chickenfarmer2009', 
+      title: 'contest entry for doja cat ', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zombie-run/4900090713260032/4798319768682496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zombie-run/4900090713260032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
-    }, 
-    {
-      title: 'arcade res', 
-      author: 'apex alt', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016/6734384926605312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arcade-res/6010303252054016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry-for-doja-cat/4750189022986240/6412345426624512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-entry-for-doja-cat/4750189022986240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
   ];
 };
