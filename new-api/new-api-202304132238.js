@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Frigus Valebat', 
+      author: 'ZeGratEli', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
+    }, 
+    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
       votes: 12, 
@@ -91,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
-      title: 'Frigus Valebat', 
-      author: 'ZeGratEli', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
-    }, 
-    {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
@@ -134,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
+    }, 
+    {
+      title: 'Screensaver', 
+      author: 'NIKO Ψ', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Farming Tycoon Updated Version 0.0.2', 
@@ -172,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Screensaver', 
-      author: 'NIKO Ψ', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
       title: 'Easter (Jesus dies for us!)', 
       author: 'XanderCLA11_15', 
       votes: 7, 
@@ -188,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
+      title: 'attempt for cool pixel art', 
+      author: 'Blake Meloche (T1)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'mister magical mixture', 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'attempt for cool pixel art', 
-      author: 'Blake Meloche (T1)', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'WIP', 
