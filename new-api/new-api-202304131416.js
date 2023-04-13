@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 45, 
+      votes: 44, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 94, 
+      votes: 93, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 84, 
+      votes: 83, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
-      votes: 10, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'The Goo 🌪', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/4722750523752448/5954409940172800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/4722750523752448/6666732229148672.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/4722750523752448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'gravity dash re-release', 
-      author: 'BaNana48', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
       title: 'birthday was yesterday', 
       author: 'LovelyPetals', 
       votes: 30, 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'gravity dash re-release', 
+      author: 'BaNana48', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
       title: 'Platform Editor', 
@@ -289,15 +289,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'Kittens!!', 
-      author: 'Mandible Justiciar', 
-      votes: 33, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
       title: 'idk.', 
       author: 'Wort-Head', 
       votes: 14, 
@@ -305,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592/6442567198883840.png', 
       link: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Kittens!!', 
+      author: 'Mandible Justiciar', 
+      votes: 32, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
       title: 'Bombs...', 
@@ -338,7 +338,7 @@ var LoadHotlistAPI = function() {
       author: 'jdavidsm', 
       votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/6213346404909056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/5305628102017024.png', 
       link: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
