@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Kittens!!', 
       author: 'LiterallyThePolice', 
-      votes: 32, 
+      votes: 31, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
