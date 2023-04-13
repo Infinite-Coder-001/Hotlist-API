@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
       votes: 50, 
-      forks: 8, 
+      forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5428117297741824.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
-      votes: 18, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/5405746104942592.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6536064778158080.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -111,11 +111,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Farming Tycoon Updated Version 0.0.2', 
       author: 'ew9666', 
-      votes: 15, 
+      votes: 16, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
+    }, 
+    {
+      title: 'Platform Editor', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
       title: 'Animated squares! [sine demo] [using rotation]', 
@@ -145,13 +154,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
-      title: 'Platform Editor', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+      title: 'gravity dash re-release', 
+      author: 'BaNana48', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
       title: 'Silent Princess', 
@@ -181,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'gravity dash re-release', 
-      author: 'BaNana48', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 80, 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Mandible Justiciar', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/5716605318512640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/4583496963375104.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -640,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
+      title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
+      author: 'FakeCxrpss', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5434411874304000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
+    }, 
+    {
       title: 'wip', 
       author: 'LightningCoder', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336/6096230750142464.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiet-city/4635763057934336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Contest', 
-      author: 'Dojo Cat', 
-      votes: 13, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912/6611460563451904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
   ];
 };
