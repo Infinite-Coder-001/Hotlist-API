@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 13, 
+      votes: 12, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
-      votes: 35, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
-      title: 'Silent Princess', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
       title: 'more easier gradients.', 
       author: 'reader ✔', 
       votes: 12, 
@@ -188,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
+      title: 'Silent Princess', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'Inkpocalypse Egg Hunt', 
@@ -356,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'XanderCLA11_15', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5335301326422016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6503527951417344.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
@@ -478,15 +478,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'KrecklauKasht01', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5559790626717696/6302381815152640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5559790626717696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287070955632739228258649'
-    }, 
-    {
       title: 'ohnoes', 
       author: 'LovelyPetals', 
       votes: 21, 
@@ -559,12 +550,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5044877709066055466018608'
     }, 
     {
-      title: 'quick F16 shadow sketch', 
+      title: 'quick F15 shadow sketch', 
       author: 'RedSus#Magus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f16-shadow-sketch/4637562733117440/6424140849659904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quick-f16-shadow-sketch/4637562733117440', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f15-shadow-sketch/4637562733117440/5364193856634880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quick-f15-shadow-sketch/4637562733117440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912/6611460563451904.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Spin-off of "See my cool games, AJ! From THE BEHEMOTH(Job 40:15)"', 
+      author: 'AJL', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032/5793386448863232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6019116657965031205448569'
     }, 
   ];
 };
