@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 77, 
+      votes: 78, 
       forks: 19, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: '(new) Platformer', 
+      author: 'XanderCLA11_15', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5941433334022144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'Frigus Valebat', 
       author: 'ZeGratEli', 
       votes: 10, 
@@ -91,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
     }, 
     {
-      title: '(new) Platformer', 
-      author: 'XanderCLA11_15', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5483592370405376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 99, 
+      votes: 100, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Easter (Jesus dies for us!)', 
+      author: 'XanderCLA11_15', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'mister magical mixture', 
       author: 'Green Ghost', 
       votes: 23, 
@@ -179,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/6568502820651008.png', 
       link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'Sara Otal Sanz', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
       title: 'in which i tease ski | wait he\'s a clam now', 
@@ -199,22 +217,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
-      title: 'Easter (Jesus dies for us!)', 
-      author: 'XanderCLA11_15', 
+      title: 'attempt for cool pixel art', 
+      author: 'Blake Meloche (T1)', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Sara Otal Sanz', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
-    }, 
-    {
-      title: 'attempt for cool pixel art', 
-      author: 'Blake Meloche (T1)', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'WIP', 
@@ -440,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592/6442567198883840.png', 
       link: 'https://www.khanacademy.org/computer-programming/idk/5937499966062592', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'New program', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512/5597836923420672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'low quality  meme ', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504/5174454968958976.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'Spin-off of "Contest: What\'s Cooking?"', 
+      author: 'Faith', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6738470732349440/6026219041898496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6738470732349440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1010541704594296737033976'
     }, 
   ];
 };
