@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 63, 
+      votes: 59, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 22, 
+      votes: 20, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 28, 
+      votes: 27, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/4881299006603264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 88, 
+      votes: 87, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -343,24 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26longenecker_co', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
-    }, 
-    {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26heck_no', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
-    }, 
-    {
       title: 'idk.', 
       author: 'Wort-Head', 
       votes: 14, 
@@ -559,6 +541,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26longenecker_co', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
+    }, 
+    {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26heck_no', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
+    }, 
+    {
       title: 'Bad Soft Body physics', 
       author: 'Wort-Head', 
       votes: 16, 
@@ -613,12 +613,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_188009454094293310047113'
     }, 
     {
-      title: 'Nba playoff picture', 
+      title: 'Nba playoff picture (WIP)', 
       author: 'RealCoder2.0', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture/5498335952945152/6155477760393216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture/5498335952945152', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152/5574713490587648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
     {
