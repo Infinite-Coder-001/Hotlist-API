@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 91, 
+      votes: 90, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -85,7 +85,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 31, 
-      forks: 14, 
+      forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
