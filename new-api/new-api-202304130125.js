@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 30, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6695025594646528.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -604,6 +604,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Animal attack', 
+      author: 'kaimlakhani', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animal-attack/5604274978734080/6249371516846080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animal-attack/5604274978734080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198531011668679231995227'
+    }, 
+    {
       title: 'My Self Portrait IG...', 
       author: 'Avinasen #CinisFTW', 
       votes: 15, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768/6194047757893632.png', 
       link: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_128341988371478060574928'
-    }, 
-    {
-      title: 'for dojo cat', 
-      author: 'reader ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6147332354916352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
   ];
 };
