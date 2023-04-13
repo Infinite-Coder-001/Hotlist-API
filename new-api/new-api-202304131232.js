@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 45, 
+      votes: 46, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5083573175762944.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
-      votes: 29, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
+      title: 'Super Mario ', 
+      author: 'Ducky Momo', 
+      votes: 14, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
       votes: 63, 
@@ -226,20 +235,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
-      title: 'Super Mario ', 
-      author: 'Ducky Momo', 
-      votes: 13, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/5682847613763584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/5762892717932544.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
@@ -296,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784/5380551508017152.png', 
       link: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
+    }, 
+    {
+      title: 'Cool Scan', 
+      author: 'latesh.dulani86', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696/5667620914511872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
     }, 
     {
       title: 'ahhhh why on HL?!', 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064/4809836371165184.png', 
       link: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'Cool Scan', 
-      author: 'latesh.dulani86', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696/5667620914511872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
     }, 
     {
       title: 'Bad Soft Body physics', 
@@ -584,6 +584,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584/4885924518608896.png', 
       link: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'for dojo cat', 
+      author: 'reader ✔', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6147332354916352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'hand', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ad-anim/6300133483659264/6245326999830528.png', 
       link: 'https://www.khanacademy.org/computer-programming/ad-anim/6300133483659264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_24016270843382462165108'
-    }, 
-    {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'Liam Espedido', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5369504969572352/5698930789892096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5369504969572352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_888568662218624871073756'
     }, 
   ];
 };
