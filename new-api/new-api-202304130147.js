@@ -442,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
+      title: 'New program', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512/5597836923420672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'I need assistance! Look in the Help requests.', 
       author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 6, 
@@ -491,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Astro', 
       votes: 15, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bad/5755318207561728/4731606159114240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bad/5755318207561728/5146662151700480.png', 
       link: 'https://www.khanacademy.org/computer-programming/bad/5755318207561728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
@@ -595,15 +604,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6379190670900852609354544'
     }, 
     {
-      title: 'New program', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512/5597836923420672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Animal attack', 
       author: 'kaimlakhani', 
       votes: 2, 
@@ -620,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816/4560210405670912.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-self-portrait-ig/6367717511970816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'respective Domains of the Avatars, Cinis"', 
+      author: 'Jake K.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/respective-domains-of-the-avatars-cinis/6326469971460096/4732744140898304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/respective-domains-of-the-avatars-cinis/6326469971460096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
       title: 'Extra small projects', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test2ap/5863851158716416/6205148356722688.png', 
       link: 'https://www.khanacademy.org/computer-programming/test2ap/5863851158716416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1104471979962272077183774'
-    }, 
-    {
-      title: 'Mini Fancy Backgrounds', 
-      author: '𝔖𝔥𝔞𝔡𝔬𝔴', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768/6194047757893632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mini-fancy-backgrounds/5238614599712768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_128341988371478060574928'
     }, 
   ];
 };
