@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
+      title: 'Frigus Valebat', 
+      author: 'ZeGratEli', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
+    }, 
+    {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
       votes: 41, 
@@ -91,18 +100,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Frigus Valebat', 
-      author: 'ZeGratEli', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
-    }, 
-    {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: 'Easter (Jesus dies for us!)', 
+      author: 'XanderCLA11_15', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'Farming Tycoon Updated Version 0.0.2', 
       author: 'ew9666', 
       votes: 18, 
@@ -179,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Easter (Jesus dies for us!)', 
-      author: 'XanderCLA11_15', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'attempt for cool pixel art', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
     {
+      title: 'Subpage', 
+      author: 'Infinity', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
+    }, 
+    {
       title: 'Kittens!!', 
       author: 'Mandible Justiciar', 
       votes: 35, 
@@ -505,6 +514,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
     }, 
     {
+      title: 'matter.js for game physics.', 
+      author: 'ski', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'image to pixel art converter!', 
       author: 'Clark Kent (offline)', 
       votes: 8, 
@@ -595,15 +613,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_543199124353016358630392'
     }, 
     {
-      title: 'Subpage', 
-      author: 'Infinity', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'Guerrero, Anthony', 
       votes: 2, 
@@ -611,15 +620,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4688850112004096/6093184024494080.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4688850112004096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_213781814351645137558889'
-    }, 
-    {
-      title: 'matter.js for game physics.', 
-      author: 'ski', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'BOTW Shrine (Will be a WIP for about three years) :P', 
@@ -784,6 +784,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
     {
+      title: 'Spin-off of "Contest"', 
+      author: 'the Knight_400', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest/5770760561147904/4556613873876992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest/5770760561147904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'swords', 
       author: 'LightningCoder', 
       votes: 4, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5790927378759680.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Spin-off of "See my cool games, AJ! From THE BEHEMOTH(Job 40:15)"', 
-      author: 'AJL', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032/5793386448863232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6019116657965031205448569'
     }, 
   ];
 };
