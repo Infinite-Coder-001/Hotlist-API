@@ -541,6 +541,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
     {
+      title: 'Platform Editor', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5402602910302208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Name/ avatar change', 
       author: 'Mark scheifele✈(Offline RN)', 
       votes: 6, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quad-practice/6724165454577664/5238773043740672.png', 
       link: 'https://www.khanacademy.org/computer-programming/quad-practice/6724165454577664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_46080127167868852572757'
-    }, 
-    {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'Sarah Sugg', 
-      votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4550598705070080/6542279746830336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4550598705070080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_41303987261654557878590'
     }, 
   ];
 };
