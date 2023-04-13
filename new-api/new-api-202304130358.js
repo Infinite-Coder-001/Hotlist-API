@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Easter', 
       author: 'The Goo 🌪', 
-      votes: 49, 
+      votes: 48, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5116341846851584.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/4726412755124224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/5678683861073920.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
