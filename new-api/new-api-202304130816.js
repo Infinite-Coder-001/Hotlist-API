@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 40, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 93, 
+      votes: 92, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
