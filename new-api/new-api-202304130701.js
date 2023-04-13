@@ -491,7 +491,7 @@ var LoadHotlistAPI = function() {
       author: 'Orange Soda', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/6490527253184512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/4637089380745216.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
     }, 
