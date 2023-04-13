@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: 'Moria?', 
+      author: 'Joseph Mullan', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+    }, 
+    {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 31, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Moria?', 
-      author: 'Joseph Mullan', 
-      votes: 26, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
       title: 'A teaser for something i\'m making :)', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
+      title: 'Inkpocalypse Egg Hunt', 
+      author: 'octobrush', 
+      votes: 79, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4887951290187776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
+    }, 
+    {
       title: 'Farming Tycoon Updated Version 0.0.2', 
       author: 'ew9666', 
       votes: 10, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
-    }, 
-    {
-      title: 'Inkpocalypse Egg Hunt', 
-      author: 'octobrush', 
-      votes: 78, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680/4887951290187776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inkpocalypse-egg-hunt/4621398137159680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
       title: 'WIP', 
