@@ -559,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
+      title: 'matter.js for game physics.', 
+      author: 'ski', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5006525757440000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Circle Finder', 
       author: 'HB_the_Pencil', 
       votes: 6, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080/4564847510732800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9726321435963144667156472'
-    }, 
-    {
-      title: 'Op Art', 
-      author: 's28746642', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6053506579742720/4523503572533248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/op-art/6053506579742720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_562702081312676456100763'
     }, 
   ];
 };
