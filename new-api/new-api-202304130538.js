@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'Broken hotlist fr', 
-      author: 'Phase #VirtusVictory', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6544602502053888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'mister magical mixture', 
       author: 'Green Ghost', 
       votes: 21, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
+      title: 'Broken hotlist fr', 
+      author: 'Phase #VirtusVictory', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6544602502053888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'more easier gradients.', 
@@ -406,15 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'backup of sloppyness', 
-      author: 'apex alt', 
-      votes: 9, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072/5384275932528640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
       title: 'Pop The Lock', 
       author: 'bruh', 
       votes: 3, 
@@ -440,6 +431,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504/5174454968958976.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
+    }, 
+    {
+      title: 'backup of sloppyness', 
+      author: 'apex alt', 
+      votes: 8, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072/5384275932528640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'bye', 
