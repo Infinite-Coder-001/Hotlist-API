@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
       votes: 65, 
-      forks: 14, 
+      forks: 13, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 28, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/4881299006603264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Moria?', 
       author: 'Joseph Mullan', 
-      votes: 39, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
       link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platform Editor', 
       author: 'Avinasen #CinisFTW', 
-      votes: 14, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
@@ -92,8 +92,8 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'I could use some help =P', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
-      votes: 37, 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 36, 
       forks: 14, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/5409107537608704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
@@ -148,19 +148,10 @@ var LoadHotlistAPI = function() {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 28, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6164579802726400.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: '(new) Platformer', 
-      author: 'XanderCLA11_15', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5335301326422016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'mister magical mixture', 
@@ -181,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: '(new) Platformer', 
+      author: 'XanderCLA11_15', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5335301326422016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
       votes: 11, 
@@ -188,15 +188,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
-    }, 
-    {
-      title: 'Frigus Valebat', 
-      author: 'ZeGratEli', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
     }, 
     {
       title: 'more easier gradients.', 
@@ -262,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Frigus Valebat', 
+      author: 'ZeGratEli', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
+    }, 
+    {
       title: 'Easter (Jesus dies for us!)', 
       author: 'XanderCLA11_15', 
       votes: 4, 
@@ -274,7 +274,7 @@ var LoadHotlistAPI = function() {
       title: 'birthday was yesterday', 
       author: 'LovelyPetals', 
       votes: 30, 
-      forks: 3, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5232518615056384.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'RealCoder2.0', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture/5498335952945152/4897003621629952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture/5498335952945152/6155477760393216.png', 
       link: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture/5498335952945152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4869635754475520.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/6475156773191680.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
