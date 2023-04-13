@@ -13,15 +13,15 @@ var LoadHotlistAPI = function() {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
       votes: 38, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5063095308566528.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5083573175762944.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 50, 
+      votes: 51, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'image to pixel art converter!', 
+      author: 'Clark Kent (offline)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4786700875513856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'Kitty Pool', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 41, 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
       link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'image to pixel art converter!', 
-      author: 'Clark Kent (offline)', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4786700875513856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'New webpage', 
@@ -521,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/4637089380745216.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
+      title: 'New program', 
+      author: 'aaron_p', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6534979141287936/6485958867599360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6534979141287936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1104471979962272077183774'
     }, 
     {
       title: 'Name/ avatar change', 
@@ -782,15 +791,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/guess-who-2/6703107380920320/6350536283832320.png', 
       link: 'https://www.khanacademy.org/computer-programming/guess-who-2/6703107380920320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
-    }, 
-    {
-      title: 'New program', 
-      author: 'aaron_p', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6534979141287936/6485958867599360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6534979141287936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1104471979962272077183774'
     }, 
     {
       title: 'Flying Text', 
