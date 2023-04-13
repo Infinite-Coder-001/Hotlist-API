@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553477213015271019436591'
     }, 
     {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Joseph B', 
-      votes: 2, 
+      title: 'Potato', 
+      author: 'Opal', 
+      votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080/4564847510732800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9726321435963144667156472'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/potato/6455618983739392/6733824299155456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/potato/6455618983739392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1135893289419978780289653'
     }, 
   ];
 };
