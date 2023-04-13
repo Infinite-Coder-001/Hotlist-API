@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -30,9 +30,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 26, 
+      votes: 27, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6536064778158080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/4881299006603264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 46, 
+      votes: 47, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Moria?', 
       author: 'Joseph Mullan', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
       link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
+      title: 'gravity dash re-release', 
+      author: 'BaNana48', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 28, 
@@ -136,18 +145,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
-      title: 'gravity dash re-release', 
-      author: 'BaNana48', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
       title: 'Silent Princess', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
       link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
@@ -199,6 +199,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Super Mario ', 
+      author: 'Ducky Momo', 
+      votes: 19, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
+      title: '(new) Platformer', 
+      author: 'XanderCLA11_15', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5335301326422016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 80, 
@@ -215,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/6173015890247680.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'Super Mario ', 
-      author: 'Ducky Momo', 
-      votes: 18, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'My Character', 
@@ -262,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
     }, 
     {
-      title: '(new) Platformer', 
-      author: 'XanderCLA11_15', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/5335301326422016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
       author: 'FakeCxrpss', 
       votes: 4, 
@@ -287,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'ahhhh why on HL?!', 
+      author: 'apex alt', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896/5638104909398016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'finding square roots two different ways', 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968/5917810560909312.png', 
       link: 'https://www.khanacademy.org/computer-programming/kittens/5308671220563968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
-    }, 
-    {
-      title: 'ahhhh why on HL?!', 
-      author: 'apex alt', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896/5638104909398016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ahhhh-why-on-hl/6620531366608896', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'idk.', 
@@ -541,6 +541,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26longenecker_co', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
+    }, 
+    {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26heck_no', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
+    }, 
+    {
       title: 'Bad Soft Body physics', 
       author: 'Wort-Head', 
       votes: 16, 
@@ -581,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'H.M. Wogglebug T.E.', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-wogglebugs-platformer-tutorial/6490517757280256/6519177553952768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-wogglebugs-platformer-tutorial/6490517757280256/6628440297226240.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-wogglebugs-platformer-tutorial/6490517757280256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
     }, 
@@ -599,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'RealCoder2.0', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152/6219168367296512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152/5574713490587648.png', 
       link: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/harry-potter-in-129-lines/5627640611651584/6750506103128064.png', 
       link: 'https://www.khanacademy.org/computer-programming/harry-potter-in-129-lines/5627640611651584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'My Level for Galaxy Ranger', 
-      author: 'Orange Soda', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/6490527253184512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'Trick Question Flash Card By: Hayden Rinehart', 
-      author: 'rineharthouseh', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480/6636746965303296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/trick-question-flash-card-by-hayden-rinehart/5213987022356480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_492173994246748717936816'
     }, 
   ];
 };
