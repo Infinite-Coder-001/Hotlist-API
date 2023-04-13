@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 80, 
+      votes: 81, 
       forks: 19, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
+      title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
+      author: 'FakeCxrpss', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
+    }, 
+    {
       title: 'in which i tease ski | wait he\'s a clam now', 
       author: 'S. M. V.', 
       votes: 66, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
-      author: 'FakeCxrpss', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
     }, 
     {
       title: 'WIP', 
@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Clark Kent (offline)', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/4786700875513856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5486785208827904.png', 
       link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
