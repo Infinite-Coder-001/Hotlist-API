@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 57, 
+      votes: 58, 
       forks: 12, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
-      votes: 24, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 96, 
+      votes: 97, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
-      votes: 10, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
@@ -535,7 +535,7 @@ var LoadHotlistAPI = function() {
       title: 'backup of sloppyness', 
       author: 'apex alt', 
       votes: 10, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072/5384275932528640.png', 
       link: 'https://www.khanacademy.org/computer-programming/backup-of-sloppyness/5728473135235072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
@@ -554,7 +554,7 @@ var LoadHotlistAPI = function() {
       author: '27gilbert', 
       votes: 2, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776/5132585463496704.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776/6129410697904128.png', 
       link: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_839953537971595723128202'
     }, 
@@ -599,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'RealCoder2.0', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152/4862872892260352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152/6219168367296512.png', 
       link: 'https://www.khanacademy.org/computer-programming/nba-playoff-picture-wip/5498335952945152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
