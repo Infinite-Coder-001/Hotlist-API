@@ -3,8 +3,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 74, 
-      forks: 17, 
+      votes: 73, 
+      forks: 16, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 33, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/4881299006603264.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -149,7 +149,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase #VirtusVictory', 
       votes: 18, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6236267370299392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6544602502053888.png', 
       link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -166,7 +166,7 @@ var LoadHotlistAPI = function() {
       title: 'Frigus Valebat', 
       author: 'ZeGratEli', 
       votes: 7, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936/6029594215104512.png', 
       link: 'https://www.khanacademy.org/computer-programming/frigus-valebat/4646537805479936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
@@ -550,15 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Subpage', 
-      author: 'Infinity', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'Guerrero, Anthony', 
       votes: 2, 
@@ -575,15 +566,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064/4809836371165184.png', 
       link: 'https://www.khanacademy.org/computer-programming/kitty-pool/5349354811736064', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Ultra Macknus (Offline)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4570942086103040/5577005795164160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4570942086103040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
       title: 'backup of sloppyness', 
@@ -680,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: 'Blake Meloche (T1)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4902553155584000.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4556924722135040.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad-kanapka-z-serem/5545302712172544/6623261007069184.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-co-jest-na-obiad-kanapka-z-serem/5545302712172544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1028388341779108931365720'
+    }, 
+    {
+      title: 'Animated dots 3! [sine demo] || Graphing sine', 
+      author: 'Arrow.programming', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168/6703727852699648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-dots-3-sine-demo-graphing-sine/5690656132743168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'laura.hair333', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5443264724647936/4868023396909056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5443264724647936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
     }, 
   ];
 };
