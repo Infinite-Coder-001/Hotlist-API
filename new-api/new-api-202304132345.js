@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 31, 
+      votes: 30, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
-      votes: 34, 
+      votes: 33, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platform Editor', 
       author: 'Avinasen #CinisFTW', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_298766115640032786500181'
     }, 
     {
-      title: 'Easter (Jesus dies for us!)', 
-      author: 'XanderCLA11_15', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
       votes: 23, 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Easter (Jesus dies for us!)', 
+      author: 'XanderCLA11_15', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088/6229097056616448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/easter-jesus-dies-for-us/4889439127257088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Our favorite cook :)', 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/4675140744167424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/6423349359329280.png', 
       link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -278,24 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'Cool Scan', 
-      author: 'latesh.dulani86', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696/5667620914511872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
-    }, 
-    {
-      title: 'The reason for Easter', 
-      author: 'XanderCLA11_15', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Inkpocalypse Egg Hunt', 
@@ -325,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'Cool Scan', 
+      author: 'latesh.dulani86', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696/5667620914511872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
+    }, 
+    {
       title: 'Spin-off of "Project: Mountain range"', 
       author: '26longenecker_co', 
       votes: 4, 
@@ -350,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552/4558741963063296.png', 
       link: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798425063649337703079468'
+    }, 
+    {
+      title: 'The reason for Easter', 
+      author: 'XanderCLA11_15', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'birthday was yesterday', 
@@ -793,12 +793,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
     }, 
     {
-      title: 'contest entry', 
+      title: 'Spin-off of "Contest"', 
       author: 'the Knight_400', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4662093438828544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest/5770760561147904/4805557828763648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest/5770760561147904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
