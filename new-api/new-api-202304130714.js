@@ -545,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: 'Deathly Hallows', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-pirate/6398807052173312/6570650673397760.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-pirate/6398807052173312/6021258186899456.png', 
       link: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-pirate/6398807052173312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
     }, 
