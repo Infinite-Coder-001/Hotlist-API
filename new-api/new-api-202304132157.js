@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 80, 
+      votes: 79, 
       forks: 19, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5162669729693696.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Moria?', 
       author: 'Joseph Mullan', 
-      votes: 45, 
+      votes: 44, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
       link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
@@ -275,7 +275,7 @@ var LoadHotlistAPI = function() {
       author: 'Mandible Justiciar', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/6715488177799168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/5252790114107392.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
@@ -860,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5790927378759680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/6716277914910720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
