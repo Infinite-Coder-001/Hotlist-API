@@ -10,15 +10,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Jesus made the way =)', 
-      author: 'MaXX🐟', 
-      votes: 43, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4745717693595648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
-    }, 
-    {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 51, 
@@ -26,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/6217598539972608.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Easter', 
-      author: 'The Goo 🌪', 
-      votes: 49, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5116341846851584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
     }, 
     {
       title: 'A example of a broken hotlist', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4550598705070080/6542279746830336.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4550598705070080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_41303987261654557878590'
+    }, 
+    {
+      title: 'Pixel art template', 
+      author: 'Seth | Flightsong', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-template/5545457934974976/5744299720622080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-template/5545457934974976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
+    }, 
+    {
+      title: 'OP Art', 
+      author: 'RA\'ZIYAHA', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/4780614638419968/6414607163113472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/op-art/4780614638419968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_553477213015271019436591'
     }, 
   ];
 };
