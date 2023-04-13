@@ -1,15 +1,6 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'i just want to wreck the hl.', 
-      author: 'ski', 
-      votes: 39, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5083573175762944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
       title: 'Jesus made the way =)', 
       author: 'MaXX🐟', 
       votes: 43, 
@@ -17,6 +8,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152/4745717693595648.png', 
       link: 'https://www.khanacademy.org/computer-programming/jesus-made-the-way/5167254372401152', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5054816954999166688177835'
+    }, 
+    {
+      title: 'i just want to wreck the hl.', 
+      author: 'ski', 
+      votes: 38, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5083573175762944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Collision Detection', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Easter', 
       author: 'The Goo 🌪', 
-      votes: 48, 
+      votes: 47, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960/5116341846851584.png', 
       link: 'https://www.khanacademy.org/computer-programming/easter/5053049984040960', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'Farming Tycoon Updated Version 0.0.2', 
-      author: 'ew9666', 
-      votes: 10, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
-    }, 
-    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 78, 
@@ -188,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/5104394522902528.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Farming Tycoon Updated Version 0.0.2', 
+      author: 'ew9666', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
       title: 'birthday was yesterday', 
@@ -595,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
     }, 
     {
-      title: 'pop the lock wip', 
-      author: 'Milkake', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pop-the-lock-wip/5332088003018752/4624712392294400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pop-the-lock-wip/5332088003018752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286694837017585650325544'
-    }, 
-    {
       title: 'KASE editor: beta version', 
       author: 'noNameCode', 
       votes: 12, 
@@ -724,7 +715,7 @@ var LoadHotlistAPI = function() {
       title: 'Contest', 
       author: 'Dojo Cat', 
       votes: 12, 
-      forks: 4, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912/6406411090444288.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest/4610925832486912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080/4564847510732800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5840944873390080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9726321435963144667156472'
+    }, 
+    {
+      title: 'Op Art', 
+      author: 's28746642', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6053506579742720/4523503572533248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/op-art/6053506579742720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_562702081312676456100763'
     }, 
   ];
 };
