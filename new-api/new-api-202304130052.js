@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A example of a broken hotlist', 
       author: 'Aspen', 
-      votes: 45, 
+      votes: 46, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128/5136759567728640.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-example-of-a-broken-hotlist/5590136449712128', 
@@ -337,7 +337,7 @@ var LoadHotlistAPI = function() {
       title: 'Mining Game!', 
       author: 'jdavidsm', 
       votes: 10, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/5289927228309504.png', 
       link: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
