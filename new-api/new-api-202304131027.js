@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
     }, 
     {
-      title: 'Mining Game!', 
-      author: 'jdavidsm', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/5289927228309504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
-    }, 
-    {
       title: 'Bombs...', 
       author: 'Prince M', 
       votes: 6, 
@@ -341,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
+      title: 'Mining Game!', 
+      author: 'jdavidsm', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/5289927228309504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
       title: 'ahhhh why on HL?!', 
