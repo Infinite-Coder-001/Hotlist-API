@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'ski', 
-      votes: 49, 
+      votes: 48, 
       forks: 8, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/5428117297741824.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 19, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/5405746104942592.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 86, 
+      votes: 85, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Silent Princess', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
       title: 'Inkpocalypse Egg Hunt', 
       author: 'octobrush', 
       votes: 80, 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'Silent Princess', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'birthday was yesterday', 
@@ -334,15 +334,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Noah H.', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288/4586533220040704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'laggyy', 
       author: 'LightningCoder', 
       votes: 11, 
@@ -422,6 +413,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512/5597836923420672.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5705508733632512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'New webpage', 
+      author: 'Noah H.', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288/4586533220040704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'Clock', 
@@ -527,7 +527,7 @@ var LoadHotlistAPI = function() {
       author: 'RedSus#Magus', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f14-shadow-sketch/4637562733117440/6141640113963008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f14-shadow-sketch/4637562733117440/6302578041470976.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick-f14-shadow-sketch/4637562733117440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
@@ -874,15 +874,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6019116657965031205448569'
     }, 
     {
-      title: 'Zero two pixel art', 
-      author: 'cjcool', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zero-two-pixel-art/6545834721460224/4545360287809536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zero-two-pixel-art/6545834721460224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'My Skin for Galaxy Ranger', 
       author: 'Orange Soda', 
       votes: 3, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920/5144852913504256.png', 
       link: 'https://www.khanacademy.org/computer-programming/waves-logos-p/6257594282065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'freddy fazbear ', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/freddy-fazbear/5542758866796544/4513886297702400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/freddy-fazbear/5542758866796544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
