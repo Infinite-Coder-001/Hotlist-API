@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 28, 
-      forks: 3, 
+      votes: 29, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Platform Editor', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 54, 
@@ -46,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'Platform Editor', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
       title: 'Lonely', 
       author: 'Arrow.programming', 
       votes: 50, 
@@ -62,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: '(new) Platformer', 
+      author: 'XanderCLA11_15', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Moria?', 
@@ -75,20 +84,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
-      votes: 40, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: '(new) Platformer', 
-      author: 'XanderCLA11_15', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Frigus Valebat', 
@@ -107,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
+      title: 'Screensaver', 
+      author: 'NIKO Ψ', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Our favorite cook :)', 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
-    }, 
-    {
-      title: 'Screensaver', 
-      author: 'NIKO Ψ', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
       title: 'Farming Tycoon Updated Version 0.0.2', 
@@ -251,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'MOUNTAINS', 
+      author: 'Arrow.programming', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/6423349359329280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'more easier gradients.', 
@@ -541,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Happy Camper', 
+      author: 'nancyjopilbeam', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-camper/5085904638361600/6145291809243136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/happy-camper/5085904638361600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_914292302557840087176089'
+    }, 
+    {
       title: 'Clock', 
       author: 'The Goo 🌪', 
       votes: 23, 
@@ -608,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648/6333529085755392.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648/5806123409260544.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032/5793386448863232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-see-my-cool-games-aj-from-the-behemothjob-4015/5637178823852032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6019116657965031205448569'
-    }, 
-    {
-      title: 'I need assistance! Look in the Help requests.', 
-      author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504/5174454968958976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-need-assistance-look-in-the-help-requests/6199814372245504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
-    }, 
-    {
-      title: 'Spin-off of "Contest: What\'s Cooking?"', 
-      author: 'Faith', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6738470732349440/6026219041898496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-contest-whats-cooking/6738470732349440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1010541704594296737033976'
     }, 
   ];
 };
