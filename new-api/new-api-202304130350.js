@@ -617,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'noNameCode', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/5055611730706432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872/5678683861073920.png', 
       link: 'https://www.khanacademy.org/computer-programming/kase-editor-beta-version/4735367644495872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
     }, 
@@ -820,6 +820,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_598345135360106478802170'
     }, 
     {
+      title: 'Farm Tycoon Update Version 0.0.2', 
+      author: 'ew9666', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farm-tycoon-update-version-002/6524539518631936/4694952170012672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farm-tycoon-update-version-002/6524539518631936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
+    }, 
+    {
       title: 'AMONG US ENTRY', 
       author: 'The Mandolorian', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-template/5545457934974976/5744299720622080.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-template/5545457934974976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_365158171548785668057973'
-    }, 
-    {
-      title: 'OP Art', 
-      author: 'RA\'ZIYAHA', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/4780614638419968/6414607163113472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/op-art/4780614638419968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553477213015271019436591'
     }, 
   ];
 };
