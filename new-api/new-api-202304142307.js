@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 101, 
+      votes: 100, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Iso', 
-      author: 'KarLlr', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
       title: 'MOUNTAINS', 
       author: 'Arrow.programming', 
       votes: 20, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Iso', 
+      author: 'KarLlr', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'not so lonely anymore', 
@@ -379,24 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'loading || sine demo', 
-      author: 'Arrow.programming', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456/5416734518722560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Bulbasuar', 
-      author: 'Green Light', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 31, 
@@ -559,13 +541,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'my logo (animation)', 
+      title: 'my logo', 
       author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216/6561142354001920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4521321347465216/5598284061392896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-logo/4521321347465216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Bulbasuar', 
+      author: 'Green Light', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Found Pt. 2 (Challenge 1[Primavera])', 
@@ -743,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: '✧ℕ𝕠𝕧𝕒✧ {online}', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352/5860447699124224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352/5041669654495232.png', 
       link: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_813381521096073568944791'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4973810781831168/4636739735175168.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4973810781831168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1617607729339813770833008'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'juan.gonzalez', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576/5209810644811776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815654289459124361584982'
     }, 
   ];
 };
