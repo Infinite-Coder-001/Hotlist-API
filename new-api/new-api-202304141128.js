@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 36, 
+      votes: 37, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/4978951723466752.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 39, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Screensaver', 
       author: 'NIKO Ψ', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platform Editor', 
       author: 'Avinasen #CinisFTW', 
-      votes: 26, 
+      votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
     {
+      title: 'matter.js for game physics.', 
+      author: 'ski', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Bombs...', 
       author: 'Prince M', 
       votes: 7, 
@@ -593,15 +602,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816/5839634254053376.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'matter.js for game physics.', 
-      author: 'ski', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Pop The Lock', 
