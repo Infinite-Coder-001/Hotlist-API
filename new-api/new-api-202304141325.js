@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
     }, 
     {
+      title: 'Subpage', 
+      author: 'Infinity', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
+    }, 
+    {
       title: 'no.', 
       author: 'Canada Goose', 
       votes: 92, 
@@ -208,13 +217,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Subpage', 
-      author: 'Infinity', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
+      title: 'The reason for Easter', 
+      author: 'XanderCLA11_15', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Animated squares! [sine demo] [using rotation]', 
@@ -226,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Super Mario ', 
+      author: 'Ducky Momo', 
+      votes: 28, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
       votes: 14, 
@@ -233,24 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
-    }, 
-    {
-      title: 'The reason for Easter', 
-      author: 'XanderCLA11_15', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'Super Mario ', 
-      author: 'Ducky Momo', 
-      votes: 27, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
       title: 'mister magical mixture', 
@@ -269,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+    }, 
+    {
+      title: 'The Story of Easter: Jesus\' sacrifice', 
+      author: 'Green Light', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5863624792129536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -368,15 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
-    }, 
-    {
-      title: 'The Story of Easter: Jesus\' sacrifice', 
-      author: 'Green Light', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5863624792129536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'amazon box', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
+      title: 'Bombs...', 
+      author: 'Prince M', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912/5868808222064640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
+    }, 
+    {
       title: 'finding square roots two different ways', 
       author: 'Clark Kent (offline)', 
       votes: 23, 
@@ -620,15 +629,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
       link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Bombs...', 
-      author: 'Prince M', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912/5868808222064640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
       title: 'laggyy', 
