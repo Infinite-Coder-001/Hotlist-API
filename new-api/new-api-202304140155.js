@@ -10,15 +10,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Connect 4', 
-      author: 'LunaTC', 
-      votes: 35, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/4978951723466752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
-    }, 
-    {
       title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
       votes: 39, 
@@ -26,6 +17,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
+      title: 'Connect 4', 
+      author: 'LunaTC', 
+      votes: 34, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/4978951723466752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
       title: 'A teaser for something i\'m making :)', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 52, 
+      votes: 51, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -156,11 +156,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 91, 
+      votes: 90, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
+    }, 
+    {
+      title: 'Karlson [3D]', 
+      author: '27gilbert', 
+      votes: 8, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776/6129410697904128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_839953537971595723128202'
     }, 
     {
       title: 'Broken hotlist fr', 
@@ -226,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
     }, 
     {
-      title: 'in which i tease ski | wait he\'s a clam now', 
-      author: 'S. M. V.', 
-      votes: 68, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
       title: 'mister magical mixture', 
       author: 'Green Ghost', 
       votes: 23, 
@@ -242,6 +242,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864/6568502820651008.png', 
       link: 'https://www.khanacademy.org/computer-programming/mister-magical-mixture/5533575773732864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'in which i tease ski | wait he\'s a clam now', 
+      author: 'S. M. V.', 
+      votes: 67, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -361,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
-      title: 'Venasuar', 
-      author: 'Green Light', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'ahhhh why on HL?!', 
       author: 'apex alt', 
       votes: 18, 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784/6508760488263680.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784/4539491609264128.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
@@ -566,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/6334773686747136.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'Venasuar', 
+      author: 'Green Light', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Animated dots! [Sine demo]', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/analyzation-whiteboard/5081489311318016/5756476103901184.png', 
       link: 'https://www.khanacademy.org/computer-programming/analyzation-whiteboard/5081489311318016', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1034672257626808307847285'
-    }, 
-    {
-      title: 'Racing Cars', 
-      author: 'august.mcewen', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104/5433998987018240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1099517379188029058300412'
     }, 
   ];
 };
