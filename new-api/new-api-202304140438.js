@@ -37,27 +37,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Platform Editor', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 24, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
       title: 'Screensaver', 
       author: 'NIKO Ψ', 
-      votes: 15, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Platform Editor', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 26, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
-      votes: 54, 
+      votes: 55, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/5080474054868992.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
+      title: 'MOUNTAINS', 
+      author: 'Arrow.programming', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'attempt for cool pixel art', 
       author: 'Blake Meloche (T1)', 
       votes: 10, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/4504275268190208.png', 
       link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'MOUNTAINS', 
-      author: 'Arrow.programming', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Silent Princess', 
@@ -157,7 +157,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 38, 
-      forks: 14, 
+      forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/4797121640579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -802,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
+      title: 'My Level for Galaxy Ranger', 
+      author: 'Orange Soda', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/6490527253184512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
+    }, 
+    {
       title: 'ohnoes', 
       author: 'LovelyPetals', 
       votes: 21, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104/5433998987018240.png', 
       link: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1099517379188029058300412'
-    }, 
-    {
-      title: 'Cook-6 shapes', 
-      author: 'cookhunt3', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cook-6-shapes/5712057585680384/4955504230318080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cook-6-shapes/5712057585680384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6857114878317875175306907'
     }, 
   ];
 };
