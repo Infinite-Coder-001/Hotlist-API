@@ -46,15 +46,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
-      title: '(new) Platformer', 
-      author: 'XanderCLA11_15', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'Screensaver', 
       author: 'NIKO Ψ', 
       votes: 14, 
@@ -62,6 +53,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: '(new) Platformer', 
+      author: 'XanderCLA11_15', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Collision Detection', 
@@ -496,15 +496,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'game (platform)', 
-      author: 'crazy__codes', 
-      votes: 30, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
-    }, 
-    {
       title: 'French Toast', 
       author: 'katite', 
       votes: 21, 
@@ -521,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5486785208827904.png', 
       link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
+      title: 'game (platform)', 
+      author: 'crazy__codes', 
+      votes: 29, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
       title: 'for dojo cat', 
