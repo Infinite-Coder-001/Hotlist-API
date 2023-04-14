@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lonely', 
       author: 'Arrow.programming', 
-      votes: 53, 
+      votes: 52, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
-      votes: 43, 
+      votes: 42, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
@@ -721,15 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'bye', 
-      author: 'Sushii-coder', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bye/6100769607827456/6013058876227584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bye/6100769607827456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_841029620324117004206387'
-    }, 
-    {
       title: 'New program', 
       author: 'aaron_p', 
       votes: 4, 
@@ -863,6 +854,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f22-shadow-sketch/4637562733117440/5970730581016576.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick-f22-shadow-sketch/4637562733117440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
+    }, 
+    {
+      title: 'bye', 
+      author: 'Sushii-coder', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bye/6100769607827456/6013058876227584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bye/6100769607827456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_841029620324117004206387'
     }, 
     {
       title: 'Spin-off of "Challenge: Smarter Button"', 
