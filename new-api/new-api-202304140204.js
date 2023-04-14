@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784/5895504321101824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784/6508760488263680.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
