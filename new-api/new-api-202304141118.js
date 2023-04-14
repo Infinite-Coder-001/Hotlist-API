@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 35, 
+      votes: 36, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/4978951723466752.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
