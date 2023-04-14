@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 59, 
+      votes: 60, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 92, 
-      forks: 28, 
+      votes: 93, 
+      forks: 29, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you have questions about Christianity you can ask them here!', 
       author: 'Animation Guy', 
-      votes: 13, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dividing Aggregating Walkers', 
       author: 'daniel', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4867602951487488.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Tutorial: Commented Code', 
       author: 'The Ember Society #OpesFTW', 
-      votes: 8, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792/6467177621536768.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'not so lonely anymore', 
       author: 'Green Ghost', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
@@ -129,11 +129,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'i don\'t think i should be judgin', xD.', 
       author: 'clam boi', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5584722400165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'Fright', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Avatar war Pt.1', 
+      author: 'NotMe87', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: 'gravity dash re-release', 
@@ -154,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'Fright', 
-      author: 'Arrow.programming', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 55, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/5080474054868992.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
-    }, 
-    {
-      title: 'Avatar war Pt.1', 
-      author: 'NotMe87', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: 'Lonely', 
@@ -262,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
     }, 
     {
+      title: 'Yes', 
+      author: 'Barfaboofis', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
+    }, 
+    {
       title: 'low quality  meme ', 
       author: 'LovelyPetals', 
       votes: 11, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6236267370299392.png', 
       link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Yes', 
-      author: 'Barfaboofis', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
     }, 
     {
       title: 'Why?', 
@@ -631,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
+      title: 'matter.js for game physics.', 
+      author: 'clam boi', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'WandaVision Poster', 
       author: '✧ℕ𝕠𝕧𝕒✧ {online}', 
       votes: 2, 
@@ -737,15 +746,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280/6735276853739520.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
-    }, 
-    {
-      title: 'matter.js for game physics.', 
-      author: 'clam boi', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Derivado de "Proyecto: diseño de anuncio"', 
