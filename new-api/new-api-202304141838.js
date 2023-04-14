@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 31, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
