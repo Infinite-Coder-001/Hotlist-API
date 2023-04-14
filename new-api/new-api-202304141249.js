@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 9, 
+      votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
     }, 
     {
+      title: 'i don\'t think i should be judgin', xD.', 
+      author: 'ski', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5093624665915392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Plane With Skyline', 
       author: 'Arlo R.S.', 
       votes: 4, 
@@ -406,6 +415,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'catalina.mena', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4835182969667584/5468198737854464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4835182969667584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_846450455836125976601755'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'pablo.bravo', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6678829423968256/6405970755633152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6678829423968256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5658136316434791878860464'
+    }, 
+    {
       title: 'Venasuar', 
       author: 'Green Light', 
       votes: 3, 
@@ -413,6 +440,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'martina.rojas', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5686827672715264/5021182660493312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5686827672715264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1783311169081923719058866'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'juan.gonzalez', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576/5209810644811776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_815654289459124361584982'
     }, 
     {
       title: 'joker', 
@@ -449,6 +494,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Avatar war Pt.1', 
+      author: 'NotMe87', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: 'finding square roots two different ways', 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rubiks-cubes/5023788304744448/5651319265476608.png', 
       link: 'https://www.khanacademy.org/computer-programming/rubiks-cubes/5023788304744448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'My Level for Galaxy Ranger', 
-      author: 'Orange Soda', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208/6406367192858624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-level-for-galaxy-ranger/5741274083934208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_756100093056645662461702'
-    }, 
-    {
-      title: 'ohnoes', 
-      author: 'LovelyPetals', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296/5354507111546880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ohnoes/5889449918775296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'My snowman has a little hat and he is adorable', 
-      author: 'OraShrub', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-snowman-has-a-little-hat-and-he-is-adorable/5237348255449088/5968812643237888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-snowman-has-a-little-hat-and-he-is-adorable/5237348255449088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_240333621442418190872787'
-    }, 
-    {
-      title: 'player for GalaxyRanger-me', 
-      author: 'Deathly Hallows', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-me/5172397125976064/5924971093475328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-me/5172397125976064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
-    }, 
-    {
-      title: 'I could use some help Intro/Logo Contest', 
-      author: 'RealCoder2.0', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280/6735276853739520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
-    }, 
-    {
-      title: 'Nuevo programa', 
-      author: 'HugoQuesada', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5795634788745216/5703601826873344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5795634788745216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278408952141874067849626'
     }, 
   ];
 };
