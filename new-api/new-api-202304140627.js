@@ -157,7 +157,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 38, 
-      forks: 16, 
+      forks: 15, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/4797121640579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The reason for Easter', 
       author: 'XanderCLA11_15', 
-      votes: 11, 
+      votes: 10, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
