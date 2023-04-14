@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Our favorite cook :)', 
       author: 'Com', 
-      votes: 101, 
+      votes: 102, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'New program', 
+      author: 'galinski.morgan', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
+    }, 
+    {
       title: 'more easier gradients.', 
       author: 'reader ✔', 
       votes: 12, 
@@ -359,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5754863645671424.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'New program', 
-      author: 'galinski.morgan', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
     {
       title: 'contest entry', 
@@ -544,7 +544,7 @@ var LoadHotlistAPI = function() {
       title: 'image to pixel art converter!', 
       author: 'Clark Kent (offline)', 
       votes: 9, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5486785208827904.png', 
       link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
