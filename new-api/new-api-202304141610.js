@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 33, 
+      votes: 32, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 41, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6272369154113536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -103,8 +103,8 @@ var LoadHotlistAPI = function() {
       title: 'minecraft stuff', 
       author: '🎮gamer guy🎮', 
       votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5766947469049856.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6754909803560960.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'If you have questions about Christianity you can ask them here!', 
-      author: 'Animation Guy', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
       title: 'Broken hotlist fr', 
       author: 'Phase #VirtusVictory', 
       votes: 20, 
@@ -338,7 +329,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928/6521576133804032.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928/5373447128793088.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -355,7 +346,7 @@ var LoadHotlistAPI = function() {
       title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
       author: '²ʟᴇᴛᴛᴇʀ', 
       votes: 3, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
@@ -478,31 +469,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
-      title: 'shooting stars!', 
-      author: 'KELSEYP', 
+      title: 'If you have questions about Christianity you can ask them here!', 
+      author: 'Animation Guy', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512/5359558437683200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
-    }, 
-    {
-      title: 'Tutorial: Commented Code', 
-      author: 'The Ember Society #OpesFTW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792/5967853758234624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'food', 
-      author: 'Joshua Suh', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/food/5605248728350720/5576109346570240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/food/5605248728350720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_989816885814440698154814'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
       title: 'santa existe 10000% real no fake wasaaaaaa', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-pirate/6398807052173312/6021258186899456.png', 
       link: 'https://www.khanacademy.org/computer-programming/player-for-galaxyranger-pirate/6398807052173312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9032986298497221170369627'
+    }, 
+    {
+      title: 'wip', 
+      author: 'LightningCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5575877418336256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'pixel art cat', 
+      author: '🔥丂ﾑ√ﾑム乇🔥 BIO', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816/5839634254053376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
+    }, 
+    {
+      title: 'Pop The Lock', 
+      author: 'bruh', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pop-the-lock/5719026874761216/4856240187686912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pop-the-lock/5719026874761216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1622375433411829156936397'
     }, 
   ];
 };
