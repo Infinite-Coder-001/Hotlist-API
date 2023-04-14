@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'MOUNTAINS', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Silent Princess', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 17, 
@@ -163,13 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'MOUNTAINS', 
-      author: 'Arrow.programming', 
-      votes: 7, 
+      title: 'Broken hotlist fr', 
+      author: 'Phase #VirtusVictory', 
+      votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6236267370299392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'low quality  meme ', 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
       link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
-    }, 
-    {
-      title: 'Broken hotlist fr', 
-      author: 'Phase #VirtusVictory', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720/6236267370299392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/broken-hotlist-fr/4762929724702720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Subpage', 
