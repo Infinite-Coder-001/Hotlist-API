@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 36, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'minecraft stuff', 
       author: '🎮gamer guy🎮🟢', 
-      votes: 12, 
+      votes: 13, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4638977010483200.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
+      title: 'Fright', 
+      author: 'Arrow.programming', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/4828833330282496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Silent Princess', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 22, 
@@ -289,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Fright', 
-      author: 'Arrow.programming', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/4828833330282496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'DRONE WARSS', 
       author: 'ISTOLEYOURTOAST', 
       votes: 5, 
@@ -323,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
+    }, 
+    {
+      title: 'henwy stickman : BTB [GAME]', 
+      author: 'Zenghao the chicken', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/5568019347849216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
       title: 'Broken hotlist fr', 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'henwy stickman : BTB [GAME]', 
-      author: 'Zenghao the chicken', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/5568019347849216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
       title: 'mister magical mixture', 
@@ -662,7 +662,7 @@ var LoadHotlistAPI = function() {
       author: '✧ℕ𝕠𝕧𝕒✧ {online}', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352/6137594019889152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352/5079594727424000.png', 
       link: 'https://www.khanacademy.org/computer-programming/wandavision-poster/5431518802788352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_813381521096073568944791'
     }, 
