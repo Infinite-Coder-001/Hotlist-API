@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'low quality  meme ', 
+      author: 'LovelyPetals', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488/5039686663061504.png', 
+      link: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
       author: 'FakeCxrpss', 
       votes: 9, 
@@ -190,13 +199,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'low quality  meme ', 
-      author: 'LovelyPetals', 
+      title: 'Subpage', 
+      author: 'Infinity', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488/5039686663061504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
     }, 
     {
       title: 'Animated squares! [sine demo] [using rotation]', 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
-    }, 
-    {
-      title: 'Subpage', 
-      author: 'Infinity', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
     }, 
     {
       title: 'mister magical mixture', 
@@ -278,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'Cool Scan', 
-      author: 'latesh.dulani86', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696/5667620914511872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-scan/5116156995485696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_356703897156289228946070'
     }, 
     {
       title: 'Inkpocalypse Egg Hunt', 
@@ -406,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'New webpage', 
+      author: 'Noah H.', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288/4586533220040704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Collision Examples', 
       author: 'Dominic R.', 
       votes: 15, 
@@ -460,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Noah H.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288/4586533220040704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/4848252320268288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
       author: '26robinson_ca', 
       votes: 3, 
@@ -521,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6166000564486144.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
+      title: 'game levels', 
+      author: 'codeMaster - Opes FTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-levels/5189344655884288/5577941326282752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-levels/5189344655884288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
       title: 'laggyy', 
