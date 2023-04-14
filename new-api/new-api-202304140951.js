@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_819912416538766691931359'
     }, 
     {
+      title: 'not so lonely anymore', 
+      author: 'Green Ghost', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'New program', 
       author: 'Mandible Justiciar', 
       votes: 10, 
@@ -503,15 +512,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912/5868808222064640.png', 
       link: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
-    }, 
-    {
-      title: 'not so lonely anymore', 
-      author: 'Green Ghost', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'laggyy', 
