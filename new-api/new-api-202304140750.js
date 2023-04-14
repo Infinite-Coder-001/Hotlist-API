@@ -262,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
+      title: 'Plane With Skyline', 
+      author: 'Arlo R.S.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704/6353727939461120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
+    }, 
+    {
       title: 'WIP', 
       author: '▪Dipper98▪', 
       votes: 42, 
@@ -341,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5754863645671424.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Plane With Skyline', 
-      author: 'Arlo R.S.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704/6353727939461120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
       title: 'New program', 
@@ -460,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
     {
+      title: 'Winston Tower Defense', 
+      author: 'AmeliaCodes', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6007538677235712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
+    }, 
+    {
       title: 'Spin-off of "Project: Hoppy Beaver Extreme"', 
       author: '26robinson_ca', 
       votes: 3, 
@@ -478,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
+      title: 'hm.', 
+      author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hm/5346982748274688/4807120819372032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hm/5346982748274688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
+    }, 
+    {
       title: 'Bombs...', 
       author: 'Prince M', 
       votes: 7, 
@@ -485,6 +503,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912/5868808222064640.png', 
       link: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
+    }, 
+    {
+      title: 'not so lonely anymore', 
+      author: 'Green Ghost', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'laggyy', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quick-f22-shadow-sketch/4637562733117440/5970730581016576.png', 
       link: 'https://www.khanacademy.org/computer-programming/quick-f22-shadow-sketch/4637562733117440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Smarter Button"', 
-      author: '26nbeutel', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smarter-button/5737232838475776/4877453702250496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smarter-button/5737232838475776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_993714585957914946021177'
-    }, 
-    {
-      title: 'analyzation whiteboard', 
-      author: 'Olivier Joseph', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/analyzation-whiteboard/5081489311318016/5756476103901184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/analyzation-whiteboard/5081489311318016', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1034672257626808307847285'
-    }, 
-    {
-      title: 'Racing Cars', 
-      author: 'august.mcewen', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104/5433998987018240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1099517379188029058300412'
     }, 
   ];
 };
