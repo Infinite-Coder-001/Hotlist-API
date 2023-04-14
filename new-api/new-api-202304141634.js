@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'ITS A BEAUTIFUL DAY', 
+      author: 'apex', 
+      votes: 24, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 52, 
@@ -10,19 +19,10 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'ITS A BEAUTIFUL DAY', 
-      author: 'apex', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
       votes: 86, 
-      forks: 25, 
+      forks: 26, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 41, 
+      votes: 42, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 33, 
+      votes: 34, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Platform Editor', 
       author: 'Avinasen #CinisFTW', 
-      votes: 28, 
+      votes: 29, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Story of Easter: Jesus\' sacrifice', 
       author: 'Green Light', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5864955628011520.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
+      title: 'i don\'t think i should be judgin', xD.', 
+      author: 'clam boi', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5093624665915392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
       title: 'Collision Detection', 
       author: 'Dominic R.', 
       votes: 55, 
@@ -113,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5766947469049856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4816114480889856.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
       link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
-    }, 
-    {
-      title: 'i don\'t think i should be judgin', xD.', 
-      author: 'clam boi', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5093624665915392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'attempt for cool pixel art', 
@@ -226,10 +226,19 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Ordinary Clock', 
+      author: '✝︎ Volatile ✝︎', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ordinary-clock/4956321440120832/5283532927975424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ordinary-clock/4956321440120832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
+    }, 
+    {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 40, 
-      forks: 17, 
+      votes: 41, 
+      forks: 18, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/4797121640579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -246,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'no.', 
       author: 'Canada Goose', 
-      votes: 92, 
+      votes: 93, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
       link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
@@ -325,6 +334,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Tutorial: Commented Code', 
+      author: 'The Ember Society #OpesFTW', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792/5967853758234624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'final scores', 
+      author: 'Astro', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
       title: 'in which i tease ski | wait he\'s a clam now', 
       author: 'S. M. V.', 
       votes: 68, 
@@ -361,15 +388,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
     }, 
     {
-      title: 'Ordinary Clock', 
-      author: '✝︎ Volatile ✝︎', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ordinary-clock/4956321440120832/5283532927975424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ordinary-clock/4956321440120832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042119038101192699910361'
-    }, 
-    {
       title: 'reader', 
       author: 'reader ✔', 
       votes: 3, 
@@ -381,7 +399,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'WIP', 
       author: '▪Dipper98▪', 
-      votes: 42, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
@@ -505,22 +523,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
     }, 
     {
-      title: 'Tutorial: Commented Code', 
-      author: 'The Ember Society #OpesFTW', 
+      title: 'Who am I?', 
+      author: 'Naut', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792/5967853758234624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'final scores', 
-      author: 'Astro', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5008412380545024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800/5781558780018688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1181985685256989538437820'
     }, 
     {
       title: 'food', 
@@ -530,6 +539,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/food/5605248728350720/5576109346570240.png', 
       link: 'https://www.khanacademy.org/computer-programming/food/5605248728350720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_989816885814440698154814'
+    }, 
+    {
+      title: 'sub', 
+      author: '🎮gamer guy🎮', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub/5869894303531008/5223402312089600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub/5869894303531008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'santa existe 10000% real no fake wasaaaaaa', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game-levels/5189344655884288/5577941326282752.png', 
       link: 'https://www.khanacademy.org/computer-programming/game-levels/5189344655884288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
-    }, 
-    {
-      title: 'dodge-ball!', 
-      author: 'William Smith', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dodge-ball/5458779035713536/6527014434816000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dodge-ball/5458779035713536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1113856474592968027824767'
-    }, 
-    {
-      title: 'Animated dots! [Sine demo]', 
-      author: 'Arrow.programming', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/4608898960244736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
   ];
 };
