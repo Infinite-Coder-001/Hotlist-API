@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 89, 
+      votes: 88, 
       forks: 27, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'The Story of Easter: Jesus\' sacrifice', 
-      author: 'Green Light', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5864955628011520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'If you have questions about Christianity you can ask them here!', 
       author: 'Animation Guy', 
       votes: 11, 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
+    }, 
+    {
+      title: 'The Story of Easter: Jesus\' sacrifice', 
+      author: 'Green Light', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5864955628011520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Platform Editor', 
@@ -93,9 +93,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'minecraft stuff', 
       author: '🎮gamer guy🎮🔴', 
-      votes: 11, 
+      votes: 10, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6626138454802432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6199610126417920.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -145,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
-      title: 'gravity dash re-release', 
-      author: 'BaNana48', 
-      votes: 30, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
       title: 'Avatar war Pt.1', 
       author: 'NotMe87', 
       votes: 8, 
@@ -163,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
+      title: 'gravity dash re-release', 
+      author: 'BaNana48', 
+      votes: 29, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
       title: 'Lonely', 
       author: 'Arrow.programming', 
       votes: 53, 
@@ -170,24 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008/6361421157023744.png', 
       link: 'https://www.khanacademy.org/computer-programming/lonely/5309255319339008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'attempt for cool pixel art', 
-      author: 'Blake Meloche (T1)', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/5385416086962176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
-    }, 
-    {
-      title: 'final scores', 
-      author: 'Astro', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'a dude living who knows where', 
@@ -215,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
       link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
+      title: 'attempt for cool pixel art', 
+      author: 'Blake Meloche (T1)', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/5385416086962176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
@@ -262,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'final scores', 
+      author: 'Astro', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
       title: 'Dividing Aggregating Walkers', 
       author: 'daniel', 
       votes: 5, 
@@ -298,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'New program', 
-      author: 'Barfaboofis', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5723396794269696/5226532495998976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5723396794269696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
-    }, 
-    {
       title: 'no.', 
       author: 'Canada Goose', 
       votes: 93, 
@@ -323,15 +314,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/4828833330282496.png', 
       link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'DRONE WARSS', 
-      author: 'ISTOLEYOURTOAST', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/drone-warss/5670006458466304/5478454918430720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/drone-warss/5670006458466304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_922090180527347298343988'
     }, 
     {
       title: 'Why?', 
@@ -424,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'DRONE WARSS', 
+      author: 'ISTOLEYOURTOAST', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/drone-warss/5670006458466304/5478454918430720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/drone-warss/5670006458466304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_922090180527347298343988'
+    }, 
+    {
       title: 'New program', 
       author: 'adri9863', 
       votes: 3, 
@@ -444,7 +435,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'WIP', 
       author: '▪Dipper98▪', 
-      votes: 44, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
@@ -509,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hm/5346982748274688/6228919679500288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hm/5346982748274688/6350429110976512.png', 
       link: 'https://www.khanacademy.org/computer-programming/hm/5346982748274688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432/5929075991691264.png', 
       link: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'game (platform)', 
+      author: 'crazy__codes', 
+      votes: 30, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928/6374008112332800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/game-platform/6105917142908928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
   ];
 };
