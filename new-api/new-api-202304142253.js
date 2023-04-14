@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 48, 
+      votes: 47, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
-      title: 'Dividing Aggregating Walkers', 
-      author: 'daniel', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4818695219363840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
       title: 'Screensaver', 
       author: 'NIKO Ψ', 
       votes: 27, 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Dividing Aggregating Walkers', 
+      author: 'daniel', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4818695219363840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
-      author: '²ʟᴇᴛᴛᴇʀ', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
-    }, 
-    {
       title: 'final scores', 
       author: 'Astro', 
       votes: 8, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
+      title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
+      author: '²ʟᴇᴛᴛᴇʀ', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
       title: 'Collision Detection', 
@@ -539,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'my logo', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo/4521321347465216/5598284061392896.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo/4521321347465216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Bulbasuar', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576/5209810644811776.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/6497811987480576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_815654289459124361584982'
+    }, 
+    {
+      title: 'joker', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848/5322278230605824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
   ];
 };
