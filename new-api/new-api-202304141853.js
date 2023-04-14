@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 32, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -92,7 +92,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'minecraft stuff', 
-      author: '🎮gamer guy🎮🔴', 
+      author: '🎮gamer guy🎮🟢', 
       votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6626138454802432.png', 
@@ -425,7 +425,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: '🎮gamer guy🎮🔴', 
+      author: '🎮gamer guy🎮🟢', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928/6521576133804032.png', 
@@ -578,7 +578,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'a guy ', 
-      author: '🎮gamer guy🎮🔴', 
+      author: '🎮gamer guy🎮🟢', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/6009347663773696.png', 
@@ -614,7 +614,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🔴', 
+      author: '🎮gamer guy🎮🟢', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
@@ -824,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5138860914032640.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/6222534581469184.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
