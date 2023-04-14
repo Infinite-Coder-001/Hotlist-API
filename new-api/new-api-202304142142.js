@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🟢', 
       votes: 16, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6383501458063360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4638977010483200.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5987726865514496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
       link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🟢', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/4627570491703296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/6009347663773696.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -550,12 +550,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
-      title: 'for cjcool', 
+      title: 'New program', 
       author: '🎮gamer guy🎮🟢', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128/5636295662813184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5346819631792128/6748708600594432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5346819631792128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -566,15 +566,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776/4597795463151616.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-easier-gradients/6306626383691776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
-      title: 'Harley Quinn part 1', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/5346738673336320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'Winston Tower Defense', 
@@ -635,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'Nameer A', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/4572387099328512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/4648545996292096.png', 
       link: 'https://www.khanacademy.org/computer-programming/car/6230128217866240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_826190245797499882151264'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6252164369661952.png', 
       link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
+      title: 'The Stickman Redemption Arc (REMASTERED)', 
+      author: 'obsta07', 
+      votes: 7, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-stickman-redemption-arc-remastered/4949716694777856/4643340974080000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-stickman-redemption-arc-remastered/4949716694777856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
     }, 
   ];
 };
