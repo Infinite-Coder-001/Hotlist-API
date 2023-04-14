@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Moria?', 
+      author: 'Joseph Mullan', 
+      votes: 46, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
+    }, 
+    {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
       votes: 26, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
-      title: 'Moria?', 
-      author: 'Joseph Mullan', 
-      votes: 45, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
+      title: 'The reason for Easter', 
+      author: 'XanderCLA11_15', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
+    }, 
+    {
       title: 'Super Mario ', 
       author: 'Ducky Momo', 
       votes: 27, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
       link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
-    }, 
-    {
-      title: 'The reason for Easter', 
-      author: 'XanderCLA11_15', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864/5088717204406272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-reason-for-easter/5656611487268864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'Plane With Skyline', 
