@@ -365,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4813233472192512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4732552847081472.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -487,15 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
     }, 
     {
-      title: 'laggyy', 
-      author: 'LightningCoder', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432/5929075991691264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'French Toast', 
       author: 'katite', 
       votes: 21, 
@@ -503,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784/5380551508017152.png', 
       link: 'https://www.khanacademy.org/computer-programming/french-toast/5171135395446784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_312040000225853665820004'
-    }, 
-    {
-      title: 'image to pixel art converter!', 
-      author: 'Clark Kent (offline)', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5486785208827904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'game (platform)', 
@@ -541,13 +523,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_539949603587752076970267'
     }, 
     {
-      title: 'Animated dots! [Sine demo]', 
-      author: 'Arrow.programming', 
-      votes: 22, 
+      title: 'laggyy', 
+      author: 'LightningCoder', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/4608898960244736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432/5929075991691264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/laggyy/6006470933266432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'player for GalaxyRanger- pirate', 
@@ -575,6 +557,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
       link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'image to pixel art converter!', 
+      author: 'Clark Kent (offline)', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808/5486785208827904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/image-to-pixel-art-converter/6728329710583808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
+      title: 'Animated dots! [Sine demo]', 
+      author: 'Arrow.programming', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312/4608898960244736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-dots-sine-demo/6654938517389312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Pop The Lock', 
