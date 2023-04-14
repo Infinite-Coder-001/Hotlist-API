@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 26, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -21,8 +21,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 87, 
-      forks: 27, 
+      votes: 86, 
+      forks: 26, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
       votes: 34, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
@@ -84,20 +84,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you have questions about Christianity you can ask them here!', 
       author: 'Animation Guy', 
-      votes: 9, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
-      title: 'MOUNTAINS', 
-      author: 'Arrow.programming', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'minecraft stuff', 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4816114480889856.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'MOUNTAINS', 
+      author: 'Arrow.programming', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -523,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
     {
-      title: 'a guy ', 
-      author: '🎮gamer guy🎮', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/6009347663773696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'shooting stars!', 
       author: 'KELSEYP', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280/6735276853739520.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-intrologo-contest/6626071605985280', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8148318351952655013002532'
+    }, 
+    {
+      title: 'for dojo cat', 
+      author: 'reader ✔', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6166000564486144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
   ];
 };
