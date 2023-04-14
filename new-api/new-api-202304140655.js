@@ -19,12 +19,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
-      title: 'Click that block!!!    (Cheating blocked)', 
+      title: 'Click that block!!!                   (My first "game".)', 
       author: 'Speedyspeedcuber', 
       votes: 39, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5691592402059264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032/4903173761581056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/click-that-block-my-first-game/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
