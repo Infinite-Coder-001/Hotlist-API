@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 36, 
+      votes: 35, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/5740479565316096.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 21, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/5401024912474112.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -256,7 +256,7 @@ var LoadHotlistAPI = function() {
       title: 'Karlson [3D]', 
       author: '27gilbert', 
       votes: 5, 
-      forks: 5, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776/6129410697904128.png', 
       link: 'https://www.khanacademy.org/computer-programming/karlson-3d/6034067926859776', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_839953537971595723128202'
@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
     {
-      title: 'Subpage', 
-      author: 'Infinity', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
-    }, 
-    {
       title: 'My Character', 
       author: '🥞PaNcAkEs🥞 #OpesFTW', 
       votes: 16, 
@@ -388,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'joker', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848/5322278230605824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
       title: 'Collision Examples', 
       author: 'Dominic R.', 
       votes: 15, 
@@ -431,6 +413,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-stickman-redemption-arc-remastered/4949716694777856/4643340974080000.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-stickman-redemption-arc-remastered/4949716694777856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147080920894647815154369'
+    }, 
+    {
+      title: 'Subpage', 
+      author: 'Infinity', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088/5220407612588032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage/4857975555801088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_231645388740490589476107'
     }, 
     {
       title: 'Kittens!!', 
@@ -577,6 +568,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_286694837017585650325544'
     }, 
     {
+      title: 'joker', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848/5322278230605824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/joker/5294365372366848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
       title: 'Animated dots 2! [sine demo]', 
       author: 'Arrow.programming', 
       votes: 20, 
@@ -644,7 +644,7 @@ var LoadHotlistAPI = function() {
       author: 'WinstonWinner000 (Parlor Indie) #OpesFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648/5061092973002752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648/5806123409260544.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-shrine-will-be-a-wip-for-about-three-years-p/6266291305627648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_693763055742960827086832'
     }, 
