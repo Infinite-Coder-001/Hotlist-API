@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 34, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -95,9 +95,18 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🟢', 
       votes: 9, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4816114480889856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6346291312640000.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Who am I?', 
+      author: 'Naut', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800/4735678333370368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1181985685256989538437820'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5841153565179904.png', 
       link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Who am I?', 
-      author: 'Naut', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800/4735678333370368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/who-am-i/6124606407884800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1181985685256989538437820'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
+      title: 'Avatar war Pt.1', 
+      author: 'NotMe87', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
       title: 'attempt for cool pixel art', 
       author: 'Blake Meloche (T1)', 
       votes: 12, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Avatar war Pt.1', 
-      author: 'NotMe87', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: 'Ordinary Clock', 
@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'the Knight_400', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4773492500512768.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4891839695208448.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -733,7 +733,7 @@ var LoadHotlistAPI = function() {
       title: 'Derivado de "Proyecto: diseño de anuncio"', 
       author: 'varelia.romero', 
       votes: 2, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4973810781831168/4636739735175168.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/4973810781831168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1617607729339813770833008'
