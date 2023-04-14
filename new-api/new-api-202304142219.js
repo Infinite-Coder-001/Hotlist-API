@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
-      votes: 44, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/6101627586265088.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 62, 
+      votes: 61, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🔴', 
       votes: 18, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6441613305102336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6383501458063360.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -184,7 +184,7 @@ var LoadHotlistAPI = function() {
       title: 'Venasuar', 
       author: 'Green Light', 
       votes: 12, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6204674320678912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/5568019347849216.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -545,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384/6582807511220224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384/6382860971065344.png', 
       link: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
