@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 83, 
+      votes: 84, 
       forks: 24, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'ITS A BEAUTIFUL DAY', 
       author: 'apex', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
       link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 30, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Story of Easter: Jesus\' sacrifice', 
       author: 'Green Light', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760/5863624792129536.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter-jesus-sacrifice/4748561129717760', 
@@ -255,7 +255,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Super Mario ', 
       author: 'Ducky Momo', 
-      votes: 29, 
+      votes: 30, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
@@ -431,6 +431,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
+    }, 
+    {
+      title: 'Fright', 
+      author: 'Arrow.programming', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/4828833330282496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'santa existe 10000% real no fake wasaaaaaa', 
+      author: 'santiago V. S 6°C', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728/5400530118819840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_149678325591485023436398'
     }, 
     {
       title: 'amazon box', 
@@ -671,7 +689,7 @@ var LoadHotlistAPI = function() {
       author: 'jdavidsm', 
       votes: 14, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/5140710232997888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656/6622424826429440.png', 
       link: 'https://www.khanacademy.org/computer-programming/mining-game/4636709209030656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_162227050418593899377700'
     }, 
@@ -680,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'AmeliaCodes', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6007538677235712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/5023799771971584.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
@@ -833,7 +851,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5740053323366400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/5427750472302592.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -845,15 +863,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816/5839634254053376.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-cat/6573886427938816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_247309153820624482456131'
-    }, 
-    {
-      title: 'An Important Message', 
-      author: 'StuffStash', 
-      votes: 4, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/an-important-message/5570837752365056/5746437490262016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/an-important-message/5570837752365056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
     }, 
     {
       title: 'Pop The Lock', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cps-test/5805415175864320/5846968984453120.png', 
       link: 'https://www.khanacademy.org/computer-programming/cps-test/5805415175864320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'Happy Camper', 
-      author: 'nancyjopilbeam', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/happy-camper/5085904638361600/6145291809243136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/happy-camper/5085904638361600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_914292302557840087176089'
     }, 
   ];
 };
