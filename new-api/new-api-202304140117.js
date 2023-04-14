@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'LunaTC', 
       votes: 33, 
       forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/4978951723466752.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/5750996770013184.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
@@ -399,7 +399,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'unicorn fighting a cloud in the dark', 
       author: 'Green Ghost', 
-      votes: 66, 
+      votes: 65, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
@@ -833,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584/6009753915670528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584/4885924518608896.png', 
       link: 'https://www.khanacademy.org/computer-programming/swords/5910908699459584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
