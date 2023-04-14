@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 100, 
+      votes: 99, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 47, 
+      votes: 46, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 43, 
+      votes: 41, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -50,7 +50,7 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🔴', 
       votes: 18, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6714718304911360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6441613305102336.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Iso', 
-      author: 'KarLlr', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
       title: 'i don\'t think i should be judgin', xD.', 
       author: 'clam boi', 
       votes: 10, 
@@ -163,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
-      title: 'Venasuar', 
-      author: 'Green Light', 
-      votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'gravity dash re-release', 
       author: 'BaNana48', 
       votes: 34, 
@@ -179,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
+    }, 
+    {
+      title: 'Iso', 
+      author: 'KarLlr', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Avatar war Pt.1', 
@@ -190,13 +181,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
-      title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
-      author: '²ʟᴇᴛᴛᴇʀ', 
-      votes: 8, 
+      title: 'Venasuar', 
+      author: 'Green Light', 
+      votes: 12, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Collision Detection', 
@@ -235,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
+      author: '²ʟᴇᴛᴛᴇʀ', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
+    }, 
+    {
       title: 'Bender Studios Mc skin', 
       author: 'cjcool', 
       votes: 6, 
@@ -266,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6012343269244928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6204674320678912.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -460,24 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
     }, 
     {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26longenecker_co', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
-    }, 
-    {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26heck_no', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
-    }, 
-    {
       title: 'kirby !!!', 
       author: '🎮gamer guy🎮🔴', 
       votes: 3, 
@@ -523,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'contest entry', 
-      author: 'the Knight_400', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4754096696639488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
       title: 'WIP', 
       author: '▪Dipper98▪', 
       votes: 44, 
@@ -539,6 +512,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26longenecker_co', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
+    }, 
+    {
+      title: 'Spin-off of "Project: Mountain range"', 
+      author: '26heck_no', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
     }, 
     {
       title: 'Found Pt. 2 (Challenge 1[Primavera])', 
@@ -566,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
+    }, 
+    {
+      title: 'contest entry', 
+      author: 'the Knight_400', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4754096696639488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'did i start this?!', 
