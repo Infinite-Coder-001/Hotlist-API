@@ -4,7 +4,7 @@ var LoadHotlistAPI = function() {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 43, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/6101627586265088.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'minecraft stuff', 
       author: '🎮gamer guy🎮🟢', 
-      votes: 16, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6383501458063360.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Iso', 
+      author: 'KarLlr', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'Silent Princess', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 24, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
-    }, 
-    {
-      title: 'Iso', 
-      author: 'KarLlr', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'Yes', 
@@ -409,7 +409,7 @@ var LoadHotlistAPI = function() {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
       votes: 14, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
@@ -553,10 +553,28 @@ var LoadHotlistAPI = function() {
       title: 'for cjcool', 
       author: '🎮gamer guy🎮🟢', 
       votes: 2, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128/5636295662813184.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'animated carl', 
+      author: 'LovelyPetals', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440/4781094164807680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Shovel knight pixel art WIP', 
+      author: 'cjcool', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art-wip/4915235212541952/5097317373100032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art-wip/4915235212541952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
       title: 'more easier gradients.', 
@@ -635,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Nameer A', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/4572387099328512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/4947992592564224.png', 
       link: 'https://www.khanacademy.org/computer-programming/car/6230128217866240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_826190245797499882151264'
     }, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432/6539655303708672.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/5847743789842432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
-      title: 'Bombs...', 
-      author: 'Prince M', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912/5868808222064640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bombs/6534301526310912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_593109658256163906564917'
-    }, 
-    {
-      title: 'finding square roots two different ways', 
-      author: 'Clark Kent (offline)', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688/6252164369661952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/finding-square-roots-two-different-ways/5150271987826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
   ];
 };
