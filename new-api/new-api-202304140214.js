@@ -361,15 +361,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
-      title: 'New program', 
-      author: 'galinski.morgan', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
-    }, 
-    {
       title: 'Venasuar', 
       author: 'Green Light', 
       votes: 3, 
@@ -413,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872/5884351893258240.png', 
       link: 'https://www.khanacademy.org/computer-programming/unicorn-fighting-a-cloud-in-the-dark/5273954026831872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'The Story of Easter', 
+      author: 'Green Light', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784/5895504321101824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-story-of-easter/6293428385398784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'finding square roots two different ways', 
@@ -505,15 +505,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2289196304620699752000664'
     }, 
     {
-      title: 'for dojo cat', 
-      author: 'reader ✔', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6166000564486144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
-    }, 
-    {
       title: 'laggyy', 
       author: 'LightningCoder', 
       votes: 11, 
@@ -559,11 +550,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
+      title: 'New program', 
+      author: 'galinski.morgan', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
+    }, 
+    {
       title: 'contest entry', 
       author: 'the Knight_400', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/4732552847081472.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904/6334773686747136.png', 
       link: 'https://www.khanacademy.org/computer-programming/contest-entry/5770760561147904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
@@ -638,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888/6534126909046784.png', 
       link: 'https://www.khanacademy.org/computer-programming/clock/5326893290405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1610361323295529834960993'
+    }, 
+    {
+      title: 'for dojo cat', 
+      author: 'reader ✔', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776/6166000564486144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-dojo-cat/6367733198667776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'Splash Screen', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104/5433998987018240.png', 
       link: 'https://www.khanacademy.org/computer-programming/racing-cars/6213107799343104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1099517379188029058300412'
-    }, 
-    {
-      title: 'Cook-6 shapes', 
-      author: 'cookhunt3', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cook-6-shapes/5712057585680384/4955504230318080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cook-6-shapes/5712057585680384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6857114878317875175306907'
     }, 
   ];
 };
