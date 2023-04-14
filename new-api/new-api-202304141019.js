@@ -725,7 +725,7 @@ var LoadHotlistAPI = function() {
       author: 'apex alt', 
       votes: 10, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/choo-choo/6267767214096384/5279710591631360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/choo-choo/6267767214096384/4884208368795648.png', 
       link: 'https://www.khanacademy.org/computer-programming/choo-choo/6267767214096384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
