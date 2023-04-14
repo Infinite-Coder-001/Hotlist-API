@@ -2,7 +2,7 @@ var LoadHotlistAPI = function() {
   return [
     {
       title: 'i just want to wreck the hl.', 
-      author: 'clam boi', 
+      author: 'ski', 
       votes: 83, 
       forks: 21, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/4677317084626944.png', 
@@ -28,24 +28,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
-      title: 'Screensaver', 
-      author: 'NIKO Ψ', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
-    }, 
-    {
-      title: 'ITS A BEAUTIFUL DAY', 
-      author: 'apex', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 38, 
@@ -55,9 +37,27 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'ITS A BEAUTIFUL DAY', 
+      author: 'apex', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920/4617934799683584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/its-a-beautiful-day/5162870452305920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Screensaver', 
+      author: 'NIKO Ψ', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
-      author: 'FakeCxrpss', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
-    }, 
-    {
       title: 'no.', 
       author: 'Canada Goose', 
       votes: 92, 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488/5039686663061504.png', 
       link: 'https://www.khanacademy.org/computer-programming/low-quality-meme/6512324816191488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
+      author: 'FakeCxrpss', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400/5805605966364672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hard-mode-on-mon-don-fon-clon-meon-no-way-that-fake/6147762740838400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
     }, 
     {
       title: 'Subpage', 
@@ -272,7 +272,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
-      author: 'clam boi', 
+      author: 'ski', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5093624665915392.png', 
@@ -614,7 +614,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'matter.js for game physics.', 
-      author: 'clam boi', 
+      author: 'ski', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
