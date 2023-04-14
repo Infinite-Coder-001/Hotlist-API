@@ -653,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'Nameer A', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/5654677183315968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/6226375154647040.png', 
       link: 'https://www.khanacademy.org/computer-programming/car/6230128217866240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_826190245797499882151264'
     }, 
