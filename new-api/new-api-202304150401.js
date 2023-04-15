@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 66, 
+      votes: 67, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
-      votes: 106, 
+      votes: 107, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1088605812207731134487092'
     }, 
     {
-      title: 'santa existe 10000% real no fake wasaaaaaa', 
-      author: 'santiago V. S 6°C', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728/5400530118819840.png', 
-      link: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_149678325591485023436398'
+      title: 'birthday was yesterday', 
+      author: 'LovelyPetals', 
+      votes: 32, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5754863645671424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
