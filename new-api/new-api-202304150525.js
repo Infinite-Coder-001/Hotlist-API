@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'AmeliaCodes', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/4652858613219328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/5023799771971584.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
