@@ -847,58 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2844378532181796852954722'
     }, 
     {
-      title: '"Proje: Hayvan saldırısı" uyarlaması', 
-      author: 'kerembirinci2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-hayvan-saldrs-uyarlamas/5870597134663680/5923122814697472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proje-hayvan-saldrs-uyarlamas/5870597134663680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
-    }, 
-    {
-      title: 'khan academy meme', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272/5905921764278272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'rogerkorantenng', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5396648701509632/6472057618743296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5396648701509632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1101162997256558338344504'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
-      author: 'Coding Is The Best!!!', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6446257104273408/6309912134336512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6446257104273408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
-    }, 
-    {
       title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'johns9dr', 
+      author: 'Lily Da', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606978195505152/4718156116705280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606978195505152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7075804078800911433310531'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743622978060288/4779685818187776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5743622978060288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4354099383628328099353718'
     }, 
     {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'larissa  Ramirez', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'ReiA³', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6340595137429504/6042064350658560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6340595137429504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6672598986778985723461966'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5870458756186112/4580703296864256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5870458756186112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5449756026131436285798444'
+    }, 
+    {
+      title: 'Nova página da Web', 
+      author: 'olivercardososouza', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nova-pgina-da-web/6437935470919680/6398001536090112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nova-pgina-da-web/6437935470919680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1000693069268349281975567'
+    }, 
+    {
+      title: '4 Square', 
+      author: 'abhay337442', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/4-square/4982257816485888/4788650983604224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/4-square/4982257816485888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_745076119778694694743681'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'The Shaman', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5368524853002240/5746620554854400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5368524853002240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_166058219127493740471126'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Bucktooth Bunny"', 
+      author: 'g.aafiyarida', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/6385298474057728/6142759590477824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/6385298474057728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_784662970820480752813041'
     }, 
   ];
 };
