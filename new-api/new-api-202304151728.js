@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
-      votes: 116, 
+      votes: 115, 
       forks: 32, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
@@ -44,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
-    }, 
-    {
-      title: 'interactive gaming pc', 
-      author: 'apex', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'minecraft stuff', 
@@ -73,13 +64,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
-      title: 'Gradient() function', 
-      author: 'apex alt', 
-      votes: 11, 
+      title: 'interactive gaming pc', 
+      author: 'apex', 
+      votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Dividing Aggregating Walkers', 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
       link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Gradient() function', 
+      author: 'apex alt', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'not so lonely anymore', 
@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'final scores', 
-      author: 'Astro', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
-    }, 
-    {
       title: 'Platform Editor', 
       author: 'Avinasen #CinisFTW', 
       votes: 31, 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5584722400165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'final scores', 
+      author: 'Astro', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
       title: 'loading || sine demo', 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
     }, 
     {
-      title: 'sub ', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6065784582619136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
       author: 'vw_beetlesultimategreatness', 
       votes: 5, 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/6410652630695936.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
+    }, 
+    {
+      title: 'sub ', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6065784582619136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Bulbasuar', 
@@ -383,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/5145446130696192.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6194325169160192.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'Leo Alan', 
+      title: 'FAVORITE BOOKS', 
+      author: 'Hanz Ezekiel Buncab', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6258314771218432/4552723304595456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6258314771218432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1663974283187373003773114'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/favorite-books/4920469678768128/5567234601959424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/favorite-books/4920469678768128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3830358735126338571978500'
     }, 
     {
-      title: 'Pisanica, Ozana', 
-      author: 'ozana.radic', 
+      title: 'Spin-off of Animated noise', 
+      author: '24cacraw', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pisanica-ozana/6267801347342336/6623844136960000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pisanica-ozana/6267801347342336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1386819009787166538166096'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-animated-noise/6284681214738432/4623010737995776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-animated-noise/6284681214738432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_427129098855143524224841'
     }, 
     {
-      title: 'Spin-off of "Resizing shapes with variable expressions"', 
-      author: 'sanuabeysekara', 
-      votes: 1, 
+      title: 'matter.js for game physics.', 
+      author: 'ski', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5993019976499200/6547585180680192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5993019976499200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3290289389941648718023724'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Spin-off of "My Favorite Disney Songs (Instrumental)"', 
-      author: 'Kai Martin', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Patricia Carvalho', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-my-favorite-disney-songs-instrumental/6396924682092544/5515647548440576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-my-favorite-disney-songs-instrumental/6396924682092544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_964815486990187213005362'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4773191919910912/6337276738322432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4773191919910912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2044133535510440729927920'
     }, 
     {
-      title: 'Grocery list', 
-      author: 'gayerutan', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'frogycearmey', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grocery-list/6122541367476224/5614657214922752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grocery-list/6122541367476224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7930759333672536328287975'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4922105750929408/6443548590522368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4922105750929408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_607631781789537253723485'
     }, 
   ];
 };
