@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
-      votes: 45, 
+      votes: 46, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/6101627586265088.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 67, 
+      votes: 66, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -586,6 +586,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5505536194764029668876368'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'maruko66513', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5527521589510144/5019823546613760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5527521589510144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3422594823213432433902786'
+    }, 
+    {
       title: 'The moving car', 
       author: 'Cat_LOVER1', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728/5400530118819840.png', 
       link: 'https://www.khanacademy.org/computer-programming/santa-existe-10000-real-no-fake-wasaaaaaa/4869761172553728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_149678325591485023436398'
-    }, 
-    {
-      title: 'Encanto Movie Poster', 
-      author: 'PenGwen', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/encanto-movie-poster/6359798607298560/5296380248899584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/encanto-movie-poster/6359798607298560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
     }, 
   ];
 };
