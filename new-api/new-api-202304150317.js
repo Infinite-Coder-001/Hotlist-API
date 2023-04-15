@@ -55,22 +55,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
+      title: 'Dividing Aggregating Walkers', 
+      author: 'daniel', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
+    }, 
+    {
       title: 'minecraft stuff', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5769562189774848.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Dividing Aggregating Walkers', 
-      author: 'daniel', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: 'If you have questions about Christianity you can ask them here!', 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Venasuar', 
       author: 'Green Light', 
-      votes: 14, 
+      votes: 15, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
@@ -335,7 +335,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928/5052201249849344.png', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
     }, 
     {
+      title: 'kirby !!!', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'reader', 
       author: 'reader ✔', 
       votes: 4, 
@@ -433,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
+      title: 'Derivado de "Proyecto: construye una casa"', 
+      author: 'Sara Otal Sanz', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
+    }, 
+    {
       title: 'Harley Quinn part 1', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 3, 
@@ -451,15 +469,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Derivado de "Proyecto: construye una casa"', 
-      author: 'Sara Otal Sanz', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
-    }, 
-    {
       title: 'Plane With Skyline', 
       author: 'Arlo R.S.', 
       votes: 5, 
@@ -470,7 +479,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'sub ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6065784582619136.png', 
@@ -479,7 +488,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'a guy ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/4627570491703296.png', 
@@ -521,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
-    }, 
-    {
-      title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'amazon box', 
@@ -605,7 +605,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'my logo (animation)', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216/6561142354001920.png', 
@@ -641,7 +641,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'diamond armor', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384/6582807511220224.png', 
@@ -668,7 +668,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'for cjcool', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128/5636295662813184.png', 
