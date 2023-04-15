@@ -147,7 +147,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Venasuar', 
       author: 'Green Light', 
-      votes: 16, 
+      votes: 17, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Memory Game (Credit to Logan (@lveras0318))', 
+      author: 'InvisibleCat123', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304/5757877706080256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
+    }, 
+    {
       title: 'henwy stickman : BTB [GAME]', 
       author: 'Zenghao the chicken', 
       votes: 5, 
@@ -332,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
       link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'kirby !!!', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'New program', 
@@ -406,30 +424,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Memory Game (Credit to Logan (@lveras0318))', 
-      author: 'InvisibleCat123', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304/5757877706080256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
       title: 'a guy ', 
       author: '🎮gamer guy🎮🔴', 
       votes: 4, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/4627570491703296.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -449,6 +449,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6562851507716096.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'animated carl', 
+      author: 'LovelyPetals', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440/4781094164807680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Super Mario ', 
@@ -728,15 +737,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128/5636295662813184.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'animated carl', 
-      author: 'LovelyPetals', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440/4781094164807680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'Shovel knight pixel art WIP', 
