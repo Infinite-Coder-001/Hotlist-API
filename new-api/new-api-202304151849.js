@@ -3,9 +3,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 47, 
+      votes: 46, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6599739505426432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/4927956905672704.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
@@ -19,15 +19,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'interactive gaming pc', 
-      author: 'apex', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 72, 
@@ -37,9 +28,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'interactive gaming pc', 
+      author: 'apex', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'more levels? v(o.o)v', 
       author: 'tru', 
-      votes: 118, 
+      votes: 116, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'dmalathy85', 
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'alexhernandezcompunet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504115279806464/4920299180310528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504115279806464', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_339632576848667138331933'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5831989673639936/6268620813680640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5831989673639936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_178654177108774416750436'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Helena López', 
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Jessica Hall', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5268531840335872/5312856976572416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/5268531840335872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_842919477687866668560136'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5026606130446336/6022454427566080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5026606130446336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6108745761217612796657854'
     }, 
     {
-      title: 'Derivado de "Proyecto: app imitadora"', 
-      author: 'aalperez', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Satabdi Swain', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6074063534735360/5539939816357888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-app-imitadora/6074063534735360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_973121072332039150880162'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5595711241764864/5922489869058048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5595711241764864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_388091089244546842000966'
     }, 
     {
-      title: 'HW06 - Bouncing Balls Challenge', 
-      author: 'tysonsb0528', 
+      title: '"ellipse(x, y, w, h) | ProcessingJS"-ის სპინ-ოფები', 
+      author: 'ხათო', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hw06-bouncing-balls-challenge/4690663452229632/4932072625192960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hw06-bouncing-balls-challenge/4690663452229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_670239826946833843347270'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-/4569068633112576/5214062192672768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-/4569068633112576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2834314763042852056447973'
     }, 
     {
-      title: 'Pizza', 
-      author: 'Rucha Jain', 
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'AlisonBarrientos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/4886910574313472/4806108389883904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza/4886910574313472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_779201416655012003924974'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5409630441488384/4819068856352768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5409630441488384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198538800571149410401340'
     }, 
   ];
 };
