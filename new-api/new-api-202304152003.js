@@ -847,58 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_2844378532181796852954722'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Grant Munson', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5157401239273472/5090215736950784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5157401239273472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_122715032786606653263967'
-    }, 
-    {
-      title: 'Found Pt. 2 (Challenge 1[Primavera])', 
-      author: 'Jăř-Jăř Bìñķś (Online) ✝', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/5692896218234880/4592851049824256.png', 
-      link: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/5692896218234880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
-    }, 
-    {
-      title: 'Derivado de "Desafío: criatura colorida"', 
+      title: 'Derivado de "Desafío: ids estacionales"', 
       author: 'fatimazunigamarin', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6562917987434496/5621757399842816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-criatura-colorida/6562917987434496', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/6525325707362304/6502600943124480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-ids-estacionales/6525325707362304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_687629994363161910740457'
     }, 
     {
-      title: 'Jump over spikes 4.0', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Elikia', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5270209159282688/6609106694881280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5270209159282688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1080614886094773675154105'
+    }, 
+    {
+      title: 'Novo programa', 
+      author: 'Ian Lucas', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/novo-programa/6020462502264832/5861333561294848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/novo-programa/6020462502264832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_196755121533870800054109'
+    }, 
+    {
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Devonta Townsend', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5674535266598912/5795406484389888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/5674535266598912', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_123646770903048116654750'
+    }, 
+    {
+      title: 'Spin-off of "Booleans"', 
+      author: 'Sasha_Spaikes', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6120386862563328/5536526189772800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-booleans/6120386862563328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9189382009297251086412702'
+    }, 
+    {
+      title: 'Jump over spikes 5.0', 
       author: 'hudsonbudson4', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-over-spikes-40/6533800785133568/4882146851602432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jump-over-spikes-40/6533800785133568', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-over-spikes-50/5521196646187008/5602804782907392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jump-over-spikes-50/5521196646187008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_627510092915247455426998'
-    }, 
-    {
-      title: 'New program', 
-      author: 'yaraalayan8', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5630679724638208/5322133971714048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5630679724638208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_924035206799412111772341'
-    }, 
-    {
-      title: 'Five Shooting stars', 
-      author: 'mm14khan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/five-shooting-stars/6616796942876672/5180759519576064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/five-shooting-stars/6616796942876672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1172522371648948615421685'
     }, 
   ];
 };
