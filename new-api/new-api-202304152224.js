@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Arrowhead - A.p', 
-      author: 'Arrow.programming', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Screensaver', 
       author: 'NIKO Ψ', 
       votes: 27, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
+      title: 'Arrowhead - A.p', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Tutorial: Commented Code', 
@@ -242,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bender-studios-mc-skin/6506162880299008/5758218845601792.png', 
       link: 'https://www.khanacademy.org/computer-programming/bender-studios-mc-skin/6506162880299008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'khan Academy\'s old logo ', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Avatar war Pt.1', 
@@ -331,6 +322,15 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
       link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'khan Academy\'s old logo ', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 5, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -833,63 +833,9 @@ var LoadHotlistAPI = function() {
       author: 'Green Light', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pokemon-the-movie-poster/6633537316110336/5667380220182528.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pokemon-the-movie-poster/6633537316110336/4976488693940224.png', 
       link: 'https://www.khanacademy.org/computer-programming/pokemon-the-movie-poster/6633537316110336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'HW06', 
-      author: 'Leland Buckingham', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hw06/5824365410435072/4779890701549568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hw06/5824365410435072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_28734157598010562399078'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'alex', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5580714960797696/5148319195381760.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5580714960797696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2585183957098512575652054'
-    }, 
-    {
-      title: 'Derivação de "Funções"', 
-      author: 'vanessa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-funes/5465287043629056/6528559549300736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-funes/5465287043629056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7804070420856095185350219'
-    }, 
-    {
-      title: '"Tired but Triumphant..."', 
-      author: 'Dylan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
-    }, 
-    {
-      title: 'Sweet Dreams', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
-      title: 'Day 283', 
-      author: 'Sarai Marte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/day-283/4582563286138880/5697517938589696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/day-283/4582563286138880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1097857226193190712260859'
     }, 
     {
       title: 'New webpage', 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6549880169611264/5442826554097664.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-webpage/6549880169611264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'anthonyparksca2023', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6058262081617920/6239855983247360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6058262081617920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1135905556832310830257622'
+    }, 
+    {
+      title: 'Frog\'s problem', 
+      author: 'Benbalough24', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frogs-problem/4908145471438848/5498884291084288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frogs-problem/4908145471438848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_405612769254277338401140'
+    }, 
+    {
+      title: 'backround :D', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048/5054480535306240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "I could use some help =P"', 
+      author: 'QueenCoder', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-i-could-use-some-help-p/4727606856695808/6065387029708800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-i-could-use-some-help-p/4727606856695808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
+    }, 
+    {
+      title: 'Lab 08', 
+      author: 'Leland Buckingham', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-08/6401312821657600/5941730626289664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-08/6401312821657600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_28734157598010562399078'
+    }, 
+    {
+      title: 'relatable meme| khan edition  ', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/relatable-meme-khan-edition/5652904838217728/5778684540928000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/relatable-meme-khan-edition/5652904838217728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
