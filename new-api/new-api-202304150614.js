@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -251,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
       link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
+    }, 
+    {
+      title: 'Frame Rate Checker #TT ', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frame-rate-checker-tt/5114927007449088/5961328562061312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/frame-rate-checker-tt/5114927007449088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'loading || sine demo', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/food/5605248728350720/5576109346570240.png', 
       link: 'https://www.khanacademy.org/computer-programming/food/5605248728350720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_989816885814440698154814'
-    }, 
-    {
-      title: 'entry for logo contest', 
-      author: 'charles.sperbeck.iii', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-for-logo-contest/5902656154681344/6602486405447680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/entry-for-logo-contest/5902656154681344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088605812207731134487092'
     }, 
   ];
 };
