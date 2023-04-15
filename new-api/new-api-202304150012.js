@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i just want to wreck the hl.', 
       author: 'clam boi', 
-      votes: 103, 
+      votes: 101, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320/6646180382818304.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-just-want-to-wreck-the-hl/6324397381304320', 
@@ -235,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
-      title: 'Yes', 
-      author: 'Barfaboofis', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
-    }, 
-    {
       title: 'Bender Studios Mc skin', 
       author: 'cjcool', 
       votes: 6, 
@@ -296,6 +287,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
+    }, 
+    {
+      title: 'Yes', 
+      author: 'Barfaboofis', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
     }, 
     {
       title: 'low quality  meme ', 
@@ -557,15 +557,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056/6429056171294720.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip/4549199669805056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'my intro', 
-      author: 'cuphead13', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-intro/5603762023743488/4564662936190976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-intro/5603762023743488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_322784419198919758067454'
     }, 
     {
       title: 'my logo (animation)', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5795634788745216/5703601826873344.png', 
       link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5795634788745216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278408952141874067849626'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: diseño de anuncio"', 
+      author: 'martina.rojas', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5686827672715264/5021182660493312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-diseo-de-anuncio/5686827672715264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1783311169081923719058866'
     }, 
   ];
 };
