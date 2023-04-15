@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 67, 
+      votes: 66, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5958839628513280.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/4810932913225728.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6012343269244928.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -586,24 +586,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5505536194764029668876368'
     }, 
     {
-      title: 'The moving car', 
-      author: 'Cat_LOVER1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-moving-car/5610405373460480/5927230774755328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-moving-car/5610405373460480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7436542619565958689603816'
-    }, 
-    {
-      title: 'The moving car', 
-      author: 'Cat_LOVER1', 
-      votes: 2, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-moving-car/6530002633146368/5945771477483520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-moving-car/6530002633146368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7436542619565958689603816'
-    }, 
-    {
       title: 'contest entry', 
       author: 'the Knight_400', 
       votes: 9, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/encanto-movie-poster/6359798607298560/5296380248899584.png', 
       link: 'https://www.khanacademy.org/computer-programming/encanto-movie-poster/6359798607298560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7555256339261326807371220'
+    }, 
+    {
+      title: 'The Wogglebug\'s Platformer tutorial', 
+      author: 'HSstudent16', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-wogglebugs-platformer-tutorial/6490517757280256/5819291175010304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-wogglebugs-platformer-tutorial/6490517757280256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
+      title: 'birthday was yesterday', 
+      author: 'LovelyPetals', 
+      votes: 31, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5754863645671424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
