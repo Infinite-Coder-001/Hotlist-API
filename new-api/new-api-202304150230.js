@@ -23,14 +23,14 @@ var LoadHotlistAPI = function() {
       author: 'ski', 
       votes: 106, 
       forks: 31, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4686728297496576.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 49, 
+      votes: 50, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -68,7 +68,7 @@ var LoadHotlistAPI = function() {
       author: 'daniel', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4818695219363840.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/5915141960155136.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -325,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
     {
+      title: 'Bulbasuar', 
+      author: 'Green Light', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
       title: 'New program', 
       author: '🎮gamer guy🎮🟢', 
       votes: 5, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304/5757877706080256.png', 
       link: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Bulbasuar', 
-      author: 'Green Light', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Animated squares! [sine demo] [using rotation]', 
@@ -620,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576/5122005474263040.png', 
       link: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Beedrill', 
+      author: 'Green Light', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504/5660720982441984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Found Pt. 2 (Challenge 1[Primavera])', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5680695289888768/4747277160988672.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5680695289888768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_747745504067461299811326'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Optical illusion"', 
-      author: 'kwilcox25', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/5238592000802816/6139268948082688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/5238592000802816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2358482686859215043975152'
     }, 
   ];
 };
