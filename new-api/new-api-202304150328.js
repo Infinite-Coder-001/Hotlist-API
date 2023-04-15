@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
-      title: 'If you have questions about Christianity you can ask them here!', 
-      author: 'Animation Guy', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
-    }, 
-    {
       title: 'minecraft stuff', 
       author: '🎮gamer guy🎮🔴', 
       votes: 18, 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5769562189774848.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'If you have questions about Christianity you can ask them here!', 
+      author: 'Animation Guy', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
       title: 'Screensaver', 
@@ -145,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
-      title: 'Venasuar', 
-      author: 'Green Light', 
-      votes: 16, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'i don\'t think i should be judgin', xD.', 
       author: 'ski', 
       votes: 11, 
@@ -179,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
       link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
+    }, 
+    {
+      title: 'Venasuar', 
+      author: 'Green Light', 
+      votes: 15, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'gravity dash re-release', 
@@ -455,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/6108401890541568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/5346738673336320.png', 
       link: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -514,15 +514,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
     }, 
     {
-      title: 'New program', 
-      author: 'galinski.morgan', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
-    }, 
-    {
       title: 'Spin-off of "Project: Mountain range"', 
       author: '26longenecker_co', 
       votes: 6, 
@@ -551,30 +542,12 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6252163346251776/5051728375627776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6252163346251776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
-      title: 'New program', 
       author: 'adri9863', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4694736935108608/4697966347862016.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4694736935108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
-    }, 
-    {
-      title: 'khan Academy\'s old logo ', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Baymax :)', 
@@ -674,6 +647,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384/6582807511220224.png', 
       link: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'New program', 
+      author: 'galinski.morgan', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
     {
       title: 'did i start this?!', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624/5754863645671424.png', 
       link: 'https://www.khanacademy.org/computer-programming/birthday-was-yesterday/4834114512666624', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Luxo Jump', 
+      author: 'trapper.cookb1', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/luxo-jump/4892823913807872/5896085550972928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/luxo-jump/4892823913807872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_292712523157157691784481'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: '703007530', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5680695289888768/4747277160988672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5680695289888768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_747745504067461299811326'
     }, 
   ];
 };
