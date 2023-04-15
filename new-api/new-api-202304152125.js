@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Gradient() function', 
+      author: 'apex alt', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
       votes: 118, 
@@ -46,13 +55,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Gradient() function', 
-      author: 'apex alt', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+      title: 'Connect 4', 
+      author: 'LunaTC', 
+      votes: 54, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
       title: 'minecraft stuff', 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/4802866520047616.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Connect 4', 
-      author: 'LunaTC', 
-      votes: 53, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
       title: '(new) Platformer', 
@@ -197,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/4891966061199360.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'Arrowhead - A.p', 
+      author: 'Arrow.programming', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -332,6 +341,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/5080474054868992.png', 
       link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
+      title: 'cherry blossom', 
+      author: 'sugar ♡ #VirtusVictory', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488/5060389001019392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Lonely', 
@@ -503,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312/4816824702386176.png', 
       link: 'https://www.khanacademy.org/computer-programming/our-favorite-cook/5101238292365312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
-    }, 
-    {
-      title: 'cherry blossom', 
-      author: 'sugar ♡ #VirtusVictory', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488/5060389001019392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
     }, 
     {
       title: 'Broken hotlist fr', 
@@ -829,6 +838,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'xiangxi', 
+      author: 'learnerzhu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/xiangxi/5436919095017472/5635571021299712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/xiangxi/5436919095017472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919633315809965370217546'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'agustin.minniti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6721920965066752/4795015722483712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6721920965066752', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_603911118974961694814589'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'agustin.minniti', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6067042135621632/4621162870259712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6067042135621632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_603911118974961694814589'
+    }, 
+    {
       title: '(readcode)', 
       author: 'LovelyPetals', 
       votes: 1, 
@@ -856,15 +892,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
     }, 
     {
-      title: 'Arrowhead - A.p', 
-      author: 'Arrow.programming', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'pelota', 
       author: 'danielgarcia48', 
       votes: 2, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448/5500888069488640.png', 
       link: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2844378532181796852954722'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'taylor.hughes814', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4697376821657600/5434913404010496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4697376821657600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2032544648497707232684815'
-    }, 
-    {
-      title: '"Proje: Hayvan saldırısı" uyarlaması', 
-      author: 'kerembirinci2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-hayvan-saldrs-uyarlamas/5870597134663680/5923122814697472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proje-hayvan-saldrs-uyarlamas/5870597134663680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
-    }, 
-    {
-      title: 'khan academy meme', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272/5905921764278272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
