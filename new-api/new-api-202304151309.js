@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 21, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Ninja Programming Spin-Offs', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5083543438147584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/4972170884464640.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
@@ -550,6 +550,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
     {
+      title: '14.4.23 (💔ʙɾøĸɜͷ.ɤ₀s₃🥀 reprise) (w.i.p.)', 
+      author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/14423-s-reprise-wip/5494719984746496/5057789002301440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/14423-s-reprise-wip/5494719984746496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
+    }, 
+    {
       title: 'Winston Tower Defense', 
       author: 'AmeliaCodes', 
       votes: 4, 
@@ -584,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552/4558741963063296.png', 
       link: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798425063649337703079468'
-    }, 
-    {
-      title: 'New program', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6252163346251776/5051728375627776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6252163346251776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'flags', 
