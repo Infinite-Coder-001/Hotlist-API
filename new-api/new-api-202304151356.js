@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 26, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 70, 
+      votes: 69, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5839751996555264.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'MOUNTAINS', 
       author: 'Arrow.programming', 
-      votes: 22, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5987726865514496.png', 
       link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
@@ -406,15 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'flags', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'MineKhan v1.0.0', 
       author: 'Ninja Programming Spin-Offs', 
       votes: 4, 
@@ -464,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/5750502978797568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/4510955712331776.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -494,15 +485,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440/4781094164807680.png', 
       link: 'https://www.khanacademy.org/computer-programming/animated-carl/6509890601533440', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Gradient() function', 
-      author: 'apex alt', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
       title: 'Super Mario ', 
@@ -620,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552/4558741963063296.png', 
       link: 'https://www.khanacademy.org/computer-programming/amazon-box/4813169550999552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798425063649337703079468'
+    }, 
+    {
+      title: 'flags', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'New program', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/6003752260911104.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
+    }, 
+    {
+      title: 'My Character', 
+      author: '🥞PaNcAkEs🥞 #OpesFTW', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528/5448186237075456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-character/4874049638678528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3989961279064530856151698'
     }, 
   ];
 };
