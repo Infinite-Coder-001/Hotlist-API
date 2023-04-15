@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'Fright', 
-      author: 'Arrow.programming', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'not so lonely anymore', 
       author: 'Green Ghost', 
       votes: 19, 
@@ -109,12 +100,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'MOUNTAINS', 
+      title: 'Fright', 
       author: 'Arrow.programming', 
-      votes: 21, 
+      votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5987726865514496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
+    }, 
+    {
+      title: 'MOUNTAINS', 
+      author: 'Arrow.programming', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5987726865514496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'A teaser for something i\'m making :)', 
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
     }, 
     {
-      title: 'loading || sine demo', 
-      author: 'Arrow.programming', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456/5416734518722560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'Avatar war Pt.1', 
       author: 'NotMe87', 
       votes: 9, 
@@ -269,6 +260,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
       link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
+    }, 
+    {
+      title: 'loading || sine demo', 
+      author: 'Arrow.programming', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456/5416734518722560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loading-sine-demo/6511849148563456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Moria?', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Ninja Programming Spin-Offs', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/4993069859782656.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5547024608182272.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
