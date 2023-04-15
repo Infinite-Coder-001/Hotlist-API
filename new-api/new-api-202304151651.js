@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
-      votes: 49, 
+      votes: 50, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 46, 
+      votes: 47, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'khan Academy\'s old logo ', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 4, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Harley Quinn part 1', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 5, 
@@ -356,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'Zenghao the chicken', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/4959806571200512.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496/6333587361415168.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-stickman-btb-game/5418157159530496', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -407,7 +416,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'hm. yes, i felt like making this, deal with it >:3', 
-      author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
+      author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hm-yes-i-felt-like-making-this-deal-with-it-3/5346982748274688/5617656712708096.png', 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5488145371283456/6382173373644800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5488145371283456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_745076119778694694743681'
-    }, 
-    {
-      title: 'khan Academy\'s old logo ', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 3, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Why?', 
@@ -704,7 +704,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: '14.4.23 (💔ʙɾøĸɜͷ.ɤ₀s₃🥀 reprise) (w.i.p.)', 
-      author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
+      author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/14423-s-reprise-wip/5494719984746496/6272361260433408.png', 
@@ -865,6 +865,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'rashnishweta.rampersad3722', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5435941478252544/6354623012323328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5435941478252544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1097988848484492277025239'
+    }, 
+    {
+      title: 'Derivado de "Dibujar más figuras con código"', 
+      author: 'eliaszamora2008chechita', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5576831681216512/4803682203123712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5576831681216512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673676564468749057090717'
+    }, 
+    {
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'effortlesstronics4u', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6314601659809792/4818098151800832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6314601659809792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_740672483528644048975637'
+    }, 
+    {
       title: 'Travel to Hawaii', 
       author: 'MADISONM', 
       votes: 2, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/travel-to-hawaii/5924632520867840/5486396338126848.png', 
       link: 'https://www.khanacademy.org/computer-programming/travel-to-hawaii/5924632520867840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7427083747284323999312640'
-    }, 
-    {
-      title: 'Heavy Ball', 
-      author: 'Mai Tran', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/heavy-ball/6619381061959680/6597760733462528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/heavy-ball/6619381061959680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_325514645430711743367961'
-    }, 
-    {
-      title: 'Spin-off von "Boolesche Werte"', 
-      author: 'joe.kr', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-von-boolesche-werte/6235720558886912/6608955943206912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-von-boolesche-werte/6235720558886912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_449724821653306991576213'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'jamiecidol', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5667053534232576/5655763113787392.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5667053534232576', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_286709340691336499445054'
     }, 
   ];
 };
