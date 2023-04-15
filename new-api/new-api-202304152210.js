@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive gaming pc', 
       author: 'apex', 
-      votes: 22, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4610193683169280.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
@@ -118,15 +118,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4637416192524288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
       author: '²ʟᴇᴛᴛᴇʀ', 
       votes: 16, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6272369154113536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4637416192524288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'loading || sine demo', 
@@ -469,15 +469,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Beedrill', 
-      author: 'Green Light', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504/5660720982441984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
       title: 'diamond armor', 
       author: '🎮gamer guy🎮🔴', 
       votes: 4, 
@@ -638,6 +629,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576/5838599695417344.png', 
       link: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Beedrill', 
+      author: 'Green Light', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504/5660720982441984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/beedrill/5675077581717504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'Derivado de "Proyecto: construye una casa"', 
@@ -838,29 +838,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'New webpage', 
-      author: 'ⱠeaferStudios', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/6549880169611264/5442826554097664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/6549880169611264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'anthonyparksca2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6058262081617920/6239855983247360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6058262081617920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1135905556832310830257622'
-    }, 
-    {
       title: 'Frog\'s problem', 
       author: 'Benbalough24', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/frogs-problem/4908145471438848/5498884291084288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/frogs-problem/4908145471438848/6529987332325376.png', 
       link: 'https://www.khanacademy.org/computer-programming/frogs-problem/4908145471438848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_405612769254277338401140'
     }, 
@@ -874,20 +856,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "I could use some help =P"', 
-      author: 'QueenCoder', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-i-could-use-some-help-p/4727606856695808/6065387029708800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-i-could-use-some-help-p/4727606856695808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496054499890181338725501'
-    }, 
-    {
       title: 'Lab 08', 
       author: 'Leland Buckingham', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-08/6401312821657600/5941730626289664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-08/6401312821657600/4560314013368320.png', 
       link: 'https://www.khanacademy.org/computer-programming/lab-08/6401312821657600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_28734157598010562399078'
     }, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/relatable-meme-khan-edition/5652904838217728/5778684540928000.png', 
       link: 'https://www.khanacademy.org/computer-programming/relatable-meme-khan-edition/5652904838217728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'my entry!!!!', 
+      author: 'LovelyPetals', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry/5457066543333376/5775821634846720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-entry/5457066543333376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Funky Frog"', 
+      author: 'g.aafiyarida', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6552098562162688/5875018912546816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6552098562162688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_784662970820480752813041'
+    }, 
+    {
+      title: 'Spin-off of "Project: Build-a-House"', 
+      author: 'inglgarr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5583186890637312/5488915512606720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5583186890637312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_63965760525149005387797'
     }, 
   ];
 };
