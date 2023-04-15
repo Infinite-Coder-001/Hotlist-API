@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
+      title: 'Click that block!!!    (Cheating blocked)', 
+      author: 'Speedyspeedcuber', 
+      votes: 72, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
+    }, 
+    {
       title: 'interactive gaming pc', 
       author: 'apex', 
       votes: 13, 
@@ -26,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Click that block!!!    (Cheating blocked)', 
-      author: 'Speedyspeedcuber', 
-      votes: 71, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'If you have questions about Christianity you can ask them here!', 
       author: 'Animation Guy', 
-      votes: 17, 
+      votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
       link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
@@ -857,48 +857,48 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'dulcemaritzajuanitaordonez', 
+      author: 'alexhernandezcompunet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5983690846158848/5342732005720064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5983690846158848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_358783982483683442755216'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5831989673639936/6268620813680640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5831989673639936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_178654177108774416750436'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Jessica Hall', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5026606130446336/6022454427566080.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5026606130446336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6108745761217612796657854'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Satabdi Swain', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5595711241764864/5922489869058048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5595711241764864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_388091089244546842000966'
+    }, 
+    {
+      title: '"ellipse(x, y, w, h) | ProcessingJS"-ის სპინ-ოფები', 
+      author: 'ხათო', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-/4569068633112576/5214062192672768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-/4569068633112576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2834314763042852056447973'
     }, 
     {
       title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'edgarlopezcompunet2022', 
+      author: 'AlisonBarrientos', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4818446891401216/6435005900570624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/4818446891401216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_907852899979185064198132'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'olivermejia911', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6023191459053568/6498178804531200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6023191459053568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2519206895513411931605419'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'hs4j', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6061921863516160/4564507218460672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6061921863516160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1156984996092589981677171'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'andiluiscompunet2020', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6421643720441856/5099921868111872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6421643720441856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_534195976202606757331073'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5409630441488384/4819068856352768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5409630441488384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_198538800571149410401340'
     }, 
   ];
 };
