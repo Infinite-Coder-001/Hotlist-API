@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Connect 4', 
       author: 'LunaTC', 
-      votes: 50, 
+      votes: 51, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
+      title: 'Venasuar', 
+      author: 'Green Light', 
+      votes: 19, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 42, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/4891966061199360.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Venasuar', 
-      author: 'Green Light', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'kirby !!!', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Memory Game (Credit to Logan (@lveras0318))', 
       author: 'InvisibleCat123', 
       votes: 4, 
@@ -350,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704/6131424433586176.png', 
       link: 'https://www.khanacademy.org/computer-programming/bulbasuar/5751709822664704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
-    }, 
-    {
-      title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'New program', 
