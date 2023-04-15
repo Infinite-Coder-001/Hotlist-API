@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 50, 
+      votes: 49, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6599739505426432.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -174,7 +174,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'A teaser for something i\'m making :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 44, 
+      votes: 43, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6272369154113536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
@@ -829,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: '(readcode)', 
-      author: 'LovelyPetals', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/readcode/4733593999163392/5858607397912576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/readcode/4733593999163392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: '3d viewing test', 
       author: 'RedSus#Magus', 
       votes: 6, 
@@ -847,24 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
     }, 
     {
-      title: 'Random thingy', 
-      author: 'Middleforest20', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/random-thingy/6367332416143360/5075718519439360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/random-thingy/6367332416143360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
-    }, 
-    {
-      title: 'Arrowhead - A.p', 
-      author: 'Arrow.programming', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
       title: 'pelota', 
       author: 'danielgarcia48', 
       votes: 2, 
@@ -872,15 +845,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448/5500888069488640.png', 
       link: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2844378532181796852954722'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'taylor.hughes814', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4697376821657600/5434913404010496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4697376821657600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2032544648497707232684815'
     }, 
     {
       title: '"Proje: Hayvan saldırısı" uyarlaması', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272/5905921764278272.png', 
       link: 'https://www.khanacademy.org/computer-programming/khan-academy-meme/5577542364086272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'rogerkorantenng', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5396648701509632/6472057618743296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5396648701509632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1101162997256558338344504'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Coding Is The Best!!!', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6446257104273408/6309912134336512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/6446257104273408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_74938847622232876719872'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'johns9dr', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606978195505152/4718156116705280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4606978195505152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7075804078800911433310531'
+    }, 
+    {
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'larissa  Ramirez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6340595137429504/6042064350658560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/6340595137429504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6672598986778985723461966'
     }, 
   ];
 };
