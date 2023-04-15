@@ -12,9 +12,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6015095110156288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/4927956905672704.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
     {
+      title: 'Gradient() function', 
+      author: 'apex alt', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
       title: 'Silent Princess', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 26, 
@@ -352,15 +361,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Gradient() function', 
-      author: 'apex alt', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
       title: 'sub ', 
       author: '🎮gamer guy🎮🔴', 
       votes: 5, 
@@ -415,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'Harley Quinn part 1', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/6108401890541568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
       title: 'Broken hotlist fr', 
       author: 'Phase #VirtusVictory', 
       votes: 22, 
@@ -437,7 +446,7 @@ var LoadHotlistAPI = function() {
       author: 'Ninja Programming Spin-Offs', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/6264045532659712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/6410652630695936.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
@@ -469,11 +478,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'My Gaming PC', 
+      author: 'apex', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-gaming-pc/6749284226875392/6591788078120960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-gaming-pc/6749284226875392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/5284752723853312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/6672727307239424.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -521,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584/5005338400309248.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-construye-una-casa/6574644724547584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
-    }, 
-    {
-      title: 'Harley Quinn part 1', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/6108401890541568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'mister magical mixture', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/car/6230128217866240/4947992592564224.png', 
       link: 'https://www.khanacademy.org/computer-programming/car/6230128217866240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_826190245797499882151264'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Mr. Misty-eyed', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600/6003752260911104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6598047699353600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6286443971413453896796625'
     }, 
   ];
 };
