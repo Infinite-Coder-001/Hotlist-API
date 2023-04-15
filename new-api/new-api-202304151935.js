@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive gaming pc', 
       author: 'apex', 
-      votes: 16, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
+      title: 'Silent Princess', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
       title: 'Harley Quinn part 1', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 7, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488/5288022544531456.png', 
       link: 'https://www.khanacademy.org/computer-programming/gravity-dash-re-release/6724418186559488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_218897934709026343199026'
-    }, 
-    {
-      title: 'Silent Princess', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520/4796608022888448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/silent-princess/5806676822507520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'Bulbasuar', 
@@ -847,58 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'taylor.hughes814', 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'gura071017hmcrdna8', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5464122880999424/6636973893926912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5464122880999424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2032544648497707232684815'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6705620784037888/6365311936020480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6705620784037888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2705434729828720419625673'
     }, 
     {
-      title: 'Spin-off of "Project: Fish tank"', 
-      author: 'AyeChan', 
+      title: 'Spin-off of "Project: Travel webpage CORN"', 
+      author: 'hs4j', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4868431049703424/5685542135316480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4868431049703424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_173905032399777395744083'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-corn/6745798726696960/5946711714611200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-corn/6745798726696960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1156984996092589981677171'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'Stacey Britt', 
+      title: 'Three Shooting stars', 
+      author: 'mm14khan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5471703364059136/6405296470933504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5471703364059136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1205732323226475079374310'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/three-shooting-stars/6636422057738240/4525872133750784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/three-shooting-stars/6636422057738240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1172522371648948615421685'
     }, 
     {
-      title: 'PLEASE DON\'T FALL ON ME!', 
-      author: 'HOPPER', 
+      title: 'jmiwcuj', 
+      author: 'Toby', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/please-dont-fall-on-me/6312362413178880/6486025255043072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/please-dont-fall-on-me/6312362413178880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426353572039768796081737'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jmiwcuj/5141311285149696/5153423092924416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jmiwcuj/5141311285149696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
     }, 
     {
-      title: 'lab 8 car 3', 
-      author: 'Ellie O\'Neill', 
+      title: 'Lab 8', 
+      author: 'Kadence Hall', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-car-3/5139939378642944/5657952364314624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-8-car-3/5139939378642944', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8/5370259726188544/5919779853746176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8/5370259726188544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_92642493138540045183062'
     }, 
     {
-      title: 'lab 8 car 2', 
-      author: 'Ellie O\'Neill', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'Shelby Granberry', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-car-2/6098808208670720/4712893775134720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-8-car-2/6098808208670720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6717980064137216/5873459973636096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6717980064137216', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4675195273466709702719961'
     }, 
   ];
 };
