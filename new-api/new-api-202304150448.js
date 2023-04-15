@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
-      votes: 107, 
+      votes: 108, 
       forks: 32, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
@@ -283,7 +283,7 @@ var LoadHotlistAPI = function() {
       title: 'Memory Game (Credit to Logan (@lveras0318))', 
       author: 'InvisibleCat123', 
       votes: 4, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304/5757877706080256.png', 
       link: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
@@ -548,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
+    }, 
+    {
+      title: 'everything stashy makes is NOT a failure.. :P vote up if you agree =D', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-vote-up-if-you-agree-d/4969807176056832/6306649058099200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-vote-up-if-you-agree-d/4969807176056832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'amazon box', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/food/5605248728350720/5576109346570240.png', 
       link: 'https://www.khanacademy.org/computer-programming/food/5605248728350720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_989816885814440698154814'
-    }, 
-    {
-      title: 'entry for logo contest', 
-      author: 'charles.sperbeck.iii', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/entry-for-logo-contest/5902656154681344/6602486405447680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/entry-for-logo-contest/5902656154681344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088605812207731134487092'
     }, 
   ];
 };
