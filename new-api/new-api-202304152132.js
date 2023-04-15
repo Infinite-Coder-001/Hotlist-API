@@ -10,21 +10,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
+      title: 'interactive gaming pc', 
+      author: 'apex', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4610193683169280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 51, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'interactive gaming pc', 
-      author: 'apex', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4610193683169280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
@@ -49,7 +49,7 @@ var LoadHotlistAPI = function() {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
       votes: 118, 
-      forks: 32, 
+      forks: 33, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'LovelyPetals', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576/5122005474263040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576/5838599695417344.png', 
       link: 'https://www.khanacademy.org/computer-programming/meeeeeeme/5327433399320576', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -838,11 +838,29 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'fnidmof', 
+      author: 'Toby', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fnidmof/5674545702027264/5869779916472320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fnidmof/5674545702027264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+    }, 
+    {
+      title: 'Platfomer (WIP)', 
+      author: 'Green Light', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platfomer-wip/4875194213908480/5006681349341184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/platfomer-wip/4875194213908480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
+    }, 
+    {
       title: 'xiangxi', 
       author: 'learnerzhu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/xiangxi/5436919095017472/5635571021299712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/xiangxi/5436919095017472/6036379852390400.png', 
       link: 'https://www.khanacademy.org/computer-programming/xiangxi/5436919095017472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919633315809965370217546'
     }, 
@@ -851,16 +869,7 @@ var LoadHotlistAPI = function() {
       author: 'agustin.minniti', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6721920965066752/4795015722483712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6721920965066752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_603911118974961694814589'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'agustin.minniti', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6067042135621632/4621162870259712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6067042135621632/6305445259296768.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6067042135621632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_603911118974961694814589'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/random-thingy/6367332416143360/5075718519439360.png', 
       link: 'https://www.khanacademy.org/computer-programming/random-thingy/6367332416143360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853122404299104383173218'
-    }, 
-    {
-      title: 'pelota', 
-      author: 'danielgarcia48', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448/5500888069488640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pelota/4756312295784448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2844378532181796852954722'
     }, 
   ];
 };
