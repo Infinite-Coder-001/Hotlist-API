@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
-      title: 'interactive gaming pc', 
-      author: 'apex', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
       title: 'Frame Rate Checker #TT ', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
+    }, 
+    {
+      title: 'interactive gaming pc', 
+      author: 'apex', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
       title: 'Tutorial: Commented Code', 
@@ -694,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
     {
-      title: 'Simple Simon', 
-      author: 'Larry Serflaten', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-simon/4839382709485568/5620055024123904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/simple-simon/4839382709485568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
-    }, 
-    {
       title: '14.4.23 (💔ʙɾøĸɜͷ.ɤ₀s₃🥀 reprise) (w.i.p.)', 
       author: '⨳⚜𝕊𝕙𝕒𝕟𝕟𝕠𝕟⚜⨳', 
       votes: 2, 
@@ -883,22 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_325514645430711743367961'
     }, 
     {
-      title: 'Nuevo script de SQL', 
-      author: 'camilapenaloza2023', 
-      votes: 1, 
+      title: 'Spin-off of "Project: Travel webpage"', 
+      author: 'VANCEP', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5852623879323648/4827370759700480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-script-de-sql/5852623879323648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_947781807051742437792067'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6528768392085504/6559226555318272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6528768392085504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4263448544303842408602640'
     }, 
     {
-      title: 'Cat Simulator V1.0', 
-      author: 'KyDeov', 
+      title: 'Spin-off of "Project: Recipe Book"', 
+      author: 'HSstudent16', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cat-simulator-v10/5717687708991488/5386543356493824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cat-simulator-v10/5717687708991488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1550999378753579722658451'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5086569980805120/6224833286553600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5086569980805120', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2128909595278771717919649'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'lui', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6024816793796608/6067617191477248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6024816793796608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1110899608307451279069237'
     }, 
   ];
 };
