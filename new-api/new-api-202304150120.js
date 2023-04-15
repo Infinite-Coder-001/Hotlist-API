@@ -56,7 +56,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'minecraft stuff', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 18, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/6714718304911360.png', 
@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 31, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6494818328166400.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/6174160859742208.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -326,7 +326,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 5, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4854255040380928/5052201249849344.png', 
@@ -452,7 +452,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'sub ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6065784582619136.png', 
@@ -461,7 +461,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'a guy ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-guy/6393943706353664/4627570491703296.png', 
@@ -506,7 +506,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
@@ -596,7 +596,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'my logo (animation)', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216/6561142354001920.png', 
@@ -623,7 +623,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'diamond armor', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/diamond-armor/4592831680528384/6582807511220224.png', 
@@ -650,7 +650,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'for cjcool', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-cjcool/5346819631792128/5636295662813184.png', 
