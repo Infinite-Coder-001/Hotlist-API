@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
-      votes: 104, 
+      votes: 105, 
       forks: 31, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4686728297496576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
