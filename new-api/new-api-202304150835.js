@@ -541,6 +541,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
     {
+      title: 'Winston Tower Defense', 
+      author: 'AmeliaCodes', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6168535794761728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
+    }, 
+    {
       title: 'Spin-off of "Project: Mountain range"', 
       author: '26longenecker_co', 
       votes: 6, 
@@ -773,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712/5228130618097664.png', 
       link: 'https://www.khanacademy.org/computer-programming/matterjs-for-game-physics/6157800666611712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Winston Tower Defense', 
-      author: 'AmeliaCodes', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6168535794761728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
     {
       title: 'Travel to Hawaii', 
