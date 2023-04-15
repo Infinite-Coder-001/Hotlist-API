@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive gaming pc', 
       author: 'apex', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4772257806467072.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
@@ -89,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'If you have questions about Christianity you can ask them here!', 
-      author: 'Animation Guy', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632/5937855559155712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/if-you-have-questions-about-christianity-you-can-ask-them-here/4814059875909632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5780573800045062253124480'
     }, 
     {
       title: 'Fright', 
@@ -856,49 +847,58 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
-      title: 'Serial Experiment Lain 2', 
-      author: 'jigme.dorji3', 
+      title: 'Spin-off of "Project: Fish tank"', 
+      author: 'AyeChan', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/serial-experiment-lain-2/6101209363824640/6026812653355008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/serial-experiment-lain-2/6101209363824640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4601371448098598893515536'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: librero"', 
-      author: 'garciamilagros353', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5536201315762176/4962472470822912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-librero/5536201315762176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1048917481480069193972128'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4868431049703424/5685542135316480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4868431049703424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_173905032399777395744083'
     }, 
     {
       title: 'Spin-off of "Project: Famous people"', 
-      author: 'nicoleskudin', 
+      author: 'Stacey Britt', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6726425941164032/4991245907968000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6726425941164032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4519297588134604680040364'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5471703364059136/4928159842877440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5471703364059136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1205732323226475079374310'
     }, 
     {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'Kamran Zulfiqar', 
+      title: 'PLEASE DON\'T FALL ON ME!', 
+      author: 'HOPPER', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6405616513105920/6212981659844608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6405616513105920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_449810159446930134829446'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/please-dont-fall-on-me/6312362413178880/6486025255043072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/please-dont-fall-on-me/6312362413178880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_426353572039768796081737'
     }, 
     {
-      title: 'Project: Famous people database and query\'s', 
-      author: 'tiffanyevans0826', 
+      title: 'lab 8 car 3', 
+      author: 'Ellie O\'Neill', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-famous-people-database-and-querys/6333286445268992/4583943287652352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-famous-people-database-and-querys/6333286445268992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8633020723613522014844524'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-car-3/5139939378642944/5004670457397248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8-car-3/5139939378642944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
+    }, 
+    {
+      title: 'lab 8 car 2', 
+      author: 'Ellie O\'Neill', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-car-2/6098808208670720/4789301780201472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8-car-2/6098808208670720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
+    }, 
+    {
+      title: 'lab 8 car 1', 
+      author: 'Ellie O\'Neill', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-car-1/5107774502780928/6481079222714368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8-car-1/5107774502780928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1899060453003665088198857'
     }, 
   ];
 };
