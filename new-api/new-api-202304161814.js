@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 66, 
+      votes: 68, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5349496042340352.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 21, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for ToTK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/4585721563496448.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Why is filter(BLUR) fast??', 
-      author: 'daniel', 
+      title: 'Novo programa', 
+      author: 'clarisse', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/why-is-filterblur-fast/5778245942558720/5317948190539776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/why-is-filterblur-fast/5778245942558720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/novo-programa/6202096778264576/6720699340472320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/novo-programa/6202096778264576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_735558723460009030397728'
     }, 
     {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'Pooja Ajmera', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6331195735719936/6719569671798784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6331195735719936', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4957301263089664/4817614162673664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4957301263089664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4045559603819023230277991'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'ricardsdzirnieks16', 
+      title: 'Derivado de "Desafío: escribe un poema"', 
+      author: 'stephaniabvega', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4672040943796224/5715607577477120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4672040943796224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1132881949473518754104006'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5709917953769472/4926982484967424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5709917953769472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27733887807241977254014'
     }, 
     {
-      title: 'my logo (animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216/6561142354001920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-logo-animation/4521321347465216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Lab #8 - A-race with Arrays', 
-      author: 'Akane Eguchi', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Fritz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-a-race-with-arrays/6300143994585088/6555160764792832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-8-a-race-with-arrays/6300143994585088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_830303997163485598040397'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6564004437999616/5078965036564480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/6564004437999616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1005538054973156866669647'
     }, 
     {
-      title: 'Projet dérivé de "Projet : l\'étagère de livres"à refaire', 
-      author: 'caroline poussard', 
+      title: 'Fons que es mou 2.0', 
+      author: 'ildeocon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-ltagre-de-livres-refaire/5226514443714560/5099850153902080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-ltagre-de-livres-refaire/5226514443714560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5432102693429273867955384'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fons-que-es-mou-20/6525563583119360/4884453517475840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fons-que-es-mou-20/6525563583119360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_416955501478790122849349'
     }, 
     {
-      title: 'Spin-off of "Project: Famous people"', 
-      author: 'christinajane1997', 
+      title: 'obiad', 
+      author: 'a.macowicz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5435927226007552/5102663290372096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5435927226007552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7927104407450027816393737'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/obiad/6743522368864256/4774199895048192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/obiad/6743522368864256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_668218098379644200593551'
+    }, 
+    {
+      title: 'utility', 
+      author: 'GrahamTeeg', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/utility/6257340660891648/6751418557186048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/utility/6257340660891648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
     }, 
   ];
 };
