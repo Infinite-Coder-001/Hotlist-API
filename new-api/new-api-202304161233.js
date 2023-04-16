@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
+      title: '"Tired but Triumphant..."', 
+      author: 'Dylan', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
+    }, 
+    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 75, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: '"Tired but Triumphant..."', 
-      author: 'Dylan', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'the doomsayer (animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 7, 
@@ -170,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
@@ -820,6 +820,42 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: '"응용: 간단한 눈사람" 프로젝트', 
+      author: 'suwani3511', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680/4526453271347200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309852650985411500797192'
+    }, 
+    {
+      title: 'ubemeeb', 
+      author: 'Toby', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ubemeeb/5467913315467264/6162526573477888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ubemeeb/5467913315467264', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
+      author: 'siakchong98', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6566919244398592/6385129888202752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6566919244398592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_782232074313120009464503'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'englerclara', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6737478569738240/6023277962379264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6737478569738240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_687689267163491722733223'
+    }, 
+    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'hernanangez', 
       votes: 1, 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416/5852911776350208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_699648426847058198604040'
-    }, 
-    {
-      title: '"Proje: Reklam Tasarımı" uyarlaması', 
-      author: 'kerembirinci2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/4844242867634176/5771575321477120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/4844242867634176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Chandu Shashidhar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4936421950668800/4744966602801152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4936421950668800', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1156875407451960565397513'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'sneha.chebrolu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432/4997221549654016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
-    }, 
-    {
-      title: 'Prog.21 LÍNEA MOVIÉNDOSE EN BUCLE', 
-      author: 'Andrea Barres', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prog21-lnea-movindose-en-bucle/4573210390872064/5159653144313856.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prog21-lnea-movindose-en-bucle/4573210390872064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
     }, 
   ];
 };
