@@ -130,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'Fright', 
       author: 'Arrow.programming', 
       votes: 19, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
       link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'zeeshanzaman', 
+      author: 'zeeshanzaman343', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6167162520911872/6077883237056512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6167162520911872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
+    }, 
+    {
+      title: 'Semana12_Tecnología_Angel Cermeño', 
+      author: '722524', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/semana12_tecnologa_angel-cermeo/5894141809836032/5027054149222400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/semana12_tecnologa_angel-cermeo/5894141809836032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_600711024788981924815875'
+    }, 
+    {
       title: 'AAAAAAAAAAA', 
       author: 'joelisboas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080/5428013908148224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080/5239607148199936.png', 
       link: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4569076036871532188121188'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'nguyenngoctram2358', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6571374375387136/4763330071019520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6571374375387136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9935380933654287915004793'
-    }, 
-    {
-      title: 'something based on "something ;P"/reprise of 10.10.22 💔 poem', 
-      author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/something-based-on-something-preprise-of-101022-poem/4780278725001216/6315973901860864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/something-based-on-something-preprise-of-101022-poem/4780278725001216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
   ];
 };
