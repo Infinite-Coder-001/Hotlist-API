@@ -93,20 +93,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dividing Aggregating Walkers', 
       author: 'daniel', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: '"Tired but Triumphant..."', 
-      author: 'Dylan', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
       title: 'Fright', 
@@ -136,13 +127,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
-      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 11, 
+      title: '"Tired but Triumphant..."', 
+      author: 'Dylan', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4637416192524288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
       title: 'Screensaver', 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4637416192524288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Venasuar', 
@@ -179,15 +179,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384/5987726865514496.png', 
       link: 'https://www.khanacademy.org/computer-programming/mountains/5976826171408384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Sweet Dreams', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'A teaser for something i\'m making :)', 
@@ -253,22 +244,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'the doomsayer', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer/5645479779287040/6129364149518336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer/5645479779287040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'farmer winston', 
       author: 'Theformerwizardofoz', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488/6445512195883008.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488/5753679534931968.png', 
       link: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
+    }, 
+    {
+      title: 'Sweet Dreams', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'Harley Quinn part 1', 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
+      title: 'the doomsayer', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer/5645479779287040/6129364149518336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer/5645479779287040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'One Riddle:Fun(GAME)', 
@@ -530,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
-    }, 
-    {
-      title: 'something :3', 
-      author: 'Ultra Macknus (ONLINE)', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360/5921725364879360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -869,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'AmeliaCodes', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/5584402794201088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/5134562012479488.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4694736935108608/4697966347862016.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4694736935108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
+    }, 
+    {
+      title: 'Baymax :)', 
+      author: 'arielle.aditala', 
+      votes: 3, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/baymax/6074489139150848/6679268852809728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/baymax/6074489139150848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5505536194764029668876368'
     }, 
   ];
 };
