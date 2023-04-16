@@ -838,42 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: 'Notifications', 
-      author: 'nathanTi', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128/5910121202106368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1091820158849429237197523'
-    }, 
-    {
-      title: '"Uygulama: Bir şiir yaz" uyarlaması', 
-      author: 'uckagitciali21', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040/6503501502136320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2874760671744385983755462'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?" huevos con patatas y sandia', 
-      author: 'lpuchaloyo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-huevos-con-patatas-y-sandia/4877128786296832/6560549380079616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-huevos-con-patatas-y-sandia/4877128786296832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_827644857796717761174483'
-    }, 
-    {
-      title: '"Proje: Reklam Tasarımı" uyarlaması', 
-      author: 'kerembirinci2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368/5462837502984192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
-    }, 
-    {
       title: 'Spin-off of "Project: Data dig"', 
       author: 'daksh.ft232087', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160/5824282287718400.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9261313333927199272470560'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'mouryamanohar10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5605199696936960/4576925470474240.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5605199696936960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1087586225088435628787451'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"By Naroa Codea', 
+      author: 'naroa.codea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-tripby-naroa-codea/5070717726277632/6616579107504128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-tripby-naroa-codea/5070717726277632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_977125514865587089446861'
+    }, 
+    {
+      title: 'New program', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/5025916385542144.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'sachin21433', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6524104032436224/5513855976652800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6524104032436224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_273196897969636232325362'
     }, 
   ];
 };
