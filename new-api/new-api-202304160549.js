@@ -102,7 +102,7 @@ var LoadHotlistAPI = function() {
     {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
-      votes: 49, 
+      votes: 50, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136/6641161755475968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-platformer/5673254351323136', 
@@ -487,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Collision Detection', 
+      author: 'Dominic R.', 
+      votes: 57, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/5080474054868992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
+    }, 
+    {
       title: 'Memory Game (Credit to Logan (@lveras0318))', 
       author: 'InvisibleCat123', 
       votes: 5, 
@@ -494,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304/4859211902402560.png', 
       link: 'https://www.khanacademy.org/computer-programming/memory-game-credit-to-logan-lveras0318/4904529201250304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_283117481306236747121532'
-    }, 
-    {
-      title: 'Collision Detection', 
-      author: 'Dominic R.', 
-      votes: 56, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408/5080474054868992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/collision-detection/5910605686161408', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_152917881906477482126765'
     }, 
     {
       title: 'cherry blossom', 
@@ -874,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'saisagbonbu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5833474457255936/6341766631702528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5833474457255936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1631781851751018169669441'
+    }, 
+    {
       title: 'Spin-off of "More complex queries with AND/OR"', 
       author: 'aa7965', 
       votes: 1, 
@@ -883,22 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_437745116873044158512986'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'sneha.chebrolu', 
+      title: 'Spin-off of "Making drawings with code"', 
+      author: 'Zain Ali', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6741666867494912/5260028585230336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6741666867494912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
-    }, 
-    {
-      title: 'New webpage', 
-      author: 'Aarushi  Bista', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5321826185297920/5104988411183104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5321826185297920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1167910421815386651940239'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5741990487834624/6400304418701312.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5741990487834624', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8442593103736462953486063'
     }, 
   ];
 };
