@@ -847,33 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'haridarnesh.santhanakrishnan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856/5882609252220928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_489417878158484245598651'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Любими животни"', 
-      author: 'GeniJs GeniJs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5256073323003904/6206454047752192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5256073323003904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5188648800672705695630312'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'haridarnesh.santhanakrishnan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6057774829322240/6743228725641216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6057774829322240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_489417878158484245598651'
-    }, 
-    {
       title: 'Spin-off z "If/Else - Część 2"', 
       author: 'Aniela  Jaczewska', 
       votes: 1, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6438819160440832/5141820817588224.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6438819160440832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7000626181365479988182616'
+    }, 
+    {
+      title: 'Super Mario Reinvented Part 1', 
+      author: 'agudani', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario-reinvented-part-1/5656312559222784/5295104534560768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario-reinvented-part-1/5656312559222784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1103940361018802048405731'
+    }, 
+    {
+      title: 'debut monday', 
+      author: 'ski', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544/6064519941242880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'Winston Tower Defense', 
+      author: 'AmeliaCodes', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/4643355058552832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
   ];
 };
