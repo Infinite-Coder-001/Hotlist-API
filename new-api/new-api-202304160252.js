@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: '"Tired but Triumphant..."', 
-      author: 'Dylan', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
-    }, 
-    {
       title: 'Connect 4', 
       author: 'LunaTC', 
       votes: 56, 
@@ -80,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5875500175376384.png', 
       link: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: '"Tired but Triumphant..."', 
+      author: 'Dylan', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
       title: 'Sweet Dreams', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'what it will be like when robots take over', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
       author: '²ʟᴇᴛᴛᴇʀ', 
       votes: 18, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/6566706307973120.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
+      title: 'what it will be like when robots take over', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -316,24 +316,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: 'flags', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'khan Academy\'s old logo ', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'Yes', 
       author: 'Barfaboofis', 
       votes: 9, 
@@ -352,12 +334,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'krillin', 
+      title: 'flags', 
       author: '🎮gamer guy🎮🟢', 
-      votes: 3, 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/krillin/5926360741888000/5012121286131712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/krillin/5926360741888000', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'khan Academy\'s old logo ', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -568,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'krillin', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/krillin/5926360741888000/5012121286131712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/krillin/5926360741888000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
       author: 'FakeCxrpss', 
       votes: 13, 
@@ -757,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_791147115356146519168552'
     }, 
     {
+      title: 'gamer guy is a jerk', 
+      author: 'cuphead13', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gamer-guy-is-a-jerk/6416498727108608/5039864291835904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gamer-guy-is-a-jerk/6416498727108608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_322784419198919758067454'
+    }, 
+    {
       title: 'no.', 
       author: 'Canada Goose', 
       votes: 94, 
@@ -863,15 +872,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704/6353727939461120.png', 
       link: 'https://www.khanacademy.org/computer-programming/plane-with-skyline/5641149017800704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'colemanrachels', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6435163103084544/6680578775891968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6435163103084544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_314709096227069038453947'
     }, 
     {
       title: 'Spin-off of "Object Methods"', 
