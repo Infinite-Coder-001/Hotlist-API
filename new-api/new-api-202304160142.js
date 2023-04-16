@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/4762857666560000.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5903068630925312.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
