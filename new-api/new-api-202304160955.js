@@ -838,6 +838,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"By Naroa Codea', 
+      author: 'naroa.codea', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-tripby-naroa-codea/5070717726277632/6616579107504128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-tripby-naroa-codea/5070717726277632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_977125514865587089446861'
+    }, 
+    {
       title: 'New program', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856/5882609252220928.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_489417878158484245598651'
-    }, 
-    {
-      title: 'Версия на "Предизвикателство: Любими животни"', 
-      author: 'GeniJs GeniJs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5256073323003904/6206454047752192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5256073323003904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5188648800672705695630312'
     }, 
   ];
 };
