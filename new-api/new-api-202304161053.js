@@ -820,33 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Dee', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664/5070950090719232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_564094226416108035312822'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'VIPIN VARUGHESE KANIYANTHARA', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4909957939249152/6317510871007232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4909957939249152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226449290181034781450816'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Joanna Górniak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4807194479738880/5700593445552128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4807194479738880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Elizabeth Condoy', 
       votes: 3, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6229757709828096/5280487888437248.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6229757709828096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'iszkuloksawery', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5721275726348288/4593781338062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5721275726348288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_175885801494768018619876'
+    }, 
+    {
+      title: 'Notifications', 
+      author: 'nathanTi', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128/4586152402403328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1091820158849429237197523'
+    }, 
+    {
+      title: '"Uygulama: Bir şiir yaz" uyarlaması', 
+      author: 'uckagitciali21', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040/6503501502136320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2874760671744385983755462'
     }, 
   ];
 };
