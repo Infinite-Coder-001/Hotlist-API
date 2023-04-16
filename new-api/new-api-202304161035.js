@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
     }, 
     {
+      title: 'Sorted Manhattan Loops Demo for Platformers', 
+      author: 'Henry', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
+    }, 
+    {
       title: 'Frame Rate Checker #TT ', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976/6272369154113536.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-teaser-for-something-im-making/4630831227518976', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Sorted Manhattan Loops Demo for Platformers', 
-      author: 'Henry', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
     }, 
     {
       title: 'Tutorial: Commented Code', 
@@ -838,11 +838,38 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
+      title: 'vvobxig', 
+      author: 'Toby', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/vvobxig/5651574371434496/5503779748495360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/vvobxig/5651574371434496', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Joanna Górniak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6229757709828096/5280487888437248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6229757709828096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'iszkuloksawery', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5721275726348288/4593781338062848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5721275726348288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_175885801494768018619876'
+    }, 
+    {
       title: 'Notifications', 
       author: 'nathanTi', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128/5910121202106368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128/4586152402403328.png', 
       link: 'https://www.khanacademy.org/computer-programming/notifications/6361623095984128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1091820158849429237197523'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368/5462837502984192.png', 
       link: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
-    }, 
-    {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'daksh.ft232087', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636629382184960/5036729477414912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636629382184960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3209948599511536145744920'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : concevoir une base de données de magasin"', 
-      author: 'kévin mutte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/5389792834797568/6533543724630016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/5389792834797568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5787391717665997178217141'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Projekt reklamy"', 
-      author: 'Jakub Wrona🍕', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160/5824282287718400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9261313333927199272470560'
     }, 
   ];
 };
