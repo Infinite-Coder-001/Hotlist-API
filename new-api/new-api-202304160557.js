@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 59, 
+      votes: 60, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5349496042340352.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -55,6 +55,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: '"Tired but Triumphant..."', 
+      author: 'Dylan', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
+    }, 
+    {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
       votes: 120, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: '"Tired but Triumphant..."', 
-      author: 'Dylan', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
       title: 'Connect 4', 
@@ -865,6 +865,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
     }, 
     {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'sumitsingh130801', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6032905492283392/5840380403957760.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6032905492283392', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_870781091697330145225161'
+    }, 
+    {
       title: 'mister magical mixture', 
       author: 'Green Ghost', 
       votes: 26, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5590004102643712/5678711686086656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5590004102643712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_437745116873044158512986'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Zain Ali', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5741990487834624/6400304418701312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5741990487834624', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8442593103736462953486063'
     }, 
   ];
 };
