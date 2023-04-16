@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
-      votes: 29, 
+      votes: 30, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5246286703149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Gradient() function', 
       author: 'apex alt', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5805728028999680.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sweet Dreams', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 12, 
+      votes: 13, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
@@ -193,7 +193,7 @@ var LoadHotlistAPI = function() {
       title: 'Venasuar', 
       author: 'Green Light', 
       votes: 25, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136/5800425933815808.png', 
       link: 'https://www.khanacademy.org/computer-programming/venasuar/6700046184923136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
@@ -847,6 +847,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'Spin-off z "If/Else - Część 2"', 
+      author: 'Aniela  Jaczewska', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-ifelse-cz-2/4538236111470592/5304714221895680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-ifelse-cz-2/4538236111470592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9194675996793588456153975'
+    }, 
+    {
       title: 'Pepsi Ad design', 
       author: 'ekasnshcool', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/4643355058552832.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
-    }, 
-    {
-      title: 'Версия на "Проект: Дизайн на реклама"', 
-      author: 'Alex Zarankov', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4629325883424768/6014884925194240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/4629325883424768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8991550579381076346954360'
     }, 
   ];
 };
