@@ -100,22 +100,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'Crazy Baby', 
-      author: 'Fritz Chaucer', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
       title: 'Aequor Graphic', 
       author: '♢ Waves ♢', 
-      votes: 10, 
+      votes: 11, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5067078043484160.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
+      title: 'Crazy Baby', 
+      author: 'Fritz Chaucer', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5824522445176832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
       title: 'Click that block!!!    (Cheating blocked)', 
@@ -190,6 +190,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
+      title: 'Sorted Manhattan Loops Demo for Platformers', 
+      author: 'Henry', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
+    }, 
+    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
       votes: 51, 
@@ -253,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Sorted Manhattan Loops Demo for Platformers', 
-      author: 'Henry', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
-    }, 
-    {
       title: 'Custom Button Maker!', 
       author: 'Aspen', 
       votes: 7, 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'Neah Moses', 
       votes: 4, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/4973520871538688.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/4684668684517376.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_507508162012334851347690'
     }, 
@@ -314,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344/6059378202689536.png', 
       link: 'https://www.khanacademy.org/computer-programming/screensaver/5324622343225344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_337124640664758427043716'
+    }, 
+    {
+      title: 'Raise an Opes', 
+      author: 'Holly Rebbeck', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/5382063101624320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
       title: 'New program', 
@@ -856,49 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'i need bleach ', 
-      author: 'LovelyPetals', 
+      title: 'Derivado de "Desafío: día nevado soleado"', 
+      author: 'samuelgomezrosas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-need-bleach/4577984892944384/5282282916331520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-need-bleach/4577984892944384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5484792545329152/6291472153624576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5484792545329152', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2766942101440758708687991'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'fentsephoku', 
+      title: 'Momment', 
+      author: 'Aris', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5641613939621888/6430010316734464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5641613939621888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4668639095367378096918412'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/momment/6603515360493568/5594669242433536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/momment/6603515360493568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_104843195331585715287682'
     }, 
     {
-      title: 'Derivação de "Booleanos"', 
-      author: 'pedro.moreira', 
+      title: '3 EN RAYA NIVEL 1 MEJORA 1', 
+      author: 'Vicente Velasquez Fabiana Abigaíl', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-booleanos/4569351270481920/6016717601161216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-booleanos/4569351270481920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_793967776697491602929591'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3-en-raya-nivel-1-mejora-1/5038295555031040/4817947760836608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3-en-raya-nivel-1-mejora-1/5038295555031040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7672495759419048351249317'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'jenoallwyn25', 
+      title: 'Snowball falling over winston! ', 
+      author: 'stefanoperissutti2006', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5196266708713472/6627323639283712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5196266708713472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3942053966823290500750833'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Simple snowman"', 
-      author: 'ebock', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4864916692713472/4694670958706688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4864916692713472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_588252360568886060718204'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snowball-falling-over-winston/5391144071774208/4698327620042752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snowball-falling-over-winston/5391144071774208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8954174874768764524788776'
     }, 
   ];
 };
