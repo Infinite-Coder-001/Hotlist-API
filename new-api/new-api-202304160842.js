@@ -856,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'JustMe1236499', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5296368328687616/5637638813171712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5296368328687616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1964171125140776771251150'
+    }, 
+    {
       title: 'Версия на "Предизвикателство: Любими плодове"', 
       author: 'GeniJs GeniJs', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4907669157888000/5840369356161024.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4907669157888000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_205483542925481239785679'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star" (Hard)', 
-      author: 's230075', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184/5844582492585984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_172852356178976589027194'
     }, 
   ];
 };
