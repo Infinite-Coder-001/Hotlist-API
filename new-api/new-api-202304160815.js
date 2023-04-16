@@ -541,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'sopxia695', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808/6374106082885632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_980687219218554598188185'
-    }, 
-    {
       title: 'Aequor Graphic', 
       author: '♢ Waves ♢', 
       votes: 2, 
@@ -856,15 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
-      title: 'Spin-off of "Project: Shooting star" (Hard)', 
-      author: 's230075', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184/5844582492585984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_172852356178976589027194'
-    }, 
-    {
       title: 'Animated squares! [sine demo] [using rotation]', 
       author: 'Arrow.programming', 
       votes: 31, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
       link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
+    }, 
+    {
+      title: 'Derivado de "león"', 
+      author: 'v.prado', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-len/6158766086340608/4590025791815680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-len/6158766086340608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_884335699592438118554214'
+    }, 
+    {
+      title: 'did i start this?!', 
+      author: 'LovelyPetals', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/did-i-start-this/6625802415554560/6664808570339328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/did-i-start-this/6625802415554560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
 };
