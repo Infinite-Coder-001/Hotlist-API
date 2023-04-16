@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'what is happening', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008/6353656669847552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'my skins :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 6, 
@@ -154,15 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
     {
-      title: 'what is happening', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008/6353656669847552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
       votes: 51, 
@@ -220,8 +220,8 @@ var LoadHotlistAPI = function() {
       title: 'Aequor Graphic', 
       author: '♢ Waves ♢', 
       votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4695755848990720.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/6366108291743744.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'Fire Sprite', 
+      author: 'Studious Argyle', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
+    }, 
+    {
       title: 'One Riddle:Fun(GAME)', 
       author: 'Shadow Fax', 
       votes: 4, 
@@ -460,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_805980482901373013739078'
     }, 
     {
+      title: 'sub ', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 9, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6281690977976320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Bender Studios Mc skin', 
       author: 'cjcool', 
       votes: 9, 
@@ -505,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'sub ', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/6281690977976320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'something :3', 
       author: 'Ultra Macknus (ONLINE)', 
       votes: 3, 
@@ -523,20 +532,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
     }, 
     {
-      title: 'Fire Sprite', 
-      author: 'Studious Argyle', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
-    }, 
-    {
       title: 'backround :D', 
       author: 'LovelyPetals', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048/5054480535306240.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048/4528198236028928.png', 
       link: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
@@ -829,6 +829,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'boat_battle', 
+      author: 'alexandrebrunner', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/boat_battle/5830526431969280/5619002086047744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/boat_battle/5830526431969280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_323169236876120246702016'
+    }, 
+    {
+      title: 'Car', 
+      author: 'Ravi Modalavalasa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/car/6718540985188352/5319942733086720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/car/6718540985188352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5828523970740938805874785'
+    }, 
+    {
       title: 'Spin-off of "New program"f', 
       author: 'peteymiao99', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5863993018466304/4574241359183872.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5863993018466304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_534361109685010178296036'
-    }, 
-    {
-      title: 'flappy bird', 
-      author: 'kalnan28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flappy-bird/5874875861614592/5183050691690496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flappy-bird/5874875861614592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1032221822481300351435923'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'cchuffman09', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6352260436377600/4528529275666432.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6352260436377600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5683104627276334479519271'
     }, 
   ];
 };
