@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'apex alt', 
       votes: 19, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5805728028999680.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
@@ -824,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'AmeliaCodes', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6340756643299328.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/4643355058552832.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Wave Function Collapse for random name generation', 
-      author: 'Pazzi', 
+      title: 'Spin-off of "Challenge: Sunny snowy day"', 
+      author: 'mahmoude', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wave-function-collapse-for-random-name-generation/6623837157638144/6075350212984832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wave-function-collapse-for-random-name-generation/6623837157638144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_318292737729387290297952'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4943589680660480/5438294692511744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4943589680660480', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_800981699825571742884343'
     }, 
     {
-      title: '"Zor Görev: En Sevdiğim Yemekler" uyarlaması', 
-      author: 'kerembirinci2007', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Rama Krishna Velamala', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zor-grev-en-sevdiim-yemekler-uyarlamas/6558802225971200/4748355063562240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zor-grev-en-sevdiim-yemekler-uyarlamas/6558802225971200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608/6319600666198016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_612686709307875624758121'
     }, 
     {
-      title: '2 "Project: Data dig"', 
-      author: 'mursh_zrn', 
+      title: 'Turtle.js', 
+      author: 'Hibernia Productions🎥', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/2-project-data-dig/5675303335936000/5269437071802368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/2-project-data-dig/5675303335936000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_794242907760997629612392'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlejs/4678891995447296/6707972454793216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/turtlejs/4678891995447296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'Spin-off of "Project: Ad design"', 
-      author: 'phuhtnfx12881', 
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'harshaljohn634', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4851803377418240/4638943590268928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4851803377418240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_863338746502082256491455'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6509827158491136/5367430508756992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6509827158491136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_713819372349377808919048'
     }, 
   ];
 };
