@@ -806,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/4690215567671296.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/5025916385542144.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
