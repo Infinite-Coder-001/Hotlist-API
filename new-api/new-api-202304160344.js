@@ -865,6 +865,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
+      title: 'find max', 
+      author: 'mariewagle', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/find-max/6483337301770240/5655444212465664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/find-max/6483337301770240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_825654429537999331167156'
+    }, 
+    {
+      title: '8Ball', 
+      author: 'nikolaiolive22', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/8ball/6345836205490176/4973580732645376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/8ball/6345836205490176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_500264274504160456326586'
+    }, 
+    {
+      title: 'kjuodon', 
+      author: 'Toby', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kjuodon/4873062928662528/5475642578878464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kjuodon/4873062928662528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Sunny snowy day"', 
       author: 'Asha', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6656168102772736/5995430761775104.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6656168102772736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1304050740700882037952462'
-    }, 
-    {
-      title: 'Sky', 
-      author: 'Mokojusoluwa Abegunde', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sky/6557657482969088/5559760150904832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sky/6557657482969088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444738148383234873341159'
-    }, 
-    {
-      title: 'Spin-off of "Project: Bookshelf"', 
-      author: 'vdildy3', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5191643235139584/5707498813440000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5191643235139584', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_446064347613517758143109'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'sopxia695', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808/6374106082885632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_980687219218554598188185'
     }, 
   ];
 };
