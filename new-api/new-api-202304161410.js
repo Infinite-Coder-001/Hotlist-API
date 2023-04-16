@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
-      votes: 32, 
+      votes: 31, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5246286703149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: '"Tired but Triumphant..."', 
       author: 'Dylan', 
-      votes: 12, 
+      votes: 11, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
       link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
@@ -775,51 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'camoriano.sofia', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4629181330931712/6436902371901440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4629181330931712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_786487469839897861626450'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?" MY DINNER', 
-      author: 'nurinetmatik', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-my-dinner/4934920960262144/6062348566839296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner-my-dinner/4934920960262144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_412889133053960023794470'
-    }, 
-    {
-      title: 'Inspirováno programem "Projekt: Padající hvězda"', 
-      author: 'jan.gratzer', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-padajc-hvzda/5638240947453952/5324324245651456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-padajc-hvzda/5638240947453952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_819495369578251234595241'
-    }, 
-    {
-      title: ' "Project: Travel webpage"', 
-      author: 'Zuzanna Bober', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/project-travel-webpage/6723477555167232/6420961223294976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/project-travel-webpage/6723477555167232', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6790284467198306971052033'
-    }, 
-    {
-      title: 'Spin-off of "Project: Event invite"', 
-      author: 'qwerty50', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6040880843898880/4803788193185792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/6040880843898880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1064905907830340170907627'
-    }, 
-    {
       title: 'Broken hotlist fr', 
       author: 'Phase #VirtusVictory', 
       votes: 22, 
@@ -869,7 +824,7 @@ var LoadHotlistAPI = function() {
       author: 'julianconesap.car', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/la-evolucion-v2/4584497229381632/6343823543549952.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/la-evolucion-v2/4584497229381632/5459641216843776.png', 
       link: 'https://www.khanacademy.org/computer-programming/la-evolucion-v2/4584497229381632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_655334763090455405230418'
     }, 
@@ -899,6 +854,51 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5208252980969472/4674947562913792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5208252980969472', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_577757852145376524677338'
+    }, 
+    {
+      title: 'space exploration #1', 
+      author: 'ava.fredericks11', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space-exploration-1/6599727266447360/5931576174362624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/space-exploration-1/6599727266447360', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_994232593153485631156646'
+    }, 
+    {
+      title: 'CLOTHING STORE', 
+      author: 'Bradley Donovan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/clothing-store/5422953228713984/6038426974732288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/clothing-store/5422953228713984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_465918249509023976589784'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Anirmaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4942913693073408/5401029408768000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4942913693073408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736586002775599964257939'
+    }, 
+    {
+      title: 'Hora exata', 
+      author: 'Pedro  Luca', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608/4898111177932800.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2641357596582770094833831'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'SL1MRE_PER', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4861036382699520/6635939612114944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4861036382699520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5423138552094296740730617'
     }, 
   ];
 };
