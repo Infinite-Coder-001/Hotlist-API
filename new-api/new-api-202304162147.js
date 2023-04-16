@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'apex', 
       votes: 39, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5553823499468800.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/6360013221445632.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'KarLlr', 
       votes: 69, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5349496042340352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5891808099090432.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Aequor Rush ', 
+      author: 'LightningCoder', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5820842262183936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: '"Tired but Triumphant..."', 
       author: 'Dylan', 
       votes: 15, 
@@ -80,15 +89,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
       link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
-    }, 
-    {
-      title: 'Aequor Rush ', 
-      author: 'LightningCoder', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5820842262183936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Gradient() function', 
@@ -856,6 +856,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Alessa Salazar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5459205202165760/5305081852641280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5459205202165760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_991680490098024477922877'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: ataque animal"', 
+      author: 'Rasha Salehº', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6304509929504768/4963029583446016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-ataque-animal/6304509929504768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1514419921839968870019090'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Danae Daniel💕', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4948798679072768/4595989597175808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4948798679072768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6978081962748809953609504'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
       author: 'isaacantonio09', 
       votes: 1, 
@@ -865,40 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8536975885783672131478516'
     }, 
     {
-      title: 'Spin-off of "Project: Blog"', 
-      author: 'robinbaeten2007', 
+      title: 'Spin-off of "Making animations"', 
+      author: 'Pandemoon', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6354997639168000/6741278248452096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/6354997639168000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_60615719583958175381876'
-    }, 
-    {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Harish Gaitonde', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4923092687437824/6745901671694336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/4923092687437824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1002315791593682352614355'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Oscar Pizano ', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5067176366358528/5983496691826688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5067176366358528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3291228950043056392702552'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler" Louis H', 
-      author: 'Louis H', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler-louis-h/6554056664596480/5243685387419648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler-louis-h/6554056664596480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9345452642602964924653366'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6102914331623424/4558050095841280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-animations/6102914331623424', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7632221216259190867915092'
     }, 
   ];
 };
