@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
-      votes: 56, 
+      votes: 57, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
+      title: 'Custom Button Maker!', 
+      author: 'Aspen', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
       title: 'the doomsayer (animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 7, 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408/5401163894931456.png', 
       link: 'https://www.khanacademy.org/computer-programming/movie-posters-i-create-competition-april-17-april-24/6552742094225408', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
-    }, 
-    {
-      title: 'Custom Button Maker!', 
-      author: 'Aspen', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Wreck Racer (GAME)', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
     }, 
     {
+      title: 'custom gradient function :)', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-gradient-function/6557655201267712/5866769622548480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/custom-gradient-function/6557655201267712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'khan Academy\'s old logo ', 
       author: '🎮gamer guy🎮🔴', 
       votes: 8, 
@@ -368,15 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/bender-studios-mc-skin/6506162880299008/5758218845601792.png', 
       link: 'https://www.khanacademy.org/computer-programming/bender-studios-mc-skin/6506162880299008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
-      title: 'custom gradient function :)', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-gradient-function/6557655201267712/5866769622548480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/custom-gradient-function/6557655201267712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'krillin', 
@@ -847,6 +847,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'Pepsi Ad design', 
+      author: 'ekasnshcool', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pepsi-ad-design/5396175827288064/6484741957402624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pepsi-ad-design/5396175827288064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_822454026577499945758438'
+    }, 
+    {
       title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
       author: 'Anastazja  Uhryniuk', 
       votes: 1, 
@@ -869,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'ski', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544/4531302692077568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544/6064519941242880.png', 
       link: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/4629325883424768/6014884925194240.png', 
       link: 'https://www.khanacademy.org/computer-programming/pjs/4629325883424768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_8991550579381076346954360'
-    }, 
-    {
-      title: 'C2 윤종국 2333036 Hippopotamus Project1_B', 
-      author: 'C2_2333036_윤종국_SE2023', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1_b/6090932580827136/6470003550633984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/c2-2333036-hippopotamus-project1_b/6090932580827136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_91001902368665568546714'
     }, 
   ];
 };
