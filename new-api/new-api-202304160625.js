@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
     }, 
     {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'magalingsijesse', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: '26parmvird6131', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6413442052571136/5639876994449408.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/6413442052571136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1047787122190277684678600'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5862990319763456/6717563880128512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5862990319763456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_947447492346295533612941'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Iman Sheikh', 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'jjsf.jmu', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5903866756644864/4821832021884928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5903866756644864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_680712071671624061579447'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5292985102417920/4607720830582784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5292985102417920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8237212726970490901963968'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'potulapravallika', 
+      title: 'Spin-off of "More complex queries with AND/OR"', 
+      author: 'ph11095', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6153625144705024/5929739480252416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6153625144705024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_694946148145625260400230'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6623295253561344/4728494463696896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6623295253561344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_297751358114090194375416'
     }, 
   ];
 };
