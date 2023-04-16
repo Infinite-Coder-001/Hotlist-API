@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'aa7965', 
+      title: 'zeeshanzaman', 
+      author: 'zeeshanzaman343', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5590004102643712/5678711686086656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5590004102643712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_437745116873044158512986'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6167162520911872/6077883237056512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/zeeshanzaman/6167162520911872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_530946420806104385349522'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'sneha.chebrolu', 
+      title: 'Semana12_Tecnología_Angel Cermeño', 
+      author: '722524', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6741666867494912/5260028585230336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6741666867494912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/semana12_tecnologa_angel-cermeo/5894141809836032/5027054149222400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/semana12_tecnologa_angel-cermeo/5894141809836032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_600711024788981924815875'
     }, 
     {
-      title: 'New webpage', 
-      author: 'Aarushi  Bista', 
+      title: 'AAAAAAAAAAA', 
+      author: 'joelisboas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-webpage/5321826185297920/5104988411183104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-webpage/5321826185297920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1167910421815386651940239'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080/5239607148199936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4569076036871532188121188'
     }, 
   ];
 };
