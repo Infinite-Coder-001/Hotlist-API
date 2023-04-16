@@ -829,6 +829,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5117659339000366566032288'
     }, 
     {
+      title: 'Spin-off z "Wyzwanie: Linki, które uwielbiasz"', 
+      author: 'Joanna Górniak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5979749542576128/4619828905426944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-linki-ktre-uwielbiasz/5979749542576128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
+    }, 
+    {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'vanshbansal1133', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6516156287729664/5548141626834944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6516156287729664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1033172489870427179254526'
+    }, 
+    {
       title: 'Spin-off of "Dimension++.js Showcase"', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 3, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040/6503501502136320.png', 
       link: 'https://www.khanacademy.org/computer-programming/uygulama-bir-iir-yaz-uyarlamas/4591895780311040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2874760671744385983755462'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?" huevos con patatas y sandia', 
-      author: 'lpuchaloyo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-huevos-con-patatas-y-sandia/4877128786296832/6560549380079616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena-huevos-con-patatas-y-sandia/4877128786296832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_827644857796717761174483'
-    }, 
-    {
-      title: '"Proje: Reklam Tasarımı" uyarlaması', 
-      author: 'kerembirinci2007', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368/5462837502984192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/5379948593594368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
     }, 
   ];
 };
