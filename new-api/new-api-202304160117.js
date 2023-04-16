@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'KarLlr', 
       votes: 57, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6599739505426432.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5349496042340352.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
@@ -140,7 +140,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4637416192524288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4688399039774720.png', 
       link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -262,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6239602311741440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'i don\'t think i should be judgin', xD.', 
       author: 'ski', 
       votes: 13, 
@@ -341,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824/6072082346852352.png', 
       link: 'https://www.khanacademy.org/computer-programming/avatar-war-pt1/5951927147085824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6239602311741440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'something :3', 
