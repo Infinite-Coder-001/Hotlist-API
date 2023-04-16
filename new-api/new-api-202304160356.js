@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
+      title: 'Sweet Dreams', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
       title: 'Connect 4', 
       author: 'LunaTC', 
       votes: 56, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Sweet Dreams', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: '(new) Platformer', 
@@ -523,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
     {
+      title: 'Aequor Graphic', 
+      author: '♢ Waves ♢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4716643617128448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Moria?', 
       author: 'Joseph Mullan', 
       votes: 47, 
@@ -802,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
+      title: 'Winston Tower Defense', 
+      author: 'AmeliaCodes', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6340756643299328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
+    }, 
+    {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
       votes: 16, 
@@ -856,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'kadiyatilak725', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5893083008122880/6113280436518912.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5893083008122880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_381925792841171964105297'
+    }, 
+    {
       title: 'Plane With Skyline', 
       author: 'Arlo R.S.', 
       votes: 5, 
@@ -865,40 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
-      title: 'find max', 
-      author: 'mariewagle', 
+      title: 'tres en raya prueba1', 
+      author: 'Vicente Velasquez Fabiana Abigaíl', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/find-max/6483337301770240/5655444212465664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/find-max/6483337301770240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_825654429537999331167156'
-    }, 
-    {
-      title: '8Ball', 
-      author: 'nikolaiolive22', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/8ball/6345836205490176/4973580732645376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/8ball/6345836205490176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_500264274504160456326586'
-    }, 
-    {
-      title: 'kjuodon', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kjuodon/4873062928662528/5475642578878464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kjuodon/4873062928662528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'Asha', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6656168102772736/5995430761775104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6656168102772736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1304050740700882037952462'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tres-en-raya-prueba1/5553295621144576/6389421265174528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tres-en-raya-prueba1/5553295621144576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7672495759419048351249317'
     }, 
   ];
 };
