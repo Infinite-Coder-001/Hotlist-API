@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
-      title: 'Aequor Graphic', 
-      author: '♢ Waves ♢', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4716643617128448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
       title: 'krillin', 
       author: '🎮gamer guy🎮🔴', 
       votes: 3, 
@@ -575,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808/6374106082885632.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_980687219218554598188185'
+    }, 
+    {
+      title: 'Aequor Graphic', 
+      author: '♢ Waves ♢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4716643617128448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'Moria?', 
@@ -820,15 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Amelia Seweryn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6622384116514816/6466914126970880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6622384116514816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5519368615937717999184482'
-    }, 
-    {
       title: 'New program', 
       author: 'bitanya.hailu', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4782161959108608/5520535422550016.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4782161959108608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1087586225088435628787451'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'robinbaeten2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6332941237272576/5015478574825472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6332941237272576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_60615719583958175381876'
     }, 
   ];
 };
