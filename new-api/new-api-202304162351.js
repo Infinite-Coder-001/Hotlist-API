@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -116,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/4891456503595008.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Liam K.', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
       title: 'Aequor Graphic', 
@@ -257,7 +266,7 @@ var LoadHotlistAPI = function() {
       author: 'brave robot', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/5150544927965184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/5281135396700160.png', 
       link: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4447106839721557126774600'
     }, 
@@ -307,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
+      title: 'grow your avatar', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Fire Sprite', 
       author: 'Studious Argyle', 
       votes: 6, 
@@ -332,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/5382063101624320.png', 
       link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Liam K.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
       title: 'henwy the stickman : BTB [GAME]', 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792/6135796844511232.png', 
       link: 'https://www.khanacademy.org/computer-programming/tutorial-commented-code/5420233440673792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'grow your avatar', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'loading || sine demo', 
@@ -856,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
     }, 
     {
+      title: 'Moveable winston', 
+      author: '阿德林B. (Adrin B.)', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/moveable-winston/6160445393387520/5011291149484032.png', 
+      link: 'https://www.khanacademy.org/computer-programming/moveable-winston/6160445393387520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9876145791710015817067168'
+    }, 
+    {
       title: 'a dude living who knows where', 
       author: 'Green Ghost', 
       votes: 43, 
@@ -865,39 +874,30 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'First personal drawing', 
-      author: 'Space Hub', 
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'mekalagroetsema', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-personal-drawing/5680652877086720/6710874267238400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-personal-drawing/5680652877086720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1240378096836798218523140'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4746407899873280/5863421024452608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4746407899873280', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8403153168157051280492062'
     }, 
     {
       title: 'Derivação de "Projeto: A Bola 8 Mágica"', 
-      author: 'barbara.moreira', 
+      author: 'pedro.moreira', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-a-bola-8-mgica/5070591871991808/5214994913607680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-a-bola-8-mgica/5070591871991808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_857977014793626570587953'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-a-bola-8-mgica/5543902234066944/5168997181210624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-a-bola-8-mgica/5543902234066944', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_793967776697491602929591'
     }, 
     {
-      title: 'Lab Lesson #8', 
-      author: 'selahpraisetaylor', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-lesson-8/4896761920667648/6006829177159680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-lesson-8/4896761920667648', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_223008771740639707566617'
-    }, 
-    {
-      title: 'hopes and dreams ', 
+      title: 'foxy foxersen ', 
       author: 'LovelyPetals', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hopes-and-dreams/6023780230283264/5403796097515520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hopes-and-dreams/6023780230283264', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/foxy-foxersen/6457051195949056/5915154803113984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/foxy-foxersen/6457051195949056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
   ];
