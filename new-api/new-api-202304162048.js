@@ -22,7 +22,7 @@ var LoadHotlistAPI = function() {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
       votes: 38, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5553823499468800.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
@@ -56,7 +56,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'what it will be like when robots take over', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5733619789512704.png', 
@@ -65,7 +65,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'what is happening(animation)', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeninganimation/4600605638443008/5502965625700352.png', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Aequor Graphic', 
+      author: '♢ Waves ♢', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5067078043484160.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 76, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Aequor Graphic', 
-      author: '♢ Waves ♢', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5067078043484160.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'my skins :)', 
@@ -137,7 +137,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'the doomsayer (animation)', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 10, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
@@ -164,7 +164,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'minecraft stuff', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 27, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/minecraft-stuff/5135361186775040/5875500175376384.png', 
@@ -217,6 +217,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4447106839721557126774600'
     }, 
     {
+      title: 'Primavera First Challenge', 
+      author: 'IZH1', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
+    }, 
+    {
+      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4688399039774720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Sorted Manhattan Loops Demo for Platformers', 
       author: 'Henry', 
       votes: 8, 
@@ -233,24 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4688399039774720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Primavera First Challenge', 
-      author: 'IZH1', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
     }, 
     {
       title: 'not so lonely anymore', 
@@ -443,7 +443,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'khan Academy\'s old logo ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 8, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-old-logo/6468996447911936/5641550798569472.png', 
@@ -470,7 +470,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'kitbull(animation)', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072/5025343946932224.png', 
@@ -515,7 +515,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'flags', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 7, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
@@ -542,7 +542,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Tesla awarded', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/tesla-awarded/4721020390129664/6558756365451264.png', 
@@ -560,7 +560,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'sub ', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 9, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sub/6150777690439680/5935742292639744.png', 
@@ -596,7 +596,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'grow your avatar', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
@@ -614,7 +614,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'krillin', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/krillin/5926360741888000/5012121286131712.png', 
@@ -668,7 +668,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'kirby !!!', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/kirby/5413109566324736/5557764945657856.png', 
@@ -830,7 +830,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'backgrounds', 
-      author: '🎮gamer guy🎮🟢', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/backgrounds/6259810694905856/6738089528836096.png', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_115960979751591791676507'
     }, 
     {
-      title: 'Farming Tycoon Updated Version 0.0.2', 
-      author: 'ew9666', 
-      votes: 26, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376/5985080469405696.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-tycoon-updated-version-002/5786664388837376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_421014934153973742311713'
-    }, 
-    {
-      title: 'Derivação de "Desafio: Banco de dados com lista de livros"', 
-      author: 'gabriel.merbach2006', 
+      title: 'Spin-off of "Resizing shapes with variable expressions"', 
+      author: 'stuartcmiles', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4955190085337088/6288703745212416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desafio-banco-de-dados-com-lista-de-livros/4955190085337088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_274916036130899068436018'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6606522466746368/4616395683053568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6606522466746368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1557545287701410399684607'
     }, 
     {
-      title: 'The Story of Yilong Muskusk', 
-      author: 'ℍ𝕪𝕡𝕖𝕣#Magus', 
+      title: 'Derivado de "Proyecto: libro de recetas"', 
+      author: 'Oscar Pizano ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-story-of-yilong-muskusk/5781776112074752/4904872706359296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-story-of-yilong-muskusk/5781776112074752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_874944755395678105267495'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5487361095155712/4823003339997184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5487361095155712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3291228950043056392702552'
     }, 
     {
-      title: 'Derivado de "Proyecto: blog"', 
-      author: 'leonelcruzaguilar42', 
+      title: 'Spin-off z "Projekt: Książka kucharska"', 
+      author: 'browarnalena', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5207340770181120/6693056570245120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-blog/5207340770181120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_768596759145358517195502'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4924163619078144/4759325190176768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-ksika-kucharska/4924163619078144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_501405406323715249962911'
     }, 
     {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'robinbaeten2007', 
+      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
+      author: 'browarnalena', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6212766106173440/5695552093470720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6212766106173440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_60615719583958175381876'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5390554142916608/6334263927816192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/5390554142916608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_501405406323715249962911'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'JayC0991', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4994365186686976/6103651153395712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/4994365186686976', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_671030487527422014267384'
     }, 
   ];
 };
