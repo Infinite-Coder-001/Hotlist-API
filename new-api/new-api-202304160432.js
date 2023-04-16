@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Fright', 
       author: 'Arrow.programming', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
       link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Bad practices', 
-      author: 'GrahamTeeg', 
+      title: 'XD RANDOM', 
+      author: 'Marlon De la cruz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/bad-practices/6212470424518656/4776713860202496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/bad-practices/6212470424518656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/xd-random/5540105743024128/5362959649128448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/xd-random/5540105743024128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_691420468290096509237328'
     }, 
     {
-      title: 'Tentativa MIT MEDIA LAB', 
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Nancy', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240/6645972479557632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
+    }, 
+    {
+      title: 'Tentativa MIT MEDIA LAB #2', 
       author: 'joelisboas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab/6187611866841088/6674045971251200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab/6187611866841088', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab-2/4555356681584640/5377762497183744.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab-2/4555356681584640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4569076036871532188121188'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'Sunshine864', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4763589849432064/6581817521258496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4763589849432064', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_765069634934592741498957'
     }, 
   ];
 };
