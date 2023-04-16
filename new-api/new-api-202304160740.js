@@ -856,6 +856,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
     {
+      title: 'Derivado de "león"', 
+      author: 'v.prado', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-len/6158766086340608/4590025791815680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-len/6158766086340608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_884335699592438118554214'
+    }, 
+    {
+      title: 'Crazy Baby', 
+      author: 'Fritz Chaucer', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6580280921210880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
       title: 'did i start this?!', 
       author: 'LovelyPetals', 
       votes: 3, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608/6319600666198016.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_612686709307875624758121'
-    }, 
-    {
-      title: 'Turtle.js', 
-      author: 'Hibernia Productions🎥', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/turtlejs/4678891995447296/6707972454793216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/turtlejs/4678891995447296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'harshaljohn634', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6509827158491136/5367430508756992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6509827158491136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_713819372349377808919048'
     }, 
   ];
 };
