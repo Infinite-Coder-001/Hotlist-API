@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'AAAAAAAAAAA', 
-      author: 'joelisboas', 
+      title: 'SUS', 
+      author: 'Marlon De la cruz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080/5428013908148224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aaaaaaaaaaa/5335764025262080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4569076036871532188121188'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sus/4810419756908544/6318067002163200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sus/4810419756908544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_691420468290096509237328'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'nguyenngoctram2358', 
+      title: 'XD RANDOM', 
+      author: 'Marlon De la cruz', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6571374375387136/4763330071019520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6571374375387136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9935380933654287915004793'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/xd-random/5540105743024128/5362959649128448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/xd-random/5540105743024128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_691420468290096509237328'
     }, 
     {
-      title: 'something based on "something ;P"/reprise of 10.10.22 💔 poem', 
-      author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
+      title: 'Spin-off of "Project: App impersonator"', 
+      author: 'Nancy', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/something-based-on-something-preprise-of-101022-poem/4780278725001216/6315973901860864.png', 
-      link: 'https://www.khanacademy.org/computer-programming/something-based-on-something-preprise-of-101022-poem/4780278725001216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240/6645972479557632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
     }, 
   ];
 };
