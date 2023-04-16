@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
+      title: 'Fire Sprite', 
+      author: 'Studious Argyle', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
+    }, 
+    {
       title: 'kitbull(animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 3, 
@@ -341,15 +350,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
       link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
-    }, 
-    {
-      title: 'Fire Sprite', 
-      author: 'Studious Argyle', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
     }, 
     {
       title: 'farmer winston', 
@@ -856,49 +856,49 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
-      title: 'Spin-off of "Project: Travel webpage"', 
-      author: 'TOARU', 
+      title: 'lab 8 wip', 
+      author: 'Alisa Keller', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6673923388522496/5500867936829440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6673923388522496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3519995399002845777385541'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-wip/5284908550635520/4922726818299904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8-wip/5284908550635520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1208222356139938586358082'
     }, 
     {
-      title: 'Nuevo programa', 
-      author: 'Ana Aidé  Che Salazar ', 
+      title: 'Derivação de "Desenhando mais formas com código"', 
+      author: 'Glaybson Santt', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5981488593289216/6113832406925312.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/5981488593289216', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1009263804368267532788530'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-mais-formas-com-cdigo/6059554564784128/5218207146491904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-desenhando-mais-formas-com-cdigo/6059554564784128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8024945089336702543614709'
     }, 
     {
-      title: 'Challenge: Links for learning"', 
-      author: 'aquibjaved624', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'christinajane1997', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/challenge-links-for-learning/5382369453588480/5402720241762304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/challenge-links-for-learning/5382369453588480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_381966070676442559516062'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5096387512680448/4997316038934528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5096387512680448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7927104407450027816393737'
     }, 
     {
-      title: 'Spin-off of "Making drawings with code"', 
-      author: 'Jihan', 
+      title: 'COOP', 
+      author: 'mikkel-adnan1', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5505951458443264/5524011292606464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5505951458443264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577961583710893577789847'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/coop/6569572460445696/5546708391215104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/coop/6569572460445696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_234954810743641648314190'
     }, 
     {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'Oscar Pizano ', 
+      title: 'New program', 
+      author: 'Merp', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4543274804363264/5431178896392192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4543274804363264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3291228950043056392702552'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5328048250732544/5609720527503360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5328048250732544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_285866933698810589585041'
     }, 
   ];
 };
