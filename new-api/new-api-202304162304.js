@@ -14,7 +14,7 @@ var LoadHotlistAPI = function() {
       author: 'QuasarBlast', 
       votes: 33, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5849432206917632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
+      title: 'the doomsayer (animation)', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 76, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720/5666482035146752.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'the doomsayer (animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -179,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320/6035388964847616.png', 
       link: 'https://www.khanacademy.org/computer-programming/connect-4/4560612857528320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
+    }, 
+    {
+      title: 'i do stuf', 
+      author: 'NL#Midsane', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/5910538384359424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
       title: 'Dividing Aggregating Walkers', 
@@ -865,40 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Derivado de "Desafío: día nevado soleado"', 
-      author: 'samuelgomezrosas', 
+      title: 'Książka kucharska', 
+      author: 'Zosia Jóźwiak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5484792545329152/6291472153624576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5484792545329152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2766942101440758708687991'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/4721240465260544/4891754936713216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ksika-kucharska/4721240465260544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137879104410046762317148'
     }, 
     {
-      title: 'Momment', 
-      author: 'Aris', 
+      title: 'Spin-off of "New program"', 
+      author: 'cat', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/momment/6603515360493568/5594669242433536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/momment/6603515360493568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_104843195331585715287682'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/6648391888322560/6051402339368960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-new-program/6648391888322560', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_480881207787848087220372'
     }, 
     {
-      title: '3 EN RAYA NIVEL 1 MEJORA 1', 
-      author: 'Vicente Velasquez Fabiana Abigaíl', 
+      title: 'Spin-off of "Project: Event invite"', 
+      author: 'Sophie Salcedo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3-en-raya-nivel-1-mejora-1/5038295555031040/4817947760836608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3-en-raya-nivel-1-mejora-1/5038295555031040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7672495759419048351249317'
-    }, 
-    {
-      title: 'Snowball falling over winston! ', 
-      author: 'stefanoperissutti2006', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snowball-falling-over-winston/5391144071774208/4698327620042752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snowball-falling-over-winston/5391144071774208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8954174874768764524788776'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/4738697535995904/4887508489125888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/4738697535995904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6305410424958763544854827'
     }, 
   ];
 };
