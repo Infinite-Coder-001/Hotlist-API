@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6598713444450304.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'Primavera First Challenge', 
+      author: 'IZH1', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
+    }, 
+    {
       title: 'final scores', 
       author: 'Astro', 
       votes: 12, 
@@ -386,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4716643617128448.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'Primavera First Challenge', 
-      author: 'IZH1', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
     }, 
     {
       title: 'krillin', 
@@ -784,6 +784,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Spin-off of "Challenge: A picture-perfect trip"', 
+      author: 'Anirmaa', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4942913693073408/5401029408768000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-picture-perfect-trip/4942913693073408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736586002775599964257939'
+    }, 
+    {
+      title: 'Hora exata', 
+      author: 'Pedro  Luca', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608/5865130421436416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_2641357596582770094833831'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'SL1MRE_PER', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4861036382699520/6635939612114944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4861036382699520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5423138552094296740730617'
+    }, 
+    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'abhay337442', 
       votes: 2, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/time-1/5611608702500864/5769344421511168.png', 
       link: 'https://www.khanacademy.org/computer-programming/time-1/5611608702500864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_791147115356146519168552'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'kim.martinez016', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5927108678565888/4891774062739456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5927108678565888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1969780808668110449257'
-    }, 
-    {
-      title: 'Prog.29 BOLA SEGUIDORA 2', 
-      author: 'Andrea Barres', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/prog29-bola-seguidora-2/5416318242439168/5258197612150784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/prog29-bola-seguidora-2/5416318242439168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Anirmaa', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4980510192615424/4552448384745472.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4980510192615424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736586002775599964257939'
     }, 
   ];
 };
