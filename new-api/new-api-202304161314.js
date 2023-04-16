@@ -802,6 +802,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Sricharan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5057068219547648/4604999658422272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5057068219547648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1059384939868322916384672'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Amelia Seweryn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4934913788002304/5493550788952064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4934913788002304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5519368615937717999184482'
+    }, 
+    {
       title: 'TIME #1', 
       author: 'big.brain.bob.lei', 
       votes: 2, 
@@ -818,6 +836,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5927108678565888/4891774062739456.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5927108678565888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1969780808668110449257'
+    }, 
+    {
+      title: 'Prog.29 BOLA SEGUIDORA 2', 
+      author: 'Andrea Barres', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/prog29-bola-seguidora-2/5416318242439168/5258197612150784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prog29-bola-seguidora-2/5416318242439168', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
     }, 
     {
       title: 'Spin-off of "Challenge: Write a Poem"', 
@@ -847,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5519368615937717999184482'
     }, 
     {
+      title: 'Land Generator (w/ trapezoids)', 
+      author: 'DungeonRunner64', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/land-generator-w-trapezoids/5989502398283776/6715216479174656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/land-generator-w-trapezoids/5989502398283776', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_165232859835607288174474'
+    }, 
+    {
       title: 'New program', 
       author: 'bitanya.hailu', 
       votes: 1, 
@@ -862,42 +898,6 @@ var LoadHotlistAPI = function() {
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5729747213795328/5877831310819328.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5729747213795328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_687689267163491722733223'
-    }, 
-    {
-      title: '"응용: 간단한 눈사람" 프로젝트', 
-      author: 'suwani3511', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680/4526453271347200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_309852650985411500797192'
-    }, 
-    {
-      title: 'ubemeeb', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ubemeeb/5467913315467264/6162526573477888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ubemeeb/5467913315467264', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: A Loopy Ruler"', 
-      author: 'siakchong98', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6566919244398592/6385129888202752.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/6566919244398592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_782232074313120009464503'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'englerclara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6737478569738240/6023277962379264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6737478569738240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_687689267163491722733223'
     }, 
   ];
