@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'daniel', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/6524977949229056.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -388,6 +388,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
+      title: 'Primavera First Challenge', 
+      author: 'IZH1', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
+    }, 
+    {
       title: 'krillin', 
       author: '🎮gamer guy🎮🔴', 
       votes: 3, 
@@ -584,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000/4856853680144384.png', 
       link: 'https://www.khanacademy.org/computer-programming/moria/6108788848640000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_927326040770070596142214'
-    }, 
-    {
-      title: 'Primavera First Challenge', 
-      author: 'IZH1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
     }, 
     {
       title: 'a dude living who knows where', 
@@ -793,6 +793,51 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_745076119778694694743681'
     }, 
     {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'ANDRIIL', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5067311280340992/6220572611887104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5067311280340992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_700219018728150085921661'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'ANDRIIL', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5296894529290240/5597487814721536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5296894529290240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_700219018728150085921661'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'Elakkiya M', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5687951704244224/5099673724698624.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5687951704244224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1055067226115827784433909'
+    }, 
+    {
+      title: 'grow your avatar', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'circling', 
+      author: 'brave robot', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/6147089613766656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4447106839721557126774600'
+    }, 
+    {
       title: 'Why?', 
       author: 'LovelyPetals', 
       votes: 7, 
@@ -854,51 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4980510192615424/4552448384745472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4980510192615424', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_736586002775599964257939'
-    }, 
-    {
-      title: 'no.', 
-      author: 'Canada Goose', 
-      votes: 94, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/no/5506808363139072/5646409648095232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/no/5506808363139072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Napisz wiersz"', 
-      author: 'Amelia Seweryn', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6622384116514816/6466914126970880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-napisz-wiersz/6622384116514816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5519368615937717999184482'
-    }, 
-    {
-      title: 'Land Generator (w/ trapezoids)', 
-      author: 'DungeonRunner64', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/land-generator-w-trapezoids/5989502398283776/6715216479174656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/land-generator-w-trapezoids/5989502398283776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_165232859835607288174474'
-    }, 
-    {
-      title: 'New program', 
-      author: 'bitanya.hailu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6062252106235904/4718296978210816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6062252106235904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9574768518388837748707260'
-    }, 
-    {
-      title: 'Spin-off of "More complex queries with AND/OR"', 
-      author: 'englerclara', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5729747213795328/5877831310819328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/5729747213795328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_687689267163491722733223'
     }, 
   ];
 };
