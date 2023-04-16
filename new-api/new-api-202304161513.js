@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
+      title: 'Fright', 
+      author: 'Arrow.programming', 
+      votes: 20, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Custom Button Maker!', 
       author: 'Aspen', 
       votes: 7, 
@@ -172,13 +181,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Fright', 
-      author: 'Arrow.programming', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      title: 'my skins :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720/5666482035146752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'not so lonely anymore', 
@@ -397,11 +406,20 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
+      title: 'what is happening', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008/6353656669847552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-happening/4600605638443008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'My form', 
       author: 'Neah Moses', 
       votes: 2, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/6137611627577344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/5237170324684800.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_507508162012334851347690'
     }, 
@@ -409,8 +427,8 @@ var LoadHotlistAPI = function() {
       title: 'MineKhan v1.0.0', 
       author: 'Ninja Programming Spin-Offs', 
       votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5179615388942336.png', 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5885393364107264.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
@@ -649,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'pgyzkyb', 
+      author: 'Toby', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pgyzkyb/4553495257858048/4622465277149184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pgyzkyb/4553495257858048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+    }, 
+    {
       title: 'HARD MODE ON MON DON FON CLON MEON NO WAY THAT FAKE', 
       author: 'FakeCxrpss', 
       votes: 13, 
@@ -724,7 +751,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 45, 
-      forks: 23, 
+      forks: 25, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/4797121640579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -793,6 +820,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: 'bangaldarshan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6107927766417408/6410908818784256.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/6107927766417408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_67102523054701718035886'
+    }, 
+    {
       title: 'Simple Simon', 
       author: 'Larry Serflaten', 
       votes: 3, 
@@ -800,6 +836,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/simple-simon/4839382709485568/5620055024123904.png', 
       link: 'https://www.khanacademy.org/computer-programming/simple-simon/4839382709485568', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_271442154897019790150825'
+    }, 
+    {
+      title: 'New program', 
+      author: 'siddhupaaji', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4718919102545920/5367902753832960.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4718919102545920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_672696849873372767853740'
+    }, 
+    {
+      title: 'Inspirováno programem "Projekt: návrh databáze obchodu"', 
+      author: 'Colette Warwick', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6710406761725952/5847547387363328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6710406761725952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4892511541124509186540962'
     }, 
     {
       title: 'Spin-off of "Challenge: A Loopy Ruler"', 
@@ -824,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'big.brain.bob.lei', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6451765970255872/6620094898946048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6451765970255872/6136385657683968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6451765970255872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_791147115356146519168552'
     }, 
@@ -845,60 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6224838017728512/5791744555008000.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/6224838017728512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_184360153051753443286336'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Write a Poem"', 
-      author: 'Adenike', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5081958192562176/6663814218301440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5081958192562176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7155385468133277169740061'
-    }, 
-    {
-      title: 'La Evolucion V3', 
-      author: 'julianconesap.car', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/la-evolucion-v3/5945506170978304/6377805022806016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/la-evolucion-v3/5945506170978304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_655334763090455405230418'
-    }, 
-    {
-      title: 'Derivado de "Dibujar más figuras con código"', 
-      author: 'saraocampo', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5512067064053760/5386566131564544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-dibujar-ms-figuras-con-cdigo/5512067064053760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_474021503906628519482497'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'qassim rufai', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5372147926351872/5260216649433088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5372147926351872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_741304110158200295766649'
-    }, 
-    {
-      title: 'mandelbrot set', 
-      author: 'Paco van der Vliet', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mandelbrot-set/6005385522888704/5785767906689024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mandelbrot-set/6005385522888704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838352115978973475388107'
-    }, 
-    {
-      title: 'JOINs-PJO Code', 
-      author: 's.kim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/joins-pjo-code/4724186410172416/5570962272862208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/joins-pjo-code/4724186410172416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5956749231897463306904433'
     }, 
   ];
 };
