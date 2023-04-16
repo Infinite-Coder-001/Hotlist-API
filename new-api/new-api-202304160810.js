@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
-      votes: 28, 
+      votes: 29, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5246286703149056.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_998231220553965557358689'
     }, 
     {
+      title: 'Custom Button Maker!', 
+      author: 'Aspen', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
       votes: 6, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
       link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
-    }, 
-    {
-      title: 'Custom Button Maker!', 
-      author: 'Aspen', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
-      link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -482,7 +482,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6738482358960128.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
@@ -856,6 +856,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Spin-off of "Changing rows with UPDATE and DELETE"', 
+      author: 'laura.hair333', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4772867515662336/4888526488649728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4772867515662336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
+    }, 
+    {
+      title: 'Poema del Poema', 
+      author: 'jagomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/poema-del-poema/6664449126875136/4604496878813184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/poema-del-poema/6664449126875136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995297039372411745423201'
+    }, 
+    {
       title: 'Super Mario ', 
       author: 'Ducky Momo', 
       votes: 31, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/did-i-start-this/6625802415554560/6664808570339328.png', 
       link: 'https://www.khanacademy.org/computer-programming/did-i-start-this/6625802415554560', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'mahmoude', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4943589680660480/5438294692511744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/4943589680660480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_800981699825571742884343'
-    }, 
-    {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'Rama Krishna Velamala', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608/6319600666198016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5941636405444608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_612686709307875624758121'
     }, 
   ];
 };
