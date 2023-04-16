@@ -820,6 +820,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'hernanangez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6482699364909056/6284663766433792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6482699364909056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_588629959681973065082120'
+    }, 
+    {
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'mouryamanohar10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4782161959108608/5520535422550016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4782161959108608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1087586225088435628787451'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'robinbaeten2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6332941237272576/5015478574825472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6332941237272576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_60615719583958175381876'
+    }, 
+    {
       title: 'Derivado de "Proyecto: ataque animal"', 
       author: 'GuilleySara', 
       votes: 1, 
@@ -833,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'marcelpeo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416/5000994032500736.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416/5852911776350208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_699648426847058198604040'
     }, 
@@ -865,40 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
     }, 
     {
-      title: 'Derivado de "Proyecto: página web de viajes"', 
-      author: 'Pablo Cuello', 
+      title: 'Prog.21 LÍNEA MOVIÉNDOSE EN BUCLE', 
+      author: 'Andrea Barres', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6338322336366592/5245914852933632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6338322336366592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6479359080021205508232460'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Colorful creature"', 
-      author: 'Razvan Petcu', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5064756311670784/5041682707169280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-colorful-creature/5064756311670784', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_486365380737698134998321'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Ola S', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5955264328286208/6425523149651968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5955264328286208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1054734630335418201159511'
-    }, 
-    {
-      title: 'Derivado de "Proyecto: libro de recetas"', 
-      author: 'PedroM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4927446274326528/5428236407586816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/4927446274326528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_702667660903218770574657'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/prog21-lnea-movindose-en-bucle/4573210390872064/5159653144313856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/prog21-lnea-movindose-en-bucle/4573210390872064', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
     }, 
   ];
 };
