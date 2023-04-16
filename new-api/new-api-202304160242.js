@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
     }, 
     {
+      title: 'Sweet Dreams', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
       title: '(new) Platformer', 
       author: 'XanderCLA11_15', 
       votes: 49, 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/4981899522260992.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'Sweet Dreams', 
-      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/6601306203799552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
       title: 'Fright', 
@@ -874,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
+      title: 'Spin-off of "Object Methods"', 
+      author: 'aboagyeemmanuelak', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/4619499736449024/6532898003140608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/4619499736449024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_453031700897224951218973'
+    }, 
+    {
       title: 'in which i tease ski | wait he\'s a clam now', 
       author: 'S. M. V.‮ ‮‮‮‮', 
       votes: 69, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512/5359558437683200.png', 
       link: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
-    }, 
-    {
-      title: 'New program', 
-      author: 'galinski.morgan', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144/6742085433868288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6166314088710144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_610083754682474354803624'
     }, 
   ];
 };
