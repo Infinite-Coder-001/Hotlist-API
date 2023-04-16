@@ -325,15 +325,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
     }, 
     {
-      title: 'Crazy Baby', 
-      author: 'Fritz Chaucer', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
       title: 'One Riddle:Fun(GAME)', 
       author: 'Shadow Fax', 
       votes: 4, 
@@ -487,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Crazy Baby', 
+      author: 'Fritz Chaucer', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
       title: 'animated carl', 
       author: 'LovelyPetals', 
       votes: 6, 
@@ -521,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488/5060389001019392.png', 
       link: 'https://www.khanacademy.org/computer-programming/cherry-blossom/5818318499135488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_706936468208143963519267'
-    }, 
-    {
-      title: 'maze game', 
-      author: 'the-kid987', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/maze-game/6270946848849920/5874903376248832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/maze-game/6270946848849920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_917131470750256406391604'
     }, 
     {
       title: 'Lonely', 
@@ -856,24 +847,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
     {
-      title: 'Версия на "Предизвикателство: Любими плодове"', 
-      author: 'GeniJs GeniJs', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/6242428937093120/4544913636376576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pjs/6242428937093120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5188648800672705695630312'
-    }, 
-    {
-      title: 'inyuxiz', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inyuxiz/4753258372710400/5895482418446336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inyuxiz/4753258372710400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
       title: 'Derivado de "Proyecto: construye una casa"', 
       author: 'Sara Otal Sanz', 
       votes: 16, 
@@ -883,15 +856,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_110507842547110176500171'
     }, 
     {
-      title: 'Spin-off of "Project: Build-a-House"', 
-      author: 'Curse MyName', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4907669157888000/5840369356161024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4907669157888000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205483542925481239785679'
-    }, 
-    {
       title: 'Spin-off of "Project: Shooting star" (Hard)', 
       author: 's230075', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184/5844582492585984.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star-hard/5964525116637184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_172852356178976589027194'
+    }, 
+    {
+      title: 'Animated squares! [sine demo] [using rotation]', 
+      author: 'Arrow.programming', 
+      votes: 31, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816/6562851507716096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/animated-squares-sine-demo-using-rotation/5355168486178816', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'Spin-off of "Changing rows with UPDATE and DELETE"', 
+      author: 'laura.hair333', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4772867515662336/4888526488649728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-changing-rows-with-update-and-delete/4772867515662336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5464654437459447544765060'
+    }, 
+    {
+      title: 'Poema del Poema', 
+      author: 'jagomez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/poema-del-poema/6664449126875136/4604496878813184.png', 
+      link: 'https://www.khanacademy.org/computer-programming/poema-del-poema/6664449126875136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_995297039372411745423201'
+    }, 
+    {
+      title: 'Super Mario ', 
+      author: 'Ducky Momo', 
+      votes: 31, 
+      forks: 6, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192/6714425072730112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/super-mario/4875847803912192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_803024247073237306758396'
     }, 
   ];
 };
