@@ -275,7 +275,7 @@ var LoadHotlistAPI = function() {
       author: 'QuasarBlast', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6239602311741440.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5411513692372992.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
@@ -530,6 +530,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824/4879502636531712.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-dude-living-who-knows-where/4927965420109824', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'random curve thing :P', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/random-curve-thing-p/4802229690482688/6626807706337280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/random-curve-thing-p/4802229690482688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'backgrounds', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6413460532674560.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
-    }, 
-    {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26longenecker_co', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208/5163274212786176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/4830667616862208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_140538039963632967772356'
     }, 
   ];
 };
