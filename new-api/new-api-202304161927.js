@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for ToTK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 19, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/4585721563496448.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -838,67 +838,67 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Derivado de "Desafío: un viaje de ensueño" by Oliver homework', 
-      author: 'oliver.garcia', 
+      title: 'AAAAA', 
+      author: 'Toran Peksen', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo-by-oliver-homework/5551433215950848/6313204956577792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo-by-oliver-homework/5551433215950848', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177616652700738938655660'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aaaaa/4841147295121408/6310459004469248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aaaaa/4841147295121408', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5212030664465950206826187'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'martyna.budryk', 
+      title: 'Spin-off of "Project: Data dig"', 
+      author: 'aj howe', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6244623824764928/5541007015067648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/6244623824764928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3993042718662423173196963'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4654371515449344/6342699335860224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4654371515449344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8618321450317895267687802'
     }, 
     {
-      title: 'Practice', 
-      author: 'Mokojusoluwa Abegunde', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sarah London', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/practice/6247991045570560/6263203182198784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/practice/6247991045570560', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444738148383234873341159'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5773395557138432/4811470681718784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5773395557138432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5471092137461599706721117'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'wiktoria.kalinowska', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'Taurae Gray ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6653612689506304/4939824168747008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/6653612689506304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611433244908287756253901'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4895527729938432/5300318658412544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/4895527729938432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6284033725764903874858799'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Twoja lista do nauki"', 
-      author: 'wiktoria.kalinowska', 
+      title: 'Pizza', 
+      author: '🐼-𝔸𝕞𝕖𝕝𝕚𝕖-🐼', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5663946058285056/5214753724350464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-twoja-lista-do-nauki/5663946058285056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_611433244908287756253901'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/6382127110471680/4642984751841280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza/6382127110471680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_773324327039592164389780'
     }, 
     {
-      title: 'Lab 8', 
-      author: 'Brown, Alexis', 
+      title: 'My dog', 
+      author: 'hutsonsarethebest', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8/6249270375399424/5932901675089920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lab-8/6249270375399424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1147361181313495706706771'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-dog/6136981383069696/5547183010267136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-dog/6136981383069696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1085108113391942557084338'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
-      author: 'martyna.budryk', 
+      title: 'Lab 8 - A Race with Arrays', 
+      author: 'izzyvigg', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5672050661572608/6534000937320448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5672050661572608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3993042718662423173196963'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lab-8-a-race-with-arrays/5251771166670848/6751290756743168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lab-8-a-race-with-arrays/5251771166670848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_354467810965470239787967'
     }, 
   ];
 };
