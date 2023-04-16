@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
+      title: 'what it will be like when robots take over', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Fright', 
       author: 'Arrow.programming', 
       votes: 18, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'what it will be like when robots take over', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/4617762556395520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
@@ -194,9 +194,18 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/6566706307973120.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
+      title: 'the doomsayer (animation)', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'MOUNTAINS', 
@@ -287,15 +296,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5584722400165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'the doomsayer (animation)', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'farmer winston', 
@@ -865,40 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
-      title: 'Spin-off of "Challenge: SmileyFace"', 
-      author: 'colemanrachels', 
+      title: 'Aequor Graphic', 
+      author: '♢ Waves ♢', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6435163103084544/6680578775891968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/6435163103084544', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_314709096227069038453947'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/6118175021514752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
-      title: 'Spin-off of "Object Methods"', 
+      title: 'Spin-off of "Challenge: SmileyFace"', 
       author: 'aboagyeemmanuelak', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/4619499736449024/6532898003140608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-object-methods/4619499736449024', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5914578379915264/5335182057193472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5914578379915264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_453031700897224951218973'
     }, 
     {
-      title: 'in which i tease ski | wait he\'s a clam now', 
-      author: 'S. M. V.‮ ‮‮‮‮', 
-      votes: 69, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448/4830284496551936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/in-which-i-tease-ski-wait-hes-a-clam-now/5560963303784448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_266891459920003908397632'
+      title: 'Derivação de "rect(x, y, width, height, radius)" conhecendo códigos', 
+      author: 'fabiaoliveira32', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-rectx-y-width-height-radius-conhecendo-cdigos/6640413449699328/6204215161831424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivao-de-rectx-y-width-height-radius-conhecendo-cdigos/6640413449699328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_528994208939359884918550'
     }, 
     {
-      title: 'shooting stars!', 
-      author: 'KELSEYP', 
-      votes: 3, 
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'Sean Havoc Docherty', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512/5359558437683200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shooting-stars/5878149432000512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_496842201862800102958396'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6251103093309440/6448703759237120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6251103093309440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_489739545453333896517054'
     }, 
   ];
 };
