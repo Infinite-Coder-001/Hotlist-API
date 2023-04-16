@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'daniel', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/5262359234134016.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/6524977949229056.png', 
       link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
@@ -784,60 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'La Evolucion V2', 
-      author: 'julianconesap.car', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/la-evolucion-v2/4584497229381632/5918843039170560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/la-evolucion-v2/4584497229381632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_655334763090455405230418'
-    }, 
-    {
-      title: 'peixe', 
-      author: 'Pedro  Luca', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/peixe/5107816311603200/4725115565948928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/peixe/5107816311603200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_2641357596582770094833831'
-    }, 
-    {
-      title: 'La Evolucion V1', 
-      author: 'julianconesap.car', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/la-evolucion-v1/5234988120588288/5662026920935424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/la-evolucion-v1/5234988120588288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_655334763090455405230418'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'messichez28', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5208252980969472/4674947562913792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5208252980969472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_577757852145376524677338'
-    }, 
-    {
-      title: 'space exploration #1', 
-      author: 'ava.fredericks11', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-exploration-1/6599727266447360/5931576174362624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space-exploration-1/6599727266447360', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_994232593153485631156646'
-    }, 
-    {
-      title: 'CLOTHING STORE', 
-      author: 'Bradley Donovan', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/clothing-store/5422953228713984/6038426974732288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/clothing-store/5422953228713984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_465918249509023976589784'
-    }, 
-    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"', 
       author: 'Anirmaa', 
       votes: 1, 
@@ -851,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Pedro  Luca', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608/4629646596685824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608/5865130421436416.png', 
       link: 'https://www.khanacademy.org/computer-programming/hora-exata/5935654279364608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_2641357596582770094833831'
     }, 
@@ -899,6 +845,60 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5687951704244224/5099673724698624.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5687951704244224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1055067226115827784433909'
+    }, 
+    {
+      title: 'grow your avatar', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'circling', 
+      author: 'brave robot', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/6147089613766656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4447106839721557126774600'
+    }, 
+    {
+      title: 'Why?', 
+      author: 'LovelyPetals', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/why/6142273252540416/6591119237627904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/why/6142273252540416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Sricharan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5057068219547648/4604999658422272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5057068219547648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1059384939868322916384672'
+    }, 
+    {
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'Amelia Seweryn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4934913788002304/5493550788952064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/4934913788002304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5519368615937717999184482'
+    }, 
+    {
+      title: 'TIME #1', 
+      author: 'big.brain.bob.lei', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/time-1/5611608702500864/5769344421511168.png', 
+      link: 'https://www.khanacademy.org/computer-programming/time-1/5611608702500864', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_791147115356146519168552'
     }, 
   ];
 };
