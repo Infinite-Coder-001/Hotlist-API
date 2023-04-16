@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'the doomsayer (animation)', 
       author: '🎮gamer guy🎮🟢', 
       votes: 5, 
@@ -278,15 +287,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296/4891966061199360.png', 
       link: 'https://www.khanacademy.org/computer-programming/platform-editor/6191819391287296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'i don\'t think i should be judgin', xD.', 
@@ -865,6 +865,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_532381813440352346189768'
     }, 
     {
+      title: 'Spin-off of "Project: Bookshelf"', 
+      author: 'vdildy3', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5191643235139584/4785268159987712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5191643235139584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_446064347613517758143109'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'sopxia695', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808/6374106082885632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5272789830647808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_980687219218554598188185'
+    }, 
+    {
       title: 'Aequor Graphic', 
       author: '♢ Waves ♢', 
       votes: 1, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5914578379915264/5335182057193472.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-smileyface/5914578379915264', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_453031700897224951218973'
-    }, 
-    {
-      title: 'Derivação de "rect(x, y, width, height, radius)" conhecendo códigos', 
-      author: 'fabiaoliveira32', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-rectx-y-width-height-radius-conhecendo-cdigos/6640413449699328/6204215161831424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-rectx-y-width-height-radius-conhecendo-cdigos/6640413449699328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_528994208939359884918550'
-    }, 
-    {
-      title: 'Spin-off of "Project: Shooting star"', 
-      author: 'Sean Havoc Docherty', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6251103093309440/6448703759237120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6251103093309440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_489739545453333896517054'
     }, 
   ];
 };
