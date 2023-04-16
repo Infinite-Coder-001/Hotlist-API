@@ -19,6 +19,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 57, 
@@ -26,15 +35,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/5396051835273216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'Sweet Dreams', 
@@ -401,7 +401,7 @@ var LoadHotlistAPI = function() {
       author: 'Ninja Programming Spin-Offs', 
       votes: 9, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5885393364107264.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/6389004091310080.png', 
       link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
     }, 
@@ -811,6 +811,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_869628041827255691328966'
     }, 
     {
+      title: 'MULTIPLE JOINS "Project: Famous people"', 
+      author: 'mursh_zrn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/multiple-joins-project-famous-people/6725437628923904/6327838749016064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/multiple-joins-project-famous-people/6725437628923904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794242907760997629612392'
+    }, 
+    {
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'Eva Liudvinaviciute', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5272566827892736/5843081938386944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5272566827892736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4322352403052137473845995'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'z.rameez', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6512781760446464/4703859470811136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6512781760446464', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_958862743936121092450226'
+    }, 
+    {
       title: 'for cjcool', 
       author: '🎮gamer guy🎮🔴', 
       votes: 4, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4881444389568512/5471262618206208.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4881444389568512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_653783790600360030248567'
-    }, 
-    {
-      title: 'HW 6', 
-      author: 'Brown, Alexis', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hw-6/5389773910097920/6449775487795200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hw-6/5389773910097920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1147361181313495706706771'
-    }, 
-    {
-      title: '"ellipse(x, y, w, h) | ProcessingJS" uyarlaması', 
-      author: 'ahsen özman', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-uyarlamas/4779812477779968/4830911112986624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs-uyarlamas/4779812477779968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5988159625240817550197565'
-    }, 
-    {
-      title: ' CT-Micah Kim- Greetings card" updated', 
-      author: 'micah.kim', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ct-micah-kim-greetings-card-updated/5867519455051776/5360395754979328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ct-micah-kim-greetings-card-updated/5867519455051776', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1182283210862275258025132'
     }, 
   ];
 };
