@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5903068630925312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/6566706307973120.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
@@ -661,7 +661,7 @@ var LoadHotlistAPI = function() {
       title: 'I could use some help =P', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 44, 
-      forks: 22, 
+      forks: 23, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352/4797121640579072.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-could-use-some-help-p/4543969473380352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
