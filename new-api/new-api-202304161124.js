@@ -820,6 +820,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
+      title: 'Spin-off of "Project: Design a store database"', 
+      author: 'sneha.chebrolu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432/4997221549654016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
+    }, 
+    {
+      title: 'Proyecto: ¿qué hay de cena?', 
+      author: 'Andrea Barres', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/4729867544608768/5614343590035456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/4729867544608768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: página web de viajes"', 
+      author: 'Pablo Cuello', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6338322336366592/5245914852933632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-pgina-web-de-viajes/6338322336366592', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6479359080021205508232460'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Colorful creature"', 
       author: 'Razvan Petcu', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664/5070950090719232.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_564094226416108035312822'
-    }, 
-    {
-      title: 'var cookies = infinite;', 
-      author: 'HopX', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/var-cookies-infinite/4773146487209984/4512178167398400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/var-cookies-infinite/4773146487209984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7814823674404132624208237'
-    }, 
-    {
-      title: 'Spin-off of "Project: Magic 8-Ball"', 
-      author: 'VIPIN VARUGHESE KANIYANTHARA', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4909957939249152/6317510871007232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/4909957939249152', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_226449290181034781450816'
-    }, 
-    {
-      title: 'Spin-off z "Wyzwanie: Stół obiadowy"', 
-      author: 'Joanna Górniak', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4807194479738880/5700593445552128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-st-obiadowy/4807194479738880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_853956443702782675046908'
     }, 
   ];
 };
