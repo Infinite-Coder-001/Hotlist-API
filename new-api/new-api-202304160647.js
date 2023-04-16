@@ -865,6 +865,33 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
+      title: '2 "Project: Data dig"', 
+      author: 'mursh_zrn', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/2-project-data-dig/5675303335936000/5269437071802368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/2-project-data-dig/5675303335936000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_794242907760997629612392'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'phuhtnfx12881', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4851803377418240/4638943590268928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/4851803377418240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_863338746502082256491455'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'taqyah', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5381564482764800/5368769104101376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5381564482764800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_267114311115016602100031'
+    }, 
+    {
       title: 'Spin-off of "Creating a table and inserting data"', 
       author: 'marouf muzaffar', 
       votes: 1, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854487908139008/6623985535336448.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854487908139008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6095172396149332889033742'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'effortlesstronics4u', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4943865842024448/6144243728171008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4943865842024448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_740672483528644048975637'
-    }, 
-    {
-      title: 'vnaylua', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vnaylua/6133241003425792/4780859376058368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vnaylua/6133241003425792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
-      title: 'Spin-off of "Project: Mountain range"', 
-      author: '26heck_no', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
     }, 
   ];
 };
