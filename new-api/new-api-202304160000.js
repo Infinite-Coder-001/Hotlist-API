@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 55, 
+      votes: 56, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/6599739505426432.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'interactive gaming pc', 
       author: 'apex', 
-      votes: 24, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392/4610193683169280.png', 
       link: 'https://www.khanacademy.org/computer-programming/interactive-gaming-pc/6749284226875392', 
@@ -21,29 +21,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
-      votes: 52, 
+      votes: 53, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'Click that block!!!    (Cheating blocked)', 
-      author: 'Speedyspeedcuber', 
-      votes: 73, 
-      forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
       title: 'Gradient() function', 
       author: 'apex alt', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/5808275145932800.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
+    }, 
+    {
+      title: 'Click that block!!!    (Cheating blocked)', 
+      author: 'Speedyspeedcuber', 
+      votes: 74, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -860,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'AmeliaCodes', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/6123403179507712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432/5322633865641984.png', 
       link: 'https://www.khanacademy.org/computer-programming/winston-tower-defense/5094320962322432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1153603341012050959993462'
     }, 
