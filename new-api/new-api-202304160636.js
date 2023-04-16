@@ -865,33 +865,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Spin-off of "Creating a table and inserting data"', 
-      author: 'marouf muzaffar', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854487908139008/6623985535336448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/4854487908139008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6095172396149332889033742'
-    }, 
-    {
-      title: 'Spin-off of "Project: Recipe book"', 
-      author: 'effortlesstronics4u', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4943865842024448/6144243728171008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4943865842024448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_740672483528644048975637'
-    }, 
-    {
-      title: 'vnaylua', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/vnaylua/6133241003425792/4780859376058368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/vnaylua/6133241003425792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
       title: 'Spin-off of "Project: Mountain range"', 
       author: '26heck_no', 
       votes: 7, 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040/4689395186974720.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6082349046743040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136279350362128359412783'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: '26parmvird6131', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5862990319763456/6717563880128512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5862990319763456', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_947447492346295533612941'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'jjsf.jmu', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5292985102417920/4607720830582784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5292985102417920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8237212726970490901963968'
+    }, 
+    {
+      title: 'Spin-off of "More complex queries with AND/OR"', 
+      author: 'ph11095', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6623295253561344/4728494463696896.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-more-complex-queries-with-andor/6623295253561344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_297751358114090194375416'
     }, 
   ];
 };
