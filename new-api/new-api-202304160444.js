@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Yes', 
+      author: 'Barfaboofis', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
+    }, 
+    {
       title: 'Custom Button Maker!', 
       author: 'Aspen', 
       votes: 5, 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
       link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Yes', 
-      author: 'Barfaboofis', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696/5869754146668544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yes/5723396794269696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
     }, 
     {
       title: 'Bender Studios Mc skin', 
@@ -806,7 +806,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/5013349244125184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584/4690215567671296.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6543095169859584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -874,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'SUS', 
+      author: 'Marlon De la cruz', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sus/4810419756908544/6318067002163200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sus/4810419756908544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_691420468290096509237328'
+    }, 
+    {
       title: 'XD RANDOM', 
       author: 'Marlon De la cruz', 
       votes: 1, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240/6645972479557632.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6436462808842240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_44878862288089024284946'
-    }, 
-    {
-      title: 'Tentativa MIT MEDIA LAB #2', 
-      author: 'joelisboas', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab-2/4555356681584640/5377762497183744.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tentativa-mit-media-lab-2/4555356681584640', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4569076036871532188121188'
     }, 
   ];
 };
