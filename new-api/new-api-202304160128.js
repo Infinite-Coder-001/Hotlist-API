@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
-      votes: 74, 
+      votes: 75, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Sorted Manhattan Loops Demo for Platformers', 
+      author: 'Henry', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
+    }, 
+    {
       title: 'Tutorial: Commented Code', 
       author: 'The Ember Society #OpesFTW', 
       votes: 12, 
@@ -248,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Aspen', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/4949012555022336.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/4762857666560000.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
@@ -298,13 +307,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
     }, 
     {
-      title: 'Sorted Manhattan Loops Demo for Platformers', 
-      author: 'Henry', 
+      title: 'One Riddle:Fun(GAME)', 
+      author: 'Shadow Fax', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5395804648161280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlefungame/4689652524302336/4614538109698048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/one-riddlefungame/4689652524302336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'Yes', 
@@ -353,21 +362,12 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'something :3', 
-      author: 'Ultra Macknus (ONLINE)', 
+      author: 'Ultra Macknus (Offline)', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360/5921725364879360.png', 
       link: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
-    }, 
-    {
-      title: 'One Riddle:Fun(GAME)', 
-      author: 'Shadow Fax', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/one-riddlefungame/4689652524302336/4614538109698048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/one-riddlefungame/4689652524302336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
       title: 'backround :D', 
