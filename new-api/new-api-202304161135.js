@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 62, 
+      votes: 61, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5349496042340352.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -235,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3855022139242691012108503'
     }, 
     {
-      title: 'farmer winston', 
-      author: 'Theformerwizardofoz', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488/6445512195883008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
-    }, 
-    {
       title: 'MOUNTAINS', 
       author: 'Arrow.programming', 
       votes: 23, 
@@ -332,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5584722400165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'farmer winston', 
+      author: 'Theformerwizardofoz', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488/6445512195883008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farmer-winston/4647141944639488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
     }, 
     {
       title: 'Crazy Baby', 
@@ -820,15 +820,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'Pikachu (work in progress don\'t vote pls)', 
-      author: 'lava coding', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-work-in-progress-dont-vote-pls/5740603548942336/6083334691405824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pikachu-work-in-progress-dont-vote-pls/5740603548942336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460241277577569093667082'
-    }, 
-    {
       title: 'Spin-off of "Project: Design a store database"', 
       author: 'sneha.chebrolu', 
       votes: 1, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5034069709864960/6739401616179200.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5034069709864960', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_702667660903218770574657'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Dee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664/5070950090719232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5739807394545664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_564094226416108035312822'
     }, 
   ];
 };
