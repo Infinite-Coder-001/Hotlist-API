@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
     }, 
     {
+      title: 'Crazy Baby', 
+      author: 'Fritz Chaucer', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
       title: 'Frame Rate Checker #TT ', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608/5584722400165888.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-dont-think-i-should-be-judgin-xd/4585616873668608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Crazy Baby', 
-      author: 'Fritz Chaucer', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5138313800630272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
       title: 'One Riddle:Fun(GAME)', 
@@ -820,13 +820,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_104406289574754649887559'
     }, 
     {
-      title: 'Pikachu (work in progress don\'t vote pls)', 
-      author: 'lava coding', 
+      title: 'Spin-off of "Project: Recipe book"', 
+      author: 'marcelpeo', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-work-in-progress-dont-vote-pls/5740603548942336/6083334691405824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pikachu-work-in-progress-dont-vote-pls/5740603548942336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_460241277577569093667082'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416/5000994032500736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/5165322333372416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_699648426847058198604040'
+    }, 
+    {
+      title: '"Proje: Reklam Tasarımı" uyarlaması', 
+      author: 'kerembirinci2007', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/4844242867634176/5771575321477120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/proje-reklam-tasarm-uyarlamas/4844242867634176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5982310921710760992028786'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Chandu Shashidhar', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4936421950668800/4744966602801152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4936421950668800', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1156875407451960565397513'
     }, 
     {
       title: 'Spin-off of "Project: Design a store database"', 
@@ -836,15 +854,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432/4997221549654016.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5123583572754432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9199607241028507917884309'
-    }, 
-    {
-      title: 'Proyecto: ¿qué hay de cena?', 
-      author: 'Andrea Barres', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/4729867544608768/5614343590035456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/proyecto-qu-hay-de-cena/4729867544608768', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3562311017555970867386026'
     }, 
     {
       title: 'Derivado de "Proyecto: página web de viajes"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5567948212453376/6650439019053056.png', 
       link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-libro-de-recetas/5567948212453376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6479359080021205508232460'
-    }, 
-    {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'PedroM', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5034069709864960/6739401616179200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/5034069709864960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_702667660903218770574657'
     }, 
   ];
 };
