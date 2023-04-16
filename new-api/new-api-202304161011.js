@@ -838,42 +838,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: 'Spin-off of "Project: Data dig"', 
-      author: 'daksh.ft232087', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636629382184960/5036729477414912.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6636629382184960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3209948599511536145744920'
-    }, 
-    {
-      title: 'Projet dérivé de "Projet : concevoir une base de données de magasin"', 
-      author: 'kévin mutte', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/5389792834797568/6533543724630016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/projet-driv-de-projet-concevoir-une-base-de-donnes-de-magasin/5389792834797568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5787391717665997178217141'
-    }, 
-    {
-      title: 'Spin-off z "Projekt: Projekt reklamy"', 
-      author: 'Jakub Wrona🍕', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160/5824282287718400.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-projekt-projekt-reklamy/5061327652700160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9261313333927199272470560'
-    }, 
-    {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: 'mouryamanohar10', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5605199696936960/4576925470474240.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5605199696936960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1087586225088435628787451'
-    }, 
-    {
       title: 'Spin-off of "Challenge: A picture-perfect trip"By Naroa Codea', 
       author: 'naroa.codea', 
       votes: 1, 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6524104032436224/5513855976652800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/6524104032436224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_273196897969636232325362'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Ümmügülsüm türkeş', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4655068550053888/4557644892520448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4655068550053888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8807111867036595972586682'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'mouryamanohar10', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6358280906784768/6487929024462848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6358280906784768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1087586225088435628787451'
+    }, 
+    {
+      title: 'Spin-off of "Project: Famous people"', 
+      author: 'huyentrang99470', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4724698224312320/6524268205883392.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/4724698224312320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_178420837071763660627365'
+    }, 
+    {
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'haridarnesh.santhanakrishnan', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856/5882609252220928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5839626368761856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_489417878158484245598651'
     }, 
   ];
 };
