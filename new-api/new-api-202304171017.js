@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Derivado de "Proyecto: estrella fugaz"', 
-      author: 'gersonlopezcompunet', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5276254862622720/6723214782021632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5276254862622720', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_205660925586497497128401'
-    }, 
-    {
       title: 'Fire Sprite', 
       author: 'Studious Argyle', 
       votes: 8, 
@@ -494,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360/5921725364879360.png', 
       link: 'https://www.khanacademy.org/computer-programming/something-3/6327650105999360', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5013635882287817271800360'
+    }, 
+    {
+      title: 'Derivado de "Proyecto: estrella fugaz"', 
+      author: 'gersonlopezcompunet', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5276254862622720/6723214782021632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/5276254862622720', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_205660925586497497128401'
     }, 
     {
       title: 'EndlessSlumber', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Cogs', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 1, 
+      title: '"응용: 간단한 눈사람" 프로젝트', 
+      author: 'suwani3511', 
+      votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cogs/6317645583663104/5798397425795072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cogs/6317645583663104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680/4526453271347200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pjs/5485200365895680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_309852650985411500797192'
     }, 
     {
-      title: 'New program', 
-      author: 'dziugas', 
+      title: 'Nuevo programa', 
+      author: 'nolan.lopez', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4746742471114752/4711072843218944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4746742471114752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_895036640187413244904162'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/4672894971199488/6269243416166400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/4672894971199488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_181806272785626152857750'
     }, 
   ];
 };
