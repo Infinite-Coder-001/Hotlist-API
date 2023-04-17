@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Julia Pomaska ', 
+      title: 'Spin-off z "Wyzwanie: Doskonała wycieczka w obrazkach"', 
+      author: 'klaudia.piotrowska', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6467811666083840/4962554117144576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/6467811666083840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_426476018979241085065697'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5368749709639680/6097503008374784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-doskonaa-wycieczka-w-obrazkach/5368749709639680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_766686810769433713965126'
     }, 
     {
-      title: 'fluveuq', 
-      author: 'Toby', 
-      votes: 1, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fluveuq/6483413000568832/5602439542915072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fluveuq/6483413000568832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
-    }, 
-    {
-      title: 'Spin-off of "Project: Build-a-House"', 
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
       author: 'iforotmichel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4835349693251584/5896678927548416.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/4835349693251584', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6244554333536256/4539400508981248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/6244554333536256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42019850370550847967129'
+    }, 
+    {
+      title: 'Spin-off of "Resizing shapes with variable expressions"', 
+      author: 'viktorkuzee', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5484940511985664/4562804490420224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/5484940511985664', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8863969279275773623578192'
     }, 
   ];
 };
