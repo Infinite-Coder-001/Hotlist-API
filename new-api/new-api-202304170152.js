@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
+      title: 'Found Pt. 2 (Challenge 1[Primavera])', 
+      author: 'Jăř-Jăř Bìñķś (Online) ✝', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/6599862113320960/5883228742533120.png', 
+      link: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/6599862113320960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
+    }, 
+    {
       title: 'Yorg [Pixel game!]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 3, 
@@ -527,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/6108401890541568.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432/6675722174513152.png', 
       link: 'https://www.khanacademy.org/computer-programming/harley-quinn-part-1/6395142404882432', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -656,15 +665,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544/5760203254710272.png', 
       link: 'https://www.khanacademy.org/computer-programming/debut-monday/6035014967148544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Found Pt. 2 (Challenge 1[Primavera])', 
-      author: 'Jăř-Jăř Bìñķś (Online) ✝', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/6599862113320960/5883228742533120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/found-pt-2-challenge-1primavera/6599862113320960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_546205135843777431062822'
     }, 
     {
       title: 'tape #1', 
