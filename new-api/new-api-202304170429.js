@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for ToTK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 38, 
+      votes: 39, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6476119340793856.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5824522445176832.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5648595778060288.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
