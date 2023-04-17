@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Don\'t Click Me', 
-      author: 'Sushi Coder', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5124185346326528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
-    }, 
-    {
       title: 'My form', 
       author: 'Neah Moses', 
       votes: 7, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
+    }, 
+    {
+      title: 'Don\'t Click Me', 
+      author: 'Sushi Coder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5124185346326528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
     {
       title: 'Lake of Virtue', 
