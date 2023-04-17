@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Spin-off of "Challenge: Book list database"', 
-      author: 'ls10349', 
+      title: 'Spin-off of "Challenge: Simple snowman"', 
+      author: 'rkv11.at', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5327027952730112/5064188277080064.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5327027952730112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1020961255041016472994030'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4582355449987072/4955332557455360.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-simple-snowman/4582355449987072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8918585192131803395629156'
     }, 
   ];
 };
