@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for ToTK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 47, 
+      votes: 48, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6530280388345856.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/4663814101712896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/4770495217319936.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 78, 
+      votes: 79, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/4950515416088576.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'tile flip game! (primavera round 1 entry)', 
+      author: 'sgh07', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5486694746079232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 61, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072/5705577042067456.png', 
       link: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'tile flip game! (primavera round 1 entry)', 
-      author: 'sgh07', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5486694746079232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
       title: 'Gradient() function', 
@@ -289,6 +289,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
+      title: 'Fire Sprite', 
+      author: 'Studious Argyle', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
+    }, 
+    {
       title: 'more levels? v(o.o)v', 
       author: 'ski', 
       votes: 126, 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/art-maker/4679843355869184/5164885320450048.png', 
       link: 'https://www.khanacademy.org/computer-programming/art-maker/4679843355869184', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Fire Sprite', 
-      author: 'Studious Argyle', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
     }, 
     {
       title: 'Connect 4', 
@@ -874,31 +874,31 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'a.alejandra.bengoechea', 
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Mitchell van Boekel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5258069568438272/5255124797931520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/5258069568438272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733319760955181553834936'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5697237557755904/6425683304955904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5697237557755904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7877541932546817532697882'
     }, 
     {
-      title: 'winston', 
-      author: 'Henry the rock', 
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'BENJAMINJ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/winston/5158653121576960/5127064543084544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/winston/5158653121576960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1132005814565464568969864'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5880364401999872/6527374784249856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5880364401999872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5502967593533618204325935'
     }, 
     {
-      title: 'Derivado de "Proyecto: Bola 8 mágica"', 
-      author: 'a.jorge.caveda', 
+      title: 'Derivado de "Hacer dibujos con código"', 
+      author: 'practica11', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6036861157163008/6492373678080000.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-bola-8-mgica/6036861157163008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_755157068617215903531097'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5879273371254784/6386229131395072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5879273371254784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_141441545045964112407998'
     }, 
   ];
 };
