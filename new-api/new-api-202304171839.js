@@ -1,6 +1,15 @@
 var LoadHotlistAPI = function() {
   return [
     {
+      title: 'Hyped for TotK? :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 57, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5487774049550336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
       votes: 46, 
@@ -8,15 +17,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'Hyped for TotK? :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 55, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5487774049550336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Dueler [Fight your Friends]', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Morse code', 
+      author: 'Aspen', 
+      votes: 13, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000/5032808465874944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
       title: 'for the goo 🌪 ', 
       author: '🎮gamer guy🎮🔴', 
       votes: 13, 
@@ -100,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'Morse code', 
-      author: 'Aspen', 
-      votes: 11, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000/5032808465874944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
       votes: 38, 
@@ -120,11 +120,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 92, 
+      votes: 93, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'the beach (animation)', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
-      title: 'the beach (animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'Primavera 100m Dash', 
+      author: 'VVhiteTiger', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
+    }, 
+    {
       title: 'Hacked', 
       author: 'Dojo Cat', 
       votes: 8, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
-      title: 'Primavera 100m Dash', 
-      author: 'VVhiteTiger', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
     }, 
     {
       title: 'Primavera!Magus FTW!', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
     }, 
     {
+      title: 'Arrowhead - A.p', 
+      author: 'Arrow.programming', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'Broccoli', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 4, 
@@ -350,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384/4952507987312640.png', 
       link: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'Arrowhead - A.p', 
-      author: 'Arrow.programming', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'cone illusion', 
@@ -440,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/6558824841658368.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_507508162012334851347690'
-    }, 
-    {
-      title: 'art maker', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/art-maker/4679843355869184/5164885320450048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/art-maker/4679843355869184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'oof', 
@@ -635,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/6232180096548864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/6541072366092288.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/inaya-towfik-hollow-square-calculator/5532210058018816/5678784499204096.png', 
       link: 'https://www.khanacademy.org/computer-programming/inaya-towfik-hollow-square-calculator/5532210058018816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1088816743014323181893635'
+    }, 
+    {
+      title: 'Harley Quinn', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/harley-quinn/6395142404882432/4789994670833664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/harley-quinn/6395142404882432', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
   ];
 };
