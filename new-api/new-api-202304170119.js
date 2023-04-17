@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_507508162012334851347690'
     }, 
     {
+      title: 'chicken', 
+      author: 'SavageSai', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6637762825732096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
+    }, 
+    {
       title: 'the doomsayer (animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 11, 
@@ -217,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'chicken', 
-      author: 'SavageSai', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6637762825732096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
-    }, 
-    {
       title: 'Sorted Manhattan Loops Demo for Platformers', 
       author: 'Henry', 
       votes: 10, 
@@ -284,7 +284,7 @@ var LoadHotlistAPI = function() {
       author: 'brave robot', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/5998160750362624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704/5101553779523584.png', 
       link: 'https://www.khanacademy.org/computer-programming/circling/6199363694280704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4447106839721557126774600'
     }, 
