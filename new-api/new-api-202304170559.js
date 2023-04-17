@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
     }, 
     {
+      title: 'Don\'t Click Me', 
+      author: 'Sushi Coder', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5124185346326528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
+    }, 
+    {
       title: 'Lake of Virtue', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 4, 
@@ -359,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6328420784193536.png', 
       link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
-    }, 
-    {
-      title: 'Don\'t Click Me', 
-      author: 'Sushi Coder', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5124185346326528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
     {
       title: 'everything stashy makes is NOT a failure.. :P comment if you agree =D', 
