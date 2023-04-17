@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 55, 
+      votes: 54, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5487774049550336.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
-      votes: 27, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
-      votes: 37, 
+      votes: 36, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6571951377399808.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
@@ -57,34 +57,34 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 19, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
+      title: 'what is happening(animation)', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 29, 
+      forks: 5, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeninganimation/4600605638443008/5181281962082304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-happeninganimation/4600605638443008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 14, 
+      votes: 12, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
-      title: 'what is happening(animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 29, 
-      forks: 6, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeninganimation/4600605638443008/5181281962082304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-happeninganimation/4600605638443008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'for the goo 🌪 ', 
       author: '🎮gamer guy🎮🔴', 
-      votes: 13, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5845912212783104.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
@@ -145,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
-      title: 'the beach (animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Alex Delegas', 
       votes: 11, 
@@ -172,13 +163,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Quiz Of Countries', 
-      author: 'Eisa S.', 
+      title: 'the beach (animation)', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Yorg [Pixel game!]', 
@@ -208,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1074390240362051919313135'
     }, 
     {
-      title: 'Don\'t Click Me', 
-      author: 'Sushi Coder', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5328420897865728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
-    }, 
-    {
       title: 'tile flip game! (primavera round 1 entry)', 
       author: 'sgh07', 
       votes: 11, 
@@ -235,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
-      title: 'Lake of Virtue', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/4759612508389376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
       title: 'New program', 
       author: 'Liam K.', 
       votes: 13, 
@@ -253,9 +226,36 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
+      title: 'Don\'t Click Me', 
+      author: 'Sushi Coder', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5328420897865728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
+    }, 
+    {
+      title: 'Lake of Virtue', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/4759612508389376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+    }, 
+    {
+      title: 'Quiz Of Countries', 
+      author: 'Eisa S.', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'Primavera 100m Dash', 
       author: 'VVhiteTiger', 
-      votes: 10, 
+      votes: 9, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'leyu.belachew', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392/5585717389737984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392/6377120378175488.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1058821291780867838233434'
     }, 
@@ -635,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/6232180096548864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/4621398917300224.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
@@ -856,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'MineKhan v1.0.0', 
+      author: 'Ninja Programming Spin-Offs', 
+      votes: 14, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024/5111273961603072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/minekhan-v100/6158918356353024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3433259094433108118132370'
+    }, 
+    {
       title: 'Yes', 
       author: 'Barfaboofis', 
       votes: 13, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216/5985247234932736.png', 
       link: 'https://www.khanacademy.org/computer-programming/final-scores/5206084467081216', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4391100538307580650220212'
-    }, 
-    {
-      title: 'Inaya Towfik: Hollow Square Calculator', 
-      author: 'inaya.towfik', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/inaya-towfik-hollow-square-calculator/5532210058018816/5678784499204096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/inaya-towfik-hollow-square-calculator/5532210058018816', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1088816743014323181893635'
     }, 
   ];
 };
