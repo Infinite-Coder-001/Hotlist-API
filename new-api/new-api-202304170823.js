@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
+      title: 'Primavera First Challenge', 
+      author: 'IZH1', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
+    }, 
+    {
       title: 'Sorted Manhattan Loops Demo for Platformers', 
       author: 'Henry', 
       votes: 12, 
@@ -233,15 +242,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'Primavera First Challenge', 
-      author: 'IZH1', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472/5445407787499520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-first-challenge/5467888787177472', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_797773915164293752310801'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
     }, 
     {
-      title: 'backround :D', 
-      author: 'LovelyPetals', 
-      votes: 3, 
+      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
+      author: 'maria.rodriguez335', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048/4528198236028928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/backround-d/6005454250754048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6318027399544832/5596796224323584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6318027399544832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_665021916522139082821371'
     }, 
   ];
 };
