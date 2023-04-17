@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'Primavera 100m Dash', 
+      author: 'VVhiteTiger', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
+    }, 
+    {
       title: 'Lake of Virtue', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 4, 
@@ -388,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
-      title: 'Primavera 100m Dash', 
-      author: 'VVhiteTiger', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
-    }, 
-    {
       title: 'Custom Button Maker!', 
       author: 'Aspen', 
       votes: 7, 
@@ -404,6 +404,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
+      title: 'Natural Disasters', 
+      author: 'Top_SubToGodlyBedwars', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288/6457508685463552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_623713505558763402362454'
     }, 
     {
       title: 'Primavera!Magus FTW!', 
@@ -604,13 +613,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1088816743014323181893635'
     }, 
     {
-      title: 'Natural Disasters', 
-      author: 'Top_SubToGodlyBedwars', 
-      votes: 2, 
+      title: 'I suck at pixel art animations :P', 
+      author: 'Wort-Head', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288/6457508685463552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_623713505558763402362454'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536/4795040997359616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'loading || sine demo', 
@@ -764,15 +773,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920/5919539335577600.png', 
       link: 'https://www.khanacademy.org/computer-programming/flags/5253291257937920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'I suck at pixel art animations :P', 
-      author: 'Wort-Head', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536/4795040997359616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Derivado de "Train Coming to Town"', 
