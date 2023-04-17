@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5018807652630528.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Spin-off of "Drawing more shapes with code"', 
-      author: '20whalfom', 
+      title: 'Spin-off of "Challenge: Write a Poem"', 
+      author: 'ahanap380', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5325538807037952/6659717113102336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5325538807037952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1004153879831712001364357'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5762571434246144/4568432147480576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-write-a-poem/5762571434246144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1013049519924354862511990'
     }, 
     {
-      title: 'snake', 
-      author: 'Paco van der Vliet', 
+      title: 'Spin-off of "Challenge: Book list database"', 
+      author: 'Sarah  Kas', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6199843455549440/6475370472980480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/snake/6199843455549440', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838352115978973475388107'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6392840327577600/5653696697647104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6392840327577600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8486573401944257048145984'
     }, 
   ];
 };
