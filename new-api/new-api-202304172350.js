@@ -12,16 +12,16 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 69, 
+      votes: 68, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6020683894407168.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5581896982773760.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 31, 
+      votes: 30, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
-      title: 'Aequor Rush ', 
-      author: 'LightningCoder', 
-      votes: 44, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'Lazer maze', 
       author: 'cjanatik', 
       votes: 23, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
+    }, 
+    {
+      title: 'Aequor Rush ', 
+      author: 'LightningCoder', 
+      votes: 43, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Wreck Racer (GAME)', 
@@ -109,15 +109,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'the beach (animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'botw pixel art with navy background for fromage &#60;3', 
       author: 'vw_beetlesultimategreatness', 
       votes: 18, 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'the beach (animation)', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -235,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Alex Delegas', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632/6215692698566656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
-    }, 
-    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 7, 
@@ -253,13 +244,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
     {
-      title: 'Raise an Opes', 
-      author: 'Holly Rebbeck', 
-      votes: 16, 
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Alex Delegas', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632/6215692698566656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
     }, 
     {
       title: 'Rotating 6-Sided Colored Cube', 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888/4953605779275776.png', 
       link: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Raise an Opes', 
+      author: 'Holly Rebbeck', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
       title: 'Hiding in Paridise', 
@@ -323,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/6477771728797696.png', 
       link: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
-    }, 
-    {
-      title: 'CAVIOR [Teaser trailer]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Magus on a Cliff', 
@@ -404,6 +395,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'CAVIOR [Teaser trailer]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Crazy Baby', 
