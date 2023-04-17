@@ -131,7 +131,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 12, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6122384995434496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5241299633750016.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
