@@ -73,15 +73,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Lazer maze', 
-      author: 'cjanatik', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
       title: 'for the goo 🌪 ', 
       author: '🎮gamer guy🎮🔴', 
       votes: 12, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5845912212783104.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Lazer maze', 
+      author: 'cjanatik', 
+      votes: 11, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
       title: 'apex\'s gaming pc', 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
-      title: 'Rotating 6-Sided Colored Cube', 
-      author: 'dlonmsk51', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504/4645817215664128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1074390240362051919313135'
-    }, 
-    {
       title: 'tile flip game! (primavera round 1 entry)', 
       author: 'sgh07', 
       votes: 11, 
@@ -206,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5687772053815296.png', 
       link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
-      title: 'Hacked', 
-      author: 'Dojo Cat', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888/4953605779275776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
       title: 'New program', 
@@ -235,13 +217,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
     {
-      title: 'Lake of Virtue', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 10, 
+      title: 'Hacked', 
+      author: 'Dojo Cat', 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/4759612508389376.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888/4953605779275776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
+      title: 'Rotating 6-Sided Colored Cube', 
+      author: 'dlonmsk51', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504/4645817215664128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1074390240362051919313135'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
+    }, 
+    {
+      title: 'Lake of Virtue', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/4759612508389376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Primavera!Magus FTW!', 
@@ -437,7 +437,7 @@ var LoadHotlistAPI = function() {
       author: 'Neah Moses', 
       votes: 7, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/6558824841658368.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416/4993841410392064.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-form/4769816243388416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_507508162012334851347690'
     }, 
@@ -626,7 +626,7 @@ var LoadHotlistAPI = function() {
       author: 'leyu.belachew', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392/6377120378175488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392/5573494785228800.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-event-invite/5610422687547392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1058821291780867838233434'
     }, 
@@ -635,7 +635,7 @@ var LoadHotlistAPI = function() {
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/4621398917300224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/5009621212512256.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
