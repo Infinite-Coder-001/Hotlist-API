@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 34, 
+      votes: 33, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -32,14 +32,14 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 23, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5658158153646080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/4770495217319936.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'chicken', 
       author: 'SavageSai', 
-      votes: 17, 
+      votes: 16, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/5821137499242496.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
@@ -84,19 +84,10 @@ var LoadHotlistAPI = function() {
     {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
-      votes: 24, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5018807652630528.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'kitbull(animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072/5705577042067456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -121,19 +112,19 @@ var LoadHotlistAPI = function() {
       title: 'Crazy Baby', 
       author: 'Fritz Chaucer', 
       votes: 14, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5042357923004416.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
-      title: 'New program', 
-      author: 'Liam K.', 
+      title: 'kitbull(animation)', 
+      author: '🎮gamer guy🎮🔴', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072/5705577042067456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/kitbullanimation/6619478571139072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Gradient() function', 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384/5825545511419904.png', 
       link: 'https://www.khanacademy.org/computer-programming/tired-but-triumphant/4787413831696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_366717253705725163244114'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Liam K.', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
       title: 'my skins :)', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
-      title: 'Primavera!Magus FTW!', 
-      author: '✨LuckyFaith✨', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/5653830470778880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
-    }, 
-    {
       title: 'My form', 
       author: 'Neah Moses', 
       votes: 7, 
@@ -325,13 +316,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
     }, 
     {
-      title: 'Natural Disasters', 
-      author: 'Top_SubToGodlyBedwars', 
+      title: 'Primavera!Magus FTW!', 
+      author: '✨LuckyFaith✨', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288/6457508685463552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_623713505558763402362454'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/5653830470778880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
     }, 
     {
       title: 'minecraft stuff', 
@@ -433,6 +424,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'Natural Disasters', 
+      author: 'Top_SubToGodlyBedwars', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288/6457508685463552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/natural-disasters/6740645739020288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_623713505558763402362454'
+    }, 
+    {
       title: 'spiral', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 3, 
@@ -458,24 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784/4684429818904576.png', 
       link: 'https://www.khanacademy.org/computer-programming/not-so-lonely-anymore/5884574971510784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
-      title: 'Hacked', 
-      author: 'Dojo Cat', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888/6530531719430144.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'I suck at pixel art animations :P', 
-      author: 'Wort-Head', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536/4795040997359616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: '"Movie Posters" i-Create Competition! (April 17 - April 24)', 
@@ -593,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/6177942016409600.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'I suck at pixel art animations :P', 
+      author: 'Wort-Head', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536/4795040997359616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Yes', 
@@ -874,31 +865,40 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4050845583516060544777948'
     }, 
     {
-      title: '"მეტი ფიგურის ხატვა კოდით"-ის სპინ-ოფები', 
-      author: 'KHATIA', 
-      votes: 1, 
+      title: 'War Of Avatars Pt.1', 
+      author: 'NotMe87', 
+      votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-/5430699068014592/6099039532924928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-/5430699068014592', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4932306480423402197578033'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt1/5951927147085824/5555006200922112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt1/5951927147085824', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
-      title: 'Spin-off of "Project: Design a store database"', 
-      author: '26NoahB', 
+      title: 'Spin-off of "Creating a table and inserting data"', 
+      author: 'Mitchell van Boekel', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6171063685005312/4864178159665152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6171063685005312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_993714585957914946021177'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5697237557755904/6425683304955904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-creating-a-table-and-inserting-data/5697237557755904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7877541932546817532697882'
     }, 
     {
-      title: 'Derivação de "Projeto: Estante de Livros"', 
-      author: 'manos.lara27', 
+      title: 'Spin-off of "Challenge: Favorite Fruits"', 
+      author: 'BENJAMINJ', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estante-de-livros/5551430464487424/5887677984718848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivao-de-projeto-estante-de-livros/5551430464487424', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_517077090105259788272106'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5880364401999872/6527374784249856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-favorite-fruits/5880364401999872', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5502967593533618204325935'
+    }, 
+    {
+      title: 'Derivado de "Hacer dibujos con código"', 
+      author: 'practica11', 
+      votes: 1, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5879273371254784/6386229131395072.png', 
+      link: 'https://www.khanacademy.org/computer-programming/derivado-de-hacer-dibujos-con-cdigo/5879273371254784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_141441545045964112407998'
     }, 
   ];
 };
