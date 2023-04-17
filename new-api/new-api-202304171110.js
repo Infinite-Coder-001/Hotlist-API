@@ -347,7 +347,7 @@ var LoadHotlistAPI = function() {
       author: 'apex alt', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6455704253939712/6234981019205632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6455704253939712/5120016812130304.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6455704253939712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
@@ -883,22 +883,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_346785707828696938864219'
     }, 
     {
-      title: 'Spin-off of "Project: What\'s for dinner?"', 
-      author: 'ktol9137', 
+      title: 'Spin-off of "Drawing more shapes with code"', 
+      author: '20whalfom', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6577481240068096/5056664366792704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6577481240068096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1187252111989392526814792'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5325538807037952/6659717113102336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-drawing-more-shapes-with-code/5325538807037952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1004153879831712001364357'
     }, 
     {
-      title: 'Spin-off z "Wyzwanie: Słoneczny śnieżny dzień"', 
-      author: 'Mari&#60;3', 
+      title: 'snake', 
+      author: 'Paco van der Vliet', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5726379087020032/5007206006439936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-soneczny-nieny-dzie/5726379087020032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6684013664385236610502077'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/snake/6199843455549440/6475370472980480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/snake/6199843455549440', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838352115978973475388107'
     }, 
   ];
 };
