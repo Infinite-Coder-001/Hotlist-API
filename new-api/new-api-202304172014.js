@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 38, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6265485185564672.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6571951377399808.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 18, 
+      votes: 17, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
