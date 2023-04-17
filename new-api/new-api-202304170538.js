@@ -3,9 +3,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for ToTK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 39, 
+      votes: 41, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6476119340793856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6530280388345856.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'chicken', 
+      author: 'SavageSai', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/5821137499242496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
+    }, 
+    {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 61, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
       link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'chicken', 
-      author: 'SavageSai', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/5821137499242496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
       title: '"Tired but Triumphant..."', 
@@ -215,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
       link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
+      title: 'tile flip game! (primavera round 1 entry)', 
+      author: 'sgh07', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5486694746079232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -365,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/4688399039774720.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832/6426469493686272.png', 
       link: 'https://www.khanacademy.org/computer-programming/everything-stashy-makes-is-not-a-failure-p-comment-if-you-agree-d/4969807176056832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -377,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-2/5821273033981952/5615465507635200.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-click-2/5821273033981952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'tile flip game! (primavera round 1 entry)', 
-      author: 'sgh07', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5486694746079232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
       title: 'Custom Button Maker!', 
