@@ -138,7 +138,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'Liam K.', 
-      votes: 7, 
+      votes: 8, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
@@ -415,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
     }, 
     {
+      title: 'spiral', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248/5053461998911488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'me making programs(animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 3, 
@@ -620,15 +629,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cone-illusion/5835258546405376/6213056318455808.png', 
       link: 'https://www.khanacademy.org/computer-programming/cone-illusion/5835258546405376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
-    }, 
-    {
-      title: 'spiral', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248/5053461998911488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'A teaser for something i\'m making :)', 
