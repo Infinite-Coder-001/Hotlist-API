@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 21, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 38, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'Aequor Rush ', 
-      author: 'LightningCoder', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5686180432887808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'Iso', 
       author: 'KarLlr', 
       votes: 76, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5891808099090432.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
+      title: 'Aequor Rush ', 
+      author: 'LightningCoder', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5686180432887808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Sweet Dreams', 
@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Sorted Manhattan Loops Demo for Platformers', 
-      author: 'Henry', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5677739748409344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
-    }, 
-    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 76, 
@@ -199,13 +190,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
     }, 
     {
-      title: 'Arrowhead - A.p', 
-      author: 'Arrow.programming', 
+      title: 'Sorted Manhattan Loops Demo for Platformers', 
+      author: 'Henry', 
       votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568/5677739748409344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sorted-manhattan-loops-demo-for-platformers/5432858899693568', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_736607703047525558741282'
     }, 
     {
       title: 'more levels? v(o.o)v', 
@@ -224,6 +215,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640/4569229132349440.png', 
       link: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
+    }, 
+    {
+      title: 'Arrowhead - A.p', 
+      author: 'Arrow.programming', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520/5586105052479488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/arrowhead-ap/4970696460779520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'minecraft stuff', 
@@ -514,15 +514,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
-      title: 'Primavera 100m Dash', 
-      author: 'VVhiteTiger', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
-    }, 
-    {
       title: 'MineKhan v1.0.0', 
       author: 'Ninja Programming Spin-Offs', 
       votes: 12, 
@@ -554,7 +545,7 @@ var LoadHotlistAPI = function() {
       author: '✨LuckyFaith✨', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/5653830470778880.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/5856050617303040.png', 
       link: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/backgrounds/6259810694905856/6738089528836096.png', 
       link: 'https://www.khanacademy.org/computer-programming/backgrounds/6259810694905856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'attempt for cool pixel art', 
+      author: 'Blake Meloche (T1)', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056/5385416086962176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/attempt-for-cool-pixel-art/6085701151277056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1634152306159356231580566'
     }, 
   ];
 };
