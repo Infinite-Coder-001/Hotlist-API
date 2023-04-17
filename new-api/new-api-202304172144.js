@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
       votes: 40, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
@@ -49,7 +49,7 @@ var LoadHotlistAPI = function() {
       title: 'Lazer maze', 
       author: 'cjanatik', 
       votes: 21, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
+      title: 'Iso', 
+      author: 'KarLlr', 
+      votes: 97, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
+      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
       votes: 38, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5533855055659008.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Iso', 
-      author: 'KarLlr', 
-      votes: 96, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
       title: 'The Adventures of Aequor [Game]', 
@@ -560,7 +560,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The Cheese', 
-      author: 'Ultra Macknus (Offline)', 
+      author: 'Ultra Macknus (ONLINE-ish)', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-cheese/5389436847439872/5268597003042816.png', 
