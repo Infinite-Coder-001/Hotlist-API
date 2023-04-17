@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6721721676906496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/4803336953184256.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
     }, 
     {
-      title: 'Derivado de "Desafío: escribe un poema"', 
-      author: 'Paula Lupiáñez García', 
+      title: 'Inspirováno programem "Základy HTML"', 
+      author: 'Kateřina Krupičková', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6423993503760384/6635334080446464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-desafo-escribe-un-poema/6423993503760384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_209887180440461512888058'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-zklady-html/6434621207396352/4935612659712000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-zklady-html/6434621207396352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_829061402365714872941860'
     }, 
   ];
 };
