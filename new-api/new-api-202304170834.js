@@ -104,7 +104,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/4643626044145664.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/4803336953184256.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
+      title: 'Aequor Graphic', 
+      author: '♢ Waves ♢', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4935322841694208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
+    }, 
+    {
       title: 'tile flip game! (primavera round 1 entry)', 
       author: 'sgh07', 
       votes: 6, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5486694746079232.png', 
       link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
-      title: 'Aequor Graphic', 
-      author: '♢ Waves ♢', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/4935322841694208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
       title: 'my skins :)', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
     }, 
     {
-      title: 'Derivado de "Proyecto: ¿qué hay de cena?"', 
-      author: 'maria.rodriguez335', 
+      title: 'Inspirováno programem "Základy HTML"', 
+      author: 'Kateřina Krupičková', 
       votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6318027399544832/5596796224323584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/derivado-de-proyecto-qu-hay-de-cena/6318027399544832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_665021916522139082821371'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-zklady-html/6434621207396352/4935612659712000.png', 
+      link: 'https://www.khanacademy.org/computer-programming/inspirovno-programem-zklady-html/6434621207396352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_829061402365714872941860'
     }, 
   ];
 };
