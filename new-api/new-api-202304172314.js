@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 67, 
+      votes: 66, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5581896982773760.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -113,7 +113,7 @@ var LoadHotlistAPI = function() {
       author: 'vw_beetlesultimategreatness', 
       votes: 17, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/6177942016409600.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6692270926774272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
       votes: 53, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6692270926774272.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'Lake of Virtue', 
@@ -289,20 +289,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
     {
-      title: 'golden hour', 
-      author: 'boba bear', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/6185824623575040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
-    }, 
-    {
       title: 'Don\'t Click Me', 
       author: 'Sushi Coder', 
       votes: 14, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/6294708486979584.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/5349461674213376.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
@@ -332,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384/4952507987312640.png', 
       link: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'golden hour', 
+      author: 'boba bear', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/6185824623575040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
     {
       title: 'map generator', 
@@ -518,7 +518,7 @@ var LoadHotlistAPI = function() {
       author: 'Horizon', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/5224543825477632.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
