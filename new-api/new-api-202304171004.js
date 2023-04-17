@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/5686180432887808.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
@@ -892,13 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_309852650985411500797192'
     }, 
     {
-      title: 'pgyzkyb', 
-      author: 'Toby', 
-      votes: 3, 
+      title: 'Nuevo programa', 
+      author: 'nolan.lopez', 
+      votes: 1, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pgyzkyb/4553495257858048/4622465277149184.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pgyzkyb/4553495257858048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7473864816752766579507167'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nuevo-programa/4672894971199488/6269243416166400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nuevo-programa/4672894971199488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_181806272785626152857750'
     }, 
   ];
 };
