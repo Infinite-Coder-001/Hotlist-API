@@ -217,6 +217,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Pizza Maker Re-Release Added New Stuff', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-re-release-added-new-stuff/5072135845625856/6032797916774400.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-re-release-added-new-stuff/5072135845625856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Morse code', 
       author: 'Aspen', 
       votes: 16, 
@@ -848,7 +857,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The Cheese', 
-      author: 'Ultra Macknus (Offline)', 
+      author: 'Ultra Macknus (ONLINE)', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-cheese/5389436847439872/5268597003042816.png', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032/5521846360653824.png', 
       link: 'https://www.khanacademy.org/computer-programming/click-that-block-cheating-blocked/5544629408940032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_27450968667715698478922'
-    }, 
-    {
-      title: 'grow your avatar', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
-      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
   ];
 };
