@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Khan Krazy', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864/5583861460549632.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864/5571914975461376.png', 
       link: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4468589950279265075952746'
     }, 
