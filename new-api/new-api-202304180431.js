@@ -433,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
+      title: 'Spin-off of "Challenge: Waving snowman"', 
+      author: 'mykemyke', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400/4649193294839808.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_484642718967074734718666'
+    }, 
+    {
       title: 'Primavera Challenge 1', 
       author: 'schuyler.#GO TEAM ALTUM!', 
       votes: 5, 
@@ -514,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Spin-off of "Challenge: Waving snowman"', 
-      author: 'mykemyke', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400/4649193294839808.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_484642718967074734718666'
-    }, 
-    {
       title: 'drawwinstons aren\'t randomized when in the video', 
       author: 'slagelal2024', 
       votes: 8, 
@@ -557,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-tree/6105540368580608/4700322733015040.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-tree/6105540368580608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'Re-Cinos_Hedshock', 
+      author: 'NullVoid', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/re-cinos_hedshock/6072306750504960/5772663223271424.png', 
+      link: 'https://www.khanacademy.org/computer-programming/re-cinos_hedshock/6072306750504960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_991847698640262183368237'
     }, 
     {
       title: 'New program', 
@@ -701,15 +710,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
       link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Re-Cinos_Hedshock', 
-      author: 'NullVoid', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/re-cinos_hedshock/6072306750504960/5772663223271424.png', 
-      link: 'https://www.khanacademy.org/computer-programming/re-cinos_hedshock/6072306750504960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_991847698640262183368237'
     }, 
     {
       title: 'rocha_memory', 
