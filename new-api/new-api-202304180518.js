@@ -55,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Aequor Platformer', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'Aequor: The Terror of the Bathtubs', 
       author: 'AGnawKneeMouse Coder', 
       votes: 19, 
@@ -71,6 +62,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/5938745112313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
+    }, 
+    {
+      title: 'Aequor Platformer', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Wreck Racer (GAME)', 
@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
-      title: 'Magus on a Cliff', 
-      author: 'Horizon', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
-    }, 
-    {
       title: 'Lake of Virtue', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 19, 
@@ -215,6 +206,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
+      title: 'Magus on a Cliff', 
+      author: 'Horizon', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
       title: 'apex\'s gaming pc', 
@@ -471,7 +471,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor Graphic', 
       author: '♢ Waves ♢', 
-      votes: 16, 
+      votes: 15, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5914253573013504.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
