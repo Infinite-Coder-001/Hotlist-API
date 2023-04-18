@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: 'for the goo 🌪 ', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5845912212783104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
       votes: 14, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
+    }, 
+    {
+      title: 'for the goo 🌪 ', 
+      author: '🎮gamer guy🎮🔴', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5845912212783104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'what is happening(animation)', 
