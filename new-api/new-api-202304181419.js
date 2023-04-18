@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 24, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5684374835347456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
-      title: 'listening to music and vibin', 
-      author: 'ÐoɠIovɛɼ', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880/6488332390678528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
-    }, 
-    {
       title: 'Lake of Virtue', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 19, 
@@ -246,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 104, 
+      votes: 103, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -316,13 +307,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
-      author: 'Velvet', 
-      votes: 5, 
+      title: 'listening to music and vibin', 
+      author: 'ÐoɠIovɛɼ', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880/6488332390678528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
     }, 
     {
       title: 'Hacked', 
@@ -371,15 +362,6 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
-      author: 'Wort-Head', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672/6552673618018304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
-    }, 
-    {
-      title: 'New program', 
       author: 'Liam K.', 
       votes: 14, 
       forks: 0, 
@@ -413,6 +395,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712/6477771728797696.png', 
       link: 'https://www.khanacademy.org/computer-programming/primaveramagus-ftw/5955302815219712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Wort-Head', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672/6552673618018304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
       title: 'Spin-off of "Challenge: Waving snowman"', 
@@ -485,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720/5666482035146752.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-skins/4602566802718720', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
+      author: 'Velvet', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Crazy Baby', 
@@ -640,24 +640,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
     }, 
     {
-      title: 'Movie poster for I create', 
-      author: 'RomanStarCoder #I-create', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-poster-for-i-create/5963298676981760/5839285615116288.png', 
-      link: 'https://www.khanacademy.org/computer-programming/movie-poster-for-i-create/5963298676981760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_86348712295346749844962'
-    }, 
-    {
-      title: 'oof', 
-      author: 'LovelyPetals', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656/5581613187776512.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'macaroni', 
       author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 3, 
@@ -730,6 +712,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
+      title: 'oof', 
+      author: 'LovelyPetals', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656/5581613187776512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Click that block!!!    (Cheating blocked)', 
       author: 'Speedyspeedcuber', 
       votes: 81, 
@@ -800,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304/4755947936595968.png', 
       link: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
+    }, 
+    {
+      title: 'Movie poster for I create', 
+      author: 'RomanStarCoder #I-create forever!', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/movie-poster-for-i-create/5963298676981760/5839285615116288.png', 
+      link: 'https://www.khanacademy.org/computer-programming/movie-poster-for-i-create/5963298676981760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_86348712295346749844962'
     }, 
     {
       title: 'Found Pt. 2 (Challenge 1[Primavera])', 
