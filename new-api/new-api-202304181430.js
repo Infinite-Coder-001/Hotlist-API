@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
-      votes: 39, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
       votes: 47, 
@@ -82,13 +91,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 20, 
+      title: 'An Avatar\'s Journey [PRIMAVERA]', 
+      author: 'Fireball my dear sir ✝ #CinisFTW', 
+      votes: 16, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'for the goo 🌪 ', 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
-    }, 
-    {
-      title: 'An Avatar\'s Journey [PRIMAVERA]', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'what is happening(animation)', 
@@ -163,6 +163,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'The Respective Domains of the 2023 Primavera Avatars', 
+      author: 'Jake K.', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
+    }, 
+    {
       title: 'the beach (animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 16, 
@@ -192,20 +201,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Magus on a Cliff', 
       author: 'Horizon', 
-      votes: 11, 
+      votes: 12, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
-    }, 
-    {
-      title: 'The Respective Domains of the 2023 Primavera Avatars', 
-      author: 'Jake K.', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
       title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
@@ -246,7 +246,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 104, 
+      votes: 105, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
     }, 
     {
+      title: 'tile flip game! (primavera round 1 entry)', 
+      author: 'sgh07', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5687772053815296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
       votes: 38, 
@@ -291,20 +300,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sweet Dreams', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
-      votes: 38, 
+      votes: 39, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
-      title: 'tile flip game! (primavera round 1 entry)', 
-      author: 'sgh07', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/5687772053815296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
       title: 'Yorg [Pixel game!]', 
@@ -460,6 +460,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Shovel knight pixel art', 
+      author: 'cjcool', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art/5195726205534208/6328368682549248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art/5195726205534208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
+    }, 
+    {
       title: '"Tired but Triumphant..."', 
       author: 'Dylan', 
       votes: 21, 
@@ -532,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
     }, 
     {
-      title: 'Shovel knight pixel art', 
-      author: 'cjcool', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art/5195726205534208/6328368682549248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/shovel-knight-pixel-art/5195726205534208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
-    }, 
-    {
       title: 'cone illusion', 
       author: 'Logix Indie', 
       votes: 7, 
@@ -566,6 +566,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640/4569229132349440.png', 
       link: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
+    }, 
+    {
+      title: 'My Skin  | the wolf. | skins and characters', 
+      author: 'Wolf🐺', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-skin-the-wolf-skins-and-characters/4527079858421760/4833365888122880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-skin-the-wolf-skins-and-characters/4527079858421760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'Arrowhead - A.p', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/woiler-a-rect-animal/5607732049920000/5191590563069952.png', 
       link: 'https://www.khanacademy.org/computer-programming/woiler-a-rect-animal/5607732049920000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309032160336871066926004'
-    }, 
-    {
-      title: 'I suck at pixel art animations :P', 
-      author: 'Wort-Head', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536/4795040997359616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-suck-at-pixel-art-animations-p/4728261302337536', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
   ];
 };
