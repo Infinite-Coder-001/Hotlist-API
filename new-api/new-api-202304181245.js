@@ -139,7 +139,7 @@ var LoadHotlistAPI = function() {
       title: 'botw pixel art with navy background for fromage &#60;3', 
       author: 'vw_beetlesultimategreatness', 
       votes: 22, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
@@ -410,7 +410,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase #VirtusVictory', 
       votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-no-look/6674707891142656/4588099800973312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-no-look/6674707891142656/5165702916128768.png', 
       link: 'https://www.khanacademy.org/computer-programming/wip-no-look/6674707891142656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -730,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Blades of Virtue', 
+      author: 'Green Leaf', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blades-of-virtue/5897535169544192/6189100366610432.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blades-of-virtue/5897535169544192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_927132787178726492299650'
+    }, 
+    {
       title: 'rocha_memory', 
       author: 'lucas_rocha', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/casita-cubica/6210856758329344/6278524437839872.png', 
       link: 'https://www.khanacademy.org/computer-programming/casita-cubica/6210856758329344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
-    }, 
-    {
-      title: 'me making programs(animation)', 
-      author: '🎮gamer guy🎮🔴', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/me-making-programsanimation/4551629455278080/5274349348372480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/me-making-programsanimation/4551629455278080', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
   ];
 };
