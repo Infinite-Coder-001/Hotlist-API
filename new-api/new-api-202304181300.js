@@ -298,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'CAVIOR [Teaser trailer]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
       title: 'Hacked', 
       author: 'Dojo Cat', 
       votes: 10, 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/6185824623575040.png', 
       link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
+    }, 
+    {
+      title: 'CAVIOR [Teaser trailer]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Rotating 6-Sided Colored Cube', 
