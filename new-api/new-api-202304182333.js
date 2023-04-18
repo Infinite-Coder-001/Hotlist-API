@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Penta Sweeper', 
+      author: 'Logix Indie', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
+    }, 
+    {
       title: 'Raising Virtus', 
       author: 'Reflex', 
       votes: 27, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/5938745112313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'Penta Sweeper', 
-      author: 'Logix Indie', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
       title: 'Tribute to BEx [read code]', 
@@ -739,6 +739,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
     }, 
     {
+      title: 'This is how it feels.', 
+      author: 'Wolf🐺', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
+    }, 
+    {
       title: 'your will be done in the rain or sun', 
       author: 'apex', 
       votes: 66, 
@@ -755,6 +764,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936/6719695660302336.png', 
       link: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
+    }, 
+    {
+      title: 'MOSAICO 5', 
+      author: 'JS ULI', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mosaico-5/4785240813125632/6278889493282816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mosaico-5/4785240813125632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
     }, 
     {
       title: 'Crazy Baby', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320/4891456503595008.png', 
       link: 'https://www.khanacademy.org/computer-programming/gradient-function/6466525566648320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_278079590192922497111485'
-    }, 
-    {
-      title: 'squar', 
-      author: 'RedSus#Magus', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/squar/6671886835826688/6656514946547712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/squar/6671886835826688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'zelda', 
-      author: 'jase ramsey', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zelda/5842835439140864/4566991924150272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zelda/5842835439140864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387462093482996634298143'
     }, 
   ];
 };
