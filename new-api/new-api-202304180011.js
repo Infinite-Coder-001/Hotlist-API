@@ -55,18 +55,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 72, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
-    }, 
-    {
       title: 'chicken', 
       author: 'SavageSai', 
-      votes: 32, 
+      votes: 33, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
@@ -75,11 +66,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor: The Terror of the Bathtubs', 
       author: 'AGnawKneeMouse Coder', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/5938745112313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
+    }, 
+    {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 72, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'what is happening(animation)', 
@@ -118,6 +118,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Quiz Of Countries', 
+      author: 'Eisa S.', 
+      votes: 14, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'botw pixel art with navy background for fromage &#60;3', 
       author: 'vw_beetlesultimategreatness', 
       votes: 18, 
@@ -127,13 +145,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Quiz Of Countries', 
-      author: 'Eisa S.', 
+      title: 'The Adventures of Aequor [Game]', 
+      author: '▪Dipper98▪', 
       votes: 13, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Morse code', 
@@ -145,24 +163,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
-      title: 'The Adventures of Aequor [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
       votes: 53, 
@@ -170,6 +170,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5434704896770048.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
+    }, 
+    {
+      title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
+      author: 'ⱠeaferStudios', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
       title: 'Iso', 
@@ -208,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
-      title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
-      author: 'ⱠeaferStudios', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
-    }, 
-    {
       title: 'tile flip game! (primavera round 1 entry)', 
       author: 'sgh07', 
       votes: 14, 
@@ -251,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
       link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
+    }, 
+    {
+      title: 'Magus on a Cliff', 
+      author: 'Horizon', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
       title: 'golden hour', 
@@ -332,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
       link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'Magus on a Cliff', 
-      author: 'Horizon', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
       title: 'Broccoli', 
@@ -596,7 +596,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'The Cheese', 
-      author: 'Ultra Macknus (Offline-ish)', 
+      author: 'Ultra Macknus (ONLINE)', 
       votes: 3, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-cheese/5389436847439872/5268597003042816.png', 
@@ -674,6 +674,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320/4603076049944576.png', 
       link: 'https://www.khanacademy.org/computer-programming/more-levels-voov/6324397381304320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'Please...', 
+      author: 'Invisible Bob', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/please/6537057116930048/6171108379508736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/please/6537057116930048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4357452902529547972393951'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/announcement/5631947612405760/6516499390185472.png', 
       link: 'https://www.khanacademy.org/computer-programming/announcement/5631947612405760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714780036830891967670231'
-    }, 
-    {
-      title: 'Spin-off of "Challenge:  snowy night" of suaron dun dun duuu n', 
-      author: 'AtticusJ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-snowy-night-of-suaron-dun-dun-duuu-n/4778185196879872/4653481182150656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-snowy-night-of-suaron-dun-dun-duuu-n/4778185196879872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_291617225565855441647683'
     }, 
   ];
 };
