@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 50, 
+      votes: 49, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 37, 
+      votes: 36, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
@@ -129,7 +129,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'for the goo 🌪 ', 
       author: '🎮gamer guy🎮🟢', 
-      votes: 25, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5960952685314048.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
@@ -156,7 +156,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 77, 
+      votes: 76, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
@@ -307,12 +307,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Apartment Buildings #Magus', 
+      title: 'Quicky Graphic #MAGUS', 
       author: 'Cooke\'s', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336/4706714030227456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quicky-graphic-magus/6113895556366336/4645268441317376.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quicky-graphic-magus/6113895556366336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191657490399007636732524'
     }, 
     {
@@ -595,15 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'Sapling Wars (v. 1)', 
-      author: 'CodeEngineer', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936/6719695660302336.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
-    }, 
-    {
       title: 'Crazy Baby', 
       author: 'Fritz Chaucer', 
       votes: 15, 
@@ -647,15 +638,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-sun-moving-around-earth/6204121041649664/5480202089316352.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-sun-moving-around-earth/6204121041649664', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_649702270959678261296687'
-    }, 
-    {
-      title: 'khan academy\'s new logo', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/khan-academys-new-logo/5989839804874752/5036427781128192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/khan-academys-new-logo/5989839804874752', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Yay', 
@@ -802,15 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
     }, 
     {
-      title: 'Original Collision Test [2016]', 
-      author: 'reumarks', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304/4755947936595968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
-    }, 
-    {
       title: 'drawwinstons aren\'t randomized when in the video', 
       author: 'slagelal2024', 
       votes: 8, 
@@ -818,6 +791,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640/4569229132349440.png', 
       link: 'https://www.khanacademy.org/computer-programming/drawwinstons-arent-randomized-when-in-the-video/6732822263152640', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_418376521268055817302265'
+    }, 
+    {
+      title: 'Sapling Wars (v. 1)', 
+      author: 'CodeEngineer', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936/6719695660302336.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sapling-wars-v-1/5806769323687936', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1042098132686409870152592'
     }, 
     {
       title: 'My Skin  | the wolf. | skins and characters', 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza/5886962235129856/6670339875848192.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza/5886962235129856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1112202282244428717822735'
+    }, 
+    {
+      title: 'oof', 
+      author: 'LovelyPetals', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656/5581613187776512.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oof/5321289876422656', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
+      title: 'grow your avatar', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760/5567168835272704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/grow-your-avatar/6446087184629760', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
   ];
 };
