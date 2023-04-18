@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
+      title: 'Raise an Opes', 
+      author: 'Holly Rebbeck', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🔴', 
       votes: 38, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5954328763613184.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
-      title: 'Raise an Opes', 
-      author: 'Holly Rebbeck', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
       title: 'Sweet Dreams', 
@@ -512,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040/5942447080521728.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-doomsayer-animation/5645479779287040', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Primavera Challenge 1', 
+      author: 'schuyler.#GO TEAM ALTUM!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/5502167592255488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
     }, 
     {
       title: 'drawwinstons aren\'t randomized when in the video', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792/5596462634549248.png', 
       link: 'https://www.khanacademy.org/computer-programming/fright/6651152612769792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
-    }, 
-    {
-      title: 'Dividing Aggregating Walkers', 
-      author: 'daniel‮', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400/5262359234134016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dividing-aggregating-walkers/4961287462502400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
   ];
 };
