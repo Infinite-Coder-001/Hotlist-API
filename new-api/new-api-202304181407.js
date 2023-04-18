@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 34, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Raising Virtus', 
       author: 'Reflex', 
-      votes: 19, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
       link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
+      title: 'An Avatar\'s Journey [PRIMAVERA]', 
+      author: 'Fireball my dear sir ✝ #CinisFTW', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
       title: 'what is happening(animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 40, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
-      title: 'An Avatar\'s Journey [PRIMAVERA]', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'Hiding in Paridise', 
