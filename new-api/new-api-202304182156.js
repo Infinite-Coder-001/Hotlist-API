@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 39, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 46, 
+      votes: 47, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
@@ -47,7 +47,7 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'Aequor Platformer', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🟢', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
+      author: 'ⱠeaferStudios', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 11, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336/4706714030227456.png', 
       link: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191657490399007636732524'
-    }, 
-    {
-      title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
-      author: 'ⱠeaferStudios', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
       title: 'Lake of Virtue', 
@@ -757,6 +757,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
     {
+      title: 'Some graphics for something', 
+      author: 'Radar', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704/5817566410096640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
       title: 'DON\'T CLICK 2 ', 
       author: 'LovelyPetals', 
       votes: 10, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/squar/6671886835826688/6656514946547712.png', 
       link: 'https://www.khanacademy.org/computer-programming/squar/6671886835826688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287661105799232762144759'
-    }, 
-    {
-      title: 'zelda', 
-      author: 'jase ramsey', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/zelda/5842835439140864/4566991924150272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/zelda/5842835439140864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387462093482996634298143'
     }, 
   ];
 };
