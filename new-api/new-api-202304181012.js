@@ -473,7 +473,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 14, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6514745088983040.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6263130503299072.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
