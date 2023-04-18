@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
+      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
+      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
+    }, 
+    {
       title: 'the beach (animation)', 
       author: '🎮gamer guy🎮🔴', 
       votes: 16, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
-      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
       title: 'The Adventures of Aequor [Game]', 
@@ -176,7 +176,7 @@ var LoadHotlistAPI = function() {
       author: 'Cataclysmic Code 🌩‮', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5954328763613184.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/6208597504868352.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
@@ -797,7 +797,7 @@ var LoadHotlistAPI = function() {
       author: 'Khan Krazy', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864/4527208648720384.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864/5571914975461376.png', 
       link: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4468589950279265075952746'
     }, 
