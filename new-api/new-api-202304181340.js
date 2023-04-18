@@ -46,22 +46,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
-      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
-      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
       title: 'Aequor Platformer', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 24, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
+      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
       title: 'Aequor Rush ', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Alex Delegas', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632/6215692698566656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
-    }, 
-    {
       title: 'Raise an Opes', 
       author: 'Holly Rebbeck', 
       votes: 20, 
@@ -287,6 +278,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Alex Delegas', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632/6215692698566656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
     }, 
     {
       title: 'tile flip game! (primavera round 1 entry)', 
@@ -352,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
     {
-      title: 'listening to music and vibin', 
-      author: 'ÐoɠIovɛɼ', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880/6488332390678528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
-    }, 
-    {
       title: 'New program', 
       author: 'Liam K.', 
       votes: 14, 
@@ -424,6 +415,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'listening to music and vibin', 
+      author: 'ÐoɠIovɛɼ', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880/6488332390678528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/listening-to-music-and-vibin/6196985498746880', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
+    }, 
+    {
       title: 'Windows 7', 
       author: 'cjanatik', 
       votes: 6, 
@@ -478,18 +478,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
-      author: 'Velvet', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
-      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
       title: 'Crazy Baby', 
       author: 'Fritz Chaucer', 
-      votes: 15, 
+      votes: 14, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5438738684755968.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
@@ -503,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5914253573013504.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
-    }, 
-    {
-      title: 'THE OH-NOES BATTLE GAME', 
-      author: 'Newforest20', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
     }, 
     {
       title: 'Gradient() function', 
@@ -638,6 +620,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
+    }, 
+    {
+      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
+      author: 'Velvet', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
+      title: 'THE OH-NOES BATTLE GAME', 
+      author: 'Newforest20', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
     }, 
     {
       title: 'macaroni', 
