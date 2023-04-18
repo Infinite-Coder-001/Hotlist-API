@@ -406,15 +406,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
     {
-      title: 'The Respective Domains of the 2023 Primavera Avatars', 
-      author: 'Jake K.', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
       title: 'Windows 7', 
       author: 'cjanatik', 
       votes: 5, 
@@ -694,13 +685,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: '#1 Animated Emoji - 4.17.23', 
-      author: 'Khan Krazy', 
+      title: 'The Respective Domains of the 2023 Primavera Avatars', 
+      author: 'Jake K.', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864/5208687712190464.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1-animated-emoji-41723/5387759746596864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4468589950279265075952746'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
       title: 'Please...', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600/5425639864975360.png', 
       link: 'https://www.khanacademy.org/computer-programming/custom-button-maker/5255463571865600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'Umid Makhirov', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5024179910131712/5388611945283584.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5024179910131712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3806228522497781713700525'
     }, 
   ];
 };
