@@ -185,7 +185,7 @@ var LoadHotlistAPI = function() {
       author: 'Cataclysmic Code 🌩‮', 
       votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/6208597504868352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
@@ -264,7 +264,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'the beach (animation)', 
       author: '(bio)🎮gamer guy🎮', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
     }, 
     {
+      title: 'Please...', 
+      author: 'Invisible Bob', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/please/6537057116930048/6171108379508736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/please/6537057116930048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4357452902529547972393951'
+    }, 
+    {
       title: 'Iso', 
       author: 'KarLlr', 
       votes: 108, 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5691204168892416.png', 
       link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'Please...', 
-      author: 'Invisible Bob', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/please/6537057116930048/6171108379508736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/please/6537057116930048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4357452902529547972393951'
     }, 
     {
       title: 'Yorg [Pixel game!]', 
