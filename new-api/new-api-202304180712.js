@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
-      votes: 46, 
+      votes: 47, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
