@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 31, 
+      votes: 32, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
@@ -39,11 +39,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 50, 
+      votes: 51, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'Aequor Platformer', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 22, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Aequor Rush ', 
@@ -55,18 +64,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Aequor Platformer', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/5350368549847040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 2', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056/6586746533101568.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-2/5467174480429056', 
@@ -86,9 +86,18 @@ var LoadHotlistAPI = function() {
       author: '🎮gamer guy🎮🔴', 
       votes: 22, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/5845912212783104.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672/6048399150596096.png', 
       link: 'https://www.khanacademy.org/computer-programming/for-the-goo/6672806629916672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'Wreck Racer (GAME)', 
@@ -107,15 +116,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
-    }, 
-    {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
+      title: 'CAVIOR [Teaser trailer]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
       votes: 54, 
@@ -251,15 +260,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/6044943681634304.png', 
       link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
-    }, 
-    {
-      title: 'CAVIOR [Teaser trailer]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376/4700380278865920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-trailer/4835730737381376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'what it will be like when robots take over', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Windows 7', 
+      author: 'cjanatik', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/windows-7/5948260813684736/5285224532721664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/windows-7/5948260813684736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
+    }, 
+    {
       title: 'WIP no look', 
       author: 'Phase #VirtusVictory', 
       votes: 6, 
@@ -458,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400/4649193294839808.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-waving-snowman/5479402495590400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_484642718967074734718666'
-    }, 
-    {
-      title: 'Windows 7', 
-      author: 'cjanatik', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/windows-7/5948260813684736/5285224532721664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/windows-7/5948260813684736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
       title: 'Crazy Baby', 
@@ -620,6 +620,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008/4984291374448640.png', 
       link: 'https://www.khanacademy.org/computer-programming/fire-sprite/5092446502699008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_147222234245651529027218'
+    }, 
+    {
+      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
+      author: 'Velvet', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'THE OH-NOES BATTLE GAME', 
@@ -865,12 +874,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_8584079564636701112516496'
     }, 
     {
-      title: 'doggie', 
+      title: 'Woiler-A-Rect-Animal ', 
       author: 'arwoiler2028', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/doggie/5607732049920000/6265634737668096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/doggie/5607732049920000', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/woiler-a-rect-animal/5607732049920000/5191590563069952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/woiler-a-rect-animal/5607732049920000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_309032160336871066926004'
     }, 
     {
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6079254061432832/6440142043922432.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6079254061432832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_319093017529735016981223'
-    }, 
-    {
-      title: 'casita cubica', 
-      author: 'JD', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/casita-cubica/6210856758329344/6278524437839872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/casita-cubica/6210856758329344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_35745123501536802073574'
     }, 
   ];
 };
