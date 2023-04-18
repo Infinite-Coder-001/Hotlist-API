@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
       votes: 49, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
