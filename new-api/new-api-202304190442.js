@@ -181,15 +181,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'Hiding in Paridise', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 22, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'i am leaving ka😟😟😟', 
       author: '🎮gamer guy🎮🟢', 
       votes: 10, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-am-leaving-ka/4854830272397312/4795525900845056.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-am-leaving-ka/4854830272397312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Hiding in Paridise', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
