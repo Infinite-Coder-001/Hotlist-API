@@ -604,6 +604,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5734137408569344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: '"Project: Make it rain"', 
       author: 'AloveraJuice', 
       votes: 3, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5894555770863616.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'Aequor Graphic', 
-      author: '♢ Waves ♢', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112/5914253573013504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-graphic/4587271216218112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3624062710496197885383666'
     }, 
   ];
 };
