@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 23, 
+      votes: 25, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -23,7 +23,7 @@ var LoadHotlistAPI = function() {
       author: 'Cataclysmic Code 🌩‮', 
       votes: 30, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
@@ -210,7 +210,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 57, 
+      votes: 56, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -325,6 +325,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
     {
+      title: 'improved instructions', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728/4762653647224832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'the beach (animation)', 
       author: '🎮gamer guy🎮🟢', 
       votes: 19, 
@@ -365,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5128436818690048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5692332671549440.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -449,15 +458,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336/5292133373493248.png', 
       link: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191657490399007636732524'
-    }, 
-    {
-      title: 'improved instructions', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728/4762653647224832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Lake of Virtue', 
@@ -649,6 +649,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_490411598901117969315817'
     }, 
     {
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
+      author: 'ChelseaO', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4879416057708544/6072359699398656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4879416057708544', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9418193249050607330661900'
+    }, 
+    {
       title: 'Spin-off of "Project: My Titles"', 
       author: 'bp.cloud09', 
       votes: 2, 
@@ -793,6 +802,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
     }, 
     {
+      title: 'macaroni', 
+      author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/macaroni/5571436992577536/4808507867316224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/macaroni/5571436992577536', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
+    }, 
+    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: '2024lbyrne', 
       votes: 4, 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/6037274228998144.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128036770599701980223475'
-    }, 
-    {
-      title: 'Primavera Challenge 1', 
-      author: 'schuyler.#GO TEAM ALTUM!', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144/5502167592255488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-challenge-1/5054664145158144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_919942291552778989104639'
-    }, 
-    {
-      title: 'splash screen for FNAF', 
-      author: 'jasmeen_bhattal', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/splash-screen-for-fnaf/6337007698886656/4623947913281536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/splash-screen-for-fnaf/6337007698886656', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4235148858067963558331713'
     }, 
   ];
 };
