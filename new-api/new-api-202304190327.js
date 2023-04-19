@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 21, 
+      votes: 20, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -53,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
-    }, 
-    {
-      title: 'Explosion [WebGL]', 
-      author: '▪Dipper98▪', 
-      votes: 19, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Aequor Platformer', 
@@ -82,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
+      title: 'Explosion [WebGL]', 
+      author: '▪Dipper98▪', 
+      votes: 18, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 87, 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'The Respective Domains of the 2023 Primavera Avatars', 
-      author: 'Jake K.', 
-      votes: 28, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 16, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'The Respective Domains of the 2023 Primavera Avatars', 
+      author: 'Jake K.', 
+      votes: 27, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
       title: 'Tribute to BEx [read code]', 
@@ -139,7 +139,7 @@ var LoadHotlistAPI = function() {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 21, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5036792182259712.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
