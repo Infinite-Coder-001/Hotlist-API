@@ -41,7 +41,7 @@ var LoadHotlistAPI = function() {
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
       votes: 53, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/5529674215374848.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
@@ -64,15 +64,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
-      title: 'Modern House', 
-      author: 'Phase #VirtusVictory', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 26, 
@@ -89,6 +80,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Modern House', 
+      author: 'Phase #VirtusVictory', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'The Return', 
@@ -172,15 +172,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
-      author: 'Velvet #AltumFTW', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4861878313730048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
       votes: 9, 
@@ -197,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
+      author: 'Velvet #AltumFTW', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4861878313730048.png', 
+      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Hiding in Paridise', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 26, 
+      votes: 25, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
@@ -298,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
-      title: 'Nord', 
-      author: 'Hibernia Productions🎥', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/4988460613287936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'The Sun moving around earth', 
       author: 'A_Killer_King', 
       votes: 8, 
@@ -365,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5700261114068992.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6431774541660160.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -404,6 +395,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5618170464616448.png', 
       link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
+      title: 'Nord', 
+      author: 'Hibernia Productions🎥', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/4988460613287936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'Please...', 
@@ -525,7 +525,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 112, 
+      votes: 111, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
