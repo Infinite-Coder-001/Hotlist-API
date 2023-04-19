@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 26, 
+      votes: 28, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -21,11 +21,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 35, 
+      votes: 36, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'Modern House', 
+      author: 'Phase #VirtusVictory', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
@@ -46,15 +55,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'Modern House', 
-      author: 'Phase #VirtusVictory', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
       votes: 71, 
@@ -73,21 +73,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
+      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 21, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5044702404722688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 27, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 20, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5044702404722688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
@@ -559,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
     {
+      title: 'Using Mathematical Instruction Tavon', 
+      author: '10010882', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
+      link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
+    }, 
+    {
       title: 'apex\'s gaming pc', 
       author: 'apex', 
       votes: 56, 
@@ -608,7 +617,7 @@ var LoadHotlistAPI = function() {
       author: 'The Tech Guy 💻 ✔', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-but-cool-loading-max-gaming/5769784806653952/5693598378278912.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/simple-but-cool-loading-max-gaming/5769784806653952/5997393259839488.png', 
       link: 'https://www.khanacademy.org/computer-programming/simple-but-cool-loading-max-gaming/5769784806653952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
     }, 
@@ -638,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'Invisible code?!', 
-      author: 'JerryBob Studio', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/invisible-code/5253785137233920/4524073146433536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/invisible-code/5253785137233920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
     }, 
     {
       title: 'aksanov_memory', 
@@ -698,7 +698,7 @@ var LoadHotlistAPI = function() {
       author: 'richhonican', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120/5137024454803456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120/5884470113910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
     }, 
@@ -764,15 +764,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504/4645817215664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1074390240362051919313135'
-    }, 
-    {
-      title: 'Using Mathematical Instruction Tavon', 
-      author: '10010882', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
-      link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
     }, 
     {
       title: '21', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400/5091613782360064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_638494329953710557785592'
+    }, 
+    {
+      title: 'My First Ever Dodge Game', 
+      author: 'Chickenfarmer2009', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296/6514645734309888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
   ];
 };
