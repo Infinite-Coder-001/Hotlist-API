@@ -3,20 +3,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 47, 
+      votes: 46, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'Dueler [Fight your Friends]', 
-      author: 'Eprony My Dear Sir', 
-      votes: 61, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
@@ -26,6 +17,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Dueler [Fight your Friends]', 
+      author: 'Eprony My Dear Sir', 
+      votes: 60, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'Lazer maze', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 50, 
+      votes: 49, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
@@ -201,7 +201,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
       author: 'vw_beetlesultimategreatness', 
-      votes: 32, 
+      votes: 31, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
@@ -262,15 +262,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Magus on a Cliff', 
-      author: 'Horizon', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
-    }, 
-    {
       title: '(animation) leaf ', 
       author: '🎮gamer guy🎮🟢', 
       votes: 10, 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/animation-leaf/5556110603108352/5794355425361920.png', 
       link: 'https://www.khanacademy.org/computer-programming/animation-leaf/5556110603108352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Magus on a Cliff', 
+      author: 'Horizon', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
       title: 'This is how it feels.', 
