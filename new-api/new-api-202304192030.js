@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 25, 
+      votes: 26, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 32, 
+      votes: 33, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -66,7 +66,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 67, 
+      votes: 68, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Dark mode | KACP Concept ', 
+      author: 'Eisa S.', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 27, 
@@ -172,13 +181,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Dark mode | KACP Concept ', 
-      author: 'Eisa S.', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 16, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4861878313730048.png', 
       link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 15, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'botw pixel art with navy background for fromage &#60;3', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 35, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Magus on a Cliff', 
       author: 'Horizon', 
       votes: 21, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
-    }, 
-    {
-      title: 'botw pixel art with navy background for fromage &#60;3', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 34, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'what is happening(updated )', 
@@ -383,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5703837597089792.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/4603746618490880.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -604,6 +604,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
     {
+      title: 'My grass cannon', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
+      title: 'New program', 
+      author: 'adri9863', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704/5150019029352448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
+    }, 
+    {
       title: 'Back to the Future | Time Circuits', 
       author: 'richhonican', 
       votes: 4, 
@@ -683,15 +701,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
-    }, 
-    {
-      title: 'lightsaber', 
-      author: 'jase ramsey', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lightsaber/5913530248511488/5135752876048384.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lightsaber/5913530248511488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_387462093482996634298143'
     }, 
     {
       title: '21', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Bananaverse', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/5427382766059520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128036770599701980223475'
     }, 
   ];
 };
