@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 29, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 13, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Tribute to BEx [read code]', 
       author: 'Phase #VirtusVictory', 
       votes: 18, 
@@ -136,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 12, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
       votes: 56, 
@@ -152,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'Pegs [game]', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -199,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
-      title: 'Pegs [game]', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'i am leaving ka😟😟😟', 
       author: '🎮gamer guy🎮🟢', 
       votes: 10, 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 81, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'CAVIOR Teaser [Animated]', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
       votes: 21, 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 80, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'Magus on a Cliff', 
@@ -453,7 +453,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 108, 
+      votes: 109, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -512,6 +512,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672/6552673618018304.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'Nord', 
+      author: 'Hibernia Productions🎥', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/6258737657724928.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
       title: 'New program', 
@@ -581,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Douglas Kiss', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344/6353676701843456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344/6427233922367488.png', 
       link: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
     }, 
@@ -766,15 +775,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_387462093482996634298143'
     }, 
     {
-      title: 'Nord', 
-      author: 'Hibernia Productions🎥', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/6258737657724928.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
       title: 'Game', 
       author: 'Blue mouse🔵🐁', 
       votes: 3, 
@@ -856,6 +856,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Infinity', 
+      author: 'Dojo Cat', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/infinity/5305144389713920/4949198236860416.png', 
+      link: 'https://www.khanacademy.org/computer-programming/infinity/5305144389713920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
+    }, 
+    {
       title: 'game level #2', 
       author: 'codeMaster - Opes FTW', 
       votes: 4, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-2/5821273033981952/6261058584231936.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-click-2/5821273033981952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
-      title: 'fifth\'s Pixelator', 
-      author: 'VVhiteTiger', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/fifths-pixelator/6174075606319104/5891290387759104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/fifths-pixelator/6174075606319104', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
     }, 
   ];
 };
