@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
-      votes: 20, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
