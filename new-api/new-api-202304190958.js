@@ -228,7 +228,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Adventures of Aequor [Game]', 
       author: '▪Dipper98▪', 
-      votes: 23, 
+      votes: 22, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
