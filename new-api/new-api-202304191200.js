@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -559,6 +559,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
+      title: 'Google Classroom Q4', 
+      author: 'Douglas Kiss', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344/6353676701843456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
+    }, 
+    {
       title: '#OMELETSARESOGOOD', 
       author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 3, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304/4755947936595968.png', 
       link: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
-    }, 
-    {
-      title: 'your will be done in the rain or sun', 
-      author: 'apex', 
-      votes: 66, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920/4884374907830272.png', 
-      link: 'https://www.khanacademy.org/computer-programming/your-will-be-done-in-the-rain-or-sun/5162870452305920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
   ];
 };
