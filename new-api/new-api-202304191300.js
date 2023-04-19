@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
-      votes: 63, 
+      votes: 64, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
+      title: 'Quiz Of Countries', 
+      author: 'Eisa S.', 
+      votes: 28, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
       votes: 52, 
@@ -199,13 +208,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'Quiz Of Countries', 
-      author: 'Eisa S.', 
-      votes: 27, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+      title: 'This is how it feels.', 
+      author: 'Wolf🐺', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'i am leaving ka😟😟😟', 
@@ -269,15 +278,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
-    }, 
-    {
-      title: 'This is how it feels.', 
-      author: 'Wolf🐺', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'Magus on a Cliff', 
@@ -653,7 +653,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5505508741267456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6560847922249728.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
