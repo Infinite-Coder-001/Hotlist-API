@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 42, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -67,7 +67,7 @@ var LoadHotlistAPI = function() {
       title: 'Aequor Platformer', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 42, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
-      title: 'Modern House', 
-      author: 'Phase #VirtusVictory', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 13, 
@@ -143,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Pegs [game]', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'Tribute to BEx [read code]', 
@@ -163,15 +145,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 31, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 24, 
@@ -179,6 +152,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5036792182259712.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
+    }, 
+    {
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 30, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'Pegs [game]', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'Modern House', 
+      author: 'Phase #VirtusVictory', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'i do stuf', 
@@ -271,15 +271,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
       votes: 81, 
@@ -305,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
+    }, 
+    {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'The Sun moving around earth', 
@@ -577,15 +577,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
     }, 
     {
-      title: 'War Of Avatars Pt.2', 
-      author: 'NotMe73', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520/6505679469985792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
-    }, 
-    {
       title: 'Rotating 6-Sided Colored Cube', 
       author: 'dlonmsk51', 
       votes: 9, 
@@ -728,6 +719,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344/6427233922367488.png', 
       link: 'https://www.khanacademy.org/computer-programming/google-classroom-q4/4981892131897344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1161302347277055557510665'
+    }, 
+    {
+      title: 'War Of Avatars Pt.2', 
+      author: 'NotMe73', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520/6505679469985792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: '#OMELETSARESOGOOD', 
