@@ -10,6 +10,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
+      title: 'An Avatar\'s Journey [PRIMAVERA]', 
+      author: 'Fireball my dear sir ✝ #CinisFTW', 
+      votes: 40, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
       votes: 56, 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
-    }, 
-    {
-      title: 'An Avatar\'s Journey [PRIMAVERA]', 
-      author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 39, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
       title: 'Lazer maze', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Tribute to BEx [read code]', 
+      author: 'Phase #VirtusVictory', 
+      votes: 16, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/6019696521691136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
       votes: 13, 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'Tribute to BEx [read code]', 
-      author: 'Phase #VirtusVictory', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/6019696521691136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'music and vibes', 
@@ -253,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Magus on a Cliff', 
+      author: 'Horizon', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
+      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
+    }, 
+    {
       title: 'the beach (animation)', 
       author: '(bio)🎮gamer guy🎮', 
       votes: 19, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Magus on a Cliff', 
-      author: 'Horizon', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
-      link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
       title: 'i am leaving ka😟😟😟', 
@@ -779,7 +779,7 @@ var LoadHotlistAPI = function() {
       author: 'Fritz Chaucer', 
       votes: 15, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5438738684755968.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/6322588864528384.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
