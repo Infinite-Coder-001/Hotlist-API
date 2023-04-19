@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 49, 
+      votes: 51, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 25, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
-      votes: 61, 
+      votes: 62, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
@@ -46,6 +46,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
+      title: 'The Return', 
+      author: 'CowboysFan232', 
+      votes: 52, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
+    }, 
+    {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
       votes: 21, 
@@ -53,15 +62,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'The Return', 
-      author: 'CowboysFan232', 
-      votes: 51, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
       title: 'Aequor Platformer', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Tribute to BEx [read code]', 
+      author: 'Phase #VirtusVictory', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/6019696521691136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
       author: 'Jake K.', 
       votes: 28, 
@@ -109,13 +118,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
-      title: 'Tribute to BEx [read code]', 
-      author: 'Phase #VirtusVictory', 
-      votes: 17, 
+      title: 'Raising Virtus', 
+      author: 'Reflex', 
+      votes: 30, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/6019696521691136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'music and vibes', 
@@ -125,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5036792182259712.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
-    }, 
-    {
-      title: 'Raising Virtus', 
-      author: 'Reflex', 
-      votes: 29, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
-      link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
       title: 'i do stuf', 
@@ -152,6 +152,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/5938745112313856.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
+    }, 
+    {
+      title: 'Hiding in Paridise', 
+      author: 'Cataclysmic Code 🌩‮', 
+      votes: 24, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
       title: 'Aequor Rush ', 
@@ -181,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
-      title: 'Hiding in Paridise', 
-      author: 'Cataclysmic Code 🌩‮', 
-      votes: 23, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
       title: 'Quiz Of Countries', 
       author: 'Eisa S.', 
       votes: 26, 
@@ -203,7 +203,7 @@ var LoadHotlistAPI = function() {
       author: 'Velvet #AltumFTW', 
       votes: 14, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4550390264938496.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/4861878313730048.png', 
       link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
