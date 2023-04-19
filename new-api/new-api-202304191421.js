@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 39, 
+      votes: 41, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -21,11 +21,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 48, 
+      votes: 49, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Dueler [Fight your Friends]', 
+      author: 'Eprony My Dear Sir', 
+      votes: 65, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'Lazer maze', 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
-      title: 'Dueler [Fight your Friends]', 
-      author: 'Eprony My Dear Sir', 
-      votes: 64, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'The Return', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Aequor Platformer', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 42, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
       votes: 21, 
@@ -73,13 +82,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
-      title: 'Aequor Platformer', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 40, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+      title: 'i beat JS', 
+      author: 'ski', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/5399320976474112.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -145,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'This is how it feels.', 
+      author: 'Wolf🐺', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/5099828360298496.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
+    }, 
+    {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
       votes: 12, 
@@ -154,31 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
-      title: 'i beat JS', 
-      author: 'ski', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/5399320976474112.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/6531341580812288.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'This is how it feels.', 
-      author: 'Wolf🐺', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6746427436089344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'i do stuf', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'The Adventures of Aequor [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 25, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'botw pixel art with navy background for fromage &#60;3', 
       author: 'vw_beetlesultimategreatness', 
       votes: 33, 
@@ -242,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'The Adventures of Aequor [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 23, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'what is happening(updated )', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
+      title: 'Gain Instant Knowledge', 
+      author: 'Noah H.', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/4699982692401152.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 13, 
@@ -361,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
     {
-      title: 'Gain Instant Knowledge', 
-      author: 'Noah H.', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/4699982692401152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'Please...', 
       author: 'Invisible Bob', 
       votes: 11, 
@@ -386,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632/6215692698566656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6421351771717632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_503287587218680228630919'
+    }, 
+    {
+      title: 'Lake of Virtue', 
+      author: 'Bearkirb314🐻‍❄️', 
+      votes: 21, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/6427320459247616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'Hacked', 
@@ -431,15 +440,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/6258737657724928.png', 
       link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
-    }, 
-    {
-      title: 'Lake of Virtue', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 20, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/6427320459247616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
     }, 
     {
       title: 'New program', 
