@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 21, 
+      votes: 23, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
-      votes: 70, 
+      votes: 71, 
       forks: 9, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Lazer maze', 
       author: 'cjanatik', 
-      votes: 66, 
+      votes: 67, 
       forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 15, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
       author: 'Velvet #AltumFTW', 
       votes: 19, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 14, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Hiding in Paridise', 
@@ -251,15 +251,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'CAVIOR Teaser [Animated]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 25, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cavior-teaser-animated/4835730737381376/5200796246654976.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cavior-teaser-animated/4835730737381376', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Magus on a Cliff', 
@@ -365,7 +356,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6251617860239360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6431774541660160.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -464,7 +455,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728/5647614931681280.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728/4762653647224832.png', 
       link: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -496,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'Crazy Color Winston', 
+      author: 'NoahHause', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🟢', 
       votes: 45, 
@@ -525,7 +525,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Iso', 
       author: 'KarLlr', 
-      votes: 110, 
+      votes: 111, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
       link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
@@ -586,6 +586,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'guess the video game emoji edition ', 
+      author: 'LovelyPetals', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672/6698653474668544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: '#OMELETSARESOGOOD', 
       author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 4, 
@@ -602,6 +611,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120/5600296454897664.png', 
       link: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
+    }, 
+    {
+      title: 'My newest attempt at a maze', 
+      author: 'DovidMathBoy', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848/4940274905432064.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
     }, 
     {
       title: '"Project: Make it rain"', 
@@ -703,15 +721,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
     }, 
     {
-      title: 'Crazy Color Winston', 
-      author: 'NoahHause', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
-    }, 
-    {
       title: 'test', 
       author: 'Jorge B', 
       votes: 2, 
@@ -737,15 +746,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/game/5605884073132032/5185702255181824.png', 
       link: 'https://www.khanacademy.org/computer-programming/game/5605884073132032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1120698002580504205175873'
-    }, 
-    {
-      title: 'guess the video game emoji edition ', 
-      author: 'LovelyPetals', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672/6698653474668544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
       title: 'move the box around the screen', 
