@@ -94,7 +94,7 @@ var LoadHotlistAPI = function() {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 18, 
-      forks: 3, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
+      title: 'Quiz Of Countries', 
+      author: 'Eisa S.', 
+      votes: 27, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 9, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
-    }, 
-    {
-      title: 'Quiz Of Countries', 
-      author: 'Eisa S.', 
-      votes: 26, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
       title: 'i am leaving ka😟😟😟', 
