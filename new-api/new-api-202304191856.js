@@ -73,6 +73,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 19, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
       votes: 13, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/4962164281753600.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
-    }, 
-    {
-      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 18, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'AGnawKneeMouse Coder', 
       votes: 30, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/5024781809532928.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/4765825396686848.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'NotMe73 Sub page!', 
+      author: 'NotMe73', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
       title: 'Ooh, fresh meat for the grinder!!', 
       author: 'minchj0', 
       votes: 7, 
@@ -377,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/5847913499770880.png', 
       link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
+    }, 
+    {
+      title: 'CrazyBaby_v1.2', 
+      author: 'Fritz Chaucer', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200/5864208941236224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
       title: 'Gain Instant Knowledge', 
@@ -442,15 +460,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191657490399007636732524'
     }, 
     {
-      title: 'CrazyBaby_v1.2', 
-      author: 'Fritz Chaucer', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200/5864208941236224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
       title: 'improved instructions', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 3, 
@@ -458,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728/5647614931681280.png', 
       link: 'https://www.khanacademy.org/computer-programming/improved-instructions/4745072903241728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
-      title: 'NotMe73 Sub page!', 
-      author: 'NotMe73', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
       title: 'Lake of Virtue', 
