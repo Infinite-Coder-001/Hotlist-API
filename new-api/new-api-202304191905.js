@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 28, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -58,7 +58,7 @@ var LoadHotlistAPI = function() {
       title: 'Lazer maze', 
       author: 'cjanatik', 
       votes: 66, 
-      forks: 10, 
+      forks: 11, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
@@ -334,6 +334,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'golden hour', 
+      author: 'boba bear', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/5847913499770880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
+    }, 
+    {
       title: 'NotMe73 Sub page!', 
       author: 'NotMe73', 
       votes: 4, 
@@ -356,7 +365,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5778542664400896.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6251617860239360.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -377,15 +386,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000/5032808465874944.png', 
       link: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'golden hour', 
-      author: 'boba bear', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/5847913499770880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
     {
       title: 'CrazyBaby_v1.2', 
@@ -796,7 +796,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: Animal attack"', 
       author: '2024lbyrne', 
       votes: 4, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400/5091613782360064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_638494329953710557785592'
@@ -878,7 +878,7 @@ var LoadHotlistAPI = function() {
       author: 'Bananaverse', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/5579686886555648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/6037274228998144.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128036770599701980223475'
     }, 
