@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
-      title: 'Aequor Rush ', 
-      author: 'LightningCoder', 
-      votes: 52, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
-    }, 
-    {
       title: 'Hiding in Paridise', 
       author: 'Cataclysmic Code 🌩‮', 
       votes: 24, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208/5438934684581888.png', 
       link: 'https://www.khanacademy.org/computer-programming/hiding-in-paridise/4725439869534208', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'Aequor Rush ', 
+      author: 'LightningCoder', 
+      votes: 51, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688/6502048997883904.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-rush/6244512424050688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
