@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: '\'Corn', 
+      author: 'The No-Sock Guy', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/4962164281753600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 87, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6115269107040256.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: '\'Corn', 
-      author: 'The No-Sock Guy', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/4962164281753600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -478,6 +478,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Broccoli', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384/4952507987312640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
       author: 'Quinn Hardbrook', 
       votes: 4, 
@@ -485,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024/5000681472966656.png', 
       link: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_96558739702575557799545'
-    }, 
-    {
-      title: 'Broccoli', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384/4952507987312640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'New program', 
@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5394484335164414600463049'
     }, 
     {
+      title: 'Mr Cube but MAGUS', 
+      author: 'Conqueror#MagusFTW', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/mr-cube-but-magus/6206054716456960/4626820038443008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/mr-cube-but-magus/6206054716456960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
+    }, 
+    {
       title: 'New program', 
       author: 'Wort-Head', 
       votes: 8, 
@@ -512,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672/6552673618018304.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4738506871324672', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_423431091603467965233651'
+    }, 
+    {
+      title: 'THE OH-NOES BATTLE GAME', 
+      author: 'Newforest20', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
     }, 
     {
       title: 'Rotating 6-Sided Colored Cube', 
@@ -566,6 +584,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704/5817566410096640.png', 
       link: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'Ooh, fresh meat for the grinder!!', 
+      author: 'minchj0', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832/6250029510868992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
     {
       title: '"Project: Make it rain"', 
@@ -631,15 +658,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_548518724537443859336269'
     }, 
     {
-      title: 'THE OH-NOES BATTLE GAME', 
-      author: 'Newforest20', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
-    }, 
-    {
       title: 'Spin-off of "Project: Ad design"', 
       author: 'Sebastian Rincon', 
       votes: 3, 
@@ -665,15 +683,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
-    }, 
-    {
-      title: 'Mr Cube but MAGUS', 
-      author: 'Conqueror#MagusFTW', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mr-cube-but-magus/6206054716456960/4626820038443008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mr-cube-but-magus/6206054716456960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
     {
       title: 'My First Ever Dodge Game', 
@@ -845,15 +854,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712/4744286957780992.png', 
       link: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
-    }, 
-    {
-      title: 'Ooh, fresh meat for the grinder!!', 
-      author: 'minchj0', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832/6250029510868992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
     {
       title: 'Back to the Future | Time Circuits', 
