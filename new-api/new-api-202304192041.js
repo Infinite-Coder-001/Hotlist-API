@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 34, 
+      votes: 33, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -73,21 +73,21 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
-      title: 'Pizza Maker Added New Stuff (Re-Release)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 27, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 20, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Pizza Maker Added New Stuff (Re-Release)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 26, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
-      title: 'botw pixel art with navy background for fromage &#60;3', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 36, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'The Adventures of Aequor [Game]', 
       author: '▪Dipper98▪', 
       votes: 26, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'botw pixel art with navy background for fromage &#60;3', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 35, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Magus on a Cliff', 
@@ -383,7 +383,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5531469754974208.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/4603746618490880.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -395,15 +395,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096/4856055143383040.png', 
       link: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
-    }, 
-    {
-      title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
-      author: 'Quinn Hardbrook', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024/5000681472966656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_96558739702575557799545'
     }, 
     {
       title: 'Morse code', 
@@ -449,6 +440,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-poem/6051926929358848/4617140792770560.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-poem/6051926929358848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
+    }, 
+    {
+      title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
+      author: 'Quinn Hardbrook', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024/5000681472966656.png', 
+      link: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_96558739702575557799545'
     }, 
     {
       title: 'Apartment Buildings #Magus', 
@@ -595,24 +595,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'Cool but Simple Loading | Max Gaming', 
-      author: 'The Tech Guy 💻 ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/cool-but-simple-loading-max-gaming/5769784806653952/4929925762301952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/cool-but-simple-loading-max-gaming/5769784806653952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_639459656555754990306072'
-    }, 
-    {
-      title: 'ataque animal', 
-      author: 'Lucas Alvarez', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ataque-animal/5837014080733184/6065296692789248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ataque-animal/5837014080733184', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229385150143956697744652'
-    }, 
-    {
       title: '#OMELETSARESOGOOD', 
       author: 'ʄrø𝖒Δ𝖌ɛ 🧀🍜', 
       votes: 4, 
@@ -631,57 +613,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Invisible code?!', 
-      author: 'JerryBob Studio', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/invisible-code/5253785137233920/4524073146433536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/invisible-code/5253785137233920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_637011950421351002804374'
-    }, 
-    {
-      title: 'aksanov_memory', 
-      author: 'naksanov', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aksanov_memory/6430128914874368/6498483604602880.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aksanov_memory/6430128914874368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1055276131156839622089603'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Peter Blake', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5932363680104448/4793168701997056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5932363680104448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1170887251526490131296449'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Optical illusion"', 
-      author: 'John Ruotolo', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/5565041685610496/5895757891944448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-optical-illusion/5565041685610496', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_671502280650734668728093'
-    }, 
-    {
       title: 'New program', 
       author: 'adri9863', 
       votes: 2, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704/5150019029352448.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
-    }, 
-    {
-      title: 'New program', 
-      author: 'adri9863', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736/6374342675185664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
     }, 
     {
@@ -833,7 +770,7 @@ var LoadHotlistAPI = function() {
       author: 'Conqueror#MagusFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen/5335473804591104/5222665431597056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen/5335473804591104/5715518297522176.png', 
       link: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen/5335473804591104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
     }, 
@@ -899,6 +836,69 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296/6514645734309888.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
+    }, 
+    {
+      title: 'Primavera 100m Dash', 
+      author: 'VVhiteTiger', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928/6319676935421952.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-100m-dash/4784557242236928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_154605635905555420140323'
+    }, 
+    {
+      title: 'What happens during a lunar eclipse', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
+      title: 'Blooket', 
+      author: 'Timothy Lightson', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712/4744286957780992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
+      title: 'Some graphics for something', 
+      author: 'Radar', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704/5817566410096640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/some-graphics-for-something/5398098538184704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'house in mid of nowhere lmao', 
+      author: 'CLOUDY', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/house-in-mid-of-nowhere-lmao/5370561372143616/6145368271405056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/house-in-mid-of-nowhere-lmao/5370561372143616', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_354728518707487115651964'
+    }, 
+    {
+      title: 'spiral', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248/5053461998911488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spiral/4730245535285248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Liam K.', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512/5635378855067648.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6075407549120512', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_160653079463992085090428'
     }, 
   ];
 };
