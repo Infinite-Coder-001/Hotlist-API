@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
-      votes: 20, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5589839585263616.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Primavera Stats', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6707257200132096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 92, 
@@ -188,6 +179,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/4608115271319552.png', 
       link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6707257200132096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Pixel Art Tutorial', 
