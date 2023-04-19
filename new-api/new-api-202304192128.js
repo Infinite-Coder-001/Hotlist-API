@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 36, 
+      votes: 37, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -109,6 +109,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
+      title: 'Aequor Platformer', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 45, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
       votes: 22, 
@@ -116,15 +125,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Aequor Platformer', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 44, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'Hyped for TotK? :)', 
@@ -145,6 +145,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
+      title: 'The Respective Domains of the 2023 Primavera Avatars', 
+      author: 'Jake K.', 
+      votes: 32, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
+    }, 
+    {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 27, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5036792182259712.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
-    }, 
-    {
-      title: 'The Respective Domains of the 2023 Primavera Avatars', 
-      author: 'Jake K.', 
-      votes: 31, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
       title: 'Raising Virtus', 
@@ -183,7 +183,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pixel Art Tutorial', 
       author: 'Green Ghost', 
-      votes: 16, 
+      votes: 17, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
@@ -282,7 +282,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 83, 
+      votes: 84, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
