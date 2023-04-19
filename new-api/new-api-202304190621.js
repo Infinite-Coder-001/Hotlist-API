@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Return', 
       author: 'CowboysFan232', 
-      votes: 51, 
+      votes: 50, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312/5142964612677632.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-return/6619775569805312', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Pizza Maker Added New Stuff (Re-Release)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 17, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
       author: 'Jake K.', 
       votes: 28, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
+    }, 
+    {
+      title: 'Pizza Maker Added New Stuff (Re-Release)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 16, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Raising Virtus', 
@@ -289,15 +289,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'The Sun moving around earth', 
       author: 'A_Killer_King', 
       votes: 8, 
@@ -323,6 +314,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
+      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5934931021971456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
