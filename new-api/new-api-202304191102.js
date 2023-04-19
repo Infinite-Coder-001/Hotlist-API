@@ -568,15 +568,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_396853066752538074290991'
     }, 
     {
-      title: 'Dark mode | KACP Concept ', 
-      author: 'Eisa S.', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
       title: 'My First Ever Dodge Game', 
       author: 'Chickenfarmer2009', 
       votes: 7, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/mosaico-5/4785240813125632/6278889493282816.png', 
       link: 'https://www.khanacademy.org/computer-programming/mosaico-5/4785240813125632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1503111015495442302897317'
+    }, 
+    {
+      title: 'Crazy Baby', 
+      author: 'Fritz Chaucer', 
+      votes: 15, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208/5894555770863616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-baby/6018737779294208', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
   ];
 };
