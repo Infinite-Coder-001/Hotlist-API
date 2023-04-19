@@ -66,11 +66,20 @@ var LoadHotlistAPI = function() {
     {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/4962164281753600.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Penta Sweeper', 
+      author: 'Logix Indie', 
+      votes: 15, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
+      link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'Penta Sweeper', 
-      author: 'Logix Indie', 
-      votes: 14, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -237,7 +237,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'The Adventures of Aequor [Game]', 
       author: '▪Dipper98▪', 
-      votes: 19, 
+      votes: 20, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
+      title: 'This is how it feels.', 
+      author: 'Wolf🐺', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
+    }, 
+    {
       title: 'Sweet Dreams', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 41, 
@@ -424,6 +433,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
     }, 
     {
+      title: 'Yorg [Pixel game!]', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904/4510282979524608.png', 
+      link: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Gain Instant Knowledge', 
       author: 'Noah H.', 
       votes: 5, 
@@ -431,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5691204168892416.png', 
       link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
-      title: 'Yorg [Pixel game!]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904/4510282979524608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
@@ -503,15 +512,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/6294708486979584.png', 
       link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
-    }, 
-    {
-      title: 'This is how it feels.', 
-      author: 'Wolf🐺', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504/6195099529953280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-is-how-it-feels/5884617669525504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'My Skin  | the wolf. | skins and characters', 
