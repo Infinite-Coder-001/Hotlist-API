@@ -10,9 +10,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
     }, 
     {
+      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
+      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
+      votes: 52, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
+      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
+    }, 
+    {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -21,20 +30,11 @@ var LoadHotlistAPI = function() {
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 52, 
+      votes: 51, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
-      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
-      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 52, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/6076779824726016.png', 
-      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
       title: 'Lazer maze', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 20, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/4938607904473088.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Hyped for TotK? :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 91, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
       votes: 10, 
@@ -143,6 +134,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5257234532843520.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Hyped for TotK? :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 90, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
@@ -244,15 +244,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'botw pixel art with navy background for fromage &#60;3', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 34, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'The Adventures of Aequor [Game]', 
       author: '▪Dipper98▪', 
       votes: 25, 
@@ -260,6 +251,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'botw pixel art with navy background for fromage &#60;3', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 33, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'CAVIOR Teaser [Animated]', 
@@ -860,7 +860,7 @@ var LoadHotlistAPI = function() {
       author: 'Bananaverse', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/5579686886555648.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376/6745390000160768.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4760854022373376', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128036770599701980223475'
     }, 
