@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 87, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/6115269107040256.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
