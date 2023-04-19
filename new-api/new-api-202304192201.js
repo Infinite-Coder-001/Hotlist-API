@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 53, 
+      votes: 54, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/5529674215374848.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
@@ -422,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200/5864208941236224.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
+    }, 
+    {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6459043372908544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Please...', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400/5091613782360064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4525776100966400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_638494329953710557785592'
-    }, 
-    {
-      title: 'My First Ever Dodge Game', 
-      author: 'Chickenfarmer2009', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296/6514645734309888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
   ];
 };
