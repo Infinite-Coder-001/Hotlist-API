@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 21, 
+      votes: 22, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
