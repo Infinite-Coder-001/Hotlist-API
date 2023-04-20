@@ -37,15 +37,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
-      title: 'Checkmate Flat-Earthers!', 
-      author: 'Phase #VirtusVictory', 
-      votes: 13, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'ChatGPT made this', 
       author: 'Jibanyanc', 
       votes: 23, 
@@ -53,6 +44,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5172654513635328.png', 
       link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
+      title: 'Checkmate Flat-Earthers!', 
+      author: 'Phase #VirtusVictory', 
+      votes: 12, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'My grass cannon', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
-      votes: 27, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
@@ -136,15 +136,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 29, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: 'Sunny day(made by my younger brother)', 
       author: 'Radar', 
       votes: 10, 
@@ -152,6 +143,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4810251414323200.png', 
       link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 28, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: '\'Corn', 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
-      title: 'Tribute to BEx [read code]', 
-      author: 'Phase #VirtusVictory', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/4608115271319552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 28, 
@@ -271,13 +262,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
     }, 
     {
-      title: '💜Baby unicorn💜', 
-      author: 'Orange Monkey', 
-      votes: 4, 
+      title: 'Tribute to BEx [read code]', 
+      author: 'Phase #VirtusVictory', 
+      votes: 20, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/5208477342679040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/4608115271319552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
@@ -329,9 +320,18 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5847032343609344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/4817101283180544.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: '💜Baby unicorn💜', 
+      author: 'Orange Monkey', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/5208477342679040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -793,15 +793,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'What happens during a lunar eclipse', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'guess the video game emoji edition ', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -863,6 +854,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/4983014292766720.png', 
       link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
+    }, 
+    {
+      title: 'What happens during a lunar eclipse', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Iso', 
