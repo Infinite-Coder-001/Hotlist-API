@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 41, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/5058009220038656.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -39,8 +39,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Checkmate Flat-Earthers!', 
       author: 'Phase #VirtusVictory', 
-      votes: 15, 
-      forks: 4, 
+      votes: 16, 
+      forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My grass cannon', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
@@ -84,8 +84,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'this was made using my pixel art converter', 
       author: 'Clark Kent (offline)', 
-      votes: 8, 
-      forks: 0, 
+      votes: 9, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
@@ -93,7 +93,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 58, 
+      votes: 59, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
       votes: 57, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5771459357360128.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: '1st try of limericks?', 
@@ -532,6 +532,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
     {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
+    }, 
+    {
       title: 'tik tac toe --> Connect 4', 
       author: 'cleuteritz', 
       votes: 2, 
@@ -566,6 +575,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/6046347968167936.png', 
       link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
+    }, 
+    {
+      title: 'jump alien', 
+      author: 'shaqur  smithjr', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680/5892926241816576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1136454464273873853195081'
     }, 
     {
       title: 'Water wars teaser| the tank', 
@@ -856,6 +874,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
     }, 
     {
+      title: 'War Of Avatars Pt.2', 
+      author: 'NotMe73', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520/6505679469985792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: 'gamer guy', 
       votes: 46, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6732974323449856/4524834160951296.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6732974323449856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_755029579238821959947507'
-    }, 
-    {
-      title: 'tile flip game! (primavera round 1 entry)', 
-      author: 'sgh07', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920/4983014292766720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tile-flip-game-primavera-round-1-entry/4672353939537920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_604185015553843455987612'
-    }, 
-    {
-      title: 'Iso', 
-      author: 'KarLlr', 
-      votes: 113, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728/5233359715614720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/iso/5019011286089728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1707156902675294234674703'
-    }, 
-    {
-      title: '- Clouds? -', 
-      author: 'Xiøn😋🤩', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520/4601335598333952.png', 
-      link: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
   ];
 };
