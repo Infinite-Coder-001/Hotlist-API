@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 43, 
+      votes: 42, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -199,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'ChatGPT made this', 
-      author: 'Jibanyanc', 
-      votes: 7, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
       author: 'Velvet #AltumFTW', 
       votes: 21, 
@@ -233,6 +224,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
+    }, 
+    {
+      title: 'ChatGPT made this', 
+      author: 'Jibanyanc', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'improved instructions', 
