@@ -91,6 +91,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
+    }, 
+    {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 59, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
-    }, 
-    {
-      title: 'Blurred ft. Blank Expression', 
-      author: 'CowboysFan232', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
       title: 'Pixel Art Tutorial', 
@@ -235,6 +235,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
+      title: 'A lone tree(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
       votes: 22, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'A lone tree(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Tribute to BEx [read code]', 
@@ -559,6 +559,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Air Hockey', 
+      author: 'sofia_sierra', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/air-hockey/5114521661521920/4962402325282816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/air-hockey/5114521661521920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_543199124353016358630392'
+    }, 
+    {
+      title: 'test room', 
+      author: 'the Knight_400', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test-room/5949190388891648/5847429107990528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test-room/5949190388891648', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'Night on the Security Job #2', 
       author: 'Cat_LOVER1', 
       votes: 2, 
@@ -730,12 +748,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6251492235651763601770504'
     }, 
     {
-      title: '10 pixels tall', 
+      title: 'henwy the stickman : BTB [GAME]', 
       author: 'Donate', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808/6497390384431104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/6440707519987712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
-    }, 
-    {
-      title: 'New program', 
-      author: 'aj', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704/5150019029352448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
-    }, 
-    {
-      title: 'Blooket', 
-      author: 'Timothy Lightson', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712/5760721972674560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
   ];
 };
