@@ -30,11 +30,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 52, 
+      votes: 53, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
+    }, 
+    {
+      title: 'Checkmate Flat-Earthers!', 
+      author: 'Phase #VirtusVictory', 
+      votes: 14, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'ChatGPT made this', 
@@ -46,18 +55,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
-      title: 'Checkmate Flat-Earthers!', 
-      author: 'Phase #VirtusVictory', 
-      votes: 13, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
       title: 'My grass cannon', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 22, 
+      votes: 23, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
@@ -174,11 +174,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 28, 
+      votes: 29, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
+      title: 'Ai Ball and Basket Game.', 
+      author: 'malseedlu', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
       title: 'The Return', 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
-    }, 
-    {
-      title: 'Ai Ball and Basket Game.', 
-      author: 'malseedlu', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -329,9 +329,18 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6091671617191936.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6249065710141440.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: '1st try of limericks?', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -478,15 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
-      title: '1st try of limericks?', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
       title: 'Gain Instant Knowledge', 
       author: 'Noah H.', 
       votes: 12, 
@@ -548,6 +548,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
+    }, 
+    {
+      title: 'Ignore this', 
+      author: 'Øɱɑɼ Ħ.', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/5599728948789248.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
     {
       title: 'Water wars teaser| the tank', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/5869441956233216.png', 
       link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: My Favorite Foods"', 
-      author: 'Sniper', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5121113010257920/6268082432819200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5121113010257920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_602941140017359271880351'
     }, 
   ];
 };
