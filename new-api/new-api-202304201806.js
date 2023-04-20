@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 63, 
+      votes: 64, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -40,7 +40,7 @@ var LoadHotlistAPI = function() {
       title: 'ChatGPT made this', 
       author: 'Jibanyanc', 
       votes: 23, 
-      forks: 2, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5172654513635328.png', 
       link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase #VirtusVictory', 
       votes: 11, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4526660612571136.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -145,18 +145,9 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
-      title: 'Pizza Maker Added New Stuff (Re-Release)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 28, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Pixel Art Tutorial', 
       author: 'Green Ghost', 
-      votes: 27, 
+      votes: 28, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
@@ -165,11 +156,20 @@ var LoadHotlistAPI = function() {
     {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
-      votes: 27, 
+      votes: 28, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/5266730185441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Pizza Maker Added New Stuff (Re-Release)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 28, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'The Return', 
@@ -208,6 +208,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
+      title: 'Hyped for TotK? :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 98, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'A lone tree(made by my younger brother)', 
       author: 'Radar', 
       votes: 7, 
@@ -215,15 +224,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
-      title: 'Hyped for TotK? :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 97, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
@@ -239,7 +239,7 @@ var LoadHotlistAPI = function() {
       author: 'malseedlu', 
       votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5608246506471424.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
@@ -323,6 +323,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6616885568520192.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: '💜Baby unicorn💜', 
+      author: 'Orange Monkey', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/5208477342679040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'Quiz Of Countries', 
@@ -413,6 +422,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736/6374342675185664.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
+    }, 
+    {
+      title: 'Crazy Color Winston', 
+      author: 'NoahHause', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
     }, 
     {
       title: 'Ooh, fresh meat for the grinder!!', 
@@ -514,15 +532,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
-      title: 'Crazy Color Winston', 
-      author: 'NoahHause', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
-      link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
-    }, 
-    {
       title: 'Water wars teaser| the tank', 
       author: 'Wolf🐺', 
       votes: 5, 
@@ -530,15 +539,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096/4856055143383040.png', 
       link: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
-    }, 
-    {
-      title: '💜Baby unicorn💜', 
-      author: 'Orange Monkey', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/6081334184558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'Glass Animals being Glass Animals', 
@@ -608,7 +608,7 @@ var LoadHotlistAPI = function() {
       author: 'minchj0', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456/4662537070362624.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456/6186138533675008.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
