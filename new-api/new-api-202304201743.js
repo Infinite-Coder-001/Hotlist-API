@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 38, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'that is better. -->', 
       author: 'ski', 
-      votes: 46, 
+      votes: 47, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
@@ -39,9 +39,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'ChatGPT made this', 
       author: 'Jibanyanc', 
-      votes: 22, 
+      votes: 23, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/4692259787554816.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5620542410637312.png', 
       link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
@@ -307,6 +307,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6616885568520192.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Quiz Of Countries', 
       author: 'Eisa S.', 
       votes: 32, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6616885568520192.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Hiding in Paridise', 
@@ -406,6 +406,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
     }, 
     {
+      title: 'Ooh, fresh meat for the grinder!!', 
+      author: 'minchj0', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832/6250029510868992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
+    }, 
+    {
       title: 'CrazyBaby_v1.2', 
       author: 'Fritz Chaucer', 
       votes: 9, 
@@ -458,15 +467,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256/5751776478543872.png', 
       link: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
-    }, 
-    {
-      title: 'Ooh, fresh meat for the grinder!!', 
-      author: 'minchj0', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832/6250029510868992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ooh-fresh-meat-for-the-grinder/5274650239352832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
     {
       title: 'Nord', 
@@ -590,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808/4684909622116352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808/6673947883257856.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
