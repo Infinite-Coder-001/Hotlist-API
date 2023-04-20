@@ -226,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
     }, 
     {
+      title: 'ChatGPT made this', 
+      author: 'Jibanyanc', 
+      votes: 6, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
+    }, 
+    {
       title: 'improved instructions', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 7, 
@@ -289,15 +298,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'ChatGPT made this', 
-      author: 'Jibanyanc', 
-      votes: 5, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
       title: 'Magus on a Cliff', 
       author: 'Horizon', 
       votes: 21, 
@@ -316,6 +316,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Wreck Racer (GAME)', 
+      author: 'QuasarBlast', 
+      votes: 85, 
+      forks: 7, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
+    }, 
+    {
       title: 'what is happening(updated )', 
       author: '🎮gamer guy🎮🟢', 
       votes: 51, 
@@ -323,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008/6184876014616576.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Wreck Racer (GAME)', 
-      author: 'QuasarBlast', 
-      votes: 84, 
-      forks: 7, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
       title: 'Nord', 
@@ -500,7 +500,7 @@ var LoadHotlistAPI = function() {
       author: 'Cooke\'s', 
       votes: 13, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336/5292133373493248.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336/5416190601379840.png', 
       link: 'https://www.khanacademy.org/computer-programming/apartment-buildings-magus/6113895556366336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1191657490399007636732524'
     }, 
@@ -532,6 +532,24 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
     }, 
     {
+      title: 'test', 
+      author: 'Jorge B', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/test/5322619672117248/6650400607617024.png', 
+      link: 'https://www.khanacademy.org/computer-programming/test/5322619672117248', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
+    }, 
+    {
+      title: '1st try of limericks?', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'what it will be like when robots take over', 
       author: '🎮gamer guy🎮🟢', 
       votes: 46, 
@@ -539,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5533855055659008.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
+      title: 'Spin-off of "Project: Ad design"', 
+      author: 'jacpark0', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6732974323449856/4524834160951296.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/6732974323449856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_755029579238821959947507'
     }, 
     {
       title: 'tile flip game! (primavera round 1 entry)', 
@@ -572,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'Xiøn😋🤩', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520/6160869848563712.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520/5888955922038784.png', 
       link: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5412733723131904/5135498785112064.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/5412733723131904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_206427148757968675768134'
-    }, 
-    {
-      title: 'Don\'t Click Me', 
-      author: 'Sushi Coder', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488/6294708486979584.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dont-click-me/4861953223999488', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_933246298788341440556416'
-    }, 
-    {
-      title: 'test', 
-      author: 'Jorge B', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test/5322619672117248/6650400607617024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test/5322619672117248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
-    }, 
-    {
-      title: '1D Perlin noise', 
-      author: 'James Rummel', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1d-perlin-noise/6344097213497344/6695871023726592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1d-perlin-noise/6344097213497344', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_902482142612807380944250'
     }, 
   ];
 };
