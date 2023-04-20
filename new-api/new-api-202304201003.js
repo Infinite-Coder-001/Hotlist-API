@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'ski', 
       votes: 42, 
       forks: 5, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5772838813614080.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
