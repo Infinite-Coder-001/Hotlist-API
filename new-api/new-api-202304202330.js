@@ -3,11 +3,20 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 44, 
+      votes: 46, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4835230457577472.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
+      title: 'Africa :)', 
+      author: 'Arrow.programming', 
+      votes: 21, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6714097052991488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'that is better. -->', 
@@ -17,15 +26,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
-    }, 
-    {
-      title: 'Africa :)', 
-      author: 'Arrow.programming', 
-      votes: 18, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/4622131393773568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Blurred ft. Blank Expression', 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'this was made using my pixel art converter', 
       author: 'Clark Kent (offline)', 
-      votes: 12, 
+      votes: 13, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
@@ -102,20 +102,29 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sunny day(made by my younger brother)', 
       author: 'Radar', 
-      votes: 14, 
+      votes: 15, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4810251414323200.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
       link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
-      votes: 59, 
+      votes: 60, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Night Time (made by my younger brother)', 
+      author: 'Radar', 
+      votes: 13, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
@@ -161,15 +170,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
-      title: 'Night Time (made by my younger brother)', 
-      author: 'Radar', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -354,7 +354,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'New program', 
       author: 'LightningCoder', 
-      votes: 15, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
@@ -469,6 +469,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
+      title: 'The Adventures of Aequor [Game]', 
+      author: '▪Dipper98▪', 
+      votes: 29, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
       title: 'the Winstons move your mouse ', 
       author: 'gamer guy', 
       votes: 3, 
@@ -512,15 +521,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928/4897545181773824.png', 
       link: 'https://www.khanacademy.org/computer-programming/botw-pixel-art-with-navy-background-for-fromage-3/4821749184380928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'The Adventures of Aequor [Game]', 
-      author: '▪Dipper98▪', 
-      votes: 28, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
       title: 'Aequor Rush ', 
