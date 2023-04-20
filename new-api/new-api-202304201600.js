@@ -165,7 +165,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Aequor Platformer', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 46, 
+      votes: 47, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
@@ -188,6 +188,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/5176052772290560.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
@@ -244,13 +253,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 7, 
+      title: 'A lone tree(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 6, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
@@ -296,15 +305,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'A lone tree(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'New program', 
@@ -815,7 +815,7 @@ var LoadHotlistAPI = function() {
       author: 'Pixel GP ✝', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/6142721732689920.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/6217698859335680.png', 
       link: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1186600655527645004712210'
     }, 
