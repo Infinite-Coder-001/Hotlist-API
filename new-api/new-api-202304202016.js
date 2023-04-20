@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
-      title: 'Blurred ft. Blank Expression', 
-      author: 'CowboysFan232', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
-    }, 
-    {
       title: 'The Return', 
       author: 'CowboysFan232', 
       votes: 58, 
@@ -271,6 +262,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
+    }, 
+    {
       title: 'Tribute to BEx [read code]', 
       author: 'Phase #VirtusVictory', 
       votes: 21, 
@@ -341,15 +341,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Clark Kent (offline)', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: '1st try of limericks?', 
@@ -550,15 +541,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Loro', 
-      author: 'César  Cristerna', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136/5170189923827712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_958572959958073729947075'
-    }, 
-    {
       title: 'Nord', 
       author: 'Hibernia Productions🎥', 
       votes: 7, 
@@ -649,6 +631,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1050931761587125600497311'
     }, 
     {
+      title: 'New program', 
+      author: 'Clark Kent (offline)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 17, 
@@ -701,15 +692,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808/6497390384431104.png', 
       link: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
-    }, 
-    {
-      title: 'untitled / wip', 
-      author: 'Snowflake #AltumFTW', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/untitled-wip/4946220935331840/6673231529689088.png', 
-      link: 'https://www.khanacademy.org/computer-programming/untitled-wip/4946220935331840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
     {
       title: 'Spin-off z "Wyzwanie: Baza danych książek"', 
@@ -802,15 +784,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5055962513477763055155370'
     }, 
     {
-      title: 'guess the video game emoji edition ', 
-      author: 'LovelyPetals', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672/6698653474668544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
-    }, 
-    {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Alex Delegas', 
       votes: 22, 
@@ -874,6 +847,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
+      title: 'guess the video game emoji edition ', 
+      author: 'LovelyPetals', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672/6698653474668544.png', 
+      link: 'https://www.khanacademy.org/computer-programming/guess-the-video-game-emoji-edition/6675970183708672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
+    }, 
+    {
       title: 'Lake of Virtue', 
       author: 'Bearkirb314🐻‍❄️', 
       votes: 21, 
@@ -899,6 +881,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test/5322619672117248/6650400607617024.png', 
       link: 'https://www.khanacademy.org/computer-programming/test/5322619672117248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
+    }, 
+    {
+      title: 'War Of Avatars Pt.2', 
+      author: 'NotMe73', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520/6505679469985792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
+      title: 'what it will be like when robots take over', 
+      author: 'gamer guy', 
+      votes: 46, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688/5533855055659008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-it-will-be-like-when-robots-take-over/4727013236850688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
   ];
 };
