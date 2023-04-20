@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 35, 
+      votes: 36, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 14, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
       author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
       votes: 56, 
@@ -62,15 +71,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
-    }, 
-    {
-      title: 'Primavera Stats', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 12, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'Lazer maze', 
