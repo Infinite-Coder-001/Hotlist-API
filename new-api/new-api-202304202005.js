@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Checkmate Flat-Earthers!', 
       author: 'Phase #VirtusVictory', 
-      votes: 17, 
+      votes: 18, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
@@ -442,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Track', 
+      author: 'mandigo.lucy', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/track/6744618818650112/6685343404572672.png', 
+      link: 'https://www.khanacademy.org/computer-programming/track/6744618818650112', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_739208649119604773265400'
+    }, 
+    {
       title: 'Magus on a Cliff', 
       author: 'Horizon', 
       votes: 22, 
@@ -737,15 +746,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/usable-buttons-and-slider-functions/5253012194115584/6225677348290560.png', 
       link: 'https://www.khanacademy.org/computer-programming/usable-buttons-and-slider-functions/5253012194115584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
-    }, 
-    {
-      title: 'Track', 
-      author: 'mandigo.lucy', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/track/6744618818650112/6685343404572672.png', 
-      link: 'https://www.khanacademy.org/computer-programming/track/6744618818650112', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_739208649119604773265400'
     }, 
     {
       title: 'yrygpot', 
