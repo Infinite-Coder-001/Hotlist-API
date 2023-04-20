@@ -31,7 +31,7 @@ var LoadHotlistAPI = function() {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
       votes: 52, 
-      forks: 2, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'My grass cannon', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 20, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
@@ -64,6 +64,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'Checkmate Flat-Earthers!', 
+      author: 'Phase #VirtusVictory', 
+      votes: 10, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4650365535698944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
       votes: 23, 
@@ -71,15 +80,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
-      title: 'Checkmate Flat-Earthers!', 
-      author: 'Phase #VirtusVictory', 
-      votes: 9, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4650365535698944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
@@ -127,6 +127,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+    }, 
+    {
       title: 'Sunny day(made by my younger brother)', 
       author: 'Radar', 
       votes: 10, 
@@ -134,15 +143,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4810251414323200.png', 
       link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 11, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_973728659213788978640960'
     }, 
     {
+      title: 'New program', 
+      author: 'aj', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736/6374342675185664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
+    }, 
+    {
       title: 'CrazyBaby_v1.2', 
       author: 'Fritz Chaucer', 
       votes: 9, 
@@ -514,15 +523,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
-      title: 'New program', 
-      author: 'aj', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736/6374342675185664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6460666350452736', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
-    }, 
-    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 17, 
@@ -536,7 +536,7 @@ var LoadHotlistAPI = function() {
       author: 'Emily Vasquez', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832/5756624573874176.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832/6321966136213504.png', 
       link: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9777300700863113724645305'
     }, 
@@ -730,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
     }, 
     {
+      title: 'New program', 
+      author: 'aj', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704/5150019029352448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5407328104136704', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4096396409417882770213075'
+    }, 
+    {
       title: 'Blooket', 
       author: 'Timothy Lightson', 
       votes: 6, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5434704896770048.png', 
       link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
-    }, 
-    {
-      title: 'TOLD YOU', 
-      author: 'Hyrule Coder', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/told-you/6352088436359168/6036321887109120.png', 
-      link: 'https://www.khanacademy.org/computer-programming/told-you/6352088436359168', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
     }, 
   ];
 };
