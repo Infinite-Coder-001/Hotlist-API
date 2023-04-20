@@ -887,7 +887,7 @@ var LoadHotlistAPI = function() {
       author: 'Chickenfarmer2009', 
       votes: 8, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296/5805611611897856.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296/6514645734309888.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-first-ever-dodge-game/6099510100279296', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_287879839213083022099587'
     }, 
