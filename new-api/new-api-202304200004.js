@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i beat JS', 
       author: 'ski', 
-      votes: 34, 
+      votes: 35, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 51, 
+      votes: 52, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 11, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6707257200132096.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
       votes: 27, 
@@ -98,15 +107,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Primavera Stats', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6707257200132096.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'The Return', 
@@ -298,6 +298,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5536735636537344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'what is happening(updated )', 
       author: '🎮gamer guy🎮🟢', 
       votes: 51, 
@@ -314,15 +323,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5531469754974208.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Nord', 
@@ -577,6 +577,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
+      title: 'hmmmmm...', 
+      author: 'the Knight_400', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256/6640710507085824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
       title: 'Sweet Dreams', 
       author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
       votes: 44, 
@@ -593,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
+    }, 
+    {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/5225369381945344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'apex\'s gaming pc', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304/4755947936595968.png', 
       link: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
-    }, 
-    {
-      title: 'My Skin  | the wolf. | skins and characters', 
-      author: 'Wolf🐺', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-skin-the-wolf-skins-and-characters/4527079858421760/4778778548289536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-skin-the-wolf-skins-and-characters/4527079858421760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
-    }, 
-    {
-      title: 'Spin-off of "Challenge: Sunny snowy day"', 
-      author: 'lana.gia', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6592808166408192/5388186005323776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-sunny-snowy-day/6592808166408192', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_825874705038592489520882'
     }, 
   ];
 };
