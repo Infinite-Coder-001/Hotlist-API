@@ -32,7 +32,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 21, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
