@@ -302,7 +302,7 @@ var LoadHotlistAPI = function() {
       author: 'LightningCoder', 
       votes: 10, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/5536735636537344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6251769794707456.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
@@ -442,6 +442,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/5225369381945344.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+    }, 
+    {
       title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
       author: 'Quinn Hardbrook', 
       votes: 7, 
@@ -577,6 +586,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
     {
+      title: 'Memory (my first game)', 
+      author: 'Pixel GP ✝', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/6347934733221888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1186600655527645004712210'
+    }, 
+    {
       title: 'hmmmmm...', 
       author: 'the Knight_400', 
       votes: 2, 
@@ -602,15 +620,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344/4701676385910784.png', 
       link: 'https://www.khanacademy.org/computer-programming/using-mathematical-instruction-tavon/6523078650937344', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
-    }, 
-    {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/5225369381945344.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'apex\'s gaming pc', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
-    }, 
-    {
-      title: 'Original Collision Test [2016]', 
-      author: 'reumarks', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304/4755947936595968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/original-collision-test-2016/6683670120546304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_357747643598460293734390'
     }, 
   ];
 };
