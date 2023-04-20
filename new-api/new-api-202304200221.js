@@ -1,12 +1,12 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'that is better. -->', 
+      title: 'i beat JS', 
       author: 'ski', 
-      votes: 40, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5772838813614080.png', 
-      link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
+      votes: 39, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320/6641231523528704.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-beat-js/5199387530936320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Pizza Maker Added New Stuff (Re-Release)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 28, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
       votes: 27, 
@@ -107,6 +98,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/5266730185441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Pizza Maker Added New Stuff (Re-Release)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 27, 
+      forks: 4, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'The Return', 
@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: 'Dark mode | KACP Concept ', 
-      author: 'Eisa S.', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
       votes: 22, 
@@ -143,15 +134,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'My grass cannon', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
-      link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
       title: 'Pixel Art Tutorial', 
@@ -163,9 +145,18 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
+      title: 'Dark mode | KACP Concept ', 
+      author: 'Eisa S.', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 93, 
+      votes: 92, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
       link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
@@ -253,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'My grass cannon', 
+      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
+      link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
+    }, 
+    {
       title: 'Hiding in Paridise', 
       author: 'Cataclysmic Code 🌩‮', 
       votes: 26, 
@@ -318,7 +318,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
-      votes: 86, 
+      votes: 85, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160/6540266690625536.png', 
       link: 'https://www.khanacademy.org/computer-programming/wreck-racer-game/5547489429340160', 
@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
     {
-      title: 'the beach (animation)', 
-      author: '🎮gamer guy🎮🟢', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
       author: 'ⱠeaferStudios', 
       votes: 16, 
@@ -395,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
+      title: 'the beach (animation)', 
+      author: '🎮gamer guy🎮🟢', 
+      votes: 19, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'NotMe73 Sub page!', 
