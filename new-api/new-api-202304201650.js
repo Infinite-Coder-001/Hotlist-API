@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 61, 
+      votes: 62, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -71,6 +71,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
+      title: 'Checkmate Flat-Earthers!', 
+      author: 'Phase #VirtusVictory', 
+      votes: 8, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4650365535698944.png', 
+      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/5266730185441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
-    }, 
-    {
-      title: 'Checkmate Flat-Earthers!', 
-      author: 'Phase #VirtusVictory', 
-      votes: 6, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4650365535698944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
       title: 'Pixel Art Tutorial', 
@@ -523,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
     {
+      title: 'op art ', 
+      author: 'Emily Vasquez', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832/5756624573874176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9777300700863113724645305'
+    }, 
+    {
       title: 'New Shirt Design', 
       author: 'Dojo Cat', 
       votes: 5, 
@@ -548,6 +557,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/axis/5052649386065920/6223603600506880.png', 
       link: 'https://www.khanacademy.org/computer-programming/axis/5052649386065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6251492235651763601770504'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Frederick Appah', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
+    }, 
+    {
+      title: 'Pikachu Sprites (REPOST)', 
+      author: 'DogToon64', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-sprites-repost/5231714273378304/6542262340468736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pikachu-sprites-repost/5231714273378304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_917984944997653249566783'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -703,6 +730,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_907953889159554593845335'
     }, 
     {
+      title: 'Blooket', 
+      author: 'Timothy Lightson', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712/5760721972674560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
+    }, 
+    {
       title: 'guess the video game emoji edition ', 
       author: 'LovelyPetals', 
       votes: 5, 
@@ -746,15 +782,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test/5322619672117248/6650400607617024.png', 
       link: 'https://www.khanacademy.org/computer-programming/test/5322619672117248', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
-    }, 
-    {
-      title: 'Blooket', 
-      author: 'Timothy Lightson', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712/5760721972674560.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blooket/4520733406707712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
       title: 'what it will be like when robots take over', 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/told-you/6352088436359168/6036321887109120.png', 
       link: 'https://www.khanacademy.org/computer-programming/told-you/6352088436359168', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5901892943037065256373377'
-    }, 
-    {
-      title: 'Yorg [Pixel game!]', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904/4510282979524608.png', 
-      link: 'https://www.khanacademy.org/computer-programming/yorg-pixel-game/4815402967547904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
-    }, 
-    {
-      title: 'War Of Avatars Pt.2', 
-      author: 'NotMe73', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520/6505679469985792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/war-of-avatars-pt2/5924566125035520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
-    }, 
-    {
-      title: 'Broccoli', 
-      author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 11, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384/4952507987312640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/broccoli/5776984363024384', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
   ];
 };
