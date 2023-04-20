@@ -194,7 +194,7 @@ var LoadHotlistAPI = function() {
       author: 'ÐoɠIovɛɼ', 
       votes: 28, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/4957042843631616.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5424973037748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
     }, 
