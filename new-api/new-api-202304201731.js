@@ -59,7 +59,7 @@ var LoadHotlistAPI = function() {
       author: 'Phase #VirtusVictory', 
       votes: 11, 
       forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4650365535698944.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4526660612571136.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
@@ -75,7 +75,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
-      votes: 23, 
+      votes: 24, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
@@ -130,7 +130,7 @@ var LoadHotlistAPI = function() {
       title: 'Farming Adventure V2', 
       author: 'DES', 
       votes: 12, 
-      forks: 1, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
@@ -199,6 +199,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Hyped for TotK? :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 97, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
+    }, 
+    {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
       author: 'Jake K.', 
       votes: 35, 
@@ -206,15 +215,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952/6508040041054208.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-respective-domains-of-the-2023-primavera-avatars/6390539701501952', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
-    }, 
-    {
-      title: 'Hyped for TotK? :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 96, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Ai Ball and Basket Game.', 
@@ -523,6 +523,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
+      title: 'this was made using my pixel art converter', 
+      author: 'Clark Kent (offline)', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/4543747896688640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 17, 
@@ -581,7 +590,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808/4532897458733056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808/4684909622116352.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
       link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
-    }, 
-    {
-      title: 'apex\'s gaming pc', 
-      author: 'apex', 
-      votes: 56, 
-      forks: 4, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392/5434704896770048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apexs-gaming-pc/6749284226875392', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116211384842396834715509'
     }, 
   ];
 };
