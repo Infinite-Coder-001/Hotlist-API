@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
+      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
+      votes: 56, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/5529674215374848.png', 
+      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
+    }, 
+    {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 55, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
-    }, 
-    {
-      title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
-      author: 'Samurai Warrior ✝ #TeamAequorFTW!', 
-      votes: 55, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/5529674215374848.png', 
-      link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
       title: 'Dueler [Fight your Friends]', 
@@ -86,7 +86,7 @@ var LoadHotlistAPI = function() {
       author: 'Ibraheem Ahmed (IA)', 
       votes: 11, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6707257200132096.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
@@ -136,6 +136,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 20, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Hyped for TotK? :)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 92, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
-    }, 
-    {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 19, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
@@ -352,6 +352,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_649702270959678261296687'
     }, 
     {
+      title: 'Gain Instant Knowledge', 
+      author: 'Noah H.', 
+      votes: 10, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5618170464616448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'CrazyBaby_v1.2', 
       author: 'Fritz Chaucer', 
       votes: 7, 
@@ -368,15 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
-    }, 
-    {
-      title: 'Gain Instant Knowledge', 
-      author: 'Noah H.', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5618170464616448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
       title: 'the beach (animation)', 
@@ -419,7 +419,7 @@ var LoadHotlistAPI = function() {
       author: 'Radar', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4618506877583360.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
@@ -431,6 +431,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
+    }, 
+    {
+      title: 'hmmmmm...', 
+      author: 'the Knight_400', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256/4958897883627520.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Water wars teaser| the tank', 
@@ -590,18 +599,9 @@ var LoadHotlistAPI = function() {
       author: 'Pixel GP ✝', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/6347934733221888.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/5986872804556800.png', 
       link: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1186600655527645004712210'
-    }, 
-    {
-      title: 'hmmmmm...', 
-      author: 'the Knight_400', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256/6640710507085824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
     }, 
     {
       title: 'Sweet Dreams', 
@@ -811,6 +811,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
+      title: 'What happens during a lunar eclipse', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
+    }, 
+    {
       title: 'Rotating 6-Sided Colored Cube', 
       author: 'dlonmsk51', 
       votes: 9, 
@@ -883,22 +892,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1120698002580504205175873'
     }, 
     {
-      title: 'move the box around the screen', 
+      title: 'move the box around the screen soon have gun', 
       author: 'Conqueror#MagusFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen/5335473804591104/5201029600952320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen/5335473804591104', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen-soon-have-gun/5335473804591104/5188020597997568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/move-the-box-around-the-screen-soon-have-gun/5335473804591104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_673641600232700623804785'
-    }, 
-    {
-      title: 'THE OH-NOES BATTLE GAME', 
-      author: 'Newforest20', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352/5281830099271680.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-oh-noes-battle-game/5068167295844352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_444076355829572707249495'
     }, 
   ];
 };
