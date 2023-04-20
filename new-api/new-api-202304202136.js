@@ -1,22 +1,22 @@
 var LoadHotlistAPI = function() {
   return [
     {
-      title: 'Primavera Stats', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 43, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/5468438626877440.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
-    }, 
-    {
       title: 'Checkmate Flat-Earthers!', 
       author: 'Phase #VirtusVictory', 
-      votes: 24, 
+      votes: 25, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 43, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4835230457577472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'that is better. -->', 
@@ -100,6 +100,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
+      title: 'Africa :)', 
+      author: 'Arrow.programming', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/4622131393773568.png', 
+      link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
+    }, 
+    {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 59, 
@@ -152,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
-      title: 'Africa :)', 
-      author: 'Arrow.programming', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/4622131393773568.png', 
-      link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
     {
       title: 'Farming Adventure V2', 
@@ -280,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: '1st try of limericks?', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
       title: 'Tribute to BEx [read code]', 
       author: 'Phase #VirtusVictory', 
       votes: 21, 
@@ -287,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072/4608115271319552.png', 
       link: 'https://www.khanacademy.org/computer-programming/tribute-to-bex-read-code/5770291394691072', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'Ignore this', 
+      author: 'Øɱɑɼ Ħ.', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/6046347968167936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
     {
       title: 'music and vibes', 
@@ -325,15 +343,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
-      title: '1st try of limericks?', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
-      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
       title: 'improved instructions', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 8, 
@@ -365,7 +374,7 @@ var LoadHotlistAPI = function() {
       author: 'Crystal Coding # Go Cinis!', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680/5051585073037312.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680/5381552713547776.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
@@ -395,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_101904269317089495055459'
-    }, 
-    {
-      title: 'Ignore this', 
-      author: 'Øɱɑɼ Ħ.', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/6046347968167936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
     }, 
     {
       title: 'Hiding in Paridise', 
@@ -613,6 +613,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
+      title: 'Spin-off of "Terrific Text: Part One"', 
+      author: 'Louis XVI', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/5291423361712128/6276316338110464.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-terrific-text-part-one/5291423361712128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_728646226681215223800846'
+    }, 
+    {
       title: 'Spin-off of "Challenge: Exploding Sun"', 
       author: 'Rip_bacon', 
       votes: 2, 
@@ -629,6 +638,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-running-ostrich/6726424011784192/5382973743742976.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-running-ostrich/6726424011784192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1002308869005372664418925'
+    }, 
+    {
+      title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5286660242980864.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'SUB PAGE', 
@@ -737,6 +755,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696/6498930750963712.png', 
       link: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
+    }, 
+    {
+      title: 'SONY logo (moving)', 
+      author: 'That One Kid', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520/5273997421101056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1998147188907070189553958'
+    }, 
+    {
+      title: 'totklogobutwithcircles', 
+      author: 'hart.lincoln', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784/4521283414179840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_518061050927189813818634'
     }, 
     {
       title: 'chicken', 
@@ -863,42 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6473169654562816/6572578853666816.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-z-wyzwanie-baza-danych-ksiek/6473169654562816', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9335881412114587680519077'
-    }, 
-    {
-      title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
-      author: 'Quinn Hardbrook', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024/5000681472966656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flat-world-proof-how-else-would-noise-that-vaguely-resembles-land-fit-on-your-computer-screen-obviously-the-earth-is-flat/4895807901057024', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_96558739702575557799545'
-    }, 
-    {
-      title: 'the beach (animation)', 
-      author: 'gamer guy', 
-      votes: 20, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928/6164478292180992.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-beach-animation/4798318753660928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Morse code', 
-      author: 'Aspen', 
-      votes: 20, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000/5032808465874944.png', 
-      link: 'https://www.khanacademy.org/computer-programming/morse-code/5179746318336000', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
-      title: 'Team Opes Slideshow | Primavera 2023 Challenge 1 - Avatars [ENTRY]', 
-      author: 'ⱠeaferStudios', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
     }, 
   ];
 };
