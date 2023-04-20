@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
+      title: 'Primavera Stats', 
+      author: 'Ibraheem Ahmed (IA)', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
+      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
       votes: 22, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5589839585263616.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
-    }, 
-    {
-      title: 'Primavera Stats', 
-      author: 'Ibraheem Ahmed (IA)', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
-      link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
       title: 'She loves Aequor - you should too! ;) &#60;3 | Primavera Challenge 1: Avatar Theme', 
@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'i do stuf', 
       author: 'NL#Midsane', 
-      votes: 56, 
+      votes: 57, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552/6090702699413504.png', 
       link: 'https://www.khanacademy.org/computer-programming/i-do-stuf/4751038277271552', 
@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_820167475461480890635740'
     }, 
     {
+      title: 'Quiz Of Countries', 
+      author: 'Eisa S.', 
+      votes: 29, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
+      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
       title: 'Aequor Rush ', 
       author: 'LightningCoder', 
       votes: 53, 
@@ -260,15 +269,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Quiz Of Countries', 
-      author: 'Eisa S.', 
-      votes: 28, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
-      link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'DES', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/5225369381945344.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
