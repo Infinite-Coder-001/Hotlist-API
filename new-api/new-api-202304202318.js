@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 17, 
+      votes: 18, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/4622131393773568.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 67, 
+      votes: 68, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -271,6 +271,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
+      title: 'New program', 
+      author: 'Crystal Coding # Go Cinis!', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680/5381552713547776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
+    }, 
+    {
       title: 'improved instructions', 
       author: 'Ibraheem Ahmed (IA)', 
       votes: 10, 
@@ -318,7 +327,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Raising Virtus', 
       author: 'Reflex', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/5459916690341888.png', 
       link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
@@ -359,15 +368,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/4765825396686848.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Crystal Coding # Go Cinis!', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680/5381552713547776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6641229191495680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
       title: 'SUB PAGE', 
@@ -464,7 +464,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/5828611178545152.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/5117159912292352.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -622,6 +622,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
+      title: 'what is happening(updated )', 
+      author: 'gamer guy', 
+      votes: 54, 
+      forks: 9, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008/6184876014616576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
       votes: 89, 
@@ -638,15 +647,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352/5277762446475264.png', 
       link: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1159061867024612736039518'
-    }, 
-    {
-      title: 'what is happening(updated )', 
-      author: 'gamer guy', 
-      votes: 53, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008/6184876014616576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-is-happeningupdated/4600605638443008', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'New program', 
