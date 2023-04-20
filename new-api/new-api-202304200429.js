@@ -820,20 +820,11 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_18742994200781366480440'
     }, 
     {
-      title: 'Back to the Future | Time Circuits', 
-      author: 'richhonican', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120/4910385758257152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/back-to-the-future-time-circuits/5205806703493120', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1068387095364126237030075'
-    }, 
-    {
       title: 'My newest attempt at a maze', 
       author: 'DovidMathBoy', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848/5479799956226048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848/5573445158223872.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
     }, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504/4645817215664128.png', 
       link: 'https://www.khanacademy.org/computer-programming/rotating-6-sided-colored-cube/4704497810325504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1074390240362051919313135'
+    }, 
+    {
+      title: '21', 
+      author: 'LunaTC', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/21/6502065011736576/4962129376755712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/21/6502065011736576', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5680616701342521158617101'
     }, 
   ];
 };
