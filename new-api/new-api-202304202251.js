@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 16, 
+      votes: 15, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/4622131393773568.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Sunny day(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 14, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4810251414323200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 59, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Sunny day(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 12, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4810251414323200.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
@@ -165,8 +165,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 31, 
-      forks: 5, 
+      votes: 30, 
+      forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
-      title: 'A lone tree(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'The Return', 
       author: 'CowboysFan232', 
       votes: 59, 
@@ -242,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'A lone tree(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -370,15 +370,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_351465532815782433620675'
     }, 
     {
-      title: 'SUB PAGE', 
-      author: 'XanderCLA11_15', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page/4548312683560960/4674659145793536.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sub-page/4548312683560960', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
       title: 'Air Hockey', 
       author: 'sofia_sierra', 
       votes: 3, 
@@ -458,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456/6186138533675008.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
-    }, 
-    {
-      title: 'henwy the stickman : BTB [GAME]', 
-      author: 'Donate', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/5828611178545152.png', 
-      link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
       title: 'the Winstons move your mouse ', 
@@ -680,9 +662,18 @@ var LoadHotlistAPI = function() {
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5107303843151872.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5452096494419968.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'SUB PAGE', 
+      author: 'XanderCLA11_15', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sub-page/4548312683560960/4674659145793536.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sub-page/4548312683560960', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'test room', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/axis/5052649386065920/6223603600506880.png', 
       link: 'https://www.khanacademy.org/computer-programming/axis/5052649386065920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_6251492235651763601770504'
+    }, 
+    {
+      title: 'abstract art', 
+      author: 'isaacmengwasser2025', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/abstract-art/5693213995483136/5660795313897472.png', 
+      link: 'https://www.khanacademy.org/computer-programming/abstract-art/5693213995483136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_969747322091739997554564'
     }, 
   ];
 };
