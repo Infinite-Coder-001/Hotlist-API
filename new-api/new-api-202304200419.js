@@ -833,7 +833,7 @@ var LoadHotlistAPI = function() {
       author: 'DovidMathBoy', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848/5479799956226048.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848/4940274905432064.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-newest-attempt-at-a-maze/6325972266958848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1090855663615960363373175'
     }, 
