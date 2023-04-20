@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'that is better. -->', 
       author: 'ski', 
-      votes: 44, 
+      votes: 45, 
       forks: 6, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 26, 
+      votes: 29, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
-      votes: 18, 
+      votes: 19, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
+      title: 'Water wars teaser| the tank', 
+      author: 'Wolf🐺', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096/4856055143383040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
+    }, 
+    {
       title: 'golden hour', 
       author: 'boba bear', 
       votes: 17, 
@@ -449,6 +458,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288/6396616048427008.png', 
       link: 'https://www.khanacademy.org/computer-programming/team-opes-slideshow-primavera-2023-challenge-1-avatars-entry/4943206119948288', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276'
+    }, 
+    {
+      title: 'Usable Buttons and Slider functions', 
+      author: 'daniel‮', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/usable-buttons-and-slider-functions/5253012194115584/6225677348290560.png', 
+      link: 'https://www.khanacademy.org/computer-programming/usable-buttons-and-slider-functions/5253012194115584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_295287800819144240639403'
     }, 
     {
       title: 'NotMe73 Sub page!', 
@@ -512,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-poem/6051926929358848/4617140792770560.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-poem/6051926929358848', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_217355806436909286276283'
-    }, 
-    {
-      title: 'Water wars teaser| the tank', 
-      author: 'Wolf🐺', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096/4856055143383040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
       title: 'Flat World Proof! (how else would noise that vaguely resembles land fit on your computer screen??? obviously the earth is flat)', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4879416057708544/6072359699398656.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4879416057708544', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9418193249050607330661900'
-    }, 
-    {
-      title: 'Spin-off of "Project: My Titles"', 
-      author: 'bp.cloud09', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-my-titles/4848556759629824/5097499632386048.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-my-titles/4848556759629824', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4707975372489187567774283'
     }, 
   ];
 };
