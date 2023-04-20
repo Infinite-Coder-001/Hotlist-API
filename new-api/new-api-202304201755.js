@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 41, 
+      votes: 40, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/6218718746296320.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -40,15 +40,15 @@ var LoadHotlistAPI = function() {
       title: 'ChatGPT made this', 
       author: 'Jibanyanc', 
       votes: 23, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5172654513635328.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5620542410637312.png', 
       link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'My grass cannon', 
       author: '𝕭𝖑𝖚𝖊 𝕲𝖍𝖔𝖚𝖑', 
-      votes: 22, 
+      votes: 21, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128/5442104756322304.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-grass-cannon/5791633959600128', 
@@ -100,15 +100,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
     }, 
     {
-      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 25, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5044702404722688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Dueler [Fight your Friends]', 
       author: 'Eprony My Dear Sir', 
       votes: 75, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
+    }, 
+    {
+      title: 'I\'ɯ uoʇ lǝɐʌᴉuƃ ꓘ∀', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 24, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320/5044702404722688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/i-uo-lu/5617744189112320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'Lazer maze', 
@@ -154,15 +154,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 27, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
-    }, 
-    {
       title: '\'Corn', 
       author: 'The No-Sock Guy', 
       votes: 27, 
@@ -170,6 +161,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488/5266730185441280.png', 
       link: 'https://www.khanacademy.org/computer-programming/corn/4636993826111488', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_533978982937476630790970'
+    }, 
+    {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 26, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'The Return', 
@@ -197,24 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Night Time (made by my younger brother)', 
-      author: 'Radar', 
-      votes: 8, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
-      title: 'A lone tree(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Hyped for TotK? :)', 
@@ -253,15 +235,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
     }, 
     {
-      title: 'this was made using my pixel art converter', 
-      author: 'Clark Kent (offline)', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/4543747896688640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
       title: 'Tribute to BEx [read code]', 
       author: 'Phase #VirtusVictory', 
       votes: 20, 
@@ -280,6 +253,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
+      title: 'Night Time (made by my younger brother)', 
+      author: 'Radar', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
       title: 'Raising Virtus', 
       author: 'Reflex', 
       votes: 34, 
@@ -287,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/6078699012407296.png', 
       link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
+    }, 
+    {
+      title: 'A lone tree(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'improved instructions', 
@@ -532,22 +523,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
     }, 
     {
-      title: '💜Baby unicorn💜', 
-      author: 'Orange Monkey', 
+      title: 'this was made using my pixel art converter', 
+      author: 'Clark Kent (offline)', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/6081334184558592.png', 
-      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
-    }, 
-    {
-      title: 'Glass Animals being Glass Animals', 
-      author: 'ᑕEᗪᗩᖇ', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272/6700514621571072.png', 
-      link: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1050931761587125600497311'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/4543747896688640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'golden hour', 
@@ -602,15 +584,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pikachu-sprites-repost/5231714273378304/6542262340468736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pikachu-sprites-repost/5231714273378304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_917984944997653249566783'
-    }, 
-    {
-      title: 'Subscribe To Me', 
-      author: 'minchj0', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456/4662537070362624.png', 
-      link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
     }, 
     {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
@@ -899,6 +872,33 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5121113010257920/6268082432819200.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-challenge-my-favorite-foods/5121113010257920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_602941140017359271880351'
+    }, 
+    {
+      title: 'Night on the Security Job', 
+      author: 'Cat_LOVER1', 
+      votes: 2, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job/4567013927469056/4866202607599616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job/4567013927469056', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_7436542619565958689603816'
+    }, 
+    {
+      title: 'Memory (my first game)', 
+      author: 'Pixel GP ✝', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888/6217698859335680.png', 
+      link: 'https://www.khanacademy.org/computer-programming/memory-my-first-game/4670328476581888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1186600655527645004712210'
+    }, 
+    {
+      title: 'Sweet Dreams', 
+      author: '𝒞𝓇𝓎𝓈𝓉𝒶𝓁', 
+      votes: 44, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992/4785996962250752.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sweet-dreams/6620982145236992', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_982644517699547961306907'
     }, 
   ];
 };
