@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Checkmate Flat-Earthers!', 
       author: 'Phase #VirtusVictory', 
-      votes: 18, 
+      votes: 19, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
@@ -154,6 +154,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
+    }, 
+    {
       title: 'Pixel Art Tutorial', 
       author: 'Green Ghost', 
       votes: 29, 
@@ -188,15 +197,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
-    }, 
-    {
-      title: 'Blurred ft. Blank Expression', 
-      author: 'CowboysFan232', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
       title: 'The Return', 
@@ -332,6 +332,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
+      title: 'Loro', 
+      author: 'César  Cristerna', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136/5170189923827712.png', 
+      link: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_958572959958073729947075'
     }, 
     {
       title: 'i do stuf', 
@@ -550,13 +559,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
-      title: 'Loro', 
-      author: 'César  Cristerna', 
+      title: '3x3', 
+      author: 'john david', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136/5170189923827712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_958572959958073729947075'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448/4918797669810176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
     }, 
     {
       title: 'Nord', 
@@ -575,6 +584,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
       link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
+      title: 'hi', 
+      author: 'john david', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hi/4724237882671104/5866691080011776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hi/4724237882671104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
+    }, 
+    {
+      title: 'Walk down the park.', 
+      author: 'Xander', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768/5206292504559616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
     {
       title: 'tik tac toe --> Connect 4', 
@@ -707,7 +734,7 @@ var LoadHotlistAPI = function() {
       author: 'Snowflake #AltumFTW', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/untitled-wip/4946220935331840/6673231529689088.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/untitled-wip/4946220935331840/6336246768254976.png', 
       link: 'https://www.khanacademy.org/computer-programming/untitled-wip/4946220935331840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3642116685045429829951183'
     }, 
@@ -872,33 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
       link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
-      title: 'Lake of Virtue', 
-      author: 'Bearkirb314🐻‍❄️', 
-      votes: 21, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888/6427320459247616.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lake-of-virtue/5776683111333888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_375460112550893828689953'
-    }, 
-    {
-      title: 'Hacked', 
-      author: 'Dojo Cat', 
-      votes: 15, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888/4953605779275776.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hacked/4729642226597888', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5687024856063538161947859'
-    }, 
-    {
-      title: 'test', 
-      author: 'Jorge B', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/test/5322619672117248/6650400607617024.png', 
-      link: 'https://www.khanacademy.org/computer-programming/test/5322619672117248', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9342862863845165856276010'
     }, 
   ];
 };
