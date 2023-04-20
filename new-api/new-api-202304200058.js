@@ -21,7 +21,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 42, 
+      votes: 41, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
-      votes: 22, 
+      votes: 21, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/5589839585263616.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 16, 
+      votes: 14, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4787621768511488.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -352,15 +352,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
     {
-      title: 'ChatGPT made this', 
-      author: 'Jibanyanc', 
-      votes: 4, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
-    }, 
-    {
       title: 'The Sun moving around earth', 
       author: 'A_Killer_King', 
       votes: 9, 
@@ -494,6 +485,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/please/6537057116930048/4903268427022336.png', 
       link: 'https://www.khanacademy.org/computer-programming/please/6537057116930048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4357452902529547972393951'
+    }, 
+    {
+      title: 'ChatGPT made this', 
+      author: 'Jibanyanc', 
+      votes: 3, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5189349571608576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -694,15 +694,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_457072502044489729095001'
     }, 
     {
-      title: 'What happens during a lunar eclipse', 
-      author: 'vw_beetlesultimategreatness', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
-      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
-    }, 
-    {
       title: 'Simple But Cool Loading | Max Gaming', 
       author: 'The Tech Guy 💻 ✔', 
       votes: 2, 
@@ -845,6 +836,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ias-judgements/5377736819654656/6324051435110400.png', 
       link: 'https://www.khanacademy.org/computer-programming/ias-judgements/5377736819654656', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
+    }, 
+    {
+      title: 'What happens during a lunar eclipse', 
+      author: 'vw_beetlesultimategreatness', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328/4871464059977728.png', 
+      link: 'https://www.khanacademy.org/computer-programming/what-happens-during-a-lunar-eclipse/5801821085155328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
       title: 'Rotating 6-Sided Colored Cube', 
