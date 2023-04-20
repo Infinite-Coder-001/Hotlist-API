@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'that is better. -->', 
       author: 'ski', 
-      votes: 48, 
+      votes: 47, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 56, 
+      votes: 53, 
       forks: 4, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -39,8 +39,8 @@ var LoadHotlistAPI = function() {
     {
       title: 'Checkmate Flat-Earthers!', 
       author: 'Phase #VirtusVictory', 
-      votes: 15, 
-      forks: 4, 
+      votes: 14, 
+      forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384/4664778523197440.png', 
       link: 'https://www.khanacademy.org/computer-programming/checkmate-flat-earthers/5935866695696384', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
@@ -48,9 +48,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'ChatGPT made this', 
       author: 'Jibanyanc', 
-      votes: 26, 
+      votes: 25, 
       forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5033382699646976.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528/5172654513635328.png', 
       link: 'https://www.khanacademy.org/computer-programming/chatgpt-made-this/5832946176278528', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_845579879366862217939761'
     }, 
@@ -208,15 +208,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
-      title: '💜Baby unicorn💜', 
-      author: 'Orange Monkey', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/5208477342679040.png', 
-      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
-    }, 
-    {
       title: 'Explosion [WebGL]', 
       author: '▪Dipper98▪', 
       votes: 22, 
@@ -235,15 +226,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_103000698141866290580261'
     }, 
     {
-      title: 'Hyped for TotK? :)', 
-      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
-      votes: 99, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
-      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
       title: 'Night Time (made by my younger brother)', 
       author: 'Radar', 
       votes: 8, 
@@ -251,6 +233,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088/4680189788602368.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-time-made-by-my-younger-brother/4863792006873088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'Hyped for TotK? :)', 
+      author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
+      votes: 98, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272/5721507075768320.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hyped-for-totk/5014783159222272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
       title: 'A lone tree(made by my younger brother)', 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5424973037748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
+    }, 
+    {
+      title: '💜Baby unicorn💜', 
+      author: 'Orange Monkey', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256/5208477342679040.png', 
+      link: 'https://www.khanacademy.org/computer-programming/baby-unicorn/6612208147808256', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
@@ -391,7 +391,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: '270694jenkins.s', 
       votes: 3, 
-      forks: 1, 
+      forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5531720272363520/6280085859778560.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5531720272363520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_866589037046088966805514'
@@ -442,15 +442,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_619314192765827579155878'
     }, 
     {
-      title: 'Gain Instant Knowledge', 
-      author: 'Noah H.', 
-      votes: 13, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5618170464616448.png', 
-      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
-    }, 
-    {
       title: 'My first program!', 
       author: 'Eliza Dayrit', 
       votes: 3, 
@@ -496,6 +487,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
     }, 
     {
+      title: 'Gain Instant Knowledge', 
+      author: 'Noah H.', 
+      votes: 12, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096/5618170464616448.png', 
+      link: 'https://www.khanacademy.org/computer-programming/gain-instant-knowledge/6268650442244096', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
+    }, 
+    {
       title: 'Wreck Racer (GAME)', 
       author: 'QuasarBlast', 
       votes: 89, 
@@ -530,15 +530,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
       link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
-    }, 
-    {
-      title: 'tik tac toe --> Connect 4', 
-      author: 'cleuteritz', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696/6498930750963712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
     }, 
     {
       title: 'My entry in Train Contest.', 
@@ -649,12 +640,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_917984944997653249566783'
     }, 
     {
-      title: '10 pixels tall', 
+      title: 'Spin-off of "Project: What\'s for dinner?"', 
       author: 'Donate', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808/6497390384431104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/10-pixels-tall/6504826784759808', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808/6673947883257856.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520/4601335598333952.png', 
       link: 'https://www.khanacademy.org/computer-programming/-clouds-/6405016308203520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_948710635020586603248429'
+    }, 
+    {
+      title: 'Raise an Opes', 
+      author: 'Holly Rebbeck', 
+      votes: 23, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032/5869441956233216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/raise-an-opes/6304369906860032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_47426498467631603567904'
     }, 
   ];
 };
