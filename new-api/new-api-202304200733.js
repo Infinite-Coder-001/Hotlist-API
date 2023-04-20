@@ -219,7 +219,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
       author: 'Velvet #AltumFTW', 
-      votes: 21, 
+      votes: 22, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/5948646572212224.png', 
       link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
