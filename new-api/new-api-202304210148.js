@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 30, 
+      votes: 31, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
+      title: 'SPACE', 
+      author: 'gamer guy', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5950410394484736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
       author: 'Fireball my dear sir ✝ #CinisFTW', 
       votes: 60, 
@@ -190,15 +199,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'SPACE', 
-      author: 'gamer guy', 
-      votes: 6, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5950410394484736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 31, 
@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6083947051401216.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6475057359798272.png', 
       link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -269,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368/6083308846104576.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-platformer/6676592509370368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'New program', 
+      author: 'Clark Kent (offline)', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Explosion [WebGL]', 
@@ -352,6 +361,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 17, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
       author: 'Velvet #AltumFTW', 
       votes: 24, 
@@ -359,24 +377,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/5948646572212224.png', 
       link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'New program', 
-      author: 'Clark Kent (offline)', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 16, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Spin-off of "Project: Animal attack"', 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/5117159912292352.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/4653344900825088.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -602,6 +602,24 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192/6272340993556480.png', 
       link: 'https://www.khanacademy.org/computer-programming/magus-on-a-cliff/4538379346952192', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_988411186401701354116585'
+    }, 
+    {
+      title: 'NotMe73 Sub page!', 
+      author: 'NotMe73', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
+      link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
+    }, 
+    {
+      title: 'aksanov RPS', 
+      author: 'naksanov', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/aksanov-rps/5690270214832128/6404372935524352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/aksanov-rps/5690270214832128', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1055276131156839622089603'
     }, 
     {
       title: 'Gain Instant Knowledge', 
@@ -784,15 +802,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
     }, 
     {
-      title: 'NotMe73 Sub page!', 
-      author: 'NotMe73', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328/4585130753835008.png', 
-      link: 'https://www.khanacademy.org/computer-programming/notme73-sub-page/5756904283619328', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
-    }, 
-    {
       title: 'hi', 
       author: 'john david', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096/4856055143383040.png', 
       link: 'https://www.khanacademy.org/computer-programming/water-wars-teaser-the-tank/5657380965892096', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1128785221914679052829891'
-    }, 
-    {
-      title: 'Nathan Barnes\'s Fish Tank project', 
-      author: 'sc986119', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/nathan-barness-fish-tank-project/5348116661583872/5575235337502720.png', 
-      link: 'https://www.khanacademy.org/computer-programming/nathan-barness-fish-tank-project/5348116661583872', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_130742219715651479700958'
     }, 
   ];
 };
