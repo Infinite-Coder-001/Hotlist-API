@@ -48,7 +48,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
-      votes: 70, 
+      votes: 69, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
@@ -57,7 +57,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pegs [game]', 
       author: 'Cataclysmic Code 🌩‮', 
-      votes: 58, 
+      votes: 57, 
       forks: 5, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224/5407377345265664.png', 
       link: 'https://www.khanacademy.org/computer-programming/pegs-game/5437352526004224', 
@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
-      title: 'Sunny day(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'Modern House', 
       author: 'Phase #VirtusVictory', 
       votes: 25, 
@@ -109,13 +100,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 15, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+      title: 'Sunny day(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 16, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'An Avatar\'s Journey [PRIMAVERA]', 
@@ -125,6 +116,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416/4827784552955904.png', 
       link: 'https://www.khanacademy.org/computer-programming/an-avatars-journey-primavera/6180251626684416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
+    }, 
+    {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 14, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'Night Time (made by my younger brother)', 
@@ -161,15 +161,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240/6278400496156672.png', 
       link: 'https://www.khanacademy.org/computer-programming/dueler-fight-your-friends/5725783084810240', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
-    }, 
-    {
-      title: 'Ai Ball and Basket Game.', 
-      author: 'malseedlu', 
-      votes: 8, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
     }, 
     {
       title: 'Lazer maze', 
@@ -235,6 +226,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
+      title: 'Ai Ball and Basket Game.', 
+      author: 'malseedlu', 
+      votes: 7, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
+    }, 
+    {
       title: 'A lone tree(made by my younger brother)', 
       author: 'Radar', 
       votes: 9, 
@@ -253,15 +253,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
-      title: 'Limericks from KA', 
-      author: 'Avinasen #CinisFTW', 
-      votes: 9, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6083947051401216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
-    }, 
-    {
       title: 'Aequor Platformer', 
       author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
       votes: 48, 
@@ -278,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984/4891067733557248.png', 
       link: 'https://www.khanacademy.org/computer-programming/explosion-webgl/6117286701481984', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Limericks from KA', 
+      author: 'Avinasen #CinisFTW', 
+      votes: 8, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6083947051401216.png', 
+      link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
       title: 'The Respective Domains of the 2023 Primavera Avatars', 
