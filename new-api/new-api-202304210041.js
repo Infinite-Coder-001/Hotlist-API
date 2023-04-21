@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 28, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -31,15 +31,15 @@ var LoadHotlistAPI = function() {
       title: 'this was made using my pixel art converter', 
       author: 'Clark Kent (offline)', 
       votes: 19, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5767795129499648.png', 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Blurred ft. Blank Expression', 
       author: 'CowboysFan232', 
-      votes: 17, 
+      votes: 16, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
       link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
@@ -217,15 +217,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
-      title: 'Program Intro', 
-      author: 'Radar', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352/5668856313200640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'Ai Ball and Basket Game.', 
       author: 'malseedlu', 
       votes: 7, 
@@ -271,12 +262,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
     }, 
     {
-      title: 'Limericks from KA', 
+      title: '1st try of limericks?', 
       author: 'Avinasen #CinisFTW', 
       votes: 8, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6083947051401216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920/6491691080269824.png', 
+      link: 'https://www.khanacademy.org/computer-programming/1st-try-of-limericks/6482063994961920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
@@ -388,12 +379,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
-      title: 'Mummy with sunglasses', 
+      title: 'Program Intro', 
       author: 'Radar', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/mummy-with-sunglasses/5426556135849984/4920367044149248.png', 
-      link: 'https://www.khanacademy.org/computer-programming/mummy-with-sunglasses/5426556135849984', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352/5668856313200640.png', 
+      link: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
@@ -413,15 +404,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/4765825396686848.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'New program', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5107303843151872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'SUB PAGE', 
@@ -739,6 +721,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1002308869005372664418925'
     }, 
     {
+      title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5107303843151872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
       title: 'test room', 
       author: 'the Knight_400', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/nathan-barness-fish-tank-project/5348116661583872/5575235337502720.png', 
       link: 'https://www.khanacademy.org/computer-programming/nathan-barness-fish-tank-project/5348116661583872', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_130742219715651479700958'
+    }, 
+    {
+      title: 'Glass Animals being Glass Animals', 
+      author: 'ᑕEᗪᗩᖇ', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272/5159430108004352.png', 
+      link: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1050931761587125600497311'
     }, 
   ];
 };
