@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 33, 
+      votes: 32, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -28,15 +28,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
-      title: 'Blurred ft. Blank Expression', 
-      author: 'CowboysFan232', 
-      votes: 19, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
-    }, 
-    {
       title: 'this was made using my pixel art converter', 
       author: 'Clark Kent (offline)', 
       votes: 20, 
@@ -44,6 +35,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5767795129499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
       title: 'Penta Sweeper', 
@@ -120,9 +120,9 @@ var LoadHotlistAPI = function() {
     {
       title: 'SPACE WIP', 
       author: 'gamer guy', 
-      votes: 8, 
+      votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/6105408432553984.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/4587176190066688.png', 
       link: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -829,15 +829,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
     }, 
     {
-      title: 'Roblox character', 
-      author: '2030calynsimonson', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/roblox-character/5896647218610176/6755241581395968.png', 
-      link: 'https://www.khanacademy.org/computer-programming/roblox-character/5896647218610176', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_798425063649337703079468'
-    }, 
-    {
       title: 'Walk down the park.', 
       author: 'Xander', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680/5892926241816576.png', 
       link: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1136454464273873853195081'
+    }, 
+    {
+      title: 'Spin-off of "Project: Shooting star"', 
+      author: 'HowryMason01', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6306945897381888/6064258384445440.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6306945897381888', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9666463764423176236606721'
     }, 
   ];
 };
