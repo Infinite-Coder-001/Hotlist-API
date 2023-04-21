@@ -19,22 +19,22 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_42165633374795610935956'
     }, 
     {
-      title: 'Blurred ft. Blank Expression', 
-      author: 'CowboysFan232', 
-      votes: 21, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
-      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
-    }, 
-    {
       title: 'that is better. -->', 
       author: 'ski', 
-      votes: 54, 
+      votes: 53, 
       forks: 7, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320/5902093220364288.png', 
       link: 'https://www.khanacademy.org/computer-programming/that-is-better-/5199387530936320', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
+    }, 
+    {
+      title: 'Blurred ft. Blank Expression', 
+      author: 'CowboysFan232', 
+      votes: 20, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
+      link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
       title: 'this was made using my pixel art converter', 
@@ -550,15 +550,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_866589037046088966805514'
     }, 
     {
-      title: 'United States Invasion Simulation', 
-      author: 'Kieran', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/united-states-invasion-simulation/5295795906854912/5121212885024768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/united-states-invasion-simulation/5295795906854912', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_547881283011077512427543'
-    }, 
-    {
       title: 'hmmmmm...', 
       author: 'the Knight_400', 
       votes: 5, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520/5273997421101056.png', 
       link: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1998147188907070189553958'
+    }, 
+    {
+      title: 'totklogobutwithcircles', 
+      author: 'hart.lincoln', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784/4521283414179840.png', 
+      link: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_518061050927189813818634'
     }, 
   ];
 };
