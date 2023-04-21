@@ -190,15 +190,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
-      title: 'Lazer maze', 
-      author: 'cjanatik', 
-      votes: 73, 
-      forks: 11, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
-      link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
       title: 'Ai Ball and Basket Game.', 
       author: 'malseedlu', 
       votes: 8, 
@@ -206,6 +197,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608/5920063313199104.png', 
       link: 'https://www.khanacademy.org/computer-programming/ai-ball-and-basket-game/5697805785284608', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_4102335363950569808146368'
+    }, 
+    {
+      title: 'Lazer maze', 
+      author: 'cjanatik', 
+      votes: 72, 
+      forks: 11, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -449,15 +449,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336/5621169995956224.png', 
       link: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6446799763324928/6105374643240960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6446799763324928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/very-tiring-to-make-fruit-bowl/6643040510066688/4849413815320576.png', 
       link: 'https://www.khanacademy.org/computer-programming/very-tiring-to-make-fruit-bowl/6643040510066688', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_608977882636043183636978'
+    }, 
+    {
+      title: 'golden hour', 
+      author: 'boba bear', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/5847913499770880.png', 
+      link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
     }, 
   ];
 };
