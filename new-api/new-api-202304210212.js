@@ -122,7 +122,7 @@ var LoadHotlistAPI = function() {
       author: 'gamer guy', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5574715805843456.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5950410394484736.png', 
       link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/6163651242541056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/4653344900825088.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
@@ -599,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'Bob Lyon', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336/5621169995956224.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336/4733739373740032.png', 
       link: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
