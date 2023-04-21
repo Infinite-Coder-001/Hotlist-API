@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 24, 
+      votes: 26, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6714097052991488.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -37,6 +37,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
+      title: 'this was made using my pixel art converter', 
+      author: 'Clark Kent (offline)', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'Penta Sweeper', 
       author: 'Logix Indie', 
       votes: 69, 
@@ -44,15 +53,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160/6409469333651456.png', 
       link: 'https://www.khanacademy.org/computer-programming/penta-sweeper/5614375995228160', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_392376572178111917340371'
-    }, 
-    {
-      title: 'this was made using my pixel art converter', 
-      author: 'Clark Kent (offline)', 
-      votes: 16, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Pegs [game]', 
@@ -172,6 +172,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
+      title: 'SPACE', 
+      author: 'gamer guy', 
+      votes: 6, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5950410394484736.png', 
+      link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
+    }, 
+    {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
       author: 'ŁĄŻĒŖŴŌŁF #AltumFTW', 
       votes: 31, 
@@ -224,15 +233,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048/6050732056035328.png', 
       link: 'https://www.khanacademy.org/computer-programming/a-lone-treemade-by-my-younger-brother/6251021312770048', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
-      title: 'SPACE', 
-      author: 'gamer guy', 
-      votes: 5, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5950410394484736.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'The Return', 
@@ -309,7 +309,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5424973037748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
@@ -343,6 +343,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
     }, 
     {
+      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
+      author: 'Velvet #AltumFTW', 
+      votes: 24, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/5948646572212224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
+    }, 
+    {
       title: 'New program', 
       author: 'Clark Kent (offline)', 
       votes: 4, 
@@ -350,15 +359,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
-    }, 
-    {
-      title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
-      author: 'Velvet #AltumFTW', 
-      votes: 23, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/5948646572212224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
       title: 'New program', 
@@ -602,6 +602,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808/6467264426852352.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazy-color-winston/6737946201079808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
+    }, 
+    {
+      title: 'Apple Pixel Art', 
+      author: 'Aspen', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712/6187474285281280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Ooh, fresh meat for the grinder!!', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/first-pixel-arti-know-it-does-not-have-all-50-stars-but-i-tried-i-used-green-ghosts-tutorial-code-and-edited-it-so-i-could-understand-what-to-do/4804363198709760/6467766367600640.png', 
       link: 'https://www.khanacademy.org/computer-programming/first-pixel-arti-know-it-does-not-have-all-50-stars-but-i-tried-i-used-green-ghosts-tutorial-code-and-edited-it-so-i-could-understand-what-to-do/4804363198709760', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1002380822530159774445327'
-    }, 
-    {
-      title: 'op art ', 
-      author: 'Emily Vasquez', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832/6321966136213504.png', 
-      link: 'https://www.khanacademy.org/computer-programming/op-art/6497434558840832', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_9777300700863113724645305'
     }, 
   ];
 };
