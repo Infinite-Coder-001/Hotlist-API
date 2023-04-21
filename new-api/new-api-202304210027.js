@@ -5,7 +5,7 @@ var LoadHotlistAPI = function() {
       author: 'Arrow.programming', 
       votes: 26, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6714097052991488.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5229809678324099512179597'
     }, 
@@ -28,6 +28,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1037904081391187080498507'
     }, 
     {
+      title: 'this was made using my pixel art converter', 
+      author: 'Clark Kent (offline)', 
+      votes: 19, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
+      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
       title: 'Blurred ft. Blank Expression', 
       author: 'CowboysFan232', 
       votes: 16, 
@@ -35,15 +44,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
       link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
-    }, 
-    {
-      title: 'this was made using my pixel art converter', 
-      author: 'Clark Kent (offline)', 
-      votes: 17, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5990041064357888.png', 
-      link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
     }, 
     {
       title: 'Penta Sweeper', 
@@ -118,6 +118,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_177726149233524242461853'
     }, 
     {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 14, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+    }, 
+    {
       title: 'Night Time (made by my younger brother)', 
       author: 'Radar', 
       votes: 13, 
@@ -143,15 +152,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056/5529674215374848.png', 
       link: 'https://www.khanacademy.org/computer-programming/she-loves-aequor-you-should-too-3-primavera-challenge-1-avatar-theme/5467174480429056', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_333534297788735128142174'
-    }, 
-    {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 13, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'Dueler [Fight your Friends]', 
@@ -192,7 +192,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Pixel Art Tutorial', 
       author: 'Green Ghost', 
-      votes: 29, 
+      votes: 30, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
       link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
@@ -370,6 +370,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
+      title: 'Apple Pixel Art', 
+      author: 'Aspen', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712/6187474285281280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
+    }, 
+    {
       title: 'Program Intro', 
       author: 'Radar', 
       votes: 3, 
@@ -377,6 +386,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352/5668856313200640.png', 
       link: 'https://www.khanacademy.org/computer-programming/program-intro/5044694922084352', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
+    }, 
+    {
+      title: 'New program', 
+      author: 'reader ✔', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368/4589622400434176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -604,15 +622,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
     }, 
     {
-      title: 'Apple Pixel Art', 
-      author: 'Aspen', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712/6187474285281280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
-    }, 
-    {
       title: 'Ooh, fresh meat for the grinder!!', 
       author: 'minchj0', 
       votes: 10, 
@@ -631,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_5055962513477763055155370'
     }, 
     {
+      title: 'Elon Musk', 
+      author: '✨LuckyFaith✨', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/elon-musk/6652526985527296/4720272369565696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/elon-musk/6652526985527296', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_176032155583189834683683'
+    }, 
+    {
       title: 'CrazyBaby_v1.2', 
       author: 'Fritz Chaucer', 
       votes: 9, 
@@ -638,15 +656,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200/6318984036401152.png', 
       link: 'https://www.khanacademy.org/computer-programming/crazybaby_v12/4768207711027200', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5072121125904462210217104'
-    }, 
-    {
-      title: 'New program', 
-      author: 'reader ✔', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368/4589622400434176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'what is happening(updated )', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272/5159430108004352.png', 
       link: 'https://www.khanacademy.org/computer-programming/glass-animals-being-glass-animals/6661007633334272', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1050931761587125600497311'
-    }, 
-    {
-      title: 'First Pixel Art![I know it does not have all 50 stars but I tried] (I used green ghost\'s tutorial code and edited it so I could understand what to do)', 
-      author: 'bubbapeanut', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/first-pixel-arti-know-it-does-not-have-all-50-stars-but-i-tried-i-used-green-ghosts-tutorial-code-and-edited-it-so-i-could-understand-what-to-do/4804363198709760/6467766367600640.png', 
-      link: 'https://www.khanacademy.org/computer-programming/first-pixel-arti-know-it-does-not-have-all-50-stars-but-i-tried-i-used-green-ghosts-tutorial-code-and-edited-it-so-i-could-understand-what-to-do/4804363198709760', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1002380822530159774445327'
     }, 
   ];
 };
