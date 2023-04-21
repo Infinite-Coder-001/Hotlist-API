@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 34, 
+      votes: 35, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -514,6 +514,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
     {
+      title: 'New program', 
+      author: 'binyman70', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/5508917234024448/5600518400688128.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/5508917234024448', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_123298691966916785192263'
+    }, 
+    {
       title: 'The Adventures of Aequor [Game]', 
       author: '▪Dipper98▪', 
       votes: 29, 
@@ -584,6 +593,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/fairy/5727920653123584/6679026094882816.png', 
       link: 'https://www.khanacademy.org/computer-programming/fairy/5727920653123584', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
+    }, 
+    {
+      title: 'Subpage WIP', 
+      author: 'Invisible Bob', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/subpage-wip/6717211441152000/5716140900007936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/subpage-wip/6717211441152000', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_4357452902529547972393951'
     }, 
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
@@ -881,24 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768/5206292504559616.png', 
       link: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
-    }, 
-    {
-      title: 'Possible intro animation', 
-      author: 'XanderCLA11_15', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/possible-intro-animation/4722311673724928/6714729386262528.png', 
-      link: 'https://www.khanacademy.org/computer-programming/possible-intro-animation/4722311673724928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
-    }, 
-    {
-      title: 'tik tac toe --> Connect 4', 
-      author: 'cleuteritz', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696/6498930750963712.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
     }, 
   ];
 };
