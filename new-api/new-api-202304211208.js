@@ -82,6 +82,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
+      title: 'Farming Adventure V2', 
+      author: 'DES', 
+      votes: 23, 
+      forks: 3, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
+    }, 
+    {
       title: 'SPACE WIP', 
       author: 'gamer guy', 
       votes: 11, 
@@ -89,15 +98,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/6105408432553984.png', 
       link: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
-      title: 'Farming Adventure V2', 
-      author: 'DES', 
-      votes: 22, 
-      forks: 3, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
       title: 'Sunny day(made by my younger brother)', 
@@ -269,6 +269,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
+    }, 
+    {
+      title: 'Oh no...', 
+      author: 'Eprony My Dear Sir', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984/6565519840034816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'New program', 
@@ -451,12 +460,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
     }, 
     {
-      title: 'New program', 
+      title: 'The Land of the Free', 
       author: 'LightningCoder', 
       votes: 2, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6446799763324928/6105374643240960.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6446799763324928', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928/5712988628893696.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
@@ -584,15 +593,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
-    }, 
-    {
-      title: 'Oh no...', 
-      author: 'Eprony My Dear Sir', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984/6565519840034816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'the Winstons move your mouse ', 
