@@ -30,7 +30,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'this was made using my pixel art converter', 
       author: 'Clark Kent (offline)', 
-      votes: 20, 
+      votes: 19, 
       forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504/5767795129499648.png', 
       link: 'https://www.khanacademy.org/computer-programming/this-was-made-using-my-pixel-art-converter/4667868953493504', 
@@ -39,7 +39,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Blurred ft. Blank Expression', 
       author: 'CowboysFan232', 
-      votes: 18, 
+      votes: 17, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304/4876095343345664.png', 
       link: 'https://www.khanacademy.org/computer-programming/blurred-ft-blank-expression/5057254295650304', 
@@ -379,15 +379,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
-      title: 'Spin-off of "Project: Animal attack"', 
-      author: 'Frederick Appah', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
-      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
-    }, 
-    {
       title: 'Apple Pixel Art', 
       author: 'Aspen', 
       votes: 3, 
@@ -485,6 +476,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904/6440763748827136.png', 
       link: 'https://www.khanacademy.org/computer-programming/quiz-of-countries/6429256851963904', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
+      title: 'Spin-off of "Project: Animal attack"', 
+      author: 'Frederick Appah', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
+      link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
     }, 
     {
       title: 'Pikachu Sprites (REPOST)', 
