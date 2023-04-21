@@ -91,15 +91,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
-      title: 'SPACE WIP', 
-      author: 'gamer guy', 
-      votes: 10, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/6105408432553984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
-    }, 
-    {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
       votes: 29, 
@@ -116,6 +107,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144/4787081173057536.png', 
       link: 'https://www.khanacademy.org/computer-programming/modern-house/4876596017414144', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
+    }, 
+    {
+      title: 'SPACE WIP', 
+      author: 'gamer guy', 
+      votes: 9, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/6105408432553984.png', 
+      link: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
       title: 'Farming Adventure V2', 
@@ -599,7 +599,7 @@ var LoadHotlistAPI = function() {
       author: 'NotMe73', 
       votes: 4, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-in-train-contest/5227554362671104/6754355928940544.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/my-entry-in-train-contest/5227554362671104/6704699798765568.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-entry-in-train-contest/5227554362671104', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179652989672483775111092'
     }, 
