@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 35, 
+      votes: 36, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -397,6 +397,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
+      title: 'New program', 
+      author: 'LightningCoder', 
+      votes: 18, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+    }, 
+    {
       title: 'Raising Virtus', 
       author: 'Reflex', 
       votes: 36, 
@@ -404,15 +413,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304/5459916690341888.png', 
       link: 'https://www.khanacademy.org/computer-programming/raising-virtus/6025063729250304', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_66224682886095078267924'
-    }, 
-    {
-      title: 'New program', 
-      author: 'LightningCoder', 
-      votes: 17, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136/6029353101344768.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/4752253350363136', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Race Through Space (Lobby) | [Primavera 2023 Challenge 1]', 
@@ -509,7 +509,7 @@ var LoadHotlistAPI = function() {
       author: 'Donate', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/6163651242541056.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808/6126220736774144.png', 
       link: 'https://www.khanacademy.org/computer-programming/henwy-the-stickman-btb-game/6504826784759808', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_833091817117822871793323'
     }, 
