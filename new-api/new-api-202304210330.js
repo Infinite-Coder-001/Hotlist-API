@@ -257,7 +257,7 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/6475057359798272.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/5869176859443200.png', 
       link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
@@ -391,7 +391,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Frederick Appah', 
       votes: 4, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
@@ -557,6 +557,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256/5751776478543872.png', 
       link: 'https://www.khanacademy.org/computer-programming/hmmmmm/5337634659680256', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: '🧚Fairy.🧚', 
+      author: 'Orange Monkey', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/fairy/5727920653123584/6679026094882816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/fairy/5727920653123584', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'botw pixel art with navy background for fromage &#60;3', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784/4521283414179840.png', 
       link: 'https://www.khanacademy.org/computer-programming/totklogobutwithcircles/5478121748086784', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_518061050927189813818634'
-    }, 
-    {
-      title: 'chicken', 
-      author: 'SavageSai', 
-      votes: 36, 
-      forks: 9, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
-      link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
     }, 
   ];
 };
