@@ -424,15 +424,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
     }, 
     {
-      title: 'matchTwo interpolation', 
-      author: 'Bob Lyon', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336/5621169995956224.png', 
-      link: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
-    }, 
-    {
       title: 'Aequor: The Terror of the Bathtubs', 
       author: 'AGnawKneeMouse Coder', 
       votes: 33, 
@@ -496,15 +487,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
-      title: 'KASE track player', 
-      author: 'noNameCode', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/kase-track-player/5378515936788480/6085096005484544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/kase-track-player/5378515936788480', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_391527859673404952896536'
-    }, 
-    {
       title: 'Pikachu Sprites (REPOST)', 
       author: 'DogToon64', 
       votes: 3, 
@@ -521,15 +503,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456/6186138533675008.png', 
       link: 'https://www.khanacademy.org/computer-programming/subscribe-to-me/4938577252499456', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9918172448011855642918262'
-    }, 
-    {
-      title: 'Flowers and fairy.', 
-      author: 'Orange Monkey', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/flowers-and-fairy/6752484396941312/5656790743433216.png', 
-      link: 'https://www.khanacademy.org/computer-programming/flowers-and-fairy/6752484396941312', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
       title: 'henwy the stickman : BTB [GAME]', 
@@ -667,6 +640,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_739208649119604773265400'
     }, 
     {
+      title: 'matchTwo interpolation', 
+      author: 'Bob Lyon', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336/5621169995956224.png', 
+      link: 'https://www.khanacademy.org/computer-programming/matchtwo-interpolation/5406809302286336', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1116520053705160540512971'
+    }, 
+    {
       title: 'Magus on a Cliff', 
       author: 'Horizon', 
       votes: 22, 
@@ -703,15 +685,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1121453835893982129568101'
     }, 
     {
-      title: 'Pixel engine 2', 
-      author: 'GrahamTeeg', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-engine-2/5611753498263552/5980097879523328.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-engine-2/5611753498263552', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_155972086998519957169541'
-    }, 
-    {
       title: 'My first program!', 
       author: 'Eliza Dayrit', 
       votes: 3, 
@@ -719,15 +692,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/my-first-program/6439008625541120/5281695210455040.png', 
       link: 'https://www.khanacademy.org/computer-programming/my-first-program/6439008625541120', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_973728659213788978640960'
-    }, 
-    {
-      title: 'Powerful Vertex Shape Drawing Tool', 
-      author: 'Sam Swanson', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/powerful-vertex-shape-drawing-tool/6649879440179200/5694517920710656.png', 
-      link: 'https://www.khanacademy.org/computer-programming/powerful-vertex-shape-drawing-tool/6649879440179200', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3409912500450897644471613'
     }, 
     {
       title: 'New program', 
@@ -899,6 +863,42 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448/4918797669810176.png', 
       link: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
+    }, 
+    {
+      title: 'Nord', 
+      author: 'Hibernia Productions🎥', 
+      votes: 7, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320/4988460613287936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/nord/5493943015096320', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_746591481480196133631886'
+    }, 
+    {
+      title: 'hi', 
+      author: 'john david', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/hi/4724237882671104/5866691080011776.png', 
+      link: 'https://www.khanacademy.org/computer-programming/hi/4724237882671104', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
+    }, 
+    {
+      title: 'Roblox character', 
+      author: '2030calynsimonson', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/roblox-character/5896647218610176/6755241581395968.png', 
+      link: 'https://www.khanacademy.org/computer-programming/roblox-character/5896647218610176', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_798425063649337703079468'
+    }, 
+    {
+      title: 'Walk down the park.', 
+      author: 'Xander', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768/5206292504559616.png', 
+      link: 'https://www.khanacademy.org/computer-programming/walk-down-the-park/6015084079136768', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5137198594925639293153354'
     }, 
   ];
 };
