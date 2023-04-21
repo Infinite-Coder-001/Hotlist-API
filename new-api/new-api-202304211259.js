@@ -127,15 +127,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Oh no...', 
-      author: 'Eprony My Dear Sir', 
-      votes: 7, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984/6565519840034816.png', 
-      link: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
-    }, 
-    {
       title: 'Program Intro', 
       author: 'Radar', 
       votes: 7, 
@@ -181,13 +172,13 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
     }, 
     {
-      title: 'The Land of the Free', 
-      author: 'LightningCoder', 
-      votes: 4, 
+      title: 'Oh no...', 
+      author: 'Eprony My Dear Sir', 
+      votes: 5, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928/5557513094479872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984/6565519840034816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'Dueler [Fight your Friends]', 
@@ -301,7 +292,7 @@ var LoadHotlistAPI = function() {
       title: 'Spin-off of "Project: Animal attack"', 
       author: 'Frederick Appah', 
       votes: 6, 
-      forks: 0, 
+      forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
@@ -329,9 +320,18 @@ var LoadHotlistAPI = function() {
       author: 'Avinasen #CinisFTW', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-collection-ka/6482063994961920/6702659370532864.png', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-collection-ka/6482063994961920/4752549585666048.png', 
       link: 'https://www.khanacademy.org/computer-programming/limericks-collection-ka/6482063994961920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
+    }, 
+    {
+      title: 'The Land of the Free', 
+      author: 'LightningCoder', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928/5974281956933632.png', 
+      link: 'https://www.khanacademy.org/computer-programming/the-land-of-the-free/6446799763324928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_293295321613227018876720'
     }, 
     {
       title: 'Aequor Platformer', 
@@ -409,7 +409,7 @@ var LoadHotlistAPI = function() {
       title: 'music and vibes', 
       author: 'ÐoɠIovɛɼ', 
       votes: 30, 
-      forks: 3, 
+      forks: 2, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880/5424973037748224.png', 
       link: 'https://www.khanacademy.org/computer-programming/music-and-vibes/6196985498746880', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_174620599098233073374167'
@@ -494,15 +494,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/4765825396686848.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'Tintin and the Shooting Star (Definitely Tintin)', 
-      author: 'mrsharptalons', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352/5277762446475264.png', 
-      link: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1159061867024612736039518'
     }, 
     {
       title: 'SUB PAGE', 
@@ -766,15 +757,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3409912500450897644471613'
     }, 
     {
-      title: 'A funny quote', 
-      author: 'Theformerwizardofoz', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/a-funny-quote/4869374440947712/6628130212331520.png', 
-      link: 'https://www.khanacademy.org/computer-programming/a-funny-quote/4869374440947712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_981854986090143486946241'
-    }, 
-    {
       title: 'New program', 
       author: 'aj', 
       votes: 5, 
@@ -856,6 +838,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_997742609203000277959447'
     }, 
     {
+      title: 'Tintin and the Shooting Star (Definitely Tintin)', 
+      author: 'mrsharptalons', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352/5277762446475264.png', 
+      link: 'https://www.khanacademy.org/computer-programming/tintin-and-the-shooting-star-definitely-tintin/6062386164580352', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1159061867024612736039518'
+    }, 
+    {
       title: 'New program', 
       author: 'gamer guy', 
       votes: 2, 
@@ -899,6 +890,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/test-room/5949190388891648/5847429107990528.png', 
       link: 'https://www.khanacademy.org/computer-programming/test-room/5949190388891648', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_798970280737301569021460'
+    }, 
+    {
+      title: 'Very tiring to make fruit bowl', 
+      author: 'daisyoverhill5', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/very-tiring-to-make-fruit-bowl/6643040510066688/4849413815320576.png', 
+      link: 'https://www.khanacademy.org/computer-programming/very-tiring-to-make-fruit-bowl/6643040510066688', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_608977882636043183636978'
     }, 
   ];
 };
