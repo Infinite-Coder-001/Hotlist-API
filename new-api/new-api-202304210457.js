@@ -244,6 +244,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_93696603973174206131690'
     }, 
     {
+      title: 'wip no lookie', 
+      author: 'reader ✔', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368/6156862761517056.png', 
+      link: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
+    }, 
+    {
       title: 'The Return', 
       author: 'CowboysFan232', 
       votes: 60, 
@@ -271,6 +280,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
+      title: 'Ignore this', 
+      author: 'Øɱɑɼ Ħ.', 
+      votes: 5, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/6046347968167936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
+    }, 
+    {
       title: 'New program', 
       author: 'Clark Kent (offline)', 
       votes: 5, 
@@ -278,6 +296,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728/6486744502681600.png', 
       link: 'https://www.khanacademy.org/computer-programming/new-program/6585646744649728', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_714855751210369848518614'
+    }, 
+    {
+      title: 'Apple Pixel Art', 
+      author: 'Aspen', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712/6187474285281280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Mummy with sunglasses', 
@@ -305,15 +332,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792/5286384811425792.png', 
       link: 'https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5644823739809792', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_384710068240881096813043'
-    }, 
-    {
-      title: 'wip no lookie', 
-      author: 'reader ✔', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368/6156862761517056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
       title: 'Hyped for TotK? :)', 
@@ -379,15 +397,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_681089987425266577892907'
     }, 
     {
-      title: 'Ignore this', 
-      author: 'Øɱɑɼ Ħ.', 
-      votes: 4, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968/6046347968167936.png', 
-      link: 'https://www.khanacademy.org/computer-programming/ignore-this/6208608426835968', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_698515328654741609857444'
-    }, 
-    {
       title: 'Raising Virtus', 
       author: 'Reflex', 
       votes: 36, 
@@ -413,15 +422,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928/5948646572212224.png', 
       link: 'https://www.khanacademy.org/computer-programming/race-through-space-lobby-primavera-2023-challenge-1/6603565021052928', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9718267243517170072128027'
-    }, 
-    {
-      title: 'Apple Pixel Art', 
-      author: 'Aspen', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712/6187474285281280.png', 
-      link: 'https://www.khanacademy.org/computer-programming/apple-pixel-art/6564871501299712', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1001922204349265408970564'
     }, 
     {
       title: 'Aequor: The Terror of the Bathtubs', 
@@ -521,6 +521,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888/5296272295903232.png', 
       link: 'https://www.khanacademy.org/computer-programming/the-adventures-of-aequor-game/6060110058405888', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3886238215093093067654746'
+    }, 
+    {
+      title: 'Oh no...', 
+      author: 'Eprony My Dear Sir', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984/6565519840034816.png', 
+      link: 'https://www.khanacademy.org/computer-programming/oh-no/6603081476521984', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
       title: 'the Winstons move your mouse ', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696/6498930750963712.png', 
       link: 'https://www.khanacademy.org/computer-programming/tik-tac-toe-connect-4/5210592798621696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7784611932517199432069322'
-    }, 
-    {
-      title: 'SONY logo (moving)', 
-      author: 'That One Kid', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520/5273997421101056.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sony-logo-moving/5954885700075520', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1998147188907070189553958'
     }, 
   ];
 };
