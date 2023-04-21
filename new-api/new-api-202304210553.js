@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 36, 
+      votes: 37, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
