@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
     }, 
     {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 31, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'SPACE', 
       author: 'gamer guy', 
       votes: 6, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856/4869188029300736.png', 
       link: 'https://www.khanacademy.org/computer-programming/pizza-maker-added-new-stuff-re-release/5072135845625856', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_979231835959986117146697'
-    }, 
-    {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 30, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: '\'Corn', 
