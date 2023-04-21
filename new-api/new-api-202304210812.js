@@ -181,6 +181,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_733000745482584737122376'
     }, 
     {
+      title: 'Pixel Art Tutorial', 
+      author: 'Green Ghost', 
+      votes: 32, 
+      forks: 2, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
+      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
+    }, 
+    {
       title: 'Ai Ball and Basket Game.', 
       author: 'malseedlu', 
       votes: 8, 
@@ -197,15 +206,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696/5574556246130688.png', 
       link: 'https://www.khanacademy.org/computer-programming/lazer-maze/5711052957597696', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1164425725873230233138001'
-    }, 
-    {
-      title: 'Pixel Art Tutorial', 
-      author: 'Green Ghost', 
-      votes: 31, 
-      forks: 2, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088/5738296992120832.png', 
-      link: 'https://www.khanacademy.org/computer-programming/pixel-art-tutorial/4550049679065088', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_145655330786057731504264'
     }, 
     {
       title: 'Pizza Maker Added New Stuff (Re-Release)', 
@@ -467,6 +467,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136/5170189923827712.png', 
       link: 'https://www.khanacademy.org/computer-programming/loro/5915998646747136', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_958572959958073729947075'
+    }, 
+    {
+      title: 'Possible intro animation', 
+      author: 'XanderCLA11_15', 
+      votes: 3, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/possible-intro-animation/4722311673724928/6714729386262528.png', 
+      link: 'https://www.khanacademy.org/computer-programming/possible-intro-animation/4722311673724928', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_8410848063049598276674881'
     }, 
     {
       title: 'i do stuf', 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job-2/5808339385892864/6364291361193984.png', 
       link: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job-2/5808339385892864', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_7436542619565958689603816'
-    }, 
-    {
-      title: '3x3', 
-      author: 'john david', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448/4918797669810176.png', 
-      link: 'https://www.khanacademy.org/computer-programming/3x3/4640580962664448', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1049730322342636829980685'
     }, 
   ];
 };
