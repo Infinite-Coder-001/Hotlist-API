@@ -1,4 +1,6 @@
 # Hotlist API
+**Sorry everyone, the API doesn't right now**. **I hit Action duration limit, so the updating script is out of order**. 
+
 This repository downloads data from Khan Academy hotlist every minute. You can easily access it from any KA sketch. 
 
 ## Versions
