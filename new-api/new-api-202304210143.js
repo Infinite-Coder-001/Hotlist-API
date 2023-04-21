@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 48, 
+      votes: 47, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4835230457577472.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -82,15 +82,6 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_6776820901948503135214173'
     }, 
     {
-      title: 'Sunny day(made by my younger brother)', 
-      author: 'Radar', 
-      votes: 18, 
-      forks: 1, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
-      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
-    }, 
-    {
       title: 'Dark mode | KACP Concept ', 
       author: 'Eisa S.', 
       votes: 29, 
@@ -98,6 +89,15 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840/4735259238514688.png', 
       link: 'https://www.khanacademy.org/computer-programming/dark-mode-kacp-concept/4732435163299840', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
+    }, 
+    {
+      title: 'Sunny day(made by my younger brother)', 
+      author: 'Radar', 
+      votes: 17, 
+      forks: 1, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
+      link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
       title: 'Modern House', 
@@ -111,7 +111,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Farming Adventure V2', 
       author: 'DES', 
-      votes: 16, 
+      votes: 15, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
@@ -406,12 +406,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_3902988618718040904060736'
     }, 
     {
-      title: 'wip no lookie', 
+      title: 'New program', 
       author: 'reader ✔', 
       votes: 3, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368/5500544245612544.png', 
-      link: 'https://www.khanacademy.org/computer-programming/wip-no-lookie/4609322828218368', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368/4589622400434176.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/4609322828218368', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5587057736853165851767740'
     }, 
     {
