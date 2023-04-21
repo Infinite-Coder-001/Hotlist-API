@@ -253,12 +253,12 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_838836130659786741993223'
     }, 
     {
-      title: 'Limericks from KA', 
+      title: 'Limericks Collection KA', 
       author: 'Avinasen #CinisFTW', 
       votes: 9, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920/5869176859443200.png', 
-      link: 'https://www.khanacademy.org/computer-programming/limericks-from-ka/6482063994961920', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/limericks-collection-ka/6482063994961920/5916825763495936.png', 
+      link: 'https://www.khanacademy.org/computer-programming/limericks-collection-ka/6482063994961920', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1179196812991584934767621'
     }, 
     {
