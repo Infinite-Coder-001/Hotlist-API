@@ -505,6 +505,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_118200642580684707997327'
     }, 
     {
+      title: 'a meme', 
+      author: 'Δɖɖίsoͷ thϵ Δίʀbϵͷɖϵʀ 🔛', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/a-meme/4743747654172672/4899454529617920.png', 
+      link: 'https://www.khanacademy.org/computer-programming/a-meme/4743747654172672', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_307253494732113319906984'
+    }, 
+    {
       title: 'KASE track player', 
       author: 'noNameCode', 
       votes: 2, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224/5847913499770880.png', 
       link: 'https://www.khanacademy.org/computer-programming/golden-hour/5336133484724224', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_560096067611861353096032'
-    }, 
-    {
-      title: 'Night on the Security Job #2', 
-      author: 'Cat_LOVER1', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job-2/5808339385892864/6364291361193984.png', 
-      link: 'https://www.khanacademy.org/computer-programming/night-on-the-security-job-2/5808339385892864', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_7436542619565958689603816'
     }, 
   ];
 };
