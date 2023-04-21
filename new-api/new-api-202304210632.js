@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 37, 
+      votes: 38, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -120,7 +120,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Farming Adventure V2', 
       author: 'DES', 
-      votes: 17, 
+      votes: 18, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
