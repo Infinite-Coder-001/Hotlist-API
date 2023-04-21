@@ -111,19 +111,19 @@ var LoadHotlistAPI = function() {
     {
       title: 'Farming Adventure V2', 
       author: 'DES', 
-      votes: 16, 
+      votes: 17, 
       forks: 3, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400/4897646113505280.png', 
       link: 'https://www.khanacademy.org/computer-programming/farming-adventure-v2/6208063200870400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_5941278925687305618260214'
     }, 
     {
-      title: 'SPACE', 
+      title: 'SPACE WIP', 
       author: 'gamer guy', 
       votes: 7, 
       forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/space/5376176689561600/5574715805843456.png', 
-      link: 'https://www.khanacademy.org/computer-programming/space/5376176689561600', 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600/4587176190066688.png', 
+      link: 'https://www.khanacademy.org/computer-programming/space-wip/5376176689561600', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_3466142802132203951568286'
     }, 
     {
@@ -308,6 +308,15 @@ var LoadHotlistAPI = function() {
     }, 
     {
       title: 'New program', 
+      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
+      votes: 4, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5107303843151872.png', 
+      link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
+    }, 
+    {
+      title: 'New program', 
       author: 'Crystal Coding # Go Cinis!', 
       votes: 4, 
       forks: 0, 
@@ -422,15 +431,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400/4765825396686848.png', 
       link: 'https://www.khanacademy.org/computer-programming/aequor-the-terror-of-the-bathtubs/6318501322342400', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_9033829293805621369025816'
-    }, 
-    {
-      title: 'New program', 
-      author: 'GᴀʟᴀxʏRᴀɴɢᴇʀ 🔴', 
-      votes: 3, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032/5107303843151872.png', 
-      link: 'https://www.khanacademy.org/computer-programming/new-program/6449033548972032', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_574576985099042639713735'
     }, 
     {
       title: 'SUB PAGE', 
