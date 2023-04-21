@@ -3,7 +3,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Africa :)', 
       author: 'Arrow.programming', 
-      votes: 33, 
+      votes: 34, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088/6056092091334656.png', 
       link: 'https://www.khanacademy.org/computer-programming/africa/6106021119705088', 
@@ -12,7 +12,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Primavera Stats', 
       author: 'Ibraheem Ahmed (IA)', 
-      votes: 48, 
+      votes: 49, 
       forks: 0, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632/4835230457577472.png', 
       link: 'https://www.khanacademy.org/computer-programming/primavera-stats/4640593948229632', 
@@ -84,7 +84,7 @@ var LoadHotlistAPI = function() {
     {
       title: 'Sunny day(made by my younger brother)', 
       author: 'Radar', 
-      votes: 18, 
+      votes: 19, 
       forks: 1, 
       thumbnail: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856/4510916470423552.png', 
       link: 'https://www.khanacademy.org/computer-programming/sunny-daymade-by-my-younger-brother/4813272839929856', 
@@ -667,6 +667,15 @@ var LoadHotlistAPI = function() {
       authorLink: 'https://www.khanacademy.org/profile/kaid_1201493791512918175394210'
     }, 
     {
+      title: 'Skeletal Animation WIP', 
+      author: 'StuffStash', 
+      votes: 2, 
+      forks: 0, 
+      thumbnail: 'https://www.khanacademy.org/computer-programming/skeletal-animation-wip/5562615180083200/4823243354849280.png', 
+      link: 'https://www.khanacademy.org/computer-programming/skeletal-animation-wip/5562615180083200', 
+      authorLink: 'https://www.khanacademy.org/profile/kaid_299451098089163638189975'
+    }, 
+    {
       title: 'Ooh, fresh meat for the grinder!!', 
       author: 'minchj0', 
       votes: 10, 
@@ -890,15 +899,6 @@ var LoadHotlistAPI = function() {
       thumbnail: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416/6278214529105920.png', 
       link: 'https://www.khanacademy.org/computer-programming/chicken/6408832806076416', 
       authorLink: 'https://www.khanacademy.org/profile/kaid_1012303968647152828677826'
-    }, 
-    {
-      title: 'jump alien', 
-      author: 'shaqur  smithjr', 
-      votes: 2, 
-      forks: 0, 
-      thumbnail: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680/5892926241816576.png', 
-      link: 'https://www.khanacademy.org/computer-programming/jump-alien/5951975020871680', 
-      authorLink: 'https://www.khanacademy.org/profile/kaid_1136454464273873853195081'
     }, 
   ];
 };
