@@ -140,3 +140,8 @@ If you have any questions about this project, fell free to ask in Discussion sec
 
 ## Bug reporting
 If you find any bugs, please report them in Issues. 
+
+---
+
+**Copyright (c) 2023 Infinite coder** <br>
+See LICENSE
