@@ -171,7 +171,7 @@ function hotlist() {
     }
 
     if (String(minutes).split("")[1] === "0") {
-      clearOldHotlistLogs(10); 
+      clearOldHotlistLogs(30); 
     }
 
     function clearOldHotlistLogs2(delay) {
@@ -202,13 +202,13 @@ function hotlist() {
         if (success) {
           console.log("Hotlist - 1.6.0 - remove - " + String(day) + "-" + String(month) + "-" + String(year) + " " + String(hours) + ":" + String(minutes)); 
         }
-        if (delay < 10) {
+        if (delay < 30) {
           clearOldHotlistLogs2(delay + 1); 
         }
       }); 
     }
   
-    clearOldHotlistLogs2(1); 
+    clearOldHotlistLogs2(3); 
   }); 
 }
 
