@@ -1,14 +1,12 @@
 # Hotlist API
-**Sorry everyone, the API doesn't right now**. **I hit Action duration limit, so the updating script is out of order**. 
-
 This repository downloads data from Khan Academy hotlist every minute. You can easily access it from any KA sketch. 
 
 ## Versions
 | **Version** |                                             **Description**                                             | **Still works**? |
 |:-----------:|:-------------------------------------------------------------------------------------------------------:|:----------------:|
 |<1.3.0       |These version were just tests, they didn't work.                                                         |NO                |
-|1.3.0        |This version worked, but the data were sometimes old + only 30 scratchpads from hotlist.                 |NO                |
-|1.4.0        |This is the current version, the data is updating every minute + 100 scratchpad from hotlist.            |**YES**           |
+|1.3.0        |This version worked, but the data were sometimes old + only 30 scratchpads from hotlist.                 |**YES**                |
+|1.6.0        |This is the current version, the data is updating every minute + 100 scratchpad from hotlist.            |**YES**           |
 
 ## Importing
 **1**. Create a new **webpage** on Khan Academy. 
