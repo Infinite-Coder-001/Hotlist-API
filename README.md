@@ -1,5 +1,5 @@
 # Hotlist API
-This repository downloads data from Khan Academy hotlist every minute. You can easily access it from any KA sketch. 
+This repository downloads data from Khan Academy hotlist every hour. You can easily access it from any KA sketch. 
 
 ## Versions
 | **Version** |                                             **Description**                                             | **Still works**? |
