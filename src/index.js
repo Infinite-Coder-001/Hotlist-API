@@ -4,7 +4,7 @@ const path = require("path");
 
 const dataFilePath = path.resolve(__dirname, "../data/hotlist-data.js"); 
 
-function execWithLog(command) {
+function execWithLog(command, callback) {
     /* Executes a command and logs any errors */
     exec(command, (error, stdout, stderr) => {
         if (error) {
@@ -15,13 +15,30 @@ function execWithLog(command) {
             console.log(`stderr: ${stderr}`);
             return;
         }
+        if (callback) {
+            callback(stdout); 
+        }
     });
 }
 
 function commitAndPush() {
+    execWithLog("git commit --amend"); // Amend last data update
+    execWithLog(`git add ${dataFilePath}`);
+    execWithLog(`git commit -m "Update API data"`); 
+}
+
+function checkLastCommit() {
     execWithLog("git fetch");
     execWithLog("git pull"); 
-    // execWithLog(`git add ${dataFilePath}`);
+    execWithLog("git log -1 --pretty=%B", (stdout) => {
+        let lastCommitMessage = stdout.split("\n")[0]; 
+        if (lastCommitMessage === "Update API data") {
+            commitAndPush();
+        }
+        else {
+            throw `Fatal error: Commit message isn't equal to "Update API data".`;
+        }
+    });
 }
 
 function writeFile(programs) {
@@ -47,7 +64,7 @@ let getLastUpdate = function() {
 }`;
 
     fs.writeFileSync(dataFilePath, fileContents, encoding="utf-8"); 
-    commitAndPush();
+    checkLastCommit();
 }
 
 function formatResponse(response) {
