@@ -22,14 +22,11 @@ function execWithLog(command, callback) {
 }
 
 function commitAndPush() {
-    execWithLog("git commit --amend"); // Amend last data update
     execWithLog(`git add ${dataFilePath}`);
-    execWithLog(`git commit -m "Update API data"`); 
+    execWithLog(`git commit --amend -m "Update API data"`); // Amend last data update
 }
 
 function checkLastCommit() {
-    execWithLog("git fetch");
-    execWithLog("git pull"); 
     execWithLog("git log -1 --pretty=%B", (stdout) => {
         let lastCommitMessage = stdout.split("\n")[0]; 
         if (lastCommitMessage === "Update API data") {
@@ -42,6 +39,9 @@ function checkLastCommit() {
 }
 
 function writeFile(programs) {
+    execWithLog("git fetch");
+    execWithLog("git pull"); 
+
     let stringifiedPrograms = JSON.stringify(programs, null, 4); 
 
     // Add 4 spaces to the beginning of each line to keep the formatting
