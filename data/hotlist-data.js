@@ -1,5 +1,5 @@
 /* This file was generated via `node ../src/index.js` */
-/* Last update: Mon Jan 26 2026 22:02:46 GMT+0100 (Central European Standard Time) */
+/* Last update: Mon Jan 26 2026 22:16:07 GMT+0100 (Central European Standard Time) */
 let loadHotlistData = function() {
     return [
         {
@@ -23,6 +23,16 @@ let loadHotlistData = function() {
             "programType": "PJS"
         },
         {
+            "title": "Traffic Rush [CoC] [Rd1]",
+            "author": "Quantum Cat",
+            "votes": 34,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/traffic-rush-coc-rd1/5386921943089152/4630578068045824.png",
+            "link": "https://www.khanacademy.org/computer-programming/traffic-rush-coc-rd1/5386921943089152",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_9428127706426004539463954",
+            "programType": "PJS"
+        },
+        {
             "title": "Stumpt [CoC 2026 Rd1]",
             "author": "honeyghost",
             "votes": 53,
@@ -30,16 +40,6 @@ let loadHotlistData = function() {
             "thumbnail": "https://www.khanacademy.org/computer-programming/stumpt-coc-2026-rd1/5992560490823680/5757098908041216.png",
             "link": "https://www.khanacademy.org/computer-programming/stumpt-coc-2026-rd1/5992560490823680",
             "authorLink": "https://www.khanacademy.org/profile/kaid_381818316234075133568777",
-            "programType": "PJS"
-        },
-        {
-            "title": "Traffic Rush [CoC] [Rd1]",
-            "author": "Quantum Cat",
-            "votes": 33,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/traffic-rush-coc-rd1/5386921943089152/4630578068045824.png",
-            "link": "https://www.khanacademy.org/computer-programming/traffic-rush-coc-rd1/5386921943089152",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_9428127706426004539463954",
             "programType": "PJS"
         },
         {
@@ -83,6 +83,16 @@ let loadHotlistData = function() {
             "programType": "WEBPAGE"
         },
         {
+            "title": "The Final Flame [Ack r1]",
+            "author": "DebugRanger",
+            "votes": 16,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/the-final-flame-ack-r1/5663320578834432/6363673649594368.png",
+            "link": "https://www.khanacademy.org/computer-programming/the-final-flame-ack-r1/5663320578834432",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_578661680921733406040161",
+            "programType": "PJS"
+        },
+        {
             "title": "top 18644 ka programmer",
             "author": "cwalsh1223 ‮BBB#",
             "votes": 25,
@@ -90,16 +100,6 @@ let loadHotlistData = function() {
             "thumbnail": "https://www.khanacademy.org/computer-programming/top-18644-ka-programmer/4890582209642496/5196163294281728.png",
             "link": "https://www.khanacademy.org/computer-programming/top-18644-ka-programmer/4890582209642496",
             "authorLink": "https://www.khanacademy.org/profile/kaid_792288208072906614241148",
-            "programType": "PJS"
-        },
-        {
-            "title": "The Final Flame [Ack r1]",
-            "author": "DebugRanger",
-            "votes": 15,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/the-final-flame-ack-r1/5663320578834432/4957049001197568.png",
-            "link": "https://www.khanacademy.org/computer-programming/the-final-flame-ack-r1/5663320578834432",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_578661680921733406040161",
             "programType": "PJS"
         },
         {
@@ -183,6 +183,16 @@ let loadHotlistData = function() {
             "programType": "WEBPAGE"
         },
         {
+            "title": "Face Reveal! (jkjkjk)",
+            "author": "ΞRRΘR",
+            "votes": 8,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/face-reveal-jkjkjk/6162890438066176/5632082837094400.png",
+            "link": "https://www.khanacademy.org/computer-programming/face-reveal-jkjkjk/6162890438066176",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_1034623691514393299146464",
+            "programType": "PJS"
+        },
+        {
             "title": "Funsies",
             "author": "Bean",
             "votes": 18,
@@ -200,16 +210,6 @@ let loadHotlistData = function() {
             "thumbnail": "https://www.khanacademy.org/computer-programming/incredible-optical-illusion/6174846888820736/6133158661177344.png",
             "link": "https://www.khanacademy.org/computer-programming/incredible-optical-illusion/6174846888820736",
             "authorLink": "https://www.khanacademy.org/profile/kaid_606375491131266526437277",
-            "programType": "PJS"
-        },
-        {
-            "title": "Face Reveal! (jkjkjk)",
-            "author": "ΞRRΘR",
-            "votes": 7,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/face-reveal-jkjkjk/6162890438066176/5632082837094400.png",
-            "link": "https://www.khanacademy.org/computer-programming/face-reveal-jkjkjk/6162890438066176",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_1034623691514393299146464",
             "programType": "PJS"
         },
         {
@@ -337,7 +337,7 @@ let loadHotlistData = function() {
             "author": "I NEED SLEEP",
             "votes": 4,
             "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/6179789792198656/6332254822973440.png",
+            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/6179789792198656/6613764763402240.png",
             "link": "https://www.khanacademy.org/computer-programming/new-program/6179789792198656",
             "authorLink": "https://www.khanacademy.org/profile/kaid_610511132221571924356573",
             "programType": "PJS"
@@ -427,7 +427,7 @@ let loadHotlistData = function() {
             "author": "m.c. begam",
             "votes": 3,
             "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/wasd-demo/6025707999838208/6368554812817408.png",
+            "thumbnail": "https://www.khanacademy.org/computer-programming/wasd-demo/6025707999838208/4933718982115328.png",
             "link": "https://www.khanacademy.org/computer-programming/wasd-demo/6025707999838208",
             "authorLink": "https://www.khanacademy.org/profile/kaid_264591372920442537580611",
             "programType": "PJS"
@@ -577,7 +577,7 @@ let loadHotlistData = function() {
             "author": "Laken Livingstone",
             "votes": 2,
             "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/4530089095708672/5576580291739648.png",
+            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/4530089095708672/5979852756336640.png",
             "link": "https://www.khanacademy.org/computer-programming/new-program/4530089095708672",
             "authorLink": "https://www.khanacademy.org/profile/kaid_798719133017164706082428",
             "programType": "PJS"
@@ -653,6 +653,16 @@ let loadHotlistData = function() {
             "programType": "PJS"
         },
         {
+            "title": "Coin Flipper",
+            "author": "Henri Stucki",
+            "votes": 2,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/coin-flipper/4947297856765952/5957505773060096.png",
+            "link": "https://www.khanacademy.org/python-program/coin-flipper/4947297856765952",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_781901526889606895930557",
+            "programType": "PYTHON"
+        },
+        {
             "title": "New webpage",
             "author": "CobraLily🐍🪷",
             "votes": 7,
@@ -693,12 +703,12 @@ let loadHotlistData = function() {
             "programType": "PJS"
         },
         {
-            "title": "New program",
+            "title": "CAT!",
             "author": "Chad King 67",
             "votes": 3,
             "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/5879446218850304/5834438182813696.png",
-            "link": "https://www.khanacademy.org/computer-programming/new-program/5879446218850304",
+            "thumbnail": "https://www.khanacademy.org/computer-programming/cat/5879446218850304/5548849030086656.png",
+            "link": "https://www.khanacademy.org/computer-programming/cat/5879446218850304",
             "authorLink": "https://www.khanacademy.org/profile/kaid_1128052385264541956459344",
             "programType": "PJS"
         },
@@ -823,6 +833,16 @@ let loadHotlistData = function() {
             "programType": "WEBPAGE"
         },
         {
+            "title": "New program",
+            "author": "𝒮𝓂é𝒶𝑔𝑜𝓁",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/new-program/5741052172025856/6549695192743936.png",
+            "link": "https://www.khanacademy.org/computer-programming/new-program/5741052172025856",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_9072327922342976241122316",
+            "programType": "PJS"
+        },
+        {
             "title": "Voidline [DEMO]",
             "author": "NL",
             "votes": 105,
@@ -833,11 +853,121 @@ let loadHotlistData = function() {
             "programType": "PJS"
         },
         {
+            "title": "Spin-off of \"HTML basics\"",
+            "author": "Adrian Campbell",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4876414748311552/5740047283896320.png",
+            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/4876414748311552",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_1085325612114015551920736",
+            "programType": "WEBPAGE"
+        },
+        {
+            "title": "Hi",
+            "author": "Zygarde Guy",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/hi/6224703338954752/4962647331684352.png",
+            "link": "https://www.khanacademy.org/python-program/hi/6224703338954752",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_584924283509988551776241",
+            "programType": "PYTHON"
+        },
+        {
+            "title": "course recommendation engine by Issy Ruby",
+            "author": "Issy Ruby",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/course-recommendation-engine-by-issy-ruby/6167160306647040/5029874709938176.png",
+            "link": "https://www.khanacademy.org/python-program/course-recommendation-engine-by-issy-ruby/6167160306647040",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_6600212095541370031001764",
+            "programType": "PYTHON"
+        },
+        {
+            "title": "Derivado de \"Desafío: lista de deseos\"",
+            "author": "Miriam Dheouir",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5640490814390272/5608976827400192.png",
+            "link": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/5640490814390272",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_382137744610410549548821",
+            "programType": "WEBPAGE"
+        },
+        {
+            "title": "Spin-off of \"Challenge: Book list database\"",
+            "author": "Md  Yousuf",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5698928676290560/5828152229740544.png",
+            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/5698928676290560",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_481800992779385459335855",
+            "programType": "SQL"
+        },
+        {
+            "title": "song recommendation",
+            "author": "Ashleigh Cochran",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/song-recommendation/5546685465477120/5899782914162688.png",
+            "link": "https://www.khanacademy.org/python-program/song-recommendation/5546685465477120",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_427957313401455239764695",
+            "programType": "PYTHON"
+        },
+        {
+            "title": "Hi ",
+            "author": "Zygarde Guy",
+            "votes": 1,
+            "forks": 1,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/hi/6280215279550464/6034836818608128.png",
+            "link": "https://www.khanacademy.org/python-program/hi/6280215279550464",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_584924283509988551776241",
+            "programType": "PYTHON"
+        },
+        {
+            "title": "Spin-off of \"Resizing shapes with variable expressions\"",
+            "author": "Alex Mudhar",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6417947473592320/5933139752501248.png",
+            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-resizing-shapes-with-variable-expressions/6417947473592320",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_474554506790979114971345",
+            "programType": "PJS"
+        },
+        {
+            "title": "Derivado de \"Proyecto: estrella fugaz\"",
+            "author": "enviosil2004",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6576684230361088/4515070693982208.png",
+            "link": "https://www.khanacademy.org/computer-programming/derivado-de-proyecto-estrella-fugaz/6576684230361088",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_643362586053470865129336",
+            "programType": "PJS"
+        },
+        {
+            "title": "Mountain Backdrop (UFS)",
+            "author": "Sebi",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/mountain-backdrop-ufs/6669281510670336/5668048599629824.png",
+            "link": "https://www.khanacademy.org/computer-programming/mountain-backdrop-ufs/6669281510670336",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_1123927025694127482578821",
+            "programType": "PJS"
+        },
+        {
+            "title": "Inspirováno programem \"Projekt: návrh databáze obchodu\"",
+            "author": "Lada Štempelová",
+            "votes": 1,
+            "forks": 0,
+            "thumbnail": "https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6733216486113280/4738420510932992.png",
+            "link": "https://www.khanacademy.org/computer-programming/inspirovno-programem-projekt-nvrh-databze-obchodu/6733216486113280",
+            "authorLink": "https://www.khanacademy.org/profile/kaid_849576533837026823227029",
+            "programType": "SQL"
+        },
+        {
             "title": "Hurry hurry",
             "author": "The Former Wizard of Oz",
             "votes": 1,
             "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/hurry-hurry/4536400415932416/6532287086313472.png",
+            "thumbnail": "https://www.khanacademy.org/computer-programming/hurry-hurry/4536400415932416/5526071744774144.png",
             "link": "https://www.khanacademy.org/computer-programming/hurry-hurry/4536400415932416",
             "authorLink": "https://www.khanacademy.org/profile/kaid_981854986090143486946241",
             "programType": "PJS"
@@ -871,140 +1001,10 @@ let loadHotlistData = function() {
             "link": "https://www.khanacademy.org/computer-programming/sophia-fuggler-vampire/5932817361518592",
             "authorLink": "https://www.khanacademy.org/profile/kaid_505734046507295276699813",
             "programType": "PJS"
-        },
-        {
-            "title": "Spin-off of \"Making drawings with code\"",
-            "author": "Zarina Aikebaer",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5845523224969216/6394395550662656.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5845523224969216",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_629476762976217035175881",
-            "programType": "PJS"
-        },
-        {
-            "title": "Spin-off of \"List of Mythical Creatures\"",
-            "author": "14209",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-list-of-mythical-creatures/5969337132892160/5187311299575808.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-list-of-mythical-creatures/5969337132892160",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_574753888158337103198162",
-            "programType": "WEBPAGE"
-        },
-        {
-            "title": "Spin-off of \"Challenge: Book list database\"",
-            "author": "Sadiq Ahmad",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6153206385721344/6116594851364864.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-challenge-book-list-database/6153206385721344",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_789507445796226577183917",
-            "programType": "SQL"
-        },
-        {
-            "title": "Derivado de \"Desafío: día nevado soleado\"",
-            "author": "masaiepico",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5899442269569024/5845809914036224.png",
-            "link": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-da-nevado-soleado/5899442269569024",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_537899746075261901947064",
-            "programType": "PJS"
-        },
-        {
-            "title": "Fill_Game",
-            "author": "Tong Dan",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/fill_game/4934422685663232/4633487774171136.png",
-            "link": "https://www.khanacademy.org/python-program/fill_game/4934422685663232",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_782076935468275869957695",
-            "programType": "PYTHON"
-        },
-        {
-            "title": "Derivado de \"Desafío: un viaje de ensueño\"",
-            "author": "carlota.ger",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4763265579728896/6218938955972608.png",
-            "link": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-un-viaje-de-ensueo/4763265579728896",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_196730493814227775266414",
-            "programType": "WEBPAGE"
-        },
-        {
-            "title": "Spin-off of \"Project: What's for dinner?\"",
-            "author": "poopy head",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5951084285247488/4583809472905216.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5951084285247488",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_324614422529693874090810",
-            "programType": "PJS"
-        },
-        {
-            "title": "Spin-off of \"Project: Animal attack\"",
-            "author": "jolenek",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6065843772964864/6115995770535936.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6065843772964864",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_131828545331122165050425",
-            "programType": "PJS"
-        },
-        {
-            "title": "cat",
-            "author": "Chloe  Gan",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/cat/6453020042313728/5268495643820032.png",
-            "link": "https://www.khanacademy.org/computer-programming/cat/6453020042313728",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_191868563193945115652456",
-            "programType": "PJS"
-        },
-        {
-            "title": "Spin-off of \"Project: Shooting star\"",
-            "author": "cpilon",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6106189647167488/5239346170544128.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6106189647167488",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_886284778572996406582163",
-            "programType": "PJS"
-        },
-        {
-            "title": "Derivado de \"Desafío: lista de deseos\"",
-            "author": "carlota.ger",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4851567867576320/5517716254998528.png",
-            "link": "https://www.khanacademy.org/computer-programming/derivado-de-desafo-lista-de-deseos/4851567867576320",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_196730493814227775266414",
-            "programType": "WEBPAGE"
-        },
-        {
-            "title": "Spin-off of \"HTML basics\"",
-            "author": "jsnunezreinoso",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5510296220844032/4553885496229888.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-html-basics/5510296220844032",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_941116429881373530526712",
-            "programType": "WEBPAGE"
-        },
-        {
-            "title": "Spin-off of \"Project: Travel webpage\" Kayla F",
-            "author": "kforbes3",
-            "votes": 1,
-            "forks": 0,
-            "thumbnail": "https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-kayla-f/6258942751129600/5176626360467456.png",
-            "link": "https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage-kayla-f/6258942751129600",
-            "authorLink": "https://www.khanacademy.org/profile/kaid_434604658380826296039983",
-            "programType": "WEBPAGE"
         }
     ];
 }
     
 let getLastUpdate = function() {
-    return new Date("Mon Jan 26 2026 22:02:45 GMT+0100 (Central European Standard Time)"); 
+    return new Date("Mon Jan 26 2026 22:16:07 GMT+0100 (Central European Standard Time)"); 
 }
