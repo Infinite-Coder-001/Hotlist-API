@@ -1,6 +1,7 @@
 const { exec } = require("child_process");
 const fs = require("fs"); 
 const path = require("path"); 
+require('dotenv').config();
 
 const dataFilePath = path.resolve(__dirname, "../data/hotlist-data.js"); 
 
