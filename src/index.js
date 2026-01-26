@@ -24,6 +24,7 @@ function execWithLog(command, callback) {
 function commitAndPush() {
     execWithLog(`git add ${dataFilePath}`);
     execWithLog(`git commit --amend -m "Update API data"`); // Amend last data update
+    execWithLog(`git push --force-with-lease`); // Force push
 }
 
 function checkLastCommit() {
@@ -39,9 +40,6 @@ function checkLastCommit() {
 }
 
 function writeFile(programs) {
-    execWithLog("git fetch");
-    execWithLog("git pull"); 
-
     let stringifiedPrograms = JSON.stringify(programs, null, 4); 
 
     // Add 4 spaces to the beginning of each line to keep the formatting
