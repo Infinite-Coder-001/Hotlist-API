@@ -1,5 +1,5 @@
 /* This file was generated via `node ../src/index.js` */
-/* Last update: Mon Jan 26 2026 21:54:29 GMT+0100 (Central European Standard Time) */
+/* Last update: Mon Jan 26 2026 21:58:44 GMT+0100 (Central European Standard Time) */
 let loadHotlistData = function() {
     return [
         {
@@ -1006,5 +1006,5 @@ let loadHotlistData = function() {
 }
     
 let getLastUpdate = function() {
-    return new Date("Mon Jan 26 2026 21:54:28 GMT+0100 (Central European Standard Time)"); 
+    return new Date("Mon Jan 26 2026 21:58:44 GMT+0100 (Central European Standard Time)"); 
 }
