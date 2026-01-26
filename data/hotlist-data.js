@@ -1,5 +1,5 @@
 /* This file was generated via `node ../src/index.js` */
-/* Last update: Mon Jan 26 2026 22:02:45 GMT+0100 (Central European Standard Time) */
+/* Last update: Mon Jan 26 2026 22:02:46 GMT+0100 (Central European Standard Time) */
 let loadHotlistData = function() {
     return [
         {
